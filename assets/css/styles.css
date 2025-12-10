@@ -402,3 +402,444 @@ body {
 .mb-20 {
     margin-bottom: 20px;
 }
+/* ============================================
+   THÈME MINECRAFT - SandCraft Wiki
+   ============================================ */
+
+/* --------------------------------------------------
+   1. POLICES & FOND
+   -------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    font-family: 'Press Start 2P', cursive, monospace;
+    background: 
+        /* Texture de pierre */
+        url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjN2E2YjVlIi8+CiAgPHJlY3Qgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjg1YzQ5IiB4PSIyMCIgeT0iMjAiLz4KICA8cmVjdCB3aWR0aD0iOCIgaGVpZ2h0PSI4IiBmaWxsPSIjNWM0YjM4IiB4PSIzNSIgeT0iMTAiLz4KPC9zdmc+'),
+        /* Dégradé sombre */
+        linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    background-blend-mode: overlay;
+    color: #f0f0f0;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
+
+/* --------------------------------------------------
+   2. CONTENEURS STYLE BOIS/MINECRAFT
+   -------------------------------------------------- */
+
+/* Conteneur principal style coffre */
+.container {
+    background-color: #8b7355; /* Couleur planche de chêne */
+    border: 8px solid transparent;
+    border-image: 
+        /* Bordure style coffre Minecraft */
+        url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+CiAgPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjQzY5NDQ5Ii8+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjODczNTM1IiB4PSI0IiB5PSI0Ii8+Cjwvc3ZnPg==') 
+        8 stretch;
+    box-shadow: 
+        0 0 0 4px #5d4037,
+        8px 8px 0px rgba(0, 0, 0, 0.5),
+        inset 0 0 20px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+/* Header style bannière Minecraft */
+.site-header {
+    background: 
+        /* Texture bois */
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzZBNEMxIi8+CiAgPHBhdGggZD0iTTAgMGg1MHY1MEgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOUI3RjM2IiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+'),
+        linear-gradient(to bottom, #8b5a2b, #6b4423);
+    border: 6px solid #5d4037;
+    border-image: 
+        /* Bordure planches */
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjN0E2QjVFIi8+CiAgPHBhdGggZD0iTTAgMGgxNnYxNkgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTZBNEMxIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+')
+        6 stretch;
+    text-shadow: 2px 2px #000000;
+    position: relative;
+    overflow: hidden;
+}
+
+.site-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, 
+        transparent 0%, 
+        #ffd700 25%, 
+        #ffd700 75%, 
+        transparent 100%);
+    z-index: 1;
+}
+
+/* Titre avec effet pixel */
+.site-title {
+    font-size: 2.8rem;
+    color: #ffd700; /* Or Minecraft */
+    text-shadow: 
+        3px 3px 0 #8b7355,
+        6px 6px 0 #000000;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.site-title::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, 
+        transparent, 
+        #ffd700, 
+        transparent);
+}
+
+/* --------------------------------------------------
+   3. CARTES DE CATÉGORIES STYLE COFFRE
+   -------------------------------------------------- */
+.category-card {
+    background: 
+        /* Texture planche */
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzZBNEMxIi8+CiAgPHBhdGggZD0iTTAgMGg1MHY1MEgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOUI3RjM2IiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+'),
+        linear-gradient(135deg, #a87848 0%, #8b5a2b 100%);
+    border: 6px solid #5d4037;
+    border-image: 
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjN0E2QjVFIi8+CiAgPHBhdGggZD0iTTAgMGgxNnYxNkgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTZBNEMxIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+')
+        6 stretch;
+    box-shadow: 
+        4px 4px 0px #5d4037,
+        8px 8px 0px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.category-card:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 
+        6px 6px 0px #5d4037,
+        12px 12px 0px rgba(0, 0, 0, 0.3);
+    border-color: #ffd700;
+}
+
+/* Effet de lumière sur hover */
+.category-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        45deg,
+        transparent 30%,
+        rgba(255, 215, 0, 0.1) 50%,
+        transparent 70%
+    );
+    transform: rotate(45deg);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.category-card:hover::before {
+    opacity: 1;
+}
+
+/* Icônes des catégories */
+.category-icon {
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 0 #000000;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    padding: 10px;
+    border: 2px solid #5d4037;
+    display: inline-block;
+}
+
+/* Titres des catégories */
+.category-title {
+    color: #ffd700;
+    text-shadow: 2px 2px 0 #000000;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #5d4037;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* --------------------------------------------------
+   4. BOUTONS STYLE MINECRAFT
+   -------------------------------------------------- */
+.btn {
+    font-family: 'Press Start 2P', cursive;
+    border: 4px solid transparent;
+    border-image: 
+        /* Bordure bouton Minecraft */
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjNDc0QjQ3Ii8+CiAgPHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjOUI3RjM2IiB4PSIyIiB5PSIyIi8+Cjwvc3ZnPg==')
+        4 stretch;
+    background: linear-gradient(to bottom, #7cb342, #5a8c29);
+    color: white;
+    text-shadow: 1px 1px #000000;
+    padding: 12px 24px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.1s ease;
+    box-shadow: 2px 2px 0px #000000;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn:hover {
+    transform: translate(1px, 1px);
+    box-shadow: 1px 1px 0px #000000;
+    background: linear-gradient(to bottom, #8bc34a, #689f38);
+}
+
+.btn:active {
+    transform: translate(2px, 2px);
+    box-shadow: 0px 0px 0px #000000;
+}
+
+/* Bouton primaire (vert Minecraft) */
+.btn-primary {
+    background: linear-gradient(to bottom, #7cb342, #5a8c29);
+    border-image-source: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjMzc0NzM3Ii8+CiAgPHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjN0NCMzQyIiB4PSIyIiB5PSIyIi8+Cjwvc3ZnPg==');
+}
+
+/* Bouton secondaire (pierre) */
+.btn-secondary {
+    background: linear-gradient(to bottom, #9e9e9e, #757575);
+    border-image-source: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjNDc0QjQ3Ii8+CiAgPHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjOUU5RTlFIiB4PSIyIiB5PSIyIi8+Cjwvc3ZnPg==');
+}
+
+/* --------------------------------------------------
+   5. SIDEBAR STYLE PLANCHES
+   -------------------------------------------------- */
+.sidebar {
+    background: 
+        url('data:image/svg+xml;base64,PHN2ZyB3aHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzZBNEMxIi8+CiAgPHBhdGggZD0iTTAgMGg1MHY1MEgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOUI3RjM2IiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+'),
+        linear-gradient(135deg, #a87848 0%, #8b5a2b 100%);
+    border: 6px solid #5d4037;
+    border-image: 
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjN0E2QjVFIi8+CiAgPHBhdGggZD0iTTAgMGgxNnYxNkgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTZBNEMxIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+')
+        6 stretch;
+    box-shadow: 4px 4px 0px #5d4037;
+}
+
+/* --------------------------------------------------
+   6. FORMULAIRES STYLE TABLEAU CRAFT
+   -------------------------------------------------- */
+.form-group input,
+.form-group textarea,
+.form-group select {
+    background: #8b7355;
+    border: 3px solid #5d4037;
+    color: #f0f0f0;
+    font-family: 'Press Start 2P', cursive;
+    padding: 10px;
+    box-shadow: inset 2px 2px 0px #000000;
+}
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+    border-color: #ffd700;
+    outline: none;
+    box-shadow: 
+        inset 2px 2px 0px #000000,
+        0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+/* --------------------------------------------------
+   7. MODALS STYLE COFFRE
+   -------------------------------------------------- */
+.modal-content {
+    background: 
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzZBNEMxIi8+CiAgPHBhdGggZD0iTTAgMGg1MHY1MEgweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOUI3RjM2IiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+'),
+        linear-gradient(135deg, #8b5a2b 0%, #6b4423 100%);
+    border: 12px solid transparent;
+    border-image: 
+        url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjQzY5NDQ5Ii8+CiAgPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjODczNTM1IiB4PSI0IiB5PSI0Ii8+Cjwvc3ZnPg==') 
+        12 stretch;
+    box-shadow: 
+        0 0 0 6px #5d4037,
+        12px 12px 0px rgba(0, 0, 0, 0.5);
+}
+
+/* --------------------------------------------------
+   8. TABLEAUX STYLE GRID CRAFT
+   -------------------------------------------------- */
+.mod-table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 4px solid #5d4037;
+}
+
+.mod-table th {
+    background: linear-gradient(to bottom, #7cb342, #5a8c29);
+    color: white;
+    text-shadow: 1px 1px #000000;
+    border: 2px solid #5d4037;
+    padding: 12px;
+}
+
+.mod-table td {
+    background: #8b7355;
+    border: 2px solid #5d4037;
+    padding: 10px;
+}
+
+.mod-table tr:nth-child(even) td {
+    background: #a87848;
+}
+
+/* --------------------------------------------------
+   9. TAGS STYLE ÉTUIQUETTES
+   -------------------------------------------------- */
+.tag {
+    background: linear-gradient(to bottom, #7cb342, #5a8c29);
+    border: 2px solid #5d4037;
+    color: white;
+    text-shadow: 1px 1px #000000;
+    padding: 4px 8px;
+    border-radius: 0;
+    font-size: 0.8rem;
+    display: inline-block;
+    margin: 2px;
+    box-shadow: 1px 1px 0px #000000;
+}
+
+/* --------------------------------------------------
+   10. SCROLLBAR STYLE MINECRAFT
+   -------------------------------------------------- */
+::-webkit-scrollbar {
+    width: 16px;
+    background: #5d4037;
+}
+
+::-webkit-scrollbar-track {
+    background: #8b7355;
+    border: 2px solid #5d4037;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom, #7cb342, #5a8c29);
+    border: 2px solid #5d4037;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(to bottom, #8bc34a, #689f38);
+}
+
+/* --------------------------------------------------
+   11. ANIMATIONS PIXEL
+   -------------------------------------------------- */
+@keyframes pixelGlow {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+}
+
+.pixel-glow {
+    animation: pixelGlow 2s ease-in-out infinite;
+}
+
+/* --------------------------------------------------
+   12. RESPONSIVE POUR MINECRAFT
+   -------------------------------------------------- */
+@media (max-width: 768px) {
+    .site-title {
+        font-size: 1.8rem;
+    }
+    
+    .category-card {
+        border-width: 4px;
+    }
+    
+    .btn {
+        padding: 8px 16px;
+        font-size: 0.7rem;
+    }
+}
+
+/* --------------------------------------------------
+   13. EFFETS SPÉCIAUX
+   -------------------------------------------------- */
+.minecraft-border {
+    position: relative;
+}
+
+.minecraft-border::after {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    border: 2px solid #ffd700;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Texture de redstone pour les éléments actifs */
+.active {
+    position: relative;
+    overflow: hidden;
+}
+
+.active::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, 
+        transparent, 
+        #ff5555, 
+        transparent);
+    animation: redstonePulse 1.5s ease-in-out infinite;
+}
+
+@keyframes redstonePulse {
+    0%, 100% { opacity: 0.3; }
+    50% { opacity: 1; }
+}
+
+/* --------------------------------------------------
+   14. LOADING SCREEN STYLE MINECRAFT
+   -------------------------------------------------- */
+.loading {
+    background: #1a1a1a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.loading-spinner {
+    width: 64px;
+    height: 64px;
+    border: 8px solid #5d4037;
+    border-top: 8px solid #ffd700;
+    border-radius: 0;
+    animation: minecraftSpin 1s linear infinite;
+    margin-bottom: 20px;
+}
+
+@keyframes minecraftSpin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading span {
+    color: #ffd700;
+    font-size: 1.2rem;
+    text-shadow: 2px 2px #000000;
+    letter-spacing: 2px;
+}
