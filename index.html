@@ -1,1 +1,249 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SandCraft Wiki</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="fas fa-cube"></i> SandCraft Wiki</h1>
+            <p>Gestionnaire d'extensions, mods et guides</p>
+        </header>
 
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h3><i class="fas fa-search"></i> Recherche</h3>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Rechercher une extension...">
+                    <button id="searchButton"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h3><i class="fas fa-filter"></i> Filtres</h3>
+                <div class="filter-group">
+                    <label for="categoryFilter">Catégorie:</label>
+                    <select id="categoryFilter">
+                        <option value="">Toutes les catégories</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="tagFilter">Tag:</label>
+                    <select id="tagFilter">
+                        <option value="">Tous les tags</option>
+                    </select>
+                </div>
+                <button id="resetFilters" class="btn-secondary">
+                    <i class="fas fa-redo"></i> Réinitialiser
+                </button>
+            </div>
+
+            <div class="sidebar-section">
+                <h3><i class="fas fa-bolt"></i> Actions Rapides</h3>
+                <button id="showAll" class="btn-primary">
+                    <i class="fas fa-list"></i> Voir toutes les extensions
+                </button>
+                <button id="createModBtn" class="btn-success">
+                    <i class="fas fa-plus"></i> Créer un Mod
+                </button>
+                <button id="createGuideBtn" class="btn-info">
+                    <i class="fas fa-book"></i> Créer un Guide
+                </button>
+            </div>
+
+            <div class="sidebar-section stats">
+                <h3><i class="fas fa-chart-bar"></i> Statistiques</h3>
+                <div class="stat-item">
+                    <span>Extensions:</span>
+                    <span id="extensionCount">0</span>
+                </div>
+                <div class="stat-item">
+                    <span>Mods:</span>
+                    <span id="modCount">0</span>
+                </div>
+                <div class="stat-item">
+                    <span>Guides:</span>
+                    <span id="guideCount">0</span>
+                </div>
+            </div>
+        </aside>
+              <!-- Main Content -->
+        <main class="main-content">
+            <!-- Onglets de navigation -->
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="extensions">
+                    <i class="fas fa-puzzle-piece"></i> Extensions
+                </button>
+                <button class="tab-btn" data-tab="mods">
+                    <i class="fas fa-tools"></i> Mods
+                </button>
+                <button class="tab-btn" data-tab="guides">
+                    <i class="fas fa-book"></i> Guides
+                </button>
+            </div>
+
+            <!-- Section Extensions -->
+            <div id="extensions" class="tab-content active">
+                <h2><i class="fas fa-puzzle-piece"></i> Extensions Disponibles</h2>
+                <div class="controls">
+                    <div class="view-toggle">
+                        <button class="view-option active" data-view="grid">
+                            <i class="fas fa-th"></i> Grille
+                        </button>
+                        <button class="view-option" data-view="list">
+                            <i class="fas fa-list"></i> Liste
+                        </button>
+                    </div>
+                    <div class="sort-controls">
+                        <select id="sortSelect">
+                            <option value="name">Trier par: Nom</option>
+                            <option value="date">Trier par: Date</option>
+                            <option value="popularity">Trier par: Popularité</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="extensionsList" class="grid-view">
+                    <!-- Les extensions s'afficheront ici dynamiquement -->
+                </div>
+            </div>
+
+            <!-- Section Mods -->
+            <div id="mods" class="tab-content">
+                <h2><i class="fas fa-tools"></i> Mods Créés</h2>
+                <div id="modsList" class="mods-container">
+                    <!-- Les mods s'afficheront ici dynamiquement -->
+                </div>
+            </div>
+
+            <!-- Section Guides -->
+            <div id="guides" class="tab-content">
+                <h2><i class="fas fa-book"></i> Guides</h2>
+                <div id="guidesList" class="guides-container">
+                    <!-- Les guides s'afficheront ici dynamiquement -->
+                </div>
+            </div>
+
+            <!-- Formulaire de création de Mod (caché par défaut) -->
+            <div id="createModForm" class="modal" style="display: none;">
+                <div class="modal-content">
+                    <h2><i class="fas fa-plus"></i> Créer un Nouveau Mod</h2>
+                    <form id="modForm">
+                        <div class="form-group">
+                            <label for="modName">Nom du Mod *</label>
+                            <input type="text" id="modName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="modDescription">Description</label>
+                            <textarea id="modDescription" rows="3"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="modVersion">Version</label>
+                            <input type="text" id="modVersion" placeholder="1.0.0">
+                        </div>
+                        <div class="form-group">
+                            <label for="modAuthor">Auteur</label>
+                            <input type="text" id="modAuthor">
+                        </div>
+                        <div class="form-group">
+                            <label for="modExtensions">Extensions utilisées</label>
+                            <select id="modExtensions" multiple>
+                                <!-- Options chargées dynamiquement -->
+                            </select>
+                            <small>Sélectionnez avec Ctrl/Cmd</small>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn-success">
+                                <i class="fas fa-save"></i> Enregistrer
+                            </button>
+                            <button type="button" id="cancelMod" class="btn-secondary">
+                                <i class="fas fa-times"></i> Annuler
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+                      <!-- Formulaire de création de Guide (caché par défaut) -->
+            <div id="createGuideForm" class="modal" style="display: none;">
+                <div class="modal-content">
+                    <h2><i class="fas fa-book-medical"></i> Créer un Nouveau Guide</h2>
+                    <form id="guideForm">
+                        <div class="form-group">
+                            <label for="guideTitle">Titre du Guide *</label>
+                            <input type="text" id="guideTitle" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="guideContent">Contenu</label>
+                            <textarea id="guideContent" rows="6" placeholder="Décrivez votre guide ici..."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="guideCategory">Catégorie</label>
+                            <select id="guideCategory">
+                                <option value="tutoriel">Tutoriel</option>
+                                <option value="reference">Référence</option>
+                                <option value="astuce">Astuce</option>
+                                <option value="avance">Avancé</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="guideTags">Tags</label>
+                            <input type="text" id="guideTags" placeholder="tag1, tag2, tag3">
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn-success">
+                                <i class="fas fa-save"></i> Enregistrer
+                            </button>
+                            <button type="button" id="cancelGuide" class="btn-secondary">
+                                <i class="fas fa-times"></i> Annuler
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Modal de détails (caché par défaut) -->
+            <div id="detailModal" class="modal" style="display: none;">
+                <div class="modal-content">
+                    <div id="detailContent">
+                        <!-- Contenu chargé dynamiquement -->
+                    </div>
+                    <button id="closeDetail" class="btn-secondary">
+                        <i class="fas fa-times"></i> Fermer
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>SandCraft Wiki &copy; 2024 - Gestion des extensions, mods et guides</p>
+            <div class="footer-links">
+                <button id="exportData" class="btn-small">
+                    <i class="fas fa-download"></i> Exporter
+                </button>
+                <button id="importData" class="btn-small">
+                    <i class="fas fa-upload"></i> Importer
+                </button>
+                <button id="clearData" class="btn-small btn-danger">
+                    <i class="fas fa-trash"></i> Tout effacer
+                </button>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="database.js"></script>
+    <script src="search.js"></script>
+    <script>
+        // Script d'initialisation sera ajouté ici
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('SandCraft Wiki chargé !');
+        });
+    </script>
+</body>
+</html>
