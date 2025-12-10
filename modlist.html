@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tous les Mods - SandCraft Wiki</title>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        /* Styles spécifiques à la page modlist */
+        .modlist-page {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .page-header {
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .back-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            color: #00dbde;
+            text-decoration: none;
+            margin-bottom: 20px;
+            padding: 10px 20px;
+            background: rgba(0, 219, 222, 0.1);
+            border-radius: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        .back-button:hover {
+            background: rgba(0, 219, 222, 0.2);
+            transform: translateX(-5px);
+        }
+        
+        .table-controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .export-buttons {
+            display: flex;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="modlist-page">
+        <!-- En-tête de page -->
+        <header class="page-header">
+            <a href="./" class="back-button">
+                <i class="fas fa-arrow-left"></i>
+                Retour à l'accueil
+            </a>
+            
+            <h1>
+                <i class="fas fa-list"></i>
+                Tous les Mods du Wiki
+            </h1>
+            
+            <p class="page-description">
+                Liste complète de tous les mods disponibles sur le serveur SandCraft.
+                Utilisez les filtres pour trouver rapidement ce que vous cherchez.
+            </p>
+            
+            <!-- Navigation -->
+            <nav class="page-nav">
+                <a href="./" class="nav-btn">
+                    <i class="fas fa-home"></i> Accueil
+                </a>
+                <a href="./create.html" class="nav-btn">
+                    <i class="fas fa-plus-circle"></i> Ajouter
+                </a>
+                <a href="./guides.html" class="nav-btn">
+                    <i class="fas fa-book"></i> Guides
+                </a>
+                <span class="nav-btn active">
+                    <i class="fas fa-list"></i> Tous les Mods
+                </span>
+            </nav>
+        </header>
+        
+        <!-- Contrôles du tableau -->
+        <div class="table-controls">
+            <div class="search-container">
+                <div class="search-box">
+                    <input type="text" 
+                           id="modlistSearch" 
+                           class="search-input"
+                           placeholder="Rechercher un mod...">
+                    <button class="btn btn-primary" id="modlistSearchBtn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                
+                <div class="quick-filters">
+                    <select id="quickCategoryFilter" class="filter-select">
+                        <option value="">Toutes catégories</option>
+                        <!-- Rempli dynamiquement -->
+                    </select>
+                    
+                    <select id="quickTagFilter" class="filter-select">
+                        <option value="">Tous tags</option>
+                        <!-- Rempli dynamiquement -->
+                    </select>
+                </div>
+            </div>
+            
+            <div class="export-buttons">
+                <button class="btn btn-secondary" id="exportCSVBtn">
+                    <i class="fas fa-file-csv"></i> CSV
+                </button>
+                <button class="btn btn-secondary" id="exportJSONBtn">
+                    <i class="fas fa-file-code"></i> JSON
+                </button>
+                <button class="btn btn-primary" id="printTableBtn">
+                    <i class="fas fa-print"></i> Imprimer
+                </button>
+            </div>
+        </div>
+        
+        <!-- Statistiques -->
+        <div class="stats-bar">
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-box"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-value" id="totalModsDisplay">0</span>
+                    <span class="stat-label">Mods au total</span>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-layer-group"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-value" id="visibleModsDisplay">0</span>
+                    <span class="stat-label">Mods affichés</span>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-tags"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-value" id="uniqueTagsDisplay">0</span>
+                    <span class="stat-label">Tags uniques</span>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-calendar-alt"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-value" id="lastUpdateDisplay">--</span>
+                    <span class="stat-label">Mise à jour</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Tableau des mods -->
+        <div class="table-container">
+            <table class="mods-table" id="allModsTable">
+                <thead>
+                    <tr>
+                        <th data-sort="name">
+                            <span>Nom <i class="fas fa-sort"></i></span>
+                        </th>
+                        <th data-sort="category">
+                            <span>Catégorie <i class="fas fa-sort"></i></span>
+                        </th>
+                        <th data-sort="author">
+                            <span>Auteur <i class="fas fa-sort"></i></span>
+                        </th>
+                        <th data-sort="version">
+                            <span>Version <i class="fas fa-sort"></i></span>
+                        </th>
+                        <th>Description</th>
+                        <th>Tags</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="modsTableBody">
+                    <!-- Rempli dynamiquement -->
+                    <tr class="loading-row">
+                        <td colspan="7">
+                            <div class="loading-indicator">
+                                <div class="loading-spinner"></div>
+                                <span>Chargement des mods...</span>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Pagination -->
+        <div class="pagination-container" id="modlistPagination">
+            <div class="pagination-info">
+                Affichage de <span id="startRow">1</span> à <span id="endRow">10</span> 
+                sur <span id="totalRows">0</span> mods
+            </div>
+            
+            <div class="pagination-controls">
+                <button class="pagination-btn" id="firstPageBtn" disabled>
+                    <i class="fas fa-angle-double-left"></i>
+                </button>
+                <button class="pagination-btn" id="prevPageBtn" disabled>
+                    <i class="fas fa-angle-left"></i>
+                </button>
+                
+                <div class="page-numbers" id="pageNumbers">
+                    <span class="page-number active">1</span>
+                </div>
+                
+                <button class="pagination-btn" id="nextPageBtn">
+                    <i class="fas fa-angle-right"></i>
+                </button>
+                <button class="pagination-btn" id="lastPageBtn">
+                    <i class="fas fa-angle-double-right"></i>
+                </button>
+            </div>
+            
+            <div class="page-size">
+                <label for="pageSizeSelect">Par page :</label>
+                <select id="pageSizeSelect" class="page-size-select">
+                    <option value="10">10</option>
+                    <option value="25" selected>25</option>
+                    <option value="50">50</option>
+                    <option value="100">100</option>
+                    <option value="500">500</option>
+                </select>
+            </div>
+        </div>
+        
+        <!-- Aucun résultat -->
+        <div class="no-results hidden" id="noResultsMessage">
+            <div class="no-results-content">
+                <i class="fas fa-search"></i>
+                <h3>Aucun mod trouvé</h3>
+                <p>Aucun mod ne correspond à vos critères de recherche.</p>
+                <button class="btn btn-primary" id="resetSearchBtn">
+                    <i class="fas fa-redo"></i> Réinitialiser la recherche
+                </button>
+            </div>
+        </div>
+               <!-- Instructions -->
+        <div class="instructions-box">
+            <h4>
+                <i class="fas fa-info-circle"></i> Comment utiliser ce tableau
+            </h4>
+            <ul class="instructions-list">
+                <li>
+                    <i class="fas fa-search"></i>
+                    <strong>Recherche</strong> : Tapez dans la barre de recherche pour filtrer les mods par nom, description ou tags
+                </li>
+                <li>
+                    <i class="fas fa-filter"></i>
+                    <strong>Filtres rapides</strong> : Utilisez les menus déroulants pour filtrer par catégorie ou tag
+                </li>
+                <li>
+                    <i class="fas fa-sort"></i>
+                    <strong>Trier</strong> : Cliquez sur les en-têtes de colonne pour trier le tableau
+                </li>
+                <li>
+                    <i class="fas fa-eye"></i>
+                    <strong>Voir les détails</strong> : Cliquez sur "Voir" pour afficher les détails complets d'un mod
+                </li>
+                <li>
+                    <i class="fas fa-download"></i>
+                    <strong>Exporter</strong> : Téléchargez la liste au format CSV ou JSON
+                </li>
+            </ul>
+        </div>
+    </div> <!-- Fin de .modlist-page -->
+    
+    <!-- Modal de détails (identique à index.html) -->
+    <div id="modDetailModal" class="modal">
+        <div class="modal-content" id="modDetailContent">
+            <!-- Rempli dynamiquement -->
+        </div>
+    </div>
+    
+    <!-- Scripts JavaScript -->
+    <script src="./assets/js/database.js"></script>
+    <script src="./assets/js/search.js"></script>
+    
+    <!-- Script spécifique à modlist -->
+    <script>
+        // Configuration
+        const MODLIST_CONFIG = {
+            itemsPerPage: 25,
+            currentPage: 1,
+            totalPages: 1,
+            totalItems: 0,
+            sortColumn: 'name',
+            sortDirection: 'asc',
+            currentFilter: {
+                search: '',
+                category: '',
+                tag: ''
+            }
+        };
+        
+        // Données filtrées
+        let filteredMods = [];
+        let currentDisplayMods = [];
+        
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', async function() {
+            console.log('📋 Initialisation de la page modlist...');
+            
+            // Attendre que la DB soit prête
+            if (window.SandCraftDB) {
+                await initializeModlist();
+            } else {
+                // S'abonner à l'événement de ready
+                document.addEventListener('sandcraftdb:ready', initializeModlist);
+                
+                // Fallback après 3 secondes
+                setTimeout(() => {
+                    if (!window.SandCraftDB) {
+                        console.warn('⚠️ DB non chargée, tentative manuelle...');
+                        initializeModlist();
+                    }
+                }, 3000);
+            }
+        });
+        
+        // Initialiser la modlist
+        async function initializeModlist() {
+            try {
+                // Initialiser la DB si nécessaire
+                if (window.SandCraftDB && !window.SandCraftDB.data.mods.length) {
+                    await window.SandCraftDB.init();
+                }
+                
+                // Remplir les filtres
+                populateFilters();
+                
+                // Charger et afficher les mods
+                loadAllMods();
+                
+                // Configurer les événements
+                setupEventListeners();
+                
+                // Mettre à jour les stats
+                updateStats();
+                
+                console.log('✅ Modlist initialisée');
+                
+            } catch (error) {
+                console.error('❌ Erreur lors de l\'initialisation:', error);
+                showError('Impossible de charger la liste des mods');
+            }
+        }
+        
+        // Remplir les filtres
+        function populateFilters() {
+            if (!window.SandCraftDB) return;
+            
+            // Catégories
+            const categoryFilter = document.getElementById('quickCategoryFilter');
+            if (categoryFilter) {
+                const categories = window.SandCraftDB.getAllCategories();
+                categories.forEach(category => {
+                    const option = document.createElement('option');
+                    option.value = category.id;
+                    option.textContent = category.name;
+                    categoryFilter.appendChild(option);
+                });
+            }
+            
+            // Tags
+            const tagFilter = document.getElementById('quickTagFilter');
+            if (tagFilter) {
+                const tags = window.SandCraftDB.getAllTags();
+                tags.forEach(tag => {
+                    const option = document.createElement('option');
+                    option.value = tag.id;
+                    option.textContent = tag.name;
+                    tagFilter.appendChild(option);
+                });
+            }
+        }
+        
+        // Charger tous les mods
+        function loadAllMods() {
+            if (!window.SandCraftDB) return;
+            
+            // Récupérer tous les mods
+            const allMods = window.SandCraftDB.getAllMods();
+            filteredMods = [...allMods];
+            MODLIST_CONFIG.totalItems = allMods.length;
+            
+            // Mettre à jour l'affichage
+            updateTable();
+            
+            // Mettre à jour les compteurs
+            updateCounters();
+        }
+        
+        // Mettre à jour le tableau
+        function updateTable() {
+            const tableBody = document.getElementById('modsTableBody');
+            if (!tableBody) return;
+            
+            // Filtrer les mods
+            applyFilters();
+            
+            // Trier
+            sortMods();
+            
+            // Paginer
+            paginateMods();
+            
+            // Vider le tableau
+            tableBody.innerHTML = '';
+            
+            if (currentDisplayMods.length === 0) {
+                // Afficher message "aucun résultat"
+                document.getElementById('noResultsMessage')?.classList.remove('hidden');
+                return;
+            }
+            
+            // Cacher message "aucun résultat"
+            document.getElementById('noResultsMessage')?.classList.add('hidden');
+            
+            // Remplir le tableau
+            currentDisplayMods.forEach(mod => {
+                const row = createModRow(mod);
+                tableBody.appendChild(row);
+            });
+            
+            // Mettre à jour la pagination
+            updatePagination();
+        }
+        
+        // Créer une ligne de mod
+        function createModRow(mod) {
+            const row = document.createElement('tr');
+            row.className = 'mod-row';
+            row.dataset.modId = mod.id;
+            
+            // Catégorie
+            const categoryName = window.SandCraftDB?.formatCategoryName?.(mod.category) || mod.category;
+            
+            // Tags
+            const tagsHTML = mod.tags && mod.tags.length > 0
+                ? mod.tags.map(tag => `<span class="table-tag">${tag}</span>`).join('')
+                : '<span class="no-tags">Aucun tag</span>';
+            
+            row.innerHTML = `
+                <td>
+                    <div class="mod-name-cell">
+                        <span class="mod-icon">${mod.icon || '📦'}</span>
+                        <strong>${mod.name}</strong>
+                    </div>
+                </td>
+                <td>
+                    <span class="category-badge" data-category="${mod.category}">
+                        ${categoryName}
+                    </span>
+                </td>
+                <td>${mod.author || 'Inconnu'}</td>
+                <td>
+                    <span class="version-badge">${mod.version || '1.0.0'}</span>
+                </td>
+                <td class="description-cell">
+                    ${mod.description || 'Aucune description'}
+                </td>
+                <td>
+                    <div class="tags-container">
+                        ${tagsHTML}
+                    </div>
+                </td>
+                <td>
+                    <button class="btn btn-small btn-primary view-mod-btn" data-mod-id="${mod.id}">
+                        <i class="fas fa-eye"></i> Voir
+                    </button>
+                    <button class="btn btn-small btn-secondary edit-mod-btn" data-mod-id="${mod.id}">
+                        <i class="fas fa-edit"></i>
+                    </button>
+                </td>
+            `;
+            
+            return row;
+        }
+        
+        // Appliquer les filtres
+        function applyFilters() {
+            let filtered = [...filteredMods];
+            
+            // Filtre recherche
+            if (MODLIST_CONFIG.currentFilter.search) {
+                const searchTerm = MODLIST_CONFIG.currentFilter.search.toLowerCase();
+                filtered = filtered.filter(mod => 
+                    mod.name.toLowerCase().includes(searchTerm) ||
+                    mod.description.toLowerCase().includes(searchTerm) ||
+                    (mod.tags && mod.tags.some(tag => tag.toLowerCase().includes(searchTerm))) ||
+                    (mod.author && mod.author.toLowerCase().includes(searchTerm))
+                );
+            }
+            
+            // Filtre catégorie
+            if (MODLIST_CONFIG.currentFilter.category) {
+                filtered = filtered.filter(mod => 
+                    mod.category === MODLIST_CONFIG.currentFilter.category
+                );
+            }
+            
+            // Filtre tag
+            if (MODLIST_CONFIG.currentFilter.tag) {
+                filtered = filtered.filter(mod => 
+                    mod.tags && mod.tags.includes(MODLIST_CONFIG.currentFilter.tag)
+                );
+            }
+            
+            filteredMods = filtered;
+            MODLIST_CONFIG.totalItems = filtered.length;
+        }
+        
+        // Trier les mods
+        function sortMods() {
+            filteredMods.sort((a, b) => {
+                let valueA, valueB;
+                
+                switch (MODLIST_CONFIG.sortColumn) {
+                    case 'name':
+                        valueA = a.name.toLowerCase();
+                        valueB = b.name.toLowerCase();
+                        break;
+                        
+                    case 'category':
+                        valueA = a.category || '';
+                        valueB = b.category || '';
+                        break;
+                        
+                    case 'author':
+                        valueA = a.author || '';
+                        valueB = b.author || '';
+                        break;
+                        
+                    case 'version':
+                        valueA = a.version || '';
+                        valueB = b.version || '';
+                        break;
+                        
+                    default:
+                        valueA = a.name.toLowerCase();
+                        valueB = b.name.toLowerCase();
+                }
+                
+                if (MODLIST_CONFIG.sortDirection === 'desc') {
+                    [valueA, valueB] = [valueB, valueA];
+                }
+                
+                return valueA.localeCompare(valueB);
+            });
+        }
+        
+        // Paginer les mods
+        function paginateMods() {
+            const startIndex = (MODLIST_CONFIG.currentPage - 1) * MODLIST_CONFIG.itemsPerPage;
+            const endIndex = startIndex + MODLIST_CONFIG.itemsPerPage;
+            
+            currentDisplayMods = filteredMods.slice(startIndex, endIndex);
+            MODLIST_CONFIG.totalPages = Math.ceil(filteredMods.length / MODLIST_CONFIG.itemsPerPage);
+        }
+        
+        // Mettre à jour la pagination
+        function updatePagination() {
+            // Boutons précédent/suivant
+            document.getElementById('prevPageBtn').disabled = MODLIST_CONFIG.currentPage <= 1;
+            document.getElementById('nextPageBtn').disabled = MODLIST_CONFIG.currentPage >= MODLIST_CONFIG.totalPages;
+            document.getElementById('firstPageBtn').disabled = MODLIST_CONFIG.currentPage <= 1;
+            document.getElementById('lastPageBtn').disabled = MODLIST_CONFIG.currentPage >= MODLIST_CONFIG.totalPages;
+            
+            // Numéros de page
+            const pageNumbers = document.getElementById('pageNumbers');
+            if (pageNumbers) {
+                pageNumbers.innerHTML = '';
+                
+                // Calculer les pages à afficher
+                let startPage = Math.max(1, MODLIST_CONFIG.currentPage - 2);
+                let endPage = Math.min(MODLIST_CONFIG.totalPages, startPage + 4);
+                
+                // Ajuster si on est proche de la fin
+                if (endPage - startPage < 4) {
+                    startPage = Math.max(1, endPage - 4);
+                }
+                
+                // Bouton "..." au début si nécessaire
+                if (startPage > 1) {
+                    const ellipsis = document.createElement('span');
+                    ellipsis.className = 'page-ellipsis';
+                    ellipsis.textContent = '...';
+                    pageNumbers.appendChild(ellipsis);
+                }
+                
+                // Boutons de page
+                for (let i = startPage; i <= endPage; i++) {
+                    const pageBtn = document.createElement('span');
+                    pageBtn.className = 'page-number';
+                    if (i === MODLIST_CONFIG.currentPage) {
+                        pageBtn.classList.add('active');
+                    }
+                    pageBtn.textContent = i;
+                    pageBtn.dataset.page = i;
+                    pageBtn.addEventListener('click', () => goToPage(i));
+                    pageNumbers.appendChild(pageBtn);
+                }
+                
+                // Bouton "..." à la fin si nécessaire
+                if (endPage < MODLIST_CONFIG.totalPages) {
+                    const ellipsis = document.createElement('span');
+                    ellipsis.className = 'page-ellipsis';
+                    ellipsis.textContent = '...';
+                    pageNumbers.appendChild(ellipsis);
+                }
+            }
+            
+            // Informations de pagination
+            const startRow = (MODLIST_CONFIG.currentPage - 1) * MODLIST_CONFIG.itemsPerPage + 1;
+            const endRow = Math.min(startRow + MODLIST_CONFIG.itemsPerPage - 1, filteredMods.length);
+            
+            document.getElementById('startRow').textContent = startRow;
+            document.getElementById('endRow').textContent = endRow;
+            document.getElementById('totalRows').textContent = filteredMods.length;
+        }
+        
+        // Aller à une page
+        function goToPage(page) {
+            if (page < 1 || page > MODLIST_CONFIG.totalPages) return;
+            
+            MODLIST_CONFIG.currentPage = page;
+            updateTable();
+        }
+        
+        // Mettre à jour les compteurs
+        function updateCounters() {
+            // Stats générales
+            if (window.SandCraftDB) {
+                const stats = window.SandCraftDB.getStats();
+                
+                document.getElementById('totalModsDisplay').textContent = stats.totalMods || 0;
+                document.getElementById('uniqueTagsDisplay').textContent = stats.totalTags || 0;
+                
+                if (stats.lastUpdate) {
+                    const date = new Date(stats.lastUpdate);
+                    document.getElementById('lastUpdateDisplay').textContent = date.toLocaleDateString('fr-FR');
+                }
+            }
+            
+            // Mods visibles
+            document.getElementById('visibleModsDisplay').textContent = filteredMods.length;
+        }
+        
+        // Configurer les événements
+        function setupEventListeners() {
+            // Recherche
+            const searchInput = document.getElementById('modlistSearch');
+            const searchButton = document.getElementById('modlistSearchBtn');
+            
+            if (searchInput) {
+                searchInput.addEventListener('input', debounce(() => {
+                    MODLIST_CONFIG.currentFilter.search = searchInput.value.trim();
+                    MODLIST_CONFIG.currentPage = 1;
+                    updateTable();
+                    updateCounters();
+                }, 300));
+            }
+            
+            if (searchButton) {
+                searchButton.addEventListener('click', () => {
+                    if (searchInput) {
+                        MODLIST_CONFIG.currentFilter.search = searchInput.value.trim();
+                        MODLIST_CONFIG.currentPage = 1;
+                        updateTable();
+                        updateCounters();
+                    }
+                });
+            }
+            
+            // Filtres
+            const categoryFilter = document.getElementById('quickCategoryFilter');
+            const tagFilter = document.getElementById('quickTagFilter');
+            
+            if (categoryFilter) {
+                categoryFilter.addEventListener('change', () => {
+                    MODLIST_CONFIG.currentFilter.category = categoryFilter.value;
+                    MODLIST_CONFIG.currentPage = 1;
+                    updateTable();
+                    updateCounters();
+                });
+            }
+            
+            if (tagFilter) {
+                tagFilter.addEventListener('change', () => {
+                    MODLIST_CONFIG.currentFilter.tag = tagFilter.value;
+                    MODLIST_CONFIG.currentPage = 1;
+                    updateTable();
+                    updateCounters();
+                });
+            }
+            
+            // Trier par colonne
+            document.querySelectorAll('#allModsTable th[data-sort]').forEach(th => {
+                th.addEventListener('click', () => {
+                    const column = th.dataset.sort;
+                    
+                    // Changer la direction si même colonne
+                    if (MODLIST_CONFIG.sortColumn === column) {
+                        MODLIST_CONFIG.sortDirection = MODLIST_CONFIG.sortDirection === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        MODLIST_CONFIG.sortColumn = column;
+                        MODLIST_CONFIG.sortDirection = 'asc';
+                    }
+                    
+                    // Mettre à jour les icônes
+                    updateSortIcons();
+                    
+                    // Re-trier
+                    updateTable();
+                });
+            });
+            
+            // Pagination
+            document.getElementById('prevPageBtn')?.addEventListener('click', () => goToPage(MODLIST_CONFIG.currentPage - 1));
+            document.getElementById('nextPageBtn')?.addEventListener('click', () => goToPage(MODLIST_CONFIG.currentPage + 1));
+            document.getElementById('firstPageBtn')?.addEventListener('click', () => goToPage(1));
+            document.getElementById('lastPageBtn')?.addEventListener('click', () => goToPage(MODLIST_CONFIG.totalPages));
+            
+            // Taille de page
+            const pageSizeSelect = document.getElementById('pageSizeSelect');
+            if (pageSizeSelect) {
+                pageSizeSelect.addEventListener('change', () => {
+                    MODLIST_CONFIG.itemsPerPage = parseInt(pageSizeSelect.value);
+                    MODLIST_CONFIG.currentPage = 1;
+                    updateTable();
+                });
+            }
+            
+            // Réinitialiser la recherche
+            document.getElementById('resetSearchBtn')?.addEventListener('click', () => {
+                MODLIST_CONFIG.currentFilter = { search: '', category: '', tag: '' };
+                MODLIST_CONFIG.currentPage = 1;
+                
+                if (searchInput) searchInput.value = '';
+                if (categoryFilter) categoryFilter.value = '';
+                if (tagFilter) tagFilter.value = '';
+                
+                updateTable();
+                updateCounters();
+            });
+            
+            // Boutons d'export
+            document.getElementById('exportJSONBtn')?.addEventListener('click', exportToJSON);
+            document.getElementById('exportCSVBtn')?.addEventListener('click', exportToCSV);
+            document.getElementById('printTableBtn')?.addEventListener('click', printTable);
+            
+            // Boutons "Voir" et "Éditer" (déléguation d'événements)
+            document.addEventListener('click', (e) => {
+                // Voir mod
+                if (e.target.closest('.view-mod-btn')) {
+                    const modId = e.target.closest('.view-mod-btn').dataset.modId;
+                    if (modId && window.SandCraftSearch && window.SandCraftSearch.showModDetail) {
+                        window.SandCraftSearch.showModDetail(parseInt(modId));
+                    }
+                }
+                
+                // Éditer mod
+                if (e.target.closest('.edit-mod-btn')) {
+                    const modId = e.target.closest('.edit-mod-btn').dataset.modId;
+                    alert(`Édition du mod ID: ${modId}\n(Fonctionnalité à implémenter)`);
+                }
+            });
+        }
+        
+        // Mettre à jour les icônes de tri
+        function updateSortIcons() {
+            document.querySelectorAll('#allModsTable th[data-sort] i').forEach(icon => {
+                icon.className = 'fas fa-sort';
+            });
+            
+            const currentTh = document.querySelector(`#allModsTable th[data-sort="${MODLIST_CONFIG.sortColumn}"] i`);
+            if (currentTh) {
+                currentTh.className = MODLIST_CONFIG.sortDirection === 'asc' 
+                    ? 'fas fa-sort-up' 
+                    : 'fas fa-sort-down';
+            }
+        }
+        
+        // Exporter en JSON
+        function exportToJSON() {
+            const exportData = {
+                mods: filteredMods,
+                exportDate: new Date().toISOString(),
+                totalMods: filteredMods.length,
+                filters: MODLIST_CONFIG.currentFilter
+            };
+            
+            const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `sandcraft-mods-${new Date().toISOString().split('T')[0]}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+        
+        // Exporter en CSV
+        function exportToCSV() {
+            const headers = ['Nom', 'Catégorie', 'Auteur', 'Version', 'Description', 'Tags'];
+            const rows = filteredMods.map(mod => [
+                `"${mod.name}"`,
+                `"${mod.category}"`,
+                `"${mod.author || ''}"`,
+                `"${mod.version || ''}"`,
+                `"${mod.description.replace(/"/g, '""')}"`,
+                `"${mod.tags ? mod.tags.join(', ') : ''}"`
+            ]);
+            
+            const csvContent = [
+                headers.join(','),
+                ...rows.map(row => row.join(','))
+            ].join('\n');
+            
+            const blob = new Blob(['\uFEFF' + csvContent], { type: 'text/csv;charset=utf-8;' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `sandcraft-mods-${new Date().toISOString().split('T')[0]}.csv`;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+        
+        // Imprimer le tableau
+        function printTable() {
+            const printContent = document.querySelector('.table-container').cloneNode(true);
+            const printWindow = window.open('', '_blank');
+            
+            printWindow.document.write(`
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>Liste des Mods SandCraft</title>
+                    <style>
+                        body { font-family: Arial, sans-serif; margin: 20px; }
+                        h1 { color: #333; }
+                        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+                        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                        th { background-color: #f4f4f4; }
+                        @media print {
+                            .no-print { display: none; }
+                        }
+                    </style>
+                </head>
+                <body>
+                    <h1>Liste des Mods SandCraft</h1>
+                    <p>Export du ${new Date().toLocaleDateString('fr-FR')} - ${filteredMods.length} mods</p>
+                    ${printContent.innerHTML}
+                </body>
+                </html>
+            `);
+            
+            printWindow.document.close();
+            printWindow.print();
+        }
+        
+        // Fonction debounce
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+        
+        // Afficher une erreur
+        function showError(message) {
+            const tableBody = document.getElementById('modsTableBody');
+            if (tableBody) {
+                tableBody.innerHTML = `
+                    <tr>
+                        <td colspan="7" class="error-cell">
+                            <div class="error-message">
+                                <i class="fas fa-exclamation-triangle"></i>
+                                <span>${message}</span>
+                            </div>
+                        </td>
+                    </tr>
+                `;
+            }
+        }
+        
+        // Mettre à jour les statistiques
+        function updateStats() {
+            // Cette fonction est déjà appelée par updateCounters()
+        }
+        
+        console.log('✅ Script modlist.js chargé');
+    </script>
+</body>
+</html> 
