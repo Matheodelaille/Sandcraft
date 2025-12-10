@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajouter un Mod - SandCraft Wiki</title>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        /* Styles spécifiques à la page de création */
+        .create-page {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .form-container {
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        .form-header {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .form-step {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 25px;
+            border-left: 4px solid #00dbde;
+        }
+        
+        .step-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #00dbde;
+            margin-bottom: 15px;
+        }
+        
+        .step-number {
+            background: #00dbde;
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        
+        .form-help {
+            background: rgba(0, 219, 222, 0.1);
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 15px;
+            border-left: 3px solid #00dbde;
+        }
+        
+        .form-help ul {
+            margin: 10px 0 10px 20px;
+        }
+        
+        .form-help li {
+            margin-bottom: 5px;
+        }
+        
+        .preview-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 25px;
+            margin-top: 30px;
+            border: 1px dashed rgba(255, 255, 255, 0.2);
+        }
+        
+        .preview-card {
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .form-actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        /* Style pour les champs obligatoires */
+        .required-field::after {
+            content: " *";
+            color: #ff4757;
+        }
+        
+        /* Animation pour les validations */
+        .valid-field {
+            border-color: #00dbde !important;
+            box-shadow: 0 0 0 2px rgba(0, 219, 222, 0.2) !important;
+        }
+        
+        .invalid-field {
+            border-color: #ff4757 !important;
+            box-shadow: 0 0 0 2px rgba(255, 71, 87, 0.2) !important;
+        }
+        
+        .error-message {
+            color: #ff4757;
+            font-size: 0.9rem;
+            margin-top: 5px;
+            display: none;
+        }
+        
+        .error-message.show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="create-page">
+        <!-- En-tête -->
+        <header class="page-header">
+            <a href="./" class="back-button">
+                <i class="fas fa-arrow-left"></i>
+                Retour à l'accueil
+            </a>
+            
+            <h1>
+                <i class="fas fa-plus-circle"></i>
+                Ajouter un nouveau Mod
+            </h1>
+            
+            <p class="page-description">
+                Utilisez ce formulaire pour ajouter un nouveau mod au wiki SandCraft.
+                Remplissez tous les champs obligatoires (*) pour créer une entrée complète.
+            </p>
+            
+            <!-- Navigation -->
+            <nav class="page-nav">
+                <a href="./" class="nav-btn">
+                    <i class="fas fa-home"></i> Accueil
+                </a>
+                <a href="./modlist.html" class="nav-btn">
+                    <i class="fas fa-list"></i> Tous les Mods
+                </a>
+                <span class="nav-btn active">
+                    <i class="fas fa-plus-circle"></i> Ajouter
+                </span>
+                <a href="./guides.html" class="nav-btn">
+                    <i class="fas fa-book"></i> Guides
+                </a>
+            </nav>
+        </header>
+        
+        <!-- Formulaire principal -->
+        <div class="form-container">
+            <!-- Introduction -->
+            <div class="form-intro">
+                <div class="alert alert-info">
+                    <i class="fas fa-info-circle"></i>
+                    <strong>Avant de commencer :</strong> 
+                    Assurez-vous que le mod n'existe pas déjà dans la 
+                    <a href="./modlist.html" class="alert-link">liste des mods</a>.
+                </div>
+            </div>
+            
+            <!-- Formulaire -->
+            <form id="createModForm" novalidate>
+                <!-- Étape 1 : Informations de base -->
+                <div class="form-step" id="step1">
+                    <div class="step-title">
+                        <span class="step-number">1</span>
+                        <h3>Informations de base</h3>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="modName" class="required-field">
+                                <i class="fas fa-heading"></i> Nom du mod
+                            </label>
+                            <input type="text" 
+                                   id="modName" 
+                                   name="modName" 
+                                   required
+                                   placeholder="Ex: Create, Ars Nouveau, Botania..."
+                                   maxlength="100">
+                            <div class="error-message" id="nameError">
+                                Le nom du mod est obligatoire (2-100 caractères)
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="modCategory" class="required-field">
+                                <i class="fas fa-folder"></i> Catégorie principale
+                            </label>
+                            <select id="modCategory" name="modCategory" required>
+                                <option value="">Sélectionnez une catégorie</option>
+                                <!-- Rempli dynamiquement -->
+                            </select>
+                            <div class="error-message" id="categoryError">
+                                Veuillez sélectionner une catégorie
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="modDescription" class="required-field">
+                            <i class="fas fa-align-left"></i> Description courte
+                        </label>
+                        <textarea id="modDescription" 
+                                  name="modDescription" 
+                                  rows="3"
+                                  required
+                                  placeholder="Décrivez brièvement le mod (objectif principal, fonctionnalités clés)..."
+                                  maxlength="500"></textarea>
+                        <div class="char-counter">
+                            <span id="descCharCount">0</span>/500 caractères
+                        </div>
+                        <div class="error-message" id="descriptionError">
+                            La description est obligatoire (10-500 caractères)
+                        </div>
+                    </div>
+                    
+                    <div class="form-help">
+                        <strong><i class="fas fa-lightbulb"></i> Conseil :</strong>
+                        <p>La description courte doit donner une idée claire du mod en une ou deux phrases.</p>
+                    </div>
+                </div>
+                
+                <!-- Étape 2 : Détails supplémentaires -->
+                <div class="form-step" id="step2">
+                    <div class="step-title">
+                        <span class="step-number">2</span>
+                        <h3>Détails et métadonnées</h3>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="modIcon">
+                                <i class="fas fa-icons"></i> Icône
+                            </label>
+                            <div class="icon-selector">
+                                <input type="text" 
+                                       id="modIcon" 
+                                       name="modIcon"
+                                       placeholder="Choisissez ou tapez un emoji"
+                                       maxlength="5">
+                                <div class="icon-preview" id="iconPreview">
+                                    <span id="selectedIcon">📦</span>
+                                </div>
+                            </div>
+                            <small class="form-help-text">
+                                Utilisez un emoji représentatif (ex: ⚙️ pour la technologie, 🔮 pour la magie)
+                            </small>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="modAuthor">
+                                <i class="fas fa-user"></i> Auteur(s)
+                            </label>
+                            <input type="text" 
+                                   id="modAuthor" 
+                                   name="modAuthor"
+                                   placeholder="Nom de l'auteur ou de l'équipe">
+                        </div>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="modVersion">
+                                <i class="fas fa-code-branch"></i> Version
+                            </label>
+                            <input type="text" 
+                                   id="modVersion" 
+                                   name="modVersion"
+                                   placeholder="Ex: 1.0.0, 2.3.4, beta-1.2">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="modPopularity">
+                                <i class="fas fa-star"></i> Popularité estimée
+                            </label>
+                            <div class="popularity-input">
+                                <input type="range" 
+                                       id="modPopularity" 
+                                       name="modPopularity"
+                                       min="0" max="100" value="50">
+                                <div class="popularity-display">
+                                    <span id="popularityValue">50</span>%
+                                    <div class="popularity-stars">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="modTags">
+                            <i class="fas fa-tags"></i> Tags
+                        </label>
+                        <div class="tags-input-container">
+                            <input type="text" 
+                                   id="modTagsInput" 
+                                   placeholder="Ajoutez des tags (appuyez sur Entrée ou tapez une virgule)">
+                            <div class="tags-container" id="tagsContainer">
+                                <!-- Tags ajoutés apparaissent ici -->
+                            </div>
+                            <input type="hidden" id="modTags" name="modTags">
+                        </div>
+                        <small class="form-help-text">
+                            Tags suggérés : mécanique, automatisation, magie, exploration, décoration, agriculture
+                        </small>
+                    </div>
+                </div>
+                
+                <!-- Étape 3 : Contenu détaillé -->
+                <div class="form-step" id="step3">
+                    <div class="step-title">
+                        <span class="step-number">3</span>
+                        <h3>Contenu détaillé</h3>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="modLongDescription">
+                            <i class="fas fa-align-justify"></i> Description complète
+                        </label>
+                        <textarea id="modLongDescription" 
+                                  name="modLongDescription" 
+                                  rows="6"
+                                  placeholder="Décrivez le mod en détail : fonctionnalités, mécaniques de jeu, utilisation, configuration..."></textarea>
+                        <div class="char-counter">
+                            <span id="longDescCharCount">0</span>/2000 caractères
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="modFeatures">
+                            <i class="fas fa-check-circle"></i> Fonctionnalités principales
+                        </label>
+                        <div class="features-input">
+                            <textarea id="modFeaturesInput" 
+                                      rows="3"
+                                      placeholder="Ajoutez une fonctionnalité et appuyez sur Entrée..."></textarea>
+                            <div class="features-list" id="featuresList">
+                                <!-- Fonctionnalités ajoutées apparaissent ici -->
+                            </div>
+                            <input type="hidden" id="modFeatures" name="modFeatures">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="modDependencies">
+                            <i class="fas fa-link"></i> Dépendances (optionnel)
+                        </label>
+                        <input type="text" 
+                               id="modDependencies" 
+                               name="modDependencies"
+                               placeholder="Ex: Forge 1.18.2, Fabric API, Create 0.5...">
+                    </div>
+                    
+                    <div class="form-help">
+                        <strong><i class="fas fa-lightbulb"></i> Pour une description complète :</strong>
+                        <ul>
+                            <li>Expliquez ce que fait le mod concrètement</li>
+                            <li>Listez les fonctionnalités les plus importantes</li>
+                            <li>Mentionnez les interactions avec d'autres mods</li>
+                            <li>Incluez des conseils d'utilisation si pertinent</li>
+                        </ul>
+                    </div>
+                </div>
+                                <!-- Étape 4 : Aperçu et validation -->
+                <div class="form-step" id="step4">
+                    <div class="step-title">
+                        <span class="step-number">4</span>
+                        <h3>Aperçu et validation</h3>
+                    </div>
+                    
+                    <div class="preview-section">
+                        <h4>
+                            <i class="fas fa-eye"></i> Aperçu de votre mod
+                        </h4>
+                        <p class="preview-description">
+                            Voici comment votre mod apparaîtra dans le wiki :
+                        </p>
+                        
+                        <div class="preview-card" id="modPreview">
+                            <div class="preview-header">
+                                <div class="preview-icon" id="previewIcon">📦</div>
+                                <div class="preview-title">
+                                    <h3 id="previewName">[Nom du mod]</h3>
+                                    <span class="preview-category" id="previewCategory">
+                                        [Catégorie]
+                                    </span>
+                                </div>
+                            </div>
+                            
+                            <p class="preview-description-text" id="previewDescription">
+                                [Description courte du mod]
+                            </p>
+                            
+                            <div class="preview-tags" id="previewTags">
+                                <span class="tag">exemple</span>
+                            </div>
+                            
+                            <div class="preview-footer">
+                                <div class="preview-meta">
+                                    <span class="meta-item" id="previewAuthor">
+                                        <i class="fas fa-user"></i> Auteur: --
+                                    </span>
+                                    <span class="meta-item" id="previewVersion">
+                                        <i class="fas fa-code-branch"></i> Version: --
+                                    </span>
+                                </div>
+                                <div class="preview-popularity" id="previewPopularity">
+                                    <i class="fas fa-star"></i> Popularité: 50%
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="preview-actions">
+                            <button type="button" class="btn btn-secondary" id="refreshPreviewBtn">
+                                <i class="fas fa-sync-alt"></i> Actualiser l'aperçu
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="validation-section">
+                        <h4>
+                            <i class="fas fa-check-circle"></i> Validation
+                        </h4>
+                        
+                        <div class="validation-list" id="validationList">
+                            <div class="validation-item">
+                                <i class="fas fa-check validation-valid"></i>
+                                <span>Nom du mod valide</span>
+                            </div>
+                            <div class="validation-item">
+                                <i class="fas fa-check validation-valid"></i>
+                                <span>Catégorie sélectionnée</span>
+                            </div>
+                            <div class="validation-item">
+                                <i class="fas fa-check validation-valid"></i>
+                                <span>Description valide</span>
+                            </div>
+                            <div class="validation-item">
+                                <i class="fas fa-times validation-invalid"></i>
+                                <span>Icône définie</span>
+                            </div>
+                        </div>
+                        
+                        <div class="validation-summary">
+                            <strong>État :</strong>
+                            <span class="validation-status" id="validationStatus">
+                                Formulaire incomplet
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Actions du formulaire -->
+                <div class="form-actions">
+                    <div class="form-buttons-left">
+                        <button type="button" class="btn btn-secondary" id="resetFormBtn">
+                            <i class="fas fa-redo"></i> Tout effacer
+                        </button>
+                        <button type="button" class="btn btn-secondary" id="saveDraftBtn">
+                            <i class="fas fa-save"></i> Sauvegarder le brouillon
+                        </button>
+                    </div>
+                    
+                    <div class="form-buttons-right">
+                        <button type="button" class="btn btn-secondary" id="previewModBtn">
+                            <i class="fas fa-eye"></i> Aperçu complet
+                        </button>
+                        <button type="submit" class="btn btn-success" id="submitFormBtn">
+                            <i class="fas fa-check-circle"></i> Ajouter le mod
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        
+        <!-- Instructions -->
+        <div class="instructions-section">
+            <div class="instruction-card">
+                <h4>
+                    <i class="fas fa-question-circle"></i> Besoin d'aide ?
+                </h4>
+                <p>
+                    Consultez le 
+                    <a href="./guides.html" class="guide-link">
+                        guide complet d'ajout de mods
+                    </a> 
+                    pour des instructions détaillées et des exemples.
+                </p>
+            </div>
+            
+            <div class="instruction-card">
+                <h4>
+                    <i class="fas fa-shield-alt"></i> Qualité des contributions
+                </h4>
+                <p>
+                    Vérifiez l'exactitude des informations avant de soumettre.
+                    Les mods incorrects ou incomplets pourront être modifiés.
+                </p>
+            </div>
+            
+            <div class="instruction-card">
+                <h4>
+                    <i class="fas fa-clock"></i> Temps de traitement
+                </h4>
+                <p>
+                    Les nouveaux mods apparaissent immédiatement dans le wiki.
+                    Un modérateur pourra vérifier et compléter les informations.
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal de confirmation -->
+    <div id="confirmationModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>
+                    <i class="fas fa-check-circle"></i>
+                    Mod ajouté avec succès !
+                </h2>
+                <button class="close-modal-btn" id="closeConfirmationModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <div class="modal-body">
+                <div class="success-message">
+                    <i class="fas fa-check success-icon"></i>
+                    <h3 id="successModName">[Nom du mod]</h3>
+                    <p>a été ajouté au wiki SandCraft avec succès.</p>
+                </div>
+                
+                <div class="success-actions">
+                    <a href="./modlist.html" class="btn btn-primary">
+                        <i class="fas fa-list"></i> Voir tous les mods
+                    </a>
+                    <a href="./" class="btn btn-secondary">
+                        <i class="fas fa-home"></i> Retour à l'accueil
+                    </a>
+                    <button class="btn btn-success" id="addAnotherBtn">
+                        <i class="fas fa-plus"></i> Ajouter un autre mod
+                    </button>
+                </div>
+                
+                <div class="success-info">
+                    <p>
+                        <i class="fas fa-info-circle"></i>
+                        Le mod est maintenant disponible dans la liste des mods 
+                        et sera visible par tous les utilisateurs du wiki.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Scripts JavaScript -->
+    <script src="./assets/js/database.js"></script>
+    <script src="./assets/js/search.js"></script>
+    
+    <!-- Script spécifique à la création -->
+    <script>
+        // Configuration
+        let formData = {
+            name: '',
+            category: '',
+            description: '',
+            longDescription: '',
+            icon: '📦',
+            author: '',
+            version: '',
+            popularity: 50,
+            tags: [],
+            features: [],
+            dependencies: ''
+        };
+        
+        let draftSaved = false;
+        
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', async function() {
+            console.log('📝 Initialisation de la page de création...');
+            
+            // Remplir la liste des catégories
+            populateCategories();
+            
+            // Configurer les événements
+            setupFormEvents();
+            
+            // Initialiser les compteurs
+            setupCharCounters();
+            
+            // Initialiser l'aperçu
+            updatePreview();
+            
+            // Vérifier s'il y a un brouillon sauvegardé
+            checkForDraft();
+            
+            console.log('✅ Formulaire de création initialisé');
+        });
+        
+        // Remplir les catégories
+        function populateCategories() {
+            const categorySelect = document.getElementById('modCategory');
+            if (!categorySelect) return;
+            
+            // Catégories par défaut
+            const defaultCategories = [
+                { id: 'technology', name: 'Technologie & Automation' },
+                { id: 'magic', name: 'Magie & Sorcellerie' },
+                { id: 'agriculture', name: 'Agriculture & Botanique' },
+                { id: 'exploration', name: 'Exploration & Aventure' },
+                { id: 'infrastructure', name: 'Infrastructure' },
+                { id: 'decoration', name: 'Décoration & Esthétique' },
+                { id: 'storage', name: 'Stockage & Organisation' },
+                { id: 'combat', name: 'Combat & Défense' },
+                { id: 'utility', name: 'Utilitaires' },
+                { id: 'other', name: 'Autre' }
+            ];
+            
+            // Vider et remplir
+            categorySelect.innerHTML = '<option value="">Sélectionnez une catégorie</option>';
+            
+            defaultCategories.forEach(category => {
+                const option = document.createElement('option');
+                option.value = category.id;
+                option.textContent = category.name;
+                categorySelect.appendChild(option);
+            });
+            
+            // Si SandCraftDB est disponible, ajouter ses catégories
+            if (window.SandCraftDB && window.SandCraftDB.getAllCategories) {
+                setTimeout(() => {
+                    const dbCategories = window.SandCraftDB.getAllCategories();
+                    dbCategories.forEach(category => {
+                        // Éviter les doublons
+                        if (!Array.from(categorySelect.options).some(opt => opt.value === category.id)) {
+                            const option = document.createElement('option');
+                            option.value = category.id;
+                            option.textContent = category.name;
+                            categorySelect.appendChild(option);
+                        }
+                    });
+                }, 100);
+            }
+        }
+        
+        // Configurer les événements du formulaire
+        function setupFormEvents() {
+            // Validation en temps réel
+            document.getElementById('modName')?.addEventListener('input', validateName);
+            document.getElementById('modCategory')?.addEventListener('change', validateCategory);
+            document.getElementById('modDescription')?.addEventListener('input', validateDescription);
+            document.getElementById('modIcon')?.addEventListener('input', updateIconPreview);
+            
+            // Gestion des tags
+            const tagsInput = document.getElementById('modTagsInput');
+            if (tagsInput) {
+                tagsInput.addEventListener('keydown', handleTagInput);
+                tagsInput.addEventListener('blur', addTagFromInput);
+            }
+            
+            // Gestion des fonctionnalités
+            const featuresInput = document.getElementById('modFeaturesInput');
+            if (featuresInput) {
+                featuresInput.addEventListener('keydown', handleFeatureInput);
+            }
+            
+            // Popularité
+            const popularitySlider = document.getElementById('modPopularity');
+            if (popularitySlider) {
+                popularitySlider.addEventListener('input', updatePopularityDisplay);
+            }
+            
+            // Boutons
+            document.getElementById('refreshPreviewBtn')?.addEventListener('click', updatePreview);
+            document.getElementById('resetFormBtn')?.addEventListener('click', resetForm);
+            document.getElementById('saveDraftBtn')?.addEventListener('click', saveDraft);
+            document.getElementById('previewModBtn')?.addEventListener('click', showFullPreview);
+            document.getElementById('addAnotherBtn')?.addEventListener('click', resetFormAndCloseModal);
+            document.getElementById('closeConfirmationModal')?.addEventListener('click', closeConfirmationModal);
+            
+            // Soumission du formulaire
+            const form = document.getElementById('createModForm');
+            if (form) {
+                form.addEventListener('submit', handleFormSubmit);
+            }
+            
+            // Mettre à jour l'aperçu automatiquement
+            setupAutoPreview();
+        }
+        
+        // Configurer les compteurs de caractères
+        function setupCharCounters() {
+            const descTextarea = document.getElementById('modDescription');
+            const longDescTextarea = document.getElementById('modLongDescription');
+            
+            if (descTextarea) {
+                descTextarea.addEventListener('input', function() {
+                    document.getElementById('descCharCount').textContent = this.value.length;
+                });
+            }
+            
+            if (longDescTextarea) {
+                longDescTextarea.addEventListener('input', function() {
+                    document.getElementById('longDescCharCount').textContent = this.value.length;
+                });
+            }
+        }
+        
+        // Vérifier s'il y a un brouillon
+        function checkForDraft() {
+            try {
+                const draft = localStorage.getItem('sandcraft_mod_draft');
+                if (draft) {
+                    if (confirm('Un brouillon précédent a été trouvé. Voulez-vous le charger ?')) {
+                        loadDraft(JSON.parse(draft));
+                    }
+                }
+            } catch (error) {
+                console.error('Erreur lors du chargement du brouillon:', error);
+            }
+        }
+        
+        // Charger un brouillon
+        function loadDraft(draftData) {
+            // Remplir les champs
+            document.getElementById('modName').value = draftData.name || '';
+            document.getElementById('modCategory').value = draftData.category || '';
+            document.getElementById('modDescription').value = draftData.description || '';
+            document.getElementById('modLongDescription').value = draftData.longDescription || '';
+            document.getElementById('modIcon').value = draftData.icon || '📦';
+            document.getElementById('modAuthor').value = draftData.author || '';
+            document.getElementById('modVersion').value = draftData.version || '';
+            document.getElementById('modPopularity').value = draftData.popularity || 50;
+            document.getElementById('modDependencies').value = draftData.dependencies || '';
+            
+            // Tags
+            if (draftData.tags && Array.isArray(draftData.tags)) {
+                formData.tags = [...draftData.tags];
+                updateTagsDisplay();
+            }
+            
+            // Fonctionnalités
+            if (draftData.features && Array.isArray(draftData.features)) {
+                formData.features = [...draftData.features];
+                updateFeaturesDisplay();
+            }
+            
+            // Mettre à jour l'aperçu
+            updatePreview();
+            updateValidation();
+            
+            console.log('✅ Brouillon chargé');
+        }
+        
+        // Sauvegarder le brouillon
+        function saveDraft() {
+            collectFormData();
+            
+            try {
+                localStorage.setItem('sandcraft_mod_draft', JSON.stringify(formData));
+                draftSaved = true;
+                
+                // Afficher un feedback
+                showNotification('Brouillon sauvegardé avec succès', 'success');
+                
+                console.log('💾 Brouillon sauvegardé');
+            } catch (error) {
+                console.error('Erreur lors de la sauvegarde:', error);
+                showNotification('Erreur lors de la sauvegarde du brouillon', 'error');
+            }
+        }
+        
+        // Collecter les données du formulaire
+        function collectFormData() {
+            formData = {
+                name: document.getElementById('modName').value.trim(),
+                category: document.getElementById('modCategory').value,
+                description: document.getElementById('modDescription').value.trim(),
+                longDescription: document.getElementById('modLongDescription').value.trim(),
+                icon: document.getElementById('modIcon').value.trim() || '📦',
+                author: document.getElementById('modAuthor').value.trim(),
+                version: document.getElementById('modVersion').value.trim(),
+                popularity: parseInt(document.getElementById('modPopularity').value) || 50,
+                tags: [...formData.tags],
+                features: [...formData.features],
+                dependencies: document.getElementById('modDependencies').value.trim()
+            };
+        }
+        
+        // Valider le nom
+        function validateName() {
+            const nameInput = document.getElementById('modName');
+            const errorElement = document.getElementById('nameError');
+            const value = nameInput.value.trim();
+            
+            if (value.length < 2 || value.length > 100) {
+                nameInput.classList.add('invalid-field');
+                nameInput.classList.remove('valid-field');
+                errorElement.classList.add('show');
+                return false;
+            } else {
+                nameInput.classList.remove('invalid-field');
+                nameInput.classList.add('valid-field');
+                errorElement.classList.remove('show');
+                return true;
+            }
+        }
+        
+        // Valider la catégorie
+        function validateCategory() {
+            const categorySelect = document.getElementById('modCategory');
+            const errorElement = document.getElementById('categoryError');
+            const value = categorySelect.value;
+            
+            if (!value) {
+                categorySelect.classList.add('invalid-field');
+                categorySelect.classList.remove('valid-field');
+                errorElement.classList.add('show');
+                return false;
+            } else {
+                categorySelect.classList.remove('invalid-field');
+                categorySelect.classList.add('valid-field');
+                errorElement.classList.remove('show');
+                return true;
+            }
+        }
+        
+        // Valider la description
+        function validateDescription() {
+            const descTextarea = document.getElementById('modDescription');
+            const errorElement = document.getElementById('descriptionError');
+            const value = descTextarea.value.trim();
+            
+            if (value.length < 10 || value.length > 500) {
+                descTextarea.classList.add('invalid-field');
+                descTextarea.classList.remove('valid-field');
+                errorElement.classList.add('show');
+                return false;
+            } else {
+                descTextarea.classList.remove('invalid-field');
+                descTextarea.classList.add('valid-field');
+                errorElement.classList.remove('show');
+                return true;
+            }
+        }
+        
+        // Mettre à jour l'affichage de l'icône
+        function updateIconPreview() {
+            const iconInput = document.getElementById('modIcon');
+            const previewElement = document.getElementById('selectedIcon');
+            const icon = iconInput.value.trim() || '📦';
+            
+            previewElement.textContent = icon;
+            formData.icon = icon;
+            updatePreview();
+        }
+        
+        // Gérer l'input des tags
+        function handleTagInput(event) {
+            if (event.key === 'Enter' || event.key === ',') {
+                event.preventDefault();
+                addTagFromInput();
+            }
+        }
+        
+        // Ajouter un tag depuis l'input
+        function addTagFromInput() {
+            const tagsInput = document.getElementById('modTagsInput');
+            const tag = tagsInput.value.trim();
+            
+            if (tag && !formData.tags.includes(tag)) {
+                formData.tags.push(tag);
+                updateTagsDisplay();
+                updatePreview();
+            }
+            
+            tagsInput.value = '';
+        }
+        
+        // Mettre à jour l'affichage des tags
+        function updateTagsDisplay() {
+            const container = document.getElementById('tagsContainer');
+            if (!container) return;
+            
+            container.innerHTML = '';
+            
+            formData.tags.forEach((tag, index) => {
+                const tagElement = document.createElement('span');
+                tagElement.className = 'tag';
+                tagElement.innerHTML = `
+                    ${tag}
+                    <button type="button" class="tag-remove-btn" data-index="${index}">
+                        <i class="fas fa-times"></i>
+                    </button>
+                `;
+                container.appendChild(tagElement);
+            });
+            
+            // Événements pour supprimer les tags
+            container.querySelectorAll('.tag-remove-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const index = parseInt(this.dataset.index);
+                    formData.tags.splice(index, 1);
+                    updateTagsDisplay();
+                    updatePreview();
+                });
+            });
+            
+            // Mettre à jour le champ caché
+            document.getElementById('modTags').value = formData.tags.join(',');
+        }
+        
+        // Gérer l'input des fonctionnalités
+        function handleFeatureInput(event) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                addFeatureFromInput();
+            }
+        }
+        
+        // Ajouter une fonctionnalité
+        function addFeatureFromInput() {
+            const featuresInput = document.getElementById('modFeaturesInput');
+            const feature = featuresInput.value.trim();
+            
+            if (feature && !formData.features.includes(feature)) {
+                formData.features.push(feature);
+                updateFeaturesDisplay();
+                updatePreview();
+            }
+            
+            featuresInput.value = '';
+        }
+        
+        // Mettre à jour l'affichage des fonctionnalités
+        function updateFeaturesDisplay() {
+            const container = document.getElementById('featuresList');
+            if (!container) return;
+            
+            container.innerHTML = '';
+            
+            formData.features.forEach((feature, index) => {
+                const featureElement = document.createElement('div');
+                featureElement.className = 'feature-item';
+                featureElement.innerHTML = `
+                    <i class="fas fa-check"></i>
+                    <span>${feature}</span>
+                    <button type="button" class="feature-remove-btn" data-index="${index}">
+                        <i class="fas fa-times"></i>
+                    </button>
+                `;
+                container.appendChild(featureElement);
+            });
+            
+            // Événements pour supprimer
+            container.querySelectorAll('.feature-remove-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const index = parseInt(this.dataset.index);
+                    formData.features.splice(index, 1);
+                    updateFeaturesDisplay();
+                    updatePreview();
+                });
+            });
+            
+            // Mettre à jour le champ caché
+            document.getElementById('modFeatures').value = formData.features.join('|');
+        }
+        
+        // Mettre à jour l'affichage de la popularité
+        function updatePopularityDisplay() {
+            const slider = document.getElementById('modPopularity');
+            const valueElement = document.getElementById('popularityValue');
+            const value = slider.value;
+            
+            if (valueElement) {
+                valueElement.textContent = value;
+            }
+            
+            // Mettre à jour les étoiles
+            const stars = document.querySelectorAll('.popularity-stars i');
+            const starCount = Math.ceil(value / 20); // 5 étoiles pour 100%
+            
+            stars.forEach((star, index) => {
+                if (index < starCount) {
+                    star.classList.add('active');
+                } else {
+                    star.classList.remove('active');
+                }
+            });
+            
+            formData.popularity = parseInt(value);
+            updatePreview();
+        }
+        
+        // Configurer l'aperçu automatique
+        function setupAutoPreview() {
+            const previewFields = [
+                'modName', 'modCategory', 'modDescription', 'modAuthor',
+                'modVersion', 'modLongDescription'
+            ];
+            
+            previewFields.forEach(fieldId => {
+                const element = document.getElementById(fieldId);
+                if (element) {
+                    element.addEventListener('input', debounce(updatePreview, 300));
+                }
+            });
+        }
+        
+        // Mettre à jour l'aperçu
+        function updatePreview() {
+            collectFormData();
+            
+            // Mettre à jour les éléments de l'aperçu
+            document.getElementById('previewName').textContent = formData.name || '[Nom du mod]';
+            document.getElementById('previewIcon').textContent = formData.icon;
+            
+            // Catégorie formatée
+            const categoryText = formData.category 
+                ? (formData.category.charAt(0).toUpperCase() + formData.category.slice(1))
+                : '[Catégorie]';
+            document.getElementById('previewCategory').textContent = categoryText;
+            
+            // Description
+            document.getElementById('previewDescription').textContent = 
+                formData.description || '[Description courte du mod]';
+            
+            // Tags
+            const tagsContainer = document.getElementById('previewTags');
+            if (tagsContainer) {
+                tagsContainer.innerHTML = '';
+                if (formData.tags.length > 0) {
+                    formData.tags.forEach(tag => {
+                        const tagElement = document.createElement('span');
+                        tagElement.className = 'tag';
+                        tagElement.textContent = tag;
+                        tagsContainer.appendChild(tagElement);
+                    });
+                } else {
+                    tagsContainer.innerHTML = '<span class="tag">exemple</span>';
+                }
+            }
+            
+            // Métadonnées
+            document.getElementById('previewAuthor').innerHTML = 
+                `<i class="fas fa-user"></i> Auteur: ${formData.author || '--'}`;
+            document.getElementById('previewVersion').innerHTML = 
+                `<i class="fas fa-code-branch"></i> Version: ${formData.version || '--'}`;
+            document.getElementById('previewPopularity').innerHTML = 
+                `<i class="fas fa-star"></i> Popularité: ${formData.popularity}%`;
+            
+            // Mettre à jour la validation
+            updateValidation();
+        }
+        
+        // Mettre à jour la validation
+        function updateValidation() {
+            const validations = [
+                { id: 'name', valid: validateName() },
+                { id: 'category', valid: validateCategory() },
+                { id: 'description', valid: validateDescription() },
+                { id: 'icon', valid: formData.icon && formData.icon.trim().length > 0 }
+            ];
+            
+            // Mettre à jour l'affichage
+            const validationList = document.getElementById('validationList');
+            if (validationList) {
+                validationList.innerHTML = '';
+                
+                validations.forEach((validation, index) => {
+                    const item = document.createElement('div');
+                    item.className = 'validation-item';
+                    
+                    const icon = validation.valid ? 'fa-check validation-valid' : 'fa-times validation-invalid';
+                    const text = validation.id === 'name' ? 'Nom du mod valide' :
+                                validation.id === 'category' ? 'Catégorie sélectionnée' :
+                                validation.id === 'description' ? 'Description valide' :
+                                'Icône définie';
+                    
+                    item.innerHTML = `
+                        <i class="fas ${icon}"></i>
+                        <span>${text}</span>
+                    `;
+                    
+                    validationList.appendChild(item);
+                });
+            }
+            
+            // Mettre à jour le statut
+            const allValid = validations.every(v => v.valid);
+            const statusElement = document.getElementById('validationStatus');
+            if (statusElement) {
+                statusElement.textContent = allValid ? 'Formulaire valide' : 'Formulaire incomplet';
+                statusElement.className = `validation-status ${allValid ? 'valid' : 'invalid'}`;
+            }
+            
+            // Activer/désactiver le bouton de soumission
+            const submitBtn = document.getElementById('submitFormBtn');
+            if (submitBtn) {
+                submitBtn.disabled = !allValid;
+            }
+        }
+        
+        // Afficher un aperçu complet
+        function showFullPreview() {
+            collectFormData();
+            
+            // Créer un aperçu détaillé
+            let previewHTML = `
+                <h2>Aperçu complet du mod</h2>
+                <div class="full-preview">
+                    <div class="preview-header">
+                        <span class="preview-icon-large">${formData.icon}</span>
+                        <div>
+                            <h3>${formData.name || '[Nom du mod]'}</h3>
+                            <p class="preview-category">${formData.category || '[Catégorie]'}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="preview-section">
+                        <h4><i class="fas fa-align-left"></i> Description courte</h4>
+                        <p>${formData.description || '[Description courte]'}</p>
+                    </div>
+            `;
+            
+            if (formData.longDescription) {
+                previewHTML += `
+                    <div class="preview-section">
+                        <h4><i class="fas fa-align-justify"></i> Description complète</h4>
+                        <p>${formData.longDescription}</p>
+                    </div>
+                `;
+            }
+            
+            if (formData.features.length > 0) {
+                previewHTML += `
+                    <div class="preview-section">
+                        <h4><i class="fas fa-check-circle"></i> Fonctionnalités</h4>
+                        <ul>
+                            ${formData.features.map(f => `<li>${f}</li>`).join('')}
+                        </ul>
+                    </div>
+                `;
+            }
+            
+            if (formData.tags.length > 0) {
+                previewHTML += `
+                    <div class="preview-section">
+                        <h4><i class="fas fa-tags"></i> Tags</h4>
+                        <div class="tags-container">
+                            ${formData.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            previewHTML += `
+                    <div class="preview-section">
+                        <h4><i class="fas fa-info-circle"></i> Métadonnées</h4>
+                        <div class="metadata-grid">
+                            ${formData.author ? `<div><strong>Auteur:</strong> ${formData.author}</div>` : ''}
+                            ${formData.version ? `<div><strong>Version:</strong> ${formData.version}</div>` : ''}
+                            <div><strong>Popularité:</strong> ${formData.popularity}%</div>
+                            ${formData.dependencies ? `<div><strong>Dépendances:</strong> ${formData.dependencies}</div>` : ''}
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            // Afficher dans un modal
+            const modalContent = document.getElementById('modDetailContent');
+            if (modalContent) {
+                modalContent.innerHTML = previewHTML;
+                document.getElementById('modDetailModal').style.display = 'flex';
+            } else {
+                alert(previewHTML.replace(/<[^>]*>/g, ''));
+            }
+        }
+        
+        // Réinitialiser le formulaire
+        function resetForm() {
+            if (confirm('Êtes-vous sûr de vouloir effacer tous les champs du formulaire ?')) {
+                document.getElementById('createModForm').reset();
+                formData = {
+                    name: '',
+                    category: '',
+                    description: '',
+                    longDescription: '',
+                    icon: '📦',
+                    author: '',
+                    version: '',
+                    popularity: 50,
+                    tags: [],
+                    features: [],
+                    dependencies: ''
+                };
+                
+                updateTagsDisplay();
+                updateFeaturesDisplay();
+                updatePreview();
+                updateValidation();
+                
+                // Supprimer le brouillon
+                localStorage.removeItem('sandcraft_mod_draft');
+                draftSaved = false;
+                
+                showNotification('Formulaire réinitialisé', 'info');
+            }
+        }
+        
+        // Gérer la soumission du formulaire
+        async function handleFormSubmit(event) {
+            event.preventDefault();
+            
+            // Valider une dernière fois
+            if (!validateName() || !validateCategory() || !validateDescription()) {
+                showNotification('Veuillez corriger les erreurs dans le formulaire', 'error');
+                return;
+            }
+            
+            collectFormData();
+            
+            try {
+                // Afficher un indicateur de chargement
+                const submitBtn = document.getElementById('submitFormBtn');
+                const originalText = submitBtn.innerHTML;
+                submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Ajout en cours...';
+                submitBtn.disabled = true;
+                
+                // Ajouter le mod via SandCraftDB
+                if (window.SandCraftDB && window.SandCraftDB.addMod) {
+                    const newMod = window.SandCraftDB.addMod(formData);
+                    
+                    // Supprimer le brouillon
+                    localStorage.removeItem('sandcraft_mod_draft');
+                    
+                    // Afficher le modal de confirmation
+                    document.getElementById('successModName').textContent = newMod.name;
+                    document.getElementById('confirmationModal').style.display = 'flex';
+                    
+                    console.log('✅ Mod ajouté:', newMod);
+                    
+                } else {
+                    throw new Error('Système de base de données non disponible');
+                }
+                
+            } catch (error) {
+                console.error('❌ Erreur lors de l\'ajout:', error);
+                showNotification(`Erreur: ${error.message}`, 'error');
+                
+                // Réactiver le bouton
+                const submitBtn = document.getElementById('submitFormBtn');
+                submitBtn.innerHTML = '<i class="fas fa-check-circle"></i> Ajouter le mod';
+                submitBtn.disabled = false;
+            }
+        }
+        
+        // Fermer le modal de confirmation
+        function closeConfirmationModal() {
+            document.getElementById('confirmationModal').style.display = 'none';
+        }
+        
+        // Réinitialiser et fermer le modal
+        function resetFormAndCloseModal() {
+            closeConfirmationModal();
+            resetForm();
+        }
+        
+        // Afficher une notification
+        function showNotification(message, type = 'info') {
+            // Créer l'élément de notification
+            const notification = document.createElement('div');
+            notification.className = `notification notification-${type}`;
+            notification.innerHTML = `
+                <i class="fas fa-${type === 'success' ? 'check-circle' : type === 'error' ? 'exclamation-circle' : 'info-circle'}"></i>
+                <span>${message}</span>
+            `;
+            
+            // Styles
+            notification.style.cssText = `
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                padding: 15px 20px;
+                border-radius: 10px;
+                background: ${type === 'success' ? '#27ae60' : type === 'error' ? '#ff4757' : '#3498db'};
+                color: white;
+                box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+                z-index: 10000;
+                animation: slideIn 0.3s ease;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            `;
+            
+            document.body.appendChild(notification);
+            
+            // Supprimer après 5 secondes
+            setTimeout(() => {
+                notification.style.animation = 'slideOut 0.3s ease';
+                setTimeout(() => notification.remove(), 300);
+            }, 5000);
+        }
+        
+        // Fonction debounce
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+        
+        // Ajouter des styles pour les animations
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+            }
+            
+            @keyframes slideOut {
+                from {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+                to {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+            }
+            
+            .validation-valid {
+                color: #27ae60;
+            }
+            
+            .validation-invalid {
+                color: #ff4757;
+            }
+            
+            .validation-status.valid {
+                color: #27ae60;
+            }
+            
+            .validation-status.invalid {
+                color: #ff4757;
+            }
+            
+            .success-icon {
+                font-size: 4rem;
+                color: #27ae60;
+                margin-bottom: 20px;
+            }
+        `;
+        document.head.appendChild(style);
+        
+        console.log('✅ Script de création chargé');
+    </script>
+</body>
+</html>
