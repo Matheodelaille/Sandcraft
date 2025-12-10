@@ -3,247 +3,1015 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SandCraft Wiki</title>
-    <link rel="stylesheet" href="./styles.css">
+    <title>SandCraft Wiki - Le Wiki officiel</title>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="./assets/css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="https://img.icons8.com/color/96/000000/minecraft-logo.png">
+    
+    <!-- Metadata -->
+    <meta name="description" content="Le Wiki officiel de SandCraft - Tous les mods, guides et ressources pour votre serveur moddé">
+    <meta name="keywords" content="minecraft, mods, sandcraft, wiki, create, automation, magic">
+    <meta name="author" content="Matheodelaille">
+    
+    <style>
+        /* Styles d'initialisation */
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #00dbde;
+            font-size: 1.5rem;
+        }
+        
+        .loading-spinner {
+            border: 4px solid rgba(0, 219, 222, 0.3);
+            border-top: 4px solid #00dbde;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin-right: 15px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Header -->
-        <header class="header">
-            <h1><i class="fas fa-cube"></i> SandCraft Wiki</h1>
-            <p>Gestionnaire d'extensions, mods et guides</p>
-        </header>
-
-        <!-- Sidebar -->
-        <aside class="sidebar">
-            <div class="sidebar-section">
-                <h3><i class="fas fa-search"></i> Recherche</h3>
-                <div class="search-box">
-                    <input type="text" id="searchInput" placeholder="Rechercher une extension...">
-                    <button id="searchButton"><i class="fas fa-search"></i></button>
-                </div>
-            </div>
-
-            <div class="sidebar-section">
-                <h3><i class="fas fa-filter"></i> Filtres</h3>
-                <div class="filter-group">
-                    <label for="categoryFilter">Catégorie:</label>
-                    <select id="categoryFilter">
-                        <option value="">Toutes les catégories</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label for="tagFilter">Tag:</label>
-                    <select id="tagFilter">
-                        <option value="">Tous les tags</option>
-                    </select>
-                </div>
-                <button id="resetFilters" class="btn-secondary">
-                    <i class="fas fa-redo"></i> Réinitialiser
-                </button>
-            </div>
-
-            <div class="sidebar-section">
-                <h3><i class="fas fa-bolt"></i> Actions Rapides</h3>
-                <button id="showAll" class="btn-primary">
-                    <i class="fas fa-list"></i> Voir toutes les extensions
-                </button>
-                <button id="createModBtn" class="btn-success">
-                    <i class="fas fa-plus"></i> Créer un Mod
-                </button>
-                <button id="createGuideBtn" class="btn-info">
-                    <i class="fas fa-book"></i> Créer un Guide
-                </button>
-            </div>
-
-            <div class="sidebar-section stats">
-                <h3><i class="fas fa-chart-bar"></i> Statistiques</h3>
-                <div class="stat-item">
-                    <span>Extensions:</span>
-                    <span id="extensionCount">0</span>
-                </div>
-                <div class="stat-item">
-                    <span>Mods:</span>
-                    <span id="modCount">0</span>
-                </div>
-                <div class="stat-item">
-                    <span>Guides:</span>
-                    <span id="guideCount">0</span>
-                </div>
-            </div>
-        </aside>
-                <!-- Main Content -->
-        <main class="main-content">
-            <!-- Onglets de navigation -->
-            <div class="tabs">
-                <button class="tab-btn active" data-tab="extensions">
-                    <i class="fas fa-puzzle-piece"></i> Extensions
-                </button>
-                <button class="tab-btn" data-tab="mods">
-                    <i class="fas fa-tools"></i> Mods
-                </button>
-                <button class="tab-btn" data-tab="guides">
-                    <i class="fas fa-book"></i> Guides
-                </button>
-            </div>
-
-            <!-- Section Extensions -->
-            <div id="extensions" class="tab-content active">
-                <h2><i class="fas fa-puzzle-piece"></i> Extensions Disponibles</h2>
-                <div class="controls">
-                    <div class="view-toggle">
-                        <button class="view-option active" data-view="grid">
-                            <i class="fas fa-th"></i> Grille
-                        </button>
-                        <button class="view-option" data-view="list">
-                            <i class="fas fa-list"></i> Liste
-                        </button>
-                    </div>
-                    <div class="sort-controls">
-                        <select id="sortSelect">
-                            <option value="name">Trier par: Nom</option>
-                            <option value="date">Trier par: Date</option>
-                            <option value="popularity">Trier par: Popularité</option>
-                        </select>
-                    </div>
-                </div>
-                <div id="extensionsList" class="grid-view">
-                    <!-- Les extensions s'afficheront ici dynamiquement -->
-                </div>
-            </div>
-
-            <!-- Section Mods -->
-            <div id="mods" class="tab-content">
-                <h2><i class="fas fa-tools"></i> Mods Créés</h2>
-                <div id="modsList" class="mods-container">
-                    <!-- Les mods s'afficheront ici dynamiquement -->
-                </div>
-            </div>
-
-            <!-- Section Guides -->
-            <div id="guides" class="tab-content">
-                <h2><i class="fas fa-book"></i> Guides</h2>
-                <div id="guidesList" class="guides-container">
-                    <!-- Les guides s'afficheront ici dynamiquement -->
-                </div>
-            </div>
-
-            <!-- Formulaire de création de Mod (caché par défaut) -->
-            <div id="createModForm" class="modal" style="display: none;">
-                <div class="modal-content">
-                    <h2><i class="fas fa-plus"></i> Créer un Nouveau Mod</h2>
-                    <form id="modForm">
-                        <div class="form-group">
-                            <label for="modName">Nom du Mod *</label>
-                            <input type="text" id="modName" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="modDescription">Description</label>
-                            <textarea id="modDescription" rows="3"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <label for="modVersion">Version</label>
-                            <input type="text" id="modVersion" placeholder="1.0.0">
-                        </div>
-                        <div class="form-group">
-                            <label for="modAuthor">Auteur</label>
-                            <input type="text" id="modAuthor">
-                        </div>
-                        <div class="form-group">
-                            <label for="modExtensions">Extensions utilisées</label>
-                            <select id="modExtensions" multiple>
-                                <!-- Options chargées dynamiquement -->
-                            </select>
-                            <small>Sélectionnez avec Ctrl/Cmd</small>
-                        </div>
-                        <div class="form-actions">
-                            <button type="submit" class="btn-success">
-                                <i class="fas fa-save"></i> Enregistrer
-                            </button>
-                            <button type="button" id="cancelMod" class="btn-secondary">
-                                <i class="fas fa-times"></i> Annuler
-                            </button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-                        <!-- Formulaire de création de Guide (caché par défaut) -->
-            <div id="createGuideForm" class="modal" style="display: none;">
-                <div class="modal-content">
-                    <h2><i class="fas fa-book-medical"></i> Créer un Nouveau Guide</h2>
-                    <form id="guideForm">
-                        <div class="form-group">
-                            <label for="guideTitle">Titre du Guide *</label>
-                            <input type="text" id="guideTitle" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="guideContent">Contenu</label>
-                            <textarea id="guideContent" rows="6" placeholder="Décrivez votre guide ici..."></textarea>
-                        </div>
-                        <div class="form-group">
-                            <label for="guideCategory">Catégorie</label>
-                            <select id="guideCategory">
-                                <option value="tutoriel">Tutoriel</option>
-                                <option value="reference">Référence</option>
-                                <option value="astuce">Astuce</option>
-                                <option value="avance">Avancé</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="guideTags">Tags</label>
-                            <input type="text" id="guideTags" placeholder="tag1, tag2, tag3">
-                        </div>
-                        <div class="form-actions">
-                            <button type="submit" class="btn-success">
-                                <i class="fas fa-save"></i> Enregistrer
-                            </button>
-                            <button type="button" id="cancelGuide" class="btn-secondary">
-                                <i class="fas fa-times"></i> Annuler
-                            </button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-            <!-- Modal de détails (caché par défaut) -->
-            <div id="detailModal" class="modal" style="display: none;">
-                <div class="modal-content">
-                    <div id="detailContent">
-                        <!-- Contenu chargé dynamiquement -->
-                    </div>
-                    <button id="closeDetail" class="btn-secondary">
-                        <i class="fas fa-times"></i> Fermer
-                    </button>
-                </div>
-            </div>
-        </main>
-
-        <!-- Footer -->
-        <footer class="footer">
-            <p>SandCraft Wiki &copy; 2024 - Gestion des extensions, mods et guides</p>
-            <div class="footer-links">
-                <button id="exportData" class="btn-small">
-                    <i class="fas fa-download"></i> Exporter
-                </button>
-                <button id="importData" class="btn-small">
-                    <i class="fas fa-upload"></i> Importer
-                </button>
-                <button id="clearData" class="btn-small btn-danger">
-                    <i class="fas fa-trash"></i> Tout effacer
-                </button>
-            </div>
-        </footer>
+    <!-- Écran de chargement -->
+    <div id="loadingScreen" class="loading">
+        <div class="loading-spinner"></div>
+        <span>Chargement du Wiki SandCraft...</span>
     </div>
-
-    <!-- Scripts -->
-    <script src="./database.js"></script>
-    <script src="./search.js"></script>
+    
+    <!-- Contenu principal (caché pendant le chargement) -->
+    <div id="mainContent" style="display: none;">
+        <!-- Container principal -->
+        <div class="container">
+            
+            <!-- Header -->
+            <header class="site-header">
+                <div class="header-content">
+                    <h1 class="site-title">
+                        <i class="fas fa-cube"></i> SandCraft Wiki
+                    </h1>
+                    <p class="site-subtitle">
+                        Le Wiki officiel de mon serveur moddé SandCraft pour tous les mods du modpack !
+                    </p>
+                    
+                    <!-- Navigation -->
+                    <nav class="main-nav">
+                        <a href="./" class="nav-link active">
+                            <i class="fas fa-home"></i> Accueil
+                        </a>
+                        <a href="./modlist.html" class="nav-link">
+                            <i class="fas fa-list"></i> Tous les Mods
+                        </a>
+                        <a href="./create.html" class="nav-link">
+                            <i class="fas fa-plus-circle"></i> Ajouter un Mod
+                        </a>
+                        <a href="./guides.html" class="nav-link">
+                            <i class="fas fa-book"></i> Guides
+                        </a>
+                        <a href="https://github.com/Matheodelaille/Sandcraft" class="nav-link" target="_blank">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                    </nav>
+                </div>
+                
+                <!-- Statistiques rapides -->
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <i class="fas fa-box"></i>
+                        <span class="stat-label">Mods</span>
+                        <span class="stat-value" id="totalModsCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-layer-group"></i>
+                        <span class="stat-label">Catégories</span>
+                        <span class="stat-value" id="categoriesCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-tags"></i>
+                        <span class="stat-label">Tags</span>
+                        <span class="stat-value" id="tagsCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span class="stat-label">Mise à jour</span>
+                        <span class="stat-value" id="lastUpdate">Aujourd'hui</span>
+                    </div>
+                </div>
+            </header>
+            
+            <!-- Grille principale -->
+            <div class="main-grid">
+                
+                <!-- Sidebar -->
+                <aside class="sidebar">
+                    <!-- Recherche -->
+                    <div class="sidebar-section">
+                        <h3 class="section-title">
+                            <i class="fas fa-search"></i> Recherche
+                        </h3>
+                        <div class="search-box">
+                            <input type="text" 
+                                   class="search-input" 
+                                   id="mainSearchInput"
+                                   placeholder="Rechercher un mod...">
+                            <button class="btn btn-primary" id="mainSearchButton">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <!-- Filtres -->
+                    <div class="sidebar-section">
+                        <h3 class="section-title">
+                            <i class="fas fa-filter"></i> Filtres
+                        </h3>
+                        
+                        <div class="filter-group">
+                            <label for="categoryFilter">
+                                <i class="fas fa-folder"></i> Catégorie
+                            </label>
+                            <select class="filter-select" id="categoryFilter">
+                                <option value="">Toutes les catégories</option>
+                                <!-- Rempli dynamiquement -->
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="tagFilter">
+                                <i class="fas fa-tag"></i> Tag
+                            </label>
+                            <select class="filter-select" id="tagFilter">
+                                <option value="">Tous les tags</option>
+                                <!-- Rempli dynamiquement -->
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="sortFilter">
+                                <i class="fas fa-sort"></i> Trier par
+                            </label>
+                            <select class="filter-select" id="sortFilter">
+                                <option value="name">Nom (A-Z)</option>
+                                <option value="name_desc">Nom (Z-A)</option>
+                                <option value="date">Date (récent)</option>
+                                <option value="date_old">Date (ancien)</option>
+                                <option value="popularity">Popularité</option>
+                            </select>
+                        </div>
+                        
+                        <button class="btn btn-secondary btn-block" id="resetFiltersBtn">
+                            <i class="fas fa-redo"></i> Réinitialiser les filtres
+                        </button>
+                    </div>
+                    
+                    <!-- Actions rapides -->
+                    <div class="sidebar-section">
+                        <h3 class="section-title">
+                            <i class="fas fa-bolt"></i> Actions Rapides
+                        </h3>
+                        
+                        <button class="btn btn-primary btn-block" id="showAllModsBtn">
+                            <i class="fas fa-list"></i> Voir tous les mods
+                        </button>
+                        
+                        <button class="btn btn-success btn-block" id="createModBtn">
+                            <i class="fas fa-plus"></i> Ajouter un mod
+                        </button>
+                        
+                        <button class="btn btn-info btn-block" id="refreshDataBtn">
+                            <i class="fas fa-sync-alt"></i> Actualiser les données
+                        </button>
+                    </div>
+                    
+                    <!-- Aide -->
+                    <div class="sidebar-section">
+                        <h3 class="section-title">
+                            <i class="fas fa-question-circle"></i> Aide
+                        </h3>
+                        <p class="help-text">
+                            Cliquez sur une catégorie pour voir tous ses mods, ou utilisez la recherche pour trouver un mod spécifique.
+                        </p>
+                        <div class="help-links">
+                            <a href="./guides.html" class="help-link">
+                                <i class="fas fa-book"></i> Guide d'utilisation
+                            </a>
+                            <a href="https://github.com/Matheodelaille/Sandcraft/issues" 
+                               class="help-link" target="_blank">
+                                <i class="fas fa-bug"></i> Signaler un bug
+                            </a>
+                        </div>
+                    </div>
+                </aside>
+                                <!-- Contenu principal -->
+                <main class="main-content">
+                    <!-- En-tête du contenu -->
+                    <div class="content-header">
+                        <h1>
+                            <i class="fas fa-th-large"></i> 
+                            <span id="currentViewTitle">Catégories de Mods</span>
+                        </h1>
+                        
+                        <div class="content-controls">
+                            <div class="view-toggle">
+                                <button class="view-toggle-btn active" data-view="categories">
+                                    <i class="fas fa-th-large"></i> Catégories
+                                </button>
+                                <button class="view-toggle-btn" data-view="grid">
+                                    <i class="fas fa-th"></i> Grille
+                                </button>
+                                <button class="view-toggle-btn" data-view="list">
+                                    <i class="fas fa-list"></i> Liste
+                                </button>
+                            </div>
+                            
+                            <div class="results-info">
+                                <span id="resultsCount">0</span> mods trouvés
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Message d'erreur/chargement -->
+                    <div id="messageContainer" class="message-container hidden">
+                        <div class="message-content">
+                            <i class="fas fa-info-circle"></i>
+                            <span id="messageText"></span>
+                        </div>
+                    </div>
+                    
+                    <!-- Vue Catégories (par défaut) -->
+                    <div id="categoriesView" class="content-view active">
+                        <div class="categories-intro">
+                            <p>
+                                Explorez les différentes catégories de mods disponibles sur le serveur SandCraft. 
+                                Chaque catégorie regroupe des mods similaires par thématique.
+                            </p>
+                        </div>
+                        
+                        <!-- Grille des catégories -->
+                        <div class="category-grid" id="categoryGrid">
+                            <!-- Rempli dynamiquement par JavaScript -->
+                            <div class="category-card loading-card">
+                                <div class="category-header">
+                                    <div class="category-icon">
+                                        <div class="loading-shimmer"></div>
+                                    </div>
+                                    <h2 class="category-title">
+                                        <div class="loading-shimmer" style="width: 150px;"></div>
+                                    </h2>
+                                </div>
+                                <p class="category-description">
+                                    <div class="loading-shimmer"></div>
+                                    <div class="loading-shimmer" style="width: 80%;"></div>
+                                </p>
+                                <div class="mod-count">
+                                    <div class="loading-shimmer" style="width: 100px;"></div>
+                                </div>
+                            </div>
+                            
+                            <!-- Répété pour l'effet de chargement -->
+                            <div class="category-card loading-card">
+                                <div class="category-header">
+                                    <div class="category-icon">
+                                        <div class="loading-shimmer"></div>
+                                    </div>
+                                    <h2 class="category-title">
+                                        <div class="loading-shimmer" style="width: 150px;"></div>
+                                    </h2>
+                                </div>
+                                <p class="category-description">
+                                    <div class="loading-shimmer"></div>
+                                    <div class="loading-shimmer" style="width: 80%;"></div>
+                                </p>
+                                <div class="mod-count">
+                                    <div class="loading-shimmer" style="width: 100px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Vue Grille (mods) -->
+                    <div id="gridView" class="content-view">
+                        <div class="mods-grid" id="modsGrid">
+                            <!-- Rempli dynamiquement quand on filtre/change de vue -->
+                        </div>
+                    </div>
+                    
+                    <!-- Vue Liste (mods) -->
+                    <div id="listView" class="content-view">
+                        <div class="mods-list-container">
+                            <table class="mods-table" id="modsTable">
+                                <thead>
+                                    <tr>
+                                        <th>Nom</th>
+                                        <th>Catégorie</th>
+                                        <th>Description</th>
+                                        <th>Tags</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Rempli dynamiquement -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    <!-- Pagination (si beaucoup de résultats) -->
+                    <div class="pagination-container hidden" id="paginationContainer">
+                        <div class="pagination">
+                            <button class="pagination-btn" id="prevPageBtn" disabled>
+                                <i class="fas fa-chevron-left"></i> Précédent
+                            </button>
+                            
+                            <div class="page-numbers" id="pageNumbers">
+                                <span class="page-number active">1</span>
+                            </div>
+                            
+                            <button class="pagination-btn" id="nextPageBtn">
+                                Suivant <i class="fas fa-chevron-right"></i>
+                            </button>
+                        </div>
+                        
+                        <div class="page-info">
+                            Page <span id="currentPage">1</span> sur <span id="totalPages">1</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Section "Derniers ajouts" -->
+                    <div class="recent-mods-section">
+                        <h3>
+                            <i class="fas fa-history"></i> Derniers mods ajoutés
+                        </h3>
+                        <div class="recent-mods-grid" id="recentModsGrid">
+                            <!-- Rempli dynamiquement -->
+                        </div>
+                    </div>
+                </main>
+            </div> <!-- Fin de .main-grid -->
+            
+            <!-- Modal de détail du mod -->
+            <div id="modDetailModal" class="modal">
+                <div class="modal-content" id="modDetailContent">
+                    <!-- Rempli dynamiquement -->
+                </div>
+            </div>
+            
+            <!-- Modal de création de mod -->
+            <div id="createModal" class="modal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2>
+                            <i class="fas fa-plus-circle"></i> Ajouter un nouveau mod
+                        </h2>
+                        <button class="close-modal-btn" id="closeCreateModal">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="modal-body">
+                        <p class="modal-intro">
+                            Remplissez ce formulaire pour ajouter un nouveau mod au wiki.
+                            Tous les champs marqués d'un * sont obligatoires.
+                        </p>
+                        
+                        <form id="createModForm">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="modName">
+                                        <i class="fas fa-heading"></i> Nom du mod *
+                                    </label>
+                                    <input type="text" 
+                                           id="modName" 
+                                           name="modName" 
+                                           required
+                                           placeholder="Ex: Create, Ars Nouveau...">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="modCategory">
+                                        <i class="fas fa-folder"></i> Catégorie *
+                                    </label>
+                                    <select id="modCategory" name="modCategory" required>
+                                        <option value="">Sélectionnez une catégorie</option>
+                                        <!-- Rempli dynamiquement -->
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="modDescription">
+                                    <i class="fas fa-align-left"></i> Description courte *
+                                </label>
+                                <textarea id="modDescription" 
+                                          name="modDescription" 
+                                          rows="3"
+                                          required
+                                          placeholder="Décrivez brièvement le mod..."></textarea>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="modLongDescription">
+                                    <i class="fas fa-align-justify"></i> Description détaillée
+                                </label>
+                                <textarea id="modLongDescription" 
+                                          name="modLongDescription" 
+                                          rows="5"
+                                          placeholder="Description complète, fonctionnalités..."></textarea>
+                            </div>
+                            
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="modIcon">
+                                        <i class="fas fa-icons"></i> Icône
+                                    </label>
+                                    <input type="text" 
+                                           id="modIcon" 
+                                           name="modIcon"
+                                           placeholder="Ex: ⚙️, 🔮, 🌱...">
+                                    <small class="form-help">
+                                        Utilisez un emoji comme icône
+                                    </small>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="modAuthor">
+                                        <i class="fas fa-user"></i> Auteur
+                                    </label>
+                                    <input type="text" 
+                                           id="modAuthor" 
+                                           name="modAuthor"
+                                           placeholder="Nom de l'auteur du mod">
+                                </div>
+                            </div>
+                            
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="modVersion">
+                                        <i class="fas fa-code-branch"></i> Version
+                                    </label>
+                                    <input type="text" 
+                                           id="modVersion" 
+                                           name="modVersion"
+                                           placeholder="Ex: 1.0.0">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="modPopularity">
+                                        <i class="fas fa-star"></i> Popularité (0-100)
+                                    </label>
+                                    <input type="number" 
+                                           id="modPopularity" 
+                                           name="modPopularity"
+                                           min="0" max="100" value="50">
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="modTags">
+                                    <i class="fas fa-tags"></i> Tags
+                                </label>
+                                <input type="text" 
+                                       id="modTags" 
+                                       name="modTags"
+                                       placeholder="mécanique, automatisation, énergie...">
+                                <small class="form-help">
+                                    Séparez les tags par des virgules
+                                </small>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="modFeatures">
+                                    <i class="fas fa-check-circle"></i> Fonctionnalités
+                                </label>
+                                <textarea id="modFeatures" 
+                                          name="modFeatures" 
+                                          rows="3"
+                                          placeholder="Listez les principales fonctionnalités, une par ligne..."></textarea>
+                            </div>
+                            
+                            <div class="form-actions">
+                                <button type="button" 
+                                        class="btn btn-secondary" 
+                                        id="cancelCreateModal">
+                                    <i class="fas fa-times"></i> Annuler
+                                </button>
+                                
+                                <button type="submit" 
+                                        class="btn btn-success">
+                                    <i class="fas fa-save"></i> Ajouter le mod
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+                        <!-- Footer -->
+            <footer class="site-footer">
+                <div class="footer-content">
+                    <div class="footer-section">
+                        <h4>
+                            <i class="fas fa-cube"></i> SandCraft Wiki
+                        </h4>
+                        <p class="footer-description">
+                            Le Wiki officiel de mon serveur moddé SandCraft pour tous les mods du modpack !
+                        </p>
+                        <div class="footer-links">
+                            <a href="./" class="footer-link">
+                                <i class="fas fa-home"></i> Accueil
+                            </a>
+                            <a href="./modlist.html" class="footer-link">
+                                <i class="fas fa-list"></i> Tous les mods
+                            </a>
+                            <a href="./create.html" class="footer-link">
+                                <i class="fas fa-plus"></i> Ajouter un mod
+                            </a>
+                            <a href="./guides.html" class="footer-link">
+                                <i class="fas fa-book"></i> Guides
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h4>
+                            <i class="fas fa-database"></i> Données
+                        </h4>
+                        <div class="footer-stats">
+                            <div class="footer-stat">
+                                <i class="fas fa-box"></i>
+                                <span id="footerModsCount">0</span> mods
+                            </div>
+                            <div class="footer-stat">
+                                <i class="fas fa-layer-group"></i>
+                                <span id="footerCategoriesCount">0</span> catégories
+                            </div>
+                            <div class="footer-stat">
+                                <i class="fas fa-tags"></i>
+                                <span id="footerTagsCount">0</span> tags
+                            </div>
+                        </div>
+                        <div class="footer-actions">
+                            <button class="btn btn-small btn-secondary" id="exportDataBtn">
+                                <i class="fas fa-download"></i> Exporter
+                            </button>
+                            <button class="btn btn-small btn-secondary" id="importDataBtn">
+                                <i class="fas fa-upload"></i> Importer
+                            </button>
+                            <button class="btn btn-small btn-danger" id="resetDataBtn">
+                                <i class="fas fa-redo"></i> Réinitialiser
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h4>
+                            <i class="fas fa-info-circle"></i> Informations
+                        </h4>
+                        <p class="footer-info">
+                            <i class="fas fa-user"></i> 
+                            <strong>Créateur :</strong> Matheodelaille
+                        </p>
+                        <p class="footer-info">
+                            <i class="fas fa-code"></i> 
+                            <strong>Version :</strong> 2.0.0
+                        </p>
+                        <p class="footer-info">
+                            <i class="fas fa-calendar-alt"></i> 
+                            <strong>Dernière mise à jour :</strong>
+                            <span id="footerLastUpdate">Aujourd'hui</span>
+                        </p>
+                        <div class="footer-social">
+                            <a href="https://github.com/Matheodelaille/Sandcraft" 
+                               class="social-link" 
+                               target="_blank"
+                               title="GitHub">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="#" class="social-link" title="Discord">
+                                <i class="fab fa-discord"></i>
+                            </a>
+                            <a href="#" class="social-link" title="Twitter">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="footer-bottom">
+                    <p class="copyright">
+                        &copy; 2024 SandCraft Wiki. Tous droits réservés.
+                        <span class="footer-note">
+                            Non affilié à Mojang ou Microsoft.
+                        </span>
+                    </p>
+                    <div class="footer-technical">
+                        <span class="tech-info">
+                            <i class="fas fa-code"></i> 
+                            Construit avec HTML, CSS & JavaScript
+                        </span>
+                        <span class="tech-info">
+                            <i class="fas fa-server"></i> 
+                            Hébergé sur GitHub Pages
+                        </span>
+                    </div>
+                </div>
+            </footer>
+        </div> <!-- Fin de .container -->
+    </div> <!-- Fin de #mainContent -->
+    
+    <!-- Scripts JavaScript -->
+    <script src="./assets/js/database.js"></script>
+    <script src="./assets/js/search.js"></script>
+    
+    <!-- Script d'initialisation -->
     <script>
-        // Script d'initialisation
-        document.addEventListener('DOMContentLoaded', function() {
-            console.log('SandCraft Wiki chargé !');
+        // Initialisation de l'application
+        document.addEventListener('DOMContentLoaded', async function() {
+            console.log('🚀 Démarrage de SandCraft Wiki...');
+            
+            // Cacher l'écran de chargement après un délai
+            setTimeout(function() {
+                const loadingScreen = document.getElementById('loadingScreen');
+                const mainContent = document.getElementById('mainContent');
+                
+                if (loadingScreen && mainContent) {
+                    loadingScreen.style.display = 'none';
+                    mainContent.style.display = 'block';
+                    
+                    // Animation d'apparition
+                    mainContent.style.opacity = '0';
+                    mainContent.style.transition = 'opacity 0.5s ease';
+                    
+                    setTimeout(() => {
+                        mainContent.style.opacity = '1';
+                    }, 50);
+                    
+                    console.log('✅ Interface chargée');
+                }
+            }, 500);
+            
+            // Attendre que la base de données soit prête
+            document.addEventListener('sandcraftdb:ready', function(event) {
+                console.log('🎯 Base de données prête, initialisation de l\'interface...');
+                initializeInterface();
+            });
+            
+            // Fallback: initialiser après 2 secondes
+            setTimeout(function() {
+                if (typeof window.SandCraftDB !== 'undefined') {
+                    console.log('⏱️ Initialisation par timeout...');
+                    initializeInterface();
+                }
+            }, 2000);
+            
+            // Initialiser l'interface
+            function initializeInterface() {
+                try {
+                    // Initialiser le système de recherche
+                    if (window.SandCraftSearch && typeof window.SandCraftSearch.initApp === 'function') {
+                        window.SandCraftSearch.initApp();
+                    } else if (window.initSandCraftWiki) {
+                        window.initSandCraftWiki();
+                    } else {
+                        console.warn('⚠️ Système de recherche non trouvé, initialisation manuelle...');
+                        manualInitialization();
+                    }
+                    
+                    // Configurer les boutons de navigation
+                    setupNavigation();
+                    
+                    // Configurer les modals
+                    setupModals();
+                    
+                    console.log('✅ Interface initialisée avec succès');
+                    
+                } catch (error) {
+                    console.error('❌ Erreur lors de l\'initialisation:', error);
+                    showErrorMessage('Erreur lors du chargement de l\'application');
+                }
+            }
+            
+            // Initialisation manuelle fallback
+            function manualInitialization() {
+                // Remplir les catégories et tags
+                updateCategoryFilter();
+                updateTagFilter();
+                
+                // Afficher les catégories
+                displayCategoriesManual();
+                
+                // Configurer les événements
+                setupEventListeners();
+                
+                // Mettre à jour les stats
+                updateStatsManual();
+            }
+            
+            // Remplir le filtre des catégories
+            function updateCategoryFilter() {
+                const categoryFilter = document.getElementById('categoryFilter');
+                if (!categoryFilter) return;
+                
+                if (window.SandCraftDB && window.SandCraftDB.getAllCategories) {
+                    const categories = window.SandCraftDB.getAllCategories();
+                    categories.forEach(category => {
+                        const option = document.createElement('option');
+                        option.value = category.id;
+                        option.textContent = category.name;
+                        categoryFilter.appendChild(option);
+                    });
+                }
+            }
+            
+            // Remplir le filtre des tags
+            function updateTagFilter() {
+                const tagFilter = document.getElementById('tagFilter');
+                if (!tagFilter) return;
+                
+                if (window.SandCraftDB && window.SandCraftDB.getAllTags) {
+                    const tags = window.SandCraftDB.getAllTags();
+                    tags.forEach(tag => {
+                        const option = document.createElement('option');
+                        option.value = tag.id;
+                        option.textContent = tag.name;
+                        tagFilter.appendChild(option);
+                    });
+                }
+            }
+            
+            // Afficher les catégories manuellement
+            function displayCategoriesManual() {
+                // À implémenter si nécessaire
+            }
+            
+            // Configurer les événements
+            function setupEventListeners() {
+                // Recherche
+                const searchInput = document.getElementById('mainSearchInput');
+                const searchButton = document.getElementById('mainSearchButton');
+                
+                if (searchInput && searchButton) {
+                    searchButton.addEventListener('click', function() {
+                        performSearch();
+                    });
+                    
+                    searchInput.addEventListener('keypress', function(e) {
+                        if (e.key === 'Enter') {
+                            performSearch();
+                        }
+                    });
+                }
+                
+                // Filtres
+                const categoryFilter = document.getElementById('categoryFilter');
+                const tagFilter = document.getElementById('tagFilter');
+                const sortFilter = document.getElementById('sortFilter');
+                
+                if (categoryFilter) {
+                    categoryFilter.addEventListener('change', performSearch);
+                }
+                
+                if (tagFilter) {
+                    tagFilter.addEventListener('change', performSearch);
+                }
+                
+                if (sortFilter) {
+                    sortFilter.addEventListener('change', performSearch);
+                }
+                
+                // Réinitialisation
+                const resetBtn = document.getElementById('resetFiltersBtn');
+                if (resetBtn) {
+                    resetBtn.addEventListener('click', function() {
+                        if (categoryFilter) categoryFilter.value = '';
+                        if (tagFilter) tagFilter.value = '';
+                        if (searchInput) searchInput.value = '';
+                        if (sortFilter) sortFilter.value = 'name';
+                        performSearch();
+                    });
+                }
+                
+                // Voir tous les mods
+                const showAllBtn = document.getElementById('showAllModsBtn');
+                if (showAllBtn) {
+                    showAllBtn.addEventListener('click', function() {
+                        window.location.href = './modlist.html';
+                    });
+                }
+                
+                // Créer un mod
+                const createBtn = document.getElementById('createModBtn');
+                if (createBtn) {
+                    createBtn.addEventListener('click', function() {
+                        window.location.href = './create.html';
+                    });
+                }
+            }
+            
+            // Effectuer une recherche
+            function performSearch() {
+                // À implémenter
+                console.log('Recherche effectuée');
+            }
+            
+            // Mettre à jour les stats manuellement
+            function updateStatsManual() {
+                if (window.SandCraftDB && window.SandCraftDB.getStats) {
+                    const stats = window.SandCraftDB.getStats();
+                    
+                    // Mettre à jour les compteurs
+                    const modsCountElements = document.querySelectorAll('#totalModsCount, #footerModsCount');
+                    modsCountElements.forEach(el => {
+                        el.textContent = stats.totalMods || 0;
+                    });
+                    
+                    const categoriesCountElements = document.querySelectorAll('#categoriesCount, #footerCategoriesCount');
+                    categoriesCountElements.forEach(el => {
+                        el.textContent = stats.totalCategories || 0;
+                    });
+                    
+                    const tagsCountElement = document.getElementById('footerTagsCount');
+                    if (tagsCountElement) {
+                        tagsCountElement.textContent = stats.totalTags || 0;
+                    }
+                    
+                    const lastUpdateElements = document.querySelectorAll('#lastUpdate, #footerLastUpdate');
+                    lastUpdateElements.forEach(el => {
+                        if (stats.lastUpdate) {
+                            const date = new Date(stats.lastUpdate);
+                            el.textContent = date.toLocaleDateString('fr-FR');
+                        }
+                    });
+                }
+            }
+            
+            // Configurer la navigation
+            function setupNavigation() {
+                // Navigation principale
+                const navLinks = document.querySelectorAll('.nav-link');
+                navLinks.forEach(link => {
+                    link.addEventListener('click', function(e) {
+                        if (this.getAttribute('href') === '#') {
+                            e.preventDefault();
+                        }
+                    });
+                });
+                
+                // Boutons d'export/import
+                const exportBtn = document.getElementById('exportDataBtn');
+                const importBtn = document.getElementById('importDataBtn');
+                const resetBtn = document.getElementById('resetDataBtn');
+                
+                if (exportBtn && window.SandCraftDB && window.SandCraftDB.exportData) {
+                    exportBtn.addEventListener('click', function() {
+                        window.SandCraftDB.exportData();
+                    });
+                }
+                
+                if (importBtn) {
+                    importBtn.addEventListener('click', function() {
+                        const input = document.createElement('input');
+                        input.type = 'file';
+                        input.accept = '.json';
+                        input.addEventListener('change', function(e) {
+                            if (e.target.files[0] && window.SandCraftDB && window.SandCraftDB.importData) {
+                                window.SandCraftDB.importData(e.target.files[0])
+                                    .then(result => {
+                                        alert(result.message || 'Import réussi');
+                                        location.reload();
+                                    })
+                                    .catch(error => {
+                                        alert('Erreur lors de l\'import: ' + error.message);
+                                    });
+                            }
+                        });
+                        input.click();
+                    });
+                }
+                
+                if (resetBtn && window.SandCraftDB && window.SandCraftDB.resetData) {
+                    resetBtn.addEventListener('click', function() {
+                        if (confirm('Êtes-vous sûr de vouloir réinitialiser toutes les données ?')) {
+                            window.SandCraftDB.resetData()
+                                .then(() => {
+                                    alert('Données réinitialisées avec succès');
+                                    location.reload();
+                                })
+                                .catch(error => {
+                                    alert('Erreur lors de la réinitialisation: ' + error.message);
+                                });
+                        }
+                    });
+                }
+            }
+            
+            // Configurer les modals
+            function setupModals() {
+                // Modal de création
+                const createModal = document.getElementById('createModal');
+                const closeCreateBtn = document.getElementById('closeCreateModal');
+                const cancelCreateBtn = document.getElementById('cancelCreateModal');
+                const createForm = document.getElementById('createModForm');
+                
+                if (closeCreateBtn && createModal) {
+                    closeCreateBtn.addEventListener('click', function() {
+                        createModal.style.display = 'none';
+                    });
+                }
+                
+                if (cancelCreateBtn && createModal) {
+                    cancelCreateBtn.addEventListener('click', function() {
+                        createModal.style.display = 'none';
+                        if (createForm) createForm.reset();
+                    });
+                }
+                
+                // Fermer en cliquant à l'extérieur
+                window.addEventListener('click', function(e) {
+                    const modals = document.querySelectorAll('.modal');
+                    modals.forEach(modal => {
+                        if (e.target === modal) {
+                            modal.style.display = 'none';
+                            if (createForm) createForm.reset();
+                        }
+                    });
+                });
+            }
+            
+            // Afficher un message d'erreur
+            function showErrorMessage(message) {
+                const messageContainer = document.getElementById('messageContainer');
+                const messageText = document.getElementById('messageText');
+                
+                if (messageContainer && messageText) {
+                    messageText.textContent = message;
+                    messageContainer.className = 'message-container error';
+                    messageContainer.classList.remove('hidden');
+                    
+                    // Cacher après 5 secondes
+                    setTimeout(() => {
+                        messageContainer.classList.add('hidden');
+                    }, 5000);
+                } else {
+                    alert(message);
+                }
+            }
         });
+        
+        // Gestion des vues (catégories/grille/liste)
+        document.addEventListener('click', function(e) {
+            if (e.target.closest('.view-toggle-btn')) {
+                const button = e.target.closest('.view-toggle-btn');
+                const view = button.dataset.view;
+                
+                // Mettre à jour les boutons actifs
+                document.querySelectorAll('.view-toggle-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                button.classList.add('active');
+                
+                // Afficher la vue correspondante
+                document.querySelectorAll('.content-view').forEach(viewEl => {
+                    viewEl.classList.remove('active');
+                });
+                
+                const targetView = document.getElementById(view + 'View');
+                if (targetView) {
+                    targetView.classList.add('active');
+                    
+                    // Mettre à jour le titre
+                    const titleMap = {
+                        'categories': 'Catégories de Mods',
+                        'grid': 'Mods en Grille',
+                        'list': 'Mods en Liste'
+                    };
+                    
+                    const titleElement = document.getElementById('currentViewTitle');
+                    if (titleElement) {
+                        titleElement.textContent = titleMap[view] || 'Mods';
+                    }
+                }
+            }
+        });
+        
+        // Fonction utilitaire pour formater les nombres
+        function formatNumber(num) {
+            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+        }
+        
+        console.log('✅ Scripts chargés avec succès');
     </script>
 </body>
 </html>
