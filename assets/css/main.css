@@ -1,0 +1,49 @@
+:root {
+    --primary: #4299E1;
+    --primary-dark: #2B6CB0;
+    --secondary: #ED8936;
+    --accent: #9F7AEA;
+    --background: #F7FAFC;
+    --surface: #FFFFFF;
+    --text: #2D3748;
+    --text-light: #718096;
+    --border: #E2E8F0;
+    --success: #48BB78;
+    --warning: #ECC94B;
+    --error: #F56565;
+    
+    /* Thème sombre */
+    --background-dark: #1A202C;
+    --surface-dark: #2D3748;
+    --text-dark: #E2E8F0;
+    --border-dark: #4A5568;
+}
+
+[data-theme="dark"] {
+    --background: var(--background-dark);
+    --surface: var(--surface-dark);
+    --text: var(--text-dark);
+    --border: var(--border-dark);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+    line-height: 1.6;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* ... plus de styles à suivre ... */
