@@ -1,0 +1,2193 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Items & Blocs - Sandcraft Wiki</title>
+    
+    <meta name="description" content="Base de données complète des 15,427 items et 7,542 blocs du modpack Sandcraft avec propriétés, recettes et utilisations.">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/items.css">
+    
+    <!-- Icônes -->
+    <link rel="icon" href="assets/images/favicon.ico">
+    
+    <!-- Polices -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- Bibliothèque pour les tooltips -->
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                        <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="#4299E1" stroke="#2D3748" stroke-width="2"/>
+                        <path d="M16 8L24 16L16 24L8 16L16 8Z" fill="#ED8936" stroke="#2D3748" stroke-width="1.5"/>
+                        <circle cx="16" cy="16" r="4" fill="#F6E05E"/>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">Sandcraft</span>
+                    <span class="logo-subtitle">Wiki</span>
+                </div>
+            </a>
+            
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link">
+                    <span class="nav-icon">🏠</span>
+                    <span class="nav-text">Accueil</span>
+                </a>
+                <a href="mods.html" class="nav-link">
+                    <span class="nav-icon">⚙️</span>
+                    <span class="nav-text">Mods</span>
+                </a>
+                <a href="items.html" class="nav-link active">
+                    <span class="nav-icon">📦</span>
+                    <span class="nav-text">Items</span>
+                    <span class="nav-badge" id="itemsCountNav">15k+</span>
+                </a>
+                <a href="recipes.html" class="nav-link">
+                    <span class="nav-icon">⚗️</span>
+                    <span class="nav-text">Recettes</span>
+                </a>
+                <a href="guides.html" class="nav-link">
+                    <span class="nav-icon">📚</span>
+                    <span class="nav-text">Guides</span>
+                </a>
+                <a href="search.html" class="nav-link search-link">
+                    <span class="nav-icon">🔍</span>
+                    <span class="nav-text">Recherche</span>
+                </a>
+            </div>
+            
+            <div class="nav-utils">
+                <button class="theme-toggle" aria-label="Changer le thème">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                <button class="menu-toggle" aria-label="Ouvrir le menu">
+                    <span class="menu-icon">☰</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header Items -->
+    <header class="page-header items-header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="page-title">
+                    <span class="title-icon">📦</span>
+                    Items & Blocs
+                </h1>
+                <p class="page-subtitle">
+                    Base de données complète de <span id="totalItemsCount">15,427</span> items et 
+                    <span id="totalBlocksCount">7,542</span> blocs du modpack
+                </p>
+                
+                <!-- Barre de recherche avancée -->
+                <div class="items-search">
+                    <div class="search-container">
+                        <div class="search-input-wrapper">
+                            <input type="text" 
+                                   id="itemsSearchInput" 
+                                   placeholder="Rechercher un item, un bloc, une description..."
+                                   autocomplete="off"
+                                   spellcheck="false">
+                            <div class="search-actions">
+                                <button class="search-clear" id="clearSearch" title="Effacer la recherche">
+                                    ✕
+                                </button>
+                                <button class="search-voice" id="voiceSearch" title="Recherche vocale">
+                                    🎤
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div class="search-options">
+                            <button class="search-btn primary" onclick="performItemsSearch()">
+                                <span class="search-icon">🔍</span>
+                                Rechercher
+                            </button>
+                            <button class="search-btn secondary" onclick="openAdvancedSearch()">
+                                <span class="search-icon">⚙️</span>
+                                Recherche avancée
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <!-- Filtres rapides -->
+                    <div class="quick-filters">
+                        <div class="filter-tags" id="quickFilterTags">
+                            <span class="filter-tag active" data-filter="type:all">Tous</span>
+                            <span class="filter-tag" data-filter="type:item">Items</span>
+                            <span class="filter-tag" data-filter="type:block">Blocs</span>
+                            <span class="filter-tag" data-filter="type:tool">Outils</span>
+                            <span class="filter-tag" data-filter="type:weapon">Armes</span>
+                            <span class="filter-tag" data-filter="type:armor">Armure</span>
+                            <span class="filter-tag" data-filter="type:food">Nourriture</span>
+                            <span class="filter-tag" data-filter="type:machine">Machines</span>
+                            <span class="filter-tag" data-filter="type:component">Composants</span>
+                            <span class="filter-tag" data-filter="type:resource">Ressources</span>
+                        </div>
+                        
+                        <div class="filter-by-mod">
+                            <select id="modFilter" class="mod-select">
+                                <option value="">Tous les mods</option>
+                                <!-- Rempli dynamiquement -->
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Statistiques items -->
+            <div class="header-stats">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">📦</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="itemsTotalCount">15,427</span>
+                            <span class="stat-label">Items total</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">🧱</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="blocksTotalCount">7,542</span>
+                            <span class="stat-label">Blocs</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">⚔️</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="toolsCount">1,248</span>
+                            <span class="stat-label">Outils & Armes</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">🍎</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="foodCount">684</span>
+                            <span class="stat-label">Nourriture</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">⚙️</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="machinesCount">892</span>
+                            <span class="stat-label">Machines</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">🧪</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="componentsCount">3,215</span>
+                            <span class="stat-label">Composants</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">💎</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="resourcesCount">2,847</span>
+                            <span class="stat-label">Ressources</span>
+                        </div>
+                    </div>
+                    
+                    <div class="stat-card">
+                        <div class="stat-icon">📊</div>
+                        <div class="stat-data">
+                            <span class="stat-value" id="uniqueModsCount">259</span>
+                            <span class="stat-label">Mods sources</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+        <!-- Contenu principal -->
+    <main class="items-main">
+        <div class="container">
+            <!-- Panneau de filtres avancés (mobile: caché) -->
+            <aside class="items-sidebar" id="itemsSidebar">
+                <div class="sidebar-header">
+                    <h3 class="sidebar-title">
+                        <span class="sidebar-icon">⚙️</span>
+                        Filtres avancés
+                    </h3>
+                    <button class="sidebar-close" onclick="toggleSidebar()">
+                        ✕
+                    </button>
+                </div>
+                
+                <!-- Recherche par propriétés -->
+                <div class="filter-section">
+                    <h4 class="filter-section-title">
+                        <span class="filter-icon">🔍</span>
+                        Propriétés
+                    </h4>
+                    
+                    <div class="filter-group">
+                        <label class="filter-label">Durabilité</label>
+                        <div class="range-filter">
+                            <input type="range" id="durabilityRange" min="0" max="5000" value="0">
+                            <div class="range-labels">
+                                <span>0</span>
+                                <span id="durabilityValue">Tout</span>
+                                <span>5000+</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label class="filter-label">Nourriture</label>
+                        <div class="range-filter">
+                            <input type="range" id="foodRange" min="0" max="20" value="0">
+                            <div class="range-labels">
+                                <span>0</span>
+                                <span id="foodValue">Tout</span>
+                                <span>20+</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label class="filter-label">Enchantabilité</label>
+                        <div class="range-filter">
+                            <input type="range" id="enchantRange" min="0" max="30" value="0">
+                            <div class="range-labels">
+                                <span>0</span>
+                                <span id="enchantValue">Tout</span>
+                                <span>30</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Filtre par rareté -->
+                <div class="filter-section">
+                    <h4 class="filter-section-title">
+                        <span class="filter-icon">💎</span>
+                        Rareté
+                    </h4>
+                    
+                    <div class="rarity-filters">
+                        <label class="rarity-filter">
+                            <input type="checkbox" name="rarity" value="common" checked>
+                            <span class="rarity-dot common"></span>
+                            <span class="rarity-label">Commun</span>
+                            <span class="rarity-count" id="commonCount">-</span>
+                        </label>
+                        
+                        <label class="rarity-filter">
+                            <input type="checkbox" name="rarity" value="uncommon" checked>
+                            <span class="rarity-dot uncommon"></span>
+                            <span class="rarity-label">Peu commun</span>
+                            <span class="rarity-count" id="uncommonCount">-</span>
+                        </label>
+                        
+                        <label class="rarity-filter">
+                            <input type="checkbox" name="rarity" value="rare" checked>
+                            <span class="rarity-dot rare"></span>
+                            <span class="rarity-label">Rare</span>
+                            <span class="rarity-count" id="rareCount">-</span>
+                        </label>
+                        
+                        <label class="rarity-filter">
+                            <input type="checkbox" name="rarity" value="epic" checked>
+                            <span class="rarity-dot epic"></span>
+                            <span class="rarity-label">Épique</span>
+                            <span class="rarity-count" id="epicCount">-</span>
+                        </label>
+                        
+                        <label class="rarity-filter">
+                            <input type="checkbox" name="rarity" value="legendary" checked>
+                            <span class="rarity-dot legendary"></span>
+                            <span class="rarity-label">Légendaire</span>
+                            <span class="rarity-count" id="legendaryCount">-</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <!-- Filtre par tag -->
+                <div class="filter-section">
+                    <h4 class="filter-section-title">
+                        <span class="filter-icon">🏷️</span>
+                        Tags Minecraft
+                    </h4>
+                    
+                    <div class="tags-filter">
+                        <input type="text" 
+                               id="tagSearch" 
+                               placeholder="Rechercher un tag..."
+                               class="tag-search-input">
+                        
+                        <div class="tags-container" id="tagsContainer">
+                            <!-- Rempli dynamiquement -->
+                            <div class="loading-tags">
+                                <div class="loading-spinner small"></div>
+                                <span>Chargement des tags...</span>
+                            </div>
+                        </div>
+                        
+                        <div class="selected-tags" id="selectedTags">
+                            <!-- Tags sélectionnés apparaissent ici -->
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Filtre par craft -->
+                <div class="filter-section">
+                    <h4 class="filter-section-title">
+                        <span class="filter-icon">⚗️</span>
+                        Méthode de craft
+                    </h4>
+                    
+                    <div class="craft-filters">
+                        <label class="craft-filter">
+                            <input type="checkbox" name="craft" value="shaped" checked>
+                            <span class="craft-icon">⬜</span>
+                            <span class="craft-label">Shaped</span>
+                        </label>
+                        
+                        <label class="craft-filter">
+                            <input type="checkbox" name="craft" value="shapeless" checked>
+                            <span class="craft-icon">🔘</span>
+                            <span class="craft-label">Shapeless</span>
+                        </label>
+                        
+                        <label class="craft-filter">
+                            <input type="checkbox" name="craft" value="furnace" checked>
+                            <span class="craft-icon">🔥</span>
+                            <span class="craft-label">Fourneau</span>
+                        </label>
+                        
+                        <label class="craft-filter">
+                            <input type="checkbox" name="craft" value="brewing" checked>
+                            <span class="craft-icon">🧪</span>
+                            <span class="craft-label">Alambic</span>
+                        </label>
+                        
+                        <label class="craft-filter">
+                            <input type="checkbox" name="craft" value="smithing" checked>
+                            <span class="craft-icon">⚔️</span>
+                            <span class="craft-label">Forge</span>
+                        </label>
+                        
+                        <label class="craft-filter">
+                            <input type="checkbox" name="craft" value="special" checked>
+                            <span class="craft-icon">✨</span>
+                            <span class="craft-label">Spécial</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <!-- Actions filtres -->
+                <div class="filter-actions">
+                    <button class="btn btn-primary full-width" onclick="applyItemFilters()">
+                        <span class="btn-icon">✅</span>
+                        Appliquer les filtres
+                    </button>
+                    
+                    <button class="btn btn-secondary full-width" onclick="resetItemFilters()">
+                        <span class="btn-icon">🔄</span>
+                        Réinitialiser tout
+                    </button>
+                    
+                    <button class="btn btn-export full-width" onclick="saveFilterPreset()">
+                        <span class="btn-icon">💾</span>
+                        Sauvegarder preset
+                    </button>
+                </div>
+                
+                <!-- Filtres sauvegardés -->
+                <div class="saved-presets" id="savedPresets">
+                    <h4 class="presets-title">Presets sauvegardés</h4>
+                    <div class="presets-list">
+                        <!-- Rempli depuis localStorage -->
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Section principale -->
+            <section class="items-content">
+                <!-- En-tête résultats -->
+                <div class="results-header">
+                    <div class="results-left">
+                        <button class="sidebar-toggle" onclick="toggleSidebar()" aria-label="Ouvrir les filtres">
+                            <span class="toggle-icon">⚙️</span>
+                            <span class="toggle-text">Filtres</span>
+                        </button>
+                        
+                        <div class="results-info">
+                            <h2 class="results-title">Items</h2>
+                            <p class="results-count" id="resultsCount">
+                                <span id="visibleItemsCount">0</span> items sur 
+                                <span id="totalItemsCount2">15,427</span>
+                            </p>
+                        </div>
+                        
+                        <!-- Filtres actifs -->
+                        <div class="active-filters" id="activeFilters">
+                            <!-- Rempli dynamiquement -->
+                        </div>
+                    </div>
+                    
+                    <div class="results-right">
+                        <!-- Affichage -->
+                        <div class="display-options">
+                            <div class="view-toggle">
+                                <button class="view-btn active" data-view="grid" title="Vue grille">
+                                    <span class="view-icon">⎔</span>
+                                </button>
+                                <button class="view-btn" data-view="list" title="Vue liste">
+                                    <span class="view-icon">☰</span>
+                                </button>
+                                <button class="view-btn" data-view="compact" title="Vue compacte">
+                                    <span class="view-icon">⏺️</span>
+                                </button>
+                            </div>
+                            
+                            <div class="sort-options">
+                                <select id="sortItems" class="sort-select">
+                                    <option value="name_asc">Nom (A-Z)</option>
+                                    <option value="name_desc">Nom (Z-A)</option>
+                                    <option value="mod">Mod</option>
+                                    <option value="rarity">Rareté</option>
+                                    <option value="durability">Durabilité</option>
+                                    <option value="recent">Récent</option>
+                                    <option value="popular">Populaire</option>
+                                </select>
+                            </div>
+                            
+                            <div class="items-per-page">
+                                <select id="itemsPerPage" class="page-select">
+                                    <option value="24">24/page</option>
+                                    <option value="48" selected>48/page</option>
+                                    <option value="96">96/page</option>
+                                    <option value="192">192/page</option>
+                                    <option value="all">Tout</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Conteneur items -->
+                <div class="items-container" id="itemsContainer">
+                    <!-- Template item card (caché) -->
+                    <template id="itemCardTemplate">
+                        <article class="item-card" data-id="" data-mod="" data-type="" data-rarity="">
+                            <div class="item-card-inner">
+                                <!-- Image/item -->
+                                <div class="item-visual">
+                                    <div class="item-icon">
+                                        <img src="" alt="" class="item-texture" onerror="this.style.display='none'">
+                                        <div class="item-fallback">📦</div>
+                                    </div>
+                                    <div class="item-count">x1</div>
+                                </div>
+                                
+                                <!-- Infos principales -->
+                                <div class="item-info">
+                                    <h3 class="item-name">Nom de l'item</h3>
+                                    <div class="item-meta">
+                                        <span class="item-id">minecraft:stone</span>
+                                        <span class="item-mod">Minecraft</span>
+                                    </div>
+                                    
+                                    <div class="item-stats">
+                                        <div class="item-stat">
+                                            <span class="stat-icon">💎</span>
+                                            <span class="stat-value">Common</span>
+                                        </div>
+                                        <div class="item-stat">
+                                            <span class="stat-icon">⚔️</span>
+                                            <span class="stat-value">-</span>
+                                        </div>
+                                        <div class="item-stat">
+                                            <span class="stat-icon">🍖</span>
+                                            <span class="stat-value">-</span>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="item-tags">
+                                        <!-- Tags dynamiques -->
+                                    </div>
+                                </div>
+                                
+                                <!-- Actions -->
+                                <div class="item-actions">
+                                    <button class="action-btn favorite" title="Ajouter aux favoris">
+                                        <span class="action-icon">☆</span>
+                                    </button>
+                                    <button class="action-btn compare" title="Ajouter à la comparaison">
+                                        <span class="action-icon">⇄</span>
+                                    </button>
+                                    <a href="#" class="action-btn details" title="Voir détails">
+                                        <span class="action-icon">👁️</span>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                            <!-- Tooltip au survol -->
+                            <div class="item-tooltip">
+                                <div class="tooltip-content">
+                                    <h4>Nom de l'item</h4>
+                                    <p class="tooltip-desc">Description...</p>
+                                    <div class="tooltip-stats">
+                                        <!-- Stats dynamiques -->
+                                    </div>
+                                    <div class="tooltip-crafts">
+                                        <span class="craft-badge">3 recettes</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                    </template>
+                    
+                    <!-- Template liste (caché) -->
+                    <template id="itemRowTemplate">
+                        <tr class="item-row" data-id="" data-mod="" data-type="">
+                            <td class="item-select">
+                                <input type="checkbox" class="item-checkbox">
+                            </td>
+                            <td class="item-icon-cell">
+                                <div class="item-icon-small">
+                                    <img src="" alt="" class="item-texture-small">
+                                    <div class="item-fallback-small">📦</div>
+                                </div>
+                            </td>
+                            <td class="item-name-cell">
+                                <a href="#" class="item-name-link">Nom de l'item</a>
+                                <div class="item-id-small">minecraft:stone</div>
+                            </td>
+                            <td class="item-mod-cell">
+                                <span class="mod-badge">Minecraft</span>
+                            </td>
+                            <td class="item-type-cell">
+                                <span class="type-badge">Block</span>
+                            </td>
+                            <td class="item-rarity-cell">
+                                <div class="rarity-indicator common"></div>
+                                <span class="rarity-text">Common</span>
+                            </td>
+                            <td class="item-stats-cell">
+                                <div class="compact-stats">
+                                    <span title="Durabilité">🛡️ -</span>
+                                    <span title="Dégâts">⚔️ -</span>
+                                    <span title="Nourriture">🍖 -</span>
+                                </div>
+                            </td>
+                            <td class="item-actions-cell">
+                                <button class="row-action-btn" title="Voir détails">
+                                    <span class="action-icon">👁️</span>
+                                </button>
+                                <button class="row-action-btn" title="Ajouter aux favoris">
+                                    <span class="action-icon">☆</span>
+                                </button>
+                            </td>
+                        </tr>
+                    </template>
+                    
+                    <!-- Template compact (caché) -->
+                    <template id="itemCompactTemplate">
+                        <div class="item-compact" data-id="" data-mod="">
+                            <div class="compact-icon">
+                                <img src="" alt="" class="compact-texture">
+                                <div class="compact-fallback">📦</div>
+                            </div>
+                            <div class="compact-name">Nom</div>
+                        </div>
+                    </template>
+                    
+                    <!-- Les items seront chargés ici -->
+                    <div class="loading-items" id="loadingItems">
+                        <div class="loading-spinner large"></div>
+                        <p>Chargement des items...</p>
+                        <p class="loading-sub">15,427 items à charger</p>
+                    </div>
+                </div>
+                
+                <!-- Pagination -->
+                <div class="items-pagination" id="itemsPagination">
+                    <div class="pagination-info">
+                        <span>Page</span>
+                        <input type="number" id="pageInput" min="1" value="1" class="page-input">
+                        <span>sur <span id="totalPages">-</span></span>
+                    </div>
+                    
+                    <div class="pagination-controls">
+                        <button class="pagination-btn first" onclick="goToFirstPage()" disabled>
+                            <span class="pagination-icon">««</span>
+                        </button>
+                        <button class="pagination-btn prev" onclick="goToPrevPage()" disabled>
+                            <span class="pagination-icon">«</span>
+                        </button>
+                        
+                        <div class="pagination-numbers" id="paginationNumbers">
+                            <!-- Généré dynamiquement -->
+                        </div>
+                        
+                        <button class="pagination-btn next" onclick="goToNextPage()">
+                            <span class="pagination-icon">»</span>
+                        </button>
+                        <button class="pagination-btn last" onclick="goToLastPage()">
+                            <span class="pagination-icon">»»</span>
+                        </button>
+                    </div>
+                    
+                    <div class="pagination-stats">
+                        <span id="pageStats">Items 1-48 sur 15,427</span>
+                    </div>
+                </div>
+                
+                <!-- Comparateur flottant -->
+                <div class="comparator-floating" id="comparatorFloating" style="display: none;">
+                    <div class="comparator-header">
+                        <h4>Comparateur</h4>
+                        <span class="comparator-count" id="compareCount">0</span>
+                        <button class="comparator-close" onclick="closeComparator()">✕</button>
+                    </div>
+                    <div class="comparator-items" id="comparatorItems">
+                        <!-- Items à comparer -->
+                    </div>
+                    <button class="btn btn-primary" onclick="openCompareView()">
+                        <span class="btn-icon">📊</span>
+                        Comparer
+                    </button>
+                </div>
+            </section>
+        </div>
+    </main>
+        <!-- Modal recherche avancée -->
+    <div class="modal-overlay" id="advancedSearchModal" style="display: none;">
+        <div class="modal-content advanced-search-modal">
+            <div class="modal-header">
+                <h2 class="modal-title">
+                    <span class="modal-icon">🔍</span>
+                    Recherche avancée
+                </h2>
+                <button class="modal-close" onclick="closeAdvancedSearch()">
+                    ✕
+                </button>
+            </div>
+            
+            <div class="modal-body">
+                <!-- Onglets -->
+                <div class="search-tabs">
+                    <button class="search-tab active" data-tab="properties">Propriétés</button>
+                    <button class="search-tab" data-tab="text">Texte</button>
+                    <button class="search-tab" data-tab="nbt">NBT/Données</button>
+                    <button class="search-tab" data-tab="crafting">Crafting</button>
+                </div>
+                
+                <!-- Contenu onglet Propriétés -->
+                <div class="tab-content active" id="tabProperties">
+                    <div class="advanced-filters">
+                        <!-- Type -->
+                        <div class="filter-row">
+                            <label class="filter-label">Type d'item</label>
+                            <div class="filter-checkbox-group">
+                                <label><input type="checkbox" name="adv-type" value="item" checked> Item</label>
+                                <label><input type="checkbox" name="adv-type" value="block" checked> Bloc</label>
+                                <label><input type="checkbox" name="adv-type" value="tool"> Outil</label>
+                                <label><input type="checkbox" name="adv-type" value="weapon"> Arme</label>
+                                <label><input type="checkbox" name="adv-type" value="armor"> Armure</label>
+                                <label><input type="checkbox" name="adv-type" value="food"> Nourriture</label>
+                                <label><input type="checkbox" name="adv-type" value="machine"> Machine</label>
+                                <label><input type="checkbox" name="adv-type" value="fluid"> Fluide</label>
+                            </div>
+                        </div>
+                        
+                        <!-- Propriétés numériques -->
+                        <div class="filter-row">
+                            <label class="filter-label">Durabilité</label>
+                            <div class="filter-range-group">
+                                <input type="number" id="minDurability" placeholder="Min" min="0" max="10000">
+                                <span class="range-separator">à</span>
+                                <input type="number" id="maxDurability" placeholder="Max" min="0" max="10000">
+                            </div>
+                        </div>
+                        
+                        <div class="filter-row">
+                            <label class="filter-label">Dégâts d'attaque</label>
+                            <div class="filter-range-group">
+                                <input type="number" id="minDamage" placeholder="Min" min="0" max="100" step="0.5">
+                                <span class="range-separator">à</span>
+                                <input type="number" id="maxDamage" placeholder="Max" min="0" max="100" step="0.5">
+                            </div>
+                        </div>
+                        
+                        <div class="filter-row">
+                            <label class="filter-label">Points de nourriture</label>
+                            <div class="filter-range-group">
+                                <input type="number" id="minFood" placeholder="Min" min="0" max="20">
+                                <span class="range-separator">à</span>
+                                <input type="number" id="maxFood" placeholder="Max" min="0" max="20">
+                            </div>
+                        </div>
+                        
+                        <!-- Propriétés booléennes -->
+                        <div class="filter-row">
+                            <label class="filter-label">Propriétés spéciales</label>
+                            <div class="filter-checkbox-group">
+                                <label><input type="checkbox" name="adv-prop" value="burnable"> Brûlable</label>
+                                <label><input type="checkbox" name="adv-prop" value="stackable"> Empilable</label>
+                                <label><input type="checkbox" name="adv-prop" value="enchantable"> Enchantable</label>
+                                <label><input type="checkbox" name="adv-prop" value="repairable"> Réparable</label>
+                                <label><input type="checkbox" name="adv-prop" value="edible"> Comestible</label>
+                                <label><input type="checkbox" name="adv-prop" value="fuel"> Carburant</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Contenu onglet Texte -->
+                <div class="tab-content" id="tabText">
+                    <div class="text-search-options">
+                        <div class="search-field">
+                            <label>Rechercher dans:</label>
+                            <select id="searchInField" class="field-select">
+                                <option value="all">Tous les champs</option>
+                                <option value="name">Nom seulement</option>
+                                <option value="id">ID seulement</option>
+                                <option value="description">Description</option>
+                                <option value="mod">Nom du mod</option>
+                                <option value="tags">Tags</option>
+                            </select>
+                        </div>
+                        
+                        <div class="search-field">
+                            <label>Correspondance:</label>
+                            <select id="searchMatch" class="field-select">
+                                <option value="contains">Contient</option>
+                                <option value="exact">Exact</option>
+                                <option value="starts">Commence par</option>
+                                <option value="ends">Termine par</option>
+                                <option value="regex">Expression régulière</option>
+                            </select>
+                        </div>
+                        
+                        <div class="search-field">
+                            <label>Sensibilité à la casse:</label>
+                            <label class="switch">
+                                <input type="checkbox" id="caseSensitive">
+                                <span class="slider"></span>
+                            </label>
+                        </div>
+                        
+                        <div class="search-queries">
+                            <h4>Recherches multiples</h4>
+                            <div class="query-inputs" id="queryInputs">
+                                <div class="query-row">
+                                    <input type="text" class="query-input" placeholder="Mot-clé">
+                                    <select class="query-operator">
+                                        <option value="AND">ET</option>
+                                        <option value="OR">OU</option>
+                                        <option value="NOT">SAUF</option>
+                                    </select>
+                                    <button class="query-remove" onclick="removeQuery(this)">✕</button>
+                                </div>
+                            </div>
+                            <button class="btn btn-secondary" onclick="addQuery()">
+                                <span class="btn-icon">+</span>
+                                Ajouter une condition
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Contenu onglet NBT -->
+                <div class="tab-content" id="tabNBT">
+                    <div class="nbt-search">
+                        <div class="nbt-help">
+                            <p>Recherche par données NBT (Named Binary Tag).</p>
+                            <p>Format: <code>{"key": "value"}</code> ou <code>key=value</code></p>
+                        </div>
+                        
+                        <div class="nbt-input">
+                            <label for="nbtQuery">Requête NBT:</label>
+                            <textarea id="nbtQuery" 
+                                      placeholder='Exemple: {"display":{"Name":"[{\"text\":\"Épée\",\"color\":\"gold\"}]"}}'
+                                      rows="4"></textarea>
+                        </div>
+                        
+                        <div class="nbt-options">
+                            <label>
+                                <input type="checkbox" id="partialMatch">
+                                Correspondance partielle
+                            </label>
+                            <label>
+                                <input type="checkbox" id="ignoreNBT">
+                                Ignorer NBT manquant
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Contenu onglet Crafting -->
+                <div class="tab-content" id="tabCrafting">
+                    <div class="crafting-search">
+                        <div class="crafting-type">
+                            <label>Type de craft:</label>
+                            <div class="crafting-options">
+                                <label><input type="checkbox" name="craft-type" value="input" checked> Utilisé dans</label>
+                                <label><input type="checkbox" name="craft-type" value="output" checked> Produit par</label>
+                                <label><input type="checkbox" name="craft-type" value="both"> Les deux</label>
+                            </div>
+                        </div>
+                        
+                        <div class="crafting-ingredients">
+                            <h4>Ingrédients recherchés</h4>
+                            <div class="ingredients-input">
+                                <input type="text" 
+                                       id="ingredientSearch" 
+                                       placeholder="Rechercher un ingrédient...">
+                                <div class="ingredients-list" id="ingredientsList">
+                                    <!-- Suggestions -->
+                                </div>
+                            </div>
+                            
+                            <div class="selected-ingredients" id="selectedIngredients">
+                                <!-- Ingrédients sélectionnés -->
+                            </div>
+                        </div>
+                        
+                        <div class="crafting-stations">
+                            <h4>Stations de craft</h4>
+                            <div class="stations-grid">
+                                <label><input type="checkbox" value="crafting_table" checked> Table de craft</label>
+                                <label><input type="checkbox" value="furnace"> Fourneau</label>
+                                <label><input type="checkbox" value="brewing_stand"> Alambic</label>
+                                <label><input type="checkbox" value="smithing_table"> Table de forge</label>
+                                <label><input type="checkbox" value="stonecutter"> Tailleur de pierre</label>
+                                <label><input type="checkbox" value="crafting_table"> Table de forgeron</label>
+                                <label><input type="checkbox" value="modded"> Stations moddées</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeAdvancedSearch()">
+                    Annuler
+                </button>
+                <button class="btn btn-primary" onclick="performAdvancedSearch()">
+                    <span class="btn-icon">🔍</span>
+                    Lancer la recherche
+                </button>
+                <button class="btn btn-export" onclick="saveSearchQuery()">
+                    <span class="btn-icon">💾</span>
+                    Sauvegarder la recherche
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Base de données Items</h3>
+                    <p>15,427 items et 7,542 blocs documentés avec propriétés, recettes et utilisations.</p>
+                    <p class="footer-update">
+                        Dernière mise à jour: <span id="itemsLastUpdate">Chargement...</span>
+                    </p>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Catégories d'items</h3>
+                    <a href="items.html?type=resource">Ressources</a>
+                    <a href="items.html?type=tool">Outils</a>
+                    <a href="items.html?type=weapon">Armes</a>
+                    <a href="items.html?type=armor">Armure</a>
+                    <a href="items.html?type=food">Nourriture</a>
+                    <a href="items.html?type=machine">Machines</a>
+                    <a href="items.html?type=decorative">Décoratif</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Outils</h3>
+                    <a href="item-comparison.html">Comparateur d'items</a>
+                    <a href="crafting-calculator.html">Calculateur de crafts</a>
+                    <a href="item-sets.html">Sets d'items</a>
+                    <a href="export-items.html">Export des données</a>
+                    <a href="api-items.html">API Items</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contribuer</h3>
+                    <a href="report-error.html">Signaler une erreur</a>
+                    <a href="suggest-item.html">Suggérer un item</a>
+                    <a href="contribute-data.html">Contribuer aux données</a>
+                    <a href="https://github.com/sandcraft/items-data">GitHub</a>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>© 2024 Sandcraft Items Database • Données extraites automatiquement des mods • Minecraft est une marque de Mojang AB</p>
+                <div class="footer-stats">
+                    <span class="stat">Items: <span id="footerItemsCount">15,427</span></span>
+                    <span class="stat">Blocs: <span id="footerBlocksCount">7,542</span></span>
+                    <span class="stat">Mods: <span id="footerModsCount">259</span></span>
+                    <span class="stat">Textures: <span id="footerTexturesCount">18,429</span></span>
+                </div>
+            </div>
+        </div>
+    </footer>
+        <!-- Scripts -->
+    <script src="assets/js/data-loader.js"></script>
+    <script src="assets/js/items.js"></script>
+    <script src="assets/js/utils.js"></script>
+    <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+    
+    <script>
+        // Classe principale pour la gestion des items
+        class ItemsPage {
+            constructor() {
+                this.items = [];
+                this.filteredItems = [];
+                this.currentPage = 1;
+                this.itemsPerPage = 48;
+                this.currentView = 'grid';
+                this.filters = {
+                    searchQuery: '',
+                    mod: '',
+                    type: 'all',
+                    rarity: [],
+                    tags: [],
+                    minDurability: 0,
+                    minFood: 0,
+                    minEnchant: 0,
+                    craftTypes: ['shaped', 'shapeless', 'furnace', 'brewing', 'smithing', 'special']
+                };
+                
+                this.sortBy = 'name_asc';
+                this.selectedItems = new Set(); // Pour la comparaison
+                this.favoriteItems = new Set(); // Favoris
+                
+                this.init();
+            }
+            
+            async init() {
+                // Charger les favoris
+                this.loadFavorites();
+                
+                // Attendre les données
+                window.addEventListener('dataLoaded', (e) => {
+                    this.items = e.detail.items.items;
+                    this.filteredItems = [...this.items];
+                    this.render();
+                    this.updateStats();
+                    this.setupEventListeners();
+                    this.initTooltips();
+                });
+                
+                // Ou si déjà chargé
+                if (window.SandcraftData && window.SandcraftData.loaded) {
+                    this.items = window.SandcraftData.data.items.items;
+                    this.filteredItems = [...this.items];
+                    this.render();
+                    this.updateStats();
+                    this.setupEventListeners();
+                    this.initTooltips();
+                }
+            }
+            
+            render() {
+                this.renderModFilter();
+                this.renderTags();
+                this.renderItems();
+                this.renderPagination();
+                this.updateActiveFilters();
+            }
+            
+            renderModFilter() {
+                const select = document.getElementById('modFilter');
+                if (!select) return;
+                
+                // Compter les items par mod
+                const modCounts = {};
+                this.items.forEach(item => {
+                    const mod = item.mod || 'unknown';
+                    modCounts[mod] = (modCounts[mod] || 0) + 1;
+                });
+                
+                // Trier par nombre d'items
+                const sortedMods = Object.entries(modCounts)
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 50); // Top 50 mods
+                
+                select.innerHTML = `
+                    <option value="">Tous les mods (${this.items.length})</option>
+                    ${sortedMods.map(([mod, count]) => `
+                        <option value="${mod}">${mod} (${count})</option>
+                    `).join('')}
+                `;
+            }
+            
+            renderTags() {
+                const container = document.getElementById('tagsContainer');
+                if (!container) return;
+                
+                // Collecter tous les tags uniques
+                const allTags = new Set();
+                this.items.forEach(item => {
+                    if (item.tags) {
+                        item.tags.forEach(tag => allTags.add(tag));
+                    }
+                });
+                
+                // Afficher les 50 tags les plus communs
+                const tagsArray = Array.from(allTags).slice(0, 50);
+                
+                container.innerHTML = tagsArray.map(tag => `
+                    <label class="tag-checkbox">
+                        <input type="checkbox" name="tag" value="${tag}">
+                        <span class="tag-badge">${tag}</span>
+                        <span class="tag-count">?</span>
+                    </label>
+                `).join('');
+            }
+            
+            renderItems() {
+                const container = document.getElementById('itemsContainer');
+                const loading = document.getElementById('loadingItems');
+                
+                if (!container) return;
+                
+                // Cacher le loading
+                if (loading) {
+                    loading.style.display = 'none';
+                }
+                
+                // Calculer les items à afficher
+                const startIndex = (this.currentPage - 1) * this.itemsPerPage;
+                const endIndex = startIndex + this.itemsPerPage;
+                const pageItems = this.filteredItems.slice(startIndex, endIndex);
+                
+                if (pageItems.length === 0) {
+                    container.innerHTML = `
+                        <div class="no-results">
+                            <div class="no-results-icon">😕</div>
+                            <h3>Aucun item trouvé</h3>
+                            <p>Aucun item ne correspond à vos critères de recherche.</p>
+                            <button class="btn" onclick="itemsPage.resetFilters()">
+                                <span class="btn-icon">🔄</span>
+                                Réinitialiser les filtres
+                            </button>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // Choisir le template selon la vue
+                let html = '';
+                
+                switch (this.currentView) {
+                    case 'grid':
+                        html = pageItems.map(item => this.createItemCard(item)).join('');
+                        break;
+                        
+                    case 'list':
+                        html = `
+                            <table class="items-table">
+                                <thead>
+                                    <tr>
+                                        <th><input type="checkbox" id="selectAllItems"></th>
+                                        <th></th>
+                                        <th>Nom</th>
+                                        <th>Mod</th>
+                                        <th>Type</th>
+                                        <th>Rareté</th>
+                                        <th>Propriétés</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${pageItems.map(item => this.createItemRow(item)).join('')}
+                                </tbody>
+                            </table>
+                        `;
+                        break;
+                        
+                    case 'compact':
+                        html = pageItems.map(item => this.createItemCompact(item)).join('');
+                        break;
+                }
+                
+                container.innerHTML = html;
+                
+                // Mettre à jour les compteurs
+                this.updateResultsCount();
+            }
+            
+            createItemCard(item) {
+                const id = item.id || '';
+                const name = item.name || 'Sans nom';
+                const mod = item.mod || 'Inconnu';
+                const type = item.type || 'item';
+                const rarity = item.rarity || 'common';
+                const description = item.description || '';
+                
+                // Texture
+                const texture = item.texture ? `assets/textures/${item.texture}` : '';
+                const hasTexture = texture && !texture.includes('undefined');
+                
+                // Propriétés
+                const durability = item.durability || 0;
+                const damage = item.damage || 0;
+                const food = item.food_value || 0;
+                
+                // Tags
+                const tags = item.tags || [];
+                
+                // Est favori ?
+                const isFavorite = this.favoriteItems.has(id);
+                
+                return `
+                    <article class="item-card" 
+                             data-id="${id}" 
+                             data-mod="${mod}" 
+                             data-type="${type}" 
+                             data-rarity="${rarity}"
+                             data-durability="${durability}"
+                             data-damage="${damage}"
+                             data-food="${food}">
+                        <div class="item-card-inner">
+                            <!-- Visuel -->
+                            <div class="item-visual">
+                                <div class="item-icon">
+                                    ${hasTexture ? `
+                                        <img src="${texture}" 
+                                             alt="${name}" 
+                                             class="item-texture"
+                                             onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                                    ` : ''}
+                                    <div class="item-fallback" ${hasTexture ? 'style="display: none"' : ''}>
+                                        ${this.getItemIcon(type)}
+                                    </div>
+                                </div>
+                                <div class="item-count">x${item.max_stack || 1}</div>
+                            </div>
+                            
+                            <!-- Infos -->
+                            <div class="item-info">
+                                <h3 class="item-name" title="${name}">${this.truncate(name, 24)}</h3>
+                                <div class="item-meta">
+                                    <span class="item-id" title="${id}">${this.truncateId(id)}</span>
+                                    <span class="item-mod">${this.truncate(mod, 12)}</span>
+                                </div>
+                                
+                                <div class="item-stats">
+                                    <div class="item-stat">
+                                        <span class="stat-icon">💎</span>
+                                        <span class="stat-value ${rarity}">${this.getRarityName(rarity)}</span>
+                                    </div>
+                                    ${durability > 0 ? `
+                                        <div class="item-stat">
+                                            <span class="stat-icon">🛡️</span>
+                                            <span class="stat-value">${durability}</span>
+                                        </div>
+                                    ` : ''}
+                                    ${damage > 0 ? `
+                                        <div class="item-stat">
+                                            <span class="stat-icon">⚔️</span>
+                                            <span class="stat-value">${damage}</span>
+                                        </div>
+                                    ` : ''}
+                                    ${food > 0 ? `
+                                        <div class="item-stat">
+                                            <span class="stat-icon">🍖</span>
+                                            <span class="stat-value">${food}</span>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                                
+                                ${tags.length > 0 ? `
+                                    <div class="item-tags">
+                                        ${tags.slice(0, 3).map(tag => `
+                                            <span class="item-tag">${this.truncate(tag, 10)}</span>
+                                        `).join('')}
+                                        ${tags.length > 3 ? `
+                                            <span class="item-tag-more">+${tags.length - 3}</span>
+                                        ` : ''}
+                                    </div>
+                                ` : ''}
+                            </div>
+                            
+                            <!-- Actions -->
+                            <div class="item-actions">
+                                <button class="action-btn favorite ${isFavorite ? 'active' : ''}" 
+                                        title="${isFavorite ? 'Retirer des favoris' : 'Ajouter aux favoris'}"
+                                        onclick="itemsPage.toggleFavorite('${id}')">
+                                    <span class="action-icon">${isFavorite ? '★' : '☆'}</span>
+                                </button>
+                                <button class="action-btn compare" 
+                                        title="Ajouter à la comparaison"
+                                        onclick="itemsPage.toggleCompare('${id}')">
+                                    <span class="action-icon">⇄</span>
+                                </button>
+                                <a href="item.html?id=${encodeURIComponent(id)}" 
+                                   class="action-btn details" 
+                                   title="Voir détails">
+                                    <span class="action-icon">👁️</span>
+                                </a>
+                            </div>
+                        </div>
+                        
+                        <!-- Tooltip -->
+                        <div class="item-tooltip">
+                            <div class="tooltip-content">
+                                <h4>${name}</h4>
+                                <p class="tooltip-desc">${this.truncate(description, 150)}</p>
+                                <div class="tooltip-stats">
+                                    <div class="tooltip-stat">
+                                        <span class="stat-label">Mod:</span>
+                                        <span class="stat-value">${mod}</span>
+                                    </div>
+                                    <div class="tooltip-stat">
+                                        <span class="stat-label">Type:</span>
+                                        <span class="stat-value">${type}</span>
+                                    </div>
+                                    <div class="tooltip-stat">
+                                        <span class="stat-label">Rareté:</span>
+                                        <span class="stat-value ${rarity}">${this.getRarityName(rarity)}</span>
+                                    </div>
+                                    ${durability > 0 ? `
+                                        <div class="tooltip-stat">
+                                            <span class="stat-label">Durabilité:</span>
+                                            <span class="stat-value">${durability}</span>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                                ${item.recipes && item.recipes.length > 0 ? `
+                                    <div class="tooltip-crafts">
+                                        <span class="craft-badge">${item.recipes.length} recette(s)</span>
+                                    </div>
+                                ` : ''}
+                            </div>
+                        </div>
+                    </article>
+                `;
+            }
+            
+            createItemRow(item) {
+                const id = item.id || '';
+                const name = item.name || 'Sans nom';
+                const mod = item.mod || 'Inconnu';
+                const type = item.type || 'item';
+                const rarity = item.rarity || 'common';
+                
+                return `
+                    <tr class="item-row" 
+                        data-id="${id}" 
+                        data-mod="${mod}" 
+                        data-type="${type}">
+                        <td class="item-select">
+                            <input type="checkbox" 
+                                   class="item-checkbox" 
+                                   value="${id}"
+                                   onchange="itemsPage.toggleSelectItem('${id}', this.checked)">
+                        </td>
+                        <td class="item-icon-cell">
+                            <div class="item-icon-small">
+                                <div class="item-fallback-small">
+                                    ${this.getItemIcon(type)}
+                                </div>
+                            </div>
+                        </td>
+                        <td class="item-name-cell">
+                            <a href="item.html?id=${encodeURIComponent(id)}" class="item-name-link">
+                                ${name}
+                            </a>
+                            <div class="item-id-small">${this.truncateId(id)}</div>
+                        </td>
+                        <td class="item-mod-cell">
+                            <span class="mod-badge">${mod}</span>
+                        </td>
+                        <td class="item-type-cell">
+                            <span class="type-badge">${this.getTypeName(type)}</span>
+                        </td>
+                        <td class="item-rarity-cell">
+                            <div class="rarity-indicator ${rarity}"></div>
+                            <span class="rarity-text">${this.getRarityName(rarity)}</span>
+                        </td>
+                        <td class="item-stats-cell">
+                            <div class="compact-stats">
+                                ${item.durability ? `<span title="Durabilité">🛡️ ${item.durability}</span>` : ''}
+                                ${item.damage ? `<span title="Dégâts">⚔️ ${item.damage}</span>` : ''}
+                                ${item.food_value ? `<span title="Nourriture">🍖 ${item.food_value}</span>` : ''}
+                            </div>
+                        </td>
+                        <td class="item-actions-cell">
+                            <button class="row-action-btn" 
+                                    title="Voir détails"
+                                    onclick="window.location.href='item.html?id=${encodeURIComponent(id)}'">
+                                <span class="action-icon">👁️</span>
+                            </button>
+                            <button class="row-action-btn favorite ${this.favoriteItems.has(id) ? 'active' : ''}"
+                                    title="${this.favoriteItems.has(id) ? 'Retirer des favoris' : 'Ajouter aux favoris'}"
+                                    onclick="itemsPage.toggleFavorite('${id}')">
+                                <span class="action-icon">${this.favoriteItems.has(id) ? '★' : '☆'}</span>
+                            </button>
+                        </td>
+                    </tr>
+                `;
+            }
+            
+            createItemCompact(item) {
+                const id = item.id || '';
+                const name = item.name || 'Sans nom';
+                const type = item.type || 'item';
+                
+                return `
+                    <div class="item-compact" 
+                         data-id="${id}" 
+                         data-mod="${item.mod || ''}"
+                         title="${name}"
+                         onclick="window.location.href='item.html?id=${encodeURIComponent(id)}'">
+                        <div class="compact-icon">
+                            <div class="compact-fallback">
+                                ${this.getItemIcon(type)}
+                            </div>
+                        </div>
+                        <div class="compact-name">${this.truncate(name, 12)}</div>
+                    </div>
+                `;
+            }
+            
+            renderPagination() {
+                const totalItems = this.filteredItems.length;
+                const totalPages = Math.ceil(totalItems / this.itemsPerPage);
+                
+                // Mettre à jour les infos
+                document.getElementById('totalPages').textContent = totalPages;
+                document.getElementById('pageInput').value = this.currentPage;
+                document.getElementById('pageInput').max = totalPages;
+                
+                // Générer les numéros de page
+                const container = document.getElementById('paginationNumbers');
+                if (!container) return;
+                
+                let paginationHTML = '';
+                const maxVisible = 5;
+                let startPage = Math.max(1, this.currentPage - Math.floor(maxVisible / 2));
+                let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+                
+                // Ajuster si on est proche de la fin
+                if (endPage - startPage + 1 < maxVisible) {
+                    startPage = Math.max(1, endPage - maxVisible + 1);
+                }
+                
+                // Boutons de page
+                for (let i = startPage; i <= endPage; i++) {
+                    paginationHTML += `
+                        <button class="pagination-number ${i === this.currentPage ? 'active' : ''}" 
+                                onclick="itemsPage.goToPage(${i})">
+                            ${i}
+                        </button>
+                    `;
+                }
+                
+                container.innerHTML = paginationHTML;
+                
+                // Activer/désactiver les boutons
+                document.querySelector('.pagination-btn.first').disabled = this.currentPage === 1;
+                document.querySelector('.pagination-btn.prev').disabled = this.currentPage === 1;
+                document.querySelector('.pagination-btn.next').disabled = this.currentPage === totalPages;
+                document.querySelector('.pagination-btn.last').disabled = this.currentPage === totalPages;
+                
+                // Mettre à jour les stats
+                const startItem = (this.currentPage - 1) * this.itemsPerPage + 1;
+                const endItem = Math.min(this.currentPage * this.itemsPerPage, totalItems);
+                document.getElementById('pageStats').textContent = 
+                    `Items ${startItem}-${endItem} sur ${totalItems}`;
+            }
+            
+            updateStats() {
+                // Compter les items par catégorie
+                const counts = {
+                    tools: 0,
+                    weapons: 0,
+                    armor: 0,
+                    food: 0,
+                    machines: 0,
+                    components: 0,
+                    resources: 0,
+                    blocks: 0
+                };
+                
+                const rarityCounts = {
+                    common: 0,
+                    uncommon: 0,
+                    rare: 0,
+                    epic: 0,
+                    legendary: 0
+                };
+                
+                this.items.forEach(item => {
+                    // Type
+                    const type = item.type || '';
+                    if (type.includes('tool')) counts.tools++;
+                    if (type.includes('weapon')) counts.weapons++;
+                    if (type.includes('armor')) counts.armor++;
+                    if (type.includes('food')) counts.food++;
+                    if (type.includes('machine')) counts.machines++;
+                    if (type.includes('component')) counts.components++;
+                    if (type.includes('resource')) counts.resources++;
+                    if (type.includes('block')) counts.blocks++;
+                    
+                    // Rareté
+                    const rarity = item.rarity || 'common';
+                    if (rarityCounts.hasOwnProperty(rarity)) {
+                        rarityCounts[rarity]++;
+                    }
+                });
+                
+                // Mettre à jour l'interface
+                document.getElementById('toolsCount').textContent = counts.tools + counts.weapons;
+                document.getElementById('foodCount').textContent = counts.food;
+                document.getElementById('machinesCount').textContent = counts.machines;
+                document.getElementById('componentsCount').textContent = counts.components;
+                document.getElementById('resourcesCount').textContent = counts.resources;
+                document.getElementById('blocksTotalCount').textContent = counts.blocks;
+                
+                // Rareté
+                document.getElementById('commonCount').textContent = rarityCounts.common;
+                document.getElementById('uncommonCount').textContent = rarityCounts.uncommon;
+                document.getElementById('rareCount').textContent = rarityCounts.rare;
+                document.getElementById('epicCount').textContent = rarityCounts.epic;
+                document.getElementById('legendaryCount').textContent = rarityCounts.legendary;
+                
+                // Footer
+                document.getElementById('footerItemsCount').textContent = this.items.length.toLocaleString();
+                document.getElementById('footerBlocksCount').textContent = counts.blocks.toLocaleString();
+                
+                // Date de mise à jour
+                if (window.SandcraftData && window.SandcraftData.data) {
+                    const date = new Date(window.SandcraftData.data.items.generated_at);
+                    document.getElementById('itemsLastUpdate').textContent = 
+                        date.toLocaleDateString('fr-FR');
+                }
+            }
+            
+            updateResultsCount() {
+                const total = this.filteredItems.length;
+                const visible = Math.min(total, this.itemsPerPage);
+                
+                document.getElementById('visibleItemsCount').textContent = total.toLocaleString();
+                document.getElementById('totalItemsCount').textContent = this.items.length.toLocaleString();
+                document.getElementById('totalItemsCount2').textContent = this.items.length.toLocaleString();
+            }
+            
+            updateActiveFilters() {
+                const container = document.getElementById('activeFilters');
+                if (!container) return;
+                
+                const filters = [];
+                
+                if (this.filters.searchQuery) {
+                    filters.push(`Recherche: "${this.filters.searchQuery}"`);
+                }
+                
+                if (this.filters.mod) {
+                    filters.push(`Mod: ${this.filters.mod}`);
+                }
+                
+                if (this.filters.type && this.filters.type !== 'all') {
+                    filters.push(`Type: ${this.filters.type}`);
+                }
+                
+                if (this.filters.tags.length > 0) {
+                    filters.push(`Tags: ${this.filters.tags.length}`);
+                }
+                
+                if (this.filters.minDurability > 0) {
+                    filters.push(`Durabilité ≥ ${this.filters.minDurability}`);
+                }
+                
+                container.innerHTML = filters.map(filter => `
+                    <span class="active-filter">
+                        ${filter}
+                        <button class="remove-filter" onclick="itemsPage.removeFilter('${filter.split(':')[0].trim().toLowerCase()}')">
+                            ✕
+                        </button>
+                    </span>
+                `).join('');
+                
+                // Afficher/masquer le container
+                container.style.display = filters.length > 0 ? 'flex' : 'none';
+            }
+            
+            setupEventListeners() {
+                // Recherche
+                const searchInput = document.getElementById('itemsSearchInput');
+                if (searchInput) {
+                    let searchTimeout;
+                    searchInput.addEventListener('input', (e) => {
+                        clearTimeout(searchTimeout);
+                        searchTimeout = setTimeout(() => {
+                            this.filters.searchQuery = e.target.value.toLowerCase();
+                            this.applyFilters();
+                        }, 300);
+                    });
+                    
+                    // Clear button
+                    document.getElementById('clearSearch').addEventListener('click', () => {
+                        searchInput.value = '';
+                        this.filters.searchQuery = '';
+                        this.applyFilters();
+                    });
+                }
+                
+                // Filtres rapides
+                document.querySelectorAll('.filter-tag').forEach(tag => {
+                    tag.addEventListener('click', (e) => {
+                        const filter = e.target.dataset.filter;
+                        if (filter) {
+                            const [type, value] = filter.split(':');
+                            if (type === 'type') {
+                                this.filters.type = value;
+                                this.applyFilters();
+                            }
+                        }
+                    });
+                });
+                
+                // Mod filter
+                const modFilter = document.getElementById('modFilter');
+                if (modFilter) {
+                    modFilter.addEventListener('change', (e) => {
+                        this.filters.mod = e.target.value;
+                        this.applyFilters();
+                    });
+                }
+                
+                // Filtres sidebar
+                const durabilityRange = document.getElementById('durabilityRange');
+                if (durabilityRange) {
+                    durabilityRange.addEventListener('input', (e) => {
+                        this.filters.minDurability = parseInt(e.target.value);
+                        document.getElementById('durabilityValue').textContent = 
+                            e.target.value === '0' ? 'Tout' : `≥ ${e.target.value}`;
+                    });
+                }
+                
+                // Rareté
+                document.querySelectorAll('input[name="rarity"]').forEach(cb => {
+                    cb.addEventListener('change', () => {
+                        this.updateRarityFilters();
+                    });
+                });
+                
+                // Tags
+                document.querySelectorAll('input[name="tag"]').forEach(cb => {
+                    cb.addEventListener('change', () => {
+                        this.updateTagFilters();
+                    });
+                });
+                
+                // Craft types
+                document.querySelectorAll('input[name="craft"]').forEach(cb => {
+                    cb.addEventListener('change', () => {
+                        this.updateCraftFilters();
+                    });
+                });
+                
+                // Tri
+                const sortSelect = document.getElementById('sortItems');
+                if (sortSelect) {
+                    sortSelect.addEventListener('change', (e) => {
+                        this.sortBy = e.target.value;
+                        this.sortItems();
+                        this.renderItems();
+                    });
+                }
+                
+                // Items per page
+                const itemsPerPage = document.getElementById('itemsPerPage');
+                if (itemsPerPage) {
+                    itemsPerPage.addEventListener('change', (e) => {
+                        this.itemsPerPage = e.target.value === 'all' ? 10000 : parseInt(e.target.value);
+                        this.currentPage = 1;
+                        this.renderItems();
+                        this.renderPagination();
+                    });
+                }
+                
+                // View toggle
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const view = e.target.closest('.view-btn').dataset.view;
+                        this.setView(view);
+                    });
+                });
+                
+                // Page input
+                const pageInput = document.getElementById('pageInput');
+                if (pageInput) {
+                    pageInput.addEventListener('change', (e) => {
+                        const page = parseInt(e.target.value);
+                        if (page >= 1 && page <= Math.ceil(this.filteredItems.length / this.itemsPerPage)) {
+                            this.goToPage(page);
+                        }
+                    });
+                }
+            }
+            
+            initTooltips() {
+                // Initialiser les tooltips Tippy.js
+                if (typeof tippy !== 'undefined') {
+                    tippy('.item-card', {
+                        content: (reference) => {
+                            const tooltip = reference.querySelector('.item-tooltip');
+                            return tooltip ? tooltip.innerHTML : '';
+                        },
+                        allowHTML: true,
+                        interactive: true,
+                        delay: [100, 0],
+                        duration: [200, 150],
+                        placement: 'auto-start',
+                        theme: 'sandcraft-tooltip'
+                    });
+                }
+            }
+            
+            updateRarityFilters() {
+                const checked = Array.from(document.querySelectorAll('input[name="rarity"]:checked'))
+                    .map(cb => cb.value);
+                this.filters.rarity = checked;
+            }
+            
+            updateTagFilters() {
+                const checked = Array.from(document.querySelectorAll('input[name="tag"]:checked'))
+                    .map(cb => cb.value);
+                this.filters.tags = checked;
+                
+                // Mettre à jour les tags sélectionnés
+                const container = document.getElementById('selectedTags');
+                if (container) {
+                    container.innerHTML = checked.map(tag => `
+                        <span class="selected-tag">
+                            ${tag}
+                            <button class="remove-tag" onclick="itemsPage.removeTag('${tag}')">✕</button>
+                        </span>
+                    `).join('');
+                }
+            }
+            
+            updateCraftFilters() {
+                const checked = Array.from(document.querySelectorAll('input[name="craft"]:checked'))
+                    .map(cb => cb.value);
+                this.filters.craftTypes = checked;
+            }
+            
+            applyFilters() {
+                this.filteredItems = this.items.filter(item => {
+                    // Recherche texte
+                    if (this.filters.searchQuery) {
+                        const query = this.filters.searchQuery;
+                        const matches = 
+                            (item.name && item.name.toLowerCase().includes(query)) ||
+                            (item.id && item.id.toLowerCase().includes(query)) ||
+                            (item.description && item.description.toLowerCase().includes(query)) ||
+                            (item.mod && item.mod.toLowerCase().includes(query));
+                        if (!matches) return false;
+                    }
+                    
+                    // Filtre mod
+                    if (this.filters.mod && item.mod !== this.filters.mod) {
+                        return false;
+                    }
+                    
+                    // Filtre type
+                    if (this.filters.type && this.filters.type !== 'all') {
+                        if (this.filters.type === 'block' && !item.type?.includes('block')) {
+                            return false;
+                        }
+                        if (this.filters.type === 'item' && item.type?.includes('block')) {
+                            return false;
+                        }
+                        if (!item.type?.includes(this.filters.type)) {
+                            return false;
+                        }
+                    }
+                    
+                    // Filtre rareté
+                    if (this.filters.rarity.length > 0) {
+                        const rarity = item.rarity || 'common';
+                        if (!this.filters.rarity.includes(rarity)) {
+                            return false;
+                        }
+                    }
+                    
+                    // Filtre tags
+                    if (this.filters.tags.length > 0) {
+                        const itemTags = item.tags || [];
+                        const hasTag = this.filters.tags.some(tag => itemTags.includes(tag));
+                        if (!hasTag) return false;
+                    }
+                    
+                    // Filtre durabilité
+                    if (this.filters.minDurability > 0) {
+                        const durability = item.durability || 0;
+                        if (durability < this.filters.minDurability) {
+                            return false;
+                        }
+                    }
+                    
+                    // Filtre nourriture
+                    if (this.filters.minFood > 0) {
+                        const food = item.food_value || 0;
+                        if (food < this.filters.minFood) {
+                            return false;
+                        }
+                    }
+                    
+                    // Filtre enchantabilité
+                    if (this.filters.minEnchant > 0) {
+                        const enchant = item.enchantability || 0;
+                        if (enchant < this.filters.minEnchant) {
+                            return false;
+                        }
+                    }
+                    
+                    return true;
+                });
+                
+                // Appliquer le tri
+                this.sortItems();
+                
+                // Réinitialiser à la page 1
+                this.currentPage = 1;
+                
+                // Re-rendre
+                this.renderItems();
+                this.renderPagination();
+                this.updateActiveFilters();
+                this.updateComparator();
+            }
+            
+            sortItems() {
+                this.filteredItems.sort((a, b) => {
+                    switch (this.sortBy) {
+                        case 'name_asc':
+                            return (a.name || '').localeCompare(b.name || '');
+                        case 'name_desc':
+                            return (b.name || '').localeCompare(a.name || '');
+                        case 'mod':
+                            return (a.mod || '').localeCompare(b.mod || '');
+                        case 'rarity':
+                            const rarityOrder = { legendary: 0, epic: 1, rare: 2, uncommon: 3, common: 4 };
+                            return (rarityOrder[a.rarity] || 5) - (rarityOrder[b.rarity] || 5);
+                        case 'durability':
+                            return (b.durability || 0) - (a.durability || 0);
+                        case 'recent':
+                            // Pour l'instant, tri par ID
+                            return (b.id || '').localeCompare(a.id || '');
+                        case 'popular':
+                            // Pour l'instant, tri par mod populaire
+                            return (a.mod || '').localeCompare(b.mod || '');
+                        default:
+                            return (a.name || '').localeCompare(b.name || '');
+                    }
+                });
+            }
+            
+            setView(view) {
+                this.currentView = view;
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.view === view);
+                });
+                this.renderItems();
+            }
+            
+            goToPage(page) {
+                const totalPages = Math.ceil(this.filteredItems.length / this.itemsPerPage);
+                if (page < 1 || page > totalPages) return;
+                
+                this.currentPage = page;
+                this.renderItems();
+                this.renderPagination();
+                
+                // Scroll vers le haut
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+            
+            goToFirstPage() {
+                this.goToPage(1);
+            }
+            
+            goToLastPage() {
+                const totalPages = Math.ceil(this.filteredItems.length / this.itemsPerPage);
+                this.goToPage(totalPages);
+            }
+            
+            goToNextPage() {
+                this.goToPage(this.currentPage + 1);
+            }
+            
+            goToPrevPage() {
+                this.goToPage(this.currentPage - 1);
+            }
+            
+            // Favoris
+            loadFavorites() {
+                const saved = localStorage.getItem('favoriteItems');
+                if (saved) {
+                    this.favoriteItems = new Set(JSON.parse(saved));
+                }
+            }
+            
+            saveFavorites() {
+                localStorage.setItem('favoriteItems', JSON.stringify(Array.from(this.favoriteItems)));
+            }
+            
+            toggleFavorite(itemId) {
+                if (this.favoriteItems.has(itemId)) {
+                    this.favoriteItems.delete(itemId);
+                } else {
+                    this.favoriteItems.add(itemId);
+                }
+                this.saveFavorites();
+                this.renderItems(); // Re-rendre pour mettre à jour les étoiles
+            }
+            
+            // Comparaison
+            toggleCompare(itemId) {
+                if (this.selectedItems.has(itemId)) {
+                    this.selectedItems.delete(itemId);
+                } else {
+                    if (this.selectedItems.size >= 6) {
+                        alert('Maximum 6 items pour la comparaison');
+                        return;
+                    }
+                    this.selectedItems.add(itemId);
+                }
+                this.updateComparator();
+            }
+            
+            toggleSelectItem(itemId, checked) {
+                if (checked) {
+                    if (this.selectedItems.size >= 6) {
+                        event.target.checked = false;
+                        alert('Maximum 6 items pour la comparaison');
+                        return;
+                    }
+                    this.selectedItems.add(itemId);
+                } else {
+                    this.selectedItems.delete(itemId);
+                }
+                this.updateComparator();
+            }
+            
+            updateComparator() {
+                const container = document.getElementById('comparatorFloating');
+                const countElem = document.getElementById('compareCount');
+                const itemsContainer = document.getElementById('comparatorItems');
+                
+                if (!container) return;
+                
+                if (this.selectedItems.size > 0) {
+                    container.style.display = 'block';
+                    countElem.textContent = this.selectedItems.size;
+                    
+                    // Afficher les items sélectionnés
+                    const selectedItems = Array.from(this.selectedItems);
+                    itemsContainer.innerHTML = selectedItems.map(id => {
+                        const item = this.items.find(i => i.id === id);
+                        if (!item) return '';
+                        
+                        return `
+                            <div class="compare-item" title="${item.name}">
+                                <div class="compare-item-icon">
+                                    ${this.getItemIcon(item.type || 'item')}
+                                </div>
+                                <button class="compare-item-remove" onclick="itemsPage.removeFromCompare('${id}')">
+                                    ✕
+                                </button>
+                            </div>
+                        `;
+                    }).join('');
+                } else {
+                    container.style.display = 'none';
+                }
+            }
+            
+            removeFromCompare(itemId) {
+                this.selectedItems.delete(itemId);
+                this.updateComparator();
+                
+                // Décocher la checkbox si elle existe
+                const checkbox = document.querySelector(`.item-checkbox[value="${itemId}"]`);
+                if (checkbox) {
+                    checkbox.checked = false;
+                }
+            }
+            
+            openCompareView() {
+                if (this.selectedItems.size < 2) {
+                    alert('Sélectionnez au moins 2 items pour comparer');
+                    return;
+                }
+                
+                const ids = Array.from(this.selectedItems).map(id => encodeURIComponent(id)).join(',');
+                window.open(`compare.html?items=${ids}`, '_blank');
+            }
+            
+            // Utilitaires
+            getItemIcon(type) {
+                const icons = {
+                    'tool': '🔨',
+                    'weapon': '⚔️',
+                    'armor': '🛡️',
+                    'food': '🍎',
+                    'potion': '🧪',
+                    'block': '🧱',
+                    'machine': '⚙️',
+                    'component': '🔩',
+                    'resource': '💎',
+                    'gem': '💎',
+                    'ingot': '🥇',
+                    'dust': '💨',
+                    'rod': '〰️',
+                    'plate': '⬜',
+                    'gear': '⚙️',
+                    'wire': '🔌',
+                    'circuit': '🔋'
+                };
+                
+                for (const [key, icon] of Object.entries(icons)) {
+                    if (type.includes(key)) return icon;
+                }
+                
+                return '📦';
+            }
+            
+            getRarityName(rarity) {
+                const names = {
+                    'common': 'Commun',
+                    'uncommon': 'Peu commun',
+                    'rare': 'Rare',
+                    'epic': 'Épique',
+                    'legendary': 'Légendaire'
+                };
+                return names[rarity] || rarity;
+            }
+            
+            getTypeName(type) {
+                const names = {
+                    'tool': 'Outil',
+                    'weapon': 'Arme',
+                    'armor': 'Armure',
+                    'food': 'Nourriture',
+                    'block': 'Bloc',
+                    'item': 'Item',
+                    'machine': 'Machine',
+                    'component': 'Composant',
+                    'resource': 'Ressource'
+                };
+                
+                for (const [key, name] of Object.entries(names)) {
+                    if (type.includes(key)) return name;
+                }
+                
+                return type;
+            }
+            
+            truncate(text, maxLength) {
+                if (!text) return '';
+                if (text.length <= maxLength) return text;
+                return text.substring(0, maxLength) + '...';
+            }
+            
+            truncateId(id) {
+                if (!id) return '';
+                if (id.length <= 20) return id;
+                const parts = id.split(':');
+                if (parts.length === 2) {
+                    return parts[0].substring(0, 3) + '...:' + parts[1];
+                }
+                return id.substring(0, 17) + '...';
+            }
+            
+            removeFilter(filterType) {
+                switch (filterType) {
+                    case 'recherche':
+                        this.filters.searchQuery = '';
+                        document.getElementById('itemsSearchInput').value = '';
+                        break;
+                    case 'mod':
+                        this.filters.mod = '';
+                        document.getElementById('modFilter').value = '';
+                        break;
+                    case 'type':
+                        this.filters.type = 'all';
+                        document.querySelectorAll('.filter-tag').forEach(tag => {
+                            tag.classList.remove('active');
+                        });
+                        document.querySelector('.filter-tag[data-filter="type:all"]').classList.add('active');
+                        break;
+                    case 'tags':
+                        this.filters.tags = [];
+                        document.querySelectorAll('input[name="tag"]').forEach(cb => cb.checked = false);
+                        document.getElementById('selectedTags').innerHTML = '';
+                        break;
+                    case 'durabilité':
+                        this.filters.minDurability = 0;
+                        document.getElementById('durabilityRange').value = 0;
+                        document.getElementById('durabilityValue').textContent = 'Tout';
+                        break;
+                }
+                
+                this.applyFilters();
+            }
+            
+            removeTag(tag) {
+                this.filters.tags = this.filters.tags.filter(t => t !== tag);
+                const checkbox = document.querySelector(`input[name="tag"][value="${tag}"]`);
+                if (checkbox) checkbox.checked = false;
+                this.applyFilters();
+            }
+            
+            resetFilters() {
+                // Réinitialiser tous les filtres
+                this.filters = {
+                    searchQuery: '',
+                    mod: '',
+                    type: 'all',
+                    rarity: [],
+                    tags: [],
+                    minDurability: 0,
+                    minFood: 0,
+                    minEnchant: 0,
+                    craftTypes: ['shaped', 'shapeless', 'furnace', 'brewing', 'smithing', 'special']
+                };
+                
+                // Réinitialiser l'interface
+                document.getElementById('itemsSearchInput').value = '';
+                document.getElementById('modFilter').value = '';
+                
+                document.querySelectorAll('.filter-tag').forEach(tag => {
+                    tag.classList.remove('active');
+                });
+                document.querySelector('.filter-tag[data-filter="type:all"]').classList.add('active');
+                
+                document.querySelectorAll('input[name="rarity"]').forEach(cb => cb.checked = true);
+                document.querySelectorAll('input[name="tag"]').forEach(cb => cb.checked = false);
+                document.querySelectorAll('input[name="craft"]').forEach(cb => cb.checked = true);
+                
+                document.getElementById('durabilityRange').value = 0;
+                document.getElementById('durabilityValue').textContent = 'Tout';
+                document.getElementById('foodRange').value = 0;
+                document.getElementById('foodValue').textContent = 'Tout';
+                document.getElementById('enchantRange').value = 0;
+                document.getElementById('enchantValue').textContent = 'Tout';
+                
+                document.getElementById('selectedTags').innerHTML = '';
+                
+                // Réappliquer
+                this.applyFilters();
+            }
+        }
+        
+        // Fonctions globales
+        function toggleSidebar() {
+            const sidebar = document.getElementById('itemsSidebar');
+            sidebar.classList.toggle('open');
+        }
+        
+        function performItemsSearch() {
+            const query = document.getElementById('itemsSearchInput').value;
+            if (query.trim()) {
+                itemsPage.filters.searchQuery = query.toLowerCase();
+                itemsPage.applyFilters();
+            }
+        }
+        
+        function openAdvancedSearch() {
+            document.getElementById('advancedSearchModal').style.display = 'block';
+        }
+        
+        function closeAdvancedSearch() {
+            document.getElementById('advancedSearchModal').style.display = 'none';
+        }
+        
+        function performAdvancedSearch() {
+            // Implémenter la recherche avancée
+            console.log('Recherche avancée');
+            closeAdvancedSearch();
+        }
+        
+        function saveSearchQuery() {
+            // Sauvegarder la recherche
+            console.log('Sauvegarde recherche');
+        }
+        
+        function addQuery() {
+            const container = document.getElementById('queryInputs');
+            const newRow = document.createElement('div');
+            newRow.className = 'query-row';
+            newRow.innerHTML = `
+                <input type="text" class="query-input" placeholder="Mot-clé">
+                <select class="query-operator">
+                    <option value="AND">ET</option>
+                    <option value="OR">OU</option>
+                    <option value="NOT">SAUF</option>
+                </select>
+                <button class="query-remove" onclick="removeQuery(this)">✕</button>
+            `;
+            container.appendChild(newRow);
+        }
+        
+        function removeQuery(button) {
+            button.closest('.query-row').remove();
+        }
+        
+        function saveFilterPreset() {
+            const name = prompt('Nom du preset:');
+            if (name) {
+                // Sauvegarder dans localStorage
+                console.log('Sauvegarde preset:', name);
+            }
+        }
+        
+        function closeComparator() {
+            itemsPage.selectedItems.clear();
+            itemsPage.updateComparator();
+        }
+        
+        // Initialiser la page
+        let itemsPage;
+        document.addEventListener('DOMContentLoaded', () => {
+            itemsPage = new ItemsPage();
+            window.itemsPage = itemsPage;
+            
+            // Exposer les fonctions globales
+            window.applyItemFilters = () => itemsPage.applyFilters();
+            window.resetItemFilters = () => itemsPage.resetFilters();
+            window.goToPage = (page) => itemsPage.goToPage(page);
+            window.goToFirstPage = () => itemsPage.goToFirstPage();
+            window.goToLastPage = () => itemsPage.goToLastPage();
+            window.goToNextPage = () => itemsPage.goToNextPage();
+            window.goToPrevPage = () => itemsPage.goToPrevPage();
+            window.openCompareView = () => itemsPage.openCompareView();
+        });
+    </script>
+</body>
+</html>
