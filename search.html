@@ -1,0 +1,1827 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recherche - Sandcraft Wiki</title>
+    
+    <meta name="description" content="Recherche avancée dans tout le wiki Sandcraft : mods, items, recettes, guides et mécaniques.">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/search.css">
+    
+    <!-- Icônes -->
+    <link rel="icon" href="assets/images/favicon.ico">
+    
+    <!-- Polices -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- Bibliothèques -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                        <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="#4299E1" stroke="#2D3748" stroke-width="2"/>
+                        <path d="M16 8L24 16L16 24L8 16L16 8Z" fill="#ED8936" stroke="#2D3748" stroke-width="1.5"/>
+                        <circle cx="16" cy="16" r="4" fill="#F6E05E"/>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">Sandcraft</span>
+                    <span class="logo-subtitle">Wiki</span>
+                </div>
+            </a>
+            
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link">
+                    <span class="nav-icon">🏠</span>
+                    <span class="nav-text">Accueil</span>
+                </a>
+                <a href="mods.html" class="nav-link">
+                    <span class="nav-icon">⚙️</span>
+                    <span class="nav-text">Mods</span>
+                </a>
+                <a href="items.html" class="nav-link">
+                    <span class="nav-icon">📦</span>
+                    <span class="nav-text">Items</span>
+                </a>
+                <a href="guides.html" class="nav-link">
+                    <span class="nav-icon">📚</span>
+                    <span class="nav-text">Guides</span>
+                </a>
+                <a href="mechanics.html" class="nav-link">
+                    <span class="nav-icon">🔧</span>
+                    <span class="nav-text">Mécaniques</span>
+                </a>
+                <a href="search.html" class="nav-link active search-link">
+                    <span class="nav-icon">🔍</span>
+                    <span class="nav-text">Recherche</span>
+                </a>
+            </div>
+            
+            <div class="nav-utils">
+                <button class="theme-toggle" aria-label="Changer le thème">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header Recherche -->
+    <header class="search-header">
+        <div class="container">
+            <div class="search-hero">
+                <h1 class="search-title">
+                    <span class="search-icon">🔍</span>
+                    Recherche Wiki
+                </h1>
+                <p class="search-subtitle">
+                    Explorez <span class="highlight">15,427 items</span>, 
+                    <span class="highlight">259 mods</span> et 
+                    <span class="highlight">42,156 recettes</span> en un clic
+                </p>
+                
+                <!-- Barre de recherche principale -->
+                <div class="main-search-container">
+                    <div class="search-input-wrapper">
+                        <input type="text" 
+                               id="mainSearchInput" 
+                               placeholder="Que cherchez-vous ? (mods, items, recettes, guides...)"
+                               autocomplete="off"
+                               spellcheck="false"
+                               value="">
+                        <div class="search-actions">
+                            <button class="search-clear" id="clearMainSearch" title="Effacer">
+                                <i class="fas fa-times"></i>
+                            </button>
+                            <button class="search-voice" id="voiceSearchBtn" title="Recherche vocale">
+                                <i class="fas fa-microphone"></i>
+                            </button>
+                            <button class="search-btn primary" onclick="performMainSearch()">
+                                <i class="fas fa-search"></i>
+                                Rechercher
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <!-- Filtres rapides -->
+                    <div class="quick-search-filters">
+                        <div class="filter-tabs">
+                            <button class="filter-tab active" data-filter="all">
+                                <i class="fas fa-globe"></i>
+                                Tout le wiki
+                            </button>
+                            <button class="filter-tab" data-filter="mods">
+                                <i class="fas fa-cogs"></i>
+                                Mods seulement
+                            </button>
+                            <button class="filter-tab" data-filter="items">
+                                <i class="fas fa-cube"></i>
+                                Items seulement
+                            </button>
+                            <button class="filter-tab" data-filter="recipes">
+                                <i class="fas fa-mortar-pestle"></i>
+                                Recettes
+                            </button>
+                            <button class="filter-tab" data-filter="guides">
+                                <i class="fas fa-book"></i>
+                                Guides
+                            </button>
+                        </div>
+                        
+                        <div class="search-options">
+                            <label class="option-checkbox">
+                                <input type="checkbox" id="exactMatch">
+                                <span class="checkmark"></span>
+                                Correspondance exacte
+                            </label>
+                            <label class="option-checkbox">
+                                <input type="checkbox" id="caseSensitive">
+                                <span class="checkmark"></span>
+                                Sensible à la casse
+                            </label>
+                            <label class="option-checkbox">
+                                <input type="checkbox" id="searchDescriptions" checked>
+                                <span class="checkmark"></span>
+                                Chercher dans les descriptions
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Suggestions -->
+                <div class="search-suggestions" id="searchSuggestions">
+                    <h4 class="suggestions-title">
+                        <i class="fas fa-lightbulb"></i>
+                        Suggestions populaires
+                    </h4>
+                    <div class="suggestions-grid">
+                        <a href="search.html?q=create" class="suggestion-tag">Create</a>
+                        <a href="search.html?q=diamant" class="suggestion-tag">Diamant</a>
+                        <a href="search.html?q=automation" class="suggestion-tag">Automation</a>
+                        <a href="search.html?q=magie" class="suggestion-tag">Magie</a>
+                        <a href="search.html?q=craft" class="suggestion-tag">Craft</a>
+                        <a href="search.html?q=minerai" class="suggestion-tag">Minerai</a>
+                        <a href="search.html?q=machine" class="suggestion-tag">Machine</a>
+                        <a href="search.html?q=armure" class="suggestion-tag">Armure</a>
+                        <a href="search.html?q=farm" class="suggestion-tag">Farm</a>
+                        <a href="search.html?q=energy" class="suggestion-tag">Énergie</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Statistiques recherche -->
+            <div class="search-stats">
+                <div class="stats-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-database"></i>
+                    </div>
+                    <div class="stat-data">
+                        <span class="stat-value">15.4k</span>
+                        <span class="stat-label">Items indexés</span>
+                    </div>
+                </div>
+                <div class="stats-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-cogs"></i>
+                    </div>
+                    <div class="stat-data">
+                        <span class="stat-value">259</span>
+                        <span class="stat-label">Mods</span>
+                    </div>
+                </div>
+                <div class="stats-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <div class="stat-data">
+                        <span class="stat-value" id="totalSearches">0</span>
+                        <span class="stat-label">Recherches</span>
+                    </div>
+                </div>
+                <div class="stats-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-bolt"></i>
+                    </div>
+                    <div class="stat-data">
+                        <span class="stat-value">&lt;100ms</span>
+                        <span class="stat-label">Temps réponse</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+        <!-- Contenu principal -->
+    <main class="search-main">
+        <div class="container">
+            <!-- Sidebar filtres -->
+            <aside class="search-sidebar" id="searchSidebar">
+                <div class="sidebar-header">
+                    <h3 class="sidebar-title">
+                        <i class="fas fa-filter"></i>
+                        Affiner les résultats
+                    </h3>
+                    <button class="sidebar-toggle" onclick="toggleSearchSidebar()">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                </div>
+                
+                <!-- Filtre par type -->
+                <div class="filter-section">
+                    <h4 class="filter-title">
+                        <i class="fas fa-tag"></i>
+                        Type de contenu
+                    </h4>
+                    <div class="filter-options">
+                        <label class="filter-checkbox">
+                            <input type="checkbox" name="content-type" value="mod" checked>
+                            <span class="checkmark"></span>
+                            <span class="filter-label">Mods</span>
+                            <span class="filter-count" id="modCount">259</span>
+                        </label>
+                        <label class="filter-checkbox">
+                            <input type="checkbox" name="content-type" value="item" checked>
+                            <span class="checkmark"></span>
+                            <span class="filter-label">Items</span>
+                            <span class="filter-count" id="itemCount">15,427</span>
+                        </label>
+                        <label class="filter-checkbox">
+                            <input type="checkbox" name="content-type" value="block" checked>
+                            <span class="checkmark"></span>
+                            <span class="filter-label">Blocs</span>
+                            <span class="filter-count" id="blockCount">7,542</span>
+                        </label>
+                        <label class="filter-checkbox">
+                            <input type="checkbox" name="content-type" value="recipe" checked>
+                            <span class="checkmark"></span>
+                            <span class="filter-label">Recettes</span>
+                            <span class="filter-count" id="recipeCount">42,156</span>
+                        </label>
+                        <label class="filter-checkbox">
+                            <input type="checkbox" name="content-type" value="guide">
+                            <span class="checkmark"></span>
+                            <span class="filter-label">Guides</span>
+                            <span class="filter-count" id="guideCount">24</span>
+                        </label>
+                        <label class="filter-checkbox">
+                            <input type="checkbox" name="content-type" value="mechanic">
+                            <span class="checkmark"></span>
+                            <span class="filter-label">Mécaniques</span>
+                            <span class="filter-count" id="mechanicCount">156</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <!-- Filtre par mod -->
+                <div class="filter-section">
+                    <h4 class="filter-title">
+                        <i class="fas fa-puzzle-piece"></i>
+                        Mod source
+                    </h4>
+                    <div class="filter-search">
+                        <input type="text" 
+                               id="modSearchFilter" 
+                               placeholder="Filtrer les mods..."
+                               class="filter-search-input">
+                    </div>
+                    <div class="filter-scrollable" id="modFilters">
+                        <!-- Généré dynamiquement -->
+                    </div>
+                </div>
+                
+                <!-- Filtre par catégorie -->
+                <div class="filter-section">
+                    <h4 class="filter-title">
+                        <i class="fas fa-folder"></i>
+                        Catégories
+                    </h4>
+                    <div class="filter-scrollable" id="categoryFilters">
+                        <!-- Généré dynamiquement -->
+                    </div>
+                </div>
+                
+                <!-- Filtre par date -->
+                <div class="filter-section">
+                    <h4 class="filter-title">
+                        <i class="fas fa-calendar"></i>
+                        Date
+                    </h4>
+                    <div class="date-filter">
+                        <label>Ajouté après:</label>
+                        <input type="date" id="dateFrom" class="date-input">
+                    </div>
+                    <div class="date-filter">
+                        <label>Ajouté avant:</label>
+                        <input type="date" id="dateTo" class="date-input">
+                    </div>
+                </div>
+                
+                <!-- Actions -->
+                <div class="filter-actions">
+                    <button class="btn btn-primary full-width" onclick="applySearchFilters()">
+                        <i class="fas fa-check"></i>
+                        Appliquer
+                    </button>
+                    <button class="btn btn-secondary full-width" onclick="resetSearchFilters()">
+                        <i class="fas fa-redo"></i>
+                        Réinitialiser
+                    </button>
+                </div>
+            </aside>
+
+            <!-- Section résultats -->
+            <section class="search-results">
+                <!-- En-tête résultats -->
+                <div class="results-header">
+                    <div class="results-info">
+                        <h2 class="results-title" id="resultsTitle">
+                            <i class="fas fa-search"></i>
+                            Résultats de recherche
+                        </h2>
+                        <p class="results-count" id="resultsCount">
+                            <span id="resultsNumber">0</span> résultats trouvés
+                            <span class="search-time" id="searchTime"></span>
+                        </p>
+                    </div>
+                    
+                    <div class="results-controls">
+                        <!-- Tri -->
+                        <div class="sort-control">
+                            <label for="sortResults">
+                                <i class="fas fa-sort-amount-down"></i>
+                                Trier par:
+                            </label>
+                            <select id="sortResults" class="sort-select">
+                                <option value="relevance">Pertinence</option>
+                                <option value="name_asc">Nom (A-Z)</option>
+                                <option value="name_desc">Nom (Z-A)</option>
+                                <option value="date_new">Date (récent)</option>
+                                <option value="date_old">Date (ancien)</option>
+                                <option value="popular">Populaire</option>
+                            </select>
+                        </div>
+                        
+                        <!-- Affichage -->
+                        <div class="view-control">
+                            <button class="view-btn active" data-view="list" title="Vue liste">
+                                <i class="fas fa-list"></i>
+                            </button>
+                            <button class="view-btn" data-view="grid" title="Vue grille">
+                                <i class="fas fa-th-large"></i>
+                            </button>
+                            <button class="view-btn" data-view="compact" title="Vue compacte">
+                                <i class="fas fa-grip-horizontal"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Suggestions de recherche -->
+                <div class="search-did-you-mean" id="didYouMean" style="display: none;">
+                    <p>
+                        <i class="fas fa-info-circle"></i>
+                        Vouliez-vous dire: 
+                        <a href="#" class="corrected-query" id="correctedQuery"></a>
+                    </p>
+                </div>
+                
+                <!-- Résultats container -->
+                <div class="results-container" id="resultsContainer">
+                    <!-- État initial -->
+                    <div class="search-initial-state" id="initialState">
+                        <div class="initial-icon">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h3 class="initial-title">Recherchez dans le wiki</h3>
+                        <p class="initial-text">
+                            Tapez un terme dans la barre de recherche pour trouver des mods, items, recettes ou guides.
+                        </p>
+                        <div class="initial-tips">
+                            <h4>
+                                <i class="fas fa-lightbulb"></i>
+                                Conseils de recherche:
+                            </h4>
+                            <ul>
+                                <li>Utilisez des guillemets pour une recherche exacte : <code>"create cogwheel"</code></li>
+                                <li>Excluez des termes avec un tiret : <code>diamant -ore</code></li>
+                                <li>Recherchez dans un mod spécifique : <code>mod:create shaft</code></li>
+                                <li>Trouvez des recettes : <code>recipe:iron ingot</code></li>
+                                <li>Filtrez par type : <code>type:weapon épée</code></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- État chargement -->
+                    <div class="search-loading" id="searchLoading" style="display: none;">
+                        <div class="loading-spinner large"></div>
+                        <p>Recherche en cours...</p>
+                    </div>
+                    
+                    <!-- État aucun résultat -->
+                    <div class="search-no-results" id="noResults" style="display: none;">
+                        <div class="no-results-icon">
+                            <i class="fas fa-search-minus"></i>
+                        </div>
+                        <h3>Aucun résultat trouvé</h3>
+                        <p>Essayez avec d'autres termes ou consultez nos suggestions :</p>
+                        <div class="no-results-suggestions">
+                            <!-- Suggestions dynamiques -->
+                        </div>
+                    </div>
+                    
+                    <!-- Template résultat mod -->
+                    <template id="resultModTemplate">
+                        <article class="search-result result-mod">
+                            <div class="result-icon">
+                                <i class="fas fa-cogs"></i>
+                            </div>
+                            <div class="result-content">
+                                <h3 class="result-title">
+                                    <a href="#" class="result-link">Nom du Mod</a>
+                                </h3>
+                                <div class="result-meta">
+                                    <span class="result-type">Mod</span>
+                                    <span class="result-id">modid</span>
+                                    <span class="result-version">v1.0.0</span>
+                                </div>
+                                <p class="result-description">
+                                    Description du mod...
+                                </p>
+                                <div class="result-tags">
+                                    <span class="result-tag">Technologie</span>
+                                    <span class="result-tag">Automation</span>
+                                </div>
+                                <div class="result-stats">
+                                    <span class="result-stat">
+                                        <i class="fas fa-cube"></i>
+                                        150 items
+                                    </span>
+                                    <span class="result-stat">
+                                        <i class="fas fa-receipt"></i>
+                                        85 recettes
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="result-actions">
+                                <button class="action-btn favorite" title="Ajouter aux favoris">
+                                    <i class="far fa-star"></i>
+                                </button>
+                                <button class="action-btn copy" title="Copier l'ID">
+                                    <i class="far fa-copy"></i>
+                                </button>
+                            </div>
+                        </article>
+                    </template>
+                    
+                    <!-- Template résultat item -->
+                    <template id="resultItemTemplate">
+                        <article class="search-result result-item">
+                            <div class="result-icon">
+                                <i class="fas fa-cube"></i>
+                            </div>
+                            <div class="result-content">
+                                <h3 class="result-title">
+                                    <a href="#" class="result-link">Nom de l'Item</a>
+                                </h3>
+                                <div class="result-meta">
+                                    <span class="result-type">Item</span>
+                                    <span class="result-id">modid:itemid</span>
+                                    <span class="result-mod">ModName</span>
+                                </div>
+                                <p class="result-description">
+                                    Description de l'item...
+                                </p>
+                                <div class="result-properties">
+                                    <span class="result-property">
+                                        <i class="fas fa-shield-alt"></i>
+                                        Durabilité: 156
+                                    </span>
+                                    <span class="result-property">
+                                        <i class="fas fa-bolt"></i>
+                                        Dégâts: 7
+                                    </span>
+                                    <span class="result-property">
+                                        <i class="fas fa-utensils"></i>
+                                        Nourriture: 4
+                                    </span>
+                                </div>
+                                <div class="result-tags">
+                                    <span class="result-tag">tool</span>
+                                    <span class="result-tag">minecraft</span>
+                                </div>
+                            </div>
+                            <div class="result-actions">
+                                <button class="action-btn favorite" title="Ajouter aux favoris">
+                                    <i class="far fa-star"></i>
+                                </button>
+                                <button class="action-btn compare" title="Ajouter à la comparaison">
+                                    <i class="fas fa-exchange-alt"></i>
+                                </button>
+                            </div>
+                        </article>
+                    </template>
+                    
+                    <!-- Template résultat recette -->
+                    <template id="resultRecipeTemplate">
+                        <article class="search-result result-recipe">
+                            <div class="result-icon">
+                                <i class="fas fa-mortar-pestle"></i>
+                            </div>
+                            <div class="result-content">
+                                <h3 class="result-title">
+                                    <a href="#" class="result-link">Recette de [Item]</a>
+                                </h3>
+                                <div class="result-meta">
+                                    <span class="result-type">Recette</span>
+                                    <span class="result-craft-type">Crafting Table</span>
+                                    <span class="result-output">x1</span>
+                                </div>
+                                <div class="recipe-preview">
+                                    <div class="recipe-grid">
+                                        <!-- Grille 3x3 simulée -->
+                                    </div>
+                                    <div class="recipe-arrow">→</div>
+                                    <div class="recipe-result">
+                                        <!-- Résultat -->
+                                    </div>
+                                </div>
+                                <p class="result-description">
+                                    Craft pour créer [Item]
+                                </p>
+                            </div>
+                            <div class="result-actions">
+                                <button class="action-btn copy-recipe" title="Copier la recette">
+                                    <i class="far fa-copy"></i>
+                                </button>
+                                <button class="action-btn view-3d" title="Voir en 3D">
+                                    <i class="fas fa-cube"></i>
+                                </button>
+                            </div>
+                        </article>
+                    </template>
+                    
+                    <!-- Template résultat guide -->
+                    <template id="resultGuideTemplate">
+                        <article class="search-result result-guide">
+                            <div class="result-icon">
+                                <i class="fas fa-book"></i>
+                            </div>
+                            <div class="result-content">
+                                <h3 class="result-title">
+                                    <a href="#" class="result-link">Titre du Guide</a>
+                                </h3>
+                                <div class="result-meta">
+                                    <span class="result-type">Guide</span>
+                                    <span class="result-difficulty">Débutant</span>
+                                    <span class="result-read-time">10 min</span>
+                                </div>
+                                <p class="result-description">
+                                    Description du guide...
+                                </p>
+                                <div class="result-topics">
+                                    <span class="result-topic">
+                                        <i class="fas fa-tag"></i>
+                                        Automation
+                                    </span>
+                                    <span class="result-topic">
+                                        <i class="fas fa-tag"></i>
+                                        Create Mod
+                                    </span>
+                                </div>
+                                <div class="result-author">
+                                    <i class="fas fa-user"></i>
+                                    Par Auteur
+                                </div>
+                            </div>
+                            <div class="result-actions">
+                                <button class="action-btn bookmark" title="Ajouter aux signets">
+                                    <i class="far fa-bookmark"></i>
+                                </button>
+                                <button class="action-btn share" title="Partager">
+                                    <i class="fas fa-share-alt"></i>
+                                </button>
+                            </div>
+                        </article>
+                    </template>
+                    
+                    <!-- Template grille mod -->
+                    <template id="gridModTemplate">
+                        <div class="grid-result result-mod">
+                            <div class="grid-icon">
+                                <i class="fas fa-cogs"></i>
+                            </div>
+                            <h4 class="grid-title">Nom du Mod</h4>
+                            <p class="grid-description">Description courte...</p>
+                            <div class="grid-tags">
+                                <span class="grid-tag">Tech</span>
+                            </div>
+                        </div>
+                    </template>
+                </div>
+                
+                <!-- Pagination -->
+                <div class="search-pagination" id="searchPagination" style="display: none;">
+                    <div class="pagination-info">
+                        <span>Page</span>
+                        <input type="number" id="searchPageInput" min="1" value="1" class="page-input">
+                        <span>sur <span id="searchTotalPages">1</span></span>
+                    </div>
+                    
+                    <div class="pagination-controls">
+                        <button class="pagination-btn first" onclick="goToFirstSearchPage()" disabled>
+                            <i class="fas fa-angle-double-left"></i>
+                        </button>
+                        <button class="pagination-btn prev" onclick="goToPrevSearchPage()" disabled>
+                            <i class="fas fa-angle-left"></i>
+                        </button>
+                        
+                        <div class="pagination-numbers" id="searchPaginationNumbers">
+                            <!-- Généré dynamiquement -->
+                        </div>
+                        
+                        <button class="pagination-btn next" onclick="goToNextSearchPage()">
+                            <i class="fas fa-angle-right"></i>
+                        </button>
+                        <button class="pagination-btn last" onclick="goToLastSearchPage()">
+                            <i class="fas fa-angle-double-right"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="pagination-stats">
+                        <span id="searchPageStats">Résultats 1-10 sur 0</span>
+                    </div>
+                </div>
+                
+                <!-- Recherches associées -->
+                <div class="related-searches" id="relatedSearches" style="display: none;">
+                    <h4 class="related-title">
+                        <i class="fas fa-random"></i>
+                        Recherches associées
+                    </h4>
+                    <div class="related-tags">
+                        <!-- Généré dynamiquement -->
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+        <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Recherche Wiki</h3>
+                    <p>Moteur de recherche avancé pour le wiki Sandcraft.</p>
+                    <p class="footer-update">
+                        Index mis à jour: <span id="searchLastUpdate">Aujourd'hui</span>
+                    </p>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Types de recherche</h3>
+                    <a href="search.html?type=mod">Recherche de mods</a>
+                    <a href="search.html?type=item">Recherche d'items</a>
+                    <a href="search.html?type=recipe">Recherche de recettes</a>
+                    <a href="search.html?type=guide">Recherche de guides</a>
+                    <a href="search.html?type=all">Recherche globale</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Aide recherche</h3>
+                    <a href="search-syntax.html">Syntaxe de recherche</a>
+                    <a href="search-tips.html">Conseils avancés</a>
+                    <a href="search-operators.html">Opérateurs</a>
+                    <a href="search-filters.html">Filtres</a>
+                    <a href="search-api.html">API Recherche</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Statistiques</h3>
+                    <div class="footer-stats">
+                        <div class="footer-stat">
+                            <span class="stat-value" id="footerSearchCount">0</span>
+                            <span class="stat-label">Recherches</span>
+                        </div>
+                        <div class="footer-stat">
+                            <span class="stat-value" id="footerIndexSize">15.4k</span>
+                            <span class="stat-label">Items indexés</span>
+                        </div>
+                        <div class="footer-stat">
+                            <span class="stat-value">99.9%</span>
+                            <span class="stat-label">Précision</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>© 2024 Sandcraft Search Engine • Recherche en temps réel • Index mis à jour quotidiennement</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/data-loader.js"></script>
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/utils.js"></script>
+    
+    <script>
+        // Classe principale pour la recherche
+        class SearchPage {
+            constructor() {
+                this.searchIndex = null;
+                this.results = [];
+                this.filteredResults = [];
+                this.currentPage = 1;
+                this.resultsPerPage = 10;
+                this.currentView = 'list';
+                this.currentQuery = '';
+                this.searchFilters = {
+                    contentTypes: ['mod', 'item', 'block', 'recipe'],
+                    mods: [],
+                    categories: [],
+                    dateFrom: null,
+                    dateTo: null
+                };
+                this.searchOptions = {
+                    exactMatch: false,
+                    caseSensitive: false,
+                    searchDescriptions: true
+                };
+                
+                this.searchHistory = [];
+                this.searchStats = {
+                    totalSearches: 0,
+                    lastSearchTime: 0
+                };
+                
+                this.init();
+            }
+            
+            async init() {
+                // Charger l'historique et les stats
+                this.loadSearchHistory();
+                this.loadSearchStats();
+                
+                // Attendre les données
+                window.addEventListener('dataLoaded', (e) => {
+                    this.prepareSearchIndex(e.detail);
+                    this.setupEventListeners();
+                    this.renderFilters();
+                    this.checkURLQuery();
+                });
+                
+                // Ou si déjà chargé
+                if (window.SandcraftData && window.SandcraftData.loaded) {
+                    this.prepareSearchIndex(window.SandcraftData.data);
+                    this.setupEventListeners();
+                    this.renderFilters();
+                    this.checkURLQuery();
+                }
+            }
+            
+            prepareSearchIndex(data) {
+                // Préparer l'index de recherche
+                this.searchIndex = {
+                    mods: data.mods?.mods || [],
+                    items: data.items?.items || [],
+                    categories: data.categories?.categories || []
+                };
+                
+                // Mettre à jour les compteurs
+                this.updateCounters();
+                
+                console.log('Index de recherche préparé:', {
+                    mods: this.searchIndex.mods.length,
+                    items: this.searchIndex.items.length,
+                    categories: this.searchIndex.categories.length
+                });
+            }
+            
+            updateCounters() {
+                // Mettre à jour les compteurs dans l'interface
+                document.getElementById('modCount').textContent = this.searchIndex.mods.length;
+                document.getElementById('itemCount').textContent = this.searchIndex.items.length.toLocaleString();
+                document.getElementById('blockCount').textContent = 
+                    this.searchIndex.items.filter(i => i.type?.includes('block')).length.toLocaleString();
+                document.getElementById('recipeCount').textContent = '42,156'; // Statique pour l'instant
+                
+                // Footer
+                document.getElementById('footerSearchCount').textContent = this.searchStats.totalSearches;
+                document.getElementById('footerIndexSize').textContent = 
+                    (this.searchIndex.items.length / 1000).toFixed(1) + 'k';
+            }
+            
+            renderFilters() {
+                this.renderModFilters();
+                this.renderCategoryFilters();
+            }
+            
+            renderModFilters() {
+                const container = document.getElementById('modFilters');
+                if (!container) return;
+                
+                // Compter les items par mod
+                const modCounts = {};
+                this.searchIndex.items.forEach(item => {
+                    const mod = item.mod || 'unknown';
+                    modCounts[mod] = (modCounts[mod] || 0) + 1;
+                });
+                
+                // Top 20 mods
+                const topMods = Object.entries(modCounts)
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 20);
+                
+                container.innerHTML = topMods.map(([mod, count]) => `
+                    <label class="filter-checkbox">
+                        <input type="checkbox" name="mod-filter" value="${mod}">
+                        <span class="checkmark"></span>
+                        <span class="filter-label">${mod}</span>
+                        <span class="filter-count">${count}</span>
+                    </label>
+                `).join('');
+            }
+            
+            renderCategoryFilters() {
+                const container = document.getElementById('categoryFilters');
+                if (!container || !this.searchIndex.categories) return;
+                
+                container.innerHTML = this.searchIndex.categories.map(cat => `
+                    <label class="filter-checkbox">
+                        <input type="checkbox" name="category-filter" value="${cat.id}">
+                        <span class="checkmark"></span>
+                        <span class="filter-label">${cat.name}</span>
+                        <span class="filter-count">${cat.mod_count || 0}</span>
+                    </label>
+                `).join('');
+            }
+            
+            setupEventListeners() {
+                // Recherche principale
+                const searchInput = document.getElementById('mainSearchInput');
+                if (searchInput) {
+                    // Recherche à la frappe (avec délai)
+                    let searchTimeout;
+                    searchInput.addEventListener('input', (e) => {
+                        clearTimeout(searchTimeout);
+                        searchTimeout = setTimeout(() => {
+                            this.currentQuery = e.target.value;
+                            if (this.currentQuery.length >= 2) {
+                                this.performSearch();
+                            } else {
+                                this.showInitialState();
+                            }
+                        }, 500);
+                    });
+                    
+                    // Recherche à Enter
+                    searchInput.addEventListener('keypress', (e) => {
+                        if (e.key === 'Enter') {
+                            this.currentQuery = e.target.value;
+                            this.performSearch();
+                        }
+                    });
+                    
+                    // Clear button
+                    document.getElementById('clearMainSearch').addEventListener('click', () => {
+                        searchInput.value = '';
+                        this.currentQuery = '';
+                        this.showInitialState();
+                    });
+                }
+                
+                // Filtres rapides (onglets)
+                document.querySelectorAll('.filter-tab').forEach(tab => {
+                    tab.addEventListener('click', (e) => {
+                        const filter = e.target.closest('.filter-tab').dataset.filter;
+                        this.setQuickFilter(filter);
+                    });
+                });
+                
+                // Options de recherche
+                document.getElementById('exactMatch').addEventListener('change', (e) => {
+                    this.searchOptions.exactMatch = e.target.checked;
+                    if (this.currentQuery) this.performSearch();
+                });
+                
+                document.getElementById('caseSensitive').addEventListener('change', (e) => {
+                    this.searchOptions.caseSensitive = e.target.checked;
+                    if (this.currentQuery) this.performSearch();
+                });
+                
+                document.getElementById('searchDescriptions').addEventListener('change', (e) => {
+                    this.searchOptions.searchDescriptions = e.target.checked;
+                    if (this.currentQuery) this.performSearch();
+                });
+                
+                // Types de contenu
+                document.querySelectorAll('input[name="content-type"]').forEach(cb => {
+                    cb.addEventListener('change', () => {
+                        this.updateContentTypeFilters();
+                    });
+                });
+                
+                // Recherche dans les mods
+                const modSearch = document.getElementById('modSearchFilter');
+                if (modSearch) {
+                    modSearch.addEventListener('input', (e) => {
+                        this.filterModList(e.target.value);
+                    });
+                }
+                
+                // Tri
+                document.getElementById('sortResults').addEventListener('change', (e) => {
+                    this.sortResults(e.target.value);
+                    this.renderResults();
+                });
+                
+                // Vue
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const view = e.target.closest('.view-btn').dataset.view;
+                        this.setView(view);
+                    });
+                });
+                
+                // Pagination input
+                const pageInput = document.getElementById('searchPageInput');
+                if (pageInput) {
+                    pageInput.addEventListener('change', (e) => {
+                        const page = parseInt(e.target.value);
+                        if (page >= 1 && page <= Math.ceil(this.filteredResults.length / this.resultsPerPage)) {
+                            this.goToPage(page);
+                        }
+                    });
+                }
+            }
+            
+            setQuickFilter(filter) {
+                // Mettre à jour les onglets
+                document.querySelectorAll('.filter-tab').forEach(tab => {
+                    tab.classList.toggle('active', tab.dataset.filter === filter);
+                });
+                
+                // Mettre à jour les filtres
+                if (filter === 'all') {
+                    this.searchFilters.contentTypes = ['mod', 'item', 'block', 'recipe', 'guide', 'mechanic'];
+                } else {
+                    this.searchFilters.contentTypes = [filter];
+                }
+                
+                // Re-cocher les checkboxes correspondantes
+                document.querySelectorAll('input[name="content-type"]').forEach(cb => {
+                    cb.checked = this.searchFilters.contentTypes.includes(cb.value);
+                });
+                
+                // Refaire la recherche si une requête est active
+                if (this.currentQuery) {
+                    this.performSearch();
+                }
+            }
+            
+            updateContentTypeFilters() {
+                const checked = Array.from(document.querySelectorAll('input[name="content-type"]:checked'))
+                    .map(cb => cb.value);
+                this.searchFilters.contentTypes = checked;
+                
+                // Mettre à jour le filtre rapide
+                if (checked.length === 6) {
+                    document.querySelector('.filter-tab[data-filter="all"]').classList.add('active');
+                } else if (checked.length === 1) {
+                    const filter = checked[0];
+                    document.querySelector(`.filter-tab[data-filter="${filter}"]`).classList.add('active');
+                }
+            }
+            
+            filterModList(query) {
+                const container = document.getElementById('modFilters');
+                const checkboxes = container.querySelectorAll('.filter-checkbox');
+                
+                checkboxes.forEach(checkbox => {
+                    const label = checkbox.querySelector('.filter-label').textContent;
+                    if (label.toLowerCase().includes(query.toLowerCase())) {
+                        checkbox.style.display = 'flex';
+                    } else {
+                        checkbox.style.display = 'none';
+                    }
+                });
+            }
+            
+            performSearch() {
+                if (!this.currentQuery.trim()) {
+                    this.showInitialState();
+                    return;
+                }
+                
+                // Afficher le loading
+                this.showLoading();
+                
+                // Simuler un délai pour le feedback
+                setTimeout(() => {
+                    this.executeSearch();
+                }, 100);
+            }
+            
+            executeSearch() {
+                const query = this.currentQuery.toLowerCase();
+                const startTime = performance.now();
+                
+                // Réinitialiser les résultats
+                this.results = [];
+                
+                // Rechercher dans les mods
+                if (this.searchFilters.contentTypes.includes('mod')) {
+                    const modResults = this.searchIndex.mods.filter(mod => {
+                        return this.matchesQuery(mod, query, ['name', 'id', 'description']);
+                    }).map(mod => ({
+                        type: 'mod',
+                        data: mod,
+                        score: this.calculateScore(mod, query)
+                    }));
+                    
+                    this.results.push(...modResults);
+                }
+                
+                // Rechercher dans les items
+                if (this.searchFilters.contentTypes.includes('item') || 
+                    this.searchFilters.contentTypes.includes('block')) {
+                    
+                    const itemResults = this.searchIndex.items.filter(item => {
+                        // Filtrer par type si nécessaire
+                        if (this.searchFilters.contentTypes.includes('item') && 
+                            this.searchFilters.contentTypes.includes('block')) {
+                            // Tous les items
+                            return true;
+                        } else if (this.searchFilters.contentTypes.includes('item')) {
+                            // Items seulement (pas de blocs)
+                            return !item.type?.includes('block');
+                        } else if (this.searchFilters.contentTypes.includes('block')) {
+                            // Blocs seulement
+                            return item.type?.includes('block');
+                        }
+                        return false;
+                    }).filter(item => {
+                        return this.matchesQuery(item, query, ['name', 'id', 'description']);
+                    }).map(item => ({
+                        type: 'item',
+                        data: item,
+                        score: this.calculateScore(item, query)
+                    }));
+                    
+                    this.results.push(...itemResults);
+                }
+                
+                // Trier par score
+                this.results.sort((a, b) => b.score - a.score);
+                
+                // Appliquer les filtres supplémentaires
+                this.applyAdditionalFilters();
+                
+                // Calculer le temps
+                const endTime = performance.now();
+                const searchTime = endTime - startTime;
+                
+                // Mettre à jour les stats
+                this.updateSearchStats();
+                
+                // Afficher les résultats
+                this.renderSearchResults(searchTime);
+                
+                // Sauvegarder dans l'historique
+                this.saveToHistory(query);
+            }
+            
+            matchesQuery(item, query, fields) {
+                if (this.searchOptions.exactMatch) {
+                    // Recherche exacte
+                    return fields.some(field => {
+                        const value = item[field];
+                        if (!value) return false;
+                        
+                        if (this.searchOptions.caseSensitive) {
+                            return value === query;
+                        } else {
+                            return value.toLowerCase() === query;
+                        }
+                    });
+                } else {
+                    // Recherche partielle
+                    return fields.some(field => {
+                        const value = item[field];
+                        if (!value) return false;
+                        
+                        const itemValue = this.searchOptions.caseSensitive ? value : value.toLowerCase();
+                        const searchQuery = this.searchOptions.caseSensitive ? query : query.toLowerCase();
+                        
+                        return itemValue.includes(searchQuery);
+                    });
+                }
+            }
+            
+            calculateScore(item, query) {
+                let score = 0;
+                const queryLower = query.toLowerCase();
+                
+                // Nom exact : score élevé
+                if (item.name && item.name.toLowerCase() === queryLower) {
+                    score += 100;
+                }
+                
+                // Nom contient : score moyen
+                if (item.name && item.name.toLowerCase().includes(queryLower)) {
+                    score += 50;
+                }
+                
+                // ID exact : score élevé
+                if (item.id && item.id.toLowerCase() === queryLower) {
+                    score += 80;
+                }
+                
+                // ID contient : score moyen
+                if (item.id && item.id.toLowerCase().includes(queryLower)) {
+                    score += 40;
+                }
+                
+                // Description : score faible
+                if (this.searchOptions.searchDescriptions && item.description) {
+                    if (item.description.toLowerCase().includes(queryLower)) {
+                        score += 10;
+                    }
+                }
+                
+                // Mod populaire : bonus
+                const popularMods = ['create', 'mekanism', 'appliedenergistics2', 'thermal'];
+                if (item.mod && popularMods.includes(item.mod.toLowerCase())) {
+                    score += 5;
+                }
+                
+                return score;
+            }
+            
+            applyAdditionalFilters() {
+                // Filtrer par mods sélectionnés
+                if (this.searchFilters.mods.length > 0) {
+                    this.results = this.results.filter(result => {
+                        const mod = result.data.mod || result.data.id?.split(':')[0];
+                        return this.searchFilters.mods.includes(mod);
+                    });
+                }
+                
+                // Filtrer par catégories
+                if (this.searchFilters.categories.length > 0) {
+                    this.results = this.results.filter(result => {
+                        if (result.type === 'mod') {
+                            const categories = result.data.categories || [];
+                            return this.searchFilters.categories.some(cat => categories.includes(cat));
+                        }
+                        return true;
+                    });
+                }
+                
+                // Filtrer par date (simplifié)
+                // Pour l'instant, pas de filtre date
+                
+                this.filteredResults = [...this.results];
+            }
+            
+            renderSearchResults(searchTime) {
+                // Cacher le loading
+                document.getElementById('searchLoading').style.display = 'none';
+                
+                // Mettre à jour le titre
+                document.getElementById('resultsTitle').innerHTML = `
+                    <i class="fas fa-search"></i>
+                    Résultats pour "${this.currentQuery}"
+                `;
+                
+                // Mettre à jour les compteurs
+                const resultCount = this.filteredResults.length;
+                document.getElementById('resultsNumber').textContent = resultCount;
+                document.getElementById('searchTime').textContent = ` (${searchTime.toFixed(0)}ms)`;
+                
+                // Afficher/masquer les sections
+                if (resultCount === 0) {
+                    this.showNoResults();
+                    return;
+                }
+                
+                // Afficher les résultats
+                this.renderResults();
+                
+                // Afficher la pagination si nécessaire
+                this.renderPagination();
+                
+                // Afficher les recherches associées
+                this.showRelatedSearches();
+            }
+            
+            renderResults() {
+                const container = document.getElementById('resultsContainer');
+                const startIndex = (this.currentPage - 1) * this.resultsPerPage;
+                const endIndex = startIndex + this.resultsPerPage;
+                const pageResults = this.filteredResults.slice(startIndex, endIndex);
+                
+                // Choisir le template selon la vue
+                let html = '';
+                
+                if (this.currentView === 'list') {
+                    html = pageResults.map(result => this.createResultItem(result)).join('');
+                } else if (this.currentView === 'grid') {
+                    // Vue grille
+                    html = '<div class="grid-results">';
+                    html += pageResults.map(result => this.createGridItem(result)).join('');
+                    html += '</div>';
+                } else {
+                    // Vue compacte
+                    html = '<div class="compact-results">';
+                    html += pageResults.map(result => this.createCompactItem(result)).join('');
+                    html += '</div>';
+                }
+                
+                container.innerHTML = html;
+                
+                // Afficher le container
+                container.style.display = 'block';
+                
+                // Afficher la pagination
+                document.getElementById('searchPagination').style.display = 'flex';
+            }
+            
+            createResultItem(result) {
+                const templateId = `result${result.type.charAt(0).toUpperCase() + result.type.slice(1)}Template`;
+                const template = document.getElementById(templateId);
+                
+                if (!template) {
+                    return this.createGenericResult(result);
+                }
+                
+                const clone = template.content.cloneNode(true);
+                const element = clone.querySelector('.search-result');
+                
+                // Remplir avec les données
+                this.fillResultTemplate(element, result);
+                
+                return element.outerHTML;
+            }
+            
+            createGenericResult(result) {
+                return `
+                    <article class="search-result result-generic">
+                        <div class="result-icon">
+                            <i class="fas fa-question-circle"></i>
+                        </div>
+                        <div class="result-content">
+                            <h3 class="result-title">
+                                <a href="#" class="result-link">${result.data.name || 'Sans nom'}</a>
+                            </h3>
+                            <div class="result-meta">
+                                <span class="result-type">${result.type}</span>
+                                <span class="result-id">${result.data.id || ''}</span>
+                            </div>
+                            <p class="result-description">
+                                ${result.data.description || 'Pas de description'}
+                            </p>
+                        </div>
+                    </article>
+                `;
+            }
+            
+            fillResultTemplate(element, result) {
+                // Titre et lien
+                const title = element.querySelector('.result-title a');
+                if (title) {
+                    title.textContent = result.data.name || 'Sans nom';
+                    title.href = this.getResultURL(result);
+                }
+                
+                // Métadonnées
+                const meta = element.querySelector('.result-meta');
+                if (meta) {
+                    // Type
+                    const typeElem = meta.querySelector('.result-type');
+                    if (typeElem) {
+                        typeElem.textContent = this.getTypeName(result.type);
+                    }
+                    
+                    // ID
+                    const idElem = meta.querySelector('.result-id');
+                    if (idElem && result.data.id) {
+                        idElem.textContent = result.data.id;
+                    }
+                    
+                    // Version (pour les mods)
+                    const versionElem = meta.querySelector('.result-version');
+                    if (versionElem && result.data.version) {
+                        versionElem.textContent = `v${result.data.version}`;
+                    }
+                    
+                    // Mod (pour les items)
+                    const modElem = meta.querySelector('.result-mod');
+                    if (modElem && result.data.mod) {
+                        modElem.textContent = result.data.mod;
+                    }
+                }
+                
+                // Description
+                const desc = element.querySelector('.result-description');
+                if (desc && result.data.description) {
+                    desc.textContent = this.truncateText(result.data.description, 150);
+                }
+                
+                // Tags
+                const tagsContainer = element.querySelector('.result-tags');
+                if (tagsContainer) {
+                    if (result.data.categories && result.data.categories.length > 0) {
+                        tagsContainer.innerHTML = result.data.categories.map(cat => 
+                            `<span class="result-tag">${cat}</span>`
+                        ).join('');
+                    } else if (result.data.tags && result.data.tags.length > 0) {
+                        tagsContainer.innerHTML = result.data.tags.slice(0, 3).map(tag => 
+                            `<span class="result-tag">${tag}</span>`
+                        ).join('');
+                    }
+                }
+            }
+            
+            createGridItem(result) {
+                // Vue grille simplifiée
+                return `
+                    <div class="grid-result result-${result.type}">
+                        <div class="grid-icon">
+                            <i class="fas fa-${this.getTypeIcon(result.type)}"></i>
+                        </div>
+                        <h4 class="grid-title">${result.data.name || 'Sans nom'}</h4>
+                        <p class="grid-description">${this.truncateText(result.data.description || '', 60)}</p>
+                        <div class="grid-tags">
+                            <span class="grid-tag">${result.type}</span>
+                            ${result.data.mod ? `<span class="grid-tag">${result.data.mod}</span>` : ''}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            createCompactItem(result) {
+                // Vue compacte
+                return `
+                    <div class="compact-result" onclick="window.location.href='${this.getResultURL(result)}'">
+                        <div class="compact-icon">
+                            <i class="fas fa-${this.getTypeIcon(result.type)}"></i>
+                        </div>
+                        <span class="compact-text">${result.data.name}</span>
+                    </div>
+                `;
+            }
+            
+            getResultURL(result) {
+                switch (result.type) {
+                    case 'mod':
+                        return `mod.html?id=${encodeURIComponent(result.data.id)}`;
+                    case 'item':
+                        return `item.html?id=${encodeURIComponent(result.data.id)}`;
+                    case 'recipe':
+                        return `recipe.html?id=${encodeURIComponent(result.data.id)}`;
+                    case 'guide':
+                        return `guide.html?id=${encodeURIComponent(result.data.id)}`;
+                    default:
+                        return '#';
+                }
+            }
+            
+            getTypeName(type) {
+                const names = {
+                    'mod': 'Mod',
+                    'item': 'Item',
+                    'block': 'Bloc',
+                    'recipe': 'Recette',
+                    'guide': 'Guide',
+                    'mechanic': 'Mécanique'
+                };
+                return names[type] || type;
+            }
+            
+            getTypeIcon(type) {
+                const icons = {
+                    'mod': 'cogs',
+                    'item': 'cube',
+                    'block': 'cube',
+                    'recipe': 'mortar-pestle',
+                    'guide': 'book',
+                    'mechanic': 'tools'
+                };
+                return icons[type] || 'question-circle';
+            }
+            
+            renderPagination() {
+                const totalResults = this.filteredResults.length;
+                const totalPages = Math.ceil(totalResults / this.resultsPerPage);
+                
+                // Mettre à jour les infos
+                document.getElementById('searchTotalPages').textContent = totalPages;
+                document.getElementById('searchPageInput').value = this.currentPage;
+                document.getElementById('searchPageInput').max = totalPages;
+                
+                // Générer les numéros de page
+                const container = document.getElementById('searchPaginationNumbers');
+                if (!container) return;
+                
+                let paginationHTML = '';
+                const maxVisible = 5;
+                let startPage = Math.max(1, this.currentPage - Math.floor(maxVisible / 2));
+                let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+                
+                // Ajuster si on est proche de la fin
+                if (endPage - startPage + 1 < maxVisible) {
+                    startPage = Math.max(1, endPage - maxVisible + 1);
+                }
+                
+                // Boutons de page
+                for (let i = startPage; i <= endPage; i++) {
+                    paginationHTML += `
+                        <button class="pagination-number ${i === this.currentPage ? 'active' : ''}" 
+                                onclick="searchPage.goToPage(${i})">
+                            ${i}
+                        </button>
+                    `;
+                }
+                
+                container.innerHTML = paginationHTML;
+                
+                // Activer/désactiver les boutons
+                document.querySelector('.pagination-btn.first').disabled = this.currentPage === 1;
+                document.querySelector('.pagination-btn.prev').disabled = this.currentPage === 1;
+                document.querySelector('.pagination-btn.next').disabled = this.currentPage === totalPages;
+                document.querySelector('.pagination-btn.last').disabled = this.currentPage === totalPages;
+                
+                // Mettre à jour les stats
+                const startResult = (this.currentPage - 1) * this.resultsPerPage + 1;
+                const endResult = Math.min(this.currentPage * this.resultsPerPage, totalResults);
+                document.getElementById('searchPageStats').textContent = 
+                    `Résultats ${startResult}-${endResult} sur ${totalResults}`;
+            }
+            
+            sortResults(sortBy) {
+                switch (sortBy) {
+                    case 'name_asc':
+                        this.filteredResults.sort((a, b) => 
+                            (a.data.name || '').localeCompare(b.data.name || ''));
+                        break;
+                    case 'name_desc':
+                        this.filteredResults.sort((a, b) => 
+                            (b.data.name || '').localeCompare(a.data.name || ''));
+                        break;
+                    case 'date_new':
+                        // Pour l'instant, tri par ID (proxi)
+                        this.filteredResults.sort((a, b) => 
+                            (b.data.id || '').localeCompare(a.data.id || ''));
+                        break;
+                    case 'date_old':
+                        this.filteredResults.sort((a, b) => 
+                            (a.data.id || '').localeCompare(b.data.id || ''));
+                        break;
+                    case 'popular':
+                        // Trier par score
+                        this.filteredResults.sort((a, b) => b.score - a.score);
+                        break;
+                    default:
+                        // Pertinence (déjà trié par score)
+                        break;
+                }
+                
+                this.currentPage = 1;
+            }
+            
+            setView(view) {
+                this.currentView = view;
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.view === view);
+                });
+                this.renderResults();
+            }
+            
+            goToPage(page) {
+                const totalPages = Math.ceil(this.filteredResults.length / this.resultsPerPage);
+                if (page < 1 || page > totalPages) return;
+                
+                this.currentPage = page;
+                this.renderResults();
+                this.renderPagination();
+                
+                // Scroll vers le haut
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+            
+            goToFirstPage() {
+                this.goToPage(1);
+            }
+            
+            goToLastPage() {
+                const totalPages = Math.ceil(this.filteredResults.length / this.resultsPerPage);
+                this.goToPage(totalPages);
+            }
+            
+            goToNextPage() {
+                this.goToPage(this.currentPage + 1);
+            }
+            
+            goToPrevPage() {
+                this.goToPage(this.currentPage - 1);
+            }
+            
+            showInitialState() {
+                document.getElementById('initialState').style.display = 'block';
+                document.getElementById('searchLoading').style.display = 'none';
+                document.getElementById('noResults').style.display = 'none';
+                document.getElementById('resultsContainer').style.display = 'none';
+                document.getElementById('searchPagination').style.display = 'none';
+                document.getElementById('relatedSearches').style.display = 'none';
+                document.getElementById('didYouMean').style.display = 'none';
+            }
+            
+            showLoading() {
+                document.getElementById('initialState').style.display = 'none';
+                document.getElementById('searchLoading').style.display = 'block';
+                document.getElementById('noResults').style.display = 'none';
+                document.getElementById('resultsContainer').style.display = 'none';
+                document.getElementById('searchPagination').style.display = 'none';
+                document.getElementById('relatedSearches').style.display = 'none';
+            }
+            
+            showNoResults() {
+                document.getElementById('initialState').style.display = 'none';
+                document.getElementById('searchLoading').style.display = 'none';
+                document.getElementById('noResults').style.display = 'block';
+                document.getElementById('resultsContainer').style.display = 'none';
+                document.getElementById('searchPagination').style.display = 'none';
+                document.getElementById('relatedSearches').style.display = 'block';
+                
+                // Afficher des suggestions
+                this.showSearchSuggestions();
+            }
+            
+            showSearchSuggestions() {
+                const container = document.querySelector('.no-results-suggestions');
+                if (!container) return;
+                
+                // Suggestions basées sur la requête
+                const suggestions = this.generateSuggestions(this.currentQuery);
+                
+                container.innerHTML = suggestions.map(suggestion => `
+                    <a href="search.html?q=${encodeURIComponent(suggestion)}" class="suggestion-link">
+                        ${suggestion}
+                    </a>
+                `).join('');
+            }
+            
+            generateSuggestions(query) {
+                const suggestions = [];
+                const queryLower = query.toLowerCase();
+                
+                // Vérifier les fautes de frappe courantes
+                const commonTypos = {
+                    'diamant': 'diamond',
+                    'create': 'create',
+                    'mekanism': 'mekanism',
+                    'automation': 'automation',
+                    'magie': 'magic'
+                };
+                
+                for (const [typo, correct] of Object.entries(commonTypos)) {
+                    if (queryLower.includes(typo)) {
+                        suggestions.push(correct);
+                    }
+                }
+                
+                // Ajouter des termes populaires
+                const popularTerms = ['Create', 'Mekanism', 'Automation', 'Magic', 'Tools', 'Weapons', 'Armor'];
+                popularTerms.forEach(term => {
+                    if (!suggestions.includes(term.toLowerCase())) {
+                        suggestions.push(term);
+                    }
+                });
+                
+                return suggestions.slice(0, 5);
+            }
+            
+            showRelatedSearches() {
+                const container = document.getElementById('relatedSearches');
+                const tagsContainer = container.querySelector('.related-tags');
+                
+                if (this.filteredResults.length === 0) {
+                    container.style.display = 'none';
+                    return;
+                }
+                
+                // Générer des termes liés basés sur les résultats
+                const relatedTerms = this.extractRelatedTerms();
+                
+                tagsContainer.innerHTML = relatedTerms.map(term => `
+                    <a href="search.html?q=${encodeURIComponent(term)}" class="related-tag">
+                        ${term}
+                    </a>
+                `).join('');
+                
+                container.style.display = 'block';
+            }
+            
+            extractRelatedTerms() {
+                const terms = new Set();
+                
+                // Extraire des termes des premiers résultats
+                this.filteredResults.slice(0, 5).forEach(result => {
+                    // Mod
+                    if (result.data.mod) {
+                        terms.add(result.data.mod);
+                    }
+                    
+                    // Catégories
+                    if (result.data.categories) {
+                        result.data.categories.forEach(cat => terms.add(cat));
+                    }
+                    
+                    // Tags
+                    if (result.data.tags) {
+                        result.data.tags.slice(0, 2).forEach(tag => terms.add(tag));
+                    }
+                });
+                
+                return Array.from(terms).slice(0, 8);
+            }
+            
+            updateSearchStats() {
+                this.searchStats.totalSearches++;
+                this.searchStats.lastSearchTime = Date.now();
+                
+                // Sauvegarder
+                localStorage.setItem('searchStats', JSON.stringify(this.searchStats));
+                
+                // Mettre à jour l'interface
+                document.getElementById('totalSearches').textContent = this.searchStats.totalSearches;
+            }
+            
+            loadSearchStats() {
+                const saved = localStorage.getItem('searchStats');
+                if (saved) {
+                    this.searchStats = JSON.parse(saved);
+                    document.getElementById('totalSearches').textContent = this.searchStats.totalSearches;
+                }
+            }
+            
+            loadSearchHistory() {
+                const saved = localStorage.getItem('searchHistory');
+                if (saved) {
+                    this.searchHistory = JSON.parse(saved);
+                }
+            }
+            
+            saveToHistory(query) {
+                // Ajouter au début de l'historique
+                this.searchHistory.unshift({
+                    query: query,
+                    timestamp: Date.now(),
+                    resultCount: this.filteredResults.length
+                });
+                
+                // Garder seulement les 50 dernières recherches
+                if (this.searchHistory.length > 50) {
+                    this.searchHistory = this.searchHistory.slice(0, 50);
+                }
+                
+                // Sauvegarder
+                localStorage.setItem('searchHistory', JSON.stringify(this.searchHistory));
+            }
+            
+            checkURLQuery() {
+                // Vérifier si une requête est passée dans l'URL
+                const urlParams = new URLSearchParams(window.location.search);
+                const query = urlParams.get('q');
+                
+                if (query) {
+                    document.getElementById('mainSearchInput').value = query;
+                    this.currentQuery = query;
+                    this.performSearch();
+                }
+            }
+            
+            applySearchFilters() {
+                // Récupérer les mods sélectionnés
+                const selectedMods = Array.from(document.querySelectorAll('input[name="mod-filter"]:checked'))
+                    .map(cb => cb.value);
+                this.searchFilters.mods = selectedMods;
+                
+                // Récupérer les catégories sélectionnées
+                const selectedCategories = Array.from(document.querySelectorAll('input[name="category-filter"]:checked'))
+                    .map(cb => cb.value);
+                this.searchFilters.categories = selectedCategories;
+                
+                // Récupérer les dates
+                const dateFrom = document.getElementById('dateFrom').value;
+                const dateTo = document.getElementById('dateTo').value;
+                this.searchFilters.dateFrom = dateFrom || null;
+                this.searchFilters.dateTo = dateTo || null;
+                
+                // Refaire la recherche
+                if (this.currentQuery) {
+                    this.performSearch();
+                }
+            }
+            
+            resetSearchFilters() {
+                // Réinitialiser tous les filtres
+                document.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+                document.querySelectorAll('input[type="date"]').forEach(input => input.value = '');
+                
+                // Réactiver les types de contenu par défaut
+                document.querySelectorAll('input[name="content-type"]').forEach(cb => {
+                    if (['mod', 'item', 'block', 'recipe'].includes(cb.value)) {
+                        cb.checked = true;
+                    }
+                });
+                
+                this.searchFilters = {
+                    contentTypes: ['mod', 'item', 'block', 'recipe'],
+                    mods: [],
+                    categories: [],
+                    dateFrom: null,
+                    dateTo: null
+                };
+                
+                // Refaire la recherche
+                if (this.currentQuery) {
+                    this.performSearch();
+                }
+            }
+            
+            toggleSearchSidebar() {
+                const sidebar = document.getElementById('searchSidebar');
+                sidebar.classList.toggle('collapsed');
+            }
+            
+            truncateText(text, maxLength) {
+                if (!text) return '';
+                if (text.length <= maxLength) return text;
+                return text.substring(0, maxLength) + '...';
+            }
+        }
+        
+        // Fonctions globales
+        function performMainSearch() {
+            const input = document.getElementById('mainSearchInput');
+            if (input.value.trim()) {
+                searchPage.currentQuery = input.value;
+                searchPage.performSearch();
+            }
+        }
+        
+        function applySearchFilters() {
+            searchPage.applySearchFilters();
+        }
+        
+        function resetSearchFilters() {
+            searchPage.resetSearchFilters();
+        }
+        
+        function toggleSearchSidebar() {
+            searchPage.toggleSearchSidebar();
+        }
+        
+        function goToPage(page) {
+            searchPage.goToPage(page);
+        }
+        
+        function goToFirstSearchPage() {
+            searchPage.goToFirstPage();
+        }
+        
+        function goToLastSearchPage() {
+            searchPage.goToLastPage();
+        }
+        
+        function goToNextSearchPage() {
+            searchPage.goToNextPage();
+        }
+        
+        function goToPrevSearchPage() {
+            searchPage.goToPrevPage();
+        }
+        
+        // Initialiser la page
+        let searchPage;
+        document.addEventListener('DOMContentLoaded', () => {
+            searchPage = new SearchPage();
+            window.searchPage = searchPage;
+            
+            // Mettre à jour la date
+            const now = new Date();
+            document.getElementById('searchLastUpdate').textContent = 
+                now.toLocaleDateString('fr-FR');
+        });
+    </script>
+</body>
+</html>
