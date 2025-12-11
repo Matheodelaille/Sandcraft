@@ -1,0 +1,1126 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mods - Sandcraft Wiki</title>
+    
+    <meta name="description" content="Liste complète des 259 mods du pack Sandcraft avec descriptions, catégories et détails techniques.">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/mods.css">
+    
+    <!-- Icônes -->
+    <link rel="icon" href="assets/images/favicon.ico">
+    
+    <!-- Polices -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation (identique à index.html) -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                        <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="#4299E1" stroke="#2D3748" stroke-width="2"/>
+                        <path d="M16 8L24 16L16 24L8 16L16 8Z" fill="#ED8936" stroke="#2D3748" stroke-width="1.5"/>
+                        <circle cx="16" cy="16" r="4" fill="#F6E05E"/>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">Sandcraft</span>
+                    <span class="logo-subtitle">Wiki</span>
+                </div>
+            </a>
+            
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link">
+                    <span class="nav-icon">🏠</span>
+                    <span class="nav-text">Accueil</span>
+                </a>
+                <a href="mods.html" class="nav-link active">
+                    <span class="nav-icon">⚙️</span>
+                    <span class="nav-text">Mods</span>
+                    <span class="nav-badge" id="modsCountNav">259</span>
+                </a>
+                <a href="items.html" class="nav-link">
+                    <span class="nav-icon">📦</span>
+                    <span class="nav-text">Items</span>
+                </a>
+                <a href="guides.html" class="nav-link">
+                    <span class="nav-icon">📚</span>
+                    <span class="nav-text">Guides</span>
+                </a>
+                <a href="mechanics.html" class="nav-link">
+                    <span class="nav-icon">🔧</span>
+                    <span class="nav-text">Mécaniques</span>
+                </a>
+                <a href="search.html" class="nav-link search-link">
+                    <span class="nav-icon">🔍</span>
+                    <span class="nav-text">Recherche</span>
+                </a>
+            </div>
+            
+            <div class="nav-utils">
+                <button class="theme-toggle" aria-label="Changer le thème">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                <button class="menu-toggle" aria-label="Ouvrir le menu">
+                    <span class="menu-icon">☰</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header de la page Mods -->
+    <header class="page-header mods-header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="page-title">
+                    <span class="title-icon">⚙️</span>
+                    Mods Sandcraft
+                </h1>
+                <p class="page-subtitle">
+                    Explorez les <span id="totalModsCount">259</span> mods du pack, classés par catégorie et fonctionnalité
+                </p>
+                
+                <!-- Barre de recherche mods -->
+                <div class="mods-search">
+                    <div class="search-wrapper">
+                        <input type="text" 
+                               id="modsSearchInput" 
+                               placeholder="Rechercher un mod par nom, description ou catégorie..."
+                               autocomplete="off">
+                        <button class="search-btn" onclick="searchMods()">
+                            <span class="search-icon">🔍</span>
+                            Rechercher
+                        </button>
+                    </div>
+                    <div class="search-filters">
+                        <button class="filter-btn active" data-filter="all">Tous</button>
+                        <button class="filter-btn" data-filter="technology">Technologie</button>
+                        <button class="filter-btn" data-filter="magic">Magie</button>
+                        <button class="filter-btn" data-filter="exploration">Exploration</button>
+                        <button class="filter-btn" data-filter="decoration">Décoration</button>
+                        <button class="filter-btn" data-filter="storage">Stockage</button>
+                        <button class="filter-btn" data-filter="utility">Utility</button>
+                        <button class="filter-btn" data-filter="library">Library</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Statistiques rapides -->
+            <div class="header-stats">
+                <div class="stat-item">
+                    <span class="stat-value" id="techModsCount">85</span>
+                    <span class="stat-label">Technologie</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="magicModsCount">42</span>
+                    <span class="stat-label">Magie</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="explorationModsCount">28</span>
+                    <span class="stat-label">Exploration</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="decorationModsCount">35</span>
+                    <span class="stat-label">Décoration</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="requiredModsCount">217</span>
+                    <span class="stat-label">Requis</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="optionalModsCount">42</span>
+                    <span class="stat-label">Optionnels</span>
+                </div>
+            </div>
+        </div>
+    </header>
+        <!-- Contenu principal -->
+    <main class="mods-main">
+        <div class="container">
+            <!-- Sidebar filtres -->
+            <aside class="mods-sidebar">
+                <div class="sidebar-section">
+                    <h3 class="sidebar-title">
+                        <span class="sidebar-icon">📊</span>
+                        Filtres
+                    </h3>
+                    
+                    <!-- Filtre catégories -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Catégories</h4>
+                        <div class="filter-options" id="categoryFilters">
+                            <!-- Généré dynamiquement -->
+                        </div>
+                    </div>
+                    
+                    <!-- Filtre statut -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Statut</h4>
+                        <div class="filter-options">
+                            <label class="filter-checkbox">
+                                <input type="checkbox" name="status" value="required" checked>
+                                <span class="checkmark"></span>
+                                <span class="filter-label">Requis</span>
+                                <span class="filter-count" id="requiredCount">217</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" name="status" value="optional" checked>
+                                <span class="checkmark"></span>
+                                <span class="filter-label">Optionnel</span>
+                                <span class="filter-count" id="optionalCount">42</span>
+                            </label>
+                            <label class="filter-checkbox">
+                                <input type="checkbox" name="status" value="client">
+                                <span class="checkmark"></span>
+                                <span class="filter-label">Client seulement</span>
+                                <span class="filter-count" id="clientCount">18</span>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <!-- Filtre items -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Contenu</h4>
+                        <div class="filter-range">
+                            <label for="itemRange">Items minimum:</label>
+                            <input type="range" id="itemRange" min="0" max="500" value="0">
+                            <div class="range-values">
+                                <span id="minItems">0</span>
+                                <span id="maxItems">500+</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Filtre tri -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Trier par</h4>
+                        <select id="sortSelect" class="sort-select">
+                            <option value="name">Nom (A-Z)</option>
+                            <option value="name-desc">Nom (Z-A)</option>
+                            <option value="items">Items (décroissant)</option>
+                            <option value="version">Version (récente)</option>
+                            <option value="popular">Populaire</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Boutons actions -->
+                    <div class="sidebar-actions">
+                        <button class="btn btn-primary" onclick="applyFilters()">
+                            <span class="btn-icon">✅</span>
+                            Appliquer filtres
+                        </button>
+                        <button class="btn btn-secondary" onclick="resetFilters()">
+                            <span class="btn-icon">🔄</span>
+                            Réinitialiser
+                        </button>
+                        <button class="btn btn-export" onclick="exportModsList()">
+                            <span class="btn-icon">📥</span>
+                            Exporter liste
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Aide rapide -->
+                <div class="sidebar-help">
+                    <h4 class="help-title">💡 Conseils</h4>
+                    <ul class="help-list">
+                        <li>Cliquez sur un mod pour voir ses détails</li>
+                        <li>Utilisez Ctrl+F pour rechercher dans la page</li>
+                        <li>Les mods requis sont essentiels au pack</li>
+                        <li>Les mods optionnels peuvent être désactivés</li>
+                    </ul>
+                </div>
+            </aside>
+
+            <!-- Section principale : Liste des mods -->
+            <section class="mods-content">
+                <!-- En-tête résultats -->
+                <div class="results-header">
+                    <div class="results-info">
+                        <h2 class="results-title">Mods</h2>
+                        <p class="results-count" id="resultsCount">
+                            Affichage de <span id="visibleModsCount">259</span> sur <span id="totalModsCount2">259</span> mods
+                        </p>
+                    </div>
+                    
+                    <div class="results-actions">
+                        <div class="view-toggle">
+                            <button class="view-btn active" data-view="grid" aria-label="Vue grille">
+                                <span class="view-icon">⎔</span>
+                            </button>
+                            <button class="view-btn" data-view="list" aria-label="Vue liste">
+                                <span class="view-icon">☰</span>
+                            </button>
+                        </div>
+                        
+                        <div class="results-pagination">
+                            <button class="pagination-btn prev" disabled>
+                                <span class="pagination-icon">←</span>
+                                Précédent
+                            </button>
+                            <span class="pagination-info">
+                                Page <span id="currentPage">1</span> sur <span id="totalPages">13</span>
+                            </span>
+                            <button class="pagination-btn next">
+                                Suivant
+                                <span class="pagination-icon">→</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Container mods -->
+                <div class="mods-container" id="modsContainer">
+                    <!-- Les mods seront chargés ici dynamiquement -->
+                    <div class="loading-mods">
+                        <div class="loading-spinner"></div>
+                        <p>Chargement des mods...</p>
+                    </div>
+                </div>
+                
+                <!-- Template de carte mod (caché) -->
+                <template id="modCardTemplate">
+                    <article class="mod-card" data-categories="" data-items="0" data-required="true">
+                        <div class="mod-card-inner">
+                            <!-- En-tête avec métadonnées -->
+                            <div class="mod-card-header">
+                                <div class="mod-icon-container">
+                                    <div class="mod-icon">⚙️</div>
+                                    <div class="mod-required-badge" title="Mod requis">✓</div>
+                                </div>
+                                
+                                <div class="mod-meta">
+                                    <span class="mod-version">v1.0.0</span>
+                                    <span class="mod-items-count">0 items</span>
+                                    <span class="mod-size">0.0MB</span>
+                                </div>
+                            </div>
+                            
+                            <!-- Corps de la carte -->
+                            <div class="mod-card-body">
+                                <h3 class="mod-name">Nom du Mod</h3>
+                                <p class="mod-description">
+                                    Description du mod ici...
+                                </p>
+                                
+                                <!-- Catégories -->
+                                <div class="mod-categories">
+                                    <span class="mod-category">catégorie</span>
+                                </div>
+                                
+                                <!-- Stats rapides -->
+                                <div class="mod-stats">
+                                    <div class="mod-stat">
+                                        <span class="stat-icon">📦</span>
+                                        <span class="stat-value">0</span>
+                                        <span class="stat-label">Items</span>
+                                    </div>
+                                    <div class="mod-stat">
+                                        <span class="stat-icon">🧱</span>
+                                        <span class="stat-value">0</span>
+                                        <span class="stat-label">Blocs</span>
+                                    </div>
+                                    <div class="mod-stat">
+                                        <span class="stat-icon">⚗️</span>
+                                        <span class="stat-value">0</span>
+                                        <span class="stat-label">Recettes</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Footer avec actions -->
+                            <div class="mod-card-footer">
+                                <a href="#" class="mod-link">
+                                    <span class="link-text">Voir détails</span>
+                                    <span class="link-arrow">→</span>
+                                </a>
+                                <div class="mod-actions">
+                                    <button class="action-btn" title="Ajouter aux favoris">
+                                        <span class="action-icon">⭐</span>
+                                    </button>
+                                    <button class="action-btn" title="Copier l'ID">
+                                        <span class="action-icon">📋</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </template>
+                
+                <!-- Template vue liste (caché) -->
+                <template id="modRowTemplate">
+                    <tr class="mod-row" data-categories="" data-items="0">
+                        <td class="mod-select">
+                            <input type="checkbox" class="mod-checkbox">
+                        </td>
+                        <td class="mod-icon-cell">
+                            <div class="mod-icon-small">⚙️</div>
+                        </td>
+                        <td class="mod-name-cell">
+                            <a href="#" class="mod-name-link">Nom du Mod</a>
+                            <div class="mod-id">mod.id</div>
+                        </td>
+                        <td class="mod-version-cell">
+                            <span class="mod-version">v1.0.0</span>
+                        </td>
+                        <td class="mod-categories-cell">
+                            <div class="mod-categories-list">
+                                <span class="mod-category-tag">catégorie</span>
+                            </div>
+                        </td>
+                        <td class="mod-stats-cell">
+                            <div class="mod-stats-compact">
+                                <span title="Items">📦 0</span>
+                                <span title="Blocs">🧱 0</span>
+                                <span title="Recettes">⚗️ 0</span>
+                            </div>
+                        </td>
+                        <td class="mod-actions-cell">
+                            <button class="row-action-btn" title="Voir détails">
+                                <span class="action-icon">👁️</span>
+                            </button>
+                        </td>
+                    </tr>
+                </template>
+                
+                <!-- Pagination -->
+                <div class="mods-pagination">
+                    <div class="pagination-controls">
+                        <button class="pagination-first" onclick="goToPage(1)" disabled>
+                            <span class="pagination-icon">««</span>
+                            Première
+                        </button>
+                        <button class="pagination-prev" onclick="prevPage()" disabled>
+                            <span class="pagination-icon">«</span>
+                            Précédent
+                        </button>
+                        
+                        <div class="pagination-numbers" id="paginationNumbers">
+                            <!-- Généré dynamiquement -->
+                        </div>
+                        
+                        <button class="pagination-next" onclick="nextPage()">
+                            Suivant
+                            <span class="pagination-icon">»</span>
+                        </button>
+                        <button class="pagination-last" onclick="goToPage(13)">
+                            Dernière
+                            <span class="pagination-icon">»»</span>
+                        </button>
+                    </div>
+                    
+                    <div class="pagination-options">
+                        <label for="itemsPerPage">Mods par page:</label>
+                        <select id="itemsPerPage" class="page-select">
+                            <option value="12">12</option>
+                            <option value="24" selected>24</option>
+                            <option value="48">48</option>
+                            <option value="96">96</option>
+                            <option value="all">Tous</option>
+                        </select>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+        <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Mods Sandcraft</h3>
+                    <p>Liste complète des mods du pack Sandcraft pour Minecraft 1.19.2.</p>
+                    <p>Dernière mise à jour: <span id="modsLastUpdate">Chargement...</span></p>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Catégories</h3>
+                    <a href="mods.html?category=technology">Technologie</a>
+                    <a href="mods.html?category=magic">Magie</a>
+                    <a href="mods.html?category=exploration">Exploration</a>
+                    <a href="mods.html?category=decoration">Décoration</a>
+                    <a href="mods.html?category=storage">Stockage</a>
+                    <a href="mods.html?category=utility">Utility</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Outils</h3>
+                    <a href="mods-comparison.html">Comparateur de mods</a>
+                    <a href="mods-dependencies.html">Dépendances</a>
+                    <a href="mods-changelog.html">Changelog</a>
+                    <a href="mods-export.html">Export JSON</a>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>© 2024 Sandcraft Mods Database • Données extraites automatiquement</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/data-loader.js"></script>
+    <script src="assets/js/mods.js"></script>
+    <script src="assets/js/utils.js"></script>
+    
+    <script>
+        // Initialisation de la page mods
+        class ModsPage {
+            constructor() {
+                this.mods = [];
+                this.filteredMods = [];
+                this.currentPage = 1;
+                this.itemsPerPage = 24;
+                this.currentView = 'grid';
+                this.filters = {
+                    categories: [],
+                    status: ['required', 'optional'],
+                    minItems: 0,
+                    searchQuery: '',
+                    sortBy: 'name'
+                };
+                
+                this.init();
+            }
+            
+            async init() {
+                // Attendre le chargement des données
+                window.addEventListener('dataLoaded', (e) => {
+                    this.mods = e.detail.mods.mods;
+                    this.filteredMods = [...this.mods];
+                    this.render();
+                    this.updateStats();
+                    this.setupEventListeners();
+                });
+                
+                // Si les données sont déjà chargées
+                if (window.SandcraftData && window.SandcraftData.loaded) {
+                    this.mods = window.SandcraftData.data.mods.mods;
+                    this.filteredMods = [...this.mods];
+                    this.render();
+                    this.updateStats();
+                    this.setupEventListeners();
+                }
+            }
+            
+            render() {
+                this.renderCategories();
+                this.renderMods();
+                this.renderPagination();
+            }
+            
+            renderCategories() {
+                const container = document.getElementById('categoryFilters');
+                if (!container) return;
+                
+                // Compter les mods par catégorie
+                const categoryCounts = {};
+                this.mods.forEach(mod => {
+                    if (mod.categories) {
+                        mod.categories.forEach(cat => {
+                            categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+                        });
+                    }
+                });
+                
+                // Trier par popularité
+                const sortedCategories = Object.entries(categoryCounts)
+                    .sort((a, b) => b[1] - a[1])
+                    .map(([cat, count]) => ({ cat, count }));
+                
+                container.innerHTML = sortedCategories.map(({ cat, count }) => `
+                    <label class="filter-checkbox">
+                        <input type="checkbox" name="category" value="${cat}" checked>
+                        <span class="checkmark"></span>
+                        <span class="filter-label">${this.formatCategoryName(cat)}</span>
+                        <span class="filter-count">${count}</span>
+                    </label>
+                `).join('');
+            }
+            
+            renderMods() {
+                const container = document.getElementById('modsContainer');
+                if (!container) return;
+                
+                // Calculer les mods à afficher pour la page courante
+                const startIndex = (this.currentPage - 1) * this.itemsPerPage;
+                const endIndex = startIndex + this.itemsPerPage;
+                const pageMods = this.filteredMods.slice(startIndex, endIndex);
+                
+                if (pageMods.length === 0) {
+                    container.innerHTML = `
+                        <div class="no-results">
+                            <div class="no-results-icon">😕</div>
+                            <h3>Aucun mod trouvé</h3>
+                            <p>Essayez de modifier vos filtres ou votre recherche.</p>
+                            <button class="btn" onclick="this.resetFilters()">Réinitialiser les filtres</button>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // Choisir le template selon la vue
+                const templateId = this.currentView === 'grid' ? 'modCardTemplate' : 'modRowTemplate';
+                const template = document.getElementById(templateId);
+                
+                if (this.currentView === 'grid') {
+                    container.innerHTML = pageMods.map(mod => this.createModCard(mod)).join('');
+                } else {
+                    // Pour la vue liste, créer un tableau
+                    const tableHTML = `
+                        <table class="mods-table">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" id="selectAll"></th>
+                                    <th></th>
+                                    <th>Nom</th>
+                                    <th>Version</th>
+                                    <th>Catégories</th>
+                                    <th>Statistiques</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                ${pageMods.map(mod => this.createModRow(mod)).join('')}
+                            </tbody>
+                        </table>
+                    `;
+                    container.innerHTML = tableHTML;
+                }
+                
+                // Mettre à jour le compteur
+                document.getElementById('visibleModsCount').textContent = this.filteredMods.length;
+                document.getElementById('resultsCount').textContent = 
+                    `Affichage de ${startIndex + 1}-${Math.min(endIndex, this.filteredMods.length)} sur ${this.filteredMods.length} mods`;
+            }
+            
+            createModCard(mod) {
+                const categories = mod.categories || [];
+                const icon = this.getCategoryIcon(categories[0]);
+                const isRequired = mod.required !== false;
+                
+                return `
+                    <article class="mod-card" 
+                             data-categories="${categories.join(',')}" 
+                             data-items="${mod.item_count || 0}"
+                             data-required="${isRequired}">
+                        <div class="mod-card-inner">
+                            <div class="mod-card-header">
+                                <div class="mod-icon-container">
+                                    <div class="mod-icon">${icon}</div>
+                                    ${isRequired ? '<div class="mod-required-badge" title="Mod requis">✓</div>' : ''}
+                                </div>
+                                
+                                <div class="mod-meta">
+                                    <span class="mod-version">${mod.version}</span>
+                                    <span class="mod-items-count">${mod.item_count || 0} items</span>
+                                    <span class="mod-size">${this.formatFileSize(mod.size_kb || 0)}</span>
+                                </div>
+                            </div>
+                            
+                            <div class="mod-card-body">
+                                <h3 class="mod-name">${mod.name}</h3>
+                                <p class="mod-description">${this.truncateText(mod.description || 'Pas de description', 120)}</p>
+                                
+                                <div class="mod-categories">
+                                    ${categories.map(cat => `
+                                        <span class="mod-category ${cat}">${this.formatCategoryName(cat)}</span>
+                                    `).join('')}
+                                </div>
+                                
+                                <div class="mod-stats">
+                                    <div class="mod-stat">
+                                        <span class="stat-icon">📦</span>
+                                        <span class="stat-value">${mod.item_count || 0}</span>
+                                        <span class="stat-label">Items</span>
+                                    </div>
+                                    <div class="mod-stat">
+                                        <span class="stat-icon">🧱</span>
+                                        <span class="stat-value">${mod.block_count || 0}</span>
+                                        <span class="stat-label">Blocs</span>
+                                    </div>
+                                    <div class="mod-stat">
+                                        <span class="stat-icon">⚗️</span>
+                                        <span class="stat-value">${mod.recipe_count || 0}</span>
+                                        <span class="stat-label">Recettes</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="mod-card-footer">
+                                <a href="mod.html?id=${mod.id}" class="mod-link">
+                                    <span class="link-text">Voir détails</span>
+                                    <span class="link-arrow">→</span>
+                                </a>
+                                <div class="mod-actions">
+                                    <button class="action-btn" title="Ajouter aux favoris" onclick="toggleFavorite('${mod.id}')">
+                                        <span class="action-icon">⭐</span>
+                                    </button>
+                                    <button class="action-btn" title="Copier l'ID" onclick="copyModId('${mod.id}')">
+                                        <span class="action-icon">📋</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                `;
+            }
+            
+            createModRow(mod) {
+                const categories = mod.categories || [];
+                const icon = this.getCategoryIcon(categories[0]);
+                
+                return `
+                    <tr class="mod-row" data-categories="${categories.join(',')}" data-items="${mod.item_count || 0}">
+                        <td class="mod-select">
+                            <input type="checkbox" class="mod-checkbox" value="${mod.id}">
+                        </td>
+                        <td class="mod-icon-cell">
+                            <div class="mod-icon-small">${icon}</div>
+                        </td>
+                        <td class="mod-name-cell">
+                            <a href="mod.html?id=${mod.id}" class="mod-name-link">${mod.name}</a>
+                            <div class="mod-id">${mod.id}</div>
+                        </td>
+                        <td class="mod-version-cell">
+                            <span class="mod-version">${mod.version}</span>
+                        </td>
+                        <td class="mod-categories-cell">
+                            <div class="mod-categories-list">
+                                ${categories.map(cat => `
+                                    <span class="mod-category-tag ${cat}">${this.formatCategoryName(cat)}</span>
+                                `).join('')}
+                            </div>
+                        </td>
+                        <td class="mod-stats-cell">
+                            <div class="mod-stats-compact">
+                                <span title="Items">📦 ${mod.item_count || 0}</span>
+                                <span title="Blocs">🧱 ${mod.block_count || 0}</span>
+                                <span title="Recettes">⚗️ ${mod.recipe_count || 0}</span>
+                            </div>
+                        </td>
+                        <td class="mod-actions-cell">
+                            <button class="row-action-btn" title="Voir détails" onclick="window.location.href='mod.html?id=${mod.id}'">
+                                <span class="action-icon">👁️</span>
+                            </button>
+                        </td>
+                    </tr>
+                `;
+            }
+            
+            renderPagination() {
+                const totalPages = Math.ceil(this.filteredMods.length / this.itemsPerPage);
+                const container = document.getElementById('paginationNumbers');
+                
+                if (!container) return;
+                
+                let paginationHTML = '';
+                const maxVisible = 5;
+                let startPage = Math.max(1, this.currentPage - Math.floor(maxVisible / 2));
+                let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+                
+                // Ajuster si on est proche de la fin
+                if (endPage - startPage + 1 < maxVisible) {
+                    startPage = Math.max(1, endPage - maxVisible + 1);
+                }
+                
+                // Bouton première page
+                if (startPage > 1) {
+                    paginationHTML += `<button class="pagination-number" onclick="modsPage.goToPage(1)">1</button>`;
+                    if (startPage > 2) {
+                        paginationHTML += `<span class="pagination-ellipsis">...</span>`;
+                    }
+                }
+                
+                // Pages numérotées
+                for (let i = startPage; i <= endPage; i++) {
+                    paginationHTML += `
+                        <button class="pagination-number ${i === this.currentPage ? 'active' : ''}" 
+                                onclick="modsPage.goToPage(${i})">
+                            ${i}
+                        </button>
+                    `;
+                }
+                
+                // Bouton dernière page
+                if (endPage < totalPages) {
+                    if (endPage < totalPages - 1) {
+                        paginationHTML += `<span class="pagination-ellipsis">...</span>`;
+                    }
+                    paginationHTML += `<button class="pagination-number" onclick="modsPage.goToPage(${totalPages})">${totalPages}</button>`;
+                }
+                
+                container.innerHTML = paginationHTML;
+                
+                // Mettre à jour les infos de page
+                document.getElementById('currentPage').textContent = this.currentPage;
+                document.getElementById('totalPages').textContent = totalPages;
+                
+                // Activer/désactiver les boutons
+                document.querySelector('.pagination-first').disabled = this.currentPage === 1;
+                document.querySelector('.pagination-prev').disabled = this.currentPage === 1;
+                document.querySelector('.pagination-next').disabled = this.currentPage === totalPages;
+                document.querySelector('.pagination-last').disabled = this.currentPage === totalPages;
+            }
+            
+            updateStats() {
+                // Compter par catégorie
+                const counts = {
+                    technology: 0,
+                    magic: 0,
+                    exploration: 0,
+                    decoration: 0,
+                    storage: 0,
+                    utility: 0,
+                    library: 0,
+                    required: 0,
+                    optional: 0,
+                    client: 0
+                };
+                
+                this.mods.forEach(mod => {
+                    // Catégories
+                    if (mod.categories) {
+                        mod.categories.forEach(cat => {
+                            if (counts.hasOwnProperty(cat)) {
+                                counts[cat]++;
+                            }
+                        });
+                    }
+                    
+                    // Statut
+                    if (mod.client_only) {
+                        counts.client++;
+                    } else if (mod.required === false) {
+                        counts.optional++;
+                    } else {
+                        counts.required++;
+                    }
+                });
+                
+                // Mettre à jour l'interface
+                document.getElementById('techModsCount').textContent = counts.technology;
+                document.getElementById('magicModsCount').textContent = counts.magic;
+                document.getElementById('explorationModsCount').textContent = counts.exploration;
+                document.getElementById('decorationModsCount').textContent = counts.decoration;
+                document.getElementById('requiredModsCount').textContent = counts.required;
+                document.getElementById('optionalModsCount').textContent = counts.optional;
+                document.getElementById('clientCount').textContent = counts.client;
+                
+                // Mettre à jour les compteurs dans les filtres
+                document.getElementById('requiredCount').textContent = counts.required;
+                document.getElementById('optionalCount').textContent = counts.optional;
+            }
+            
+            setupEventListeners() {
+                // Recherche en temps réel
+                const searchInput = document.getElementById('modsSearchInput');
+                if (searchInput) {
+                    searchInput.addEventListener('input', (e) => {
+                        this.filters.searchQuery = e.target.value.toLowerCase();
+                        this.applyFilters();
+                    });
+                }
+                
+                // Filtres catégories
+                document.querySelectorAll('input[name="category"]').forEach(checkbox => {
+                    checkbox.addEventListener('change', () => {
+                        this.updateCategoryFilters();
+                    });
+                });
+                
+                // Filtres statut
+                document.querySelectorAll('input[name="status"]').forEach(checkbox => {
+                    checkbox.addEventListener('change', () => {
+                        this.updateStatusFilters();
+                    });
+                });
+                
+                // Range items
+                const itemRange = document.getElementById('itemRange');
+                if (itemRange) {
+                    itemRange.addEventListener('input', (e) => {
+                        this.filters.minItems = parseInt(e.target.value);
+                        document.getElementById('minItems').textContent = e.target.value;
+                        this.applyFilters();
+                    });
+                }
+                
+                // Tri
+                const sortSelect = document.getElementById('sortSelect');
+                if (sortSelect) {
+                    sortSelect.addEventListener('change', (e) => {
+                        this.filters.sortBy = e.target.value;
+                        this.applyFilters();
+                    });
+                }
+                
+                // Vue (grille/liste)
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const view = e.target.closest('.view-btn').dataset.view;
+                        this.setView(view);
+                    });
+                });
+                
+                // Items par page
+                const itemsPerPage = document.getElementById('itemsPerPage');
+                if (itemsPerPage) {
+                    itemsPerPage.addEventListener('change', (e) => {
+                        this.itemsPerPage = e.target.value === 'all' ? 10000 : parseInt(e.target.value);
+                        this.currentPage = 1;
+                        this.renderMods();
+                        this.renderPagination();
+                    });
+                }
+            }
+            
+            updateCategoryFilters() {
+                const checked = Array.from(document.querySelectorAll('input[name="category"]:checked'))
+                    .map(cb => cb.value);
+                this.filters.categories = checked;
+            }
+            
+            updateStatusFilters() {
+                const checked = Array.from(document.querySelectorAll('input[name="status"]:checked'))
+                    .map(cb => cb.value);
+                this.filters.status = checked;
+            }
+            
+            applyFilters() {
+                this.filteredMods = this.mods.filter(mod => {
+                    // Filtre recherche
+                    if (this.filters.searchQuery) {
+                        const query = this.filters.searchQuery;
+                        const matchesSearch = 
+                            mod.name.toLowerCase().includes(query) ||
+                            mod.id.toLowerCase().includes(query) ||
+                            (mod.description && mod.description.toLowerCase().includes(query)) ||
+                            (mod.categories && mod.categories.some(cat => cat.includes(query)));
+                        if (!matchesSearch) return false;
+                    }
+                    
+                    // Filtre catégories
+                    if (this.filters.categories.length > 0) {
+                        const hasCategory = mod.categories && 
+                            mod.categories.some(cat => this.filters.categories.includes(cat));
+                        if (!hasCategory) return false;
+                    }
+                    
+                    // Filtre statut
+                    if (this.filters.status.length > 0) {
+                        let statusMatch = false;
+                        
+                        if (mod.client_only && this.filters.status.includes('client')) {
+                            statusMatch = true;
+                        } else if (mod.required === false && this.filters.status.includes('optional')) {
+                            statusMatch = true;
+                        } else if (mod.required !== false && this.filters.status.includes('required')) {
+                            statusMatch = true;
+                        }
+                        
+                        if (!statusMatch) return false;
+                    }
+                    
+                    // Filtre items minimum
+                    if (mod.item_count < this.filters.minItems) return false;
+                    
+                    return true;
+                });
+                
+                // Appliquer le tri
+                this.sortMods();
+                
+                // Réinitialiser à la page 1
+                this.currentPage = 1;
+                
+                // Re-rendre
+                this.renderMods();
+                this.renderPagination();
+            }
+            
+            sortMods() {
+                this.filteredMods.sort((a, b) => {
+                    switch (this.filters.sortBy) {
+                        case 'name':
+                            return a.name.localeCompare(b.name);
+                        case 'name-desc':
+                            return b.name.localeCompare(a.name);
+                        case 'items':
+                            return (b.item_count || 0) - (a.item_count || 0);
+                        case 'version':
+                            // Trier par version numérique (simplifié)
+                            return b.version.localeCompare(a.version);
+                        case 'popular':
+                            // Pour l'instant, trier par nombre d'items
+                            return (b.item_count || 0) - (a.item_count || 0);
+                        default:
+                            return a.name.localeCompare(b.name);
+                    }
+                });
+            }
+            
+            setView(view) {
+                this.currentView = view;
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.view === view);
+                });
+                this.renderMods();
+            }
+            
+            goToPage(page) {
+                if (page < 1 || page > Math.ceil(this.filteredMods.length / this.itemsPerPage)) return;
+                this.currentPage = page;
+                this.renderMods();
+                this.renderPagination();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+            
+            nextPage() {
+                this.goToPage(this.currentPage + 1);
+            }
+            
+            prevPage() {
+                this.goToPage(this.currentPage - 1);
+            }
+            
+            // Utilitaires
+            formatCategoryName(cat) {
+                const names = {
+                    'technology': 'Technologie',
+                    'magic': 'Magie',
+                    'exploration': 'Exploration',
+                    'decoration': 'Décoration',
+                    'storage': 'Stockage',
+                    'utility': 'Utility',
+                    'library': 'Library',
+                    'performance': 'Performance',
+                    'worldgen': 'Génération monde',
+                    'food': 'Nourriture',
+                    'mobs': 'Créatures',
+                    'quests': 'Quêtes'
+                };
+                return names[cat] || cat.charAt(0).toUpperCase() + cat.slice(1);
+            }
+            
+            getCategoryIcon(category) {
+                const icons = {
+                    'technology': '⚙️',
+                    'magic': '🔮',
+                    'exploration': '🧭',
+                    'decoration': '🎨',
+                    'storage': '📦',
+                    'utility': '🔧',
+                    'library': '📚',
+                    'performance': '🚀',
+                    'worldgen': '🌍',
+                    'food': '🍎',
+                    'mobs': '🐮',
+                    'quests': '📜'
+                };
+                return icons[category] || '📦';
+            }
+            
+            truncateText(text, maxLength) {
+                if (!text) return 'Pas de description';
+                if (text.length <= maxLength) return text;
+                return text.substring(0, maxLength) + '...';
+            }
+            
+            formatFileSize(kb) {
+                if (kb < 1024) return `${kb}KB`;
+                return `${(kb / 1024).toFixed(1)}MB`;
+            }
+        }
+        
+        // Initialiser la page
+        let modsPage;
+        document.addEventListener('DOMContentLoaded', () => {
+            modsPage = new ModsPage();
+            
+            // Mettre à jour la date
+            if (window.SandcraftData && window.SandcraftData.data) {
+                const date = new Date(window.SandcraftData.data.mods.generated_at);
+                document.getElementById('modsLastUpdate').textContent = 
+                    date.toLocaleDateString('fr-FR');
+            }
+            
+            // Exposer les fonctions globales
+            window.modsPage = modsPage;
+            window.searchMods = () => modsPage.applyFilters();
+            window.applyFilters = () => modsPage.applyFilters();
+            window.resetFilters = () => {
+                // Réinitialiser tous les filtres
+                document.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = true);
+                document.getElementById('modsSearchInput').value = '';
+                document.getElementById('itemRange').value = 0;
+                document.getElementById('minItems').textContent = '0';
+                modsPage.filters = {
+                    categories: [],
+                    status: ['required', 'optional'],
+                    minItems: 0,
+                    searchQuery: '',
+                    sortBy: 'name'
+                };
+                modsPage.applyFilters();
+            };
+            window.goToPage = (page) => modsPage.goToPage(page);
+            window.nextPage = () => modsPage.nextPage();
+            window.prevPage = () => modsPage.prevPage();
+        });
+        
+        // Fonctions utilitaires globales
+        function toggleFavorite(modId) {
+            const favorites = JSON.parse(localStorage.getItem('favoriteMods') || '[]');
+            const index = favorites.indexOf(modId);
+            
+            if (index === -1) {
+                favorites.push(modId);
+                event.target.closest('.action-btn').classList.add('favorite');
+            } else {
+                favorites.splice(index, 1);
+                event.target.closest('.action-btn').classList.remove('favorite');
+            }
+            
+            localStorage.setItem('favoriteMods', JSON.stringify(favorites));
+        }
+        
+        function copyModId(modId) {
+            navigator.clipboard.writeText(modId);
+            const btn = event.target.closest('.action-btn');
+            const original = btn.innerHTML;
+            btn.innerHTML = '<span class="action-icon">✅</span>';
+            setTimeout(() => {
+                btn.innerHTML = original;
+            }, 2000);
+        }
+        
+        function exportModsList() {
+            const mods = modsPage.filteredMods.map(mod => ({
+                id: mod.id,
+                name: mod.name,
+                version: mod.version,
+                categories: mod.categories,
+                item_count: mod.item_count,
+                required: mod.required !== false
+            }));
+            
+            const dataStr = JSON.stringify(mods, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(dataStr);
+            
+            const exportFileDefaultName = `sandcraft-mods-${new Date().toISOString().split('T')[0]}.json`;
+            
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', exportFileDefaultName);
+            linkElement.click();
+        }
+    </script>
+</body>
+</html>
