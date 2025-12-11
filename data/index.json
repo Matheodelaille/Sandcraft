@@ -1,0 +1,24 @@
+{
+  "wiki_info": {
+    "name": "Sandcraft Wiki",
+    "version": "1.0.0",
+    "minecraft_version": "1.19.2",
+    "modpack_version": "2.0.0",
+    "last_updated": "2024-01-16",
+    "total_mods": 259,
+    "total_items": 15427
+  },
+  
+  "data_files": {
+    "mods_index": "data/mods-index.json",
+    "items_index": "data/items-index.json",
+    "categories": "data/categories.json",
+    "search_index": "data/search-index.json"
+  },
+  
+  "available_mods": [
+    "create", "mekanism", "ars_nouveau", "twilightforest",
+    "appliedenergistics2", "thermal", "tconstruct", "botania"
+    // ... 251 autres
+  ]
+}
