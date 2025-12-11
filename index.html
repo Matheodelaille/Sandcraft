@@ -3,1015 +3,705 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SandCraft Wiki - Le Wiki officiel</title>
+    <title>Sandcraft Wiki - Modpack Minecraft 1.19.2</title>
+    
+    <!-- Meta pour SEO -->
+    <meta name="description" content="Wiki complet du modpack Sandcraft pour Minecraft 1.19.2. Guides, mods, items, recettes et mécaniques détaillées.">
+    <meta name="keywords" content="minecraft, sandcraft, modpack, wiki, 1.19.2, create, mekanism, ars nouveau">
+    <meta name="author" content="Sandcraft Team">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Sandcraft Wiki - Modpack Minecraft">
+    <meta property="og:description" content="Documentation complète du modpack Sandcraft avec 259 mods et 15,000+ items">
+    <meta property="og:image" content="assets/images/og-image.png">
+    <meta property="og:url" content="https://sandcraft-wiki.com">
     
     <!-- Styles -->
-    <link rel="stylesheet" href="./assets/css/styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/home.css">
     
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="https://img.icons8.com/color/96/000000/minecraft-logo.png">
+    <!-- Icônes -->
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/images/icon-192.png">
     
-    <!-- Metadata -->
-    <meta name="description" content="Le Wiki officiel de SandCraft - Tous les mods, guides et ressources pour votre serveur moddé">
-    <meta name="keywords" content="minecraft, mods, sandcraft, wiki, create, automation, magic">
-    <meta name="author" content="Matheodelaille">
+    <!-- Polices Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
     
-    <style>
-        /* Styles d'initialisation */
-        .loading {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            color: #00dbde;
-            font-size: 1.5rem;
-        }
-        
-        .loading-spinner {
-            border: 4px solid rgba(0, 219, 222, 0.3);
-            border-top: 4px solid #00dbde;
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
-            animation: spin 1s linear infinite;
-            margin-right: 15px;
-        }
-        
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-    </style>
+    <!-- Manifest PWA -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1a365d">
+    
+    <!-- Script de préchargement -->
+    <link rel="preload" href="assets/js/data-loader.js" as="script">
+    <link rel="preload" href="data/mods-index.json" as="fetch" crossorigin>
 </head>
 <body>
-    <!-- Écran de chargement -->
-    <div id="loadingScreen" class="loading">
-        <div class="loading-spinner"></div>
-        <span>Chargement du Wiki SandCraft...</span>
-    </div>
-    
-    <!-- Contenu principal (caché pendant le chargement) -->
-    <div id="mainContent" style="display: none;">
-        <!-- Container principal -->
-        <div class="container">
-            
-            <!-- Header -->
-            <header class="site-header">
-                <div class="header-content">
-                    <h1 class="site-title">
-                        <i class="fas fa-cube"></i> SandCraft Wiki
-                    </h1>
-                    <p class="site-subtitle">
-                        Le Wiki officiel de mon serveur moddé SandCraft pour tous les mods du modpack !
-                    </p>
-                    
-                    <!-- Navigation -->
-                    <nav class="main-nav">
-                        <a href="./" class="nav-link active">
-                            <i class="fas fa-home"></i> Accueil
-                        </a>
-                        <a href="./modlist.html" class="nav-link">
-                            <i class="fas fa-list"></i> Tous les Mods
-                        </a>
-                        <a href="./create.html" class="nav-link">
-                            <i class="fas fa-plus-circle"></i> Ajouter un Mod
-                        </a>
-                        <a href="./guides.html" class="nav-link">
-                            <i class="fas fa-book"></i> Guides
-                        </a>
-                        <a href="https://github.com/Matheodelaille/Sandcraft" class="nav-link" target="_blank">
-                            <i class="fab fa-github"></i> GitHub
-                        </a>
-                    </nav>
+    <!-- Barre de navigation -->
+    <nav class="navbar" role="navigation" aria-label="Navigation principale">
+        <div class="nav-container">
+            <!-- Logo -->
+            <a href="index.html" class="logo" aria-label="Retour à l'accueil">
+                <div class="logo-icon">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="#4299E1" stroke="#2D3748" stroke-width="2"/>
+                        <path d="M16 8L24 16L16 24L8 16L16 8Z" fill="#ED8936" stroke="#2D3748" stroke-width="1.5"/>
+                        <circle cx="16" cy="16" r="4" fill="#F6E05E"/>
+                    </svg>
                 </div>
-                
-                <!-- Statistiques rapides -->
-                <div class="header-stats">
-                    <div class="stat-item">
-                        <i class="fas fa-box"></i>
-                        <span class="stat-label">Mods</span>
-                        <span class="stat-value" id="totalModsCount">0</span>
-                    </div>
-                    <div class="stat-item">
-                        <i class="fas fa-layer-group"></i>
-                        <span class="stat-label">Catégories</span>
-                        <span class="stat-value" id="categoriesCount">0</span>
-                    </div>
-                    <div class="stat-item">
-                        <i class="fas fa-tags"></i>
-                        <span class="stat-label">Tags</span>
-                        <span class="stat-value" id="tagsCount">0</span>
-                    </div>
-                    <div class="stat-item">
-                        <i class="fas fa-calendar-alt"></i>
-                        <span class="stat-label">Mise à jour</span>
-                        <span class="stat-value" id="lastUpdate">Aujourd'hui</span>
-                    </div>
+                <div class="logo-text">
+                    <span class="logo-title">Sandcraft</span>
+                    <span class="logo-subtitle">Wiki</span>
                 </div>
-            </header>
+            </a>
             
-            <!-- Grille principale -->
-            <div class="main-grid">
-                
-                <!-- Sidebar -->
-                <aside class="sidebar">
-                    <!-- Recherche -->
-                    <div class="sidebar-section">
-                        <h3 class="section-title">
-                            <i class="fas fa-search"></i> Recherche
-                        </h3>
-                        <div class="search-box">
-                            <input type="text" 
-                                   class="search-input" 
-                                   id="mainSearchInput"
-                                   placeholder="Rechercher un mod...">
-                            <button class="btn btn-primary" id="mainSearchButton">
-                                <i class="fas fa-search"></i>
-                            </button>
-                        </div>
-                    </div>
-                    
-                    <!-- Filtres -->
-                    <div class="sidebar-section">
-                        <h3 class="section-title">
-                            <i class="fas fa-filter"></i> Filtres
-                        </h3>
-                        
-                        <div class="filter-group">
-                            <label for="categoryFilter">
-                                <i class="fas fa-folder"></i> Catégorie
-                            </label>
-                            <select class="filter-select" id="categoryFilter">
-                                <option value="">Toutes les catégories</option>
-                                <!-- Rempli dynamiquement -->
-                            </select>
-                        </div>
-                        
-                        <div class="filter-group">
-                            <label for="tagFilter">
-                                <i class="fas fa-tag"></i> Tag
-                            </label>
-                            <select class="filter-select" id="tagFilter">
-                                <option value="">Tous les tags</option>
-                                <!-- Rempli dynamiquement -->
-                            </select>
-                        </div>
-                        
-                        <div class="filter-group">
-                            <label for="sortFilter">
-                                <i class="fas fa-sort"></i> Trier par
-                            </label>
-                            <select class="filter-select" id="sortFilter">
-                                <option value="name">Nom (A-Z)</option>
-                                <option value="name_desc">Nom (Z-A)</option>
-                                <option value="date">Date (récent)</option>
-                                <option value="date_old">Date (ancien)</option>
-                                <option value="popularity">Popularité</option>
-                            </select>
-                        </div>
-                        
-                        <button class="btn btn-secondary btn-block" id="resetFiltersBtn">
-                            <i class="fas fa-redo"></i> Réinitialiser les filtres
-                        </button>
-                    </div>
-                    
-                    <!-- Actions rapides -->
-                    <div class="sidebar-section">
-                        <h3 class="section-title">
-                            <i class="fas fa-bolt"></i> Actions Rapides
-                        </h3>
-                        
-                        <button class="btn btn-primary btn-block" id="showAllModsBtn">
-                            <i class="fas fa-list"></i> Voir tous les mods
-                        </button>
-                        
-                        <button class="btn btn-success btn-block" id="createModBtn">
-                            <i class="fas fa-plus"></i> Ajouter un mod
-                        </button>
-                        
-                        <button class="btn btn-info btn-block" id="refreshDataBtn">
-                            <i class="fas fa-sync-alt"></i> Actualiser les données
-                        </button>
-                    </div>
-                    
-                    <!-- Aide -->
-                    <div class="sidebar-section">
-                        <h3 class="section-title">
-                            <i class="fas fa-question-circle"></i> Aide
-                        </h3>
-                        <p class="help-text">
-                            Cliquez sur une catégorie pour voir tous ses mods, ou utilisez la recherche pour trouver un mod spécifique.
-                        </p>
-                        <div class="help-links">
-                            <a href="./guides.html" class="help-link">
-                                <i class="fas fa-book"></i> Guide d'utilisation
-                            </a>
-                            <a href="https://github.com/Matheodelaille/Sandcraft/issues" 
-                               class="help-link" target="_blank">
-                                <i class="fas fa-bug"></i> Signaler un bug
-                            </a>
-                        </div>
-                    </div>
-                </aside>
-                                <!-- Contenu principal -->
-                <main class="main-content">
-                    <!-- En-tête du contenu -->
-                    <div class="content-header">
-                        <h1>
-                            <i class="fas fa-th-large"></i> 
-                            <span id="currentViewTitle">Catégories de Mods</span>
-                        </h1>
-                        
-                        <div class="content-controls">
-                            <div class="view-toggle">
-                                <button class="view-toggle-btn active" data-view="categories">
-                                    <i class="fas fa-th-large"></i> Catégories
-                                </button>
-                                <button class="view-toggle-btn" data-view="grid">
-                                    <i class="fas fa-th"></i> Grille
-                                </button>
-                                <button class="view-toggle-btn" data-view="list">
-                                    <i class="fas fa-list"></i> Liste
-                                </button>
-                            </div>
-                            
-                            <div class="results-info">
-                                <span id="resultsCount">0</span> mods trouvés
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Message d'erreur/chargement -->
-                    <div id="messageContainer" class="message-container hidden">
-                        <div class="message-content">
-                            <i class="fas fa-info-circle"></i>
-                            <span id="messageText"></span>
-                        </div>
-                    </div>
-                    
-                    <!-- Vue Catégories (par défaut) -->
-                    <div id="categoriesView" class="content-view active">
-                        <div class="categories-intro">
-                            <p>
-                                Explorez les différentes catégories de mods disponibles sur le serveur SandCraft. 
-                                Chaque catégorie regroupe des mods similaires par thématique.
-                            </p>
-                        </div>
-                        
-                        <!-- Grille des catégories -->
-                        <div class="category-grid" id="categoryGrid">
-                            <!-- Rempli dynamiquement par JavaScript -->
-                            <div class="category-card loading-card">
-                                <div class="category-header">
-                                    <div class="category-icon">
-                                        <div class="loading-shimmer"></div>
-                                    </div>
-                                    <h2 class="category-title">
-                                        <div class="loading-shimmer" style="width: 150px;"></div>
-                                    </h2>
-                                </div>
-                                <p class="category-description">
-                                    <div class="loading-shimmer"></div>
-                                    <div class="loading-shimmer" style="width: 80%;"></div>
-                                </p>
-                                <div class="mod-count">
-                                    <div class="loading-shimmer" style="width: 100px;"></div>
-                                </div>
-                            </div>
-                            
-                            <!-- Répété pour l'effet de chargement -->
-                            <div class="category-card loading-card">
-                                <div class="category-header">
-                                    <div class="category-icon">
-                                        <div class="loading-shimmer"></div>
-                                    </div>
-                                    <h2 class="category-title">
-                                        <div class="loading-shimmer" style="width: 150px;"></div>
-                                    </h2>
-                                </div>
-                                <p class="category-description">
-                                    <div class="loading-shimmer"></div>
-                                    <div class="loading-shimmer" style="width: 80%;"></div>
-                                </p>
-                                <div class="mod-count">
-                                    <div class="loading-shimmer" style="width: 100px;"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Vue Grille (mods) -->
-                    <div id="gridView" class="content-view">
-                        <div class="mods-grid" id="modsGrid">
-                            <!-- Rempli dynamiquement quand on filtre/change de vue -->
-                        </div>
-                    </div>
-                    
-                    <!-- Vue Liste (mods) -->
-                    <div id="listView" class="content-view">
-                        <div class="mods-list-container">
-                            <table class="mods-table" id="modsTable">
-                                <thead>
-                                    <tr>
-                                        <th>Nom</th>
-                                        <th>Catégorie</th>
-                                        <th>Description</th>
-                                        <th>Tags</th>
-                                        <th>Actions</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <!-- Rempli dynamiquement -->
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                    
-                    <!-- Pagination (si beaucoup de résultats) -->
-                    <div class="pagination-container hidden" id="paginationContainer">
-                        <div class="pagination">
-                            <button class="pagination-btn" id="prevPageBtn" disabled>
-                                <i class="fas fa-chevron-left"></i> Précédent
-                            </button>
-                            
-                            <div class="page-numbers" id="pageNumbers">
-                                <span class="page-number active">1</span>
-                            </div>
-                            
-                            <button class="pagination-btn" id="nextPageBtn">
-                                Suivant <i class="fas fa-chevron-right"></i>
-                            </button>
-                        </div>
-                        
-                        <div class="page-info">
-                            Page <span id="currentPage">1</span> sur <span id="totalPages">1</span>
-                        </div>
-                    </div>
-                    
-                    <!-- Section "Derniers ajouts" -->
-                    <div class="recent-mods-section">
-                        <h3>
-                            <i class="fas fa-history"></i> Derniers mods ajoutés
-                        </h3>
-                        <div class="recent-mods-grid" id="recentModsGrid">
-                            <!-- Rempli dynamiquement -->
-                        </div>
-                    </div>
-                </main>
-            </div> <!-- Fin de .main-grid -->
+            <!-- Menu desktop -->
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link active" aria-current="page">
+                    <span class="nav-icon">🏠</span>
+                    <span class="nav-text">Accueil</span>
+                </a>
+                <a href="mods.html" class="nav-link">
+                    <span class="nav-icon">⚙️</span>
+                    <span class="nav-text">Mods</span>
+                    <span class="nav-badge" id="modsCount">259</span>
+                </a>
+                <a href="items.html" class="nav-link">
+                    <span class="nav-icon">📦</span>
+                    <span class="nav-text">Items</span>
+                    <span class="nav-badge" id="itemsCount">15k+</span>
+                </a>
+                <a href="guides.html" class="nav-link">
+                    <span class="nav-icon">📚</span>
+                    <span class="nav-text">Guides</span>
+                </a>
+                <a href="mechanics.html" class="nav-link">
+                    <span class="nav-icon">🔧</span>
+                    <span class="nav-text">Mécaniques</span>
+                </a>
+                <a href="search.html" class="nav-link search-link">
+                    <span class="nav-icon">🔍</span>
+                    <span class="nav-text">Recherche</span>
+                </a>
+            </div>
             
-            <!-- Modal de détail du mod -->
-            <div id="modDetailModal" class="modal">
-                <div class="modal-content" id="modDetailContent">
-                    <!-- Rempli dynamiquement -->
+            <!-- Boutons utilitaires -->
+            <div class="nav-utils">
+                <button class="theme-toggle" aria-label="Changer le thème" title="Mode sombre/clair">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
+                    <span class="menu-icon">☰</span>
+                </button>
+            </div>
+            
+            <!-- Menu mobile (caché par défaut) -->
+            <div class="mobile-menu" id="mobileMenu">
+                <a href="index.html" class="mobile-nav-link active">Accueil</a>
+                <a href="mods.html" class="mobile-nav-link">Mods</a>
+                <a href="items.html" class="mobile-nav-link">Items</a>
+                <a href="guides.html" class="mobile-nav-link">Guides</a>
+                <a href="mechanics.html" class="mobile-nav-link">Mécaniques</a>
+                <a href="search.html" class="mobile-nav-link">Recherche</a>
+                <div class="mobile-search">
+                    <input type="text" placeholder="Rechercher..." id="mobileSearchInput">
+                    <button onclick="searchMobile()">🔍</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Bannière Hero -->
+    <header class="hero" role="banner">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="hero-badge">Minecraft 1.19.2</div>
+            <h1 class="hero-title">
+                <span class="gradient-text">Sandcraft Wiki</span>
+            </h1>
+            <p class="hero-subtitle">
+                La documentation complète du modpack Sandcraft<br>
+                <span class="highlight">259 mods • 15,427 items • 42,156 recettes</span>
+            </p>
+            
+            <!-- Statistiques en temps réel -->
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="liveModsCount">259</div>
+                    <div class="stat-label">Mods</div>
+                    <div class="stat-icon">📚</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="liveItemsCount">15,427</div>
+                    <div class="stat-label">Items</div>
+                    <div class="stat-icon">📦</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="liveRecipesCount">42,156</div>
+                    <div class="stat-label">Recettes</div>
+                    <div class="stat-icon">⚗️</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="livePlayersCount">24</div>
+                    <div class="stat-label">Joueurs</div>
+                    <div class="stat-icon">👥</div>
                 </div>
             </div>
             
-            <!-- Modal de création de mod -->
-            <div id="createModal" class="modal">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h2>
-                            <i class="fas fa-plus-circle"></i> Ajouter un nouveau mod
+            <!-- Barre de recherche hero -->
+            <div class="hero-search">
+                <div class="search-container">
+                    <input 
+                        type="text" 
+                        id="heroSearchInput" 
+                        placeholder="Rechercher un mod, un item, une recette..." 
+                        aria-label="Recherche dans le wiki"
+                        autocomplete="off"
+                    >
+                    <button class="search-btn" onclick="performHeroSearch()" aria-label="Lancer la recherche">
+                        <span class="search-btn-icon">🔍</span>
+                        <span class="search-btn-text">Rechercher</span>
+                    </button>
+                </div>
+                <div class="search-suggestions" id="searchSuggestions">
+                    <!-- Suggestions dynamiques -->
+                </div>
+                <div class="search-tags">
+                    <span class="tag">Essayez:</span>
+                    <a href="search.html?q=create" class="tag">create</a>
+                    <a href="search.html?q=diamant" class="tag">diamant</a>
+                    <a href="search.html?q=automation" class="tag">automation</a>
+                    <a href="search.html?q=magie" class="tag">magie</a>
+                </div>
+            </div>
+            
+            <!-- CTA -->
+            <div class="hero-cta">
+                <a href="mods.html" class="btn btn-primary">
+                    <span>Explorer les Mods</span>
+                    <span class="btn-icon">→</span>
+                </a>
+                <a href="#features" class="btn btn-secondary">
+                    <span>Découvrir le Wiki</span>
+                    <span class="btn-icon">↓</span>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Wave separator -->
+        <div class="wave-separator">
+            <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" fill="currentColor"></path>
+                <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" fill="currentColor"></path>
+                <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" fill="currentColor"></path>
+            </svg>
+        </div>
+    </header>
+        <!-- Contenu principal -->
+    <main id="main-content" role="main">
+        <!-- Section Features -->
+        <section id="features" class="features-section" aria-labelledby="features-title">
+            <div class="container">
+                <div class="section-header">
+                    <h2 id="features-title" class="section-title">Explorez le Wiki</h2>
+                    <p class="section-subtitle">Toutes les ressources pour maîtriser Sandcraft</p>
+                </div>
+                
+                <div class="features-grid">
+                    <!-- Feature 1: Mods -->
+                    <article class="feature-card">
+                        <div class="feature-icon-wrapper">
+                            <div class="feature-icon" aria-hidden="true">⚙️</div>
+                        </div>
+                        <h3 class="feature-title">Mods</h3>
+                        <p class="feature-description">
+                            Documentation complète des 259 mods du pack, classés par catégorie avec descriptions détaillées, dépendances et fonctionnalités.
+                        </p>
+                        <div class="feature-meta">
+                            <span class="meta-item">259 mods</span>
+                            <span class="meta-item">12 catégories</span>
+                            <span class="meta-item">Dépendances</span>
+                        </div>
+                        <a href="mods.html" class="feature-link" aria-label="Explorer les mods">
+                            <span>Voir tous les mods</span>
+                            <span class="link-arrow">→</span>
+                        </a>
+                    </article>
+                    
+                    <!-- Feature 2: Items -->
+                    <article class="feature-card">
+                        <div class="feature-icon-wrapper">
+                            <div class="feature-icon" aria-hidden="true">📦</div>
+                        </div>
+                        <h3 class="feature-title">Items & Blocs</h3>
+                        <p class="feature-description">
+                            Base de données complète de tous les items, blocs et objets avec propriétés, recettes et utilisations.
+                        </p>
+                        <div class="feature-meta">
+                            <span class="meta-item">15,427 items</span>
+                            <span class="meta-item">7,542 blocs</span>
+                            <span class="meta-item">Recherche avancée</span>
+                        </div>
+                        <a href="items.html" class="feature-link" aria-label="Explorer les items">
+                            <span>Parcourir les items</span>
+                            <span class="link-arrow">→</span>
+                        </a>
+                    </article>
+                    
+                    <!-- Feature 3: Recettes -->
+                    <article class="feature-card">
+                        <div class="feature-icon-wrapper">
+                            <div class="feature-icon" aria-hidden="true">⚗️</div>
+                        </div>
+                        <h3 class="feature-title">Recettes & Crafts</h3>
+                        <p class="feature-description">
+                            Toutes les recettes de crafting, fusion, infusion et autres méthodes de fabrication avec visualisation interactive.
+                        </p>
+                        <div class="feature-meta">
+                            <span class="meta-item">42,156 recettes</span>
+                            <span class="meta-item">8 types de craft</span>
+                            <span class="meta-item">Visualisation 3D</span>
+                        </div>
+                        <a href="recipes.html" class="feature-link" aria-label="Explorer les recettes">
+                            <span>Voir les recettes</span>
+                            <span class="link-arrow">→</span>
+                        </a>
+                    </article>
+                    
+                    <!-- Feature 4: Guides -->
+                    <article class="feature-card">
+                        <div class="feature-icon-wrapper">
+                            <div class="feature-icon" aria-hidden="true">📚</div>
+                        </div>
+                        <h3 class="feature-title">Guides & Tutoriels</h3>
+                        <p class="feature-description">
+                            Guides pas à pas, tutoriels vidéo et conseils avancés pour maîtriser les systèmes complexes du modpack.
+                        </p>
+                        <div class="feature-meta">
+                            <span class="meta-item">Niveau débutant</span>
+                            <span class="meta-item">Niveau avancé</span>
+                            <span class="meta-item">Niveau expert</span>
+                        </div>
+                        <a href="guides.html" class="feature-link" aria-label="Voir les guides">
+                            <span>Consulter les guides</span>
+                            <span class="link-arrow">→</span>
+                        </a>
+                    </article>
+                    
+                    <!-- Feature 5: Mécaniques -->
+                    <article class="feature-card">
+                        <div class="feature-icon-wrapper">
+                            <div class="feature-icon" aria-hidden="true">🔧</div>
+                        </div>
+                        <h3 class="feature-title">Mécaniques</h3>
+                        <p class="feature-description">
+                            Explications des systèmes complexes, interactions entre mods et optimisations pour l'automation.
+                        </p>
+                        <div class="feature-meta">
+                            <span class="meta-item">Automation</span>
+                            <span class="meta-item">Magie</span>
+                            <span class="meta-item">Progression</span>
+                        </div>
+                        <a href="mechanics.html" class="feature-link" aria-label="Explorer les mécaniques">
+                            <span>Découvrir les systèmes</span>
+                            <span class="link-arrow">→</span>
+                        </a>
+                    </article>
+                    
+                    <!-- Feature 6: Serveur -->
+                    <article class="feature-card">
+                        <div class="feature-icon-wrapper">
+                            <div class="feature-icon" aria-hidden="true">🌐</div>
+                        </div>
+                        <h3 class="feature-title">Serveur & Communauté</h3>
+                        <p class="feature-description">
+                            Informations sur le serveur Sandcraft, règles, événements et intégration avec la communauté.
+                        </p>
+                        <div class="feature-meta">
+                            <span class="meta-item">IP: play.sandcraft.fr</span>
+                            <span class="meta-item">50 slots</span>
+                            <span class="meta-item">Événements</span>
+                        </div>
+                        <a href="server.html" class="feature-link" aria-label="Voir le serveur">
+                            <span>Rejoindre le serveur</span>
+                            <span class="link-arrow">→</span>
+                        </a>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section Mods Populaires -->
+        <section class="popular-mods-section" aria-labelledby="popular-mods-title">
+            <div class="container">
+                <div class="section-header">
+                    <h2 id="popular-mods-title" class="section-title">Mods Populaires</h2>
+                    <p class="section-subtitle">Les mods les plus utilisés dans Sandcraft</p>
+                    <a href="mods.html" class="view-all-link">Voir tous les mods →</a>
+                </div>
+                
+                <div class="mods-grid" id="popularModsGrid">
+                    <!-- Chargé dynamiquement par JavaScript -->
+                    <div class="loading-mod">
+                        <div class="loading-spinner"></div>
+                        <p>Chargement des mods...</p>
+                    </div>
+                </div>
+                
+                <!-- Catégories de mods -->
+                <div class="categories-preview">
+                    <h3 class="categories-title">Parcourir par catégorie</h3>
+                    <div class="categories-grid" id="categoriesGrid">
+                        <!-- Chargé dynamiquement -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section Serveur Live -->
+        <section class="server-live-section" aria-labelledby="server-live-title">
+            <div class="container">
+                <div class="server-card">
+                    <div class="server-card-header">
+                        <h2 id="server-live-title" class="server-card-title">
+                            <span class="server-status online">●</span>
+                            Serveur Sandcraft
                         </h2>
-                        <button class="close-modal-btn" id="closeCreateModal">
-                            <i class="fas fa-times"></i>
-                        </button>
+                        <div class="server-refresh">
+                            <button onclick="refreshServerStatus()" aria-label="Actualiser le statut">
+                                <span class="refresh-icon">🔄</span>
+                                Actualiser
+                            </button>
+                            <span class="last-updated" id="lastUpdated">il y a 2 min</span>
+                        </div>
                     </div>
                     
-                    <div class="modal-body">
-                        <p class="modal-intro">
-                            Remplissez ce formulaire pour ajouter un nouveau mod au wiki.
-                            Tous les champs marqués d'un * sont obligatoires.
-                        </p>
+                    <div class="server-card-content">
+                        <div class="server-info">
+                            <div class="info-group">
+                                <h3 class="info-label">Adresse IP</h3>
+                                <div class="info-value">
+                                    <code class="server-ip">play.sandcraft.fr</code>
+                                    <button class="copy-btn" onclick="copyIP()" aria-label="Copier l'IP">
+                                        <span class="copy-icon">📋</span>
+                                    </button>
+                                </div>
+                            </div>
+                            
+                            <div class="info-group">
+                                <h3 class="info-label">Version</h3>
+                                <div class="info-value">
+                                    <span class="version-badge">1.19.2</span>
+                                    <span class="modpack-badge">Sandcraft 2.0.0</span>
+                                </div>
+                            </div>
+                            
+                            <div class="info-group">
+                                <h3 class="info-label">Statut</h3>
+                                <div class="info-value">
+                                    <span class="status-badge online">En ligne</span>
+                                    <span class="uptime">Uptime: 99.8%</span>
+                                </div>
+                            </div>
+                            
+                            <div class="info-group">
+                                <h3 class="info-label">Joueurs en ligne</h3>
+                                <div class="info-value">
+                                    <div class="players-count">
+                                        <span class="players-current" id="currentPlayers">24</span>
+                                        <span class="players-separator">/</span>
+                                        <span class="players-max">50</span>
+                                    </div>
+                                    <div class="players-progress">
+                                        <div class="progress-bar">
+                                            <div class="progress-fill" style="width: 48%"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         
-                        <form id="createModForm">
-                            <div class="form-row">
-                                <div class="form-group">
-                                    <label for="modName">
-                                        <i class="fas fa-heading"></i> Nom du mod *
-                                    </label>
-                                    <input type="text" 
-                                           id="modName" 
-                                           name="modName" 
-                                           required
-                                           placeholder="Ex: Create, Ars Nouveau...">
+                        <div class="server-actions">
+                            <a href="modpack-download.html" class="btn btn-download">
+                                <span class="btn-icon">📥</span>
+                                <span>Télécharger le modpack</span>
+                            </a>
+                            <a href="server-guide.html" class="btn btn-guide">
+                                <span class="btn-icon">📖</span>
+                                <span>Guide du serveur</span>
+                            </a>
+                            <a href="https://discord.gg/sandcraft" class="btn btn-discord" target="_blank" rel="noopener">
+                                <span class="btn-icon">💬</span>
+                                <span>Rejoindre le Discord</span>
+                            </a>
+                        </div>
+                        
+                        <!-- Liste des joueurs (simulée) -->
+                        <div class="online-players">
+                            <h3 class="players-title">Joueurs en ligne</h3>
+                            <div class="players-list" id="onlinePlayersList">
+                                <!-- Chargé dynamiquement -->
+                                <div class="player-item">
+                                    <span class="player-avatar">👤</span>
+                                    <span class="player-name">Steve42</span>
+                                    <span class="player-playtime">4h 22m</span>
                                 </div>
-                                
-                                <div class="form-group">
-                                    <label for="modCategory">
-                                        <i class="fas fa-folder"></i> Catégorie *
-                                    </label>
-                                    <select id="modCategory" name="modCategory" required>
-                                        <option value="">Sélectionnez une catégorie</option>
-                                        <!-- Rempli dynamiquement -->
-                                    </select>
-                                </div>
+                                <!-- Plus de joueurs via JS -->
                             </div>
-                            
-                            <div class="form-group">
-                                <label for="modDescription">
-                                    <i class="fas fa-align-left"></i> Description courte *
-                                </label>
-                                <textarea id="modDescription" 
-                                          name="modDescription" 
-                                          rows="3"
-                                          required
-                                          placeholder="Décrivez brièvement le mod..."></textarea>
-                            </div>
-                            
-                            <div class="form-group">
-                                <label for="modLongDescription">
-                                    <i class="fas fa-align-justify"></i> Description détaillée
-                                </label>
-                                <textarea id="modLongDescription" 
-                                          name="modLongDescription" 
-                                          rows="5"
-                                          placeholder="Description complète, fonctionnalités..."></textarea>
-                            </div>
-                            
-                            <div class="form-row">
-                                <div class="form-group">
-                                    <label for="modIcon">
-                                        <i class="fas fa-icons"></i> Icône
-                                    </label>
-                                    <input type="text" 
-                                           id="modIcon" 
-                                           name="modIcon"
-                                           placeholder="Ex: ⚙️, 🔮, 🌱...">
-                                    <small class="form-help">
-                                        Utilisez un emoji comme icône
-                                    </small>
-                                </div>
-                                
-                                <div class="form-group">
-                                    <label for="modAuthor">
-                                        <i class="fas fa-user"></i> Auteur
-                                    </label>
-                                    <input type="text" 
-                                           id="modAuthor" 
-                                           name="modAuthor"
-                                           placeholder="Nom de l'auteur du mod">
-                                </div>
-                            </div>
-                            
-                            <div class="form-row">
-                                <div class="form-group">
-                                    <label for="modVersion">
-                                        <i class="fas fa-code-branch"></i> Version
-                                    </label>
-                                    <input type="text" 
-                                           id="modVersion" 
-                                           name="modVersion"
-                                           placeholder="Ex: 1.0.0">
-                                </div>
-                                
-                                <div class="form-group">
-                                    <label for="modPopularity">
-                                        <i class="fas fa-star"></i> Popularité (0-100)
-                                    </label>
-                                    <input type="number" 
-                                           id="modPopularity" 
-                                           name="modPopularity"
-                                           min="0" max="100" value="50">
-                                </div>
-                            </div>
-                            
-                            <div class="form-group">
-                                <label for="modTags">
-                                    <i class="fas fa-tags"></i> Tags
-                                </label>
-                                <input type="text" 
-                                       id="modTags" 
-                                       name="modTags"
-                                       placeholder="mécanique, automatisation, énergie...">
-                                <small class="form-help">
-                                    Séparez les tags par des virgules
-                                </small>
-                            </div>
-                            
-                            <div class="form-group">
-                                <label for="modFeatures">
-                                    <i class="fas fa-check-circle"></i> Fonctionnalités
-                                </label>
-                                <textarea id="modFeatures" 
-                                          name="modFeatures" 
-                                          rows="3"
-                                          placeholder="Listez les principales fonctionnalités, une par ligne..."></textarea>
-                            </div>
-                            
-                            <div class="form-actions">
-                                <button type="button" 
-                                        class="btn btn-secondary" 
-                                        id="cancelCreateModal">
-                                    <i class="fas fa-times"></i> Annuler
-                                </button>
-                                
-                                <button type="submit" 
-                                        class="btn btn-success">
-                                    <i class="fas fa-save"></i> Ajouter le mod
-                                </button>
-                            </div>
-                        </form>
+                        </div>
                     </div>
                 </div>
             </div>
-                        <!-- Footer -->
-            <footer class="site-footer">
-                <div class="footer-content">
-                    <div class="footer-section">
-                        <h4>
-                            <i class="fas fa-cube"></i> SandCraft Wiki
-                        </h4>
-                        <p class="footer-description">
-                            Le Wiki officiel de mon serveur moddé SandCraft pour tous les mods du modpack !
-                        </p>
-                        <div class="footer-links">
-                            <a href="./" class="footer-link">
-                                <i class="fas fa-home"></i> Accueil
-                            </a>
-                            <a href="./modlist.html" class="footer-link">
-                                <i class="fas fa-list"></i> Tous les mods
-                            </a>
-                            <a href="./create.html" class="footer-link">
-                                <i class="fas fa-plus"></i> Ajouter un mod
-                            </a>
-                            <a href="./guides.html" class="footer-link">
-                                <i class="fas fa-book"></i> Guides
-                            </a>
+        </section>
+
+        <!-- Section Mises à jour récentes -->
+        <section class="updates-section" aria-labelledby="updates-title">
+            <div class="container">
+                <div class="section-header">
+                    <h2 id="updates-title" class="section-title">Mises à jour récentes</h2>
+                    <p class="section-subtitle">Nouveautés du wiki et du modpack</p>
+                </div>
+                
+                <div class="updates-timeline">
+                    <article class="update-card">
+                        <div class="update-date">
+                            <span class="update-day">16</span>
+                            <span class="update-month">Jan</span>
+                            <span class="update-year">2024</span>
+                        </div>
+                        <div class="update-content">
+                            <h3 class="update-title">Wiki complet disponible !</h3>
+                            <p class="update-description">
+                                Lancement officiel du wiki Sandcraft avec documentation complète des 259 mods et 15,000+ items.
+                            </p>
+                            <div class="update-tags">
+                                <span class="tag new">Nouveau</span>
+                                <span class="tag wiki">Wiki</span>
+                                <span class="tag data">Données</span>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="update-card">
+                        <div class="update-date">
+                            <span class="update-day">12</span>
+                            <span class="update-month">Jan</span>
+                            <span class="update-year">2024</span>
+                        </div>
+                        <div class="update-content">
+                            <h3 class="update-title">Modpack v2.0.0</h3>
+                            <p class="update-description">
+                                Nouvelle version du modpack avec ajout de Create 0.5.1, optimisation des performances et équilibrage.
+                            </p>
+                            <div class="update-tags">
+                                <span class="tag update">Mise à jour</span>
+                                <span class="tag modpack">Modpack</span>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="update-card">
+                        <div class="update-date">
+                            <span class="update-day">05</span>
+                            <span class="update-month">Jan</span>
+                            <span class="update-year">2024</span>
+                        </div>
+                        <div class="update-content">
+                            <h3 class="update-title">Système de recherche avancé</h3>
+                            <p class="update-description">
+                                Implémentation d'un moteur de recherche en temps réel avec suggestions et filtres intelligents.
+                            </p>
+                            <div class="update-tags">
+                                <span class="tag feature">Fonctionnalité</span>
+                                <span class="tag search">Recherche</span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+        <!-- Footer -->
+    <footer class="footer" role="contentinfo">
+        <div class="container">
+            <div class="footer-grid">
+                <!-- Colonne 1: À propos -->
+                <div class="footer-column">
+                    <div class="footer-logo">
+                        <div class="logo-icon-small">
+                            <svg width="24" height="24" viewBox="0 0 32 32" fill="none">
+                                <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="#4299E1"/>
+                                <path d="M16 8L24 16L16 24L8 16L16 8Z" fill="#ED8936"/>
+                                <circle cx="16" cy="16" r="4" fill="#F6E05E"/>
+                            </svg>
+                        </div>
+                        <div class="footer-logo-text">
+                            <span class="footer-logo-title">Sandcraft Wiki</span>
+                            <span class="footer-logo-subtitle">Documentation communautaire</span>
                         </div>
                     </div>
-                    
-                    <div class="footer-section">
-                        <h4>
-                            <i class="fas fa-database"></i> Données
-                        </h4>
-                        <div class="footer-stats">
-                            <div class="footer-stat">
-                                <i class="fas fa-box"></i>
-                                <span id="footerModsCount">0</span> mods
-                            </div>
-                            <div class="footer-stat">
-                                <i class="fas fa-layer-group"></i>
-                                <span id="footerCategoriesCount">0</span> catégories
-                            </div>
-                            <div class="footer-stat">
-                                <i class="fas fa-tags"></i>
-                                <span id="footerTagsCount">0</span> tags
-                            </div>
+                    <p class="footer-description">
+                        Wiki non-officiel du modpack Sandcraft pour Minecraft. Maintenu par la communauté pour la communauté.
+                    </p>
+                    <div class="footer-stats">
+                        <div class="footer-stat">
+                            <span class="stat-value" id="footerModsCount">259</span>
+                            <span class="stat-label">Mods</span>
                         </div>
-                        <div class="footer-actions">
-                            <button class="btn btn-small btn-secondary" id="exportDataBtn">
-                                <i class="fas fa-download"></i> Exporter
-                            </button>
-                            <button class="btn btn-small btn-secondary" id="importDataBtn">
-                                <i class="fas fa-upload"></i> Importer
-                            </button>
-                            <button class="btn btn-small btn-danger" id="resetDataBtn">
-                                <i class="fas fa-redo"></i> Réinitialiser
-                            </button>
+                        <div class="footer-stat">
+                            <span class="stat-value" id="footerItemsCount">15,427</span>
+                            <span class="stat-label">Items</span>
                         </div>
-                    </div>
-                    
-                    <div class="footer-section">
-                        <h4>
-                            <i class="fas fa-info-circle"></i> Informations
-                        </h4>
-                        <p class="footer-info">
-                            <i class="fas fa-user"></i> 
-                            <strong>Créateur :</strong> Matheodelaille
-                        </p>
-                        <p class="footer-info">
-                            <i class="fas fa-code"></i> 
-                            <strong>Version :</strong> 2.0.0
-                        </p>
-                        <p class="footer-info">
-                            <i class="fas fa-calendar-alt"></i> 
-                            <strong>Dernière mise à jour :</strong>
-                            <span id="footerLastUpdate">Aujourd'hui</span>
-                        </p>
-                        <div class="footer-social">
-                            <a href="https://github.com/Matheodelaille/Sandcraft" 
-                               class="social-link" 
-                               target="_blank"
-                               title="GitHub">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="social-link" title="Discord">
-                                <i class="fab fa-discord"></i>
-                            </a>
-                            <a href="#" class="social-link" title="Twitter">
-                                <i class="fab fa-twitter"></i>
-                            </a>
+                        <div class="footer-stat">
+                            <span class="stat-value">42k+</span>
+                            <span class="stat-label">Recettes</span>
                         </div>
                     </div>
                 </div>
                 
-                <div class="footer-bottom">
-                    <p class="copyright">
-                        &copy; 2024 SandCraft Wiki. Tous droits réservés.
-                        <span class="footer-note">
-                            Non affilié à Mojang ou Microsoft.
-                        </span>
-                    </p>
-                    <div class="footer-technical">
-                        <span class="tech-info">
-                            <i class="fas fa-code"></i> 
-                            Construit avec HTML, CSS & JavaScript
-                        </span>
-                        <span class="tech-info">
-                            <i class="fas fa-server"></i> 
-                            Hébergé sur GitHub Pages
-                        </span>
+                <!-- Colonne 2: Navigation -->
+                <div class="footer-column">
+                    <h3 class="footer-title">Navigation</h3>
+                    <ul class="footer-links">
+                        <li><a href="index.html" class="footer-link">Accueil</a></li>
+                        <li><a href="mods.html" class="footer-link">Mods</a></li>
+                        <li><a href="items.html" class="footer-link">Items & Blocs</a></li>
+                        <li><a href="recipes.html" class="footer-link">Recettes</a></li>
+                        <li><a href="guides.html" class="footer-link">Guides</a></li>
+                        <li><a href="mechanics.html" class="footer-link">Mécaniques</a></li>
+                        <li><a href="search.html" class="footer-link">Recherche</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Colonne 3: Ressources -->
+                <div class="footer-column">
+                    <h3 class="footer-title">Ressources</h3>
+                    <ul class="footer-links">
+                        <li><a href="modpack-download.html" class="footer-link">Téléchargement</a></li>
+                        <li><a href="installation-guide.html" class="footer-link">Guide d'installation</a></li>
+                        <li><a href="faq.html" class="footer-link">FAQ</a></li>
+                        <li><a href="changelog.html" class="footer-link">Journal des modifications</a></li>
+                        <li><a href="contributing.html" class="footer-link">Contribuer au wiki</a></li>
+                        <li><a href="api.html" class="footer-link">API des données</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Colonne 4: Communauté -->
+                <div class="footer-column">
+                    <h3 class="footer-title">Communauté</h3>
+                    <ul class="footer-links">
+                        <li><a href="https://discord.gg/sandcraft" class="footer-link" target="_blank" rel="noopener">Discord</a></li>
+                        <li><a href="https://github.com/sandcraft" class="footer-link" target="_blank" rel="noopener">GitHub</a></li>
+                        <li><a href="server-rules.html" class="footer-link">Règles du serveur</a></li>
+                        <li><a href="events.html" class="footer-link">Événements</a></li>
+                        <li><a href="staff.html" class="footer-link">Équipe</a></li>
+                        <li><a href="contact.html" class="footer-link">Contact</a></li>
+                    </ul>
+                    
+                    <div class="footer-social">
+                        <a href="#" class="social-link" aria-label="Twitter">
+                            <span class="social-icon">𝕏</span>
+                        </a>
+                        <a href="#" class="social-link" aria-label="YouTube">
+                            <span class="social-icon">▶️</span>
+                        </a>
+                        <a href="#" class="social-link" aria-label="Reddit">
+                            <span class="social-icon">📱</span>
+                        </a>
+                        <a href="#" class="social-link" aria-label="GitHub">
+                            <span class="social-icon">🐙</span>
+                        </a>
                     </div>
                 </div>
-            </footer>
-        </div> <!-- Fin de .container -->
-    </div> <!-- Fin de #mainContent -->
+            </div>
+            
+            <!-- Footer bottom -->
+            <div class="footer-bottom">
+                <div class="footer-legal">
+                    <p class="copyright">
+                        © 2024 Sandcraft Wiki. Non affilié à Mojang AB, Microsoft ou les créateurs des mods.
+                        Minecraft est une marque déposée de Mojang AB.
+                    </p>
+                    <div class="footer-legal-links">
+                        <a href="privacy.html" class="legal-link">Confidentialité</a>
+                        <a href="terms.html" class="legal-link">Conditions d'utilisation</a>
+                        <a href="disclaimer.html" class="legal-link">Avertissement</a>
+                    </div>
+                </div>
+                
+                <div class="footer-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">Version wiki:</span>
+                        <span class="meta-value" id="wikiVersion">1.0.0</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Dernière mise à jour:</span>
+                        <span class="meta-value" id="lastDataUpdate">16/01/2024</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Statut données:</span>
+                        <span class="meta-value status-ok">À jour ✓</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- Chargement des données -->
+    <script src="assets/js/data-loader.js"></script>
     
-    <!-- Scripts JavaScript -->
-    <script src="./assets/js/database.js"></script>
-    <script src="./assets/js/search.js"></script>
+    <!-- Scripts principaux -->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/home.js"></script>
+    
+    <!-- Scripts utilitaires -->
+    <script src="assets/js/utils.js"></script>
+    <script src="assets/js/search-suggestions.js"></script>
+    <script src="assets/js/theme-manager.js"></script>
     
     <!-- Script d'initialisation -->
     <script>
-        // Initialisation de l'application
-        document.addEventListener('DOMContentLoaded', async function() {
-            console.log('🚀 Démarrage de SandCraft Wiki...');
+        // Initialisation lorsque les données sont chargées
+        window.addEventListener('dataLoaded', function(event) {
+            const data = event.detail;
+            console.log('📊 Données chargées:', data);
             
-            // Cacher l'écran de chargement après un délai
-            setTimeout(function() {
-                const loadingScreen = document.getElementById('loadingScreen');
-                const mainContent = document.getElementById('mainContent');
-                
-                if (loadingScreen && mainContent) {
-                    loadingScreen.style.display = 'none';
-                    mainContent.style.display = 'block';
-                    
-                    // Animation d'apparition
-                    mainContent.style.opacity = '0';
-                    mainContent.style.transition = 'opacity 0.5s ease';
-                    
-                    setTimeout(() => {
-                        mainContent.style.opacity = '1';
-                    }, 50);
-                    
-                    console.log('✅ Interface chargée');
-                }
-            }, 500);
+            // Mettre à jour les compteurs
+            updateCounters(data);
             
-            // Attendre que la base de données soit prête
-            document.addEventListener('sandcraftdb:ready', function(event) {
-                console.log('🎯 Base de données prête, initialisation de l\'interface...');
-                initializeInterface();
+            // Afficher les mods populaires
+            displayPopularMods(data.mods.mods);
+            
+            // Afficher les catégories
+            displayCategories(data.categories);
+            
+            // Mettre à jour les infos de version
+            updateVersionInfo(data);
+            
+            // Initialiser la recherche
+            initSearchSuggestions(data);
+        });
+        
+        // Fonctions d'affichage
+        function updateCounters(data) {
+            const modsCount = data.mods?.mods?.length || 259;
+            const itemsCount = data.items?.items?.length || 15427;
+            
+            // Mettre à jour tous les éléments avec les compteurs
+            document.querySelectorAll('#modsCount, #liveModsCount, #footerModsCount').forEach(el => {
+                el.textContent = modsCount;
             });
             
-            // Fallback: initialiser après 2 secondes
-            setTimeout(function() {
-                if (typeof window.SandCraftDB !== 'undefined') {
-                    console.log('⏱️ Initialisation par timeout...');
-                    initializeInterface();
-                }
-            }, 2000);
+            document.querySelectorAll('#itemsCount, #liveItemsCount, #footerItemsCount').forEach(el => {
+                el.textContent = itemsCount.toLocaleString();
+            });
             
-            // Initialiser l'interface
-            function initializeInterface() {
-                try {
-                    // Initialiser le système de recherche
-                    if (window.SandCraftSearch && typeof window.SandCraftSearch.initApp === 'function') {
-                        window.SandCraftSearch.initApp();
-                    } else if (window.initSandCraftWiki) {
-                        window.initSandCraftWiki();
-                    } else {
-                        console.warn('⚠️ Système de recherche non trouvé, initialisation manuelle...');
-                        manualInitialization();
-                    }
-                    
-                    // Configurer les boutons de navigation
-                    setupNavigation();
-                    
-                    // Configurer les modals
-                    setupModals();
-                    
-                    console.log('✅ Interface initialisée avec succès');
-                    
-                } catch (error) {
-                    console.error('❌ Erreur lors de l\'initialisation:', error);
-                    showErrorMessage('Erreur lors du chargement de l\'application');
-                }
-            }
-            
-            // Initialisation manuelle fallback
-            function manualInitialization() {
-                // Remplir les catégories et tags
-                updateCategoryFilter();
-                updateTagFilter();
-                
-                // Afficher les catégories
-                displayCategoriesManual();
-                
-                // Configurer les événements
-                setupEventListeners();
-                
-                // Mettre à jour les stats
-                updateStatsManual();
-            }
-            
-            // Remplir le filtre des catégories
-            function updateCategoryFilter() {
-                const categoryFilter = document.getElementById('categoryFilter');
-                if (!categoryFilter) return;
-                
-                if (window.SandCraftDB && window.SandCraftDB.getAllCategories) {
-                    const categories = window.SandCraftDB.getAllCategories();
-                    categories.forEach(category => {
-                        const option = document.createElement('option');
-                        option.value = category.id;
-                        option.textContent = category.name;
-                        categoryFilter.appendChild(option);
-                    });
-                }
-            }
-            
-            // Remplir le filtre des tags
-            function updateTagFilter() {
-                const tagFilter = document.getElementById('tagFilter');
-                if (!tagFilter) return;
-                
-                if (window.SandCraftDB && window.SandCraftDB.getAllTags) {
-                    const tags = window.SandCraftDB.getAllTags();
-                    tags.forEach(tag => {
-                        const option = document.createElement('option');
-                        option.value = tag.id;
-                        option.textContent = tag.name;
-                        tagFilter.appendChild(option);
-                    });
-                }
-            }
-            
-            // Afficher les catégories manuellement
-            function displayCategoriesManual() {
-                // À implémenter si nécessaire
-            }
-            
-            // Configurer les événements
-            function setupEventListeners() {
-                // Recherche
-                const searchInput = document.getElementById('mainSearchInput');
-                const searchButton = document.getElementById('mainSearchButton');
-                
-                if (searchInput && searchButton) {
-                    searchButton.addEventListener('click', function() {
-                        performSearch();
-                    });
-                    
-                    searchInput.addEventListener('keypress', function(e) {
-                        if (e.key === 'Enter') {
-                            performSearch();
-                        }
-                    });
-                }
-                
-                // Filtres
-                const categoryFilter = document.getElementById('categoryFilter');
-                const tagFilter = document.getElementById('tagFilter');
-                const sortFilter = document.getElementById('sortFilter');
-                
-                if (categoryFilter) {
-                    categoryFilter.addEventListener('change', performSearch);
-                }
-                
-                if (tagFilter) {
-                    tagFilter.addEventListener('change', performSearch);
-                }
-                
-                if (sortFilter) {
-                    sortFilter.addEventListener('change', performSearch);
-                }
-                
-                // Réinitialisation
-                const resetBtn = document.getElementById('resetFiltersBtn');
-                if (resetBtn) {
-                    resetBtn.addEventListener('click', function() {
-                        if (categoryFilter) categoryFilter.value = '';
-                        if (tagFilter) tagFilter.value = '';
-                        if (searchInput) searchInput.value = '';
-                        if (sortFilter) sortFilter.value = 'name';
-                        performSearch();
-                    });
-                }
-                
-                // Voir tous les mods
-                const showAllBtn = document.getElementById('showAllModsBtn');
-                if (showAllBtn) {
-                    showAllBtn.addEventListener('click', function() {
-                        window.location.href = './modlist.html';
-                    });
-                }
-                
-                // Créer un mod
-                const createBtn = document.getElementById('createModBtn');
-                if (createBtn) {
-                    createBtn.addEventListener('click', function() {
-                        window.location.href = './create.html';
-                    });
-                }
-            }
-            
-            // Effectuer une recherche
-            function performSearch() {
-                // À implémenter
-                console.log('Recherche effectuée');
-            }
-            
-            // Mettre à jour les stats manuellement
-            function updateStatsManual() {
-                if (window.SandCraftDB && window.SandCraftDB.getStats) {
-                    const stats = window.SandCraftDB.getStats();
-                    
-                    // Mettre à jour les compteurs
-                    const modsCountElements = document.querySelectorAll('#totalModsCount, #footerModsCount');
-                    modsCountElements.forEach(el => {
-                        el.textContent = stats.totalMods || 0;
-                    });
-                    
-                    const categoriesCountElements = document.querySelectorAll('#categoriesCount, #footerCategoriesCount');
-                    categoriesCountElements.forEach(el => {
-                        el.textContent = stats.totalCategories || 0;
-                    });
-                    
-                    const tagsCountElement = document.getElementById('footerTagsCount');
-                    if (tagsCountElement) {
-                        tagsCountElement.textContent = stats.totalTags || 0;
-                    }
-                    
-                    const lastUpdateElements = document.querySelectorAll('#lastUpdate, #footerLastUpdate');
-                    lastUpdateElements.forEach(el => {
-                        if (stats.lastUpdate) {
-                            const date = new Date(stats.lastUpdate);
-                            el.textContent = date.toLocaleDateString('fr-FR');
-                        }
-                    });
-                }
-            }
-            
-            // Configurer la navigation
-            function setupNavigation() {
-                // Navigation principale
-                const navLinks = document.querySelectorAll('.nav-link');
-                navLinks.forEach(link => {
-                    link.addEventListener('click', function(e) {
-                        if (this.getAttribute('href') === '#') {
-                            e.preventDefault();
-                        }
-                    });
-                });
-                
-                // Boutons d'export/import
-                const exportBtn = document.getElementById('exportDataBtn');
-                const importBtn = document.getElementById('importDataBtn');
-                const resetBtn = document.getElementById('resetDataBtn');
-                
-                if (exportBtn && window.SandCraftDB && window.SandCraftDB.exportData) {
-                    exportBtn.addEventListener('click', function() {
-                        window.SandCraftDB.exportData();
-                    });
-                }
-                
-                if (importBtn) {
-                    importBtn.addEventListener('click', function() {
-                        const input = document.createElement('input');
-                        input.type = 'file';
-                        input.accept = '.json';
-                        input.addEventListener('change', function(e) {
-                            if (e.target.files[0] && window.SandCraftDB && window.SandCraftDB.importData) {
-                                window.SandCraftDB.importData(e.target.files[0])
-                                    .then(result => {
-                                        alert(result.message || 'Import réussi');
-                                        location.reload();
-                                    })
-                                    .catch(error => {
-                                        alert('Erreur lors de l\'import: ' + error.message);
-                                    });
-                            }
-                        });
-                        input.click();
-                    });
-                }
-                
-                if (resetBtn && window.SandCraftDB && window.SandCraftDB.resetData) {
-                    resetBtn.addEventListener('click', function() {
-                        if (confirm('Êtes-vous sûr de vouloir réinitialiser toutes les données ?')) {
-                            window.SandCraftDB.resetData()
-                                .then(() => {
-                                    alert('Données réinitialisées avec succès');
-                                    location.reload();
-                                })
-                                .catch(error => {
-                                    alert('Erreur lors de la réinitialisation: ' + error.message);
-                                });
-                        }
-                    });
-                }
-            }
-            
-            // Configurer les modals
-            function setupModals() {
-                // Modal de création
-                const createModal = document.getElementById('createModal');
-                const closeCreateBtn = document.getElementById('closeCreateModal');
-                const cancelCreateBtn = document.getElementById('cancelCreateModal');
-                const createForm = document.getElementById('createModForm');
-                
-                if (closeCreateBtn && createModal) {
-                    closeCreateBtn.addEventListener('click', function() {
-                        createModal.style.display = 'none';
-                    });
-                }
-                
-                if (cancelCreateBtn && createModal) {
-                    cancelCreateBtn.addEventListener('click', function() {
-                        createModal.style.display = 'none';
-                        if (createForm) createForm.reset();
-                    });
-                }
-                
-                // Fermer en cliquant à l'extérieur
-                window.addEventListener('click', function(e) {
-                    const modals = document.querySelectorAll('.modal');
-                    modals.forEach(modal => {
-                        if (e.target === modal) {
-                            modal.style.display = 'none';
-                            if (createForm) createForm.reset();
-                        }
-                    });
-                });
-            }
-            
-            // Afficher un message d'erreur
-            function showErrorMessage(message) {
-                const messageContainer = document.getElementById('messageContainer');
-                const messageText = document.getElementById('messageText');
-                
-                if (messageContainer && messageText) {
-                    messageText.textContent = message;
-                    messageContainer.className = 'message-container error';
-                    messageContainer.classList.remove('hidden');
-                    
-                    // Cacher après 5 secondes
-                    setTimeout(() => {
-                        messageContainer.classList.add('hidden');
-                    }, 5000);
-                } else {
-                    alert(message);
-                }
-            }
-        });
-        
-        // Gestion des vues (catégories/grille/liste)
-        document.addEventListener('click', function(e) {
-            if (e.target.closest('.view-toggle-btn')) {
-                const button = e.target.closest('.view-toggle-btn');
-                const view = button.dataset.view;
-                
-                // Mettre à jour les boutons actifs
-                document.querySelectorAll('.view-toggle-btn').forEach(btn => {
-                    btn.classList.remove('active');
-                });
-                button.classList.add('active');
-                
-                // Afficher la vue correspondante
-                document.querySelectorAll('.content-view').forEach(viewEl => {
-                    viewEl.classList.remove('active');
-                });
-                
-                const targetView = document.getElementById(view + 'View');
-                if (targetView) {
-                    targetView.classList.add('active');
-                    
-                    // Mettre à jour le titre
-                    const titleMap = {
-                        'categories': 'Catégories de Mods',
-                        'grid': 'Mods en Grille',
-                        'list': 'Mods en Liste'
-                    };
-                    
-                    const titleElement = document.getElementById('currentViewTitle');
-                    if (titleElement) {
-                        titleElement.textContent = titleMap[view] || 'Mods';
-                    }
-                }
-            }
-        });
-        
-        // Fonction utilitaire pour formater les nombres
-        function formatNumber(num) {
-            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+            // Recettes (statique pour l'instant)
+            document.getElementById('liveRecipesCount').textContent = '42,156';
         }
         
-        console.log('✅ Scripts chargés avec succès');
-    </script>
-</body>
-</html>
+        function displayPopularMods(mods) {
+            const container = document.getElementById('popularModsGrid');
+            if (!
