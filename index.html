@@ -522,7 +522,7 @@
             </div>
         </section>
     </main>
-        <!-- Footer -->
+    <!-- Footer -->
     <footer class="footer" role="contentinfo">
         <div class="container">
             <div class="footer-grid">
@@ -704,4 +704,154 @@
         
         function displayPopularMods(mods) {
             const container = document.getElementById('popularModsGrid');
-            if (!
+            if (!container) return;
+            
+            // Filtrer les mods populaires
+            const popularModIds = ['create', 'mekanism', 'ars_nouveau', 'twilightforest', 'appliedenergistics2', 'thermal'];
+            const popularMods = mods
+                .filter(mod => popularModIds.includes(mod.id))
+                .slice(0, 6);
+            
+            container.innerHTML = popularMods.map(mod => `
+                <article class="mod-card">
+                    <div class="mod-card-header">
+                        <div class="mod-icon">${getModIcon(mod.categories)}</div>
+                        <div class="mod-meta">
+                            <span class="mod-version">${mod.version}</span>
+                            <span class="mod-items">${mod.item_count || '?'} items</span>
+                        </div>
+                    </div>
+                    <h3 class="mod-name">${mod.name}</h3>
+                    <p class="mod-description">${truncate(mod.description, 80)}</p>
+                    <div class="mod-categories">
+                        ${(mod.categories || []).map(cat => 
+                            `<span class="mod-category ${cat}">${cat}</span>`
+                        ).join('')}
+                    </div>
+                    <a href="mod.html?id=${mod.id}" class="mod-link">
+                        <span>Voir le mod</span>
+                        <span class="link-arrow">→</span>
+                    </a>
+                </article>
+            `).join('');
+        }
+        
+        function displayCategories(categoriesData) {
+            const container = document.getElementById('categoriesGrid');
+            if (!container || !categoriesData) return;
+            
+            const categories = categoriesData.categories || [];
+            container.innerHTML = categories.slice(0, 8).map(cat => `
+                <a href="mods.html?category=${cat.id}" class="category-card">
+                    <div class="category-icon">${cat.icon || '📁'}</div>
+                    <h4 class="category-name">${cat.name}</h4>
+                    <p class="category-count">${cat.mod_count || 0} mods</p>
+                </a>
+            `).join('');
+        }
+        
+        function updateVersionInfo(data) {
+            document.getElementById('wikiVersion').textContent = data.mods?.version || '1.0.0';
+            document.getElementById('lastDataUpdate').textContent = 
+                new Date(data.mods?.generated_at || Date.now()).toLocaleDateString('fr-FR');
+        }
+        
+        function initSearchSuggestions(data) {
+            // À implémenter dans search-suggestions.js
+            console.log('Initialisation suggestions avec', data.items?.items?.length, 'items');
+        }
+        
+        // Fonctions utilitaires
+        function getModIcon(categories) {
+            if (!categories) return '📦';
+            if (categories.includes('technology')) return '⚙️';
+            if (categories.includes('magic')) return '🔮';
+            if (categories.includes('exploration')) return '🧭';
+            if (categories.includes('decoration')) return '🎨';
+            return '📦';
+        }
+        
+        function truncate(text, maxLength) {
+            if (text.length <= maxLength) return text;
+            return text.substring(0, maxLength) + '...';
+        }
+        
+        // Fonctions pour les boutons
+        function performHeroSearch() {
+            const query = document.getElementById('heroSearchInput').value.trim();
+            if (query) {
+                window.location.href = `search.html?q=${encodeURIComponent(query)}`;
+            }
+        }
+        
+        function searchMobile() {
+            const query = document.getElementById('mobileSearchInput').value.trim();
+            if (query) {
+                window.location.href = `search.html?q=${encodeURIComponent(query)}`;
+            }
+        }
+        
+        function copyIP() {
+            navigator.clipboard.writeText('play.sandcraft.fr');
+            // Afficher un feedback
+            const btn = event.target.closest('.copy-btn');
+            const originalHTML = btn.innerHTML;
+            btn.innerHTML = '<span class="copy-icon">✅</span>';
+            setTimeout(() => {
+                btn.innerHTML = originalHTML;
+            }, 2000);
+        }
+        
+        function refreshServerStatus() {
+            // Simuler un refresh
+            const btn = event.target.closest('button');
+            const originalText = btn.innerHTML;
+            btn.innerHTML = '<span class="refresh-icon">⏳</span> Actualisation...';
+            btn.disabled = true;
+            
+            setTimeout(() => {
+                // Simuler une réponse
+                document.getElementById('currentPlayers').textContent = 
+                    Math.floor(Math.random() * 10) + 20;
+                document.getElementById('lastUpdated').textContent = 'à l\'instant';
+                
+                btn.innerHTML = originalText;
+                btn.disabled = false;
+            }, 1000);
+        }
+        
+        // Initialiser le thème
+        document.addEventListener('DOMContentLoaded', function() {
+            // Charger le thème sauvegardé
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+            
+            // Gérer le toggle du thème
+            document.querySelector('.theme-toggle').addEventListener('click', function() {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('theme', newTheme);
+                this.querySelector('.theme-icon').textContent = newTheme === 'dark' ? '☀️' : '🌙';
+            });
+            
+            // Gérer le menu mobile
+            document.querySelector('.menu-toggle').addEventListener('click', function() {
+                const menu = document.getElementById('mobileMenu');
+                const isExpanded = this.getAttribute('aria-expanded') === 'true';
+                this.setAttribute('aria-expanded', !isExpanded);
+                menu.style.display = isExpanded ? 'none' : 'block';
+            });
+        });
+        
+        // Service Worker pour PWA (optionnel)
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js').catch(err => {
+                    console.log('ServiceWorker registration failed:', err);
+                });
+            });
+        }
+    </script>
+</body>
+</html>
