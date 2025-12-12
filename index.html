@@ -415,33 +415,39 @@
             background: linear-gradient(45deg, #047857, #0da271);
         }
 
-        /* CONTROLE AUDIO YOUTUBE */
+        /* CONTROLE AUDIO YOUTUBE - CORRIGÉ POUR VISIBILITÉ */
         .audio-control {
             position: fixed;
-            bottom: 20px;
-            right: 20px;
+            bottom: 30px;
+            right: 30px;
             z-index: 1000;
+            display: block !important;
+            visibility: visible !important;
+            opacity: 1 !important;
         }
 
         .audio-toggle-btn {
-            width: 60px;
-            height: 60px;
+            width: 70px;
+            height: 70px;
             border-radius: 50%;
             background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
-            border: none;
+            border: 3px solid rgba(255, 255, 255, 0.2);
             color: white;
-            font-size: 1.5rem;
+            font-size: 1.8rem;
             cursor: pointer;
-            box-shadow: 0 5px 20px rgba(59, 130, 246, 0.4);
+            box-shadow: 0 8px 25px rgba(59, 130, 246, 0.5);
             transition: all 0.3s ease;
             display: flex;
             align-items: center;
             justify-content: center;
+            position: relative;
+            z-index: 1001;
         }
 
         .audio-toggle-btn:hover {
-            transform: scale(1.1) rotate(15deg);
-            box-shadow: 0 8px 25px rgba(59, 130, 246, 0.6);
+            transform: scale(1.15) rotate(15deg);
+            box-shadow: 0 12px 30px rgba(59, 130, 246, 0.7);
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
         }
 
         .audio-toggle-btn.playing {
@@ -450,35 +456,41 @@
         }
 
         @keyframes pulse {
-            0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4); }
-            70% { box-shadow: 0 0 0 15px rgba(16, 185, 129, 0); }
+            0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.6); }
+            70% { box-shadow: 0 0 0 20px rgba(16, 185, 129, 0); }
             100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
         }
 
-        /* Panneau audio */
+        /* Panneau audio - CORRIGÉ POUR VISIBILITÉ */
         .audio-panel {
             position: absolute;
-            bottom: 70px;
+            bottom: 85px;
             right: 0;
-            background: rgba(15, 23, 42, 0.95);
-            backdrop-filter: blur(15px);
-            border: 2px solid var(--border-color);
+            background: rgba(15, 23, 42, 0.98);
+            backdrop-filter: blur(20px);
+            border: 3px solid var(--border-color);
             border-radius: 20px;
-            padding: 20px;
-            width: 320px;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            padding: 25px;
+            width: 350px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.7);
             display: none;
+            z-index: 1000;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.3s ease, transform 0.3s ease;
         }
 
         .audio-panel.show {
             display: block;
-            animation: slideUp 0.3s ease;
+            opacity: 1;
+            transform: translateY(0);
+            animation: slideUp 0.4s ease;
         }
 
         @keyframes slideUp {
             from {
                 opacity: 0;
-                transform: translateY(20px);
+                transform: translateY(30px);
             }
             to {
                 opacity: 1;
@@ -487,91 +499,120 @@
         }
 
         .audio-title {
-            font-size: 1.2rem;
-            font-weight: 600;
-            margin-bottom: 15px;
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 20px;
             color: var(--text-primary);
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 12px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .audio-title i {
+            color: var(--accent-blue);
+            font-size: 1.6rem;
         }
 
         .volume-control {
-            margin: 20px 0;
+            margin: 25px 0;
         }
 
         .volume-label {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 8px;
+            margin-bottom: 12px;
             color: var(--text-secondary);
-            font-size: 0.9rem;
+            font-size: 1rem;
+            font-weight: 600;
         }
 
         .volume-slider {
             width: 100%;
-            height: 8px;
+            height: 10px;
             -webkit-appearance: none;
-            background: rgba(96, 165, 250, 0.2);
-            border-radius: 4px;
+            background: linear-gradient(to right, var(--accent-blue), var(--accent-purple));
+            border-radius: 5px;
             outline: none;
+            border: 2px solid rgba(255, 255, 255, 0.1);
         }
 
         .volume-slider::-webkit-slider-thumb {
             -webkit-appearance: none;
-            width: 22px;
-            height: 22px;
+            width: 26px;
+            height: 26px;
             border-radius: 50%;
-            background: var(--accent-blue);
+            background: white;
             cursor: pointer;
-            border: 3px solid var(--bg-secondary);
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            border: 3px solid var(--accent-blue);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+            transition: all 0.2s ease;
+        }
+
+        .volume-slider::-webkit-slider-thumb:hover {
+            transform: scale(1.2);
+            border-color: var(--accent-purple);
+            box-shadow: 0 6px 20px rgba(167, 139, 250, 0.6);
         }
 
         .theme-selector {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
-            margin-top: 20px;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-top: 25px;
         }
 
         .theme-btn {
-            padding: 12px;
+            padding: 14px;
             border: 2px solid var(--border-color);
-            background: rgba(30, 41, 59, 0.7);
+            background: rgba(30, 41, 59, 0.8);
             color: var(--text-primary);
             border-radius: 12px;
             cursor: pointer;
             transition: all 0.3s ease;
-            font-size: 0.95rem;
+            font-size: 1rem;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             gap: 8px;
+            min-height: 80px;
+            text-align: center;
         }
 
         .theme-btn:hover {
             border-color: var(--accent-blue);
-            background: rgba(59, 130, 246, 0.2);
-            transform: translateY(-2px);
+            background: rgba(59, 130, 246, 0.25);
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(59, 130, 246, 0.3);
         }
 
         .theme-btn.active {
             background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
             color: white;
             border-color: var(--accent-blue);
-            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+            box-shadow: 0 8px 25px rgba(59, 130, 246, 0.4);
+            transform: translateY(-3px);
+        }
+
+        .theme-btn i {
+            font-size: 1.4rem;
+            margin-bottom: 5px;
         }
 
         .audio-info {
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             color: var(--text-secondary);
-            margin-top: 15px;
+            margin-top: 20px;
             text-align: center;
             font-style: italic;
+            padding: 12px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
-
-        /* CONTENU PRINCIPAL */
+                /* CONTENU PRINCIPAL */
         .container {
             max-width: 1000px;
             margin: 0 auto;
@@ -768,7 +809,7 @@
             pointer-events: none;
         }
 
-        /* RESPONSIVE */
+        /* RESPONSIVE - CORRIGÉ POUR AUDIO */
         @media (max-width: 1200px) {
             .header-content {
                 flex-wrap: wrap;
@@ -799,7 +840,12 @@
             }
             
             .audio-panel {
-                right: -50px;
+                right: 10px;
+                width: 320px;
+            }
+            
+            .theme-selector {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
 
@@ -830,13 +876,55 @@
                 gap: 15px;
             }
             
+            .audio-control {
+                bottom: 20px;
+                right: 20px;
+            }
+            
+            .audio-toggle-btn {
+                width: 60px;
+                height: 60px;
+                font-size: 1.5rem;
+            }
+            
             .audio-panel {
                 width: 280px;
-                right: -30px;
+                padding: 20px;
+                right: 5px;
+                bottom: 75px;
             }
             
             .theme-selector {
                 grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            
+            .theme-btn {
+                min-height: 70px;
+                padding: 12px;
+                font-size: 0.95rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .audio-panel {
+                width: 260px;
+                right: 0;
+            }
+            
+            .audio-title {
+                font-size: 1.2rem;
+            }
+            
+            .audio-control {
+                bottom: 15px;
+                right: 15px;
+            }
+            
+            .audio-toggle-btn {
+                width: 55px;
+                height: 55px;
+                font-size: 1.3rem;
             }
         }
     </style>
@@ -1015,9 +1103,7 @@
                     <a href="#" class="view-all-btn">VOIR LES 68 MODS TECHNOLOGIE COMPLETS</a>
                 </div>
             </div>
-
-            <!-- Les autres catégories (Magie, Agriculture, QdV) restent identiques -->
-            <!-- MAGIE & SORCELLERIE -->
+                        <!-- MAGIE & SORCELLERIE -->
             <div class="category-bubble category-magic" id="magic">
                 <div class="category-header">
                     <div class="category-icon">
@@ -1244,7 +1330,7 @@
         allowfullscreen>
     </iframe>
 
-    <!-- Contrôle audio -->
+    <!-- Contrôle audio - CORRIGÉ POUR VISIBILITÉ -->
     <div class="audio-control">
         <button class="audio-toggle-btn" id="audioToggle">
             <i class="fas fa-music"></i>
@@ -1287,8 +1373,7 @@
             </div>
         </div>
     </div>
-
-    <!-- API YouTube -->
+        <!-- API YouTube -->
     <script src="https://www.youtube.com/iframe_api"></script>
     <script>
         // Variables globales
@@ -1345,6 +1430,9 @@
             updateDisplay();
             
             console.log('Player YouTube prêt !');
+            
+            // Afficher un message de confirmation
+            showNotification('🎵 Contrôle audio prêt !');
         }
         
         function onPlayerStateChange(event) {
@@ -1352,10 +1440,15 @@
                 isPlaying = true;
                 updatePlayButton(true);
                 updateMusicStatus('ON');
+                showNotification('▶️ Musique démarrée');
             } else if (event.data === YT.PlayerState.PAUSED) {
                 isPlaying = false;
                 updatePlayButton(false);
                 updateMusicStatus('OFF');
+                showNotification('⏸️ Musique en pause');
+            } else if (event.data === YT.PlayerState.ENDED) {
+                // Si la vidéo se termine, la relancer en boucle
+                player.playVideo();
             }
         }
         
@@ -1365,6 +1458,7 @@
             
             if (!player) {
                 console.log('Player non prêt');
+                showNotification('⏳ Chargement du lecteur...');
                 return;
             }
             
@@ -1373,17 +1467,21 @@
                 isPlaying = false;
                 updatePlayButton(false);
                 updateMusicStatus('OFF');
-                showNotification('⏸️ Musique en pause');
             } else {
                 player.playVideo();
                 isPlaying = true;
                 updatePlayButton(true);
                 updateMusicStatus('ON');
-                showNotification('🎵 Musique activée');
             }
             
             // Toggle du panneau
-            document.getElementById('audioPanel').classList.toggle('show');
+            const audioPanel = document.getElementById('audioPanel');
+            audioPanel.classList.toggle('show');
+            
+            // Empêcher la fermeture immédiate
+            setTimeout(() => {
+                audioPanel.classList.add('show');
+            }, 10);
         });
         
         // Contrôle volume
@@ -1400,6 +1498,17 @@
             
             // Sauvegarder la préférence
             localStorage.setItem('sandcraft_volume', currentVolume);
+            
+            // Notification discrète pour le volume
+            if (currentVolume == 0) {
+                showNotification('🔇 Volume coupé');
+            } else if (currentVolume <= 30) {
+                showNotification('🔈 Volume faible');
+            } else if (currentVolume <= 70) {
+                showNotification('🔉 Volume moyen');
+            } else {
+                showNotification('🔊 Volume fort');
+            }
         });
         
         // Changer de thème audio
@@ -1419,6 +1528,9 @@
                 
                 // Mettre à jour aussi le thème visuel du site
                 updateVisualTheme(theme);
+                
+                // Garder le panneau ouvert
+                document.getElementById('audioPanel').classList.add('show');
             });
         });
         
@@ -1432,9 +1544,17 @@
             document.getElementById('currentTrack').textContent = themeNames[theme];
             document.getElementById('currentSeason').textContent = themeNames[theme];
             
+            // Mettre à jour le bouton actif dans le menu saisonnier
+            document.querySelectorAll('.season-option').forEach(option => {
+                option.classList.toggle('active', option.dataset.theme === theme);
+            });
+            
             // Charger la nouvelle vidéo
             if (player) {
-                player.loadVideoById(videoId);
+                player.loadVideoById({
+                    videoId: videoId,
+                    startSeconds: 0
+                });
                 
                 // Si la musique était en lecture, continuer à jouer
                 if (isPlaying) {
@@ -1462,14 +1582,29 @@
         }
         
         function updateMusicStatus(status) {
-            document.getElementById('musicStatus').textContent = status;
+            const musicStatusEl = document.getElementById('musicStatus');
+            if (musicStatusEl) {
+                musicStatusEl.textContent = status;
+            }
         }
         
         function updateDisplay() {
-            document.getElementById('currentTrack').textContent = themeNames[currentTheme];
-            document.getElementById('currentSeason').textContent = themeNames[currentTheme];
-            volumePercent.textContent = `${currentVolume}%`;
-            volumeSlider.value = currentVolume;
+            const currentTrackEl = document.getElementById('currentTrack');
+            const currentSeasonEl = document.getElementById('currentSeason');
+            
+            if (currentTrackEl) {
+                currentTrackEl.textContent = themeNames[currentTheme];
+            }
+            if (currentSeasonEl) {
+                currentSeasonEl.textContent = themeNames[currentTheme];
+            }
+            
+            if (volumePercent) {
+                volumePercent.textContent = `${currentVolume}%`;
+            }
+            if (volumeSlider) {
+                volumeSlider.value = currentVolume;
+            }
             
             // Mettre à jour les boutons actifs
             document.querySelectorAll('.theme-btn').forEach(btn => {
@@ -1518,16 +1653,81 @@
         
         function showNotification(message) {
             console.log('Notification:', message);
-            // Vous pouvez ajouter un système de notification visuel ici si besoin
+            
+            // Créer une notification visuelle temporaire
+            const notification = document.createElement('div');
+            notification.style.cssText = `
+                position: fixed;
+                bottom: 100px;
+                right: 30px;
+                background: rgba(15, 23, 42, 0.95);
+                backdrop-filter: blur(10px);
+                color: white;
+                padding: 12px 20px;
+                border-radius: 12px;
+                border: 2px solid var(--accent-blue);
+                box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+                z-index: 1002;
+                font-size: 0.9rem;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                animation: slideIn 0.3s ease;
+            `;
+            
+            notification.innerHTML = `<i class="fas fa-info-circle"></i> ${message}`;
+            document.body.appendChild(notification);
+            
+            // Supprimer après 3 secondes
+            setTimeout(() => {
+                notification.style.animation = 'slideOut 0.3s ease';
+                setTimeout(() => {
+                    if (notification.parentNode) {
+                        notification.parentNode.removeChild(notification);
+                    }
+                }, 300);
+            }, 3000);
         }
+        
+        // Ajouter l'animation pour la notification
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from {
+                    transform: translateX(100px);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+            }
+            @keyframes slideOut {
+                from {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+                to {
+                    transform: translateX(100px);
+                    opacity: 0;
+                }
+            }
+        `;
+        document.head.appendChild(style);
         
         // Gestion du panneau audio
         document.getElementById('audioPanel').addEventListener('click', function(e) {
             e.stopPropagation();
         });
         
-        document.addEventListener('click', function() {
-            document.getElementById('audioPanel').classList.remove('show');
+        document.addEventListener('click', function(e) {
+            const audioPanel = document.getElementById('audioPanel');
+            const audioToggle = document.getElementById('audioToggle');
+            
+            // Si le clic n'est pas sur le panneau ou le bouton, fermer le panneau
+            if (!audioPanel.contains(e.target) && !audioToggle.contains(e.target)) {
+                audioPanel.classList.remove('show');
+            }
         });
         
         // Menu déroulant existant
@@ -1561,18 +1761,24 @@
         const seasonMenu = document.getElementById('seasonMenu');
         const seasonOptions = document.querySelectorAll('.season-option');
         
-        seasonBtn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            seasonMenu.style.display = seasonMenu.style.display === 'flex' ? 'none' : 'flex';
-        });
+        if (seasonBtn) {
+            seasonBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                seasonMenu.style.display = seasonMenu.style.display === 'flex' ? 'none' : 'flex';
+            });
+        }
         
         document.addEventListener('click', () => {
-            seasonMenu.style.display = 'none';
+            if (seasonMenu) {
+                seasonMenu.style.display = 'none';
+            }
         });
         
-        seasonMenu.addEventListener('click', (e) => {
-            e.stopPropagation();
-        });
+        if (seasonMenu) {
+            seasonMenu.addEventListener('click', (e) => {
+                e.stopPropagation();
+            });
+        }
         
         // Changer de thème visuel via le menu saisonnier
         seasonOptions.forEach(option => {
@@ -1591,7 +1797,9 @@
                 }
                 
                 // Fermer le menu
-                seasonMenu.style.display = 'none';
+                if (seasonMenu) {
+                    seasonMenu.style.display = 'none';
+                }
             });
         });
         
@@ -1604,25 +1812,43 @@
         
         if (currentThemeMode === 'light' || (!currentThemeMode && !prefersDarkScheme.matches)) {
             body.classList.add('light-mode');
-            themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
-            document.getElementById('currentTheme').textContent = 'Clair';
+            if (themeToggle) {
+                themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+            }
+            const currentThemeEl = document.getElementById('currentTheme');
+            if (currentThemeEl) {
+                currentThemeEl.textContent = 'Clair';
+            }
         } else {
-            document.getElementById('currentTheme').textContent = 'Sombre';
+            const currentThemeEl = document.getElementById('currentTheme');
+            if (currentThemeEl) {
+                currentThemeEl.textContent = 'Sombre';
+            }
         }
         
-        themeToggle.addEventListener('click', () => {
-            body.classList.toggle('light-mode');
-            
-            if (body.classList.contains('light-mode')) {
-                themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
-                localStorage.setItem('theme', 'light');
-                document.getElementById('currentTheme').textContent = 'Clair';
-            } else {
-                themeToggle.innerHTML = '<i class="fas fa-moon"></i>';
-                localStorage.setItem('theme', 'dark');
-                document.getElementById('currentTheme').textContent = 'Sombre';
-            }
-        });
+        if (themeToggle) {
+            themeToggle.addEventListener('click', () => {
+                body.classList.toggle('light-mode');
+                
+                if (body.classList.contains('light-mode')) {
+                    themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+                    localStorage.setItem('theme', 'light');
+                    const currentThemeEl = document.getElementById('currentTheme');
+                    if (currentThemeEl) {
+                        currentThemeEl.textContent = 'Clair';
+                    }
+                    showNotification('🌞 Mode clair activé');
+                } else {
+                    themeToggle.innerHTML = '<i class="fas fa-moon"></i>';
+                    localStorage.setItem('theme', 'dark');
+                    const currentThemeEl = document.getElementById('currentTheme');
+                    if (currentThemeEl) {
+                        currentThemeEl.textContent = 'Sombre';
+                    }
+                    showNotification('🌙 Mode sombre activé');
+                }
+            });
+        }
         
         // Détection automatique de la saison
         function detectSeason() {
@@ -1655,18 +1881,39 @@
             const ip = "91.197.6.34:25582";
             navigator.clipboard.writeText(ip).then(() => {
                 const btn = document.querySelector('.btn-ip');
-                const originalHTML = btn.innerHTML;
-                btn.innerHTML = '<i class="fas fa-check"></i> IP copiée !';
+                if (btn) {
+                    const originalHTML = btn.innerHTML;
+                    btn.innerHTML = '<i class="fas fa-check"></i> IP copiée !';
+                    
+                    setTimeout(() => {
+                        btn.innerHTML = originalHTML;
+                    }, 2000);
+                }
                 
-                setTimeout(() => {
-                    btn.innerHTML = originalHTML;
-                }, 2000);
-                
-                showNotification('📋 Adresse IP copiée');
+                showNotification('📋 Adresse IP copiée !');
+            }).catch(err => {
+                console.error('Erreur lors de la copie:', err);
+                showNotification('❌ Erreur lors de la copie');
             });
             
             return false;
         }
+        
+        // Initialisation au chargement
+        document.addEventListener('DOMContentLoaded', function() {
+            // S'assurer que le contrôle audio est visible
+            const audioControl = document.querySelector('.audio-control');
+            if (audioControl) {
+                audioControl.style.display = 'block';
+                audioControl.style.visibility = 'visible';
+                audioControl.style.opacity = '1';
+            }
+            
+            // Afficher un message de bienvenue
+            setTimeout(() => {
+                showNotification('🎮 Bienvenue sur Sandcraft !');
+            }, 1000);
+        });
         
         // La musique continue même quand on quitte la page
         // Pas de gestion de visibilitychange pour ne pas interrompre la musique
