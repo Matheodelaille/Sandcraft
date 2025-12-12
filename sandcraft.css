@@ -1,0 +1,476 @@
+/* ============================================
+   SANDBOX WIKI - THÈME PRINCIPAL
+   Fichier : skins/SandcraftTheme/sandcraft.css
+   IMPORTANT : Inclure après colors.css et minecraft-components.css
+   ============================================ */
+
+/* ============ IMPORTS ET RÉINITIALISATION ============ */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    image-rendering: optimizeSpeed;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: pixelated;
+    image-rendering: optimize-contrast;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--mc-dark);
+    background-image: 
+        var(--texture-grid),
+        linear-gradient(to bottom, transparent 95%, rgba(0, 0, 0, 0.1) 100%),
+        var(--texture-stone);
+    background-size: 40px 40px, auto, auto;
+    color: var(--mc-light);
+    font-family: var(--font-monospace);
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
+}
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--texture-dirt);
+    background-size: 128px 128px;
+    opacity: 0.03;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* ============ HEADER PRINCIPAL ============ */
+#mw-header {
+    background: var(--texture-wood);
+    border-bottom: 6px solid var(--ui-border);
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: var(--shadow-heavy);
+}
+
+.header-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.wiki-logo {
+    font-family: var(--font-minecraft);
+    font-size: 1.8rem;
+    color: var(--mc-lighter);
+    text-decoration: none;
+    text-shadow: 
+        3px 3px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000;
+    letter-spacing: 2px;
+    padding: 0.5rem 1rem;
+    background: rgba(0, 0, 0, 0.3);
+    border: 3px solid var(--ui-border);
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.wiki-logo:hover {
+    color: var(--tech-light);
+    border-color: var(--tech-color);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+.wiki-logo .subtitle {
+    display: block;
+    font-family: var(--font-monospace);
+    font-size: 0.7rem;
+    color: var(--mc-muted);
+    text-shadow: none;
+    letter-spacing: 1px;
+    margin-top: 0.2rem;
+}
+
+/* ============ NAVIGATION ============ */
+.mc-navigation {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    padding: 0.5rem 1rem;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid var(--ui-border);
+    color: var(--mc-light);
+    text-decoration: none;
+    font-family: var(--font-minecraft);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.nav-link:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--ui-border-light);
+    color: var(--tech-light);
+}
+
+.nav-link.active {
+    background: rgba(58, 143, 255, 0.2);
+    border-color: var(--tech-color);
+    color: var(--tech-light);
+}
+
+/* ============ CONTENU PRINCIPAL ============ */
+#mw-content {
+    max-width: 1400px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 2rem;
+}
+
+@media (max-width: 1024px) {
+    #mw-content {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ============ SIDEBAR ============ */
+#mw-sidebar {
+    background: var(--mc-darker);
+    border: 4px solid var(--ui-border);
+    padding: 1.5rem;
+    position: sticky;
+    top: 120px;
+    align-self: start;
+}
+
+.sidebar-title {
+    font-family: var(--font-minecraft);
+    font-size: 1rem;
+    color: var(--tech-light);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--tech-color);
+    text-transform: uppercase;
+}
+
+.sidebar-list {
+    list-style: none;
+}
+
+.sidebar-list li {
+    margin-bottom: 0.5rem;
+}
+
+.sidebar-list a {
+    display: block;
+    padding: 0.5rem;
+    color: var(--mc-muted);
+    text-decoration: none;
+    border-left: 3px solid transparent;
+    transition: all 0.2s;
+}
+
+.sidebar-list a:hover {
+    color: var(--mc-light);
+    border-left-color: var(--tech-color);
+    background: rgba(58, 143, 255, 0.1);
+    padding-left: 1rem;
+}
+
+/* ============ CONTENU DES ARTICLES ============ */
+.mc-article {
+    background: rgba(30, 30, 30, 0.8);
+    border: 4px solid var(--ui-border);
+    padding: 2rem;
+    backdrop-filter: blur(5px);
+}
+
+.article-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--ui-border);
+}
+
+.article-title {
+    font-family: var(--font-minecraft);
+    font-size: 1.8rem;
+    color: var(--mc-lighter);
+    margin-bottom: 0.5rem;
+    text-shadow: 2px 2px 0 #000;
+}
+
+.article-meta {
+    color: var(--mc-muted);
+    font-size: 0.9rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* ============ TABLEAUX STYLE MINECRAFT ============ */
+.mc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: var(--mc-darker);
+    border: 3px solid var(--ui-border);
+}
+
+.mc-table th {
+    background: rgba(0, 0, 0, 0.3);
+    border: 2px solid var(--ui-border);
+    padding: 1rem;
+    font-family: var(--font-minecraft);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.mc-table td {
+    border: 1px solid var(--ui-border);
+    padding: 0.8rem;
+    vertical-align: top;
+}
+
+.mc-table tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.mc-table tr:hover {
+    background: rgba(58, 143, 255, 0.1);
+}
+
+/* ============ INFOBULLES ET NOTES ============ */
+.mc-note {
+    background: rgba(33, 150, 243, 0.1);
+    border-left: 4px solid var(--info-color);
+    padding: 1rem;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+}
+
+.mc-note.warning {
+    background: rgba(255, 152, 0, 0.1);
+    border-left-color: var(--warning-color);
+}
+
+.mc-note.danger {
+    background: rgba(244, 67, 54, 0.1);
+    border-left-color: var(--error-color);
+}
+
+.mc-note.success {
+    background: rgba(76, 175, 80, 0.1);
+    border-left-color: var(--success-color);
+}
+
+/* ============ CODE BLOCKS ============ */
+.mc-code {
+    background: rgba(0, 0, 0, 0.5);
+    border: 2px solid var(--ui-border);
+    padding: 1rem;
+    margin: 1.5rem 0;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+    overflow-x: auto;
+    position: relative;
+}
+
+.mc-code::before {
+    content: '</>';
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    background: var(--mc-dark);
+    padding: 0 5px;
+    font-family: var(--font-minecraft);
+    font-size: 0.7rem;
+    color: var(--tech-light);
+}
+
+/* ============ PAGINATION ============ */
+.mc-pagination {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 2rem 0;
+    flex-wrap: wrap;
+}
+
+.pagination-link {
+    padding: 0.5rem 1rem;
+    background: var(--mc-gray);
+    border: 2px solid var(--ui-border);
+    color: var(--mc-light);
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.pagination-link:hover {
+    background: rgba(58, 143, 255, 0.2);
+    border-color: var(--tech-color);
+    color: var(--tech-light);
+}
+
+.pagination-link.active {
+    background: rgba(58, 143, 255, 0.4);
+    border-color: var(--tech-color);
+    color: var(--tech-light);
+}
+
+/* ============ FOOTER ============ */
+#mw-footer {
+    background: var(--mc-darker);
+    border-top: 6px solid var(--ui-border);
+    padding: 2rem 0;
+    margin-top: 4rem;
+}
+
+.footer-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 1rem 0;
+    flex-wrap: wrap;
+}
+
+.footer-link {
+    color: var(--mc-muted);
+    text-decoration: none;
+    font-family: var(--font-minecraft);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.2s;
+}
+
+.footer-link:hover {
+    color: var(--tech-light);
+}
+
+.footer-copyright {
+    color: var(--mc-muted);
+    font-size: 0.8rem;
+    margin-top: 1rem;
+}
+
+/* ============ ANIMATIONS ============ */
+@keyframes glow {
+    0% { 
+        text-shadow: 0 0 5px currentColor, 0 0 10px currentColor;
+    }
+    100% { 
+        text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;
+    }
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.glow-text {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+.float-item {
+    animation: float 3s ease-in-out infinite;
+}
+
+.pulse {
+    animation: pulse 2s ease-in-out infinite;
+}
+
+/* ============ RESPONSIVE ============ */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .wiki-logo {
+        font-size: 1.4rem;
+    }
+    
+    .mc-navigation {
+        justify-content: center;
+    }
+    
+    #mw-content {
+        padding: 0 1rem;
+        gap: 1rem;
+    }
+    
+    .mc-article {
+        padding: 1rem;
+    }
+    
+    .article-title {
+        font-size: 1.4rem;
+    }
+    
+    .footer-links {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 13px;
+    }
+    
+    .wiki-logo {
+        font-size: 1.2rem;
+        padding: 0.3rem 0.8rem;
+    }
+    
+    .nav-link {
+        padding: 0.3rem 0.8rem;
+        font-size: 0.6rem;
+    }
+}
