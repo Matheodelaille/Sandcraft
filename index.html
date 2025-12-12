@@ -1917,6 +1917,538 @@
         
         // La musique continue même quand on quitte la page
         // Pas de gestion de visibilitychange pour ne pas interrompre la musique
+        <!-- API YouTube -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+        // Variables globales
+        let player;
+        let isPlaying = false;
+        let currentVolume = 50;
+        let currentTheme = 'normal';
+        let isPlayerReady = false;
+        let isAPILoaded = false;
+        
+        // Configuration avec VOS vidéos YouTube
+        const youtubeVideos = {
+            normal: '-DfHaOYeaqk',     // Votre vidéo normale
+            autumn: 'pa6CyLN3wPY',     // Automne
+            winter: 'kChElv1Vhus',     // Hiver
+            summer: 'kyqpSycLASY',     // Été
+            spring: 'hODhrZlpcgo'      // Printemps
+        };
+        
+        // Noms des thèmes
+        const themeNames = {
+            normal: 'Ambiance Normale',
+            autumn: 'Ambiance Automne',
+            winter: 'Ambiance Hiver',
+            summer: 'Ambiance Été',
+            spring: 'Ambiance Printemps'
+        };
+        
+        // Fonction globale pour l'API YouTube (doit être dans la portée globale)
+        window.onYouTubeIframeAPIReady = function() {
+            console.log('API YouTube chargée !');
+            isAPILoaded = true;
+            initYouTubePlayer();
+        };
+        
+        // Initialisation du lecteur YouTube
+        function initYouTubePlayer() {
+            if (!isAPILoaded) {
+                console.log('API YouTube pas encore chargée');
+                return;
+            }
+            
+            console.log('Initialisation du lecteur YouTube...');
+            
+            // Créer le lecteur YouTube
+            player = new YT.Player('youtube-player', {
+                height: '0',
+                width: '0',
+                videoId: youtubeVideos.normal,
+                playerVars: {
+                    'autoplay': 0,
+                    'controls': 0,
+                    'disablekb': 1,
+                    'enablejsapi': 1,
+                    'fs': 0,
+                    'iv_load_policy': 3,
+                    'loop': 1,
+                    'modestbranding': 1,
+                    'playlist': youtubeVideos.normal,
+                    'rel': 0,
+                    'showinfo': 0
+                },
+                events: {
+                    'onReady': onPlayerReady,
+                    'onStateChange': onPlayerStateChange,
+                    'onError': onPlayerError
+                }
+            });
+        }
+        
+        function onPlayerReady(event) {
+            console.log('Lecteur YouTube prêt !');
+            isPlayerReady = true;
+            
+            // Initialiser le volume
+            player.setVolume(currentVolume);
+            
+            // Charger les préférences sauvegardées
+            loadPreferences();
+            
+            // Mettre à jour l'affichage
+            updateDisplay();
+            
+            // Vérifier si l'API est vraiment chargée
+            showNotification('🎵 Contrôle audio prêt !');
+            
+            // Vérification supplémentaire
+            setTimeout(() => {
+                if (player && typeof player.playVideo === 'function') {
+                    console.log('Player fonctionnel confirmé');
+                }
+            }, 500);
+        }
+        
+        function onPlayerStateChange(event) {
+            console.log('État du lecteur:', event.data);
+            
+            // YT.PlayerState.PLAYING = 1
+            // YT.PlayerState.PAUSED = 2
+            // YT.PlayerState.ENDED = 0
+            
+            if (event.data === YT.PlayerState.PLAYING) {
+                isPlaying = true;
+                updatePlayButton(true);
+                updateMusicStatus('ON');
+                console.log('Musique démarrée');
+            } else if (event.data === YT.PlayerState.PAUSED) {
+                isPlaying = false;
+                updatePlayButton(false);
+                updateMusicStatus('OFF');
+                console.log('Musique en pause');
+            } else if (event.data === YT.PlayerState.ENDED) {
+                console.log('Musique terminée - relecture...');
+                // Relancer la musique
+                setTimeout(() => {
+                    if (player && isPlayerReady) {
+                        player.playVideo();
+                    }
+                }, 1000);
+            }
+        }
+        
+        function onPlayerError(event) {
+            console.error('Erreur YouTube:', event.data);
+            showNotification('❌ Erreur de lecture YouTube');
+            
+            // Essayer de recharger la vidéo
+            setTimeout(() => {
+                if (player && isPlayerReady) {
+                    player.loadVideoById(youtubeVideos[currentTheme]);
+                }
+            }, 3000);
+        }
+        
+        // Toggle play/pause - VERSION SIMPLIFIÉE ET ROBUSTE
+        document.getElementById('audioToggle').addEventListener('click', function(e) {
+            e.stopPropagation();
+            
+            // Toggle du panneau
+            const audioPanel = document.getElementById('audioPanel');
+            audioPanel.classList.toggle('show');
+            
+            if (!isPlayerReady) {
+                console.log('Player non prêt, tentative d\'initialisation...');
+                showNotification('⏳ Initialisation du lecteur...');
+                
+                // Essayer d'initialiser
+                if (!isAPILoaded) {
+                    // L'API n'est pas chargée, essayer de la charger
+                    loadYouTubeAPI();
+                } else if (!player) {
+                    initYouTubePlayer();
+                }
+                return;
+            }
+            
+            // Vérifier que player existe et a les bonnes méthodes
+            if (!player || typeof player.playVideo !== 'function') {
+                console.error('Player non valide');
+                showNotification('❌ Lecteur non disponible');
+                return;
+            }
+            
+            try {
+                if (isPlaying) {
+                    player.pauseVideo();
+                    isPlaying = false;
+                    updatePlayButton(false);
+                    updateMusicStatus('OFF');
+                    showNotification('⏸️ Musique en pause');
+                } else {
+                    player.playVideo();
+                    isPlaying = true;
+                    updatePlayButton(true);
+                    updateMusicStatus('ON');
+                    showNotification('▶️ Musique démarrée');
+                }
+            } catch (error) {
+                console.error('Erreur lors du contrôle:', error);
+                showNotification('❌ Erreur de contrôle');
+            }
+        });
+        
+        // Fonction pour charger l'API YouTube manuellement si besoin
+        function loadYouTubeAPI() {
+            if (window.YT && window.YT.Player) {
+                console.log('API YouTube déjà disponible');
+                isAPILoaded = true;
+                initYouTubePlayer();
+                return;
+            }
+            
+            console.log('Chargement de l\'API YouTube...');
+            
+            // Vérifier si le script est déjà présent
+            if (!document.querySelector('script[src*="youtube.com/iframe_api"]')) {
+                const tag = document.createElement('script');
+                tag.src = "https://www.youtube.com/iframe_api";
+                const firstScriptTag = document.getElementsByTagName('script')[0];
+                firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            }
+            
+            // Vérifier périodiquement si l'API est chargée
+            const checkInterval = setInterval(() => {
+                if (window.YT && window.YT.Player) {
+                    clearInterval(checkInterval);
+                    console.log('API YouTube détectée !');
+                    isAPILoaded = true;
+                    initYouTubePlayer();
+                    showNotification('✅ API YouTube chargée');
+                }
+            }, 500);
+            
+            // Timeout après 10 secondes
+            setTimeout(() => {
+                clearInterval(checkInterval);
+                if (!isAPILoaded) {
+                    console.error('Timeout de chargement de l\'API YouTube');
+                    showNotification('⚠️ API YouTube non chargée - Rechargez la page');
+                }
+            }, 10000);
+        }
+        
+        // Contrôle volume
+        const volumeSlider = document.getElementById('volumeSlider');
+        const volumePercent = document.getElementById('volumePercent');
+        
+        volumeSlider.addEventListener('input', function() {
+            currentVolume = this.value;
+            volumePercent.textContent = `${currentVolume}%`;
+            
+            if (isPlayerReady && player) {
+                player.setVolume(currentVolume);
+            }
+            
+            // Sauvegarder la préférence
+            localStorage.setItem('sandcraft_volume', currentVolume);
+        });
+        
+        // Changer de thème audio - VERSION SIMPLIFIÉE
+        document.querySelectorAll('.theme-btn').forEach(button => {
+            button.addEventListener('click', function() {
+                const theme = this.dataset.theme;
+                const videoId = this.dataset.video;
+                
+                if (!videoId || !theme) {
+                    console.error('Données de thème manquantes');
+                    return;
+                }
+                
+                // Mettre à jour la sélection visuelle
+                document.querySelectorAll('.theme-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                this.classList.add('active');
+                
+                // Changer de thème
+                changeTheme(theme, videoId);
+                
+                // Garder le panneau ouvert
+                document.getElementById('audioPanel').classList.add('show');
+            });
+        });
+        
+        function changeTheme(theme, videoId) {
+            console.log('Changement de thème:', theme, 'Video:', videoId);
+            currentTheme = theme;
+            
+            // Sauvegarder la préférence
+            localStorage.setItem('sandcraft_audio_theme', theme);
+            
+            // Mettre à jour l'affichage
+            document.getElementById('currentTrack').textContent = themeNames[theme];
+            document.getElementById('currentSeason').textContent = themeNames[theme];
+            
+            // Mettre à jour le bouton actif dans le menu saisonnier
+            document.querySelectorAll('.season-option').forEach(option => {
+                option.classList.toggle('active', option.dataset.theme === theme);
+            });
+            
+            // Charger la nouvelle vidéo si le lecteur est prêt
+            if (isPlayerReady && player) {
+                const wasPlaying = isPlaying;
+                
+                // Charger la nouvelle vidéo
+                player.loadVideoById({
+                    videoId: videoId,
+                    startSeconds: 0
+                });
+                
+                // Si la musique était en lecture, continuer à jouer
+                if (wasPlaying) {
+                    setTimeout(() => {
+                        if (player) {
+                            player.playVideo();
+                        }
+                    }, 1500);
+                }
+                
+                showNotification(`🎨 ${themeNames[theme]} activée`);
+            } else {
+                console.log('Player non prêt pour le changement de thème');
+                showNotification(`🎨 ${themeNames[theme]} sélectionnée`);
+            }
+        }
+        
+        function updatePlayButton(playing) {
+            const btn = document.getElementById('audioToggle');
+            const icon = btn.querySelector('i');
+            
+            if (playing) {
+                btn.classList.add('playing');
+                icon.className = 'fas fa-pause';
+            } else {
+                btn.classList.remove('playing');
+                icon.className = 'fas fa-music';
+            }
+        }
+        
+        function updateMusicStatus(status) {
+            const musicStatusEl = document.getElementById('musicStatus');
+            if (musicStatusEl) {
+                musicStatusEl.textContent = status;
+            }
+        }
+        
+        function updateDisplay() {
+            const currentTrackEl = document.getElementById('currentTrack');
+            const currentSeasonEl = document.getElementById('currentSeason');
+            
+            if (currentTrackEl) {
+                currentTrackEl.textContent = themeNames[currentTheme];
+            }
+            if (currentSeasonEl) {
+                currentSeasonEl.textContent = themeNames[currentTheme];
+            }
+            
+            if (volumePercent) {
+                volumePercent.textContent = `${currentVolume}%`;
+            }
+            if (volumeSlider) {
+                volumeSlider.value = currentVolume;
+            }
+            
+            // Mettre à jour les boutons actifs
+            document.querySelectorAll('.theme-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.theme === currentTheme);
+            });
+        }
+        
+        function loadPreferences() {
+            // Charger le volume sauvegardé
+            const savedVolume = localStorage.getItem('sandcraft_volume');
+            if (savedVolume) {
+                currentVolume = parseInt(savedVolume);
+                if (volumeSlider) {
+                    volumeSlider.value = currentVolume;
+                }
+                if (volumePercent) {
+                    volumePercent.textContent = `${currentVolume}%`;
+                }
+            }
+            
+            // Charger le thème audio sauvegardé
+            const savedAudioTheme = localStorage.getItem('sandcraft_audio_theme');
+            if (savedAudioTheme && youtubeVideos[savedAudioTheme]) {
+                currentTheme = savedAudioTheme;
+                // Mettre à jour l'affichage mais ne pas charger la vidéo tout de suite
+                updateDisplay();
+            }
+        }
+        
+        function showNotification(message) {
+            console.log('Notification:', message);
+            
+            // Supprimer les notifications existantes
+            document.querySelectorAll('.audio-notification').forEach(el => el.remove());
+            
+            // Créer une notification visuelle temporaire
+            const notification = document.createElement('div');
+            notification.className = 'audio-notification';
+            notification.style.cssText = `
+                position: fixed;
+                bottom: 120px;
+                right: 30px;
+                background: rgba(15, 23, 42, 0.95);
+                backdrop-filter: blur(10px);
+                color: white;
+                padding: 12px 20px;
+                border-radius: 12px;
+                border: 2px solid var(--accent-blue);
+                box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+                z-index: 1002;
+                font-size: 0.9rem;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                animation: slideIn 0.3s ease;
+                max-width: 300px;
+            `;
+            
+            notification.innerHTML = `<i class="fas fa-info-circle"></i> ${message}`;
+            document.body.appendChild(notification);
+            
+            // Supprimer après 3 secondes
+            setTimeout(() => {
+                notification.style.animation = 'slideOut 0.3s ease';
+                setTimeout(() => {
+                    if (notification.parentNode) {
+                        notification.parentNode.removeChild(notification);
+                    }
+                }, 300);
+            }, 3000);
+        }
+        
+        // Ajouter l'animation pour la notification
+        if (!document.querySelector('#notification-styles')) {
+            const style = document.createElement('style');
+            style.id = 'notification-styles';
+            style.textContent = `
+                @keyframes slideIn {
+                    from {
+                        transform: translateX(100px);
+                        opacity: 0;
+                    }
+                    to {
+                        transform: translateX(0);
+                        opacity: 1;
+                    }
+                }
+                @keyframes slideOut {
+                    from {
+                        transform: translateX(0);
+                        opacity: 1;
+                    }
+                    to {
+                        transform: translateX(100px);
+                        opacity: 0;
+                    }
+                }
+            `;
+            document.head.appendChild(style);
+        }
+        
+        // Gestion du panneau audio
+        document.getElementById('audioPanel').addEventListener('click', function(e) {
+            e.stopPropagation();
+        });
+        
+        document.addEventListener('click', function(e) {
+            const audioPanel = document.getElementById('audioPanel');
+            const audioToggle = document.getElementById('audioToggle');
+            
+            if (!audioPanel.contains(e.target) && !audioToggle.contains(e.target)) {
+                audioPanel.classList.remove('show');
+            }
+        });
+        
+        // Charger l'API YouTube au démarrage
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOM chargé - initialisation audio');
+            
+            // Vérifier si l'API YouTube est déjà chargée
+            setTimeout(() => {
+                if (window.YT && window.YT.Player) {
+                    console.log('API YouTube déjà disponible au chargement');
+                    isAPILoaded = true;
+                    initYouTubePlayer();
+                } else {
+                    console.log('API YouTube non détectée, chargement...');
+                    loadYouTubeAPI();
+                }
+            }, 1000);
+            
+            // Charger les préférences
+            loadPreferences();
+            
+            // Afficher un message de bienvenue
+            setTimeout(() => {
+                showNotification('🎮 Bienvenue sur Sandcraft !');
+            }, 1500);
+        });
+        
+        // Gestion des autres fonctionnalités existantes...
+        // Menu déroulant, thème clair/sombre, etc. (garder votre code existant)
+        // ... [Votre code existant pour les menus, thèmes, etc.] ...
+        
+        // Copier l'IP
+        function copyIP() {
+            const ip = "91.197.6.34:25582";
+            navigator.clipboard.writeText(ip).then(() => {
+                const btn = document.querySelector('.btn-ip');
+                if (btn) {
+                    const originalHTML = btn.innerHTML;
+                    btn.innerHTML = '<i class="fas fa-check"></i> IP copiée !';
+                    
+                    setTimeout(() => {
+                        btn.innerHTML = originalHTML;
+                    }, 2000);
+                }
+                
+                showNotification('📋 Adresse IP copiée !');
+            }).catch(err => {
+                console.error('Erreur lors de la copie:', err);
+                showNotification('❌ Erreur lors de la copie');
+            });
+            
+            return false;
+        }
+        
+        // Vérifier périodiquement l'état du lecteur
+        setInterval(() => {
+            if (isPlayerReady && player && typeof player.getPlayerState === 'function') {
+                try {
+                    const state = player.getPlayerState();
+                    if (state === YT.PlayerState.PLAYING && !isPlaying) {
+                        console.log('État corrigé: lecture détectée');
+                        isPlaying = true;
+                        updatePlayButton(true);
+                        updateMusicStatus('ON');
+                    } else if (state === YT.PlayerState.PAUSED && isPlaying) {
+                        console.log('État corrigé: pause détectée');
+                        isPlaying = false;
+                        updatePlayButton(false);
+                        updateMusicStatus('OFF');
+                    }
+                } catch (e) {
+                    console.log('Vérification état ignorée');
+                }
+            }
+        }, 3000);
     </script>
 </body>
 </html>
