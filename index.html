@@ -3,9 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mods Minecraft - Catégories</title>
+    <title>Sandcraft - Serveur Minecraft Moddé</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Minecraft&display=swap" rel="stylesheet">
     <style>
+        @font-face {
+            font-family: 'Minecraft';
+            src: url('https://fonts.cdnfonts.com/s/36658/Minecraft.woff') format('woff');
+        }
+        
         * {
             margin: 0;
             padding: 0;
@@ -13,31 +19,294 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: 
+                radial-gradient(circle at 20% 50%, rgba(30, 58, 138, 0.2) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(124, 58, 237, 0.2) 0%, transparent 50%),
+                radial-gradient(circle at 40% 80%, rgba(5, 150, 105, 0.2) 0%, transparent 50%),
+                linear-gradient(135deg, #0f172a 0%, #1a2238 100%);
             color: #e2e8f0;
             min-height: 100vh;
-            padding: 20px;
             overflow-x: hidden;
+            padding-top: 160px;
+            position: relative;
         }
 
-        .container {
-            max-width: 900px;
+        /* Effets de fond Minecraft */
+        .minecraft-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            opacity: 0.4;
+            background-image: 
+                url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%2360a5fa' fill-opacity='0.1' fill-rule='evenodd'/%3E%3C/svg%3E"),
+                url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23a78bfa' fill-opacity='0.08' fill-rule='evenodd'/%3E%3C/svg%3E"),
+                url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%2310b981' fill-opacity='0.06' fill-rule='evenodd'/%3E%3C/svg%3E");
+        }
+
+        /* EN-TÊTE ET NAVIGATION */
+        .main-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(to bottom, 
+                rgba(15, 23, 42, 0.98) 0%,
+                rgba(15, 23, 42, 0.92) 100%);
+            backdrop-filter: blur(20px);
+            border-bottom: 2px solid rgba(96, 165, 250, 0.3);
+            z-index: 1000;
+            padding: 15px 40px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+
+        .header-content {
+            max-width: 1400px;
             margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
-        .header {
-            text-align: center;
-            margin-bottom: 50px;
-            padding-top: 20px;
+        /* LOGO SANDCRAFT STYLISÉ */
+        .server-logo {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            padding: 10px 20px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
         }
 
-        .header h1 {
-            font-size: 2.5rem;
-            background: linear-gradient(90deg, #60a5fa, #a78bfa);
+        .logo-letter {
+            font-family: 'Minecraft', monospace;
+            font-size: 3.2rem;
+            font-weight: bold;
+            text-shadow: 
+                3px 3px 0 #000,
+                6px 6px 0 rgba(0, 0, 0, 0.2);
+            line-height: 1;
+            padding: 0 2px;
+            transition: all 0.3s ease;
+        }
+
+        /* SAN - Technologie/Automatisation */
+        .letter-tech {
+            background: linear-gradient(45deg, #3b82f6, #60a5fa);
             -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: 10px;
+            background-clip: text;
+            color: transparent;
+            text-shadow: 
+                3px 3px 0 #1e40af,
+                6px 6px 0 rgba(30, 64, 175, 0.3);
+            border-bottom: 3px solid #3b82f6;
+        }
+
+        /* DCR - Magie/Sorcellerie */
+        .letter-magic {
+            background: linear-gradient(45deg, #a78bfa, #c4b5fd);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-shadow: 
+                3px 3px 0 #7c3aed,
+                6px 6px 0 rgba(124, 58, 237, 0.3);
+            border-bottom: 3px solid #a78bfa;
+        }
+
+        /* AFT - Agriculture */
+        .letter-agriculture {
+            background: linear-gradient(45deg, #10b981, #34d399);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-shadow: 
+                3px 3px 0 #059669,
+                6px 6px 0 rgba(5, 150, 105, 0.3);
+            border-bottom: 3px solid #10b981;
+        }
+
+        .server-logo:hover .logo-letter {
+            transform: translateY(-3px);
+            text-shadow: 
+                3px 6px 0 #000,
+                8px 12px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        /* MENU DE NAVIGATION */
+        .nav-menu {
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .nav-item {
+            position: relative;
+        }
+
+        .nav-link {
+            color: #cbd5e1;
+            text-decoration: none;
+            font-size: 1.1rem;
+            font-weight: 600;
+            padding: 10px 20px;
+            border-radius: 10px;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(30, 41, 59, 0.5);
+            border: 1px solid rgba(96, 165, 250, 0.2);
+        }
+
+        .nav-link:hover {
+            background: rgba(96, 165, 250, 0.2);
+            color: #ffffff;
+            transform: translateY(-2px);
+            border-color: rgba(96, 165, 250, 0.4);
+        }
+
+        .nav-link.active {
+            background: rgba(96, 165, 250, 0.3);
+            color: #ffffff;
+            border-color: #60a5fa;
+        }
+
+        /* MENU DÉROULANT STYLE MINECRAFT */
+        .dropdown-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            min-width: 220px;
+            background: #2d3748;
+            border: 3px solid #4a5568;
+            border-radius: 0;
+            box-shadow: 
+                0 8px 16px rgba(0, 0, 0, 0.4),
+                inset 0 0 0 2px #1a202c;
+            display: none;
+            z-index: 1001;
+            margin-top: 5px;
+        }
+
+        .dropdown-menu::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: 20px;
+            width: 0;
+            height: 0;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-bottom: 10px solid #4a5568;
+        }
+
+        .dropdown-item {
+            display: block;
+            padding: 12px 20px;
+            color: #cbd5e1;
+            text-decoration: none;
+            font-family: 'Minecraft', monospace;
+            font-size: 1rem;
+            border-bottom: 2px solid #4a5568;
+            background: #2d3748;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .dropdown-item:last-child {
+            border-bottom: none;
+        }
+
+        .dropdown-item:hover {
+            background: #4a5568;
+            color: #ffffff;
+            padding-left: 25px;
+        }
+
+        .dropdown-item::before {
+            content: '■';
+            position: absolute;
+            left: 8px;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            color: #60a5fa;
+        }
+
+        .dropdown-item:hover::before {
+            opacity: 1;
+        }
+
+        /* Styles spécifiques pour chaque catégorie dans le dropdown */
+        .dropdown-item.tech { border-left: 4px solid #3b82f6; }
+        .dropdown-item.magic { border-left: 4px solid #a78bfa; }
+        .dropdown-item.agriculture { border-left: 4px solid #10b981; }
+        .dropdown-item.qol { border-left: 4px solid #f59e0b; }
+
+        .nav-item:hover .dropdown-menu {
+            display: block;
+        }
+
+        /* BOUTON DISCORD ET IP */
+        .server-actions {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .btn-discord {
+            background: linear-gradient(45deg, #5865F2, #7289da);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-discord:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(88, 101, 242, 0.4);
+            background: linear-gradient(45deg, #4752c4, #5b6eae);
+        }
+
+        .btn-ip {
+            background: linear-gradient(45deg, #059669, #10b981);
+            color: white;
+            padding: 10px 25px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            font-family: 'Minecraft', monospace;
+            font-size: 1.1rem;
+        }
+
+        .btn-ip:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(5, 150, 105, 0.4);
+            background: linear-gradient(45deg, #047857, #0da271);
+        }
+
+        /* CONTENU PRINCIPAL */
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 20px;
         }
 
         .categories-stack {
@@ -66,25 +335,37 @@
         /* Technologie - Bleu */
         .category-tech {
             background: linear-gradient(145deg, #1e40af 0%, #3b82f6 100%);
-            border: 1px solid rgba(96, 165, 250, 0.5);
+            border: 3px solid rgba(96, 165, 250, 0.5);
+            box-shadow: 
+                0 15px 35px rgba(30, 64, 175, 0.4),
+                inset 0 0 20px rgba(96, 165, 250, 0.2);
         }
 
         /* Magie - Violet */
         .category-magic {
             background: linear-gradient(145deg, #7c3aed 0%, #a78bfa 100%);
-            border: 1px solid rgba(167, 139, 250, 0.5);
+            border: 3px solid rgba(167, 139, 250, 0.5);
+            box-shadow: 
+                0 15px 35px rgba(124, 58, 237, 0.4),
+                inset 0 0 20px rgba(167, 139, 250, 0.2);
         }
 
         /* Agriculture - Vert */
         .category-agriculture {
             background: linear-gradient(145deg, #059669 0%, #10b981 100%);
-            border: 1px solid rgba(16, 185, 129, 0.5);
+            border: 3px solid rgba(16, 185, 129, 0.5);
+            box-shadow: 
+                0 15px 35px rgba(5, 150, 105, 0.4),
+                inset 0 0 20px rgba(16, 185, 129, 0.2);
         }
 
         /* Qualité de vie - Orange */
         .category-qol {
             background: linear-gradient(145deg, #d97706 0%, #f59e0b 100%);
-            border: 1px solid rgba(245, 158, 11, 0.5);
+            border: 3px solid rgba(245, 158, 11, 0.5);
+            box-shadow: 
+                0 15px 35px rgba(217, 119, 6, 0.4),
+                inset 0 0 20px rgba(245, 158, 11, 0.2);
         }
 
         .category-header {
@@ -104,6 +385,7 @@
             font-weight: 700;
             margin-bottom: 10px;
             letter-spacing: 0.5px;
+            font-family: 'Minecraft', monospace;
         }
 
         .category-subtitle {
@@ -145,6 +427,7 @@
         .mod-name {
             font-size: 1.3rem;
             font-weight: 600;
+            font-family: 'Minecraft', monospace;
         }
 
         .mod-version {
@@ -208,63 +491,162 @@
             margin-top: 50px;
             padding: 30px;
             color: #94a3b8;
-            border-top: 1px solid rgba(100, 116, 139, 0.3);
+            border-top: 2px solid rgba(96, 165, 250, 0.2);
             font-size: 0.9rem;
+            font-family: 'Minecraft', monospace;
+            background: rgba(15, 23, 42, 0.7);
+            border-radius: 15px;
+            margin-bottom: 30px;
         }
 
-        .logo {
-            font-size: 2rem;
-            font-weight: bold;
-            background: linear-gradient(90deg, #60a5fa, #a78bfa);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: 10px;
+        /* RESPONSIVE */
+        @media (max-width: 1024px) {
+            .header-content {
+                flex-direction: column;
+                gap: 20px;
+            }
+            
+            .nav-menu {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            
+            .server-actions {
+                margin-top: 10px;
+            }
+            
+            body {
+                padding-top: 200px;
+            }
         }
 
-        .scroll-indicator {
-            position: fixed;
-            right: 30px;
-            top: 50%;
-            transform: translateY(-50%);
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            z-index: 100;
+        @media (max-width: 768px) {
+            .main-header {
+                padding: 15px 20px;
+            }
+            
+            .logo-letter {
+                font-size: 2.5rem;
+            }
+            
+            .nav-link {
+                padding: 8px 15px;
+                font-size: 1rem;
+            }
+            
+            .btn-discord, .btn-ip {
+                padding: 8px 15px;
+                font-size: 0.9rem;
+            }
+            
+            body {
+                padding-top: 220px;
+            }
         }
 
-        .scroll-dot {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-            background: rgba(255, 255, 255, 0.2);
-            border: 2px solid transparent;
-            transition: all 0.3s ease;
-            cursor: pointer;
+        /* ANIMATIONS */
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
         }
 
-        .scroll-dot.active {
-            background: #60a5fa;
-            border-color: white;
-            transform: scale(1.3);
+        .logo-letter:nth-child(1) { animation-delay: 0s; }
+        .logo-letter:nth-child(2) { animation-delay: 0.1s; }
+        .logo-letter:nth-child(3) { animation-delay: 0.2s; }
+        .logo-letter:nth-child(4) { animation-delay: 0.3s; }
+        .logo-letter:nth-child(5) { animation-delay: 0.4s; }
+        .logo-letter:nth-child(6) { animation-delay: 0.5s; }
+        .logo-letter:nth-child(7) { animation-delay: 0.6s; }
+        .logo-letter:nth-child(8) { animation-delay: 0.7s; }
+        .logo-letter:nth-child(9) { animation-delay: 0.8s; }
+
+        .server-logo:hover .logo-letter {
+            animation: float 1s ease-in-out;
         }
     </style>
 </head>
 <body>
-    <div class="scroll-indicator">
-        <div class="scroll-dot active" data-category="tech"></div>
-        <div class="scroll-dot" data-category="magic"></div>
-        <div class="scroll-dot" data-category="agriculture"></div>
-        <div class="scroll-dot" data-category="qol"></div>
-    </div>
+    <div class="minecraft-bg"></div>
+    
+    <!-- EN-TÊTE -->
+    <header class="main-header">
+        <div class="header-content">
+            <!-- LOGO SANDCRAFT -->
+            <div class="server-logo">
+                <!-- SAN - Technologie -->
+                <span class="logo-letter letter-tech">S</span>
+                <span class="logo-letter letter-tech">A</span>
+                <span class="logo-letter letter-tech">N</span>
+                
+                <!-- DCR - Magie -->
+                <span class="logo-letter letter-magic">D</span>
+                <span class="logo-letter letter-magic">C</span>
+                <span class="logo-letter letter-magic">R</span>
+                
+                <!-- AFT - Agriculture -->
+                <span class="logo-letter letter-agriculture">A</span>
+                <span class="logo-letter letter-agriculture">F</span>
+                <span class="logo-letter letter-agriculture">T</span>
+            </div>
 
-    <div class="container">
-        <div class="header">
-            <div class="logo">MODPACK+</div>
-            <h1>Bibliothèque de Mods Minecraft</h1>
-            <p>Explorez les mods par catégorie</p>
+            <!-- MENU DE NAVIGATION -->
+            <nav class="nav-menu">
+                <div class="nav-item">
+                    <a href="#" class="nav-link active">
+                        <i class="fas fa-home"></i> Accueil
+                    </a>
+                </div>
+                
+                <div class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="fas fa-box-open"></i> Mods
+                    </a>
+                    <!-- MENU DÉROULANT STYLE MINECRAFT -->
+                    <div class="dropdown-menu">
+                        <a href="#tech" class="dropdown-item tech">
+                            <i class="fas fa-robot"></i> Technologie & Automatisation
+                        </a>
+                        <a href="#magic" class="dropdown-item magic">
+                            <i class="fas fa-hat-wizard"></i> Magie & Sorcellerie
+                        </a>
+                        <a href="#agriculture" class="dropdown-item agriculture">
+                            <i class="fas fa-seedling"></i> Agriculture
+                        </a>
+                        <a href="#qol" class="dropdown-item qol">
+                            <i class="fas fa-heart"></i> Qualité de Vie
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="fas fa-users"></i> Communauté
+                    </a>
+                </div>
+                
+                <div class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="fas fa-info-circle"></i> À Propos
+                    </a>
+                </div>
+            </nav>
+
+            <!-- ACTIONS SERVEUR -->
+            <div class="server-actions">
+                <a href="https://discord.gg/example" target="_blank" class="btn-discord">
+                    <i class="fab fa-discord"></i> Discord
+                </a>
+                <a href="#" class="btn-ip" onclick="copyIP()">
+                    <i class="fas fa-server"></i> play.sandcraft.fr
+                </a>
+            </div>
         </div>
+    </header>
 
+    <!-- CONTENU PRINCIPAL -->
+    <div class="container">
         <div class="categories-stack">
+            <!-- Les catégories restent exactement comme avant -->
             <!-- TECHNOLOGIE & AUTOMATISATION -->
             <div class="category-bubble category-tech" id="tech">
                 <div class="category-header">
@@ -543,24 +925,49 @@
         </div>
 
         <div class="footer">
-            <p>© 2024 ModPack+ - Tous droits réservés</p>
-            <p>Version 1.0.0 | Compatible Minecraft 1.19.2+</p>
+            <p>© 2024 Sandcraft - Tous droits réservés</p>
+            <p>Version 1.0.0 | Minecraft 1.19.2 | play.sandcraft.fr</p>
         </div>
     </div>
 
     <script>
-        // Animation des bulles
-        document.querySelectorAll('.category-bubble').forEach(bubble => {
-            bubble.addEventListener('mouseenter', function() {
-                this.style.transform = 'translateY(-5px)';
+        // Copier l'IP du serveur
+        function copyIP() {
+            const ip = "play.sandcraft.fr";
+            navigator.clipboard.writeText(ip).then(() => {
+                const btn = document.querySelector('.btn-ip');
+                const originalHTML = btn.innerHTML;
+                btn.innerHTML = '<i class="fas fa-check"></i> IP copiée !';
+                btn.style.background = 'linear-gradient(45deg, #059669, #10b981)';
+                
+                setTimeout(() => {
+                    btn.innerHTML = originalHTML;
+                    btn.style.background = 'linear-gradient(45deg, #059669, #10b981)';
+                }, 2000);
             });
             
-            bubble.addEventListener('mouseleave', function() {
-                this.style.transform = 'translateY(0)';
+            return false;
+        }
+
+        // Navigation fluide vers les catégories
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                if (this.getAttribute('href') === '#') return;
+                
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1);
+                const targetElement = document.getElementById(targetId);
+                
+                if (targetElement) {
+                    window.scrollTo({
+                        top: targetElement.offsetTop - 100,
+                        behavior: 'smooth'
+                    });
+                }
             });
         });
 
-        // Animation au chargement avec délai
+        // Animation au chargement
         document.addEventListener('DOMContentLoaded', () => {
             const bubbles = document.querySelectorAll('.category-bubble');
             bubbles.forEach((bubble, index) => {
@@ -573,42 +980,48 @@
                     bubble.style.transform = 'translateY(0)';
                 }, index * 300);
             });
+            
+            // Animation des lettres
+            const letters = document.querySelectorAll('.logo-letter');
+            letters.forEach((letter, index) => {
+                letter.style.opacity = '0';
+                letter.style.transform = 'translateY(20px)';
+                
+                setTimeout(() => {
+                    letter.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+                    letter.style.opacity = '1';
+                    letter.style.transform = 'translateY(0)';
+                }, index * 100);
+            });
         });
 
-        // Navigation par indicateurs de défilement
-        const dots = document.querySelectorAll('.scroll-dot');
-        const categories = document.querySelectorAll('.category-bubble');
+        // Highlight de la catégorie active au scroll
+        const observerOptions = {
+            root: null,
+            rootMargin: '-50px 0px -50% 0px',
+            threshold: 0
+        };
 
-        function updateScrollIndicator() {
-            const scrollPosition = window.scrollY + window.innerHeight / 3;
-            
-            categories.forEach((category, index) => {
-                const top = category.offsetTop;
-                const height = category.offsetHeight;
-                
-                if (scrollPosition >= top && scrollPosition < top + height) {
-                    dots.forEach(dot => dot.classList.remove('active'));
-                    dots[index].classList.add('active');
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const id = entry.target.id;
+                    const dropdownItems = document.querySelectorAll('.dropdown-item');
+                    
+                    dropdownItems.forEach(item => {
+                        item.classList.remove('active');
+                        if (item.getAttribute('href') === `#${id}`) {
+                            item.classList.add('active');
+                        }
+                    });
                 }
             });
-        }
+        }, observerOptions);
 
-        // Cliquer sur un dot pour scroll vers la catégorie
-        dots.forEach((dot, index) => {
-            dot.addEventListener('click', () => {
-                const category = categories[index];
-                window.scrollTo({
-                    top: category.offsetTop - 50,
-                    behavior: 'smooth'
-                });
-            });
+        // Observer chaque catégorie
+        document.querySelectorAll('.category-bubble').forEach(category => {
+            observer.observe(category);
         });
-
-        window.addEventListener('scroll', updateScrollIndicator);
-        window.addEventListener('resize', updateScrollIndicator);
-
-        // Initialiser
-        setTimeout(updateScrollIndicator, 100);
     </script>
 </body>
 </html>
