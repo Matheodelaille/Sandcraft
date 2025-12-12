@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mods Minecraft - Catégories</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
             margin: 0;
@@ -20,7 +21,7 @@
         }
 
         .container {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
         }
 
@@ -38,98 +39,112 @@
             margin-bottom: 10px;
         }
 
-        .header p {
-            color: #94a3b8;
-            font-size: 1.1rem;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-
         .categories-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+            grid-template-columns: repeat(2, 1fr);
             gap: 30px;
             margin-bottom: 50px;
         }
 
-        @media (max-width: 1300px) {
+        @media (max-width: 900px) {
             .categories-grid {
                 grid-template-columns: 1fr;
             }
         }
 
-        .category-card {
-            background: rgba(30, 41, 59, 0.8);
-            border-radius: 20px;
-            padding: 30px;
-            border: 1px solid rgba(100, 116, 139, 0.3);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            backdrop-filter: blur(10px);
+        .category-bubble {
+            border-radius: 25px;
+            overflow: hidden;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+            transition: transform 0.3s ease;
+            height: 550px;
+            display: flex;
+            flex-direction: column;
         }
 
-        .category-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+        .category-bubble:hover {
+            transform: translateY(-10px);
+        }
+
+        /* Technologie - Bleu */
+        .category-tech {
+            background: linear-gradient(145deg, #1e40af 0%, #3b82f6 100%);
+            border: 1px solid rgba(96, 165, 250, 0.5);
+        }
+
+        /* Magie - Violet */
+        .category-magic {
+            background: linear-gradient(145deg, #7c3aed 0%, #a78bfa 100%);
+            border: 1px solid rgba(167, 139, 250, 0.5);
+        }
+
+        /* Agriculture - Vert */
+        .category-agriculture {
+            background: linear-gradient(145deg, #059669 0%, #10b981 100%);
+            border: 1px solid rgba(16, 185, 129, 0.5);
+        }
+
+        /* Qualité de vie - Orange */
+        .category-qol {
+            background: linear-gradient(145deg, #d97706 0%, #f59e0b 100%);
+            border: 1px solid rgba(245, 158, 11, 0.5);
         }
 
         .category-header {
-            margin-bottom: 30px;
+            padding: 35px 35px 20px;
             text-align: center;
+            position: relative;
         }
 
-        .category-header h2 {
+        .category-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+
+        .category-title {
             font-size: 1.8rem;
-            background: linear-gradient(90deg, #60a5fa, #a78bfa);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            font-weight: 700;
             margin-bottom: 10px;
             letter-spacing: 0.5px;
         }
 
         .category-subtitle {
-            color: #94a3b8;
             font-size: 1rem;
+            opacity: 0.9;
             line-height: 1.5;
-            max-width: 500px;
-            margin: 0 auto;
         }
 
-        .mods-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
+        .category-content {
+            padding: 0 35px 20px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
         }
 
-        .mod-card {
-            background: rgba(15, 23, 42, 0.7);
+        .mod-item {
+            background: rgba(255, 255, 255, 0.1);
             border-radius: 15px;
-            padding: 25px;
-            border: 1px solid rgba(100, 116, 139, 0.2);
-            transition: all 0.3s ease;
-        }
-
-        .mod-card:hover {
-            background: rgba(15, 23, 42, 0.9);
-            border-color: rgba(96, 165, 250, 0.4);
+            padding: 20px;
+            margin-bottom: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
         }
 
         .mod-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
         }
 
-        .mod-header h3 {
-            font-size: 1.4rem;
-            color: #60a5fa;
+        .mod-name {
+            font-size: 1.3rem;
             font-weight: 600;
         }
 
         .mod-version {
-            background: rgba(96, 165, 250, 0.2);
-            color: #93c5fd;
+            background: rgba(255, 255, 255, 0.2);
             padding: 4px 12px;
             border-radius: 12px;
             font-size: 0.85rem;
@@ -137,65 +152,50 @@
         }
 
         .mod-description {
-            color: #cbd5e1;
-            line-height: 1.6;
-            margin-bottom: 20px;
             font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 15px;
+            opacity: 0.9;
         }
 
         .mod-stats {
-            list-style: none;
             display: flex;
-            gap: 15px;
+            gap: 10px;
             flex-wrap: wrap;
         }
 
-        .mod-stats li {
-            background: rgba(96, 165, 250, 0.1);
-            padding: 8px 16px;
+        .stat {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 6px 14px;
             border-radius: 10px;
             font-size: 0.9rem;
-            color: #93c5fd;
-            border: 1px solid rgba(96, 165, 250, 0.2);
         }
 
-        .view-all-button {
-            display: block;
-            width: 100%;
-            background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+        .category-footer {
+            padding: 25px 35px 35px;
+            text-align: center;
+        }
+
+        .view-all-btn {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
             color: white;
-            border: none;
-            padding: 16px;
-            border-radius: 12px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            padding: 14px 30px;
+            border-radius: 50px;
             font-size: 1.1rem;
             font-weight: 600;
-            text-align: center;
             text-decoration: none;
-            margin-top: 30px;
             transition: all 0.3s ease;
             cursor: pointer;
+            letter-spacing: 0.5px;
+            backdrop-filter: blur(10px);
         }
 
-        .view-all-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(59, 130, 246, 0.3);
-            background: linear-gradient(90deg, #2563eb, #7c3aed);
-        }
-
-        .view-all-button.tech {
-            background: linear-gradient(90deg, #3b82f6, #8b5cf6);
-        }
-
-        .view-all-button.magic {
-            background: linear-gradient(90deg, #8b5cf6, #ec4899);
-        }
-
-        .view-all-button.agriculture {
-            background: linear-gradient(90deg, #10b981, #059669);
-        }
-
-        .view-all-button.qol {
-            background: linear-gradient(90deg, #f59e0b, #d97706);
+        .view-all-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
         }
 
         .footer {
@@ -222,164 +222,184 @@
         <div class="header">
             <div class="logo">MODPACK+</div>
             <h1>Bibliothèque de Mods Minecraft</h1>
-            <p>Découvrez et gérez vos mods préférés par catégorie</p>
+            <p>Explorez les mods par catégorie</p>
         </div>
 
         <div class="categories-grid">
             <!-- TECHNOLOGIE & AUTOMATISATION -->
-            <div class="category-card">
+            <div class="category-bubble category-tech">
                 <div class="category-header">
-                    <h2>TECHNOLOGIE & AUTOMATISATION</h2>
+                    <div class="category-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <h2 class="category-title">TECHNOLOGIE & AUTOMATISATION</h2>
                     <p class="category-subtitle">Systèmes automatisés, énergie et machines industrielles. 68 mods interconnectés.</p>
                 </div>
 
-                <div class="mods-container">
-                    <div class="mod-card">
+                <div class="category-content">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>CRÉATE</h3>
-                            <span class="mod-version">V0.5.1</span>
+                            <div class="mod-name">CRÉATE</div>
+                            <div class="mod-version">V0.5.1</div>
                         </div>
                         <p class="mod-description">Automatisation créative et mécaniques avancées. Construisez des usines cinétiques et des systèmes mécaniques complexes.</p>
-                        <ul class="mod-stats">
-                            <li><strong>589+ items</strong></li>
-                            <li><strong>128 mécaniques</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">589+ items</div>
+                            <div class="stat">128 mécaniques</div>
+                        </div>
                     </div>
 
-                    <div class="mod-card">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>APPLIED ENERGISTICS 2</h3>
-                            <span class="mod-version">V10.0.0</span>
+                            <div class="mod-name">APPLIED ENERGISTICS 2</div>
+                            <div class="mod-version">V10.0.0</div>
                         </div>
                         <p class="mod-description">Système de stockage numérique avancé. Automatisez le crafting et gérez des milliers d'items avec une interface moderne.</p>
-                        <ul class="mod-stats">
-                            <li><strong>Stockage numérique</strong></li>
-                            <li><strong>Automation</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">Stockage numérique</div>
+                            <div class="stat">Automation</div>
+                        </div>
                     </div>
 
-                    <div class="mod-card">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>THERMAL SERIES</h3>
-                            <span class="mod-version">V0.1.0</span>
+                            <div class="mod-name">THERMAL SERIES</div>
+                            <div class="mod-version">V0.1.0</div>
                         </div>
                         <p class="mod-description">Énergie RF et machines dynamiques. Traitement de ressources, génération d'énergie et systèmes modulaires.</p>
-                        <ul class="mod-stats">
-                            <li><strong>588+ items</strong></li>
-                            <li><strong>8 types machines</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">588+ items</div>
+                            <div class="stat">8 types machines</div>
+                        </div>
                     </div>
                 </div>
 
-                <button class="view-all-button tech">VOIR LES 68 MODS TECHNOLOGIE COMPLETS</button>
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 68 MODS TECHNOLOGIE COMPLETS</a>
+                </div>
             </div>
 
             <!-- MAGIE & SORCELLERIE -->
-            <div class="category-card">
+            <div class="category-bubble category-magic">
                 <div class="category-header">
-                    <h2>MAGIE & SORCELLERIE</h2>
+                    <div class="category-icon">
+                        <i class="fas fa-hat-wizard"></i>
+                    </div>
+                    <h2 class="category-title">MAGIE & SORCELLERIE</h2>
                     <p class="category-subtitle">Sorts, rituels et systèmes mystiques. 42 mods enchantés.</p>
                 </div>
 
-                <div class="mods-container">
-                    <div class="mod-card">
+                <div class="category-content">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>ARS NOUVEAU</h3>
-                            <span class="mod-version">V3.2.0</span>
+                            <div class="mod-name">ARS NOUVEAU</div>
+                            <div class="mod-version">V3.2.0</div>
                         </div>
                         <p class="mod-description">Magie moderne avec sorts personnalisables. Créez vos propres sorts et maîtrisez les arts mystiques.</p>
-                        <ul class="mod-stats">
-                            <li><strong>158+ sorts</strong></li>
-                            <li><strong>12 runes</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">158+ sorts</div>
+                            <div class="stat">12 runes</div>
+                        </div>
                     </div>
 
-                    <div class="mod-card">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>BOTANIA</h3>
-                            <span class="mod-version">V1.19.2</span>
+                            <div class="mod-name">BOTANIA</div>
+                            <div class="mod-version">V1.19.2</div>
                         </div>
                         <p class="mod-description">Magie naturelle basée sur les plantes. Générez du mana et utilisez des fleurs magiques fonctionnelles.</p>
-                        <ul class="mod-stats">
-                            <li><strong>308+ items</strong></li>
-                            <li><strong>58+ fleurs</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">308+ items</div>
+                            <div class="stat">58+ fleurs</div>
+                        </div>
                     </div>
                 </div>
 
-                <button class="view-all-button magic">VOIR LES 42 MODS MAGIE COMPLETS</button>
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 42 MODS MAGIE COMPLETS</a>
+                </div>
             </div>
 
             <!-- AGRICULTURE -->
-            <div class="category-card">
+            <div class="category-bubble category-agriculture">
                 <div class="category-header">
-                    <h2>AGRICULTURE</h2>
+                    <div class="category-icon">
+                        <i class="fas fa-seedling"></i>
+                    </div>
+                    <h2 class="category-title">AGRICULTURE</h2>
                     <p class="category-subtitle">Fermes automatisées, cultures et élevage. 35 mods de culture.</p>
                 </div>
 
-                <div class="mods-container">
-                    <div class="mod-card">
+                <div class="category-content">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>FARMING VALLEY</h3>
-                            <span class="mod-version">V2.5.0</span>
+                            <div class="mod-name">FARMING VALLEY</div>
+                            <div class="mod-version">V2.5.0</div>
                         </div>
                         <p class="mod-description">Expérience agricole complète avec saisons, marché et progression. Gérez votre propre ferme.</p>
-                        <ul class="mod-stats">
-                            <li><strong>245+ items</strong></li>
-                            <li><strong>12 cultures</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">245+ items</div>
+                            <div class="stat">12 cultures</div>
+                        </div>
                     </div>
 
-                    <div class="mod-card">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>HARVEST CRAFT</h3>
-                            <span class="mod-version">V4.0.8</span>
+                            <div class="mod-name">HARVEST CRAFT</div>
+                            <div class="mod-version">V4.0.8</div>
                         </div>
                         <p class="mod-description">Système agricole étendu avec cuisine et recettes. Cultivez et cuisinez des centaines d'aliments.</p>
-                        <ul class="mod-stats">
-                            <li><strong>850+ items</strong></li>
-                            <li><strong>75+ recettes</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">850+ items</div>
+                            <div class="stat">75+ recettes</div>
+                        </div>
                     </div>
                 </div>
 
-                <button class="view-all-button agriculture">VOIR LES 35 MODS AGRICULTURE COMPLETS</button>
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 35 MODS AGRICULTURE COMPLETS</a>
+                </div>
             </div>
 
             <!-- QUALITÉ DE VIE -->
-            <div class="category-card">
+            <div class="category-bubble category-qol">
                 <div class="category-header">
-                    <h2>QUALITÉ DE VIE</h2>
+                    <div class="category-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h2 class="category-title">QUALITÉ DE VIE</h2>
                     <p class="category-subtitle">Améliorations d'interface, optimisation et confort de jeu. 52 mods pratiques.</p>
                 </div>
 
-                <div class="mods-container">
-                    <div class="mod-card">
+                <div class="category-content">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>JOURNEYMAP</h3>
-                            <span class="mod-version">V5.9.7</span>
+                            <div class="mod-name">JOURNEYMAP</div>
+                            <div class="mod-version">V5.9.7</div>
                         </div>
                         <p class="mod-description">Cartographie en temps réel avec repérage de points d'intérêt et navigation GPS intégrée.</p>
-                        <ul class="mod-stats">
-                            <li><strong>Carte temps réel</strong></li>
-                            <li><strong>Waypoints</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">Carte temps réel</div>
+                            <div class="stat">Waypoints</div>
+                        </div>
                     </div>
 
-                    <div class="mod-card">
+                    <div class="mod-item">
                         <div class="mod-header">
-                            <h3>JEI</h3>
-                            <span class="mod-version">V12.2.0</span>
+                            <div class="mod-name">JEI</div>
+                            <div class="mod-version">V12.2.0</div>
                         </div>
                         <p class="mod-description">Encyclopédie des recettes et des items. Recherchez et visualisez toutes les recettes du jeu.</p>
-                        <ul class="mod-stats">
-                            <li><strong>100% recettes</strong></li>
-                            <li><strong>Recherche</strong></li>
-                        </ul>
+                        <div class="mod-stats">
+                            <div class="stat">100% recettes</div>
+                            <div class="stat">Recherche</div>
+                        </div>
                     </div>
                 </div>
 
-                <button class="view-all-button qol">VOIR LES 52 MODS QdV COMPLETS</button>
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 52 MODS QdV COMPLETS</a>
+                </div>
             </div>
         </div>
 
@@ -390,27 +410,29 @@
     </div>
 
     <script>
-        // Animation des boutons
-        document.querySelectorAll('.view-all-button').forEach(button => {
-            button.addEventListener('click', function() {
-                const category = this.textContent.match(/\d+/)[0];
-                const type = this.textContent.match(/TECHNOLOGIE|MAGIE|AGRICULTURE|QdV/)[0];
-                alert(`Redirection vers les ${category} mods ${type}...`);
+        // Animation des bulles
+        document.querySelectorAll('.category-bubble').forEach(bubble => {
+            bubble.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateY(-10px) scale(1.02)';
+            });
+            
+            bubble.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateY(0) scale(1)';
             });
         });
 
-        // Animation des cartes au chargement
+        // Animation au chargement
         document.addEventListener('DOMContentLoaded', () => {
-            const cards = document.querySelectorAll('.category-card');
-            cards.forEach((card, index) => {
-                card.style.opacity = '0';
-                card.style.transform = 'translateY(20px)';
+            const bubbles = document.querySelectorAll('.category-bubble');
+            bubbles.forEach((bubble, index) => {
+                bubble.style.opacity = '0';
+                bubble.style.transform = 'translateY(30px)';
                 
                 setTimeout(() => {
-                    card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
-                    card.style.opacity = '1';
-                    card.style.transform = 'translateY(0)';
-                }, index * 100);
+                    bubble.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                    bubble.style.opacity = '1';
+                    bubble.style.transform = 'translateY(0)';
+                }, index * 150);
             });
         });
     </script>
