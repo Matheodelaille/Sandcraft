@@ -18,10 +18,11 @@
             color: #e2e8f0;
             min-height: 100vh;
             padding: 20px;
+            overflow-x: hidden;
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 900px;
             margin: 0 auto;
         }
 
@@ -39,31 +40,27 @@
             margin-bottom: 10px;
         }
 
-        .categories-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 30px;
+        .categories-stack {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
             margin-bottom: 50px;
-        }
-
-        @media (max-width: 900px) {
-            .categories-grid {
-                grid-template-columns: 1fr;
-            }
         }
 
         .category-bubble {
             border-radius: 25px;
             overflow: hidden;
             box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
-            transition: transform 0.3s ease;
-            height: 550px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            min-height: 550px;
             display: flex;
             flex-direction: column;
+            position: relative;
         }
 
         .category-bubble:hover {
-            transform: translateY(-10px);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
         }
 
         /* Technologie - Bleu */
@@ -113,6 +110,8 @@
             font-size: 1rem;
             opacity: 0.9;
             line-height: 1.5;
+            max-width: 700px;
+            margin: 0 auto;
         }
 
         .category-content {
@@ -120,15 +119,20 @@
             flex-grow: 1;
             display: flex;
             flex-direction: column;
+            gap: 15px;
         }
 
         .mod-item {
             background: rgba(255, 255, 255, 0.1);
             border-radius: 15px;
             padding: 20px;
-            margin-bottom: 20px;
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.15);
+            transition: transform 0.2s ease;
+        }
+
+        .mod-item:hover {
+            transform: translateX(5px);
         }
 
         .mod-header {
@@ -174,6 +178,7 @@
         .category-footer {
             padding: 25px 35px 35px;
             text-align: center;
+            margin-top: auto;
         }
 
         .view-all-btn {
@@ -215,9 +220,43 @@
             -webkit-text-fill-color: transparent;
             margin-bottom: 10px;
         }
+
+        .scroll-indicator {
+            position: fixed;
+            right: 30px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            z-index: 100;
+        }
+
+        .scroll-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid transparent;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .scroll-dot.active {
+            background: #60a5fa;
+            border-color: white;
+            transform: scale(1.3);
+        }
     </style>
 </head>
 <body>
+    <div class="scroll-indicator">
+        <div class="scroll-dot active" data-category="tech"></div>
+        <div class="scroll-dot" data-category="magic"></div>
+        <div class="scroll-dot" data-category="agriculture"></div>
+        <div class="scroll-dot" data-category="qol"></div>
+    </div>
+
     <div class="container">
         <div class="header">
             <div class="logo">MODPACK+</div>
@@ -225,15 +264,15 @@
             <p>Explorez les mods par catégorie</p>
         </div>
 
-        <div class="categories-grid">
+        <div class="categories-stack">
             <!-- TECHNOLOGIE & AUTOMATISATION -->
-            <div class="category-bubble category-tech">
+            <div class="category-bubble category-tech" id="tech">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-robot"></i>
                     </div>
                     <h2 class="category-title">TECHNOLOGIE & AUTOMATISATION</h2>
-                    <p class="category-subtitle">Systèmes automatisés, énergie et machines industrielles. 68 mods interconnectés.</p>
+                    <p class="category-subtitle">Systèmes automatisés, énergie et machines industrielles. 68 mods interconnectés pour automatiser votre monde.</p>
                 </div>
 
                 <div class="category-content">
@@ -242,10 +281,11 @@
                             <div class="mod-name">CRÉATE</div>
                             <div class="mod-version">V0.5.1</div>
                         </div>
-                        <p class="mod-description">Automatisation créative et mécaniques avancées. Construisez des usines cinétiques et des systèmes mécaniques complexes.</p>
+                        <p class="mod-description">Automatisation créative et mécaniques avancées. Construisez des usines cinétiques et des systèmes mécaniques complexes avec des engrenages, courroies et moteurs.</p>
                         <div class="mod-stats">
                             <div class="stat">589+ items</div>
                             <div class="stat">128 mécaniques</div>
+                            <div class="stat">28 schémas</div>
                         </div>
                     </div>
 
@@ -254,10 +294,11 @@
                             <div class="mod-name">APPLIED ENERGISTICS 2</div>
                             <div class="mod-version">V10.0.0</div>
                         </div>
-                        <p class="mod-description">Système de stockage numérique avancé. Automatisez le crafting et gérez des milliers d'items avec une interface moderne.</p>
+                        <p class="mod-description">Système de stockage numérique avancé. Automatisez le crafting et gérez des millions d'items avec une interface moderne et des réseaux intelligents.</p>
                         <div class="mod-stats">
                             <div class="stat">Stockage numérique</div>
-                            <div class="stat">Automation</div>
+                            <div class="stat">Crafting automatique</div>
+                            <div class="stat">Réseaux ME</div>
                         </div>
                     </div>
 
@@ -266,10 +307,24 @@
                             <div class="mod-name">THERMAL SERIES</div>
                             <div class="mod-version">V0.1.0</div>
                         </div>
-                        <p class="mod-description">Énergie RF et machines dynamiques. Traitement de ressources, génération d'énergie et systèmes modulaires.</p>
+                        <p class="mod-description">Énergie RF et machines dynamiques. Traitement de ressources, génération d'énergie et systèmes modulaires extensibles.</p>
                         <div class="mod-stats">
                             <div class="stat">588+ items</div>
                             <div class="stat">8 types machines</div>
+                            <div class="stat">Énergie RF</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">INDUSTRIAL FOREGOING</div>
+                            <div class="mod-version">V3.3.1</div>
+                        </div>
+                        <p class="mod-description">Automatisation industrielle avancée avec farm mobs, minage laser et traitement de ressources à grande échelle.</p>
+                        <div class="mod-stats">
+                            <div class="stat">45 machines</div>
+                            <div class="stat">Farm automatique</div>
+                            <div class="stat">Production massive</div>
                         </div>
                     </div>
                 </div>
@@ -280,13 +335,13 @@
             </div>
 
             <!-- MAGIE & SORCELLERIE -->
-            <div class="category-bubble category-magic">
+            <div class="category-bubble category-magic" id="magic">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-hat-wizard"></i>
                     </div>
                     <h2 class="category-title">MAGIE & SORCELLERIE</h2>
-                    <p class="category-subtitle">Sorts, rituels et systèmes mystiques. 42 mods enchantés.</p>
+                    <p class="category-subtitle">Sorts, rituels et systèmes mystiques. 42 mods enchantés pour maîtriser les forces magiques de l'univers.</p>
                 </div>
 
                 <div class="category-content">
@@ -295,10 +350,11 @@
                             <div class="mod-name">ARS NOUVEAU</div>
                             <div class="mod-version">V3.2.0</div>
                         </div>
-                        <p class="mod-description">Magie moderne avec sorts personnalisables. Créez vos propres sorts et maîtrisez les arts mystiques.</p>
+                        <p class="mod-description">Magie moderne avec sorts personnalisables. Créez vos propres sorts et maîtrisez les arts mystiques avec un système de glyphes évolutif.</p>
                         <div class="mod-stats">
                             <div class="stat">158+ sorts</div>
                             <div class="stat">12 runes</div>
+                            <div class="stat">35 glyphes</div>
                         </div>
                     </div>
 
@@ -307,10 +363,37 @@
                             <div class="mod-name">BOTANIA</div>
                             <div class="mod-version">V1.19.2</div>
                         </div>
-                        <p class="mod-description">Magie naturelle basée sur les plantes. Générez du mana et utilisez des fleurs magiques fonctionnelles.</p>
+                        <p class="mod-description">Magie naturelle basée sur les plantes. Générez du mana et utilisez des fleurs magiques fonctionnelles pour automatiser vos processus.</p>
                         <div class="mod-stats">
                             <div class="stat">308+ items</div>
                             <div class="stat">58+ fleurs</div>
+                            <div class="stat">16 reliques</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">THAUMCRAFT</div>
+                            <div class="mod-version">V6.1.BETA26</div>
+                        </div>
+                        <p class="mod-description">Magie d'érudition et de recherche. Étudiez les aspects magiques du monde et maîtrisez les flux d'essence pour créer des artefacts puissants.</p>
+                        <div class="mod-stats">
+                            <div class="stat">245+ recherches</div>
+                            <div class="stat">72 aspects</div>
+                            <div class="stat">18 artefacts</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">BLOOD MAGIC</div>
+                            <div class="mod-version">V3.2.0</div>
+                        </div>
+                        <p class="mod-description">Magie sanguine et rituels anciens. Utilisez votre essence vitale pour invoquer des démons et créer des artefacts de puissance.</p>
+                        <div class="mod-stats">
+                            <div class="stat">18 rituels</div>
+                            <div class="stat">45 alchimies</div>
+                            <div class="stat">9 démons</div>
                         </div>
                     </div>
                 </div>
@@ -321,13 +404,13 @@
             </div>
 
             <!-- AGRICULTURE -->
-            <div class="category-bubble category-agriculture">
+            <div class="category-bubble category-agriculture" id="agriculture">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-seedling"></i>
                     </div>
                     <h2 class="category-title">AGRICULTURE</h2>
-                    <p class="category-subtitle">Fermes automatisées, cultures et élevage. 35 mods de culture.</p>
+                    <p class="category-subtitle">Fermes automatisées, cultures et élevage. 35 mods de culture pour optimiser votre production agricole.</p>
                 </div>
 
                 <div class="category-content">
@@ -336,10 +419,11 @@
                             <div class="mod-name">FARMING VALLEY</div>
                             <div class="mod-version">V2.5.0</div>
                         </div>
-                        <p class="mod-description">Expérience agricole complète avec saisons, marché et progression. Gérez votre propre ferme.</p>
+                        <p class="mod-description">Expérience agricole complète avec saisons, marché et progression. Gérez votre propre ferme avec cultures, élevage et commerce.</p>
                         <div class="mod-stats">
                             <div class="stat">245+ items</div>
                             <div class="stat">12 cultures</div>
+                            <div class="stat">8 animaux</div>
                         </div>
                     </div>
 
@@ -348,10 +432,37 @@
                             <div class="mod-name">HARVEST CRAFT</div>
                             <div class="mod-version">V4.0.8</div>
                         </div>
-                        <p class="mod-description">Système agricole étendu avec cuisine et recettes. Cultivez et cuisinez des centaines d'aliments.</p>
+                        <p class="mod-description">Système agricole étendu avec cuisine et recettes. Cultivez et cuisinez des centaines d'aliments avec des machines de transformation.</p>
                         <div class="mod-stats">
                             <div class="stat">850+ items</div>
                             <div class="stat">75+ recettes</div>
+                            <div class="stat">15 machines</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">AGRICRAFT</div>
+                            <div class="mod-version">V3.0.5</div>
+                        </div>
+                        <p class="mod-description">Système de croisement génétique agricole. Améliorez vos cultures par sélection pour obtenir des plantes plus productives.</p>
+                        <div class="mod-stats">
+                            <div class="stat">125+ mutations</div>
+                            <div class="stat">28 cultures</div>
+                            <div class="stat">10 statistiques</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">FORESTRY</div>
+                            <div class="mod-version">V5.8.2</div>
+                        </div>
+                        <p class="mod-description">Apiculture et arboriculture avancées. Élevez des abeilles, créez des hybrides et gérez des fermes forestières automatisées.</p>
+                        <div class="mod-stats">
+                            <div class="stat">58 espèces abeilles</div>
+                            <div class="stat">24 types arbres</div>
+                            <div class="stat">15 machines</div>
                         </div>
                     </div>
                 </div>
@@ -362,13 +473,13 @@
             </div>
 
             <!-- QUALITÉ DE VIE -->
-            <div class="category-bubble category-qol">
+            <div class="category-bubble category-qol" id="qol">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-heart"></i>
                     </div>
                     <h2 class="category-title">QUALITÉ DE VIE</h2>
-                    <p class="category-subtitle">Améliorations d'interface, optimisation et confort de jeu. 52 mods pratiques.</p>
+                    <p class="category-subtitle">Améliorations d'interface, optimisation et confort de jeu. 52 mods pratiques pour une expérience de jeu fluide.</p>
                 </div>
 
                 <div class="category-content">
@@ -377,10 +488,11 @@
                             <div class="mod-name">JOURNEYMAP</div>
                             <div class="mod-version">V5.9.7</div>
                         </div>
-                        <p class="mod-description">Cartographie en temps réel avec repérage de points d'intérêt et navigation GPS intégrée.</p>
+                        <p class="mod-description">Cartographie en temps réel avec repérage de points d'intérêt et navigation GPS intégrée. Fullscreen, waypoints et partage.</p>
                         <div class="mod-stats">
                             <div class="stat">Carte temps réel</div>
-                            <div class="stat">Waypoints</div>
+                            <div class="stat">Waypoints illimités</div>
+                            <div class="stat">Minimap</div>
                         </div>
                     </div>
 
@@ -389,10 +501,37 @@
                             <div class="mod-name">JEI</div>
                             <div class="mod-version">V12.2.0</div>
                         </div>
-                        <p class="mod-description">Encyclopédie des recettes et des items. Recherchez et visualisez toutes les recettes du jeu.</p>
+                        <p class="mod-description">Encyclopédie des recettes et des items. Recherchez et visualisez toutes les recettes du jeu avec filtres et favoris.</p>
                         <div class="mod-stats">
                             <div class="stat">100% recettes</div>
-                            <div class="stat">Recherche</div>
+                            <div class="stat">Recherche avancée</div>
+                            <div class="stat">Filtres</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">APPLE SKIN</div>
+                            <div class="mod-version">V2.4.1</div>
+                        </div>
+                        <p class="mod-description">Affichage détaillé de la satiété et des effets de nourriture. Visualisez les valeurs nutritionnelles et les temps de régénération.</p>
+                        <div class="mod-stats">
+                            <div class="stat">Affichage satiété</div>
+                            <div class="stat">Valeurs nutrition</div>
+                            <div class="stat">Effets détaillés</div>
+                        </div>
+                    </div>
+
+                    <div class="mod-item">
+                        <div class="mod-header">
+                            <div class="mod-name">INVENTORY TWEAKS</div>
+                            <div class="mod-version">V1.6.3</div>
+                        </div>
+                        <p class="mod-description">Gestion d'inventaire avancée avec tri automatique, raccourcis et organisation intelligente des items.</p>
+                        <div class="mod-stats">
+                            <div class="stat">Tri automatique</div>
+                            <div class="stat">Raccourcis</div>
+                            <div class="stat">Organisation</div>
                         </div>
                     </div>
                 </div>
@@ -413,28 +552,63 @@
         // Animation des bulles
         document.querySelectorAll('.category-bubble').forEach(bubble => {
             bubble.addEventListener('mouseenter', function() {
-                this.style.transform = 'translateY(-10px) scale(1.02)';
+                this.style.transform = 'translateY(-5px)';
             });
             
             bubble.addEventListener('mouseleave', function() {
-                this.style.transform = 'translateY(0) scale(1)';
+                this.style.transform = 'translateY(0)';
             });
         });
 
-        // Animation au chargement
+        // Animation au chargement avec délai
         document.addEventListener('DOMContentLoaded', () => {
             const bubbles = document.querySelectorAll('.category-bubble');
             bubbles.forEach((bubble, index) => {
                 bubble.style.opacity = '0';
-                bubble.style.transform = 'translateY(30px)';
+                bubble.style.transform = 'translateY(40px)';
                 
                 setTimeout(() => {
-                    bubble.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                    bubble.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
                     bubble.style.opacity = '1';
                     bubble.style.transform = 'translateY(0)';
-                }, index * 150);
+                }, index * 300);
             });
         });
+
+        // Navigation par indicateurs de défilement
+        const dots = document.querySelectorAll('.scroll-dot');
+        const categories = document.querySelectorAll('.category-bubble');
+
+        function updateScrollIndicator() {
+            const scrollPosition = window.scrollY + window.innerHeight / 3;
+            
+            categories.forEach((category, index) => {
+                const top = category.offsetTop;
+                const height = category.offsetHeight;
+                
+                if (scrollPosition >= top && scrollPosition < top + height) {
+                    dots.forEach(dot => dot.classList.remove('active'));
+                    dots[index].classList.add('active');
+                }
+            });
+        }
+
+        // Cliquer sur un dot pour scroll vers la catégorie
+        dots.forEach((dot, index) => {
+            dot.addEventListener('click', () => {
+                const category = categories[index];
+                window.scrollTo({
+                    top: category.offsetTop - 50,
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        window.addEventListener('scroll', updateScrollIndicator);
+        window.addEventListener('resize', updateScrollIndicator);
+
+        // Initialiser
+        setTimeout(updateScrollIndicator, 100);
     </script>
 </body>
 </html>
