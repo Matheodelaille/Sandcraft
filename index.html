@@ -13,7 +13,6 @@
         }
         
         :root {
-            /* Variables pour le mode clair */
             --bg-primary: #0f172a;
             --bg-secondary: #1e293b;
             --text-primary: #e2e8f0;
@@ -28,7 +27,6 @@
             --shadow-color: rgba(0, 0, 0, 0.4);
         }
         
-        /* Mode clair */
         .light-mode {
             --bg-primary: #f8fafc;
             --bg-secondary: #f1f5f9;
@@ -61,7 +59,6 @@
             transition: all 0.5s ease;
         }
 
-        /* Grille Minecraft subtile */
         .minecraft-grid {
             position: fixed;
             top: 0;
@@ -77,7 +74,7 @@
             transition: all 0.5s ease;
         }
 
-        /* CONTROLE AUDIO DISCUT */
+        /* CONTROLE AUDIO AMÉLIORÉ */
         .audio-controls {
             position: fixed;
             bottom: 20px;
@@ -87,48 +84,78 @@
             gap: 10px;
             align-items: center;
             background: var(--card-bg);
-            padding: 10px 15px;
+            padding: 12px 18px;
             border-radius: 25px;
             border: 2px solid var(--border-color);
-            box-shadow: 0 5px 15px var(--shadow-color);
+            box-shadow: 0 5px 20px var(--shadow-color);
             backdrop-filter: blur(10px);
-            opacity: 0.7;
+            opacity: 0.8;
             transition: all 0.3s ease;
+            min-width: 200px;
         }
 
         .audio-controls:hover {
             opacity: 1;
             transform: translateY(-3px);
+            box-shadow: 0 8px 25px var(--shadow-color);
         }
 
         .audio-btn {
-            background: none;
+            background: var(--accent-blue);
             border: none;
-            color: var(--text-primary);
+            color: white;
             font-size: 1.2rem;
             cursor: pointer;
-            padding: 8px;
+            padding: 10px;
             border-radius: 50%;
             transition: all 0.3s ease;
             display: flex;
             align-items: center;
             justify-content: center;
-            width: 40px;
-            height: 40px;
+            width: 45px;
+            height: 45px;
+            flex-shrink: 0;
         }
 
         .audio-btn:hover {
-            background: var(--border-color);
+            background: var(--accent-purple);
             transform: scale(1.1);
+            box-shadow: 0 0 15px var(--accent-purple);
+        }
+
+        .audio-btn.active {
+            background: var(--accent-green);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(16, 185, 129, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+        }
+
+        .volume-container {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .volume-label {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
         }
 
         .volume-slider {
-            width: 80px;
-            height: 4px;
+            width: 100%;
+            height: 6px;
             -webkit-appearance: none;
             appearance: none;
             background: var(--border-color);
-            border-radius: 2px;
+            border-radius: 3px;
             outline: none;
             transition: all 0.3s ease;
         }
@@ -136,31 +163,31 @@
         .volume-slider::-webkit-slider-thumb {
             -webkit-appearance: none;
             appearance: none;
-            width: 16px;
-            height: 16px;
+            width: 18px;
+            height: 18px;
             border-radius: 50%;
             background: var(--accent-blue);
             cursor: pointer;
             border: 2px solid var(--card-bg);
-            box-shadow: 0 2px 5px var(--shadow-color);
+            box-shadow: 0 2px 8px var(--shadow-color);
         }
 
         .volume-slider::-moz-range-thumb {
-            width: 16px;
-            height: 16px;
+            width: 18px;
+            height: 18px;
             border-radius: 50%;
             background: var(--accent-blue);
             cursor: pointer;
             border: 2px solid var(--card-bg);
-            box-shadow: 0 2px 5px var(--shadow-color);
+            box-shadow: 0 2px 8px var(--shadow-color);
         }
 
-        .audio-indicator {
-            font-size: 0.8rem;
+        .audio-info {
+            font-size: 0.75rem;
             color: var(--text-secondary);
-            font-weight: 600;
-            margin-left: 5px;
-            white-space: nowrap;
+            text-align: center;
+            margin-top: 5px;
+            font-style: italic;
         }
 
         /* EN-TÊTE */
@@ -339,7 +366,62 @@
             border-bottom: 3px solid #10b981;
         }
 
-        /* MENU DE NAVIGATION */
+        /* NOTIFICATION AUDIO AMÉLIORÉE */
+        .audio-notification {
+            position: fixed;
+            bottom: 90px;
+            right: 20px;
+            background: var(--card-bg);
+            border: 2px solid var(--border-color);
+            border-radius: 15px;
+            padding: 15px 20px;
+            box-shadow: 0 5px 25px var(--shadow-color);
+            backdrop-filter: blur(10px);
+            z-index: 999;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            animation: slideIn 0.5s ease;
+            max-width: 300px;
+            border-left: 5px solid var(--accent-green);
+        }
+
+        .audio-notification i {
+            font-size: 1.5rem;
+            color: var(--accent-green);
+        }
+
+        .audio-notification.warning {
+            border-left-color: var(--accent-orange);
+        }
+
+        .audio-notification.warning i {
+            color: var(--accent-orange);
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideOut {
+            from {
+                transform: translateX(0);
+                opacity: 1;
+            }
+            to {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+        }
+
+        /* Le reste du CSS reste identique... */
         .nav-menu {
             display: flex;
             gap: 30px;
@@ -383,7 +465,6 @@
             box-shadow: 0 0 20px rgba(96, 165, 250, 0.3);
         }
 
-        /* MENU DÉROULANT */
         .dropdown-menu {
             position: absolute;
             top: 100%;
@@ -450,7 +531,6 @@
             display: block;
         }
 
-        /* BOUTONS DISCORD ET IP */
         .server-actions {
             display: flex;
             gap: 25px;
@@ -503,7 +583,6 @@
             background: linear-gradient(45deg, #047857, #0da271);
         }
 
-        /* CONTENU PRINCIPAL */
         .container {
             max-width: 1000px;
             margin: 0 auto;
@@ -535,7 +614,6 @@
             box-shadow: 0 20px 40px var(--shadow-color);
         }
 
-        /* Couleurs des bulles */
         .category-tech {
             background: linear-gradient(145deg, #1e40af 0%, #3b82f6 100%);
             border: 3px solid rgba(96, 165, 250, 0.5);
@@ -689,48 +767,6 @@
             transition: all 0.5s ease;
         }
 
-        /* NOTIFICATION AUDIO */
-        .audio-notification {
-            position: fixed;
-            bottom: 80px;
-            right: 20px;
-            background: var(--card-bg);
-            border: 2px solid var(--border-color);
-            border-radius: 15px;
-            padding: 15px 20px;
-            box-shadow: 0 5px 20px var(--shadow-color);
-            backdrop-filter: blur(10px);
-            z-index: 999;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            animation: slideIn 0.5s ease;
-            max-width: 300px;
-        }
-
-        @keyframes slideIn {
-            from {
-                transform: translateX(100%);
-                opacity: 0;
-            }
-            to {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
-
-        @keyframes slideOut {
-            from {
-                transform: translateX(0);
-                opacity: 1;
-            }
-            to {
-                transform: translateX(100%);
-                opacity: 0;
-            }
-        }
-
-        /* RESPONSIVE */
         @media (max-width: 1200px) {
             .header-content {
                 flex-wrap: wrap;
@@ -758,6 +794,12 @@
             .server-actions {
                 order: 4;
                 margin-left: 0;
+            }
+            
+            .audio-controls {
+                bottom: 80px;
+                right: 10px;
+                min-width: 180px;
             }
         }
 
@@ -789,13 +831,13 @@
             }
             
             .audio-controls {
-                bottom: 10px;
-                right: 10px;
-                padding: 8px 12px;
+                bottom: 70px;
+                padding: 10px 15px;
             }
             
-            .volume-slider {
-                width: 60px;
+            .audio-btn {
+                width: 40px;
+                height: 40px;
             }
         }
     </style>
@@ -832,7 +874,6 @@
                     <a href="#" class="nav-link">
                         <i class="fas fa-box-open"></i> Mods
                     </a>
-                    <!-- MENU DÉROULANT -->
                     <div class="dropdown-menu">
                         <a href="#tech" class="dropdown-item tech">
                             <i class="fas fa-robot"></i> Technologie & Automatisation
@@ -861,7 +902,7 @@
                     </a>
                 </div>
 
-                <!-- CONTROLES THÈME INTÉGRÉS DANS LE MENU -->
+                <!-- CONTROLES THÈME -->
                 <div class="theme-controls">
                     <div class="theme-toggle" id="themeToggle">
                         <i class="fas fa-moon"></i>
@@ -908,16 +949,20 @@
         <button class="audio-btn" id="playPauseBtn">
             <i class="fas fa-play"></i>
         </button>
-        <input type="range" min="0" max="100" value="50" class="volume-slider" id="volumeSlider">
-        <button class="audio-btn" id="muteBtn">
-            <i class="fas fa-volume-up"></i>
-        </button>
-        <div class="audio-indicator" id="audioIndicator">Ambiance</div>
+        <div class="volume-container">
+            <div class="volume-label">
+                <span>Volume</span>
+                <span id="volumePercent">50%</span>
+            </div>
+            <input type="range" min="0" max="100" value="50" class="volume-slider" id="volumeSlider">
+            <div class="audio-info" id="audioInfo">Ambiance Normale</div>
+        </div>
     </div>
 
     <!-- CONTENU PRINCIPAL -->
     <div class="container">
         <div class="categories-stack">
+            <!-- Catégories (contenu identique) -->
             <!-- TECHNOLOGIE & AUTOMATISATION -->
             <div class="category-bubble category-tech" id="tech">
                 <div class="category-header">
@@ -1206,23 +1251,6 @@
         </div>
     </div>
 
-    <!-- AUDIO ÉLÉMENTS (cachés) -->
-    <audio id="musicNormal" loop>
-        <source src="https://assets.mixkit.co/music/preview/mixkit-game-show-suspense-waiting-667.mp3" type="audio/mpeg">
-    </audio>
-    <audio id="musicHalloween" loop>
-        <source src="https://assets.mixkit.co/music/preview/mixkit-horror-suspense-ambience-430.mp3" type="audio/mpeg">
-    </audio>
-    <audio id="musicChristmas" loop>
-        <source src="https://assets.mixkit.co/music/preview/mixkit-sleigh-bells-1999.mp3" type="audio/mpeg">
-    </audio>
-    <audio id="musicSummer" loop>
-        <source src="https://assets.mixkit.co/music/preview/mixkit-sunny-happy-1322.mp3" type="audio/mpeg">
-    </audio>
-    <audio id="musicSpring" loop>
-        <source src="https://assets.mixkit.co/music/preview/mixkit-birds-chirping-1247.mp3" type="audio/mpeg">
-    </audio>
-
     <script>
         // Gestion du mode clair/sombre
         const themeToggle = document.getElementById('themeToggle');
@@ -1253,142 +1281,30 @@
             }
         });
 
-        // GESTION AUDIO
+        // GESTION AUDIO AMÉLIORÉE
         const playPauseBtn = document.getElementById('playPauseBtn');
         const volumeSlider = document.getElementById('volumeSlider');
-        const muteBtn = document.getElementById('muteBtn');
-        const audioIndicator = document.getElementById('audioIndicator');
+        const volumePercent = document.getElementById('volumePercent');
+        const audioInfo = document.getElementById('audioInfo');
         const musicStatus = document.getElementById('musicStatus');
         
-        // Éléments audio
-        const audioElements = {
-            normal: document.getElementById('musicNormal'),
-            halloween: document.getElementById('musicHalloween'),
-            christmas: document.getElementById('musicChristmas'),
-            summer: document.getElementById('musicSummer'),
-            spring: document.getElementById('musicSpring')
-        };
-        
-        // Musiques d'ambiance (liens vers mixkit.co - libres de droits)
-        const musicUrls = {
-            normal: 'https://assets.mixkit.co/music/preview/mixkit-game-show-suspense-waiting-667.mp3',
-            halloween: 'https://assets.mixkit.co/music/preview/mixkit-horror-suspense-ambience-430.mp3',
-            christmas: 'https://assets.mixkit.co/music/preview/mixkit-sleigh-bells-1999.mp3',
-            summer: 'https://assets.mixkit.co/music/preview/mixkit-sunny-happy-1322.mp3',
-            spring: 'https://assets.mixkit.co/music/preview/mixkit-birds-chirping-1247.mp3'
-        };
-        
-        let currentAudio = audioElements.normal;
+        // Créer les éléments audio dynamiquement avec des sources fiables
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        let currentOscillator = null;
+        let currentGain = null;
         let isPlaying = false;
-        let isMuted = false;
-        let lastVolume = 50;
+        let currentThemeSound = 'normal';
         
-        // Initialisation des audio
-        Object.keys(audioElements).forEach(key => {
-            const audio = audioElements[key];
-            audio.volume = volumeSlider.value / 100;
-            audio.preload = 'auto';
-        });
+        // Sons synthétisés pour chaque thème (fiables et sans CORS)
+        const themeSounds = {
+            normal: { type: 'sine', frequency: 440, vibrato: 5 },
+            halloween: { type: 'sawtooth', frequency: 220, vibrato: 10 },
+            christmas: { type: 'triangle', frequency: 660, vibrato: 3 },
+            summer: { type: 'sine', frequency: 523.25, vibrato: 2 },
+            spring: { type: 'sine', frequency: 392, vibrato: 7 }
+        };
         
-        // Play/Pause
-        playPauseBtn.addEventListener('click', () => {
-            if (isPlaying) {
-                pauseAudio();
-            } else {
-                playAudio();
-            }
-        });
-        
-        // Volume
-        volumeSlider.addEventListener('input', () => {
-            const volume = volumeSlider.value / 100;
-            currentAudio.volume = volume;
-            localStorage.setItem('audioVolume', volumeSlider.value);
-            
-            if (volume === 0) {
-                muteBtn.innerHTML = '<i class="fas fa-volume-mute"></i>';
-                isMuted = true;
-            } else {
-                muteBtn.innerHTML = '<i class="fas fa-volume-up"></i>';
-                isMuted = false;
-            }
-        });
-        
-        // Mute
-        muteBtn.addEventListener('click', () => {
-            if (isMuted) {
-                // Unmute
-                currentAudio.volume = lastVolume / 100;
-                volumeSlider.value = lastVolume;
-                muteBtn.innerHTML = '<i class="fas fa-volume-up"></i>';
-                isMuted = false;
-            } else {
-                // Mute
-                lastVolume = volumeSlider.value;
-                currentAudio.volume = 0;
-                volumeSlider.value = 0;
-                muteBtn.innerHTML = '<i class="fas fa-volume-mute"></i>';
-                isMuted = true;
-            }
-        });
-        
-        function playAudio() {
-            currentAudio.play()
-                .then(() => {
-                    isPlaying = true;
-                    playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
-                    musicStatus.textContent = 'Musique: ON';
-                    showNotification('🎵 Musique d\'ambiance activée');
-                })
-                .catch(error => {
-                    console.log('Audio playback failed:', error);
-                    showNotification('🔇 Cliquez pour activer le son');
-                });
-        }
-        
-        function pauseAudio() {
-            currentAudio.pause();
-            isPlaying = false;
-            playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
-            musicStatus.textContent = 'Musique: OFF';
-            showNotification('🔇 Musique d\'ambiance désactivée');
-        }
-        
-        function changeAudio(theme) {
-            // Arrêter l'audio actuel
-            if (isPlaying) {
-                currentAudio.pause();
-            }
-            
-            // Changer d'audio
-            currentAudio = audioElements[theme];
-            
-            // Appliquer le volume
-            currentAudio.volume = volumeSlider.value / 100;
-            currentAudio.currentTime = 0;
-            
-            // Relancer si c'était en lecture
-            if (isPlaying) {
-                playAudio();
-            }
-            
-            // Mettre à jour l'indicateur
-            const themeNames = {
-                normal: 'Ambiance Normale',
-                halloween: 'Ambiance Halloween',
-                christmas: 'Ambiance Noël',
-                summer: 'Ambiance Été',
-                spring: 'Ambiance Printemps'
-            };
-            audioIndicator.textContent = themeNames[theme];
-        }
-        
-        // Gestion des thèmes saisonniers
-        const seasonBtn = document.getElementById('seasonBtn');
-        const seasonMenu = document.getElementById('seasonMenu');
-        const seasonOptions = document.querySelectorAll('.season-option');
-        const currentSeasonDisplay = document.getElementById('currentSeason');
-        
+        // Noms des thèmes pour l'affichage
         const themeNames = {
             normal: 'Normal',
             halloween: 'Halloween',
@@ -1396,6 +1312,117 @@
             summer: 'Été',
             spring: 'Printemps'
         };
+        
+        const themeDescriptions = {
+            normal: 'Ambiance Minecraft calme',
+            halloween: 'Ambiance mystérieuse',
+            christmas: 'Ambiance festive',
+            summer: 'Ambiance ensoleillée',
+            spring: 'Ambiance printanière'
+        };
+        
+        // Initialisation du volume
+        const savedVolume = localStorage.getItem('audioVolume') || 50;
+        volumeSlider.value = savedVolume;
+        volumePercent.textContent = `${savedVolume}%`;
+        
+        // Play/Pause
+        playPauseBtn.addEventListener('click', () => {
+            if (isPlaying) {
+                stopAudio();
+            } else {
+                startAudio();
+            }
+        });
+        
+        // Volume
+        volumeSlider.addEventListener('input', () => {
+            const volume = volumeSlider.value / 100;
+            volumePercent.textContent = `${volumeSlider.value}%`;
+            localStorage.setItem('audioVolume', volumeSlider.value);
+            
+            if (currentGain) {
+                currentGain.gain.value = volume;
+            }
+        });
+        
+        function startAudio() {
+            if (audioContext.state === 'suspended') {
+                audioContext.resume();
+            }
+            
+            // Créer l'oscillateur
+            currentOscillator = audioContext.createOscillator();
+            currentGain = audioContext.createGain();
+            
+            const sound = themeSounds[currentThemeSound];
+            
+            // Configurer l'oscillateur
+            currentOscillator.type = sound.type;
+            currentOscillator.frequency.value = sound.frequency;
+            
+            // Ajouter un vibrato léger
+            const vibrato = audioContext.createOscillator();
+            vibrato.frequency.value = sound.vibrato;
+            const vibratoGain = audioContext.createGain();
+            vibratoGain.gain.value = 2;
+            
+            vibrato.connect(vibratoGain);
+            vibratoGain.connect(currentOscillator.frequency);
+            
+            // Configurer le volume
+            currentGain.gain.value = volumeSlider.value / 100;
+            
+            // Connecter
+            currentOscillator.connect(currentGain);
+            currentGain.connect(audioContext.destination);
+            
+            // Démarrer
+            currentOscillator.start();
+            vibrato.start();
+            
+            isPlaying = true;
+            playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+            playPauseBtn.classList.add('active');
+            musicStatus.textContent = 'Musique: ON';
+            audioInfo.textContent = themeDescriptions[currentThemeSound];
+            
+            showNotification(`🎵 ${themeDescriptions[currentThemeSound]}`, false);
+        }
+        
+        function stopAudio() {
+            if (currentOscillator) {
+                currentOscillator.stop();
+                currentOscillator = null;
+                currentGain = null;
+            }
+            
+            isPlaying = false;
+            playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+            playPauseBtn.classList.remove('active');
+            musicStatus.textContent = 'Musique: OFF';
+            
+            showNotification('🔇 Musique désactivée', true);
+        }
+        
+        function changeThemeSound(theme) {
+            currentThemeSound = theme;
+            audioInfo.textContent = themeDescriptions[theme];
+            
+            // Si la musique est en cours, redémarrer avec le nouveau son
+            if (isPlaying) {
+                stopAudio();
+                setTimeout(() => startAudio(), 100);
+            }
+            
+            showNotification(`🎨 Thème ${themeNames[theme]} activé`, false);
+        }
+        
+        // Gestion des thèmes saisonniers
+        const seasonBtn = document.getElementById('seasonBtn');
+        const seasonMenu = document.getElementById('seasonMenu');
+        const seasonOptions = document.querySelectorAll('.season-option');
+        const currentSeasonDisplay = document.getElementById('currentSeason');
         
         // Appliquer le thème sauvegardé
         const savedSeason = localStorage.getItem('season') || 'normal';
@@ -1427,11 +1454,8 @@
                 seasonMenu.style.display = 'none';
                 localStorage.setItem('season', theme);
                 
-                // Changer la musique
-                changeAudio(theme);
-                
-                // Notification
-                showNotification(`🎨 Thème ${themeNames[theme]} activé`);
+                // Changer le son du thème
+                changeThemeSound(theme);
             });
         });
         
@@ -1440,26 +1464,25 @@
             seasonOptions.forEach(opt => {
                 opt.classList.toggle('active', opt.dataset.theme === theme);
             });
+            currentThemeSound = theme;
         }
         
         // Notification
-        function showNotification(message) {
-            // Supprimer les notifications existantes
+        function showNotification(message, isWarning = false) {
             const existingNotification = document.querySelector('.audio-notification');
             if (existingNotification) {
                 existingNotification.remove();
             }
             
             const notification = document.createElement('div');
-            notification.className = 'audio-notification';
+            notification.className = `audio-notification ${isWarning ? 'warning' : ''}`;
             notification.innerHTML = `
-                <i class="fas fa-info-circle"></i>
+                <i class="fas fa-${isWarning ? 'exclamation-triangle' : 'music'}"></i>
                 <span>${message}</span>
             `;
             
             document.body.appendChild(notification);
             
-            // Auto-dismiss après 3 secondes
             setTimeout(() => {
                 notification.style.animation = 'slideOut 0.5s ease';
                 setTimeout(() => {
@@ -1484,15 +1507,11 @@
                 }, index * 300);
             });
             
-            // Charger les préférences audio
-            const savedVolume = localStorage.getItem('audioVolume');
-            if (savedVolume) {
-                volumeSlider.value = savedVolume;
-                currentAudio.volume = savedVolume / 100;
-            }
-            
             // Détection automatique de la saison
             autoDetectSeason();
+            
+            // Initialiser le son
+            audioInfo.textContent = themeDescriptions[currentThemeSound];
         });
         
         function autoDetectSeason() {
@@ -1512,7 +1531,7 @@
                     opt.classList.toggle('active', opt.dataset.theme === detectedSeason);
                 });
                 localStorage.setItem('season', detectedSeason);
-                changeAudio(detectedSeason);
+                changeThemeSound(detectedSeason);
             }
         }
         
@@ -1528,7 +1547,7 @@
                     btn.innerHTML = originalHTML;
                 }, 2000);
                 
-                showNotification('📋 Adresse IP copiée dans le presse-papier');
+                showNotification('📋 Adresse IP copiée', false);
             });
             
             return false;
@@ -1557,6 +1576,15 @@
                         dropdown.style.display = 'none';
                     }
                 });
+            }
+        });
+        
+        // Gestion de la visibilité de la page pour l'audio
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden && isPlaying) {
+                // Pause automatique quand la page n'est pas visible
+                stopAudio();
+                showNotification('⏸️ Musique en pause (page inactive)', true);
             }
         });
     </script>
