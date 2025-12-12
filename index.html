@@ -5,73 +5,183 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sandcraft Wiki - Modpack Minecraft 1.19.2</title>
     
-    <!-- Meta pour SEO -->
-    <meta name="description" content="Wiki complet du modpack Sandcraft pour Minecraft 1.19.2. Guides, mods, items, recettes et mécaniques détaillées.">
-    <meta name="keywords" content="minecraft, sandcraft, modpack, wiki, 1.19.2, create, mekanism, ars nouveau">
-    <meta name="author" content="Sandcraft Team">
+    <!-- Meta SEO -->
+    <meta name="description" content="Wiki complet du modpack Sandcraft pour Minecraft 1.19.2 avec 259 mods organisés par catégories">
+    <meta name="keywords" content="minecraft, sandcraft, modpack, create, botania, technology, magic, automation">
     
-    <!-- Open Graph -->
-    <meta property="og:title" content="Sandcraft Wiki - Modpack Minecraft">
-    <meta property="og:description" content="Documentation complète du modpack Sandcraft avec 259 mods et 15,000+ items">
-    <meta property="og:image" content="assets/images/og-image.png">
-    <meta property="og:url" content="https://sandcraft-wiki.com">
-    
-    <!-- POLICES ET STYLES MINECRAFT -->
+    <!-- Polices Minecraft -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono:wght@300;400;500;600&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- Thème Minecraft Sandcraft -->
+    <!-- Fichiers CSS du thème -->
     <link rel="stylesheet" href="colors.css">
     <link rel="stylesheet" href="minecraft-components.css">
     <link rel="stylesheet" href="sandcraft.css">
     <link rel="stylesheet" href="mediawiki-overrides.css">
     
-    <!-- Icônes -->
-    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
-    <link rel="apple-touch-icon" href="assets/images/icon-192.png">
-    
-    <!-- Manifest PWA -->
-    <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#1a1a1a">
-    
-    <!-- Style immédiat Minecraft -->
+    <!-- Style pour le nouveau layout -->
     <style>
-        :root {
-            --mc-dark: #1e1e1e;
-            --mc-light: #f0f0f0;
-            --tech-color: #3a8fff;
-        }
-        
-        body {
-            background-color: var(--mc-dark) !important;
-            color: var(--mc-light) !important;
-            font-family: 'Roboto Mono', monospace !important;
-            margin: 0;
-            padding: 0;
-            min-height: 100vh;
-        }
-        
-        /* Effet texture de pierre */
-        body::before {
-            content: '';
+        /* Image de fond thématique Sandcraft */
+        .mc-thematic-bg {
             position: fixed;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h64v64H0V0zm32 32l-8-8-8 8 8 8 8-8zm16-16l-8-8-8 8 8 8 8-8zM16 16L8 8 0 16l8 8 8-8zm32 32l-8-8-8 8 8 8 8-8z' fill='%23333' opacity='0.1'/%3E%3C/svg%3E");
-            background-size: 64px 64px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='800' height='600' viewBox='0 0 800 600'%3E%3Cdefs%3E%3Cpattern id='grid' width='40' height='40' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 40 0 L 0 0 0 40' fill='none' stroke='%23222' stroke-width='0.5' opacity='0.3'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='%231a1a1a'/%3E%3Crect width='100%25' height='100%25' fill='url(%23grid)'/%3E%3Cg opacity='0.15'%3E%3C!-- Éléments technologie --%3E%3Cpath d='M100,100 Q200,50 300,100 T500,100' stroke='%233a8fff' fill='none' stroke-width='2'/%3E%3Ccircle cx='200' cy='150' r='15' fill='%233a8fff'/%3E%3Crect x='350' y='120' width='30' height='30' fill='%233a8fff'/%3E%3C!-- Éléments magie --%3E%3Cpath d='M600,200 Q650,150 700,200 T800,200' stroke='%23b967ff' fill='none' stroke-width='2'/%3E%3Ccircle cx='650' cy='250' r='20' fill='%23b967ff'/%3E%3Cpolygon points='750,180 770,220 730,220' fill='%23b967ff'/%3E%3C!-- Éléments agriculture --%3E%3Cpath d='M150,400 Q250,350 350,400' stroke='%237bea6a' fill='none' stroke-width='2'/%3E%3Ccircle cx='250' cy='380' r='12' fill='%237bea6a'/%3E%3Crect x='320' y='370' width='25' height='25' fill='%237bea6a'/%3E%3C!-- Éléments exploration --%3E%3Cpath d='M500,350 Q600,300 700,350' stroke='%23ffcc00' fill='none' stroke-width='2'/%3E%3Ccircle cx='600' cy='330' r='18' fill='%23ffcc00'/%3E%3Crect x='680' y='320' width='20' height='20' fill='%23ffcc00'/%3E%3C/g%3E%3C/svg%3E");
+            background-size: cover;
             z-index: -1;
             pointer-events: none;
+        }
+        
+        /* Style pour les catégories */
+        .mc-categories-section {
+            padding: 3rem 0;
+            position: relative;
+        }
+        
+        .mc-categories-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 3rem;
+            flex-wrap: wrap;
+        }
+        
+        .mc-category-tab {
+            padding: 1rem 2rem;
+            background: rgba(30, 30, 30, 0.8);
+            border: 3px solid #555;
+            border-radius: 0;
+            font-family: 'Press Start 2P', cursive;
+            font-size: 0.8rem;
+            color: #aaa;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .mc-category-tab:hover {
+            border-color: #888;
+            color: #fff;
+            transform: translateY(-2px);
+        }
+        
+        .mc-category-tab.active {
+            border-color: var(--category-color, #3a8fff);
+            background: rgba(var(--category-rgb, 58, 143, 255), 0.1);
+            color: var(--category-color, #3a8fff);
+            box-shadow: 0 0 15px rgba(var(--category-rgb, 58, 143, 255), 0.3);
+        }
+        
+        .mc-category-content {
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+        
+        .mc-category-content.active {
+            display: block;
+        }
+        
+        .mc-category-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        
+        .mc-category-title {
+            font-family: 'Press Start 2P', cursive;
+            font-size: 1.8rem;
+            color: var(--category-color, #fff);
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 0 #000;
+        }
+        
+        .mc-category-description {
+            color: #ccc;
+            max-width: 600px;
+            margin: 0 auto;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        
+        .mc-featured-mods {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .mc-mod-highlight {
+            background: rgba(30, 30, 30, 0.9);
+            border: 4px solid;
+            padding: 1.5rem;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+        
+        .mc-mod-highlight:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+        }
+        
+        .mc-mod-icon-large {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mc-mod-title-large {
+            font-family: 'Press Start 2P', cursive;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            color: var(--mod-color, #fff);
+        }
+        
+        .mc-mod-stats-large {
+            display: flex;
+            gap: 1rem;
+            margin: 1rem 0;
+            flex-wrap: wrap;
+        }
+        
+        .mc-mod-stat-large {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 0.5rem 1rem;
+            border: 2px solid #555;
+            font-size: 0.9rem;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @media (max-width: 768px) {
+            .mc-categories-tabs {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .mc-category-tab {
+                width: 100%;
+                max-width: 300px;
+            }
+            
+            .mc-featured-mods {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
 <body>
-    <!-- Barre de navigation Minecraft -->
-    <nav class="mc-navbar" role="navigation" aria-label="Navigation principale">
+    <!-- Image de fond thématique -->
+    <div class="mc-thematic-bg"></div>
+    
+    <!-- Barre de navigation -->
+    <nav class="mc-navbar" role="navigation">
         <div class="mc-nav-container">
-            <!-- Logo Minecraft -->
-            <a href="index.html" class="mc-logo" aria-label="Retour à l'accueil">
+            <a href="index.html" class="mc-logo">
                 <div class="mc-logo-icon">
                     <i class="fas fa-cube"></i>
                 </div>
@@ -81,471 +191,523 @@
                 </div>
             </a>
             
-            <!-- Menu desktop Minecraft -->
             <div class="mc-nav-menu">
-                <a href="index.html" class="mc-nav-link active" aria-current="page">
-                    <span class="mc-nav-icon"><i class="fas fa-home"></i></span>
-                    <span class="mc-nav-text">Accueil</span>
+                <a href="index.html" class="mc-nav-link active">
+                    <i class="fas fa-home"></i> Accueil
+                </a>
+                <a href="#categories" class="mc-nav-link">
+                    <i class="fas fa-layer-group"></i> Catégories
                 </a>
                 <a href="mods.html" class="mc-nav-link">
-                    <span class="mc-nav-icon"><i class="fas fa-cubes"></i></span>
-                    <span class="mc-nav-text">Mods</span>
-                    <span class="mc-nav-badge" id="modsCount">259</span>
+                    <i class="fas fa-cubes"></i> Tous les Mods
                 </a>
-                <a href="items.html" class="mc-nav-link">
-                    <span class="mc-nav-icon"><i class="fas fa-box-open"></i></span>
-                    <span class="mc-nav-text">Items</span>
-                    <span class="mc-nav-badge" id="itemsCount">15k+</span>
+                <a href="search.html" class="mc-nav-link">
+                    <i class="fas fa-search"></i> Recherche
                 </a>
-                <a href="guides.html" class="mc-nav-link">
-                    <span class="mc-nav-icon"><i class="fas fa-book"></i></span>
-                    <span class="mc-nav-text">Guides</span>
-                </a>
-                <a href="mechanics.html" class="mc-nav-link">
-                    <span class="mc-nav-icon"><i class="fas fa-cogs"></i></span>
-                    <span class="mc-nav-text">Mécaniques</span>
-                </a>
-                <a href="search.html" class="mc-nav-link mc-search-link">
-                    <span class="mc-nav-icon"><i class="fas fa-search"></i></span>
-                    <span class="mc-nav-text">Recherche</span>
-                </a>
-            </div>
-            
-            <!-- Boutons utilitaires Minecraft -->
-            <div class="mc-nav-utils">
-                <button class="mc-theme-toggle" aria-label="Changer le thème" title="Mode sombre/clair">
-                    <span class="mc-theme-icon"><i class="fas fa-moon"></i></span>
-                </button>
-                <button class="mc-menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
-                    <span class="mc-menu-icon"><i class="fas fa-bars"></i></span>
-                </button>
-            </div>
-            
-            <!-- Menu mobile Minecraft -->
-            <div class="mc-mobile-menu" id="mobileMenu">
-                <a href="index.html" class="mc-mobile-nav-link active"><i class="fas fa-home"></i> Accueil</a>
-                <a href="mods.html" class="mc-mobile-nav-link"><i class="fas fa-cubes"></i> Mods</a>
-                <a href="items.html" class="mc-mobile-nav-link"><i class="fas fa-box-open"></i> Items</a>
-                <a href="guides.html" class="mc-mobile-nav-link"><i class="fas fa-book"></i> Guides</a>
-                <a href="mechanics.html" class="mc-mobile-nav-link"><i class="fas fa-cogs"></i> Mécaniques</a>
-                <a href="search.html" class="mc-mobile-nav-link"><i class="fas fa-search"></i> Recherche</a>
-                <div class="mc-mobile-search">
-                    <input type="text" class="mc-input" placeholder="Rechercher..." id="mobileSearchInput">
-                    <button class="mc-button" onclick="searchMobile()"><i class="fas fa-search"></i></button>
-                </div>
             </div>
         </div>
     </nav>
-        <!-- Bannière Hero Minecraft -->
-    <header class="mc-hero" role="banner">
-        <div class="mc-hero-overlay"></div>
+        <!-- Bannière Hero -->
+    <header class="mc-hero">
         <div class="mc-hero-content">
-            <div class="mc-hero-badge">
-                <span class="mc-badge explore"><i class="fas fa-gamepad"></i> Minecraft 1.19.2</span>
-            </div>
-            
             <h1 class="mc-hero-title">
-                <span class="mc-glow-text">Sandcraft Wiki</span>
+                <span class="mc-glow-text">SANDBOX WIKI</span>
             </h1>
-            
             <p class="mc-hero-subtitle">
-                La documentation complète du modpack Sandcraft<br>
-                <span class="mc-highlight">259 mods • 15,427 items • 42,156 recettes</span>
+                Documentation complète du modpack Sandcraft<br>
+                <span class="mc-highlight">259 mods organisés par catégories</span>
             </p>
             
-            <!-- Statistiques Minecraft -->
+            <!-- Statistiques rapides -->
             <div class="mc-hero-stats">
                 <div class="mc-stat-card tech">
-                    <div class="mc-stat-icon"><i class="fas fa-puzzle-piece"></i></div>
-                    <div class="mc-stat-number" id="liveModsCount">259</div>
+                    <div class="mc-stat-number">259</div>
                     <div class="mc-stat-label">Mods</div>
                 </div>
                 <div class="mc-stat-card magic">
-                    <div class="mc-stat-icon"><i class="fas fa-box"></i></div>
-                    <div class="mc-stat-number" id="liveItemsCount">15,427</div>
+                    <div class="mc-stat-number">15,427</div>
                     <div class="mc-stat-label">Items</div>
                 </div>
                 <div class="mc-stat-card explore">
-                    <div class="mc-stat-icon"><i class="fas fa-flask"></i></div>
-                    <div class="mc-stat-number" id="liveRecipesCount">42,156</div>
+                    <div class="mc-stat-number">42,156</div>
                     <div class="mc-stat-label">Recettes</div>
                 </div>
                 <div class="mc-stat-card combat">
-                    <div class="mc-stat-icon"><i class="fas fa-users"></i></div>
-                    <div class="mc-stat-number" id="livePlayersCount">24</div>
-                    <div class="mc-stat-label">Joueurs</div>
+                    <div class="mc-stat-number">12</div>
+                    <div class="mc-stat-label">Catégories</div>
                 </div>
             </div>
             
-            <!-- Barre de recherche Minecraft -->
-            <div class="mc-hero-search">
-                <div class="mc-search-container">
-                    <input 
-                        type="text" 
-                        id="heroSearchInput" 
-                        class="mc-search-input"
-                        placeholder="Rechercher un mod, un item, une recette..." 
-                        aria-label="Recherche dans le wiki"
-                        autocomplete="off"
-                    >
-                    <button class="mc-search-button" onclick="performHeroSearch()" aria-label="Lancer la recherche">
-                        <span class="mc-search-btn-icon"><i class="fas fa-search"></i></span>
-                        <span class="mc-search-btn-text">Rechercher</span>
-                    </button>
-                </div>
-                <div class="mc-search-suggestions" id="searchSuggestions">
-                    <!-- Suggestions dynamiques -->
-                </div>
-                <div class="mc-search-tags">
-                    <span class="mc-tag-label">Essayez:</span>
-                    <a href="search.html?q=create" class="mc-tag tech">create</a>
-                    <a href="search.html?q=diamant" class="mc-tag explore">diamant</a>
-                    <a href="search.html?q=automation" class="mc-tag tech">automation</a>
-                    <a href="search.html?q=magie" class="mc-tag magic">magie</a>
-                </div>
-            </div>
-            
-            <!-- Boutons CTA Minecraft -->
-            <div class="mc-hero-cta">
-                <a href="mods.html" class="mc-button mc-btn-primary">
-                    <span><i class="fas fa-compass"></i> Explorer les Mods</span>
-                    <span class="mc-btn-icon">→</span>
+            <!-- Navigation rapide vers les catégories -->
+            <div class="mc-hero-categories">
+                <a href="#tech-category" class="mc-category-pill tech">
+                    <i class="fas fa-cogs"></i> Technologie
                 </a>
-                <a href="#features" class="mc-button mc-btn-secondary">
-                    <span><i class="fas fa-scroll"></i> Découvrir le Wiki</span>
-                    <span class="mc-btn-icon">↓</span>
+                <a href="#magic-category" class="mc-category-pill magic">
+                    <i class="fas fa-hat-wizard"></i> Magie
+                </a>
+                <a href="#farm-category" class="mc-category-pill explore">
+                    <i class="fas fa-seedling"></i> Agriculture
+                </a>
+                <a href="#qol-category" class="mc-category-pill combat">
+                    <i class="fas fa-tools"></i> Qualité de vie
                 </a>
             </div>
-        </div>
-        
-        <!-- Séparateur style Minecraft -->
-        <div class="mc-wave-separator">
-            <svg viewBox="0 0 1200 60" preserveAspectRatio="none">
-                <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".6" fill="#1e1e1e"></path>
-            </svg>
         </div>
     </header>
-        <!-- Contenu principal -->
-    <main id="main-content" role="main">
-        <!-- Section Features Minecraft -->
-        <section id="features" class="mc-features-section" aria-labelledby="features-title">
+    
+    <!-- Contenu principal -->
+    <main id="main-content">
+        <!-- Introduction -->
+        <section class="mc-intro-section">
             <div class="mc-container">
-                <div class="mc-section-header">
-                    <h2 id="features-title" class="mc-section-title">
-                        <i class="fas fa-map"></i> Explorez le Wiki
-                    </h2>
-                    <p class="mc-section-subtitle">Toutes les ressources pour maîtriser Sandcraft</p>
+                <h2 class="mc-section-title">
+                    <i class="fas fa-compass"></i> Explorez par Thématique
+                </h2>
+                <p class="mc-section-subtitle">
+                    Naviguez à travers les 259 mods organisés en 4 grandes catégories principales.<br>
+                    Cliquez sur une catégorie pour découvrir les mods majeurs.
+                </p>
+            </div>
+        </section>
+                <!-- Section Catégories -->
+        <section id="categories" class="mc-categories-section">
+            <div class="mc-container">
+                <!-- Barre d'onglets -->
+                <div class="mc-categories-tabs" role="tablist">
+                    <button class="mc-category-tab active" 
+                            data-category="tech"
+                            style="--category-color: #3a8fff; --category-rgb: 58, 143, 255;">
+                        <i class="fas fa-cogs"></i> Technologie & Automation
+                    </button>
+                    
+                    <button class="mc-category-tab" 
+                            data-category="magic"
+                            style="--category-color: #b967ff; --category-rgb: 185, 103, 255;">
+                        <i class="fas fa-hat-wizard"></i> Magie & Sorcellerie
+                    </button>
+                    
+                    <button class="mc-category-tab" 
+                            data-category="farm"
+                            style="--category-color: #7bea6a; --category-rgb: 123, 234, 106;">
+                        <i class="fas fa-seedling"></i> Agriculture & Cuisine
+                    </button>
+                    
+                    <button class="mc-category-tab" 
+                            data-category="qol"
+                            style="--category-color: #ffcc00; --category-rgb: 255, 204, 0;">
+                        <i class="fas fa-tools"></i> Utilitaire & Qualité de vie
+                    </button>
                 </div>
                 
-                <div class="mc-features-grid">
-                    <!-- Feature 1: Mods -->
-                    <article class="mc-feature-card tech">
-                        <div class="mc-feature-icon-wrapper">
-                            <div class="mc-feature-icon" aria-hidden="true"><i class="fas fa-cogs"></i></div>
-                        </div>
-                        <h3 class="mc-feature-title">Mods</h3>
-                        <p class="mc-feature-description">
-                            Documentation complète des 259 mods du pack, classés par catégorie avec descriptions détaillées, dépendances et fonctionnalités.
+                <!-- Contenu Catégorie 1: Technologie -->
+                <div id="tech-category" class="mc-category-content active">
+                    <div class="mc-category-header">
+                        <h2 class="mc-category-title" style="color: #3a8fff;">
+                            <i class="fas fa-cogs"></i> TECHNOLOGIE & AUTOMATION
+                        </h2>
+                        <p class="mc-category-description">
+                            Automatisation, systèmes énergétiques, machines industrielles et ingénierie avancée.
+                            Tout pour construire des usines et systèmes automatisés complexes.
                         </p>
-                        <div class="mc-feature-meta">
-                            <span class="mc-meta-item">259 mods</span>
-                            <span class="mc-meta-item">12 catégories</span>
-                            <span class="mc-meta-item">Dépendances</span>
-                        </div>
-                        <a href="mods.html" class="mc-feature-link" aria-label="Explorer les mods">
-                            <span>Voir tous les mods</span>
-                            <span class="mc-link-arrow">→</span>
-                        </a>
-                    </article>
+                    </div>
                     
-                    <!-- Feature 2: Items -->
-                    <article class="mc-feature-card magic">
-                        <div class="mc-feature-icon-wrapper">
-                            <div class="mc-feature-icon" aria-hidden="true"><i class="fas fa-box-open"></i></div>
-                        </div>
-                        <h3 class="mc-feature-title">Items & Blocs</h3>
-                        <p class="mc-feature-description">
-                            Base de données complète de tous les items, blocs et objets avec propriétés, recettes et utilisations.
-                        </p>
-                        <div class="mc-feature-meta">
-                            <span class="mc-meta-item">15,427 items</span>
-                            <span class="mc-meta-item">7,542 blocs</span>
-                            <span class="mc-meta-item">Recherche avancée</span>
-                        </div>
-                        <a href="items.html" class="mc-feature-link" aria-label="Explorer les items">
-                            <span>Parcourir les items</span>
-                            <span class="mc-link-arrow">→</span>
-                        </a>
-                    </article>
+                    <!-- Mods en vedette - Technologie -->
+                    <div class="mc-featured-mods">
+                        <!-- CREATE -->
+                        <article class="mc-mod-highlight" style="border-color: #3a8fff;">
+                            <div class="mc-mod-icon-large" style="color: #3a8fff;">
+                                <i class="fas fa-cogs"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">CREATE</h3>
+                            <p>Automatisation créative, mécaniques avancées, usines cinétiques et systèmes mécaniques complexes.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">850+ items</span>
+                                <span class="mc-mod-stat-large">120 mécaniques</span>
+                                <span class="mc-mod-stat-large">v0.5.1</span>
+                            </div>
+                            <a href="create.html" class="mc-button" style="background: #3a8fff;">
+                                <i class="fas fa-external-link-alt"></i> Explorer Create
+                            </a>
+                        </article>
+                        
+                        <!-- APPLIED ENERGISTICS -->
+                        <article class="mc-mod-highlight" style="border-color: #3a8fff;">
+                            <div class="mc-mod-icon-large" style="color: #3a8fff;">
+                                <i class="fas fa-database"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">APPLIED ENERGISTICS 2</h3>
+                            <p>Système de stockage numérique avancé, automation de craft et gestion d'items à grande échelle.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">250+ items</span>
+                                <span class="mc-mod-stat-large">Stockage numérique</span>
+                                <span class="mc-mod-stat-large">v10.0.0</span>
+                            </div>
+                            <a href="ae2.html" class="mc-button" style="background: #3a8fff;">
+                                <i class="fas fa-hdd"></i> Système de stockage
+                            </a>
+                        </article>
+                        
+                        <!-- THERMAL SERIES -->
+                        <article class="mc-mod-highlight" style="border-color: #3a8fff;">
+                            <div class="mc-mod-icon-large" style="color: #3a8fff;">
+                                <i class="fas fa-bolt"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">THERMAL SERIES</h3>
+                            <p>Énergie RF, machines dynamiques, traitement de ressources et systèmes d'automation modulaires.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">500+ items</span>
+                                <span class="mc-mod-stat-large">8 types machines</span>
+                                <span class="mc-mod-stat-large">v9.1.0</span>
+                            </div>
+                            <a href="thermal.html" class="mc-button" style="background: #3a8fff;">
+                                <i class="fas fa-industry"></i> Explorer Thermal
+                            </a>
+                        </article>
+                    </div>
                     
-                    <!-- Feature 3: Recettes -->
-                    <article class="mc-feature-card explore">
-                        <div class="mc-feature-icon-wrapper">
-                            <div class="mc-feature-icon" aria-hidden="true"><i class="fas fa-flask"></i></div>
-                        </div>
-                        <h3 class="mc-feature-title">Recettes & Crafts</h3>
-                        <p class="mc-feature-description">
-                            Toutes les recettes de crafting, fusion, infusion et autres méthodes de fabrication avec visualisation interactive.
-                        </p>
-                        <div class="mc-feature-meta">
-                            <span class="mc-meta-item">42,156 recettes</span>
-                            <span class="mc-meta-item">18 types</span>
-                            <span class="mc-meta-item">Interactive</span>
-                        </div>
-                        <a href="search.html?q=recipe" class="mc-feature-link" aria-label="Explorer les recettes">
-                            <span>Voir les recettes</span>
-                            <span class="mc-link-arrow">→</span>
+                    <div class="mc-category-footer">
+                        <a href="mods.html?category=tech" class="mc-button large">
+                            <i class="fas fa-list"></i> Voir tous les 68 mods Technologie
                         </a>
-                    </article>
+                    </div>
+                </div>
+                
+                <!-- Contenu Catégorie 2: Magie -->
+                <div id="magic-category" class="mc-category-content">
+                    <div class="mc-category-header">
+                        <h2 class="mc-category-title" style="color: #b967ff;">
+                            <i class="fas fa-hat-wizard"></i> MAGIE & SORCELLERIE
+                        </h2>
+                        <p class="mc-category-description">
+                            Sorts, rituels, enchantements et systèmes magiques. Explorez les voies mystiques
+                            et découvrez des pouvoirs surnaturels.
+                        </p>
+                    </div>
                     
-                    <!-- Feature 4: Guides -->
-                    <article class="mc-feature-card combat">
-                        <div class="mc-feature-icon-wrapper">
-                            <div class="mc-feature-icon" aria-hidden="true"><i class="fas fa-book"></i></div>
-                        </div>
-                        <h3 class="mc-feature-title">Guides & Tutoriels</h3>
-                        <p class="mc-feature-description">
-                            Guides étape par étape, astuces et stratégies pour maîtriser tous les aspects du modpack.
-                        </p>
-                        <div class="mc-feature-meta">
-                            <span class="mc-meta-item">45 guides</span>
-                            <span class="mc-meta-item">8 catégories</span>
-                            <span class="mc-meta-item">Illustrés</span>
-                        </div>
-                        <a href="guides.html" class="mc-feature-link" aria-label="Explorer les guides">
-                            <span>Consulter les guides</span>
-                            <span class="mc-link-arrow">→</span>
+                    <!-- Mods en vedette - Magie -->
+                    <div class="mc-featured-mods">
+                        <!-- ARS NOUVEAU -->
+                        <article class="mc-mod-highlight" style="border-color: #b967ff;">
+                            <div class="mc-mod-icon-large" style="color: #b967ff;">
+                                <i class="fas fa-scroll"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">ARS NOUVEAU</h3>
+                            <p>Système de magie moderne avec sorts personnalisables, rituels et enchantements avancés.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">150+ sorts</span>
+                                <span class="mc-mod-stat-large">12 runes</span>
+                                <span class="mc-mod-stat-large">v3.2.0</span>
+                            </div>
+                            <a href="ars.html" class="mc-button" style="background: #b967ff;">
+                                <i class="fas fa-magic"></i> Apprendre la magie
+                            </a>
+                        </article>
+                        
+                        <!-- BOTANIA -->
+                        <article class="mc-mod-highlight" style="border-color: #b967ff;">
+                            <div class="mc-mod-icon-large" style="color: #b967ff;">
+                                <i class="fas fa-leaf"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">BOTANIA</h3>
+                            <p>Magie naturelle basée sur les plantes, génération de mana et fleurs magiques fonctionnelles.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">300+ items</span>
+                                <span class="mc-mod-stat-large">50+ fleurs</span>
+                                <span class="mc-mod-stat-large">v1.19.2</span>
+                            </div>
+                            <a href="botania.html" class="mc-button" style="background: #b967ff;">
+                                <i class="fas fa-spa"></i> Explorer Botania
+                            </a>
+                        </article>
+                        
+                        <!-- MAHOU TSUKAI -->
+                        <article class="mc-mod-highlight" style="border-color: #b967ff;">
+                            <div class="mc-mod-icon-large" style="color: #b967ff;">
+                                <i class="fas fa-wand-magic-sparkles"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">MAHOU TSUKAI</h3>
+                            <p>Système de magie inspiré des animés, avec sorts visuels impressionnants et progression.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">75+ sorts</span>
+                                <span class="mc-mod-stat-large">Système de niveau</span>
+                                <span class="mc-mod-stat-large">v1.34</span>
+                            </div>
+                            <a href="mahou.html" class="mc-button" style="background: #b967ff;">
+                                <i class="fas fa-star"></i> Découvrir
+                            </a>
+                        </article>
+                    </div>
+                    
+                    <div class="mc-category-footer">
+                        <a href="mods.html?category=magic" class="mc-button large">
+                            <i class="fas fa-list"></i> Voir tous les 42 mods Magie
                         </a>
-                    </article>
+                    </div>
+                </div>
+                                <!-- Contenu Catégorie 3: Agriculture -->
+                <div id="farm-category" class="mc-category-content">
+                    <div class="mc-category-header">
+                        <h2 class="mc-category-title" style="color: #7bea6a;">
+                            <i class="fas fa-seedling"></i> AGRICULTURE & CUISINE
+                        </h2>
+                        <p class="mc-category-description">
+                            Cultures, élevage, cuisine et production alimentaire. Optimisez vos fermes
+                            et découvrez de nouvelles recettes.
+                        </p>
+                    </div>
+                    
+                    <!-- Mods en vedette - Agriculture -->
+                    <div class="mc-featured-mods">
+                        <!-- FARMERS DELIGHT -->
+                        <article class="mc-mod-highlight" style="border-color: #7bea6a;">
+                            <div class="mc-mod-icon-large" style="color: #7bea6a;">
+                                <i class="fas fa-utensils"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">FARMER'S DELIGHT</h3>
+                            <p>Cuisine avancée, nouvelles cultures et outils agricoles pour une expérience culitaire enrichie.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">120+ nourritures</span>
+                                <span class="mc-mod-stat-large">15 cultures</span>
+                                <span class="mc-mod-stat-large">v1.3.0</span>
+                            </div>
+                            <a href="farmers.html" class="mc-button" style="background: #7bea6a;">
+                                <i class="fas fa-carrot"></i> Cuisiner
+                            </a>
+                        </article>
+                        
+                        <!-- PAMS HARVESTCRAFT -->
+                        <article class="mc-mod-highlight" style="border-color: #7bea6a;">
+                            <div class="mc-mod-icon-large" style="color: #7bea6a;">
+                                <i class="fas fa-apple-alt"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">PAM'S HARVESTCRAFT</h3>
+                            <p>Des centaines de nouvelles cultures, arbres fruitiers et recettes de cuisine.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">800+ items</span>
+                                <span class="mc-mod-stat-large">100+ cultures</span>
+                                <span class="mc-mod-stat-large">v2.0</span>
+                            </div>
+                            <a href="pams.html" class="mc-button" style="background: #7bea6a;">
+                                <i class="fas fa-tree"></i> Planter
+                            </a>
+                        </article>
+                        
+                        <!-- SIMPLE FARMING -->
+                        <article class="mc-mod-highlight" style="border-color: #7bea6a;">
+                            <div class="mc-mod-icon-large" style="color: #7bea6a;">
+                                <i class="fas fa-tractor"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">SIMPLE FARMING</h3>
+                            <p>Agriculture simplifiée avec nouvelles cultures et machines agricoles basiques.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">80+ items</span>
+                                <span class="mc-mod-stat-large">25 cultures</span>
+                                <span class="mc-mod-stat-large">v1.5.0</span>
+                            </div>
+                            <a href="farming.html" class="mc-button" style="background: #7bea6a;">
+                                <i class="fas fa-seedling"></i> Cultiver
+                            </a>
+                        </article>
+                    </div>
+                    
+                    <div class="mc-category-footer">
+                        <a href="mods.html?category=farm" class="mc-button large">
+                            <i class="fas fa-list"></i> Voir tous les 35 mods Agriculture
+                        </a>
+                    </div>
+                </div>
+                
+                <!-- Contenu Catégorie 4: Qualité de vie -->
+                <div id="qol-category" class="mc-category-content">
+                    <div class="mc-category-header">
+                        <h2 class="mc-category-title" style="color: #ffcc00;">
+                            <i class="fas fa-tools"></i> UTILITAIRE & QUALITÉ DE VIE
+                        </h2>
+                        <p class="mc-category-description">
+                            Outils, interfaces améliorées, gestion d'inventaire et mods pratiques
+                            pour une expérience de jeu optimisée.
+                        </p>
+                    </div>
+                    
+                    <!-- Mods en vedette - QOL -->
+                    <div class="mc-featured-mods">
+                        <!-- JOURNEYMAP -->
+                        <article class="mc-mod-highlight" style="border-color: #ffcc00;">
+                            <div class="mc-mod-icon-large" style="color: #ffcc00;">
+                                <i class="fas fa-map"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">JOURNEYMAP</h3>
+                            <p>Carte en temps réel, waypoints, navigation et exploration facilitée.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">Carte temps réel</span>
+                                <span class="mc-mod-stat-large">Waypoints</span>
+                                <span class="mc-mod-stat-large">v5.9.0</span>
+                            </div>
+                            <a href="journeymap.html" class="mc-button" style="background: #ffcc00; color: #000;">
+                                <i class="fas fa-location-dot"></i> Cartographier
+                            </a>
+                        </article>
+                        
+                        <!-- JEI -->
+                        <article class="mc-mod-highlight" style="border-color: #ffcc00;">
+                            <div class="mc-mod-icon-large" style="color: #ffcc00;">
+                                <i class="fas fa-book"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">JEI</h3>
+                            <p>Encyclopédie des recettes en jeu, recherche et visualisation de tous les crafts.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">42k+ recettes</span>
+                                <span class="mc-mod-stat-large">Recherche avancée</span>
+                                <span class="mc-mod-stat-large">v10.0.0</span>
+                            </div>
+                            <a href="jei.html" class="mc-button" style="background: #ffcc00; color: #000;">
+                                <i class="fas fa-search"></i> Chercher recettes
+                            </a>
+                        </article>
+                        
+                        <!-- INVENTORY TWEAKS -->
+                        <article class="mc-mod-highlight" style="border-color: #ffcc00;">
+                            <div class="mc-mod-icon-large" style="color: #ffcc00;">
+                                <i class="fas fa-boxes-stacked"></i>
+                            </div>
+                            <h3 class="mc-mod-title-large">INVENTORY TWEAKS</h3>
+                            <p>Gestion d'inventaire améliorée, tri automatique et outils d'organisation.</p>
+                            <div class="mc-mod-stats-large">
+                                <span class="mc-mod-stat-large">Tri automatique</span>
+                                <span class="mc-mod-stat-large">Raccourcis</span>
+                                <span class="mc-mod-stat-large">v1.8.0</span>
+                            </div>
+                            <a href="invtweaks.html" class="mc-button" style="background: #ffcc00; color: #000;">
+                                <i class="fas fa-sort"></i> Organiser
+                            </a>
+                        </article>
+                    </div>
+                    
+                    <div class="mc-category-footer">
+                        <a href="mods.html?category=qol" class="mc-button large">
+                            <i class="fas fa-list"></i> Voir tous les 114 mods QOL
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
-
-        <!-- Section Mods Populaires -->
-        <section id="popular-mods" class="mc-mods-section" aria-labelledby="mods-title">
+        
+        <!-- Section Tous les mods -->
+        <section class="mc-all-mods-section">
             <div class="mc-container">
-                <div class="mc-section-header">
-                    <h2 id="mods-title" class="mc-section-title">
-                        <i class="fas fa-crown"></i> Mods Populaires
-                    </h2>
-                    <p class="mc-section-subtitle">Les mods les plus utilisés de Sandcraft</p>
+                <h2 class="mc-section-title">
+                    <i class="fas fa-globe"></i> Vue d'ensemble complète
+                </h2>
+                <div class="mc-stats-overview">
+                    <div class="mc-stat-overview">
+                        <div class="mc-stat-big">259</div>
+                        <div class="mc-stat-label">Mods au total</div>
+                    </div>
+                    <div class="mc-stat-overview">
+                        <div class="mc-stat-big">4</div>
+                        <div class="mc-stat-label">Catégories principales</div>
+                    </div>
+                    <div class="mc-stat-overview">
+                        <div class="mc-stat-big">12</div>
+                        <div class="mc-stat-label">Sous-catégories</div>
+                    </div>
                 </div>
-                
-                <div class="mc-mods-grid">
-                    <!-- Mod 1: Create -->
-                    <article class="mc-mod-card tech">
-                        <div class="mc-mod-header">
-                            <div class="mc-mod-icon"><i class="fas fa-cogs"></i></div>
-                            <h3 class="mc-mod-title">Create</h3>
-                            <span class="mc-mod-version">v0.5.1</span>
-                        </div>
-                        <p class="mc-mod-description">
-                            Automatisation, machines cinétiques et systèmes mécaniques complexes. Le cœur de l'industrie dans Sandcraft.
-                        </p>
-                        <div class="mc-mod-stats">
-                            <span class="mc-mod-stat"><i class="fas fa-box"></i> 850+ items</span>
-                            <span class="mc-mod-stat"><i class="fas fa-cog"></i> 120 mécaniques</span>
-                        </div>
-                        <a href="create.html" class="mc-button tech">Explorer Create</a>
-                    </article>
-                    
-                    <!-- Mod 2: Mekanism -->
-                    <article class="mc-mod-card tech">
-                        <div class="mc-mod-header">
-                            <div class="mc-mod-icon"><i class="fas fa-atom"></i></div>
-                            <h3 class="mc-mod-title">Mekanism</h3>
-                            <span class="mc-mod-version">v10.3.8</span>
-                        </div>
-                        <p class="mc-mod-description">
-                            Technologie avancée, génération d'énergie, traitement des minerais et systèmes industriels high-tech.
-                        </p>
-                        <div class="mc-mod-stats">
-                            <span class="mc-mod-stat"><i class="fas fa-box"></i> 720+ items</span>
-                            <span class="mc-mod-stat"><i class="fas fa-bolt"></i> 8 types d'énergie</span>
-                        </div>
-                        <a href="mekanism.html" class="mc-button tech">Explorer Mekanism</a>
-                    </article>
-                    
-                    <!-- Mod 3: Ars Nouveau -->
-                    <article class="mc-mod-card magic">
-                        <div class="mc-mod-header">
-                            <div class="mc-mod-icon"><i class="fas fa-hat-wizard"></i></div>
-                            <h3 class="mc-mod-title">Ars Nouveau</h3>
-                            <span class="mc-mod-version">v3.2.0</span>
-                        </div>
-                        <p class="mc-mod-description">
-                            Magie des runes, sorts personnalisables et rituels mystiques. Le système de magie moderne de Sandcraft.
-                        </p>
-                        <div class="mc-mod-stats">
-                            <span class="mc-mod-stat"><i class="fas fa-scroll"></i> 150+ sorts</span>
-                            <span class="mc-mod-stat"><i class="fas fa-gem"></i> 12 runes</span>
-                        </div>
-                        <a href="ars.html" class="mc-button magic">Explorer Ars Nouveau</a>
-                    </article>
-                    
-                    <!-- Mod 4: Twilight Forest -->
-                    <article class="mc-mod-card explore">
-                        <div class="mc-mod-header">
-                            <div class="mc-mod-icon"><i class="fas fa-tree"></i></div>
-                            <h3 class="mc-mod-title">Twilight Forest</h3>
-                            <span class="mc-mod-version">v4.2.3</span>
-                        </div>
-                        <p class="mc-mod-description">
-                            Dimension mystique remplie de créatures, donjons et secrets à découvrir. Aventure garantie.
-                        </p>
-                        <div class="mc-mod-stats">
-                            <span class="mc-mod-stat"><i class="fas fa-dragon"></i> 24 boss</span>
-                            <span class="mc-mod-stat"><i class="fas fa-map"></i> 7 biomes</span>
-                        </div>
-                        <a href="twilight.html" class="mc-button explore">Explorer Twilight</a>
-                    </article>
-                </div>
-                
-                <div class="mc-section-footer">
-                    <a href="mods.html" class="mc-button">
-                        <i class="fas fa-list"></i> Voir tous les 259 mods
+                <div class="text-center">
+                    <a href="mods.html" class="mc-button xl">
+                        <i class="fas fa-list-ul"></i> EXPLORER LES 259 MODS COMPLETS
                     </a>
                 </div>
             </div>
         </section>
     </main>
-        <!-- Pied de page Minecraft -->
-    <footer class="mc-footer" role="contentinfo">
+    
+    <!-- Footer -->
+    <footer class="mc-footer">
         <div class="mc-footer-container">
-            <!-- Logo footer -->
-            <div class="mc-footer-logo">
-                <div class="mc-footer-logo-icon">
-                    <i class="fas fa-cube"></i>
-                </div>
-                <div class="mc-footer-logo-text">
-                    <h3>SANDBOX WIKI</h3>
-                    <p>Documentation Minecraft Sandcraft</p>
-                </div>
+            <div class="mc-footer-section">
+                <h3>SANDBOX WIKI</h3>
+                <p>Documentation organisée du modpack Sandcraft</p>
             </div>
-            
-            <!-- Liens footer -->
-            <div class="mc-footer-links">
-                <div class="mc-footer-column">
-                    <h4 class="mc-footer-title">Wiki</h4>
-                    <a href="index.html" class="mc-footer-link">Accueil</a>
-                    <a href="mods.html" class="mc-footer-link">Mods</a>
-                    <a href="items.html" class="mc-footer-link">Items</a>
-                    <a href="guides.html" class="mc-footer-link">Guides</a>
-                </div>
-                <div class="mc-footer-column">
-                    <h4 class="mc-footer-title">Ressources</h4>
-                    <a href="mechanics.html" class="mc-footer-link">Mécaniques</a>
-                    <a href="search.html" class="mc-footer-link">Recherche</a>
-                    <a href="https://github.com/Matheodelaille/Sandcraft" class="mc-footer-link">GitHub</a>
-                    <a href="changelog.html" class="mc-footer-link">Changelog</a>
-                </div>
-                <div class="mc-footer-column">
-                    <h4 class="mc-footer-title">Communauté</h4>
-                    <a href="#" class="mc-footer-link"><i class="fab fa-discord"></i> Discord</a>
-                    <a href="#" class="mc-footer-link"><i class="fab fa-reddit"></i> Reddit</a>
-                    <a href="#" class="mc-footer-link"><i class="fab fa-twitter"></i> Twitter</a>
-                    <a href="#" class="mc-footer-link"><i class="fab fa-youtube"></i> YouTube</a>
-                </div>
+            <div class="mc-footer-section">
+                <h4>Catégories</h4>
+                <a href="#tech-category">Technologie</a>
+                <a href="#magic-category">Magie</a>
+                <a href="#farm-category">Agriculture</a>
+                <a href="#qol-category">Qualité de vie</a>
             </div>
-            
-            <!-- Newsletter -->
-            <div class="mc-footer-newsletter">
-                <h4 class="mc-footer-title">Restez informé</h4>
-                <p>Recevez les mises à jour du wiki</p>
-                <div class="mc-newsletter-form">
-                    <input type="email" class="mc-input" placeholder="Votre email" aria-label="Email pour newsletter">
-                    <button class="mc-button tech">S'abonner</button>
-                </div>
+            <div class="mc-footer-section">
+                <h4>Ressources</h4>
+                <a href="mods.html">Tous les mods</a>
+                <a href="items.html">Items</a>
+                <a href="guides.html">Guides</a>
+                <a href="search.html">Recherche</a>
             </div>
         </div>
-        
-        <!-- Copyright -->
         <div class="mc-footer-bottom">
-            <div class="mc-footer-copyright">
-                <p>Sandcraft Wiki © 2024 - Inspiré de Minecraft</p>
-                <p>Ce site n'est pas affilié à Mojang ou Microsoft. Tous droits réservés.</p>
-            </div>
-            <div class="mc-footer-legal">
-                <a href="privacy.html" class="mc-footer-legal-link">Confidentialité</a>
-                <a href="terms.html" class="mc-footer-legal-link">Conditions</a>
-                <a href="contact.html" class="mc-footer-legal-link">Contact</a>
-            </div>
+            <p>Sandcraft Wiki © 2024 - Thème Minecraft</p>
         </div>
     </footer>
-
-    <!-- Scripts -->
-    <script src="assets/js/data-loader.js"></script>
+    
+    <!-- JavaScript pour les onglets -->
     <script>
-        // Scripts Minecraft pour les interactions
         document.addEventListener('DOMContentLoaded', function() {
-            // Animation des cartes
-            const cards = document.querySelectorAll('.mc-feature-card, .mc-mod-card');
-            cards.forEach(card => {
-                card.addEventListener('mouseenter', () => {
-                    card.style.transform = 'translateY(-5px)';
-                    card.style.boxShadow = '0 10px 25px rgba(0, 0, 0, 0.3)';
-                });
-                card.addEventListener('mouseleave', () => {
-                    card.style.transform = 'translateY(0)';
-                    card.style.boxShadow = 'none';
+            // Gestion des onglets
+            const tabs = document.querySelectorAll('.mc-category-tab');
+            const contents = document.querySelectorAll('.mc-category-content');
+            
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    // Retirer active de tous
+                    tabs.forEach(t => t.classList.remove('active'));
+                    contents.forEach(c => c.classList.remove('active'));
+                    
+                    // Activer l'onglet cliqué
+                    tab.classList.add('active');
+                    const categoryId = tab.getAttribute('data-category');
+                    document.getElementById(`${categoryId}-category`).classList.add('active');
                 });
             });
             
-            // Thème sombre/clair
-            const themeToggle = document.querySelector('.mc-theme-toggle');
-            if (themeToggle) {
-                themeToggle.addEventListener('click', () => {
-                    document.body.classList.toggle('light-theme');
-                    const icon = themeToggle.querySelector('.mc-theme-icon');
-                    if (document.body.classList.contains('light-theme')) {
-                        icon.innerHTML = '<i class="fas fa-sun"></i>';
-                        document.documentElement.style.setProperty('--mc-dark', '#f0f0f0');
-                        document.documentElement.style.setProperty('--mc-light', '#1e1e1e');
-                    } else {
-                        icon.innerHTML = '<i class="fas fa-moon"></i>';
-                        document.documentElement.style.setProperty('--mc-dark', '#1e1e1e');
-                        document.documentElement.style.setProperty('--mc-light', '#f0f0f0');
+            // Navigation depuis le hero
+            const heroPills = document.querySelectorAll('.mc-category-pill');
+            heroPills.forEach(pill => {
+                pill.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const targetId = pill.getAttribute('href').substring(1);
+                    const targetTab = document.querySelector(`[data-category="${targetId.replace('-category', '')}"]`);
+                    if (targetTab) {
+                        tabs.forEach(t => t.classList.remove('active'));
+                        contents.forEach(c => c.classList.remove('active'));
+                        targetTab.classList.add('active');
+                        document.getElementById(targetId).classList.add('active');
+                        document.getElementById('categories').scrollIntoView({ behavior: 'smooth' });
                     }
                 });
-            }
+            });
             
-            // Menu mobile
-            const menuToggle = document.querySelector('.mc-menu-toggle');
-            const mobileMenu = document.getElementById('mobileMenu');
-            if (menuToggle && mobileMenu) {
-                menuToggle.addEventListener('click', () => {
-                    const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
-                    menuToggle.setAttribute('aria-expanded', !isExpanded);
-                    mobileMenu.classList.toggle('show');
+            // Animation au scroll
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
                 });
-            }
+            }, observerOptions);
             
-            // Recherche hero
-            window.performHeroSearch = function() {
-                const query = document.getElementById('heroSearchInput').value;
-                if (query.trim()) {
-                    window.location.href = `search.html?q=${encodeURIComponent(query)}`;
-                }
-            };
-            
-            // Recherche mobile
-            window.searchMobile = function() {
-                const query = document.getElementById('mobileSearchInput').value;
-                if (query.trim()) {
-                    window.location.href = `search.html?q=${encodeURIComponent(query)}`;
-                }
-            };
-            
-            // Mise à jour en temps réel des compteurs (exemple)
-            function updateLiveCounts() {
-                // Simuler des données en temps réel
-                const players = Math.floor(Math.random() * 10) + 20;
-                document.getElementById('livePlayersCount').textContent = players;
-            }
-            
-            // Mettre à jour toutes les 30 secondes
-            setInterval(updateLiveCounts, 30000);
-            updateLiveCounts(); // Première mise à jour
+            // Observer les cartes de mods
+            document.querySelectorAll('.mc-mod-highlight').forEach(card => {
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(20px)';
+                card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+                observer.observe(card);
+            });
         });
     </script>
 </body>
