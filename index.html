@@ -25,6 +25,10 @@
             --card-bg: rgba(30, 41, 59, 0.9);
             --header-bg: rgba(15, 23, 42, 0.95);
             --shadow-color: rgba(0, 0, 0, 0.4);
+            /* NOUVELLES COULEURS POUR LES CATÉGORIES AJOUTÉES */
+            --accent-adventure: #f3722c;
+            --accent-construction: #577590;
+            --accent-library: #888;
         }
         
         .light-mode {
@@ -40,6 +44,10 @@
             --card-bg: rgba(255, 255, 255, 0.9);
             --header-bg: rgba(248, 250, 252, 0.95);
             --shadow-color: rgba(0, 0, 0, 0.1);
+            /* NOUVELLES COULEURS EN MODE CLAIR */
+            --accent-adventure: #e65c19;
+            --accent-construction: #4a6580;
+            --accent-library: #777;
         }
         
         * {
@@ -295,7 +303,7 @@
             box-shadow: 0 0 20px rgba(96, 165, 250, 0.3);
         }
 
-        /* MENU DÉROULANT */
+        /* MENU DÉROULANT - MODIFIÉ POUR AJOUTER LES NOUVELLES CATÉGORIES */
         .dropdown-menu {
             position: absolute;
             top: 100%;
@@ -348,15 +356,22 @@
             transform: translateX(5px);
         }
 
-        .dropdown-item.tech { border-left: 5px solid #3b82f6; color: #93c5fd; }
-        .dropdown-item.magic { border-left: 5px solid #a78bfa; color: #c4b5fd; }
-        .dropdown-item.agriculture { border-left: 5px solid #10b981; color: #6ee7b7; }
-        .dropdown-item.qol { border-left: 5px solid #f59e0b; color: #fcd34d; }
+        .dropdown-item.tech { border-left: 5px solid var(--accent-blue); color: #93c5fd; }
+        .dropdown-item.magic { border-left: 5px solid var(--accent-purple); color: #c4b5fd; }
+        .dropdown-item.agriculture { border-left: 5px solid var(--accent-green); color: #6ee7b7; }
+        .dropdown-item.qol { border-left: 5px solid var(--accent-orange); color: #fcd34d; }
+        /* NOUVELLES CATÉGORIES DANS LE MENU DÉROULANT */
+        .dropdown-item.adventure { border-left: 5px solid var(--accent-adventure); color: #fbbf8c; }
+        .dropdown-item.construction { border-left: 5px solid var(--accent-construction); color: #a3b8cc; }
+        .dropdown-item.library { border-left: 5px solid var(--accent-library); color: #ccc; }
 
         .dropdown-item.tech:hover { background: rgba(59, 130, 246, 0.15); }
         .dropdown-item.magic:hover { background: rgba(167, 139, 250, 0.15); }
         .dropdown-item.agriculture:hover { background: rgba(16, 185, 129, 0.15); }
         .dropdown-item.qol:hover { background: rgba(245, 158, 11, 0.15); }
+        .dropdown-item.adventure:hover { background: rgba(243, 114, 44, 0.15); }
+        .dropdown-item.construction:hover { background: rgba(87, 117, 144, 0.15); }
+        .dropdown-item.library:hover { background: rgba(136, 136, 136, 0.15); }
 
         .nav-item:hover .dropdown-menu {
             display: block;
@@ -645,24 +660,41 @@
             box-shadow: 0 20px 40px var(--shadow-color);
         }
 
+        /* CLASSES EXISTANTES */
         .category-tech {
-            background: linear-gradient(145deg, #1e40af 0%, #3b82f6 100%);
+            background: linear-gradient(145deg, #1e40af 0%, var(--accent-blue) 100%);
             border: 3px solid rgba(96, 165, 250, 0.5);
         }
 
         .category-magic {
-            background: linear-gradient(145deg, #7c3aed 0%, #a78bfa 100%);
+            background: linear-gradient(145deg, #7c3aed 0%, var(--accent-purple) 100%);
             border: 3px solid rgba(167, 139, 250, 0.5);
         }
 
         .category-agriculture {
-            background: linear-gradient(145deg, #059669 0%, #10b981 100%);
+            background: linear-gradient(145deg, #059669 0%, var(--accent-green) 100%);
             border: 3px solid rgba(16, 185, 129, 0.5);
         }
 
         .category-qol {
-            background: linear-gradient(145deg, #d97706 0%, #f59e0b 100%);
+            background: linear-gradient(145deg, #d97706 0%, var(--accent-orange) 100%);
             border: 3px solid rgba(245, 158, 11, 0.5);
+        }
+
+        /* NOUVELLES CLASSES DE CATÉGORIES */
+        .category-adventure {
+            background: linear-gradient(145deg, #c2410c 0%, var(--accent-adventure) 100%);
+            border: 3px solid rgba(243, 114, 44, 0.5);
+        }
+
+        .category-construction {
+            background: linear-gradient(145deg, #405b7a 0%, var(--accent-construction) 100%);
+            border: 3px solid rgba(87, 117, 144, 0.5);
+        }
+
+        .category-library {
+            background: linear-gradient(145deg, #666 0%, var(--accent-library) 100%);
+            border: 3px solid rgba(136, 136, 136, 0.5);
         }
 
         .category-header {
@@ -810,6 +842,34 @@
             pointer-events: none;
         }
 
+        /* STYLES POUR LA GÉNÉRATION DYNAMIQUE (AJOUTÉS) */
+        .mod-count-badge {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.4);
+            color: white;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            margin-left: 10px;
+            font-family: 'Segoe UI', sans-serif;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .data-loaded .mod-item {
+            animation: fadeInUp 0.5s ease;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         /* RESPONSIVE - CORRIGÉ POUR AUDIO */
         @media (max-width: 1200px) {
             .header-content {
@@ -950,7 +1010,7 @@
                 <span class="logo-letter letter-agriculture">T</span>
             </div>
 
-            <!-- MENU DE NAVIGATION -->
+            <!-- MENU DE NAVIGATION - MODIFIÉ POUR AJOUTER LES NOUVELLES CATÉGORIES -->
             <nav class="nav-menu">
                 <div class="nav-item">
                     <a href="#" class="nav-link active">
@@ -965,15 +1025,32 @@
                     <div class="dropdown-menu">
                         <a href="#tech" class="dropdown-item tech">
                             <i class="fas fa-robot"></i> Technologie & Automatisation
+                            <span class="mod-count-badge">68 mods</span>
                         </a>
                         <a href="#magic" class="dropdown-item magic">
                             <i class="fas fa-hat-wizard"></i> Magie & Sorcellerie
+                            <span class="mod-count-badge">42 mods</span>
                         </a>
                         <a href="#agriculture" class="dropdown-item agriculture">
                             <i class="fas fa-seedling"></i> Agriculture
+                            <span class="mod-count-badge">35 mods</span>
                         </a>
                         <a href="#qol" class="dropdown-item qol">
                             <i class="fas fa-heart"></i> Qualité de Vie
+                            <span class="mod-count-badge">52 mods</span>
+                        </a>
+                        <!-- NOUVELLES CATÉGORIES AJOUTÉES -->
+                        <a href="#adventure" class="dropdown-item adventure">
+                            <i class="fas fa-mountain"></i> Aventure & Exploration
+                            <span class="mod-count-badge">59 mods</span>
+                        </a>
+                        <a href="#construction" class="dropdown-item construction">
+                            <i class="fas fa-hammer"></i> Construction & Décoration
+                            <span class="mod-count-badge">35 mods</span>
+                        </a>
+                        <a href="#library" class="dropdown-item library">
+                            <i class="fas fa-code"></i> Bibliothèque
+                            <span class="mod-count-badge">38 mods</span>
                         </a>
                     </div>
                 </div>
@@ -1031,34 +1108,36 @@
             </div>
         </div>
     </header>
-        <!-- CONTENU PRINCIPAL -->
+
+    <!-- CONTENU PRINCIPAL -->
     <div class="container">
         <div class="categories-stack">
             <!-- TECHNOLOGIE & AUTOMATISATION -->
-            <div class="category-bubble category-tech" id="tech">
+            <div class="category-bubble category-tech" id="tech" data-category="Technologie & Automatisation">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-robot"></i>
                     </div>
                     <h2 class="category-title">TECHNOLOGIE & AUTOMATISATION</h2>
-                    <p class="category-subtitle">Systèmes automatisés, énergie et machines industrielles. 68 mods interconnectés pour automatiser votre monde.</p>
+                    <p class="category-subtitle">Systèmes automatisés, énergie et machines industrielles. <span class="mod-count-badge">68 mods</span> interconnectés pour automatiser votre monde.</p>
                 </div>
 
                 <div class="category-content">
-                    <div class="mod-item">
+                    <!-- MODIFICATION: Ajout de data-mod-id pour lier au JSON -->
+                    <div class="mod-item" data-mod-id="create">
                         <div class="mod-header">
                             <div class="mod-name">CRÉATE</div>
                             <div class="mod-version">V0.5.1</div>
                         </div>
                         <p class="mod-description">Automatisation créative et mécaniques avancées. Construisez des usines cinétiques et des systèmes mécaniques complexes avec des engrenages, courroies et moteurs.</p>
                         <div class="mod-stats">
-                            <div class="stat">589+ items</div>
-                            <div class="stat">128 mécaniques</div>
-                            <div class="stat">28 schémas</div>
+                            <div class="stat" data-stat="items">589+ items</div>
+                            <div class="stat" data-stat="mechanics">128 mécaniques</div>
+                            <div class="stat" data-stat="schematics">28 schémas</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="appliedenergistics2">
                         <div class="mod-header">
                             <div class="mod-name">APPLIED ENERGISTICS 2</div>
                             <div class="mod-version">V10.0.0</div>
@@ -1071,27 +1150,27 @@
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="thermal_series">
                         <div class="mod-header">
                             <div class="mod-name">THERMAL SERIES</div>
                             <div class="mod-version">V0.1.0</div>
                         </div>
                         <p class="mod-description">Énergie RF et machines dynamiques. Traitement de ressources, génération d'énergie et systèmes modulaires extensibles.</p>
                         <div class="mod-stats">
-                            <div class="stat">588+ items</div>
-                            <div class="stat">8 types machines</div>
+                            <div class="stat" data-stat="items">588+ items</div>
+                            <div class="stat" data-stat="machines">8 types machines</div>
                             <div class="stat">Énergie RF</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="industrial_foregoing">
                         <div class="mod-header">
                             <div class="mod-name">INDUSTRIAL FOREGOING</div>
                             <div class="mod-version">V3.3.1</div>
                         </div>
                         <p class="mod-description">Automatisation industrielle avancée avec farm mobs, minage laser et traitement de ressources à grande échelle.</p>
                         <div class="mod-stats">
-                            <div class="stat">45 machines</div>
+                            <div class="stat" data-stat="machines">45 machines</div>
                             <div class="stat">Farm automatique</div>
                             <div class="stat">Production massive</div>
                         </div>
@@ -1104,65 +1183,65 @@
             </div>
 
             <!-- MAGIE & SORCELLERIE -->
-            <div class="category-bubble category-magic" id="magic">
+            <div class="category-bubble category-magic" id="magic" data-category="Magie & Sorcellerie">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-hat-wizard"></i>
                     </div>
                     <h2 class="category-title">MAGIE & SORCELLERIE</h2>
-                    <p class="category-subtitle">Sorts, rituels et systèmes mystiques. 42 mods enchantés pour maîtriser les forces magiques de l'univers.</p>
+                    <p class="category-subtitle">Sorts, rituels et systèmes mystiques. <span class="mod-count-badge">42 mods</span> enchantés pour maîtriser les forces magiques de l'univers.</p>
                 </div>
 
                 <div class="category-content">
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="ars_nouveau">
                         <div class="mod-header">
                             <div class="mod-name">ARS NOUVEAU</div>
                             <div class="mod-version">V3.2.0</div>
                         </div>
                         <p class="mod-description">Magie moderne avec sorts personnalisables. Créez vos propres sorts et maîtrisez les arts mystiques avec un système de glyphes évolutif.</p>
                         <div class="mod-stats">
-                            <div class="stat">158+ sorts</div>
-                            <div class="stat">12 runes</div>
-                            <div class="stat">35 glyphes</div>
+                            <div class="stat" data-stat="spells">158+ sorts</div>
+                            <div class="stat" data-stat="runes">12 runes</div>
+                            <div class="stat" data-stat="glyphs">35 glyphes</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="botania">
                         <div class="mod-header">
                             <div class="mod-name">BOTANIA</div>
                             <div class="mod-version">V1.19.2</div>
                         </div>
                         <p class="mod-description">Magie naturelle basée sur les plantes. Générez du mana et utilisez des fleurs magiques fonctionnelles pour automatiser vos processus.</p>
                         <div class="mod-stats">
-                            <div class="stat">308+ items</div>
-                            <div class="stat">58+ fleurs</div>
-                            <div class="stat">16 reliques</div>
+                            <div class="stat" data-stat="items">308+ items</div>
+                            <div class="stat" data-stat="flowers">58+ fleurs</div>
+                            <div class="stat" data-stat="relics">16 reliques</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="thaumcraft">
                         <div class="mod-header">
                             <div class="mod-name">THAUMCRAFT</div>
                             <div class="mod-version">V6.1.BETA26</div>
                         </div>
                         <p class="mod-description">Magie d'érudition et de recherche. Étudiez les aspects magiques du monde et maîtrisez les flux d'essence pour créer des artefacts puissants.</p>
                         <div class="mod-stats">
-                            <div class="stat">245+ recherches</div>
-                            <div class="stat">72 aspects</div>
-                            <div class="stat">18 artefacts</div>
+                            <div class="stat" data-stat="research">245+ recherches</div>
+                            <div class="stat" data-stat="aspects">72 aspects</div>
+                            <div class="stat" data-stat="artifacts">18 artefacts</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="blood_magic">
                         <div class="mod-header">
                             <div class="mod-name">BLOOD MAGIC</div>
                             <div class="mod-version">V3.2.0</div>
                         </div>
                         <p class="mod-description">Magie sanguine et rituels anciens. Utilisez votre essence vitale pour invoquer des démons et créer des artefacts de puissance.</p>
                         <div class="mod-stats">
-                            <div class="stat">18 rituels</div>
-                            <div class="stat">45 alchimies</div>
-                            <div class="stat">9 démons</div>
+                            <div class="stat" data-stat="rituals">18 rituels</div>
+                            <div class="stat" data-stat="alchemy">45 alchimies</div>
+                            <div class="stat" data-stat="demons">9 démons</div>
                         </div>
                     </div>
                 </div>
@@ -1173,65 +1252,65 @@
             </div>
 
             <!-- AGRICULTURE -->
-            <div class="category-bubble category-agriculture" id="agriculture">
+            <div class="category-bubble category-agriculture" id="agriculture" data-category="Agriculture">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-seedling"></i>
                     </div>
                     <h2 class="category-title">AGRICULTURE</h2>
-                    <p class="category-subtitle">Fermes automatisées, cultures et élevage. 35 mods de culture pour optimiser votre production agricole.</p>
+                    <p class="category-subtitle">Fermes automatisées, cultures et élevage. <span class="mod-count-badge">35 mods</span> de culture pour optimiser votre production agricole.</p>
                 </div>
 
                 <div class="category-content">
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="farming_valley">
                         <div class="mod-header">
                             <div class="mod-name">FARMING VALLEY</div>
                             <div class="mod-version">V2.5.0</div>
                         </div>
                         <p class="mod-description">Expérience agricole complète avec saisons, marché et progression. Gérez votre propre ferme avec cultures, élevage et commerce.</p>
                         <div class="mod-stats">
-                            <div class="stat">245+ items</div>
-                            <div class="stat">12 cultures</div>
-                            <div class="stat">8 animaux</div>
+                            <div class="stat" data-stat="items">245+ items</div>
+                            <div class="stat" data-stat="crops">12 cultures</div>
+                            <div class="stat" data-stat="animals">8 animaux</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="harvest_craft">
                         <div class="mod-header">
                             <div class="mod-name">HARVEST CRAFT</div>
                             <div class="mod-version">V4.0.8</div>
                         </div>
                         <p class="mod-description">Système agricole étendu avec cuisine et recettes. Cultivez et cuisinez des centaines d'aliments avec des machines de transformation.</p>
                         <div class="mod-stats">
-                            <div class="stat">850+ items</div>
-                            <div class="stat">75+ recettes</div>
-                            <div class="stat">15 machines</div>
+                            <div class="stat" data-stat="items">850+ items</div>
+                            <div class="stat" data-stat="recipes">75+ recettes</div>
+                            <div class="stat" data-stat="machines">15 machines</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="agricraft">
                         <div class="mod-header">
                             <div class="mod-name">AGRICRAFT</div>
                             <div class="mod-version">V3.0.5</div>
                         </div>
                         <p class="mod-description">Système de croisement génétique agricole. Améliorez vos cultures par sélection pour obtenir des plantes plus productives.</p>
                         <div class="mod-stats">
-                            <div class="stat">125+ mutations</div>
-                            <div class="stat">28 cultures</div>
-                            <div class="stat">10 statistiques</div>
+                            <div class="stat" data-stat="mutations">125+ mutations</div>
+                            <div class="stat" data-stat="crops">28 cultures</div>
+                            <div class="stat" data-stat="stats">10 statistiques</div>
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="forestry">
                         <div class="mod-header">
                             <div class="mod-name">FORESTRY</div>
                             <div class="mod-version">V5.8.2</div>
                         </div>
                         <p class="mod-description">Apiculture et arboriculture avancées. Élevez des abeilles, créez des hybrides et gérez des fermes forestières automatisées.</p>
                         <div class="mod-stats">
-                            <div class="stat">58 espèces abeilles</div>
-                            <div class="stat">24 types arbres</div>
-                            <div class="stat">15 machines</div>
+                            <div class="stat" data-stat="bees">58 espèces abeilles</div>
+                            <div class="stat" data-stat="trees">24 types arbres</div>
+                            <div class="stat" data-stat="machines">15 machines</div>
                         </div>
                     </div>
                 </div>
@@ -1242,17 +1321,17 @@
             </div>
 
             <!-- QUALITÉ DE VIE -->
-            <div class="category-bubble category-qol" id="qol">
+            <div class="category-bubble category-qol" id="qol" data-category="Qualité de Vie">
                 <div class="category-header">
                     <div class="category-icon">
                         <i class="fas fa-heart"></i>
                     </div>
                     <h2 class="category-title">QUALITÉ DE VIE</h2>
-                    <p class="category-subtitle">Améliorations d'interface, optimisation et confort de jeu. 52 mods pratiques pour une expérience de jeu fluide.</p>
+                    <p class="category-subtitle">Améliorations d'interface, optimisation et confort de jeu. <span class="mod-count-badge">52 mods</span> pratiques pour une expérience de jeu fluide.</p>
                 </div>
 
                 <div class="category-content">
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="journeymap">
                         <div class="mod-header">
                             <div class="mod-name">JOURNEYMAP</div>
                             <div class="mod-version">V5.9.7</div>
@@ -1265,7 +1344,7 @@
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="jei">
                         <div class="mod-header">
                             <div class="mod-name">JEI</div>
                             <div class="mod-version">V12.2.0</div>
@@ -1278,7 +1357,7 @@
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="apple_skin">
                         <div class="mod-header">
                             <div class="mod-name">APPLE SKIN</div>
                             <div class="mod-version">V2.4.1</div>
@@ -1291,7 +1370,7 @@
                         </div>
                     </div>
 
-                    <div class="mod-item">
+                    <div class="mod-item" data-mod-id="inventory_tweaks">
                         <div class="mod-header">
                             <div class="mod-name">INVENTORY TWEAKS</div>
                             <div class="mod-version">V1.6.3</div>
@@ -1309,6 +1388,112 @@
                     <a href="#" class="view-all-btn">VOIR LES 52 MODS QdV COMPLETS</a>
                 </div>
             </div>
+            <!-- NOUVELLE CATÉGORIE : AVENTURE & EXPLORATION -->
+            <div class="category-bubble category-adventure" id="adventure" data-category="Aventure & Exploration">
+                <div class="category-header">
+                    <div class="category-icon">
+                        <i class="fas fa-mountain"></i>
+                    </div>
+                    <h2 class="category-title">AVENTURE & EXPLORATION</h2>
+                    <p class="category-subtitle">Exploration, donjons, créatures et équipements. <span class="mod-count-badge" id="adventure-count">59 mods</span> pour enrichir votre aventure.</p>
+                </div>
+
+                <div class="category-content" id="adventure-content">
+                    <!-- Les mods de cette catégorie seront générés dynamiquement depuis le JSON -->
+                    <div class="mod-item mod-template" style="display: none;">
+                        <div class="mod-header">
+                            <div class="mod-name">NOM DU MOD</div>
+                            <div class="mod-version">VERSION</div>
+                        </div>
+                        <p class="mod-description">DESCRIPTION DU MOD</p>
+                        <div class="mod-stats">
+                            <div class="stat" data-stat="items">0 items</div>
+                            <div class="stat" data-stat="blocks">0 blocs</div>
+                            <div class="stat" data-stat="mobs">0 mobs</div>
+                            <div class="stat" data-stat="recipes">0 recettes</div>
+                        </div>
+                    </div>
+                    <!-- Message de chargement -->
+                    <div class="mod-item loading-message">
+                        <div class="mod-header">
+                            <div class="mod-name">Chargement des mods d'aventure...</div>
+                            <div class="mod-version">
+                                <i class="fas fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                        <p class="mod-description">Les données sont en cours de chargement depuis la base de données.</p>
+                        <div class="mod-stats">
+                            <div class="stat">Veuillez patienter</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 59 MODS AVENTURE COMPLETS</a>
+                </div>
+            </div>
+
+            <!-- NOUVELLE CATÉGORIE : CONSTRUCTION & DÉCORATION -->
+            <div class="category-bubble category-construction" id="construction" data-category="Construction & Décoration">
+                <div class="category-header">
+                    <div class="category-icon">
+                        <i class="fas fa-hammer"></i>
+                    </div>
+                    <h2 class="category-title">CONSTRUCTION & DÉCORATION</h2>
+                    <p class="category-subtitle">Blocs décoratifs, meubles et outils de construction. <span class="mod-count-badge" id="construction-count">35 mods</span> pour embellir votre monde.</p>
+                </div>
+
+                <div class="category-content" id="construction-content">
+                    <!-- Les mods de cette catégorie seront générés dynamiquement depuis le JSON -->
+                    <div class="mod-item loading-message">
+                        <div class="mod-header">
+                            <div class="mod-name">Chargement des mods de construction...</div>
+                            <div class="mod-version">
+                                <i class="fas fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                        <p class="mod-description">Les données sont en cours de chargement depuis la base de données.</p>
+                        <div class="mod-stats">
+                            <div class="stat">Veuillez patienter</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 35 MODS CONSTRUCTION COMPLETS</a>
+                </div>
+            </div>
+
+            <!-- NOUVELLE CATÉGORIE : BIBLIOTHÈQUE -->
+            <div class="category-bubble category-library" id="library" data-category="Bibliothèque">
+                <div class="category-header">
+                    <div class="category-icon">
+                        <i class="fas fa-code"></i>
+                    </div>
+                    <h2 class="category-title">BIBLIOTHÈQUE</h2>
+                    <p class="category-subtitle">Mods techniques requis par d'autres mods. <span class="mod-count-badge" id="library-count">38 mods</span> de support essentiels.</p>
+                </div>
+
+                <div class="category-content" id="library-content">
+                    <!-- Les mods de cette catégorie seront générés dynamiquement depuis le JSON -->
+                    <div class="mod-item loading-message">
+                        <div class="mod-header">
+                            <div class="mod-name">Chargement des bibliothèques...</div>
+                            <div class="mod-version">
+                                <i class="fas fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                        <p class="mod-description">Les données sont en cours de chargement depuis la base de données.</p>
+                        <div class="mod-stats">
+                            <div class="stat">Veuillez patienter</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="category-footer">
+                    <a href="#" class="view-all-btn">VOIR LES 38 BIBLIOTHÈQUES COMPLÈTES</a>
+                </div>
+            </div>
         </div>
 
         <div class="footer">
@@ -1317,7 +1502,8 @@
             <p style="margin-top: 10px; font-size: 0.8rem; opacity: 0.7;">
                 <i class="fas fa-palette"></i> Mode: <span id="currentTheme">Sombre</span> | 
                 <i class="fas fa-calendar-alt"></i> Thème: <span id="currentSeason">Normal</span> |
-                <i class="fas fa-music"></i> <span id="musicStatus">OFF</span>
+                <i class="fas fa-music"></i> <span id="musicStatus">OFF</span> |
+                <i class="fas fa-database"></i> <span id="dataStatus">Chargement...</span>
             </p>
         </div>
     </div>
@@ -1373,9 +1559,13 @@
             </div>
         </div>
     </div>
-        <!-- API YouTube -->
+    <!-- API YouTube -->
     <script src="https://www.youtube.com/iframe_api"></script>
     <script>
+        // ============================================
+        // PARTIE 1 : TON CODE EXISTANT (AUDIO, THÈMES, ETC.)
+        // ============================================
+        
         // Variables globales
         let player;
         let isPlaying = false;
@@ -1854,7 +2044,8 @@
                 }
             });
         });
-                // Gestion du mode clair/sombre existant
+        
+        // Gestion du mode clair/sombre existant
         const themeToggle = document.getElementById('themeToggle');
         const body = document.body;
         
@@ -1949,7 +2140,496 @@
             
             return false;
         }
-        
+
+        // ============================================
+        // PARTIE 2 : NOTRE NOUVELLE GESTION DES DONNÉES
+        // ============================================
+
+        // Configuration des catégories
+        const CATEGORIES_CONFIG = {
+            'Technologie & Automatisation': {
+                id: 'tech',
+                icon: 'fas fa-robot',
+                color: 'var(--accent-blue)',
+                countElement: null,
+                contentElement: null
+            },
+            'Magie & Sorcellerie': {
+                id: 'magic',
+                icon: 'fas fa-hat-wizard',
+                color: 'var(--accent-purple)',
+                countElement: null,
+                contentElement: null
+            },
+            'Agriculture': {
+                id: 'agriculture',
+                icon: 'fas fa-seedling',
+                color: 'var(--accent-green)',
+                countElement: null,
+                contentElement: null
+            },
+            'Qualité de Vie': {
+                id: 'qol',
+                icon: 'fas fa-heart',
+                color: 'var(--accent-orange)',
+                countElement: null,
+                contentElement: null
+            },
+            'Aventure & Exploration': {
+                id: 'adventure',
+                icon: 'fas fa-mountain',
+                color: 'var(--accent-adventure)',
+                countElement: 'adventure-count',
+                contentElement: 'adventure-content'
+            },
+            'Construction & Décoration': {
+                id: 'construction',
+                icon: 'fas fa-hammer',
+                color: 'var(--accent-construction)',
+                countElement: 'construction-count',
+                contentElement: 'construction-content'
+            },
+            'Bibliothèque': {
+                id: 'library',
+                icon: 'fas fa-code',
+                color: 'var(--accent-library)',
+                countElement: 'library-count',
+                contentElement: 'library-content'
+            }
+        };
+
+        // Variables pour les données
+        let allModsData = [];
+        let isLoadingData = false;
+        let dataLoaded = false;
+
+        // Fonction principale pour charger les données
+        async function loadModsData() {
+            if (isLoadingData) return;
+            
+            isLoadingData = true;
+            updateDataStatus('Chargement...');
+            
+            try {
+                console.log('📂 Chargement des données depuis data/mods.json...');
+                
+                // Récupérer les données
+                const response = await fetch('data/mods.json');
+                if (!response.ok) {
+                    throw new Error(`Erreur HTTP: ${response.status}`);
+                }
+                
+                allModsData = await response.json();
+                console.log(`✅ ${allModsData.length} mods chargés`);
+                
+                // Traiter les données
+                processModsData();
+                dataLoaded = true;
+                
+                // Mettre à jour l'interface
+                updateCategoryCounts();
+                generateDynamicCategories();
+                updateExistingMods();
+                
+                updateDataStatus('✓ 259 mods chargés');
+                showNotification('📊 Base de données chargée avec succès');
+                
+                // Ajouter la classe pour les animations
+                document.body.classList.add('data-loaded');
+                
+            } catch (error) {
+                console.error('❌ Erreur lors du chargement des données:', error);
+                updateDataStatus('✗ Erreur de chargement');
+                showNotification('❌ Impossible de charger les données');
+                
+                // Afficher les données par défaut pour les nouvelles catégories
+                showFallbackContent();
+            } finally {
+                isLoadingData = false;
+            }
+        }
+
+        // Traiter les données
+        function processModsData() {
+            // Compter les mods par catégorie
+            const categoryCounts = {};
+            
+            allModsData.forEach(mod => {
+                if (mod.categories && Array.isArray(mod.categories)) {
+                    mod.categories.forEach(category => {
+                        categoryCounts[category] = (categoryCounts[category] || 0) + 1;
+                    });
+                }
+            });
+            
+            // Mettre à jour la configuration
+            Object.keys(CATEGORIES_CONFIG).forEach(categoryName => {
+                CATEGORIES_CONFIG[categoryName].count = categoryCounts[categoryName] || 0;
+            });
+            
+            console.log('📊 Répartition des mods:', categoryCounts);
+        }
+
+        // Mettre à jour les compteurs de catégories
+        function updateCategoryCounts() {
+            Object.keys(CATEGORIES_CONFIG).forEach(categoryName => {
+                const config = CATEGORIES_CONFIG[categoryName];
+                const count = config.count || 0;
+                
+                // Mettre à jour le badge dans le menu déroulant
+                const dropdownItem = document.querySelector(`.dropdown-item.${config.id}`);
+                if (dropdownItem) {
+                    const badge = dropdownItem.querySelector('.mod-count-badge');
+                    if (badge) {
+                        badge.textContent = `${count} mods`;
+                    }
+                }
+                
+                // Mettre à jour le compteur dans la bulle (pour les nouvelles catégories)
+                if (config.countElement) {
+                    const countElement = document.getElementById(config.countElement);
+                    if (countElement) {
+                        countElement.textContent = `${count} mods`;
+                    }
+                }
+                
+                // Mettre à jour le sous-titre (pour les catégories existantes)
+                const categoryBubble = document.querySelector(`[data-category="${categoryName}"]`);
+                if (categoryBubble) {
+                    const subtitle = categoryBubble.querySelector('.category-subtitle');
+                    if (subtitle) {
+                        const badge = subtitle.querySelector('.mod-count-badge');
+                        if (badge) {
+                            badge.textContent = `${count} mods`;
+                        }
+                    }
+                    
+                    // Mettre à jour le bouton "Voir tous"
+                    const viewAllBtn = categoryBubble.querySelector('.view-all-btn');
+                    if (viewAllBtn) {
+                        viewAllBtn.textContent = `VOIR LES ${count} MODS ${categoryName.toUpperCase()} COMPLETS`;
+                    }
+                }
+            });
+        }
+
+        // Générer le contenu pour les nouvelles catégories
+        function generateDynamicCategories() {
+            // Pour chaque catégorie qui a un contentElement défini
+            Object.keys(CATEGORIES_CONFIG).forEach(categoryName => {
+                const config = CATEGORIES_CONFIG[categoryName];
+                
+                if (config.contentElement) {
+                    const contentElement = document.getElementById(config.contentElement);
+                    if (!contentElement) return;
+                    
+                    // Supprimer le message de chargement
+                    const loadingMessage = contentElement.querySelector('.loading-message');
+                    if (loadingMessage) {
+                        loadingMessage.remove();
+                    }
+                    
+                    // Filtrer les mods de cette catégorie
+                    const modsInCategory = allModsData.filter(mod => 
+                        mod.categories && mod.categories.includes(categoryName)
+                    );
+                    
+                    // Trier par nom
+                    modsInCategory.sort((a, b) => a.official_name.localeCompare(b.official_name));
+                    
+                    // Prendre les 4 premiers mods pour l'affichage
+                    const displayMods = modsInCategory.slice(0, 4);
+                    
+                    // Générer les cartes de mods
+                    displayMods.forEach(mod => {
+                        const modCard = createModCard(mod);
+                        contentElement.appendChild(modCard);
+                    });
+                    
+                    console.log(`✅ ${displayMods.length} mods générés pour ${categoryName}`);
+                }
+            });
+        }
+
+        // Créer une carte de mod
+        function createModCard(modData) {
+            const card = document.createElement('div');
+            card.className = 'mod-item';
+            card.setAttribute('data-mod-id', modData.id);
+            
+            // Version formatée
+            const version = modData.version || 'N/A';
+            const versionText = version.startsWith('V') ? version : `V${version}`;
+            
+            // Contenu HTML
+            card.innerHTML = `
+                <div class="mod-header">
+                    <div class="mod-name">${modData.official_name || modData.id}</div>
+                    <div class="mod-version">${versionText}</div>
+                </div>
+                <p class="mod-description">${modData.description || 'Aucune description disponible.'}</p>
+                <div class="mod-stats">
+                    ${modData.content && modData.content.items ? `<div class="stat" data-stat="items">${modData.content.items} items</div>` : ''}
+                    ${modData.content && modData.content.blocks ? `<div class="stat" data-stat="blocks">${modData.content.blocks} blocs</div>` : ''}
+                    ${modData.content && modData.content.mobs ? `<div class="stat" data-stat="mobs">${modData.content.mobs} mobs</div>` : ''}
+                    ${modData.content && modData.content.recipes ? `<div class="stat" data-stat="recipes">${modData.content.recipes} recettes</div>` : ''}
+                    ${(!modData.content || (!modData.content.items && !modData.content.blocks && !modData.content.mobs && !modData.content.recipes)) 
+                        ? '<div class="stat">Statistiques à venir</div>' : ''}
+                </div>
+            `;
+            
+            return card;
+        }
+
+        // Mettre à jour les mods existants avec les données du JSON
+        function updateExistingMods() {
+            // Pour chaque mod-item qui a un data-mod-id
+            document.querySelectorAll('.mod-item[data-mod-id]').forEach(modElement => {
+                const modId = modElement.getAttribute('data-mod-id');
+                const modData = allModsData.find(mod => mod.id === modId);
+                
+                if (modData) {
+                    // Mettre à jour la version
+                    const versionElement = modElement.querySelector('.mod-version');
+                    if (versionElement && modData.version) {
+                        const version = modData.version.startsWith('V') ? modData.version : `V${modData.version}`;
+                        versionElement.textContent = version;
+                    }
+                    
+                    // Mettre à jour les statistiques
+                    if (modData.content) {
+                        // Items
+                        const itemsStat = modElement.querySelector('[data-stat="items"]');
+                        if (itemsStat && modData.content.items) {
+                            itemsStat.textContent = `${modData.content.items}+ items`;
+                        }
+                        
+                        // Mécaniques
+                        const mechanicsStat = modElement.querySelector('[data-stat="mechanics"]');
+                        if (mechanicsStat && modData.content.mechanics) {
+                            mechanicsStat.textContent = `${modData.content.mechanics} mécaniques`;
+                        }
+                        
+                        // Schémas
+                        const schematicsStat = modElement.querySelector('[data-stat="schematics"]');
+                        if (schematicsStat && modData.content.schematics) {
+                            schematicsStat.textContent = `${modData.content.schematics} schémas`;
+                        }
+                        
+                        // Machines
+                        const machinesStat = modElement.querySelector('[data-stat="machines"]');
+                        if (machinesStat && modData.content.machines) {
+                            machinesStat.textContent = `${modData.content.machines} machines`;
+                        }
+                        
+                        // Sorts
+                        const spellsStat = modElement.querySelector('[data-stat="spells"]');
+                        if (spellsStat && modData.content.spells) {
+                            spellsStat.textContent = `${modData.content.spells}+ sorts`;
+                        }
+                        
+                        // Runes
+                        const runesStat = modElement.querySelector('[data-stat="runes"]');
+                        if (runesStat && modData.content.runes) {
+                            runesStat.textContent = `${modData.content.runes} runes`;
+                        }
+                        
+                        // Glyphes
+                        const glyphsStat = modElement.querySelector('[data-stat="glyphs"]');
+                        if (glyphsStat && modData.content.glyphs) {
+                            glyphsStat.textContent = `${modData.content.glyphs} glyphes`;
+                        }
+                        
+                        // Recherches
+                        const researchStat = modElement.querySelector('[data-stat="research"]');
+                        if (researchStat && modData.content.research) {
+                            researchStat.textContent = `${modData.content.research}+ recherches`;
+                        }
+                        
+                        // Aspects
+                        const aspectsStat = modElement.querySelector('[data-stat="aspects"]');
+                        if (aspectsStat && modData.content.aspects) {
+                            aspectsStat.textContent = `${modData.content.aspects} aspects`;
+                        }
+                        
+                        // Artéfacts
+                        const artifactsStat = modElement.querySelector('[data-stat="artifacts"]');
+                        if (artifactsStat && modData.content.artifacts) {
+                            artifactsStat.textContent = `${modData.content.artifacts} artefacts`;
+                        }
+                        
+                        // Rituels
+                        const ritualsStat = modElement.querySelector('[data-stat="rituals"]');
+                        if (ritualsStat && modData.content.rituals) {
+                            ritualsStat.textContent = `${modData.content.rituals} rituels`;
+                        }
+                        
+                        // Alchimies
+                        const alchemyStat = modElement.querySelector('[data-stat="alchemy"]');
+                        if (alchemyStat && modData.content.alchemy) {
+                            alchemyStat.textContent = `${modData.content.alchemy} alchimies`;
+                        }
+                        
+                        // Démons
+                        const demonsStat = modElement.querySelector('[data-stat="demons"]');
+                        if (demonsStat && modData.content.demons) {
+                            demonsStat.textContent = `${modData.content.demons} démons`;
+                        }
+                        
+                        // Cultures
+                        const cropsStat = modElement.querySelector('[data-stat="crops"]');
+                        if (cropsStat && modData.content.crops) {
+                            cropsStat.textContent = `${modData.content.crops} cultures`;
+                        }
+                        
+                        // Animaux
+                        const animalsStat = modElement.querySelector('[data-stat="animals"]');
+                        if (animalsStat && modData.content.animals) {
+                            animalsStat.textContent = `${modData.content.animals} animaux`;
+                        }
+                        
+                        // Recettes
+                        const recipesStat = modElement.querySelector('[data-stat="recipes"]');
+                        if (recipesStat && modData.content.recipes) {
+                            recipesStat.textContent = `${modData.content.recipes}+ recettes`;
+                        }
+                        
+                        // Mutations
+                        const mutationsStat = modElement.querySelector('[data-stat="mutations"]');
+                        if (mutationsStat && modData.content.mutations) {
+                            mutationsStat.textContent = `${modData.content.mutations}+ mutations`;
+                        }
+                        
+                        // Statistiques
+                        const statsStat = modElement.querySelector('[data-stat="stats"]');
+                        if (statsStat && modData.content.stats) {
+                            statsStat.textContent = `${modData.content.stats} statistiques`;
+                        }
+                        
+                        // Abeilles
+                        const beesStat = modElement.querySelector('[data-stat="bees"]');
+                        if (beesStat && modData.content.bees) {
+                            beesStat.textContent = `${modData.content.bees} espèces abeilles`;
+                        }
+                        
+                        // Arbres
+                        const treesStat = modElement.querySelector('[data-stat="trees"]');
+                        if (treesStat && modData.content.trees) {
+                            treesStat.textContent = `${modData.content.trees} types arbres`;
+                        }
+                        
+                        // Fleurs
+                        const flowersStat = modElement.querySelector('[data-stat="flowers"]');
+                        if (flowersStat && modData.content.flowers) {
+                            flowersStat.textContent = `${modData.content.flowers}+ fleurs`;
+                        }
+                        
+                        // Reliques
+                        const relicsStat = modElement.querySelector('[data-stat="relics"]');
+                        if (relicsStat && modData.content.relics) {
+                            relicsStat.textContent = `${modData.content.relics} reliques`;
+                        }
+                    }
+                }
+            });
+            
+            console.log('✅ Mods existants mis à jour');
+        }
+
+        // Afficher le contenu de secours
+        function showFallbackContent() {
+            // Données par défaut pour les nouvelles catégories
+            const fallbackData = {
+                'Aventure & Exploration': [
+                    { id: 'iceandfire', official_name: 'Ice and Fire', version: '2.1.13', description: 'Dragons et créatures mythologiques.' },
+                    { id: 'dungeons_arise', official_name: 'Dungeons Arise', version: '2.1.56', description: 'Donjons épiques et structures.' },
+                    { id: 'yungs_better', official_name: 'YUNG\'s Better', version: '3.2.0', description: 'Amélioration des structures vanilla.' },
+                    { id: 'alexsmobs', official_name: 'Alex\'s Mobs', version: '1.21.1', description: 'Créatures détaillées et uniques.' }
+                ],
+                'Construction & Décoration': [
+                    { id: 'macaws', official_name: 'Macaw\'s', version: '2.3.0', description: 'Série de mods décoratifs.' },
+                    { id: 'decorative_blocks', official_name: 'Decorative Blocks', version: '3.0.0', description: 'Blocs décoratifs variés.' },
+                    { id: 'another_furniture', official_name: 'Another Furniture', version: '2.1.4', description: 'Meubles stylisés.' },
+                    { id: 'handcrafted', official_name: 'Handcrafted', version: '2.0.6', description: 'Objets décoratifs détaillés.' }
+                ],
+                'Bibliothèque': [
+                    { id: 'architectury', official_name: 'Architectury', version: '6.6.92', description: 'API multi-loader.' },
+                    { id: 'geckolib', official_name: 'GeckoLib', version: '3.1.40', description: 'Bibliothèque d\'animations.' },
+                    { id: 'patchouli', official_name: 'Patchouli', version: '77', description: 'Système de livres.' },
+                    { id: 'curios', official_name: 'Curios API', version: '5.1.6', description: 'Système d\'équipement.' }
+                ]
+            };
+            
+            Object.keys(fallbackData).forEach(categoryName => {
+                const config = CATEGORIES_CONFIG[categoryName];
+                if (config && config.contentElement) {
+                    const contentElement = document.getElementById(config.contentElement);
+                    if (contentElement) {
+                        // Supprimer le message de chargement
+                        const loadingMessage = contentElement.querySelector('.loading-message');
+                        if (loadingMessage) loadingMessage.remove();
+                        
+                        // Ajouter les mods par défaut
+                        fallbackData[categoryName].forEach(mod => {
+                            const modCard = createModCard(mod);
+                            contentElement.appendChild(modCard);
+                        });
+                    }
+                }
+            });
+            
+            console.log('⚠️ Contenu de secours affiché');
+        }
+
+        // Mettre à jour le statut des données
+        function updateDataStatus(status) {
+            const dataStatusEl = document.getElementById('dataStatus');
+            if (dataStatusEl) {
+                dataStatusEl.textContent = status;
+            }
+        }
+
+        // ============================================
+        // INITIALISATION
+        // ============================================
+
+        // Au chargement du DOM
+        document.addEventListener('DOMContentLoaded', function() {
+            // Ton code existant s'exécute déjà ici
+            
+            // Notre code s'ajoute après
+            console.log('🚀 Initialisation du système de données...');
+            
+            // Démarrer le chargement des données après un court délai
+            setTimeout(() => {
+                loadModsData();
+            }, 1000);
+            
+            // Ajouter un bouton de rechargement manuel (debug)
+            const debugBtn = document.createElement('button');
+            debugBtn.innerHTML = '🔄 Recharger';
+            debugBtn.style.cssText = `
+                position: fixed;
+                top: 80px;
+                left: 20px;
+                background: var(--accent-blue);
+                color: white;
+                border: none;
+                padding: 8px 12px;
+                border-radius: 5px;
+                font-size: 12px;
+                cursor: pointer;
+                z-index: 9999;
+                font-family: monospace;
+                opacity: 0.7;
+            `;
+            debugBtn.onclick = function() {
+                loadModsData();
+                showNotification('🔄 Rechargement des données...');
+            };
+            document.body.appendChild(debugBtn);
+        });
+
         // TEST: Ajouter un bouton de débogage
         setTimeout(() => {
             const debugBtn = document.createElement('button');
@@ -1975,18 +2655,15 @@
                 console.log('Volume:', currentVolume);
                 console.log('Thème:', currentTheme);
                 console.log('Utilisateur interactif:', userHasInteracted);
+                console.log('=== DEBUG DONNÉES ===');
+                console.log('Données chargées:', dataLoaded);
+                console.log('Nombre de mods:', allModsData.length);
+                console.log('Chargement en cours:', isLoadingData);
                 if (player) {
                     console.log('Player existe: OUI');
-                    console.log('Méthodes:', {
-                        playVideo: typeof player.playVideo,
-                        pauseVideo: typeof player.pauseVideo,
-                        getPlayerState: typeof player.getPlayerState
-                    });
                     if (typeof player.getPlayerState === 'function') {
                         const state = player.getPlayerState();
-                        console.log('État actuel:', state);
-                        const states = ['ENDED', 'PLAYING', 'PAUSED', 'BUFFERING', 'CUED'];
-                        console.log('État nom:', states[state] || 'UNSTARTED');
+                        console.log('État audio:', state);
                     }
                 } else {
                     console.log('Player existe: NON');
