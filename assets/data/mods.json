@@ -1,0 +1,75 @@
+[
+  {
+    "id": "create",
+    "official_name": "Create",
+    "version": "0.5.1.f",
+    "categories": ["Technologie & Automatisation"],
+    "description": "Automatisation créative et mécaniques avancées. Construisez des usines cinétiques et des systèmes mécaniques complexes avec des engrenages, courroies et moteurs.",
+    "features": ["Engrenages", "Courroies", "Moteurs", "Systèmes cinétiques"],
+    "content": {
+      "items": 589,
+      "mechanics": 128,
+      "schematics": 28
+    },
+    "dependencies": ["flywheel"],
+    "integrations": ["createaddition", "createastracompat"]
+  },
+  {
+    "id": "appliedenergistics2",
+    "official_name": "Applied Energistics 2",
+    "version": "12.9.9",
+    "categories": ["Technologie & Automatisation"],
+    "description": "Système de stockage numérique avancé. Automatisez le crafting et gérez des millions d'items avec une interface moderne et des réseaux intelligents.",
+    "features": ["Stockage numérique", "Crafting automatique", "Réseaux ME"],
+    "content": {
+      "items": 450,
+      "machines": 25
+    },
+    "dependencies": [],
+    "integrations": ["ae2_things", "appliedcooking"]
+  },
+  {
+    "id": "iceandfire",
+    "official_name": "Ice and Fire: Dragons",
+    "version": "2.1.13-beta-3",
+    "categories": ["Aventure & Exploration"],
+    "description": "Mod majeur ajoutant des dragons, créatures mythologiques et donjons épiques.",
+    "features": ["Dragons", "Créatures mythologiques", "Donjons", "Système d'apprivoisement"],
+    "content": {
+      "items": 320,
+      "blocks": 85,
+      "mobs": 45,
+      "recipes": 280
+    },
+    "dependencies": ["citadel", "geckolib"],
+    "integrations": []
+  },
+  {
+    "id": "macaws",
+    "official_name": "Macaw's Series",
+    "version": "2.3.0",
+    "categories": ["Construction & Décoration"],
+    "description": "Collection de mods décoratifs pour embellir vos constructions.",
+    "features": ["Ponts", "Fenêtres", "Portes", "Meubles", "Lumières"],
+    "content": {
+      "items": 620,
+      "blocks": 280
+    },
+    "dependencies": [],
+    "integrations": []
+  },
+  {
+    "id": "architectury",
+    "official_name": "Architectury API",
+    "version": "6.6.92",
+    "categories": ["Bibliothèque"],
+    "description": "API de compatibilité multi-loader pour les mods Forge et Fabric.",
+    "features": ["Abstraction multi-loader", "Compatibilité croisée"],
+    "content": {
+      "items": 0,
+      "blocks": 0
+    },
+    "dependencies": [],
+    "integrations": []
+  }
+]
