@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mods - Wiki Sandcraft</title>
+    <link rel="stylesheet" href="../../src/styles/main.css">
+    <link rel="stylesheet" href="../../src/styles/mods.css">
+    <style>
+        /* Styles inline pour démarrer rapidement */
+        .category-badge { 
+            padding: 3px 10px; 
+            border-radius: 12px; 
+            color: white; 
+            font-size: 0.85em; 
+        }
+        .controls { margin: 20px 0; display: flex; gap: 15px; flex-wrap: wrap; }
+        .search-box { padding: 8px 15px; border: 1px solid #ddd; border-radius: 6px; }
+        #categoryFilter { padding: 8px 15px; border-radius: 6px; }
+        .btn-details { padding: 5px 12px; background: #4a6fa5; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: #f8f9fa; cursor: pointer; }
+        th[data-sort]:hover { background: #e9ecef; }
+        .error-message { padding: 40px; text-align: center; color: #721c24; background: #f8d7da; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Liste des Mods Sandcraft</h1>
+        <p id="modsCounter" class="counter">Chargement...</p>
+        
+        <div class="controls">
+            <input type="text" id="modSearch" class="search-box" placeholder="Rechercher un mod..." />
+            <select id="categoryFilter" class="category-filter">
+                <option value="">Chargement des catégories...</option>
+            </select>
+        </div>
+
+        <div id="modsContainer">
+            <table id="modsTable">
+                <thead>
+                    <tr>
+                        <th data-sort="category" width="15%">Catégorie</th>
+                        <th data-sort="name" width="20%">Nom du Mod</th>
+                        <th data-sort="description" width="35%">Description</th>
+                        <th data-sort="fileName" width="20%">Fichier</th>
+                        <th width="10%">Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="modsTableBody">
+                    <!-- Les mods seront insérés ici par JavaScript -->
+                    <tr><td colspan="5">Chargement des mods en cours...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Charger notre script de gestion des données -->
+    <script src="../../src/scripts/data-loader.js"></script>
+</body>
+</html>
