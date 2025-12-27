@@ -1,0 +1,128 @@
+/* animated-background.css */
+#minecraft-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2; /* DERRIÈRE tout */
+    overflow: hidden;
+    background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+}
+
+/* Particules de base */
+.particle {
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+/* Items Minecraft - AUGMENTÉ À 40 TYPES ! */
+.minecraft-item {
+    position: absolute;
+    width: 48px;  /* Légèrement plus grand */
+    height: 48px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.25; /* Plus transparent pour ne pas surcharger */
+    filter: brightness(1.3) drop-shadow(0 0 8px currentColor);
+    pointer-events: none;
+    animation: floatItem 25s infinite linear;
+    z-index: -1;
+}
+
+/* 40 SPRITES DIFFÉRENTS d'items Minecraft */
+/* Outils & Armures */
+.pickaxe-diamond { background-image: url('https://static.wikia.nocookie.net/minecraft/images/c/c2/Diamond_Pickaxe_JE3_BE3.png'); }
+.sword-diamond { background-image: url('https://static.wikia.nocookie.net/minecraft/images/3/3c/Diamond_Sword_JE3_BE3.png'); }
+.helmet-diamond { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/5a/Diamond_Helmet_JE3_BE2.png'); }
+.chestplate-diamond { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/5e/Diamond_Chestplate_JE2_BE2.png'); }
+
+/* Minerais & Gemmes */
+.diamond { background-image: url('https://static.wikia.nocookie.net/minecraft/images/f/ff/Diamond_JE3_BE3.png'); }
+.emerald { background-image: url('https://static.wikia.nocookie.net/minecraft/images/9/9a/Emerald_JE3_BE3.png'); }
+.redstone { background-image: url('https://static.wikia.nocookie.net/minecraft/images/1/1d/Redstone_Dust_JE4_BE3.png'); }
+.lapis { background-image: url('https://static.wikia.nocookie.net/minecraft/images/2/2d/Lapis_Lazuli_JE3_BE3.png'); }
+.quartz { background-image: url('https://static.wikia.nocookie.net/minecraft/images/6/69/Nether_Quartz_JE3_BE2.png'); }
+.coal { background-image: url('https://static.wikia.nocookie.net/minecraft/images/2/26/Coal_JE3_BE3.png'); }
+.iron-ingot { background-image: url('https://static.wikia.nocookie.net/minecraft/images/f/fc/Iron_Ingot_JE3_BE2.png'); }
+.gold-ingot { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/51/Gold_Ingot_JE3_BE2.png'); }
+
+/* Items magiques & spéciaux */
+.ender-pearl { background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/4b/Ender_Pearl_JE3_BE2.png'); }
+.ender-eye { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/5a/Eye_of_Ender_JE2_BE2.png'); }
+.nether-star { background-image: url('https://static.wikia.nocookie.net/minecraft/images/e/e1/Nether_Star_JE2_BE2.png'); }
+.blaze-rod { background-image: url('https://static.wikia.nocookie.net/minecraft/images/6/69/Blaze_Rod_JE2_BE2.png'); }
+.ghast-tear { background-image: url('https://static.wikia.nocookie.net/minecraft/images/9/92/Ghast_Tear_JE3_BE2.png'); }
+.magma-cream { background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/4c/Magma_Cream_JE3_BE2.png'); }
+
+/* Items de craft & utilitaires */
+.crafting-table { background-image: url('https://static.wikia.nocookie.net/minecraft/images/1/11/Crafting_Table_JE4.png'); }
+.furnace { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/56/Furnace_JE3.png'); }
+.chest { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/59/Chest_JE3.png'); }
+.enchanting-table { background-image: url('https://static.wikia.nocookie.net/minecraft/images/0/06/Enchanting_Table_JE3.png'); }
+.anvil { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/5d/Anvil_JE3.png'); }
+
+/* Nourriture & Agriculture */
+.apple { background-image: url('https://static.wikia.nocookie.net/minecraft/images/7/7d/Apple_JE3_BE2.png'); }
+.golden-apple { background-image: url('https://static.wikia.nocookie.net/minecraft/images/0/0a/Golden_Apple_JE3_BE2.png'); }
+.carrot { background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/48/Carrot_JE3_BE2.png'); }
+.potato { background-image: url('https://static.wikia.nocookie.net/minecraft/images/8/82/Potato_JE3_BE2.png'); }
+.bread { background-image: url('https://static.wikia.nocookie.net/minecraft/images/6/68/Bread_JE3_BE2.png'); }
+
+/* Créatures & Drops */
+.egg { background-image: url('https://static.wikia.nocookie.net/minecraft/images/a/aa/Egg_JE2_BE2.png'); }
+.feather { background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/45/Feather_JE3_BE2.png'); }
+.leather { background-image: url('https://static.wikia.nocookie.net/minecraft/images/2/2a/Leather_JE3_BE2.png'); }
+.string { background-image: url('https://static.wikia.nocookie.net/minecraft/images/5/51/String_JE2_BE2.png'); }
+.spider-eye { background-image: url('https://static.wikia.nocookie.net/minecraft/images/1/18/Spider_Eye_JE2_BE2.png'); }
+.bone { background-image: url('https://static.wikia.nocookie.net/minecraft/images/9/9c/Bone_JE3_BE2.png'); }
+.arrow { background-image: url('https://static.wikia.nocookie.net/minecraft/images/0/09/Arrow_JE2_BE2.png'); }
+
+/* Blocs iconiques */
+.grass-block { background-image: url('https://static.wikia.nocookie.net/minecraft/images/8/87/Grass_Block_JE7.png'); }
+.stone { background-image: url('https://static.wikia.nocookie.net/minecraft/images/9/9a/Stone_JE6_BE5.png'); }
+.dirt { background-image: url('https://static.wikia.nocookie.net/minecraft/images/1/12/Dirt_JE7.png'); }
+.wood-oak { background-image: url('https://static.wikia.nocookie.net/minecraft/images/0/0c/Oak_Planks_JE6.png'); }
+.cobblestone { background-image: url('https://static.wikia.nocookie.net/minecraft/images/8/8a/Cobblestone_JE5.png'); }
+.obsidian { background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/4a/Obsidian_JE3_BE2.png'); }
+.glowstone { background-image: url('https://static.wikia.nocookie.net/minecraft/images/a/a9/Glowstone_JE3_BE2.png'); }
+.book { background-image: url('https://static.wikia.nocookie.net/minecraft/images/d/d3/Knowledge_Book_JE2.png'); }
+
+/* ANIMATIONS AMÉLIORÉES */
+@keyframes floatItem {
+    0% {
+        transform: translateY(110vh) translateX(-50px) rotate(0deg) scale(0.8);
+        opacity: 0;
+    }
+    5% {
+        opacity: 0.25;
+    }
+    95% {
+        opacity: 0.25;
+    }
+    100% {
+        transform: translateY(-150px) translateX(50px) rotate(360deg) scale(1.2);
+        opacity: 0;
+    }
+}
+
+@keyframes particleTwinkle {
+    0%, 100% { 
+        opacity: 0.1;
+        transform: scale(1);
+    }
+    50% { 
+        opacity: 0.6;
+        transform: scale(1.05);
+    }
+}
+
+@keyframes particleFloat {
+    0% {
+        transform: translateY(0) translateX(0);
+    }
+    100% {
+        transform: translateY(-20px) translateX(10px);
+    }
+}
