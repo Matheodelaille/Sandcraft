@@ -17,6 +17,8 @@
 <link rel="stylesheet" href="colors.css">           <!-- 2. PUIS les couleurs -->
 <link rel="stylesheet" href="minecraft-components.css"> <!-- 3. Composants -->
 <link rel="stylesheet" href="mediawiki-overrides.css">  <!-- 4. Overrides -->
+    <!-- Arrière-plan animé Minecraft -->
+<link rel="stylesheet" href="animated-background.css">
     <style>
         @font-face {
             font-family: 'Minecraft';
@@ -69,6 +71,8 @@
 <!-- Après tes autres scripts -->
 <script src="loadMods.js"></script>
         body {
+            <!-- Arrière-plan animé -->
+<div id="minecraft-background"></div>
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
             color: var(--text-primary);
@@ -1002,6 +1006,8 @@
         }
     </style>
 </head>
+    <!-- Script d'arrière-plan animé -->
+<script src="animated-background.js"></script>
 <body>
     <!-- ARRIÈRE-PLAN -->
     <div class="minecraft-grid"></div>
