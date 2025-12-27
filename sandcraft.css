@@ -4,6 +4,49 @@
    IMPORTANT : Inclure après colors.css et minecraft-components.css
    ============================================ */
 
+/* ===== CORRECTIONS URGENTES ===== */
+
+/* 1. ARRIÈRE-PLAN */
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%) !important;
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-family: 'Segoe UI', 'Minecraft', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e2e8f0;
+}
+
+/* 2. ESPACEMENT sous la navbar */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 20px 40px 20px !important; /* ← PADDING-TOP CRITIQUE */
+    position: relative;
+    z-index: 1;
+}
+
+/* 3. POLICE Minecraft pour titres */
+.category-title, .mod-name {
+    font-family: 'Minecraft', 'Segoe UI', monospace;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* 4. STYLE des bulles */
+.category-bubble {
+    margin: 40px 0 !important;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-bubble:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
 /* ============ IMPORTS ET RÉINITIALISATION ============ */
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono:wght@300;400;500;600&display=swap');
 
