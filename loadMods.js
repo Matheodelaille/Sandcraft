@@ -2,14 +2,15 @@
 // Charger et afficher les mods par catégorie
 
 // Correspondance entre les catégories du JSON et les IDs HTML
+// NOUVEAU MAPPING adapté à tes IDs HTML
 const categoryMapping = {
-    'technologie': ['Technology', 'Automation', 'Storage'],
-    'magie': ['Magic', 'Sorcery', 'Thaumaturgy'],
-    'agriculture': ['Agriculture', 'Farming', 'Food'],
-    'aventure': ['Adventure', 'Exploration', 'World Gen', 'Dungeon'],
-    'construction': ['Decoration', 'Building', 'Aesthetics'],
-    'bibliothèque': ['Library', 'Utility', 'API'],
-    'qualité': ['Quality of Life', 'Interface', 'Optimization']
+    'tech': ['Technology', 'Automation', 'Storage', 'Industrial'], // Correspond à id="tech"
+    'magic': ['Magic', 'Sorcery', 'Thaumaturgy', 'Wizardry'],      // Correspond à id="magic"
+    'agriculture': ['Agriculture', 'Farming', 'Food', 'Crops'],    // Correspond à id="agriculture"
+    'adventure': ['Adventure', 'Exploration', 'World Gen', 'Dungeon'], // Correspond à id="adventure"
+    'construction': ['Decoration', 'Building', 'Aesthetics', 'Furniture'], // id="construction"
+    'library': ['Library', 'Utility', 'API', 'Core'],              // id="library"
+    'qol': ['Quality of Life', 'Interface', 'Optimization', 'Utility'] // id="qol"
 };
 
 async function loadAllMods() {
