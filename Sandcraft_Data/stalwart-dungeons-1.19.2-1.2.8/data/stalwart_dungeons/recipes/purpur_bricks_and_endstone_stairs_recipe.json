@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "3": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "4": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "6": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "7": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "8": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:purpur_bricks_and_endstone_stairs",
+    "count": 4
+  }
+}

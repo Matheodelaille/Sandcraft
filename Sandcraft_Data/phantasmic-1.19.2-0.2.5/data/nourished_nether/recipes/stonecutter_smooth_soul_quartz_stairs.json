@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nourished_nether:smooth_soul_quartz"
+  },
+  "result": "nourished_nether:smooth_soul_quartz_stairs"
+}

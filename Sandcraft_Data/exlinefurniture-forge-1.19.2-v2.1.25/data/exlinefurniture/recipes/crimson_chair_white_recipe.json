@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:crimson_slab"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:white_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:crimson_chair_white",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    },
+	{	
+      "tag": "forge:cream"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:creamofmushroomitem",
+	"count": 1}
+	
+}

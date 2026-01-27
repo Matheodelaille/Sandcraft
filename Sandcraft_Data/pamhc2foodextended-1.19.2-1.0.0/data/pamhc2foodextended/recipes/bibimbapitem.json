@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:boiledegg"
+    },
+	{	
+      "tag": "forge:vegetables"
+    },
+	{	
+      "tag": "forge:vegetables"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bibimbapitem",
+	"count": 1}
+	
+}

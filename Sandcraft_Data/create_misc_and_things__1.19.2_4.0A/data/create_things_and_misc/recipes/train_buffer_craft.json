@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "create_things_and_misc:sturdy_sheet_block"
+    },
+    "1": {
+      "item": "create_things_and_misc:sturdy_sheet_block"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:train_buffer",
+    "count": 2
+  }
+}

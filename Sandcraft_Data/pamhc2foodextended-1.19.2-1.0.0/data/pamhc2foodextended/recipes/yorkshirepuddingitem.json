@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:batter"
+    },
+	{	
+      "tag": "forge:salt"
+    },
+	{	
+      "tag": "forge:stock"
+    },
+	{	
+      "tag": "forge:milk"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:yorkshirepuddingitem",
+	"count": 1}
+	
+}

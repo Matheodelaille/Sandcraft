@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "atmospheric:arid_sandstone_bricks"
+  },
+  "result": "atmospheric:arid_sandstone_brick_stairs",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "sandstone_bricks"
+    }
+  ]
+}

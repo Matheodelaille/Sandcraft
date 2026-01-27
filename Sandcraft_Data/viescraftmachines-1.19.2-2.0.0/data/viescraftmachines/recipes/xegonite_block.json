@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:xegonite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	  "n",
+	  "i",
+	  "n"
+  ],
+  "key": {
+  	"n": {
+  		"tag":"forge:nuggets/netherite"
+  	},
+  	"i": {
+  		"tag":"forge:ingots/netherite"
+  	}
+  },
+  "result": {
+    "item": "cyclic:netherite_chain",
+    "count": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "yellow_crockery_combo",
+  "ingredients": [
+    {
+      "item": "handcrafted:yellow_cup"
+    },
+    {
+      "item": "handcrafted:yellow_plate"
+    }
+  ],
+  "result": {
+    "item": "handcrafted:yellow_crockery_combo"
+  }
+}

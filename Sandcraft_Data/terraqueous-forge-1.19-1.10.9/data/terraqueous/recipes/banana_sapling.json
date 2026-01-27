@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "saplings",
+    "ingredients": [
+        { "item": "terraqueous:banana" },
+        { "item": "terraqueous:banana_leaves" },
+        { "tag": "terraqueous:banana_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:banana_sapling"
+    }
+}

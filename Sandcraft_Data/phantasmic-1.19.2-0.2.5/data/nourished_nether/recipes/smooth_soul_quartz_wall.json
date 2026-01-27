@@ -1,0 +1,32 @@
+{
+  "group": "smooth_soul_quartz_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:smooth_soul_quartz"
+    },
+    "1": {
+      "item": "nourished_nether:smooth_soul_quartz"
+    },
+    "2": {
+      "item": "nourished_nether:smooth_soul_quartz"
+    },
+    "3": {
+      "item": "nourished_nether:smooth_soul_quartz"
+    },
+    "4": {
+      "item": "nourished_nether:smooth_soul_quartz"
+    },
+    "5": {
+      "item": "nourished_nether:smooth_soul_quartz"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:smooth_soul_quartz_wall",
+    "count": 6
+  }
+}

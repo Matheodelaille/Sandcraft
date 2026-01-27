@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodextended:sweetpickleitem"
+    },
+	{	
+      "tag": "forge:bread"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:condiments/mayonaise"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:hamsweetpicklesandwichitem",
+	"count": 1}
+	
+}

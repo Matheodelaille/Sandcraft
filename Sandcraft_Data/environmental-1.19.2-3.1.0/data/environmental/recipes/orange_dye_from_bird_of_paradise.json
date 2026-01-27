@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "orange_dye",
+  "ingredients": [
+    {
+      "item": "environmental:bird_of_paradise"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:orange_dye"
+  }
+}

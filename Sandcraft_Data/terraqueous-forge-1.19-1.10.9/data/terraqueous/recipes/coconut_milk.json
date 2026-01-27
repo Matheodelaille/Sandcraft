@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "terraqueous:coconut" },
+        { "item": "terraqueous:coconut" },
+        { "item": "terraqueous:coconut" },
+        { "item": "minecraft:bucket" }
+    ],
+    "result": {
+        "item": "minecraft:milk_bucket",
+        "nbt": {
+            "display": {
+                "Name": "{\"translate\":\"fluid.tile.coconutmilk\",\"italic\":\"false\"}"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:blackstone_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:blackstone_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:blackstone_bridge",
+        "count": 4
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RFD",
+        "TWT",
+        "TTT"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:azure_bluet"
+        },
+        "D": {
+            "item": "minecraft:cornflower"
+        },
+        "R": {
+            "item": "minecraft:blue_orchid"
+        },
+        "T": {
+            "item": "minecraft:blue_terracotta"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:flower_arrangement",
+        "count": 1
+    }
+}

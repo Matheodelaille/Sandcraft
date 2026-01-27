@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "concrete_edge",
+    "pattern": [
+        "@@",
+        "# ",
+        "# "
+    ],
+    "key": {
+        "@": { "item": "black_concrete_powder" },
+        "#": { "item": "black_concrete" }
+    },
+    "result": {
+        "item": "terraqueous:black_concrete_edge",
+        "count": 4
+    }
+}

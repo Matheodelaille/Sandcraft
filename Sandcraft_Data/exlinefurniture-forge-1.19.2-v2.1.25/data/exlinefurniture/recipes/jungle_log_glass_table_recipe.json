@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PGP",
+        "SSS",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:jungle_log"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:jungle_log_glass_table",
+        "count": 1
+    }
+}

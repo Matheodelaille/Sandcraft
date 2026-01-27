@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F",
+        "D"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:zombie_arm",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "item": "pamhc2foodcore:friesitem"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "item": "pamhc2foodextended:gravyitem"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:poutineitem",
+	"count": 1}
+	
+}

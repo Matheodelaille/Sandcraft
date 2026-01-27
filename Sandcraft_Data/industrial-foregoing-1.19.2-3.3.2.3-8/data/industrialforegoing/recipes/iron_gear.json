@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:iron_gear"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "P": {
+            "item": "minecraft:iron_ingot"
+          }
+        },
+        "pattern": [
+          " P ",
+          "P P",
+          " P "
+        ],
+        "result": {
+          "item": "industrialforegoing:iron_gear"
+        }
+      }
+    }
+  ]
+}

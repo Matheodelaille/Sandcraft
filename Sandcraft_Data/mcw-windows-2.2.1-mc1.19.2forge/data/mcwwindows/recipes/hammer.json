@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+        " BC",
+        "B  "                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:iron_ingot"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:stick"
+        },
+        
+       "C":
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:hammer",
+        "count": 1
+    }
+}
+
+

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:water"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mochiitem",
+	"count": 1}
+	
+}

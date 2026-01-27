@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_bricks"
+    },
+    "1": {
+      "item": "minecraft:nether_bricks"
+    },
+    "2": {
+      "item": "minecraft:nether_bricks"
+    },
+    "3": {
+      "item": "minecraft:nether_bricks"
+    },
+    "4": {
+      "item": "stalwart_dungeons:ancient_fire"
+    },
+    "5": {
+      "item": "minecraft:nether_bricks"
+    },
+    "6": {
+      "item": "minecraft:nether_bricks"
+    },
+    "7": {
+      "item": "stalwart_dungeons:stone_hammer"
+    },
+    "8": {
+      "item": "minecraft:nether_bricks"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:nether_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nourished_nether:soul_quartz_block"
+  },
+  "result": "nourished_nether:soul_quartz_bricks"
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chest_boat",
+    "ingredients": [
+        { "tag": "forge:chests/wooden" },
+        { "item": "terraqueous:apple_boat" }
+    ],
+    "result": {
+        "item": "terraqueous:apple_chest_boat"
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/cucumber"
+    },
+	{	
+      "tag": "forge:salt"
+    },
+	{	
+      "tag": "forge:vinegar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:picklesitem",
+	"count": 1}
+	
+}

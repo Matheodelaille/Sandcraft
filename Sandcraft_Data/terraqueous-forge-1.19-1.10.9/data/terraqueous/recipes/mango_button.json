@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "wooden_button",
+    "ingredients": [
+        { "item": "terraqueous:mango_planks" }
+    ],
+    "result": {
+        "item": "terraqueous:mango_button"
+    }
+}

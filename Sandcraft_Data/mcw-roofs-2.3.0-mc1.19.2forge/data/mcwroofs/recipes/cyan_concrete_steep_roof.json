@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:cyan_concrete"
+    },
+    "result": "mcwroofs:cyan_concrete_steep_roof",
+    "group": "roofs",
+    "count": 1
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_chandeliers",
+  "key": {
+    "#": {
+      "item": "minecraft:torch"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "decorative_blocks:chandelier"
+  }
+}

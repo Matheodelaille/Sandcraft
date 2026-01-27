@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "tag": "forge:foods/fish/raw"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    },
+    "R": {
+      "tag": "forge:crops/rice"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "RRR",
+    "KKK"
+  ],
+  "result": {
+    "count": 8,
+    "item": "thermal:sushi_maki"
+  }
+}

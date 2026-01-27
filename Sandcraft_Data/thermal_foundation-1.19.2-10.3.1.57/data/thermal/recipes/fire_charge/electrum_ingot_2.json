@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "tag": "forge:dusts/gold"
+      },
+      {
+        "tag": "forge:ingots/gold"
+      }
+    ],
+    [
+      {
+        "tag": "forge:dusts/silver"
+      },
+      {
+        "tag": "forge:ingots/silver"
+      }
+    ],
+    {
+      "item": "minecraft:fire_charge"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "thermal:electrum_ingot"
+  }
+}

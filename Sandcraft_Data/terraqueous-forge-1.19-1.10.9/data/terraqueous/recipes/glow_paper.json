@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "PGP",
+        "PPP"
+    ],
+    "key": {
+        "P": { "tag": "forge:paper" },
+        "G": { "tag": "forge:dusts/glowstone" }
+    },
+    "result": {
+        "item": "terraqueous:glow_paper",
+        "nbt": { "rgb16": 4095, "rgbsimple": 0 },
+        "count": 2
+    }
+}

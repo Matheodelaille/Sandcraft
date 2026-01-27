@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "1": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    },
+    "2": {
+      "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:purpur_bricks_and_endstone_slab",
+    "count": 6
+  }
+}

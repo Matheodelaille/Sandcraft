@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create_things_and_misc:sticky_launcher"
+    },
+    {
+      "item": "create:brass_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_things_and_misc:brass_sticky_launcher"
+    }
+  ]
+}

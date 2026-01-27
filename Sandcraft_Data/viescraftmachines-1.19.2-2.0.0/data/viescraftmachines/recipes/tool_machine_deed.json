@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PFP",
+    " R ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:circuit_logic",
+      "count": 1
+    },
+    "F": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    },
+    "P": {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:tool_machine_deed",
+    "count": 1
+  }
+}

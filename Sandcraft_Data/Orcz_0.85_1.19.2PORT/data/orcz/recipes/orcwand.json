@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:squig_eye"
+    },
+    "1": {
+      "item": "orcz:orcskull"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "orcz:skullwandorc",
+    "count": 1
+  }
+}

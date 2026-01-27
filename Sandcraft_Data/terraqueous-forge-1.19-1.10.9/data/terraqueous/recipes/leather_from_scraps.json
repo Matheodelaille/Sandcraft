@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:leather_scraps" }
+    },
+    "result": {
+        "item": "minecraft:leather"
+    }
+}

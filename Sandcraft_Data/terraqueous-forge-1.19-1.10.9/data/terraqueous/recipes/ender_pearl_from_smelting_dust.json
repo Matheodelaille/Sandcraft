@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "terraqueous:ender_dust"
+    },
+    "result": "minecraft:ender_pearl",
+    "experience": 1.0,
+    "cookingtime": 200
+}

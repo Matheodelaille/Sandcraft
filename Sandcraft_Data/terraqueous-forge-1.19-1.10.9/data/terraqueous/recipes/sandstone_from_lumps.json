@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "terraqueous:sandstone_lump" },
+        { "item": "terraqueous:sandstone_lump" },
+        { "item": "terraqueous:sandstone_lump" },
+        { "item": "terraqueous:sandstone_lump" }
+    ],
+    "result": {
+        "item": "minecraft:sandstone"
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/sesameseeds"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "tag": "forge:crops/bean"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:flour"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sesameballitem",
+	"count": 1}
+	
+}

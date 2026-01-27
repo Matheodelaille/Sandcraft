@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:toast"
+    },
+	{	
+      "tag": "forge:rawbeef"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cheesesteakitem",
+	"count": 1}
+	
+}

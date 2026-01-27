@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/lemon"
+    },
+	{	
+      "tag": "forge:batter"
+    },
+	{	
+      "tag": "forge:rawfish"
+    },
+	{	
+      "tag": "forge:condiments/mayonaise"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:fishdinneritem",
+	"count": 1}
+	
+}

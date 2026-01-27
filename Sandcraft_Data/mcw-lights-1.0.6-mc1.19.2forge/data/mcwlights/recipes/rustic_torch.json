@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "C",
+    "N",
+    "S"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:iron_nugget"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:coal"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:rustic_torch",
+        "count": 4
+    }
+}

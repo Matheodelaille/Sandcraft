@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "end_table",
+    "pattern":
+    [
+        "A",
+        "B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "mcwfurnitures:jungle_table"
+        }, 
+		
+		
+        "B":
+        {
+            "item": "minecraft:jungle_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:jungle_end_table",
+        "count": 1
+    }
+}
+
+

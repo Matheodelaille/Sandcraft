@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WSW",
+        " W "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:stone_bricks"
+        },
+        "S": {
+            "item": "minecraft:redstone_lamp"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:lantern_stone",
+        "count": 6
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "netheritescrap",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:netherite_scrap_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_scrap",
+    "count": 9
+  }
+}

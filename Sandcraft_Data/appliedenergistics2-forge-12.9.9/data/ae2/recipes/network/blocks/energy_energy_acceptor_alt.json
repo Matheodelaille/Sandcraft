@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:cable_energy_acceptor"
+    }
+  ],
+  "result": {
+    "item": "ae2:energy_acceptor"
+  }
+}

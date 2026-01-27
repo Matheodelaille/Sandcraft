@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "counter",
+    "pattern":
+    [
+        "A",
+        "B"	
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:spruce_slab"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:spruce_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_counter",
+        "count": 1
+    }
+}
+
+

@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "item": "pamhc2foodextended:paneeritem"
+    },
+	{	
+      "tag": "forge:spices/garammasala"
+    },
+	{	
+      "tag": "forge:spices/currypowder"
+    },
+	{	
+      "tag": "forge:crops/coconut"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:paneertikkamasalaitem",
+	"count": 1}
+	
+}

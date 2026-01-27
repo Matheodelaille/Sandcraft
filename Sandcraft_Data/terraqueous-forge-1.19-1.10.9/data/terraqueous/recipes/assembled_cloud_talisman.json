@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_talisman",
+    "pattern": [
+        "E",
+        "M"
+    ],
+    "key": {
+        "E": { "tag": "forge:gems/endimium" },
+        "M": { "item": "minecraft:phantom_membrane" }
+    },
+    "result": { "item": "terraqueous:assembled_cloud_talisman" }
+}

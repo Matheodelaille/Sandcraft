@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:crops/sweetpotato"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:crops/soybean"
+    },
+	{	
+      "tag": "forge:crops/sesameseeds"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:hoisinsauceitem",
+	"count": 1}
+	
+}

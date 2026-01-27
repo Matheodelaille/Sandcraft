@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dried_kelp"
+    },
+    "1": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:sprinkler_head",
+    "count": 1
+  }
+}

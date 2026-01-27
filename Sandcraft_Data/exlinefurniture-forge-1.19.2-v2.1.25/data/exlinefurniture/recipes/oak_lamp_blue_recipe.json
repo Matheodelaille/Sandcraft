@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WLW",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:oak_slab"
+        },
+        "L": {
+            "item": "minecraft:redstone_torch"
+        },
+        "W": {
+            "item": "minecraft:blue_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:oak_lamp_blue",
+        "count": 1
+    }
+}

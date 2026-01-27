@@ -1,0 +1,8 @@
+{
+  "item.exoticbirds.bird_book": "Bird Encyclopaedia",
+  "block.exoticbirds.egg_identifier": "Egg Analyser",
+  "advancements.exoticbirds.craft_identifier.description": "Craft an egg analyser",
+  "advancements.exoticbirds.obtain_phoenix_egg.description": "Obtain a phoenix egg from an egg analyser",
+  "advancements.exoticbirds.craft_book.description": "Craft the bird encyclopaedia",
+  "advancements.exoticbirds.log_all_birds.description": "Log all birds with the bird encyclopaedia"
+}

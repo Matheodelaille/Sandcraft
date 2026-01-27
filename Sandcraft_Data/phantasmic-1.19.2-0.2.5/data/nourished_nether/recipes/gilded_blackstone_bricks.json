@@ -1,0 +1,16 @@
+{
+  "group": "gilded_blackstone_bricks",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "item": "minecraft:raw_gold"
+    }
+  ],
+  "result": {
+    "item": "nourished_nether:gilded_blackstone_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rlr",
+    "tsg",
+    "ooo"
+  ],
+  "key": {
+    "l": {
+      "tag": "forge:nuggets/copper"
+    },
+    "o": {
+      "item": "minecraft:mossy_cobblestone_slab"
+    },
+    "g": {
+      "item": "cyclic:copper_pickaxe"
+    },
+    "t": {
+      "item": "cyclic:copper_shovel"
+    },
+    "s": {
+      "item": "minecraft:dispenser"
+    },
+    "r": { 
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "cyclic:breaker"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:orc_wood_log"
+    }
+  ],
+  "result": {
+    "item": "orcz:orc_wood_planks",
+    "count": 4
+  }
+}

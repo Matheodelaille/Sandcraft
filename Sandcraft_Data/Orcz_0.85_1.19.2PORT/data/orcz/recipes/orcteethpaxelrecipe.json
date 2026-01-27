@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orcz:orcteeth_tool_pickaxe"
+    },
+    {
+      "item": "orcz:orcteeth_tool_shovel"
+    },
+    {
+      "item": "orcz:orcteeth_tool_axe"
+    },
+    {
+      "item": "orcz:orcteeth_tool_hoe"
+    },
+    {
+      "item": "orcz:orcteeth_tool_sword"
+    }
+  ],
+  "result": {
+    "item": "orcz:orcteethpaxel",
+    "count": 1
+  }
+}

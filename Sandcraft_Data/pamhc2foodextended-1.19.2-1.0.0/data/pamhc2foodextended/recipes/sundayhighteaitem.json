@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodextended:earlgreyteaitem"
+    },
+	{	
+      "item": "pamhc2foodextended:cucumbersandwichitem"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:sundayhighteaitem",
+	"count": 1}
+	
+}

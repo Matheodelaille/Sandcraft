@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "snowyspirit:gingerbread"},
+    {"item": "minecraft:sugar"}
+  ],
+  "result": {
+    "item": "snowyspirit:gingerbread_frosted"
+  },
+  "conditions": [
+    {
+      "type": "snowyspirit:flag",
+      "flag": "ginger"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_bricks"
+    },
+    "1": {
+      "item": "stalwart_dungeons:ancient_fire"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:transient_block_close",
+    "count": 1
+  }
+}

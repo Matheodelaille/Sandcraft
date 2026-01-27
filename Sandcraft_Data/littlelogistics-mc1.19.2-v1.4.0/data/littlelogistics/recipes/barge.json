@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    },
+    "_": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "#_#",
+    "$$$"
+  ],
+  "result": {
+    "item": "littlelogistics:barge"
+  }
+}

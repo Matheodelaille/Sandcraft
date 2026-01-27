@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:sausage"
+    },
+	{	
+      "tag": "forge:condiments/relish"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:bread"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bratwurstitem",
+	"count": 1}
+	
+}

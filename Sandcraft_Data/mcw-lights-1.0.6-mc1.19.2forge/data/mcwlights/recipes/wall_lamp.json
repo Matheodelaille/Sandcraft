@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "wall_lamp",
+    
+    "pattern": [
+    "WLW",
+    "  F"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+		"tag": "forge:fences/wooden"
+        },
+		
+		"L":
+        {
+            "item": "minecraft:redstone_lamp"
+        },
+        
+        "W":
+        {
+		"tag": "minecraft:wool"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:wall_lamp",
+        "count": 3
+    }
+}

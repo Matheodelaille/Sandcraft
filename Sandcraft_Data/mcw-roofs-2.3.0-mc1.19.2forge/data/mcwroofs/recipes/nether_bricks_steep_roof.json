@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:nether_bricks"
+    },
+    "result": "mcwroofs:nether_bricks_steep_roof",
+    "group": "roofs",
+    "count": 1
+}

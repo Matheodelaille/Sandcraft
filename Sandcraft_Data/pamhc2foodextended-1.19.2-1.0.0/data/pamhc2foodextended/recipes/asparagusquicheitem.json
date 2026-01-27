@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/asparagus"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:cheese"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:asparagusquicheitem",
+	"count": 1}
+	
+}

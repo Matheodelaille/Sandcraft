@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/broccoli"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    },
+	{	
+      "tag": "forge:stock"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:creamedbroccolisoupitem",
+	"count": 1}
+	
+}

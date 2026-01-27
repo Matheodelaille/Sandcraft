@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:groundmeats/groundbeef"
+    },
+	{	
+      "tag": "forge:pasta"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:condiments/oystersauce"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:grandmasmacaronicasseroleitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:cheese"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:potatoandcheesepirogiitem",
+	"count": 1}
+	
+}

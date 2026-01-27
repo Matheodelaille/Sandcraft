@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:grain"
+    },
+	{	
+      "item": "pamhc2foodextended:raisinsitem"
+    },
+	{	
+      "tag": "forge:crops/pecan"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:milk"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:museliitem",
+	"count": 1}
+	
+}

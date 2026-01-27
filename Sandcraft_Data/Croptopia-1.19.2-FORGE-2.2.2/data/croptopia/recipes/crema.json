@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:milks"
+    },
+    {
+      "tag": "forge:limes"
+    },
+    {
+      "tag": "forge:salts"
+    }
+  ],
+  "result": {
+    "item": "croptopia:crema",
+    "count": 4
+  }
+}

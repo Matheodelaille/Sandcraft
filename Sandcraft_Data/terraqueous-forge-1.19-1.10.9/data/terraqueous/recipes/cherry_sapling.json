@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "saplings",
+    "ingredients": [
+        { "item": "terraqueous:cherry" },
+        { "item": "terraqueous:cherry_leaves" },
+        { "tag": "terraqueous:cherry_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:cherry_sapling"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "trophy",
+  "key": {
+    "#": {
+      "tag": "handcrafted:boards"
+    },
+    "/": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "###",
+    "#/#",
+    "###"
+  ],
+  "result": {
+    "item": "handcrafted:wolf_trophy"
+  }
+}

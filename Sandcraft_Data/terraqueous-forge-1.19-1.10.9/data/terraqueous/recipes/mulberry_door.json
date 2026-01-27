@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_door",
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:mulberry_planks" }
+    },
+    "result": {
+        "item": "terraqueous:mulberry_door",
+        "count": 3
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bread"
+    },
+    "1": {
+      "item": "minecraft:bread"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "3": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "4": {
+      "item": "minecraft:birch_sapling"
+    },
+    "5": {
+      "item": "minecraft:experience_bottle"
+    },
+    "6": {
+      "item": "minecraft:bread"
+    },
+    "7": {
+      "item": "minecraft:bread"
+    },
+    "8": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "raxiores:xrex_burger",
+    "count": 1
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:acacia_adirondack_chair_recipe",
+      "exlinefurniture:acacia_bench_recipe",
+      "exlinefurniture:acacia_chair_recipe",
+      "exlinefurniture:acacia_chair_black_recipe",
+      "exlinefurniture:acacia_chair_blue_recipe",
+      "exlinefurniture:acacia_chair_brown_recipe",
+      "exlinefurniture:acacia_chair_cyan_recipe",
+      "exlinefurniture:acacia_chair_gray_recipe",
+      "exlinefurniture:acacia_chair_green_recipe",
+      "exlinefurniture:acacia_chair_light_blue_recipe",
+      "exlinefurniture:acacia_chair_light_gray_recipe",
+      "exlinefurniture:acacia_chair_lime_recipe",
+      "exlinefurniture:acacia_chair_magenta_recipe",
+      "exlinefurniture:acacia_chair_orange_recipe",
+      "exlinefurniture:acacia_chair_pink_recipe",
+      "exlinefurniture:acacia_chair_purple_recipe",
+      "exlinefurniture:acacia_chair_red_recipe",
+      "exlinefurniture:acacia_chair_white_recipe",
+      "exlinefurniture:acacia_chair_yellow_recipe",
+      "exlinefurniture:acacia_dresser_recipe",
+      "exlinefurniture:acacia_table_recipe",
+      "exlinefurniture:acacia_glass_table_recipe",
+      "exlinefurniture:acacia_log_table_recipe",
+      "exlinefurniture:acacia_log_glass_table_recipe",
+      "exlinefurniture:acacia_stripped_log_table_recipe",
+      "exlinefurniture:acacia_stripped_log_glass_table_recipe",
+      "exlinefurniture:acacia_lamp_black_recipe",
+      "exlinefurniture:acacia_lamp_blue_recipe",
+      "exlinefurniture:acacia_lamp_brown_recipe",
+      "exlinefurniture:acacia_lamp_cyan_recipe",
+      "exlinefurniture:acacia_lamp_gray_recipe",
+      "exlinefurniture:acacia_lamp_green_recipe",
+      "exlinefurniture:acacia_lamp_light_blue_recipe",
+      "exlinefurniture:acacia_lamp_light_gray_recipe",
+      "exlinefurniture:acacia_lamp_lime_recipe",
+      "exlinefurniture:acacia_lamp_magenta_recipe",
+      "exlinefurniture:acacia_lamp_orange_recipe",
+      "exlinefurniture:acacia_lamp_pink_recipe",
+      "exlinefurniture:acacia_lamp_purple_recipe",
+      "exlinefurniture:acacia_lamp_red_recipe",
+      "exlinefurniture:acacia_lamp_white_recipe",
+      "exlinefurniture:acacia_lamp_yellow_recipe",
+      "exlinefurniture:acacia_window_web",
+      "exlinefurniture:window_heart_acacia",
+      "exlinefurniture:window_sliding_acacia",
+      "exlinefurniture:window_acacia",
+      "exlinefurniture:shutters_acacia"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:acacia_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

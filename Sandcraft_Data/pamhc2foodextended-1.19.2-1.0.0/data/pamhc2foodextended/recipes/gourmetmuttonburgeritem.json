@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "item": "pamhc2foodextended:gourmetmuttonpattyitem"
+    },
+	{	
+      "item": "pamhc2foodextended:briochebunitem"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:crops/spinach"
+    },
+	{	
+      "item": "pamhc2crops:roastedmushroomitem"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:gourmetmuttonburgeritem",
+	"count": 1}
+	
+}

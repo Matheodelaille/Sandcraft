@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stool_chair",
+    "pattern":
+    [
+		"A",
+        "A",
+        "B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:stripped_spruce_log"
+        }, 	
+		
+        "B":
+        {
+            "item": "minecraft:spruce_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:stripped_spruce_stool_chair",
+        "count": 1
+    }
+}
+
+

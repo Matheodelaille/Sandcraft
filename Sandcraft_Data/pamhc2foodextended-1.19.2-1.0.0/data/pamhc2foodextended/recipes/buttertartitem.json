@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:butter"
+    },
+	{	
+      "item": "pamhc2foodextended:raisinsitem"
+    },
+	{	
+      "tag": "forge:crops/coconut"
+    },
+	{	
+      "tag": "forge:egg"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:buttertartitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "D": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "pattern": [
+    "   ",
+    " D ",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ferdinandsflowers:purple_bottom_left"
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/jackfruit"
+    },
+	{	
+      "tag": "forge:condiments/bbqsauce"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bbqjackfruititem",
+	"count": 1}
+	
+}

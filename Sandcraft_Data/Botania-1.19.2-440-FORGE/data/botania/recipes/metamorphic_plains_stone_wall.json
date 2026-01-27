@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "botania:metamorphic_stone_wall",
+  "key": {
+    "B": {
+      "item": "botania:metamorphic_plains_stone"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BBB"
+  ],
+  "result": {
+    "count": 6,
+    "item": "botania:metamorphic_plains_stone_wall"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "chair",
+    "pattern":
+    [
+        " A",
+        "BA",
+        "CC"		
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:oak_log"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:oak_slab"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:oak_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:oak_chair",
+        "count": 1
+    }
+}
+
+

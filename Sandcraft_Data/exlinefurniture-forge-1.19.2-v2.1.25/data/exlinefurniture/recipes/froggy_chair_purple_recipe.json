@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:purple_concrete"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:purple_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:froggy_chair_purple",
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arseng:source_cell_housing"
+    },
+    {
+      "item": "ae2:cell_component_16k"
+    }
+  ],
+  "result": {
+    "item": "arseng:source_storage_cell_16k"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "necronium_pickaxe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:necronium_ingot"
+    },
+    "1": {
+      "item": "nourished_nether:necronium_ingot"
+    },
+    "2": {
+      "item": "nourished_nether:necronium_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:necronium_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "immersiveengineering:capacitor_lv"
+    },
+    "G": {
+      "item": "immersiveengineering:generator"
+    },
+    "P": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PGC",
+    "PPP"
+  ],
+  "result": {
+    "item": "immersivepetroleum:gas_generator"
+  }
+}

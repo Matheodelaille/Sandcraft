@@ -1,0 +1,68 @@
+	{	
+	     "itemGroup.mcwlights": "Macawové Světla a Lampy",
+
+		 "block.mcwlights.white_lamp":"Bilá Lampa",
+		 "block.mcwlights.orange_lamp":"Oranžová Lampa",
+		 "block.mcwlights.magenta_lamp":"Purporová Lampa",
+		 "block.mcwlights.light_blue_lamp":"Světle Modrá Lampa",
+		 "block.mcwlights.yellow_lamp":"Žltá Lampa",
+		 "block.mcwlights.lime_lamp":"Limetková Lampa",
+		 "block.mcwlights.pink_lamp":"Ružová Lampa",
+		 "block.mcwlights.gray_lamp":"Šedá Lampa",
+		 "block.mcwlights.light_gray_lamp":"Světle Šedá Lampa",
+		 "block.mcwlights.cyan_lamp":"Tyrkysová Lampa",
+		 "block.mcwlights.purple_lamp":"Fialová Lampa",
+		 "block.mcwlights.blue_lamp":"Modrá Lampa",
+		 "block.mcwlights.brown_lamp":"Hnědá Lampa",
+		 "block.mcwlights.green_lamp":"Zelená Lampa",
+		 "block.mcwlights.red_lamp":"Červená Lampa",
+		 "block.mcwlights.black_lamp":"Černá Lampa",
+		 
+		 "block.mcwlights.white_ceiling_light":"Bilé Stropní Světlo",
+		 "block.mcwlights.orange_ceiling_light":"Oranžové Stropní Světlo",
+		 "block.mcwlights.magenta_ceiling_light":"Purporové Stropní Světlo",
+		 "block.mcwlights.light_blue_ceiling_light":"Světle Modré Stropní Světlo",
+		 "block.mcwlights.yellow_ceiling_light":"Žlté Stropní Světlo",
+		 "block.mcwlights.lime_ceiling_light":"Limetkové Stropní Světlo",
+		 "block.mcwlights.pink_ceiling_light":"Ružové Stropní Světlo",
+		 "block.mcwlights.gray_ceiling_light":"Šedé Stropní Světlo",
+		 "block.mcwlights.light_gray_ceiling_light":"Světle Šedé Stropní Světlo",
+		 "block.mcwlights.cyan_ceiling_light":"Tyrkysové Stropní Světlo",
+		 "block.mcwlights.purple_ceiling_light":"Fialové Stropní Světlo",
+		 "block.mcwlights.blue_ceiling_light":"Modré Stropní Světlo",
+		 "block.mcwlights.brown_ceiling_light":"Hnědé Stropní Světlo",
+		 "block.mcwlights.green_ceiling_light":"Zelené Stropní Světlo",
+		 "block.mcwlights.red_ceiling_light":"Červené Stropní Světlo",
+		 "block.mcwlights.black_ceiling_light":"Černé Stropní Světlo",
+		 
+		 "block.mcwlights.oak_tiki_torch":"Dubová Bambusová Pochodeň",
+		 "block.mcwlights.spruce_tiki_torch":"Smrková Bambusová Pochodeň",
+		 "block.mcwlights.birch_tiki_torch":"Březová Bambusová Pochodeň",
+		 "block.mcwlights.jungle_tiki_torch":"Džunglová Bambusová Pochodeň",
+		 "block.mcwlights.acacia_tiki_torch":"Akáciová Bambusová Pochodeň",
+		 "block.mcwlights.dark_oak_tiki_torch":"Tmavě Dubová Bambusová Pochodeň",
+		 "block.mcwlights.crimson_tiki_torch":"Karmínová Bambusová Pochodeň",
+		 "block.mcwlights.warped_tiki_torch":"Pokřivená Bambusová Pochodeň",
+		 
+		 "block.mcwlights.soul_oak_tiki_torch":"Temná Dubová Bambusová Pochodeň",
+		 "block.mcwlights.soul_spruce_tiki_torch":"Temná Smrková Bambusová Pochodeň",
+		 "block.mcwlights.soul_birch_tiki_torch":"Temná Březová Bambusová Pochodeň",
+		 "block.mcwlights.soul_jungle_tiki_torch":"Temná Džunglová Bambusová Pochodeň",
+		 "block.mcwlights.soul_acacia_tiki_torch":"Temná Akáciová Bambusová Pochodeň",
+		 "block.mcwlights.soul_dark_oak_tiki_torch":"Temná Tmavě Dubová Bambusová Pochodeň",
+		 "block.mcwlights.soul_crimson_tiki_torch":"Temná Karmínová Bambusová Pochodeň",
+		 "block.mcwlights.soul_warped_tiki_torch":"Temná Pokřivená Bambusová Pochodeň",
+		 
+		 "block.mcwlights.classic_street_lamp":"Pouliční Lampa",
+		 "block.mcwlights.double_street_lamp":"Dvojitá Pouliční Lampa",
+		 
+		 "block.mcwlights.soul_classic_street_lamp":"Temná Pouliční Lampa",
+		 "block.mcwlights.soul_double_street_lamp":"Temná Dvojitá Pouliční Lampa",
+		 
+		 "block.mcwlights.lava_lamp":"Lavová Lampa",
+		 
+		 "block.mcwlights.garden_light":"Záhradní Lampa"
+		 
+	                                                                          
+	}
+	

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/okra"
+    },
+	{	
+      "tag": "forge:salt"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:okrachipsitem",
+	"count": 1}
+	
+}

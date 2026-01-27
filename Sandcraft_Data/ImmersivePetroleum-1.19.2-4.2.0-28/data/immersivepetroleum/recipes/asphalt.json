@@ -1,0 +1,28 @@
+{
+  "type": "immersiveengineering:shaped_fluid",
+  "key": {
+    "B": {
+      "type": "immersiveengineering:fluid",
+      "amount": 1000,
+      "tag": "minecraft:water"
+    },
+    "C": {
+      "item": "immersivepetroleum:bitumen"
+    },
+    "G": {
+      "tag": "forge:gravel"
+    },
+    "S": {
+      "tag": "forge:sand"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "GBG",
+    "SCS"
+  ],
+  "result": {
+    "count": 8,
+    "item": "immersivepetroleum:asphalt"
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:crops/coconut"
+    },
+	{	
+      "tag": "forge:crops/pineapple"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pinacoladaitem",
+	"count": 1}
+	
+}

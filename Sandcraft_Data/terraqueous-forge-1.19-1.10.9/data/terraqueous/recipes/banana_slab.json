@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_slab",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:banana_planks" }
+    },
+    "result": {
+        "item": "terraqueous:banana_slab",
+        "count": 6
+    }
+}

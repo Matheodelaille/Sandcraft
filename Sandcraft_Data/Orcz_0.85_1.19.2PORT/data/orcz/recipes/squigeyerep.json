@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orcz:squig_eye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_wart",
+    "count": 6
+  }
+}

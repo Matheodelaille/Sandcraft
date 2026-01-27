@@ -1,0 +1,24 @@
+  
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "purple_dye",
+  "ingredients": [
+    [
+      {
+        "item": "upgrade_aquatic:silk_coral"
+      },
+      {
+        "item": "upgrade_aquatic:silk_coral_fan"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:purple_dye"
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+      "flag": "coral_to_dye"
+    }
+  ]
+}

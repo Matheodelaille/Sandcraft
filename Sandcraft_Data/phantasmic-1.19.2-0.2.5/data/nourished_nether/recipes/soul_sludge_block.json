@@ -1,0 +1,26 @@
+{
+  "group": "soul_sludge_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:sludge_ball"
+    },
+    "1": {
+      "item": "nourished_nether:sludge_ball"
+    },
+    "2": {
+      "item": "nourished_nether:sludge_ball"
+    },
+    "3": {
+      "item": "nourished_nether:sludge_ball"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:soul_sludge",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+	{	
+      "item": "pamhc2foodextended:potatosaladitem"
+    },
+	{	
+      "item": "pamhc2foodcore:potatochipsitem"
+    },
+	{	
+      "tag": "forge:sodas"
+    },
+	{	
+      "item": "pamhc2foodextended:springsaladitem"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:weekendpicnicitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "shutters",
+	
+    "pattern":
+    [
+        "B",
+        "B",
+        "B"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:mangrove_trapdoor"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:mangrove_shutter",
+        "count": 3
+    }
+}
+
+

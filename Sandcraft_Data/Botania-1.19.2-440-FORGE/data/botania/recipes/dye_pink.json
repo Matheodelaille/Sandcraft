@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "botania:dye",
+  "ingredients": [
+    {
+      "tag": "botania:petals/pink"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye"
+  }
+}

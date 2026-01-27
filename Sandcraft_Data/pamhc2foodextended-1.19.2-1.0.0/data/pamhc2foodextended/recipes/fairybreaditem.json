@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:bread"
+    },
+	{	
+      "tag": "forge:butter"
+    },
+	{	
+      "tag": "forge:dyes"
+    },
+	{	
+      "tag": "forge:dyes"
+    },
+	{	
+      "tag": "forge:dyes"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:fairybreaditem",
+	"count": 1}
+	
+}

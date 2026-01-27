@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "environmental:yak_hair_block"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "# #",
+    "# #"
+  ],
+  "result": {
+    "item": "environmental:yak_pants"
+  }
+}

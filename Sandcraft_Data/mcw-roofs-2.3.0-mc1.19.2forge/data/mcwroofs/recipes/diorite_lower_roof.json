@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:diorite"
+    },
+    "result": "mcwroofs:diorite_lower_roof",
+    "group": "roofs",
+    "count": 1
+}

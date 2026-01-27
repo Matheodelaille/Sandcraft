@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "drawer_counter",
+    "pattern":
+    [
+        "A",
+        "B"	
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:dark_oak_slab"
+        }, 
+		
+        "B":
+        {
+            "item": "mcwfurnitures:dark_oak_drawer"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:dark_oak_drawer_counter",
+        "count": 1
+    }
+}
+
+

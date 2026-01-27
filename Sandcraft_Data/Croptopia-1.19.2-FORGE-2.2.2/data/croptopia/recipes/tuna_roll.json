@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": {
+      "tag": "forge:tuna"
+    },
+    "2": {
+      "item": "minecraft:dried_kelp"
+    },
+    "3": {
+      "tag": "forge:rice"
+    },
+    "4": {
+      "tag": "forge:onions"
+    }
+  },
+  "pattern": [
+    "234",
+    " 1 "
+  ],
+  "result": {
+    "count": 2,
+    "item": "croptopia:tuna_roll"
+  }
+}

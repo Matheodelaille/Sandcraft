@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:boiledegg"
+    },
+	{	
+      "tag": "forge:crops/cucumber"
+    },
+	{	
+      "tag": "forge:crops/wintersquash"
+    },
+	{	
+      "tag": "forge:crops/radish"
+    },
+	{	
+      "item": "minecraft:kelp"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:futomakiitem",
+	"count": 1}
+	
+}

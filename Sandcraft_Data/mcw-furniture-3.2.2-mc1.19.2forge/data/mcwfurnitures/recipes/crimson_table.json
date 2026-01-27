@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "table",
+    "pattern":
+    [
+        "A",
+        "B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "mcwfurnitures:crimson_coffee_table"
+        }, 
+		
+		
+        "B":
+        {
+            "item": "minecraft:crimson_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:crimson_table",
+        "count": 1
+    }
+}
+
+

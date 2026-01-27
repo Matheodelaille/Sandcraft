@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:cocoapowder"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:dyes"
+    },
+	{	
+      "tag": "forge:dyes"
+    },
+	{	
+      "tag": "forge:dyes"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chocolatesprinklecakeitem",
+	"count": 1}
+	
+}

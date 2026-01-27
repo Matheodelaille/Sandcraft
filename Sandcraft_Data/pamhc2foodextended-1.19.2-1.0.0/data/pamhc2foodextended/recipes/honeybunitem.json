@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:butter"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:honey"
+    },
+	{	
+      "tag": "forge:dough"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:honeybunitem",
+	"count": 1}
+	
+}

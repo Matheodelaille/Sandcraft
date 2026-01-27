@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "viescraftmachines:machine_parts_mold"
+  },
+  "result": {
+    "item": "viescraftmachines:machine_parts",
+    "count": 2
+  },
+  "experience": 0.3,
+  "cookingtime": 400
+}

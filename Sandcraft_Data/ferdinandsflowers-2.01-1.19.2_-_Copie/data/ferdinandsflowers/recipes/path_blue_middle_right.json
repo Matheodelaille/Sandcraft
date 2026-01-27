@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "D": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "pattern": [
+    " D ",
+    " # ",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ferdinandsflowers:path_blue_middle_right"
+  }
+}

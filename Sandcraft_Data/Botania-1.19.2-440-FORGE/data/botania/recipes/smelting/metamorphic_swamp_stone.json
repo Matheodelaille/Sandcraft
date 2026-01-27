@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "botania:metamorphic_swamp_cobblestone"
+  },
+  "result": "botania:metamorphic_swamp_stone"
+}

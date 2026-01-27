@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "atmospheric:yucca_planks"
+    }
+  },
+  "result": {
+    "item": "atmospheric:vertical_yucca_planks",
+    "count": 3
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "vertical_planks"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "group": "warped_nether_brick_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:warped_bricks"
+    },
+    "1": {
+      "item": "nourished_nether:warped_nether_brick"
+    },
+    "2": {
+      "item": "nourished_nether:warped_bricks"
+    },
+    "3": {
+      "item": "nourished_nether:warped_bricks"
+    },
+    "4": {
+      "item": "nourished_nether:warped_nether_brick"
+    },
+    "5": {
+      "item": "nourished_nether:warped_bricks"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:warped_brick_fence",
+    "count": 6
+  }
+}

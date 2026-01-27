@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ferdinandsflowers:turkey_tail_brown"
+    }
+  ],
+  "result": {
+    "item": "ferdinandsflowers:turkey_tail_brown_fan"
+  }
+}

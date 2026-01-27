@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "stalwart_dungeons:purpur_bricks_and_endstone"
+  },
+  "result": "stalwart_dungeons:purpur_bricks_and_endstone_stairs"
+}

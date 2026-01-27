@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "counter",
+    "pattern":
+    [
+        "A",
+        "B"	
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:mangrove_slab"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:stripped_mangrove_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:stripped_mangrove_counter",
+        "count": 1
+    }
+}
+
+

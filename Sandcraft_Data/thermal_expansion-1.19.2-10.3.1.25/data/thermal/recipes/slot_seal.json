@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "tag": "forge:plates/iron"
+    },
+    "i": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "pattern": [
+    "i i",
+    " P ",
+    "i i"
+  ],
+  "result": {
+    "item": "thermal:slot_seal"
+  }
+}

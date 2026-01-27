@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XDX",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ferdinandsflowers:planter_orange"
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:crops/waterchestnut"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:dimsumitem",
+	"count": 1}
+	
+}

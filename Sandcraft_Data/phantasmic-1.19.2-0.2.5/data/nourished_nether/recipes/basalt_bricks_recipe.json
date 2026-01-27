@@ -1,0 +1,26 @@
+{
+  "group": "basalt_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:basalt"
+    },
+    "1": {
+      "item": "minecraft:basalt"
+    },
+    "2": {
+      "item": "minecraft:basalt"
+    },
+    "3": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:basalt_bricks",
+    "count": 4
+  }
+}

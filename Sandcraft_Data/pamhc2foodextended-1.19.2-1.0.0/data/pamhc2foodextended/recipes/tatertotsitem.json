@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:salt"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:tatertotsitem",
+	"count": 1}
+	
+}

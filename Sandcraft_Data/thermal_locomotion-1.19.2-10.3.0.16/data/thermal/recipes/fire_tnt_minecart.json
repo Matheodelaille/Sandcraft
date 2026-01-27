@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "elemental_explosives"
+    }
+  ],
+  "key": {
+    "A": {
+      "item": "thermal:fire_tnt"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "item": "thermal:fire_tnt_minecart"
+  }
+}

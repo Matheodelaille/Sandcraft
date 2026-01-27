@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "item": "pamhc2foodextended:mochiitem"
+    },
+	{	
+      "tag": "forge:icecream"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mochidessertitem",
+	"count": 1}
+	
+}

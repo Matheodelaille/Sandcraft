@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_things_and_misc:slime",
+      "amount": 100
+    }
+  ],
+  "heatRequirement": "none"
+}

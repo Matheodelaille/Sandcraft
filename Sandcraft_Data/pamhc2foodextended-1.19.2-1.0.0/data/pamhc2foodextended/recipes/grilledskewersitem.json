@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "item": "minecraft:stick"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:grilledskewersitem",
+	"count": 1}
+	
+}

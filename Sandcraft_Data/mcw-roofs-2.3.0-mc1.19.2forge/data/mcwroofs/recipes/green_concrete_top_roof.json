@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:green_concrete"
+    },
+    "result": "mcwroofs:green_concrete_top_roof",
+    "group": "roofs",
+    "count": 1
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:ironscrap"
+    },
+    "1": {
+      "item": "orcz:ironscrap"
+    },
+    "2": {
+      "item": "orcz:ironscrap"
+    },
+    "3": {
+      "item": "orcz:ironscrap"
+    },
+    "4": {
+      "item": "orcz:ironscrap"
+    },
+    "5": {
+      "item": "orcz:ironscrap"
+    }
+  },
+  "result": {
+    "item": "orcz:scrapplatewall",
+    "count": 24
+  }
+}

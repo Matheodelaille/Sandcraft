@@ -1,0 +1,32 @@
+{
+  "group": "quartz_brick_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz_bricks"
+    },
+    "1": {
+      "item": "minecraft:quartz_bricks"
+    },
+    "2": {
+      "item": "minecraft:quartz_bricks"
+    },
+    "3": {
+      "item": "minecraft:quartz_bricks"
+    },
+    "4": {
+      "item": "minecraft:quartz_bricks"
+    },
+    "5": {
+      "item": "minecraft:quartz_bricks"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:quartz_brick_wall",
+    "count": 6
+  }
+}

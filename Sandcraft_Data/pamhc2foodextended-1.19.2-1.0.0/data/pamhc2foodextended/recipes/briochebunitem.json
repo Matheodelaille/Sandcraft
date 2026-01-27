@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:butter"
+    },
+	{	
+      "tag": "forge:milk"
+    },
+	{	
+      "tag": "forge:cream"
+    },
+	{	
+      "tag": "forge:sugar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:briochebunitem",
+	"count": 1}
+	
+}

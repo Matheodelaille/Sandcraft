@@ -1,0 +1,26 @@
+{
+	"filled_map.dungeons_plus:bigger_dungeon": "Mapa zakopanego lochu",
+	"filled_map.dungeons_plus:leviathan": "Mapa lewiatana",
+	"filled_map.dungeons_plus:snowy_temple": "Mapa śnieżnej świątyni",
+	
+	"dungeons_plus:advancements.adventure.find_tower.title": "Nie wierzę, żem na wieży",
+	"dungeons_plus:advancements.adventure.find_tower.description": "A właśnie że jesteś, teraz czas walczyć! (Znajdź wieżę)",
+	
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.title": "Bardzo straszne lochy",
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.description": "Trochę tych spawnerów przybyło. (Znajdź zakopany loch)",
+	
+	"dungeons_plus:advancements.adventure.find_leviathan.title": "Do lewiatana jeden krok",
+	"dungeons_plus:advancements.adventure.find_leviathan.description": "A raczej do jego szczątków... (Znajdź lewiatana)",
+	
+	"dungeons_plus:advancements.adventure.find_snowy_temple.title": "Zakopani pod zaspami",
+	"dungeons_plus:advancements.adventure.find_snowy_temple.description": "A mówili, że piramidy są na pustyni... (Znajdź śnieżną świątynię)",
+	
+	"dungeons_plus:advancements.end.find_end_ruins.title": "End u swego kresu",
+	"dungeons_plus:advancements.end.find_end_ruins.description": "Nie ma co zostawać tu na dłużej. (Znajdź endowe ruiny)",
+	
+	"dungeons_plus:advancements.adventure.find_warped_garden.title": "Coś nadzwyczajnego",
+	"dungeons_plus:advancements.adventure.find_warped_garden.description": "Wejdź do środka. Co może pójść nie tak? (Znajdź spaczony ogród)",
+	
+	"dungeons_plus:advancements.nether.find_soul_prison.title": "Miejsce pełne łez",
+	"dungeons_plus:advancements.nether.find_soul_prison.description": "Niedługo również twoich. (Znajdź więzienie dusz)"
+}

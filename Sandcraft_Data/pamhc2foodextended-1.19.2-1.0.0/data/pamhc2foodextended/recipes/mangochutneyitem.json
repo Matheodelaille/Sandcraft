@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/mango"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:crops/mustardseeds"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mangochutneyitem",
+	"count": 1}
+	
+}

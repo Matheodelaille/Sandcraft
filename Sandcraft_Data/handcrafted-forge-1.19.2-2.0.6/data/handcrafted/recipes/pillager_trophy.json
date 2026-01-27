@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "trophy",
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "/": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#/#",
+    "# #"
+  ],
+  "result": {
+    "item": "handcrafted:pillager_trophy"
+  }
+}

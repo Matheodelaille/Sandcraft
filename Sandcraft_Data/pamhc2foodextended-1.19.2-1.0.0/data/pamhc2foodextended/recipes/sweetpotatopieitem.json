@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/sweetpotato"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    },
+	{	
+      "tag": "forge:marshmellows"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sweetpotatopieitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWP",
+        "WSW",
+        "PWP"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:warped_planks"
+        },
+        "P": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:warped_window",
+        "count": 8
+    }
+}

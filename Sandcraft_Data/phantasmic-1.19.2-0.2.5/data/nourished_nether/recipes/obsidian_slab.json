@@ -1,0 +1,22 @@
+{
+  "group": "obsidian_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:obsidian_slab",
+    "count": 6
+  }
+}

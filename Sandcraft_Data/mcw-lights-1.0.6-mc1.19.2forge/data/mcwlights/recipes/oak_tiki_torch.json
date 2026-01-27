@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "tiki",
+    
+    "pattern": [
+    "N",
+    "I"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:torch"
+        },
+
+        
+        "I":
+        {
+            "item": "minecraft:oak_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:oak_tiki_torch",
+        "count": 1
+    }
+}

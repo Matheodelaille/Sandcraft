@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_red_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:red_geranium",
+              "ferdinandsflowers:red_poppy",
+              "ferdinandsflowers:red_clover",
+              "ferdinandsflowers:red_freesia",
+              "ferdinandsflowers:gloriosa_lily",
+              "ferdinandsflowers:red_sunflower",
+              "ferdinandsflowers:crimson_gladiola",
+              "ferdinandsflowers:ocotillo",
+              "ferdinandsflowers:desert_sturt_pea",
+              "ferdinandsflowers:desert_paintbrush",
+              "ferdinandsflowers:jewel_of_the_desert",
+              "ferdinandsflowers:devils_fingers",
+              "ferdinandsflowers:devils_fingers_single",
+              "ferdinandsflowers:basket_stinkhorn",
+              "ferdinandsflowers:buckwheat_red"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:red_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_red_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:red"
+    ]
+  }
+}

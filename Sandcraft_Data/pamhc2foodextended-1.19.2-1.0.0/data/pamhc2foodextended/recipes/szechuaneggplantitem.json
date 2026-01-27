@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "tag": "forge:crops/eggplant"
+    },
+	{	
+      "tag": "forge:firmtofu"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    },
+	{	
+      "tag": "forge:vinegar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:szechuaneggplantitem",
+	"count": 1}
+	
+}

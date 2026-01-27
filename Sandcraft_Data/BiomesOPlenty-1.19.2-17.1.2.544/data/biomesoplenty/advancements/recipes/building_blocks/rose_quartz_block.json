@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "biomesoplenty:rose_quartz_block"
+    ]
+  },
+  "criteria": {
+    "has_rose_quartz_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:rose_quartz_shard"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "biomesoplenty:rose_quartz_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_rose_quartz_shard",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:crops/celery"
+    },
+	{	
+      "tag": "forge:crops/peas"
+    },
+	{	
+      "tag": "forge:crops/lemon"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:peasandceleryitem",
+	"count": 1}
+	
+}

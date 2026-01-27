@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:rail"
+    }
+  },
+  "pattern": [
+    "# ",
+    "##",
+    "# "
+  ],
+  "result": {
+    "count": 4,
+    "item": "littlelogistics:switch_rail"
+  }
+}

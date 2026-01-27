@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " A  ",
+    "LKKS",
+    "LR  "
+  ],
+  "key": {
+    "A": {
+      "item": "create:blaze_burner"
+    },
+    "L": {
+      "item": "create:metal_girder"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "create:white_sail"
+    },
+    "K": {
+      "item": "create_things_and_misc:sturdy_sheet_block"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:blaze_balloon_fire"
+  },
+  "acceptMirrored": true
+}

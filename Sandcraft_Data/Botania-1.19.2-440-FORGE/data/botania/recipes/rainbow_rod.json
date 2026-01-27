@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "botania:dragonstone_gems"
+    },
+    "E": {
+      "tag": "botania:elementium_ingots"
+    },
+    "P": {
+      "item": "botania:pixie_dust"
+    }
+  },
+  "pattern": [
+    " PD",
+    " EP",
+    "E  "
+  ],
+  "result": {
+    "item": "botania:rainbow_rod"
+  }
+}

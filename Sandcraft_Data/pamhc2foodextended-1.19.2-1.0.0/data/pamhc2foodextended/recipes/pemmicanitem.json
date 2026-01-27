@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/peanut"
+    },
+	{	
+      "tag": "forge:fruits"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    },
+	{	
+      "tag": "forge:honey"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pemmicanitem",
+	"count": 1}
+	
+}

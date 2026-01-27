@@ -1,0 +1,25 @@
+{
+  "group": "polterpork",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nourished_nether:soul_weeds"
+    },
+    {
+      "item": "nourished_nether:soul_weeds"
+    },
+    {
+      "item": "nourished_nether:soul_weeds"
+    },
+    {
+      "item": "nourished_nether:cooked_hoglin"
+    },
+    {
+      "item": "nourished_nether:ectoplasm"
+    }
+  ],
+  "result": {
+    "item": "nourished_nether:polterpork",
+    "count": 1
+  }
+}

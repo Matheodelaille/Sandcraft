@@ -1,0 +1,32 @@
+{
+  "group": "gilded_blackstone_brick_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:gilded_blackstone_bricks"
+    },
+    "1": {
+      "item": "nourished_nether:gilded_blackstone_bricks"
+    },
+    "2": {
+      "item": "nourished_nether:gilded_blackstone_bricks"
+    },
+    "3": {
+      "item": "nourished_nether:gilded_blackstone_bricks"
+    },
+    "4": {
+      "item": "nourished_nether:gilded_blackstone_bricks"
+    },
+    "5": {
+      "item": "nourished_nether:gilded_blackstone_bricks"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:gilded_blackstone_brick_wall",
+    "count": 6
+  }
+}

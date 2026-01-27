@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "ae2:sky_dust"
+  },
+  "result": "ae2:sky_stone_block"
+}

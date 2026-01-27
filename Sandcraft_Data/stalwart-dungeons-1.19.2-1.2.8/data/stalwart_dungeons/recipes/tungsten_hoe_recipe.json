@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "1": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:tungsten_hoe",
+    "count": 1
+  }
+}

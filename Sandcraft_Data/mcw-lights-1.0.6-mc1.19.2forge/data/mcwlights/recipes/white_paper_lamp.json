@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "PPP",
+    "PTP",
+    "PPP"
+    ],
+    
+    "key":
+    {
+		"P":
+        {
+            "item": "minecraft:paper"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:torch"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:white_paper_lamp",
+        "count": 1
+    }
+}

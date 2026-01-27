@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bench",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "/": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "pattern": [
+    "/#/",
+    "/#/",
+    "/ /"
+  ],
+  "result": {
+    "item": "handcrafted:bench"
+  }
+}

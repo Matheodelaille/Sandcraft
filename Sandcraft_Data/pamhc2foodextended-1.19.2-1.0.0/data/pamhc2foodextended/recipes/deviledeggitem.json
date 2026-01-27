@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:boiledegg"
+    },
+	{	
+      "tag": "forge:condiments/mayonaise"
+    },
+	{	
+      "tag": "forge:condiments/mustard"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:spices/saltandpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:deviledeggitem",
+	"count": 1}
+	
+}

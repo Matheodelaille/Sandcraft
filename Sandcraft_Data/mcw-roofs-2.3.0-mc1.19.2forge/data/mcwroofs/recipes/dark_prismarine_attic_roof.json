@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:dark_prismarine"
+    },
+    "result": "mcwroofs:dark_prismarine_attic_roof",
+    "group": "roofs",
+    "count": 1
+}

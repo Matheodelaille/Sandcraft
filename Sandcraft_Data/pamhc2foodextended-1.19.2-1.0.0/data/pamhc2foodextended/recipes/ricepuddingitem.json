@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    },
+	{	
+      "tag": "forge:milk"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    },
+	{	
+      "tag": "forge:spices/vanilla"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:ricepuddingitem",
+	"count": 1}
+	
+}

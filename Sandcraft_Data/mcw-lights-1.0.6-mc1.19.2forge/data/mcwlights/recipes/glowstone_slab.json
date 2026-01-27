@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "slabs",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone"
+        }
+    },
+    "result": {
+        "item": "mcwlights:glowstone_slab",
+        "count": 6
+    }
+}

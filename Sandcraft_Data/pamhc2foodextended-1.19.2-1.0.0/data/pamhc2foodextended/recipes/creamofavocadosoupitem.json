@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/avocado"
+    },
+	{	
+      "tag": "forge:cream"
+    },
+	{	
+      "tag": "forge:crops/lime"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:stock"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:creamofavocadosoupitem",
+	"count": 1}
+	
+}

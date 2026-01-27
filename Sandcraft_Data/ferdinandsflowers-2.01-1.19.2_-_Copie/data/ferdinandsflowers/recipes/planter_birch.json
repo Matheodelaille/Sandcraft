@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:birch_planks"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XDX",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ferdinandsflowers:planter_birch"
+  }
+}

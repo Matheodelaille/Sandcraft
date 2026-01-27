@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/pineapple"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:crops/cherry"
+    },
+	{	
+      "tag": "forge:sugar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pineapplehamitem",
+	"count": 1}
+	
+}

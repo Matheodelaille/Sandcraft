@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_sign",
+    "pattern": [
+        "###",
+        "###",
+        " X "
+    ],
+    "key": {
+        "#": { "item": "terraqueous:mulberry_planks" },
+        "X": { "tag": "forge:rods/wooden" }
+    },
+    "result": {
+        "item": "terraqueous:mulberry_sign",
+        "count": 3
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mosaic_glass",
+	
+    "pattern":
+    [
+		"AAA",
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:purple_stained_glass"
+        },    
+
+        "B":
+        {
+            "item": "minecraft:purple_dye"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:purple_mosaic_glass",
+        "count": 8
+    }
+}
+
+

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:lime_wool"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "valhelsia_structures:lime_sleeping_bag"
+  }
+}

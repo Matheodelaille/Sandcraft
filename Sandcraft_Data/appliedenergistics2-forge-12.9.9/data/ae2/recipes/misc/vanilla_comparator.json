@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_torch"
+    },
+    "b": {
+      "tag": "ae2:all_nether_quartz"
+    },
+    "c": {
+      "tag": "forge:stone"
+    }
+  },
+  "pattern": [
+    " a ",
+    "aba",
+    "ccc"
+  ],
+  "result": {
+    "item": "minecraft:comparator"
+  }
+}

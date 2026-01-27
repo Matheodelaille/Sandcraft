@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "arrow_slit",
+	
+    "pattern":
+    [
+        " AA",
+        " BB",
+        " AA"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:cobblestone_slab"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:cobblestone_arrow_slit",
+        "count": 3
+    }
+}
+
+

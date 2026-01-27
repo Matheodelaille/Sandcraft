@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:meringue"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:icecreams"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bakedalaskaitem",
+	"count": 1}
+	
+}

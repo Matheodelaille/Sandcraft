@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SCS",
+        "BPB",
+        "SCS"
+    ],
+    "key": {
+        "P": { "tag": "forge:ender_pearls" },
+        "B": { "item": "minecraft:water_bucket" },
+        "C": { "tag": "forge:dusts/prismarine" },
+        "S": { "tag": "forge:gems/prismarine" }
+    },
+    "result": {
+        "item": "terraqueous:water_pearl"
+    }
+}

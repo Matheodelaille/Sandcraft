@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "terraqueous:small_flowerpot" }
+    ],
+    "result": { "item": "minecraft:flower_pot" }
+}

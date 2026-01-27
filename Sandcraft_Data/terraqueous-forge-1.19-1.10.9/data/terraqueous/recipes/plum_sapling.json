@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "saplings",
+    "ingredients": [
+        { "item": "terraqueous:plum" },
+        { "item": "terraqueous:plum_leaves" },
+        { "tag": "terraqueous:plum_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:plum_sapling"
+    }
+}

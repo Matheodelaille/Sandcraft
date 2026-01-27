@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": "create_things_and_misc:redsing_2"
+}

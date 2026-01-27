@@ -1,0 +1,16 @@
+{
+  "group": "necronium_nugget",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:necronium_ingot"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:necronium_nugget",
+    "count": 9
+  }
+}

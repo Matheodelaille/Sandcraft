@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "steel"
+    }
+  ],
+  "cookingtime": 100,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "thermal:steel_dust"
+  },
+  "result": "thermal:steel_ingot"
+}

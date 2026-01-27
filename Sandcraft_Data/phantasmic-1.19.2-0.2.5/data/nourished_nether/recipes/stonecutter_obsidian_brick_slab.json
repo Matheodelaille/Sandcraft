@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "nourished_nether:obsidian_bricks"
+  },
+  "result": "nourished_nether:obsidian_brick_slab"
+}

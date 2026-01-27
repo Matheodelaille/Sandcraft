@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "botania:rune_air"
+    },
+    "T": {
+      "item": "botania:livingwood_twig"
+    }
+  },
+  "pattern": [
+    " TA",
+    " TT",
+    "T  "
+  ],
+  "result": {
+    "item": "botania:slingshot"
+  }
+}

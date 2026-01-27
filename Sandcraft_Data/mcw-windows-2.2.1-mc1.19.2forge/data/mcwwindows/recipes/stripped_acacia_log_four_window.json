@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "windows_four",
+	
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwwindows:window_centre_bar_base"
+        },    
+
+		
+        "B":
+        {
+            "item": "minecraft:stripped_acacia_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:stripped_acacia_log_four_window",
+        "count": 8
+    }
+}
+
+

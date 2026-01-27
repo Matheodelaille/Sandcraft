@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "tag": "forge:sugar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:festivalbreaditem",
+	"count": 1}
+	
+}

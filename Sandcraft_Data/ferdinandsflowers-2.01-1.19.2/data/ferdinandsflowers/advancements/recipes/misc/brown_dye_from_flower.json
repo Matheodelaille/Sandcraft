@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_brown_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:devils_claw_vine",
+              "ferdinandsflowers:tumble_weed",
+              "ferdinandsflowers:live_forever_leaves"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:brown_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_brown_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:brown"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nourished_nether:basalt_bricks"
+  },
+  "result": "nourished_nether:basalt_brick_wall"
+}

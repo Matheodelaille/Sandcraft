@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/walnut"
+    },
+	{	
+      "item": "pamhc2foodextended:raisinsitem"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:walnutraisinbreaditem",
+	"count": 1}
+	
+}

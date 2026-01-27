@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "$": {
+      "item": "minecraft:iron_nugget"
+    },
+    "_": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    "_$_",
+    "$_$"
+  ],
+  "result": {
+    "count": 6,
+    "item": "littlelogistics:spring"
+  }
+}

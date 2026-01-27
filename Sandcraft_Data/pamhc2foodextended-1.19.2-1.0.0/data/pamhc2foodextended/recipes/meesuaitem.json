@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:pasta"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:crops/corn"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:crops/scallion"
+    },
+	{	
+      "tag": "forge:condiments/oystersauce"
+    },
+	{	
+      "tag": "forge:crops/coconut"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:meesuaitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/sweetpotato"
+    },
+	{	
+      "tag": "forge:crops/pecan"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:butter"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sweetpotatosouffleitem",
+	"count": 1}
+	
+}

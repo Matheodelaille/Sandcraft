@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "wood_crockery_combo",
+  "ingredients": [
+    {
+      "item": "handcrafted:wood_cup"
+    },
+    {
+      "item": "handcrafted:wood_plate"
+    }
+  ],
+  "result": {
+    "item": "handcrafted:wood_crockery_combo"
+  }
+}

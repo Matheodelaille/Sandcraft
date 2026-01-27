@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "concrete_edge",
+    "pattern": [
+        "@@",
+        "# ",
+        "# "
+    ],
+    "key": {
+        "@": { "item": "white_concrete_powder" },
+        "#": { "item": "white_concrete" }
+    },
+    "result": {
+        "item": "terraqueous:white_concrete_edge",
+        "count": 4
+    }
+}

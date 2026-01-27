@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_door",
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:storm_cloud" }
+    },
+    "result": {
+        "item": "terraqueous:storm_cloud_door",
+        "count": 3
+    }
+}

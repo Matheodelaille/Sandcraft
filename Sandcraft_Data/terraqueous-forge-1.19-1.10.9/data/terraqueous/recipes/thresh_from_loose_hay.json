@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "terraqueous:hay",
+    "ingredients": [
+        { "item": "terraqueous:loose_hay" }
+    ],
+    "result": {
+        "item": "terraqueous:thresh"
+    }
+}

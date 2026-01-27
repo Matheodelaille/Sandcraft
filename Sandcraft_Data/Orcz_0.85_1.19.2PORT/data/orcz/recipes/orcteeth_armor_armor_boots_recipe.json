@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:orcteeth"
+    },
+    "2": {
+      "item": "orcz:orcteeth"
+    },
+    "3": {
+      "item": "orcz:orcteeth"
+    },
+    "5": {
+      "item": "orcz:orcteeth"
+    }
+  },
+  "result": {
+    "item": "orcz:orcteeth_armor_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:spices/vanilla"
+    },
+	{	
+      "tag": "forge:cream"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:imagawayakiitem",
+	"count": 1}
+	
+}

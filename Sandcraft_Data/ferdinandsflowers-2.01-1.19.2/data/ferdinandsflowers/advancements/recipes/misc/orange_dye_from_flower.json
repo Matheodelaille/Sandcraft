@@ -1,0 +1,52 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_orange_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:lantana",
+              "ferdinandsflowers:sunny_zinnia",
+              "ferdinandsflowers:striped_zinnia",
+              "ferdinandsflowers:orange_freesia",
+              "ferdinandsflowers:nasturtium",
+              "ferdinandsflowers:sticky_monkey",
+              "ferdinandsflowers:orange_day_lily",
+              "ferdinandsflowers:day_lily",
+              "ferdinandsflowers:california_poppy",
+              "ferdinandsflowers:lady_slipper_orchid",
+              "ferdinandsflowers:orange_lupin",
+              "ferdinandsflowers:orange_cosmos",
+              "ferdinandsflowers:cape_aloe",
+              "ferdinandsflowers:paradox_sunflower",
+              "ferdinandsflowers:tall_orange_cosmos",
+              "ferdinandsflowers:orange_gladiola",
+              "ferdinandsflowers:australian_flame_pea",
+              "ferdinandsflowers:orange_australian_flame_pea",
+              "ferdinandsflowers:live_forever"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:orange_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_orange_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:orange"
+    ]
+  }
+}

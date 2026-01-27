@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WSW",
+        "SPS",
+        "WSW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:acacia_planks"
+        },
+        "P": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:cobweb"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:acacia_window_web",
+        "count": 8
+    }
+}

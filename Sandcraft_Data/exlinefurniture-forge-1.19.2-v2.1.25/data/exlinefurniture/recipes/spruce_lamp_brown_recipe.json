@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WLW",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:spruce_slab"
+        },
+        "L": {
+            "item": "minecraft:redstone_torch"
+        },
+        "W": {
+            "item": "minecraft:brown_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:spruce_lamp_brown",
+        "count": 1
+    }
+}

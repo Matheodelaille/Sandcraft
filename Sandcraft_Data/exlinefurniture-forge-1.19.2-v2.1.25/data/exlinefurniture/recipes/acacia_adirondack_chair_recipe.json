@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "P  ",
+        "PSS",
+        "P P"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:acacia_slab"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:acacia_adirondack_chair",
+        "count": 1
+    }
+}

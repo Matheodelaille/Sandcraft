@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "windows",
+	
+    "pattern":
+    [
+        " A ",
+        "ABA",
+        " A "                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwwindows:window_base"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:spruce_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:spruce_plank_window",
+        "count": 4
+    }
+}
+
+

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "end_table",
+    "pattern":
+    [
+        "A",
+        "B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "mcwfurnitures:spruce_table"
+        }, 
+		
+		
+        "B":
+        {
+            "item": "minecraft:spruce_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_end_table",
+        "count": 1
+    }
+}
+
+

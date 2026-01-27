@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F F",
+    " F ",
+    " L "
+  ],
+  "key": {
+    "F": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    },
+    "L": {
+      "item": "minecraft:leather",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:tool_machine_wrench",
+    "count": 1
+  }
+}

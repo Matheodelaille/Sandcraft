@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:crops/cabbage"
+    },
+	{	
+      "tag": "forge:crops/leek"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chikorollitem",
+	"count": 1}
+	
+}

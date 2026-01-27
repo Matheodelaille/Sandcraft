@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "group": "terraqueous:endimium",
+    "ingredient": {
+        "item": "terraqueous:endimium_dust"
+    },
+    "result": "terraqueous:endimium_gem",
+    "experience": 2.75,
+    "cookingtime": 200
+}

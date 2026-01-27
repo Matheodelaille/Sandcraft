@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    "P": {
+      "tag": "pneumaticcraft:plastic_sheets"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "S": {
+      "item": "pneumaticcraft:seismic_sensor"
+    }
+  },
+  "pattern": [
+    " S ",
+    "PRP",
+    "PCP"
+  ],
+  "result": {
+    "item": "pneumaticcraft:universal_sensor"
+  }
+}

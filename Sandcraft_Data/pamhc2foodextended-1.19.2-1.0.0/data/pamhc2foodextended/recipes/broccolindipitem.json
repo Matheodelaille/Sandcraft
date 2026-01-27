@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:crops/broccoli"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:cream"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:broccolindipitem",
+	"count": 1}
+	
+}

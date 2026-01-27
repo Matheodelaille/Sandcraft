@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "SSS",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:spruce_log"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:spruce_log_table",
+        "count": 1
+    }
+}

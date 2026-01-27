@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "botania:dye",
+  "ingredients": [
+    {
+      "tag": "botania:petals/brown"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brown_dye"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "hoglinhide",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:hoglin_hide_block"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:hoglin_hide",
+    "count": 9
+  }
+}

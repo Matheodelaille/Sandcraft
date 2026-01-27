@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:crops/cucumber"
+    },
+	{	
+      "tag": "forge:crops/lettuce"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:vegetarianlettucewrapitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_piers",
+    
+    "pattern": [
+    "WFW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:deepslate_tile_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:deepslate_tiles"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:deepslate_tile_bridge_pier",
+        "count": 3
+    }
+}

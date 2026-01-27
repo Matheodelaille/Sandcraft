@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "shutters",
+	
+    "pattern":
+    [
+        "B",
+        "B",
+        "B"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:oak_louvered_shutter",
+        "count": 3
+    }
+}
+
+

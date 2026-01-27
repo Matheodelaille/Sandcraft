@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:fiery_ingot"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:fiery_ingot_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:fiery_ingot_essence"
+  }
+}

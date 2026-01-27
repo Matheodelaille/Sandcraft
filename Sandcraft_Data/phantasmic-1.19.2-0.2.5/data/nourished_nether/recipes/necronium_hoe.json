@@ -1,0 +1,27 @@
+{
+  "group": "necronium_hoe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:necronium_ingot"
+    },
+    "1": {
+      "item": "nourished_nether:necronium_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:necronium_hoe",
+    "count": 1
+  }
+}

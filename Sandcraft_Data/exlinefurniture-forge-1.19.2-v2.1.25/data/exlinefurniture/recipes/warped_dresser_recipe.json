@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "TST",
+        "TST"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:warped_planks"
+        },
+        "S": {
+            "item": "minecraft:warped_slab"
+        },
+        "T": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:warped_dresser",
+        "count": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:soul_bricks"
+    },
+    "3": {
+      "item": "stalwart_dungeons:soul_bricks"
+    },
+    "4": {
+      "item": "stalwart_dungeons:soul_bricks"
+    },
+    "6": {
+      "item": "stalwart_dungeons:soul_bricks"
+    },
+    "7": {
+      "item": "stalwart_dungeons:soul_bricks"
+    },
+    "8": {
+      "item": "stalwart_dungeons:soul_bricks"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:soul_bricks_stairs",
+    "count": 4
+  }
+}

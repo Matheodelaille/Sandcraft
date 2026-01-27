@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "magenta_dye",
+    "ingredients": [
+        { "item": "terraqueous:primrose" }
+    ],
+    "result": {
+        "item": "minecraft:magenta_dye"
+    }
+}

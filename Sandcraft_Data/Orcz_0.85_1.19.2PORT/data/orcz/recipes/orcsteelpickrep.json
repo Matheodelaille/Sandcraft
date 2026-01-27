@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:orc_steel"
+    },
+    "1": {
+      "item": "orcz:orc_steel"
+    },
+    "2": {
+      "item": "orcz:orc_steel"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "orcz:orc_steelpickaxe",
+    "count": 1
+  }
+}

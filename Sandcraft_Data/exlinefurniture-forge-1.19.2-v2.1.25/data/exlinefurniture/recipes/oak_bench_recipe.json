@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "P  ",
+        "PPP",
+        " F "
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:oak_slab"
+        },
+        "F": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:oak_bench",
+        "count": 1
+    }
+}

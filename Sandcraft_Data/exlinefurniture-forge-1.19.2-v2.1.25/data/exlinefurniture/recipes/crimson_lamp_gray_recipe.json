@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WLW",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:crimson_slab"
+        },
+        "L": {
+            "item": "minecraft:redstone_torch"
+        },
+        "W": {
+            "item": "minecraft:gray_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:crimson_lamp_gray",
+        "count": 1
+    }
+}

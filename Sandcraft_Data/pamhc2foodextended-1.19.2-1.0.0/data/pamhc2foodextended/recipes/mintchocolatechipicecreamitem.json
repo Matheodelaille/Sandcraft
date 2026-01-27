@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:icecream"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:chocolatebar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mintchocolatechipicecreamitem",
+	"count": 1}
+	
+}

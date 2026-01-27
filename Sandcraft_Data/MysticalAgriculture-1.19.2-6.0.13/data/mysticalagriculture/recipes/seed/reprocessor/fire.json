@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:fire"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:fire_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:fire_essence"
+  }
+}

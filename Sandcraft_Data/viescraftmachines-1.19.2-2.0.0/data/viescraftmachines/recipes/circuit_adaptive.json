@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#F#"
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:circuit_logic",
+      "count": 1
+    },
+    "F": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:circuit_adaptive",
+    "count": 1
+  }
+}

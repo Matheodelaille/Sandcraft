@@ -1,0 +1,26 @@
+{
+	"filled_map.dungeons_plus:bigger_dungeon": "Mapa de Mazmorra Enterrada",
+	"filled_map.dungeons_plus:leviathan": "Mapa de Restos de Leviatan",
+	"filled_map.dungeons_plus:snowy_temple": "Mapa de Templo Helado",
+	
+	"dungeons_plus:advancements.adventure.find_tower.title": "¿Torres de batalla?",
+	"dungeons_plus:advancements.adventure.find_tower.description": "No del todo, ¡pero todavía hay multitudes contra las que luchar! (Encuentra una torre)",
+	
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.title": "Ahora esto es una mazmorra",
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.description": "Son más reproductores de los que estoy acostumbrado. (Encuentra una mazmorra enterrada)",
+	
+	"dungeons_plus:advancements.adventure.find_leviathan.title": "Restos antiguos",
+	"dungeons_plus:advancements.adventure.find_leviathan.description": "Debe haber bajado con un ... fémur. (Encuentra un Leviatán)",
+	
+	"dungeons_plus:advancements.adventure.find_snowy_temple.title": "Nevó en",
+	"dungeons_plus:advancements.adventure.find_snowy_temple.description": "Pensé que las pirámides estaban en los desiertos ... (Encuentra un templo nevado)",
+	
+	"dungeons_plus:advancements.end.find_end_ruins.title": "Un final arruinado",
+	"dungeons_plus:advancements.end.find_end_ruins.description": "Probablemente no debería quedarse mucho tiempo. (Encontrar ruinas finales)",
+	
+	"dungeons_plus:advancements.adventure.find_warped_garden.title": "Algo antinatural",
+	"dungeons_plus:advancements.adventure.find_warped_garden.description": "Ve adentro. ¿Qué puede salir mal? (Encuentra un jardín distorsionado)",
+	
+	"dungeons_plus:advancements.nether.find_soul_prison.title": "Lágrimas enjauladas",
+	"dungeons_plus:advancements.nether.find_soul_prison.description": "Aunque no de ellos. (Encuentra la prisión del alma)"
+}

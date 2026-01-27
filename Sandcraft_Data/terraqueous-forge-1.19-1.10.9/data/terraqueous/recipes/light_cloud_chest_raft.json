@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chest_boat",
+    "ingredients": [
+        { "tag": "forge:chests/wooden" },
+        { "item": "terraqueous:light_cloud_raft" }
+    ],
+    "result": {
+        "item": "terraqueous:light_cloud_chest_raft"
+    }
+}

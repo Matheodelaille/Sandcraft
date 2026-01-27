@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:crops/celery"
+    },
+	{	
+      "tag": "forge:nutbutters"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:celeryandpeanutbutteritem",
+	"count": 1}
+	
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hammer",
+  "key": {
+    "#": {
+      "tag": "handcrafted:boards"
+    },
+    "/": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " / ",
+    " #/",
+    "#  "
+  ],
+  "result": {
+    "item": "handcrafted:hammer"
+  }
+}

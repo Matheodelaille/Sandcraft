@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "1": {
+      "item": "minecraft:smooth_stone"
+    },
+    "2": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "3": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:tungsten_hammer",
+    "count": 1
+  }
+}

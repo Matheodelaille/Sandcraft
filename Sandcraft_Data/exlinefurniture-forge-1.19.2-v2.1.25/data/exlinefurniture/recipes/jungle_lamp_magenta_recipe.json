@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WLW",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:jungle_slab"
+        },
+        "L": {
+            "item": "minecraft:redstone_torch"
+        },
+        "W": {
+            "item": "minecraft:magenta_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:jungle_lamp_magenta",
+        "count": 1
+    }
+}

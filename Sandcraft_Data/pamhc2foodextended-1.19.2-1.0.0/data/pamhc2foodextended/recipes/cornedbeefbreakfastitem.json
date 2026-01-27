@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "item": "pamhc2foodextended:cornedbeefhashitem"
+    },
+	{	
+      "tag": "forge:friedegg"
+    },
+	{	
+      "tag": "forge:toast"
+    },
+	{	
+      "tag": "forge:condiments/ketchup"
+    },
+	{	
+      "tag": "forge:milk"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cornedbeefbreakfastitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:orange_carpet"
+        },
+        {
+            "item": "minecraft:orange_carpet"
+        },
+        {
+            "item": "exlinefurniture:crimson_chair"
+        }
+    ],
+    "result": {
+        "item": "exlinefurniture:crimson_chair_orange",
+        "count":1
+    }
+}

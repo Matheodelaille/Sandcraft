@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:blaze"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:blaze_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:blaze_essence"
+  }
+}

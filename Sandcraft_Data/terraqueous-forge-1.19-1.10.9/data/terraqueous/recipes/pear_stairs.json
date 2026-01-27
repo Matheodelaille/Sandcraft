@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_stairs",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:pear_planks" }
+    },
+    "result": {
+        "item": "terraqueous:pear_stairs",
+        "count": 4
+    }
+}

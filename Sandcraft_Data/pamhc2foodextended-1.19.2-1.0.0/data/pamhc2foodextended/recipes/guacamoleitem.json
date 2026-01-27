@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:crops/avocado"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:guacamoleitem",
+	"count": 1}
+	
+}

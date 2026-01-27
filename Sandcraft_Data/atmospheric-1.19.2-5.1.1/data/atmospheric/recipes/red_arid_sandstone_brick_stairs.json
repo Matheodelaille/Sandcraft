@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "atmospheric:red_arid_sandstone_bricks"
+      }
+    ]
+  },
+  "result": {
+    "item": "atmospheric:red_arid_sandstone_brick_stairs",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "sandstone_bricks"
+    }
+  ]
+}

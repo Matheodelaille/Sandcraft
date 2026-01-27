@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "L": {
+      "item": "immersiveengineering:lantern"
+    },
+    "S": {
+      "tag": "forge:glass"
+    },
+    "W": {
+      "tag": "forge:treated_wood"
+    }
+  },
+  "pattern": [
+    "S  ",
+    "IL ",
+    " IW"
+  ],
+  "result": {
+    "item": "immersivepetroleum:projector"
+  }
+}

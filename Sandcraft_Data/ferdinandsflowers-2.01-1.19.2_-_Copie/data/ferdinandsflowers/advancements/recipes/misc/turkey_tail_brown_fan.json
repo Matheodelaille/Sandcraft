@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_turkey_tail_brown": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:turkey_tail_brown"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:turkey_tail_brown_fan"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_turkey_tail_brown",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:turkey_tail_brown_fan"
+    ]
+  }
+}

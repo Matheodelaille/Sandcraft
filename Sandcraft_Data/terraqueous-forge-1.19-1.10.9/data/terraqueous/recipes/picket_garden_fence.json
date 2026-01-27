@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " W ",
+        "WFW"
+    ],
+    "key": {
+        "W": { "tag": "forge:dyes/white" },
+        "F": { "tag": "forge:fences/wooden" }
+    },
+    "result": {
+        "item": "terraqueous:picket_garden_fence",
+        "nbt": { "rgb16": 4095, "rgbsimple": 0 },
+        "count": 3
+    }
+}

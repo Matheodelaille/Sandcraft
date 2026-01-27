@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ferdinandsflowers:red_reishi"
+    }
+  ],
+  "result": {
+    "item": "ferdinandsflowers:red_reishi_fan"
+  }
+}

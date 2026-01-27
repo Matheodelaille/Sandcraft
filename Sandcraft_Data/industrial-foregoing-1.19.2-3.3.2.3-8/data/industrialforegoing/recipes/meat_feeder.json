@@ -1,0 +1,40 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:meat_feeder"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "g": {
+            "item": "minecraft:glass_bottle"
+          },
+          "i": {
+            "tag": "forge:ingots/iron"
+          },
+          "p": {
+            "item": "industrialforegoing:plastic"
+          }
+        },
+        "pattern": [
+          "pip",
+          "gig",
+          " i "
+        ],
+        "result": {
+          "item": "industrialforegoing:meat_feeder"
+        }
+      }
+    }
+  ]
+}

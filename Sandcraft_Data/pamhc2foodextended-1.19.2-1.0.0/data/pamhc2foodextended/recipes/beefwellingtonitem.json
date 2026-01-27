@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:rawbeef"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    },
+	{	
+      "tag": "forge:crops/spinach"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:beefwellingtonitem",
+	"count": 1}
+	
+}

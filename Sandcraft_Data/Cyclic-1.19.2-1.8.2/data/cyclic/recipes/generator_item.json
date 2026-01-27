@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pip",
+    "cbc",
+    "pip"
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:storage_blocks/ender_eye"
+    },
+    "p": {
+      "item": "minecraft:observer"
+    },
+    "i": {
+      "tag": "forge:ingots/copper"
+    },
+    "c": {
+      "item": "cyclic:gold_bars"
+    }
+  },
+  "result": {
+    "item": "cyclic:generator_item"
+  }
+}

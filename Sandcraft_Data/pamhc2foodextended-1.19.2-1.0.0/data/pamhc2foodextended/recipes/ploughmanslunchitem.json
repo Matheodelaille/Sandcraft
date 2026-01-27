@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:bread"
+    },
+	{	
+      "tag": "forge:crops/apple"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "item": "pamhc2foodextended:sweetpickleitem"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:boiledegg"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:ploughmanslunchitem",
+	"count": 1}
+	
+}

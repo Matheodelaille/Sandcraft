@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:rawbeef"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:tortilla"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:steakfajitaitem",
+	"count": 1}
+	
+}

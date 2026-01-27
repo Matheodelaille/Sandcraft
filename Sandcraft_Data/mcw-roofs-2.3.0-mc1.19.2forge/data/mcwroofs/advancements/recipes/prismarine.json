@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwroofs:prismarine_brick_roof",
+	  "mcwroofs:prismarine_brick_attic_roof",
+	  "mcwroofs:prismarine_brick_top_roof",
+	  "mcwroofs:prismarine_brick_lower_roof",
+	  "mcwroofs:prismarine_brick_steep_roof",
+	  "mcwroofs:prismarine_brick_upper_lower_roof",
+	  "mcwroofs:prismarine_brick_upper_steep_roof",
+	  
+	  "mcwroofs:dark_prismarine_roof",
+	  "mcwroofs:dark_prismarine_attic_roof",
+	  "mcwroofs:dark_prismarine_top_roof",
+	  "mcwroofs:dark_prismarine_lower_roof",
+	  "mcwroofs:dark_prismarine_steep_roof",
+	  "mcwroofs:dark_prismarine_upper_lower_roof",
+	  "mcwroofs:dark_prismarine_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:prismarine_bricks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

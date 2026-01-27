@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BIE",
+        " L ",
+        " L "
+    ],
+    "key": {
+        "I": { "tag": "forge:storage_blocks/iron" },
+        "L": { "tag": "minecraft:logs" },
+        "B": { "tag": "forge:burnium" },
+        "E": { "tag": "forge:endimium" }
+    },
+    "result": {
+        "item": "terraqueous:multitool"
+    }
+}

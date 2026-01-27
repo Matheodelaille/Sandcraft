@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "trophy",
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "/": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#/#",
+    "# #"
+  ],
+  "result": {
+    "item": "handcrafted:witch_trophy"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "smooth_basalt_decorative",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "1": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "2": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:smooth_basalt_slab",
+    "count": 6
+  }
+}

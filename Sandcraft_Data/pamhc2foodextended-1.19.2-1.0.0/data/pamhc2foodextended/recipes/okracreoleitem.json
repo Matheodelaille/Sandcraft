@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/okra"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:okracreoleitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PGP",
+        "SSS",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:stripped_birch_log"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:birch_stripped_log_glass_table",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "ISI",
+        " I "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:coal"
+        },
+        "S": {
+            "item": "exlinefurniture:skeleton_doll"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:wither_skeleton_doll",
+        "count": 1
+    }
+}

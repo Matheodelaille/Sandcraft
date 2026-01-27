@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:raspberries"
+    }
+  ],
+  "result": {
+    "item": "croptopia:raspberry_seed"
+  }
+}

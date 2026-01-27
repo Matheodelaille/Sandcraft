@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "birdcage",
+  "pattern": [
+    " A ",
+    "ASA",
+    "WWW"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "W": {
+      "item": "minecraft:spruce_slab"
+    }
+  },
+  "result": {
+    "item": "exoticbirds:spruce_birdcage"
+  }
+}

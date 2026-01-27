@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "windows_two",
+	
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwwindows:window_half_bar_base"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:oak_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:oak_plank_window2",
+        "count": 8
+    }
+}
+
+

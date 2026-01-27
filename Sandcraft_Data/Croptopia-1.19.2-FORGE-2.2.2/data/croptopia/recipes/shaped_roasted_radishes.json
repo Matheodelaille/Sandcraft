@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "213",
+    "465"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:radishes"
+    },
+    "2": {
+      "tag": "forge:olive_oils"
+    },
+    "3": {
+      "tag": "forge:garlic"
+    },
+    "4": {
+      "tag": "forge:salts"
+    },
+    "5": {
+      "item": "croptopia:pepper"
+    },
+    "6": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:roasted_radishes",
+    "count": 2
+  }
+}

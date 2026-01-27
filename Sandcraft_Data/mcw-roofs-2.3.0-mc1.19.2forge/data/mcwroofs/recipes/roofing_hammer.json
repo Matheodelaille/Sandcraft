@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " NN",
+		"S  "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+		"N":
+        {
+            "item": "minecraft:iron_nugget"
+        },
+		"I":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mcwroofs:roofing_hammer",
+        "count": 1
+    }
+}

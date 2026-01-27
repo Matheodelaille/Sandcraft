@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "theoneprobe:gold_helmet_probe"
+  },
+  "pattern": [
+    "ab",
+    "  "
+  ],
+  "key": {
+    "b": {
+      "item": "theoneprobe:probe"
+    },
+    "a": {
+      "item": "minecraft:golden_helmet"
+    }
+  },
+  "type": "theoneprobe:probe_helmet"
+}

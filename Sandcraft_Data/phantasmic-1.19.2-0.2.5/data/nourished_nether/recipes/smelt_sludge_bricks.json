@@ -1,0 +1,10 @@
+{
+  "group": "cracked_sludge_bricks",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "nourished_nether:sludge_bricks"
+  },
+  "result": "nourished_nether:cracked_sludge_bricks"
+}

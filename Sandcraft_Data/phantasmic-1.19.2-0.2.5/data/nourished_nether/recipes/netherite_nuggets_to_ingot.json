@@ -1,0 +1,42 @@
+{
+  "group": "netheriteingot",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "1": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "2": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "3": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "4": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "5": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "6": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "7": {
+      "item": "nourished_nether:netherite_nugget"
+    },
+    "8": {
+      "item": "nourished_nether:netherite_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "atmospheric:yucca_fruit"
+    }
+  },
+  "result": {
+    "item": "atmospheric:yucca_cask",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "apple_crate"
+    }
+  ]
+}

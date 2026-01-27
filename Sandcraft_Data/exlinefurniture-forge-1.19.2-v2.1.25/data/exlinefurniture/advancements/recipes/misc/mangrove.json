@@ -1,0 +1,74 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:mangrove_adirondack_chair_recipe",
+      "exlinefurniture:mangrove_bench_recipe",
+      "exlinefurniture:mangrove_chair_recipe",
+      "exlinefurniture:mangrove_chair_black_recipe",
+      "exlinefurniture:mangrove_chair_blue_recipe",
+      "exlinefurniture:mangrove_chair_brown_recipe",
+      "exlinefurniture:mangrove_chair_cyan_recipe",
+      "exlinefurniture:mangrove_chair_gray_recipe",
+      "exlinefurniture:mangrove_chair_green_recipe",
+      "exlinefurniture:mangrove_chair_light_blue_recipe",
+      "exlinefurniture:mangrove_chair_light_gray_recipe",
+      "exlinefurniture:mangrove_chair_lime_recipe",
+      "exlinefurniture:mangrove_chair_magenta_recipe",
+      "exlinefurniture:mangrove_chair_orange_recipe",
+      "exlinefurniture:mangrove_chair_pink_recipe",
+      "exlinefurniture:mangrove_chair_purple_recipe",
+      "exlinefurniture:mangrove_chair_red_recipe",
+      "exlinefurniture:mangrove_chair_white_recipe",
+      "exlinefurniture:mangrove_chair_yellow_recipe",
+      "exlinefurniture:mangrove_dresser_recipe",
+      "exlinefurniture:mangrove_table_recipe",
+      "exlinefurniture:mangrove_glass_table_recipe",
+      "exlinefurniture:mangrove_log_table_recipe",
+      "exlinefurniture:mangrove_log_glass_table_recipe",
+      "exlinefurniture:mangrove_stripped_log_table_recipe",
+      "exlinefurniture:mangrove_stripped_log_glass_table_recipe",
+      "exlinefurniture:mangrove_lamp_black_recipe",
+      "exlinefurniture:mangrove_lamp_blue_recipe",
+      "exlinefurniture:mangrove_lamp_brown_recipe",
+      "exlinefurniture:mangrove_lamp_cyan_recipe",
+      "exlinefurniture:mangrove_lamp_gray_recipe",
+      "exlinefurniture:mangrove_lamp_green_recipe",
+      "exlinefurniture:mangrove_lamp_light_blue_recipe",
+      "exlinefurniture:mangrove_lamp_light_gray_recipe",
+      "exlinefurniture:mangrove_lamp_lime_recipe",
+      "exlinefurniture:mangrove_lamp_magenta_recipe",
+      "exlinefurniture:mangrove_lamp_orange_recipe",
+      "exlinefurniture:mangrove_lamp_pink_recipe",
+      "exlinefurniture:mangrove_lamp_purple_recipe",
+      "exlinefurniture:mangrove_lamp_red_recipe",
+      "exlinefurniture:mangrove_lamp_white_recipe",
+      "exlinefurniture:mangrove_lamp_yellow_recipe",
+      "exlinefurniture:mangrove_window_web",
+      "exlinefurniture:window_heart_mangrove",
+      "exlinefurniture:window_sliding_mangrove",
+      "exlinefurniture:window_slider_mangrove",
+      "exlinefurniture:window_mangrove",
+      "exlinefurniture:shutters_mangrove"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:mangrove_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

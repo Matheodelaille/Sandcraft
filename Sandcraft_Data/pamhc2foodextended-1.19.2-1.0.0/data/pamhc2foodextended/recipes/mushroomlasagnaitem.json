@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:pasta"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mushroomlasagnaitem",
+	"count": 1}
+	
+}

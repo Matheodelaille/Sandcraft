@@ -1,0 +1,32 @@
+{
+  "group": "soul_quartz_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "1": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "2": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "3": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "4": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "5": {
+      "item": "nourished_nether:soul_quartz_block"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:soul_quartz_wall",
+    "count": 6
+  }
+}

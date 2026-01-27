@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ofo",
+    "beb",
+    "ofo"
+  ],
+  "key": {
+    "e": {
+      "item": "cyclic:gem_amber"
+    },
+    "b": {
+      "item": "minecraft:bone_block"
+    },
+    "o": {
+      "item": "minecraft:nether_brick"
+    },
+    "f": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "cyclic:spell_ice"
+  }
+}

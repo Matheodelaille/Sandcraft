@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "create:andesite_casing"
+    },
+    "3": {
+      "item": "create:metal_girder"
+    },
+    "4": {
+      "item": "create:track"
+    },
+    "5": {
+      "item": "create:metal_girder"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:train_stop",
+    "count": 2
+  }
+}

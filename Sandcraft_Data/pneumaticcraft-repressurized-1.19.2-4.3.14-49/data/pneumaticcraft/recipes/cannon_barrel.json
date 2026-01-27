@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "pneumaticcraft:reinforced_brick_wall"
+    },
+    "P": {
+      "item": "pneumaticcraft:pressure_tube"
+    }
+  },
+  "pattern": [
+    "I I",
+    "I I",
+    "IPI"
+  ],
+  "result": {
+    "item": "pneumaticcraft:cannon_barrel"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:spores_recreator"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "I": {
+            "tag": "forge:mushrooms"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "S": {
+            "tag": "forge:gears/iron"
+          }
+        },
+        "pattern": [
+          "PSP",
+          "IMI",
+          "PSP"
+        ],
+        "result": {
+          "item": "industrialforegoing:spores_recreator"
+        }
+      }
+    }
+  ]
+}

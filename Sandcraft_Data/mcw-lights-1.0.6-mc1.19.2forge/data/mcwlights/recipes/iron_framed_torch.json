@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "NCN",
+    " N ",
+    " N "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:iron_nugget"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:coal"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:iron_framed_torch",
+        "count": 4
+    }
+}

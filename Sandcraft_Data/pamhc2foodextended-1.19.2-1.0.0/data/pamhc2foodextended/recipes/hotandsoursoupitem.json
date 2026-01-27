@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:condiments/sesameoil"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    },
+	{	
+      "item": "minecraft:bamboo"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:vinegar"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:hotandsoursoupitem",
+	"count": 1}
+	
+}

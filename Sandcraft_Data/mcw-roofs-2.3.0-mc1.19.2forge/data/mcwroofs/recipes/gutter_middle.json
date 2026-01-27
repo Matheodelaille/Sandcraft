@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "gutter_middle",
+    
+    "pattern":
+    [
+        " A",
+        " A",
+        " A"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwroofs:rain_gutter"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwroofs:gutter_middle",
+        "count": 1
+    }
+}
+
+

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwroofs:crimson_planks_roof",
+	  "mcwroofs:crimson_planks_attic_roof",
+	  "mcwroofs:crimson_planks_top_roof",
+	  "mcwroofs:crimson_planks_lower_roof",
+	  "mcwroofs:crimson_planks_steep_roof",
+	  "mcwroofs:crimson_planks_upper_lower_roof",
+	  "mcwroofs:crimson_planks_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crimson_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

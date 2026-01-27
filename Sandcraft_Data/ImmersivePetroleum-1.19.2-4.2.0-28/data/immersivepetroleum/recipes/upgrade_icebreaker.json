@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "forge:storage_blocks/steel"
+    },
+    "I": {
+      "tag": "forge:ingots/steel"
+    },
+    "P": {
+      "tag": "forge:plates/steel"
+    }
+  },
+  "pattern": [
+    "I P",
+    " IP",
+    "PPB"
+  ],
+  "result": {
+    "item": "immersivepetroleum:upgrade_icebreaker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "TST",
+        "TST"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:crimson_planks"
+        },
+        "S": {
+            "item": "minecraft:crimson_slab"
+        },
+        "T": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:crimson_dresser",
+        "count": 1
+    }
+}

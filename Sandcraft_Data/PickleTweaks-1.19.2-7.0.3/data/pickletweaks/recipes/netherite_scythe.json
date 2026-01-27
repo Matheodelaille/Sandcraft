@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smithing",
+  "conditions": [
+    {
+      "type": "cucumber:enabled",
+      "item": "pickletweaks:netherite_scythe"
+    }
+  ],
+  "base": {
+    "tag": "pickletweaks:diamond_scythes"
+  },
+  "addition": {
+    "tag": "forge:ingots/netherite"
+  },
+  "result": {
+    "item": "pickletweaks:netherite_scythe"
+  }
+}

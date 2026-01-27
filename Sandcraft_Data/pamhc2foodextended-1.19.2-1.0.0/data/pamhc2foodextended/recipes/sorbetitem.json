@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:fruits"
+    },
+	{	
+      "tag": "forge:ices"
+    },
+	{	
+      "tag": "forge:sugar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sorbetitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:sausage"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:egg"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sausagerollitem",
+	"count": 1}
+	
+}

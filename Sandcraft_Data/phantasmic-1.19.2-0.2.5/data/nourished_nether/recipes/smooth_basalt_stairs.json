@@ -1,0 +1,33 @@
+{
+  "group": "smooth_basalt_decorative",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "3": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "4": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "6": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "7": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "8": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:smooth_basalt_stairs",
+    "count": 4
+  }
+}

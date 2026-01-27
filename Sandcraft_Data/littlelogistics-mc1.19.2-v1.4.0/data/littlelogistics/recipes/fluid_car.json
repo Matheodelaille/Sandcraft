@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "$": {
+      "item": "littlelogistics:seater_car"
+    }
+  },
+  "pattern": [
+    "# #",
+    " # ",
+    " $ "
+  ],
+  "result": {
+    "item": "littlelogistics:fluid_car"
+  }
+}

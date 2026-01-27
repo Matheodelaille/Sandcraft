@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:rawmutton"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:crops/peas"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:shepardspieitem",
+	"count": 1}
+	
+}

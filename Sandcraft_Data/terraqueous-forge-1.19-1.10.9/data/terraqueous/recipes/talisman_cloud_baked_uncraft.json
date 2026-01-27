@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "cloud_talisman",
+    "ingredients": [
+        { "item": "terraqueous:baked_cloud_talisman" }
+    ],
+    "result": {
+        "item": "minecraft:brick",
+        "count": 3
+    }
+}

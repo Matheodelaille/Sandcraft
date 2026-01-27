@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:stock"
+    },
+	{	
+      "tag": "forge:sausage"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:jambalayaitem",
+	"count": 1}
+	
+}

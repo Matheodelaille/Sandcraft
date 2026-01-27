@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "windows_pane",
+	
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwwindows:window_base"
+        },    
+
+		
+        "B":
+        {
+            "item": "minecraft:birch_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:birch_pane_window",
+        "count": 8
+    }
+}
+
+

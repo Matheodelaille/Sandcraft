@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gray_carpet"
+        },
+        {
+            "item": "minecraft:gray_carpet"
+        },
+        {
+            "item": "exlinefurniture:spruce_chair"
+        }
+    ],
+    "result": {
+        "item": "exlinefurniture:spruce_chair_gray",
+        "count":1
+    }
+}

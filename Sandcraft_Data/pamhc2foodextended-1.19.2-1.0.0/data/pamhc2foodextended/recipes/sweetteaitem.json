@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "item": "pamhc2crops:hotteaitem"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:crops/lemon"
+    },
+	{	
+      "tag": "forge:ices"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sweetteaitem",
+	"count": 1}
+	
+}

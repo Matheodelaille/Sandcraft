@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/parsnip"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:roastedrootveggiemedleyitem",
+	"count": 1}
+	
+}

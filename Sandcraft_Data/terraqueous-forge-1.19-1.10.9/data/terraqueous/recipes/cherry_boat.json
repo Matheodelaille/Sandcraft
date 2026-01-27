@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "boat",
+    "pattern": [
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:cherry_planks" }
+    },
+    "result": {
+        "item": "terraqueous:cherry_boat"
+    }
+}

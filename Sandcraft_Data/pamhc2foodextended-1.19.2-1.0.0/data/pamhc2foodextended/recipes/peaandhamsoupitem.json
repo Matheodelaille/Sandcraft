@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/peas"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:crops/celery"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:peaandhamsoupitem",
+	"count": 1}
+	
+}

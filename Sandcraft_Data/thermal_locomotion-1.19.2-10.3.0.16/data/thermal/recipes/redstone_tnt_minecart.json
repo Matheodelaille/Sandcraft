@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "basic_explosives"
+    }
+  ],
+  "key": {
+    "A": {
+      "item": "thermal:redstone_tnt"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "item": "thermal:redstone_tnt_minecart"
+  }
+}

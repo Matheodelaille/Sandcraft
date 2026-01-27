@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_piers",
+    
+    "pattern": [
+    "WFW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:oak_fence"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:oak_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:oak_bridge_pier",
+        "count": 3
+    }
+}

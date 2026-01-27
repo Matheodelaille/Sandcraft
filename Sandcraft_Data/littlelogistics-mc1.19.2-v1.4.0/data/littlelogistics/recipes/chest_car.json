@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:chest"
+    },
+    "$": {
+      "item": "littlelogistics:seater_car"
+    }
+  },
+  "pattern": [
+    "   ",
+    " # ",
+    " $ "
+  ],
+  "result": {
+    "item": "littlelogistics:chest_car"
+  }
+}

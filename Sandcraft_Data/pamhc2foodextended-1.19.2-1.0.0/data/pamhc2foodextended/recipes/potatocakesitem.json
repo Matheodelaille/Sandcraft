@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:butter"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:potatocakesitem",
+	"count": 1}
+	
+}

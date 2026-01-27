@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " Z ",
+        "ZFZ",
+        "FIF"
+    ],
+    "key": {
+        "F": { "item": "terraqueous:trickster_bloom" },
+        "I": { "tag": "forge:ingots/iron" },
+        "Z": { "item": "minecraft:rotten_flesh" }
+    },
+    "result": {
+        "item": "terraqueous:foreboding_garden_fence",
+        "count": 3
+    }
+}

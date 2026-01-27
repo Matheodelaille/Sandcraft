@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone_bricks"
+    },
+    "1": {
+      "item": "minecraft:end_stone_bricks"
+    },
+    "2": {
+      "item": "minecraft:end_stone_bricks"
+    },
+    "3": {
+      "item": "minecraft:end_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:chiseled_end_stone_bricks",
+    "count": 1
+  }
+}

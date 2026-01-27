@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:corn"
+    },
+    {
+      "tag": "forge:corn"
+    },
+    {
+      "tag": "forge:corn"
+    },
+    {
+      "tag": "forge:corn"
+    }
+  ],
+  "result": {
+    "item": "croptopia:corn_husk",
+    "count": 8
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:rawmutton"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:vinegar"
+    },
+	{	
+      "tag": "forge:sugar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:lambwithmintsauceitem",
+	"count": 1}
+	
+}

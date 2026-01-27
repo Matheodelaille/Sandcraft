@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "nuclear_explosives"
+    }
+  ],
+  "key": {
+    "A": {
+      "item": "thermal:nuke_tnt"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "item": "thermal:nuke_tnt_minecart"
+  }
+}

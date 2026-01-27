@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:blue_carpet"
+        },
+        {
+            "item": "minecraft:blue_carpet"
+        },
+        {
+            "item": "exlinefurniture:acacia_chair"
+        }
+    ],
+    "result": {
+        "item": "exlinefurniture:acacia_chair_blue",
+        "count":1
+    }
+}

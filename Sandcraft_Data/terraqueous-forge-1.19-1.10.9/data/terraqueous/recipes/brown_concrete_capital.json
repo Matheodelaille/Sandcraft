@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "concrete_capital",
+    "pattern": [
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": { "item": "brown_concrete" }
+    },
+    "result": {
+        "item": "terraqueous:brown_concrete_capital"
+    }
+}

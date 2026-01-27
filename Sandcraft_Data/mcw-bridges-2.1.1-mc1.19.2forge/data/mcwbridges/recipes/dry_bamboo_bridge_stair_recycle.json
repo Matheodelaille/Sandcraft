@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mcwbridges:dry_bamboo_bridge_stair"
+        }
+    ],
+    "result": {
+        "item": "mcwbridges:dry_bamboo_bridge",
+        "count": 1
+    }
+}

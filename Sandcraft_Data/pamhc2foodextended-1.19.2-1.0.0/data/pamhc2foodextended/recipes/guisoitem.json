@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:rawbeef"
+    },
+	{	
+      "tag": "forge:crops/tomato"
+    },
+	{	
+      "tag": "forge:pasta"
+    },
+	{	
+      "tag": "forge:crops/peas"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:crops/sweetpotato"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:guisoitem",
+	"count": 1}
+	
+}

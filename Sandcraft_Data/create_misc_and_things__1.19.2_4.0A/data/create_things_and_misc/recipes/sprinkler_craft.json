@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "create_things_and_misc:sprinkler_head"
+    },
+    "3": {
+      "item": "create_things_and_misc:sprinkler_head"
+    },
+    "4": {
+      "item": "create:propeller"
+    },
+    "5": {
+      "item": "create_things_and_misc:sprinkler_head"
+    },
+    "6": {
+      "item": "create:copper_casing"
+    },
+    "7": {
+      "item": "create:fluid_tank"
+    },
+    "8": {
+      "item": "create:copper_casing"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:sprinkler",
+    "count": 1
+  }
+}

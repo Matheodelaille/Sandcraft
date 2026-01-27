@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "F F",
+    " F "
+  ],
+  "key": {
+    "F": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:kit_framework",
+    "count": 1
+  }
+}

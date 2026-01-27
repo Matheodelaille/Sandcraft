@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_edge",
+    "pattern": [
+        "@@",
+        "# ",
+        "# "
+    ],
+    "key": {
+        "@": { "item": "terraqueous:vapor_block" },
+        "#": { "item": "terraqueous:light_cloud" }
+    },
+    "result": {
+        "item": "terraqueous:light_cloud_edge",
+        "count": 4
+    }
+}

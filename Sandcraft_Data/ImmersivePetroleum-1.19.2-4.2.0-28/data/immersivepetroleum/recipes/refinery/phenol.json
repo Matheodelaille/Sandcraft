@@ -1,0 +1,16 @@
+{
+  "type": "immersiveengineering:refinery",
+  "energy": 240,
+  "input0": {
+    "amount": 8,
+    "tag": "forge:benzene"
+  },
+  "input1": {
+    "amount": 8,
+    "tag": "forge:propylene"
+  },
+  "result": {
+    "amount": 16,
+    "fluid": "immersiveengineering:creosote"
+  }
+}

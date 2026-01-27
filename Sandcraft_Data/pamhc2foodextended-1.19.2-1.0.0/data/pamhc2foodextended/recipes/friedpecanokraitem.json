@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/okra"
+    },
+	{	
+      "tag": "forge:crops/pecan"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:friedpecanokraitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mcwbridges:blackstone_bridge_stair"
+        }
+    ],
+    "result": {
+        "item": "mcwbridges:blackstone_bridge",
+        "count": 1
+    }
+}

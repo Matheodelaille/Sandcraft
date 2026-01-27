@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "ae2:all_quartz_dust"
+    },
+    "b": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "result": {
+    "item": "ae2:tiny_tnt"
+  }
+}

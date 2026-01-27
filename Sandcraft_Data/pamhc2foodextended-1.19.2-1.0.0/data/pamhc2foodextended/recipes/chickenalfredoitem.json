@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:cream"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:pasta"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chickenalfredoitem",
+	"count": 1}
+	
+}

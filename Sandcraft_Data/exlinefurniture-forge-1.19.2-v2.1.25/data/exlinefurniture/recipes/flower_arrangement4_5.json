@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DFR",
+        "TWT",
+        "TTT"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:white_tulip"
+        },
+        "D": {
+            "item": "minecraft:red_tulip"
+        },
+        "R": {
+            "item": "minecraft:orange_tulip"
+        },
+        "T": {
+            "item": "minecraft:green_terracotta"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:flower_arrangement4",
+        "count": 1
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_blue_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:medium_blue_lobelia",
+              "ferdinandsflowers:royal_blue_lobelia",
+              "ferdinandsflowers:morning_glory",
+              "ferdinandsflowers:blue_bachelor_button",
+              "ferdinandsflowers:dark_blue_borage",
+              "ferdinandsflowers:commelina",
+              "ferdinandsflowers:grape_hyacinth",
+              "ferdinandsflowers:dark_blue_sweet_peas"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:blue_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_blue_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:blue"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "terraqueous:gravel_lump" },
+        { "item": "terraqueous:gravel_lump" },
+        { "item": "terraqueous:gravel_lump" },
+        { "item": "terraqueous:gravel_lump" }
+    ],
+    "result": {
+        "item": "minecraft:gravel"
+    }
+}

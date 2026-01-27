@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_fence",
+    "pattern": [
+        "W#W",
+        "W#W"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:vapor_block" },
+        "W": { "item": "terraqueous:storm_cloud" }
+    },
+    "result": {
+        "item": "terraqueous:storm_cloud_fence",
+        "count": 3
+    }
+}

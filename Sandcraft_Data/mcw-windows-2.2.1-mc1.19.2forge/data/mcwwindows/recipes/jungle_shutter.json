@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "shutters",
+	
+    "pattern":
+    [
+        "B",
+        "B",
+        "B"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:jungle_trapdoor"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:jungle_shutter",
+        "count": 3
+    }
+}
+
+

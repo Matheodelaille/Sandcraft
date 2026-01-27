@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:crops/lemon"
+    },
+	{	
+      "tag": "forge:cornmeal"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:meringueitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:mossy_stone_brick_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:mossy_stone_brick_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:mossy_stone_brick_bridge",
+        "count": 4
+    }
+}

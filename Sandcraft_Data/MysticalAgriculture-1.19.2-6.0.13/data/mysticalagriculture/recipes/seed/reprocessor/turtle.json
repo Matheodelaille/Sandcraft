@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:turtle"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:turtle_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:turtle_essence"
+  }
+}

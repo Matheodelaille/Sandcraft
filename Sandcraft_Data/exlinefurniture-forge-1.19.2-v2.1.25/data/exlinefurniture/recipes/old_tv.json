@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NSN",
+        "SLS",
+        "NSN"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "N": {
+            "item": "minecraft:iron_nugget"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:old_tv",
+        "count": 1
+    }
+}

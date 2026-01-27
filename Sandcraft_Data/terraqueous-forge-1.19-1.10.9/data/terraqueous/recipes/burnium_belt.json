@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "GMG",
+        "LLL"
+    ],
+    "key": {
+        "C": { "tag": "forge:gems/burnium" },
+        "G": { "tag": "forge:nuggets/gold" },
+        "M": { "item": "minecraft:magma_cream" },
+        "L": { "tag": "forge:leather" }
+    },
+    "result": {
+        "item": "terraqueous:burnium_belt"
+    }
+}

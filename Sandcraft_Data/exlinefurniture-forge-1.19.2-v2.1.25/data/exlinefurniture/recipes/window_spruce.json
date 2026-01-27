@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWP",
+        "WSW",
+        "PWP"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:spruce_planks"
+        },
+        "P": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:spruce_window",
+        "count": 8
+    }
+}

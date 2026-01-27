@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "TST",
+        "TST"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:birch_planks"
+        },
+        "S": {
+            "item": "minecraft:birch_slab"
+        },
+        "T": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:birch_dresser",
+        "count": 1
+    }
+}

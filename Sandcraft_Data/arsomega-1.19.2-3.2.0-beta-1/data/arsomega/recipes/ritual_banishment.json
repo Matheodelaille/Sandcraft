@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:red_archwood_log"
+    },
+    {
+      "item": "arsomega:searing_flesh"
+    },
+    {
+      "item": "arsomega:searing_flesh"
+    },
+    {
+      "item": "arsomega:searing_flesh"
+    },
+    {
+      "item": "arsomega:enchanted_diamond"
+    },
+    {
+      "item": "arsomega:enchanted_diamond"
+    },
+    {
+      "item": "arsomega:enchanted_diamond"
+    },
+    {
+      "item": "ars_nouveau:abjuration_essence"
+    },
+    {
+      "item": "ars_nouveau:glyph_blink"
+    }
+  ],
+  "result": {
+    "item": "arsomega:ritual_banishment"
+  }
+}

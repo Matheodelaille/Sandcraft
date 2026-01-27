@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    },
+	{	
+      "tag": "forge:spices/currypowder"
+    },
+	{	
+      "tag": "forge:butter"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:vindalooitem",
+	"count": 1}
+	
+}

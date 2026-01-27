@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "minecraft:baked_potato"
+    },
+	{	
+      "tag": "forge:crops/scallion"
+    },
+	{	
+      "tag": "forge:cream"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:scallionbakedpotatoitem",
+	"count": 1}
+	
+}

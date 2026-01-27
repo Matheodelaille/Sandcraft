@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " R ",
+        "RGR"
+    ],
+    "key": {
+        "R": { "tag": "forge:dusts/redstone" },
+        "G": { "tag": "forge:ingots/gold" }
+    },
+    "result": {
+        "item": "terraqueous:speed_strip",
+        "count": 3
+    }
+}

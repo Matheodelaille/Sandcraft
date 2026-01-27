@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "item": "minecraft:paper"
+    },
+	{	
+      "tag": "forge:cocoapowder"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pambitsboxitem",
+	"count": 1}
+	
+}

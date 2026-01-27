@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "striped_chair",
+    "pattern":
+    [
+        " A",
+        "BC",
+		"CC"
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:stripped_birch_log"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:birch_slab"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:birch_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:stripped_birch_striped_chair",
+        "count": 1
+    }
+}
+
+

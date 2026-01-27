@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:crops/pineapple"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "item": "pamhc2foodextended:sweetandsoursauceitem"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sweetandsourchickenitem",
+	"count": 1}
+	
+}

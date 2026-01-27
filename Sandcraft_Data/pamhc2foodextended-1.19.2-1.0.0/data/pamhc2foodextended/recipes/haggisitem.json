@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "item": "minecraft:rotten_flesh"
+    },
+	{	
+      "item": "minecraft:spider_eye"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/oats"
+    },
+	{	
+      "tag": "forge:spices/saltandpepper"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:haggisitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,54 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:arcane_fiber"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:arcane_fiber"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:arcane_fiber"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:arcane_fiber"
+      }
+    }
+  ],
+  "output": {
+    "item": "arsomega:arcane_cloth"
+  },
+  "sourceCost": 3000
+}

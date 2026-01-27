@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "atmospheric:aspen_planks"
+    }
+  },
+  "result": {
+    "item": "atmospheric:vertical_aspen_planks",
+    "count": 3
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "vertical_planks"
+    }
+  ]
+}

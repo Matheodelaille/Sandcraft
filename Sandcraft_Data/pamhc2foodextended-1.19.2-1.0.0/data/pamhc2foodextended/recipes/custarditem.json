@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:spices/groundnutmeg"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    },
+	{	
+      "tag": "forge:cream"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:custarditem",
+	"count": 1}
+	
+}

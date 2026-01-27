@@ -1,0 +1,67 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_purple_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:bachelor_button",
+              "ferdinandsflowers:common_periwinkle",
+              "ferdinandsflowers:periwinkle",
+              "ferdinandsflowers:cloud_sage",
+              "ferdinandsflowers:purple_crocus",
+              "ferdinandsflowers:birds_eye_gilia",
+              "ferdinandsflowers:african_daisy",
+              "ferdinandsflowers:peppermint",
+              "ferdinandsflowers:parrot_flower",
+              "ferdinandsflowers:wolfs_bane",
+              "ferdinandsflowers:purple_lupin",
+              "ferdinandsflowers:violet",
+              "ferdinandsflowers:salvia",
+              "ferdinandsflowers:purple_magenta_salvia",
+              "ferdinandsflowers:purple_calla_lily",
+              "ferdinandsflowers:mexican_sage",
+              "ferdinandsflowers:purple_african_daisy",
+              "ferdinandsflowers:iris",
+              "ferdinandsflowers:tall_lupin",
+              "ferdinandsflowers:purple_sweet_peas",
+              "ferdinandsflowers:lavender_larkspur",
+              "ferdinandsflowers:larkspur",
+              "ferdinandsflowers:purple_larkspur",
+              "ferdinandsflowers:mojave_indigo_bush",
+              "ferdinandsflowers:notch_leaf_scorpion_weed",
+              "ferdinandsflowers:purple_flag",
+              "ferdinandsflowers:iris_fancy_dress",
+              "ferdinandsflowers:pansy_purple",
+              "ferdinandsflowers:blue_eyed_grass",
+              "ferdinandsflowers:california_sea_thrift",
+              "ferdinandsflowers:creeping_thyme",
+              "ferdinandsflowers:wooly_thyme",
+              "ferdinandsflowers:violet_coral_fungus",
+              "ferdinandsflowers:violet_webcap"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:purple_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_purple_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:purple"
+    ]
+  }
+}

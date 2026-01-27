@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "concrete_edge",
+    "pattern": [
+        "@@",
+        "# ",
+        "# "
+    ],
+    "key": {
+        "@": { "item": "pink_concrete_powder" },
+        "#": { "item": "pink_concrete" }
+    },
+    "result": {
+        "item": "terraqueous:pink_concrete_edge",
+        "count": 4
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "cheval",
+    
+    "pattern":
+    [
+		"BAB",
+		"B B"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "tag": "minecraft:logs"
+        }
+
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:wooden_cheval_de_frise",
+        "count": 4
+    }
+}
+
+

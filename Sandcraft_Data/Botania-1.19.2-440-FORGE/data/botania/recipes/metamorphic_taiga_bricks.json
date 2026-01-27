@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "botania:metamorphic_brick",
+  "key": {
+    "Q": {
+      "item": "botania:metamorphic_taiga_stone"
+    }
+  },
+  "pattern": [
+    "QQ",
+    "QQ"
+  ],
+  "result": {
+    "count": 4,
+    "item": "botania:metamorphic_taiga_bricks"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "soulsandbrickdecorative",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:sludge_bricks"
+    },
+    "1": {
+      "item": "nourished_nether:sludge_bricks"
+    },
+    "2": {
+      "item": "nourished_nether:sludge_bricks"
+    },
+    "3": {
+      "item": "nourished_nether:sludge_bricks"
+    },
+    "4": {
+      "item": "nourished_nether:sludge_bricks"
+    },
+    "5": {
+      "item": "nourished_nether:sludge_bricks"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:sludge_brick_wall",
+    "count": 6
+  }
+}

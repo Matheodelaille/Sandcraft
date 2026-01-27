@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "-": {
+      "item": "minecraft:iron_ingot"
+    },
+    "^": {
+      "item": "littlelogistics:spring"
+    },
+    "r": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    "  ^",
+    " -r",
+    "-  "
+  ],
+  "result": {
+    "item": "littlelogistics:conductors_wrench"
+  }
+}

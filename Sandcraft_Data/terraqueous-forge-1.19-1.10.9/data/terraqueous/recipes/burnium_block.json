@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "terraqueous:burnium",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:burnium_gem" }
+    },
+    "result": {
+        "item": "terraqueous:burnium_block"
+    }
+}

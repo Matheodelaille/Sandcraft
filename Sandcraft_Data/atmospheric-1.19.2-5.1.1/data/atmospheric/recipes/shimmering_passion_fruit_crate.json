@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "atmospheric:shimmering_passion_fruit"
+    }
+  },
+  "result": {
+    "item": "atmospheric:shimmering_passion_fruit_crate",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "golden_apple_crate"
+    }
+  ]
+}

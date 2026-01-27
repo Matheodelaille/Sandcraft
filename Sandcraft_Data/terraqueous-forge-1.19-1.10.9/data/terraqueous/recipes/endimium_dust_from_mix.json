@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "terraqueous:endimium",
+    "ingredients": [
+        { "tag": "forge:dusts/ender_pearl" },
+        { "tag": "forge:dusts/diamond" }
+    ],
+    "result": {
+        "item": "terraqueous:endimium_dust"
+    }
+}

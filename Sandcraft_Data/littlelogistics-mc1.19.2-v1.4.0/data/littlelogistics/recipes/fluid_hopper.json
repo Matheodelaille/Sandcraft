@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "$": {
+      "item": "minecraft:hopper"
+    },
+    "_": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    "_$_",
+    " _ "
+  ],
+  "result": {
+    "item": "littlelogistics:fluid_hopper"
+  }
+}

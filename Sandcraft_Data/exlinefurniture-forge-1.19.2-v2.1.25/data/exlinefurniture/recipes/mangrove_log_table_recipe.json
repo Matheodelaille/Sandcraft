@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "SSS",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:mangrove_log"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:mangrove_log_table",
+        "count": 1
+    }
+}

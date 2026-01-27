@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "  B",
+    "  #"
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:xegonite_shard",
+      "count": 4
+    },
+    "B": {
+      "item": "minecraft:book",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:music_disc_bramble",
+    "count": 1
+  }
+}

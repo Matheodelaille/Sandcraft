@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_soil"
+    },
+    "1": {
+      "item": "minecraft:soul_soil"
+    },
+    "2": {
+      "item": "minecraft:soul_soil"
+    },
+    "3": {
+      "item": "minecraft:soul_soil"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:soul_tiles",
+    "count": 4
+  }
+}

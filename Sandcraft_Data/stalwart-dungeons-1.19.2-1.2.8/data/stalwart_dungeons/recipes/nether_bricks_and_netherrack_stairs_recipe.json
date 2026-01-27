@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "3": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "4": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "6": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "7": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "8": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:nether_bricks_and_netherrack_stairs",
+    "count": 4
+  }
+}

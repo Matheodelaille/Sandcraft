@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_sign",
+    "pattern": [
+        "###",
+        "###",
+        " X "
+    ],
+    "key": {
+        "#": { "item": "terraqueous:mango_planks" },
+        "X": { "tag": "forge:rods/wooden" }
+    },
+    "result": {
+        "item": "terraqueous:mango_sign",
+        "count": 3
+    }
+}

@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:groundmeats/groundbeef"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:spices/groundnutmeg"
+    },
+	{	
+      "tag": "forge:cream"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:egg"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:swedishmeatballsitem",
+	"count": 1}
+	
+}

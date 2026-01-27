@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:crops/broccoli"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:generaltsochickenitem",
+	"count": 1}
+	
+}

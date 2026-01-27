@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:crops/barley"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:salt"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pitepaltitem",
+	"count": 1}
+	
+}

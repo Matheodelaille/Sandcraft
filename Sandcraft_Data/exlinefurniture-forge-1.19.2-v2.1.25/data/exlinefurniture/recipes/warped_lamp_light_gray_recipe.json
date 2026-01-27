@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WLW",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:warped_slab"
+        },
+        "L": {
+            "item": "minecraft:redstone_torch"
+        },
+        "W": {
+            "item": "minecraft:light_gray_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:warped_lamp_light_gray",
+        "count": 1
+    }
+}

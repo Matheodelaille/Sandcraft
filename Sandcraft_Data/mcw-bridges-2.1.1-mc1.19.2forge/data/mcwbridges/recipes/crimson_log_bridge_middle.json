@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "log_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:crimson_fence"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:crimson_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:crimson_log_bridge_middle",
+        "count": 4
+    }
+}

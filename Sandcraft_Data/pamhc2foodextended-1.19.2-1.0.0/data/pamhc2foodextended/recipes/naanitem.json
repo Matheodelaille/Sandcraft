@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:yogurt"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:naanitem",
+	"count": 1}
+	
+}

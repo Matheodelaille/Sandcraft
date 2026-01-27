@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:chorundum"
+    },
+    "1": {
+      "item": "stalwart_dungeons:void_crystal"
+    },
+    "2": {
+      "item": "stalwart_dungeons:chorundum"
+    },
+    "3": {
+      "item": "stalwart_dungeons:chorundum"
+    },
+    "5": {
+      "item": "stalwart_dungeons:chorundum"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:chorundum_armor_boots",
+    "count": 1
+  }
+}

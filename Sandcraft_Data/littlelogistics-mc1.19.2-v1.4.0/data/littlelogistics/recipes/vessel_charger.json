@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "$": {
+      "item": "minecraft:iron_ingot"
+    },
+    ".": {
+      "item": "minecraft:gold_ingot"
+    },
+    "_": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "pattern": [
+    " . ",
+    " $ ",
+    "_$_"
+  ],
+  "result": {
+    "item": "littlelogistics:vessel_charger"
+  }
+}

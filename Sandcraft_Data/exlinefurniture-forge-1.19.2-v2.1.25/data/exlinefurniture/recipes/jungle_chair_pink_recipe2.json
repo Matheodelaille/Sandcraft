@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:pink_carpet"
+        },
+        {
+            "item": "minecraft:pink_carpet"
+        },
+        {
+            "item": "exlinefurniture:jungle_chair"
+        }
+    ],
+    "result": {
+        "item": "exlinefurniture:jungle_chair_pink",
+        "count":1
+    }
+}

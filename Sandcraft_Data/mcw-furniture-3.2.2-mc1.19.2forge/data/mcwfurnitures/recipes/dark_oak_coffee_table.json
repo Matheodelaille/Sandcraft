@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "coffee_table",
+    "pattern":
+    [
+        "A",
+        "B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:dark_oak_log"
+        }, 
+		
+		
+        "B":
+        {
+            "item": "minecraft:dark_oak_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:dark_oak_coffee_table",
+        "count": 1
+    }
+}
+
+

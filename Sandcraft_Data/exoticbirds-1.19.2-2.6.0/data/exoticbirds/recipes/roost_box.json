@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XOX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "O": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "exoticbirds:roost_box"
+  }
+}

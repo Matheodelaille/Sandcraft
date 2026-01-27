@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:batter"
+    },
+	{	
+      "tag": "forge:cheese"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chilipoppersitem",
+	"count": 1}
+	
+}

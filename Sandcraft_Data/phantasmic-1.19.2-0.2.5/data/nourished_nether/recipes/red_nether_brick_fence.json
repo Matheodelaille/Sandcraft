@@ -1,0 +1,32 @@
+{
+  "group": "red_nether_brick_fence",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "1": {
+      "item": "nourished_nether:red_nether_brick"
+    },
+    "2": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "3": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "4": {
+      "item": "nourished_nether:red_nether_brick"
+    },
+    "5": {
+      "item": "minecraft:red_nether_bricks"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:red_nether_brick_fence",
+    "count": 6
+  }
+}

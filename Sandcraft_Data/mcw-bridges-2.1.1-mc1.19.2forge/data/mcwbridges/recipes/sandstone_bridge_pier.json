@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "stone_piers",
+    
+    "pattern": [
+    "WFW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:sandstone_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:sandstone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:sandstone_bridge_pier",
+        "count": 3
+    }
+}

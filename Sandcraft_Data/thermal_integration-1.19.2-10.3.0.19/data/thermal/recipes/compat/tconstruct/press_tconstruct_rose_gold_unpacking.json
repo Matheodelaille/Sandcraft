@@ -1,0 +1,31 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "tconstruct:rose_gold_block"
+    },
+    {
+      "item": "thermal:press_unpacking_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "tconstruct:rose_gold_ingot",
+      "count": 9
+    }
+  ],
+  "energy": 400,
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "mod_tconstruct"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "thermal:flag",
+        "flag": "rose_gold"
+      }
+    }
+  ]
+}

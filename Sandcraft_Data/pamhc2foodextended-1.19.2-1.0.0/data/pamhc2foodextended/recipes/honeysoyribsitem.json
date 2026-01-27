@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:honey"
+    },
+	{	
+      "tag": "forge:condiments/soysauce"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    },
+	{	
+      "tag": "forge:vinegar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:honeysoyribsitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:nether_bricks_and_soul_sand"
+    },
+    "1": {
+      "item": "stalwart_dungeons:nether_bricks_and_soul_sand"
+    },
+    "2": {
+      "item": "stalwart_dungeons:nether_bricks_and_soul_sand"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:nether_bricks_and_soul_sand_slab",
+    "count": 6
+  }
+}

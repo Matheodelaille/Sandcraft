@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "saplings",
+    "ingredients": [
+        { "item": "terraqueous:coconut" },
+        { "item": "terraqueous:coconut_leaves" },
+        { "tag": "terraqueous:coconut_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:coconut_sapling"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "table",
+    "pattern":
+    [
+        "A",
+        "B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "mcwfurnitures:oak_coffee_table"
+        }, 
+		
+		
+        "B":
+        {
+            "item": "minecraft:oak_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:oak_table",
+        "count": 1
+    }
+}
+
+

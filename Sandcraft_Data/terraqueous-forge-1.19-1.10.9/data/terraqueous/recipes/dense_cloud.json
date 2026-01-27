@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "clouds",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:light_cloud" }
+    },
+    "result": {
+        "item": "terraqueous:dense_cloud"
+    }
+}

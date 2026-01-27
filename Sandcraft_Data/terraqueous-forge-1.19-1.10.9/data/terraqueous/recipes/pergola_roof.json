@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "HHH",
+        "PPP"
+    ],
+    "key": {
+        "S": { "tag": "forge:rods/wooden" },
+        "H": { "tag": "minecraft:wooden_slabs" },
+        "P": { "tag": "minecraft:planks" }
+    },
+    "result": {
+        "item": "terraqueous:pergola_roof",
+        "nbt": { "rgb16": 4095, "rgbsimple": 0 },
+        "count": 4
+    }
+}

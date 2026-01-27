@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_piers",
+    
+    "pattern": [
+    "WFW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:mangrove_fence"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:mangrove_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:mangrove_bridge_pier",
+        "count": 3
+    }
+}

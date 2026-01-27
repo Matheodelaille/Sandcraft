@@ -1,0 +1,32 @@
+{
+  "group": "netherrack_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "minecraft:netherrack"
+    },
+    "2": {
+      "item": "minecraft:netherrack"
+    },
+    "3": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "minecraft:netherrack"
+    },
+    "5": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:netherrack_wall",
+    "count": 6
+  }
+}

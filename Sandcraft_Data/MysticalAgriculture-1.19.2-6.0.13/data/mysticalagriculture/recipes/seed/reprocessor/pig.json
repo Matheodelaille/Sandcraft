@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:pig"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:pig_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:pig_essence"
+  }
+}

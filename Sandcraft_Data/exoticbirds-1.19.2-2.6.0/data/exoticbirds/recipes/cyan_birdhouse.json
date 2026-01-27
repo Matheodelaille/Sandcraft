@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "birdhouse",
+  "pattern": [
+    " A ",
+    "AWA",
+    " W "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:dyes/cyan"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "exoticbirds:cyan_birdhouse"
+  }
+}

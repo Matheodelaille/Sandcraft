@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:creeper"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:creeper_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:creeper_essence"
+  }
+}

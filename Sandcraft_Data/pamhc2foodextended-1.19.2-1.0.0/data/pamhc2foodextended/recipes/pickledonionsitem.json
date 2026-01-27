@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:salt"
+    },
+	{	
+      "tag": "forge:vinegar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pickledonionsitem",
+	"count": 1}
+	
+}

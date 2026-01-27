@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodcore:basichamburgeritem"
+    },
+	{	
+      "item": "pamhc2foodcore:hotdogitem"
+    },
+	{	
+      "tag": "forge:sodas"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cookoutmealitem",
+	"count": 1}
+	
+}

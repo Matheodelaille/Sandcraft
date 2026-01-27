@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_fence",
+    "pattern": [
+        "W#W",
+        "W#W"
+    ],
+    "key": {
+        "#": { "tag": "forge:rods/wooden" },
+        "W": { "item": "terraqueous:plum_planks" }
+    },
+    "result": {
+        "item": "terraqueous:plum_fence",
+        "count": 3
+    }
+}

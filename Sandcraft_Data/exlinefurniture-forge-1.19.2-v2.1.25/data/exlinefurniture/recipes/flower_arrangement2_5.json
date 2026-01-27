@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DRF",
+        "TWT",
+        "TTT"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:oxeye_daisy"
+        },
+        "D": {
+            "item": "minecraft:poppy"
+        },
+        "R": {
+            "item": "minecraft:dandelion"
+        },
+        "T": {
+            "item": "minecraft:yellow_terracotta"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:flower_arrangement2",
+        "count": 1
+    }
+}

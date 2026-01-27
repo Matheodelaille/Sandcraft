@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:batter"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "item": "pamhc2foodextended:raisinsitem"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:oatmealraisincookiesitem",
+	"count": 1}
+	
+}

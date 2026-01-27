@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S",
+        "B",
+        "E"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:string"
+        },
+        "B": {
+            "item": "minecraft:black_wool"
+        },
+        "E": {
+            "item": "minecraft:spider_eye"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:spider_doll",
+        "count": 1
+    }
+}

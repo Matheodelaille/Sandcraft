@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodextended:gritsitem"
+    },
+	{	
+      "item": "pamhc2foodextended:biscuititem"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:egg"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:southernstylebreakfastitem",
+	"count": 1}
+	
+}

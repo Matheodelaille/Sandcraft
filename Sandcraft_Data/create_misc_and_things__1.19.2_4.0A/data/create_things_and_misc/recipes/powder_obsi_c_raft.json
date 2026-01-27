@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "create:powdered_obsidian"
+    },
+    "1": {
+      "item": "create:powdered_obsidian"
+    },
+    "2": {
+      "item": "create:powdered_obsidian"
+    },
+    "3": {
+      "item": "create:powdered_obsidian"
+    },
+    "4": {
+      "item": "create:powdered_obsidian"
+    },
+    "5": {
+      "item": "create:powdered_obsidian"
+    },
+    "6": {
+      "item": "create:powdered_obsidian"
+    },
+    "7": {
+      "item": "create:powdered_obsidian"
+    },
+    "8": {
+      "item": "create:powdered_obsidian"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:powdered_obsidian_block",
+    "count": 1
+  }
+}

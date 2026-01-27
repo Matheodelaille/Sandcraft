@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AXA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:feathers"
+    },
+    "X": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "exoticbirds:bird_book"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NWN",
+        "WLW",
+        "NWN"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "N": {
+            "item": "minecraft:iron_nugget"
+        },
+        "W": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:retro_tv",
+        "count": 1
+    }
+}

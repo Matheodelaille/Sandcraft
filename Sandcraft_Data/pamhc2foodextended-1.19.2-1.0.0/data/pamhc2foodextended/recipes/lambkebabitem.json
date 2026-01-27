@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:rawmutton"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/bellpepper"
+    },
+	{	
+      "item": "minecraft:stick"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:lambkebabitem",
+	"count": 1}
+	
+}

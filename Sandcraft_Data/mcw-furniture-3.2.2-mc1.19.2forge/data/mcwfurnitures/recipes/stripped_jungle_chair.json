@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "chair",
+    "pattern":
+    [
+        " A",
+        "BA",
+        "CC"		
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:stripped_jungle_log"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:jungle_slab"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:jungle_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:stripped_jungle_chair",
+        "count": 1
+    }
+}
+
+

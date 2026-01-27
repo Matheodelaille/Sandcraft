@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "456",
+    "123"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:bellpeppers"
+    },
+    "2": {
+      "tag": "forge:eggplants"
+    },
+    "3": {
+      "tag": "forge:garlic"
+    },
+    "4": {
+      "tag": "forge:chile_peppers"
+    },
+    "5": {
+      "tag": "forge:olive_oils"
+    },
+    "6": {
+      "tag": "forge:salts"
+    }
+  },
+  "result": {
+    "item": "croptopia:ajvar",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "stalwart_dungeons:purpur_bricks"
+  },
+  "result": "stalwart_dungeons:purpur_bricks_slab"
+}

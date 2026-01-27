@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        "BIB",
+        "INI"
+    ],
+    "key": {
+        "B": { "tag": "forge:dyes/black" },
+        "I": { "tag": "forge:ingots/iron" },
+        "N": { "tag": "forge:nuggets/iron" }
+    },
+    "result": {
+        "item": "terraqueous:iron_fence",
+        "count": 3
+    }
+}

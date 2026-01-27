@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "botania:corporea_spark"
+    },
+    "G": {
+      "item": "botania:elf_glass"
+    },
+    "W": {
+      "tag": "botania:dreamwood_logs"
+    }
+  },
+  "pattern": [
+    "C",
+    "G",
+    "W"
+  ],
+  "result": {
+    "item": "botania:corporea_crystal_cube"
+  }
+}

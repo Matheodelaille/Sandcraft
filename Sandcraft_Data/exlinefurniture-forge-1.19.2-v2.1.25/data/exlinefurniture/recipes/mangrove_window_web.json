@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WSW",
+        "SPS",
+        "WSW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:mangrove_planks"
+        },
+        "P": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:cobweb"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:mangrove_window_web",
+        "count": 8
+    }
+}

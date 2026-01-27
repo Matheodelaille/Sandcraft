@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:cyan_concrete"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:cyan_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:froggy_chair_cyan",
+        "count": 1
+    }
+}

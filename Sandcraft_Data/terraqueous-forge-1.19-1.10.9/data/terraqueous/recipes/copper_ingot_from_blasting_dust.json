@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "terraqueous:copper_dust"
+    },
+    "result": "minecraft:copper_ingot",
+    "experience": 1.0,
+    "cookingtime": 50
+}

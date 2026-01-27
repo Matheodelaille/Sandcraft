@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:water"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:couscousitem",
+	"count": 1}
+	
+}

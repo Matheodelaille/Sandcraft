@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:crops/mustardseeds"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:currypowderitem",
+	"count": 1}
+	
+}

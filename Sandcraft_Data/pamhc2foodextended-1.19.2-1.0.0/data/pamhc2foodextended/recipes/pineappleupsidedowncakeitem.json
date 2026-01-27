@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/pineapple"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:crops/cherry"
+    },
+	{	
+      "tag": "forge:crops/walnut"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pineappleupsidedowncakeitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "forge:tomatoes"
+    },
+    {
+      "tag": "forge:cheeses"
+    },
+    {
+      "tag": "forge:tortillas"
+    }
+  ],
+  "result": {
+    "item": "croptopia:enchilada",
+    "count": 2
+  }
+}

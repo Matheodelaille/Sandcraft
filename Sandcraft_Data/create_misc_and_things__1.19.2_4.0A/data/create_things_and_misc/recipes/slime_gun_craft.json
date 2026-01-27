@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_things_and_misc:spout_gun"
+    },
+    {
+      "fluid": "create_things_and_misc:slime",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "create_things_and_misc:spout_gun_slime"
+    }
+  ]
+}

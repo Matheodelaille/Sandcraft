@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "terraqueous:flowerpot",
+    "ingredients": [
+        { "item": "minecraft:flower_pot" }
+    ],
+    "result": {
+        "item": "terraqueous:small_flowerpot",
+        "nbt": { "rgb16": 2644, "rgbsimple": 14 }
+    }
+}

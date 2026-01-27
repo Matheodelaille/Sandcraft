@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "elemental_explosives"
+    }
+  ],
+  "key": {
+    "A": {
+      "item": "thermal:ice_tnt"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "item": "thermal:ice_tnt_minecart"
+  }
+}

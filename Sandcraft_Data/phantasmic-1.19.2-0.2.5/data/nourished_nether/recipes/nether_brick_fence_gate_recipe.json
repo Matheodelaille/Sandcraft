@@ -1,0 +1,32 @@
+{
+  "group": "netherbrickfencegate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "1": {
+      "item": "minecraft:nether_bricks"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    },
+    "4": {
+      "item": "minecraft:nether_bricks"
+    },
+    "5": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:nether_brick_fence_gate",
+    "count": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "parapets",
+    
+    "pattern":
+    [
+		"AAA",
+        "ABA"               
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:spruce_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:spruce_log_parapet",
+        "count": 5
+    }
+}
+
+

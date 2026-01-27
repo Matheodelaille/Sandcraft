@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "M": {
+      "tag": "botania:manasteel_ingots"
+    },
+    "R": {
+      "item": "botania:rune_air"
+    }
+  },
+  "pattern": [
+    "EM ",
+    "M M",
+    " MR"
+  ],
+  "result": {
+    "item": "botania:dodge_ring"
+  }
+}

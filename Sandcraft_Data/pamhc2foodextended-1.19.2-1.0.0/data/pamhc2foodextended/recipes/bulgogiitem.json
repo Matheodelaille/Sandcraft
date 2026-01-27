@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:rawbeef"
+    },
+	{	
+      "tag": "forge:crops/garlic"
+    },
+	{	
+      "tag": "forge:condiments/soysauce"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    },
+	{	
+      "tag": "forge:crops/scallion"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bulgogiitem",
+	"count": 1}
+	
+}

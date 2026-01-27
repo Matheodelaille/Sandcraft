@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "isi",
+    "sqs",
+    "isi"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "q": {
+      "item": "minecraft:copper_ingot"
+    },
+    "s": {
+      "item": "minecraft:repeater"
+    }
+  },
+  "result": {
+    "item": "cyclic:wireless_transmitter",
+    "count": 1
+  }
+}

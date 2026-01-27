@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:crops/apricot"
+    },
+	{	
+      "tag": "forge:crops/pineapple"
+    },
+	{	
+      "item": "pamhc2foodextended:raisinsitem"
+    },
+	{	
+      "tag": "forge:juices"
+    },
+	{	
+      "tag": "forge:crops/date"
+    },
+	{	
+      "tag": "forge:crops/cherry"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:fruitcakeitem",
+	"count": 1}
+	
+}

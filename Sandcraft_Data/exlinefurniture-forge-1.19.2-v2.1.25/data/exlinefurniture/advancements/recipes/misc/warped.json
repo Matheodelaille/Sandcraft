@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:warped_adirondack_chair_recipe",
+      "exlinefurniture:warped_bench_recipe",
+      "exlinefurniture:warped_chair_recipe",
+      "exlinefurniture:warped_chair_black_recipe",
+      "exlinefurniture:warped_chair_blue_recipe",
+      "exlinefurniture:warped_chair_brown_recipe",
+      "exlinefurniture:warped_chair_cyan_recipe",
+      "exlinefurniture:warped_chair_gray_recipe",
+      "exlinefurniture:warped_chair_green_recipe",
+      "exlinefurniture:warped_chair_light_blue_recipe",
+      "exlinefurniture:warped_chair_light_gray_recipe",
+      "exlinefurniture:warped_chair_lime_recipe",
+      "exlinefurniture:warped_chair_magenta_recipe",
+      "exlinefurniture:warped_chair_orange_recipe",
+      "exlinefurniture:warped_chair_pink_recipe",
+      "exlinefurniture:warped_chair_purple_recipe",
+      "exlinefurniture:warped_chair_red_recipe",
+      "exlinefurniture:warped_chair_white_recipe",
+      "exlinefurniture:warped_chair_yellow_recipe",
+      "exlinefurniture:warped_dresser_recipe",
+      "exlinefurniture:warped_table_recipe",
+      "exlinefurniture:warped_glass_table_recipe",
+      "exlinefurniture:warped_log_table_recipe",
+      "exlinefurniture:warped_log_glass_table_recipe",
+      "exlinefurniture:warped_stripped_log_table_recipe",
+      "exlinefurniture:warped_stripped_log_glass_table_recipe",
+      "exlinefurniture:warped_lamp_black_recipe",
+      "exlinefurniture:warped_lamp_blue_recipe",
+      "exlinefurniture:warped_lamp_brown_recipe",
+      "exlinefurniture:warped_lamp_cyan_recipe",
+      "exlinefurniture:warped_lamp_gray_recipe",
+      "exlinefurniture:warped_lamp_green_recipe",
+      "exlinefurniture:warped_lamp_light_blue_recipe",
+      "exlinefurniture:warped_lamp_light_gray_recipe",
+      "exlinefurniture:warped_lamp_lime_recipe",
+      "exlinefurniture:warped_lamp_magenta_recipe",
+      "exlinefurniture:warped_lamp_orange_recipe",
+      "exlinefurniture:warped_lamp_pink_recipe",
+      "exlinefurniture:warped_lamp_purple_recipe",
+      "exlinefurniture:warped_lamp_red_recipe",
+      "exlinefurniture:warped_lamp_white_recipe",
+      "exlinefurniture:warped_lamp_yellow_recipe",
+      "exlinefurniture:warped_window_web",
+      "exlinefurniture:window_heart_warped",
+      "exlinefurniture:window_sliding_warped",
+      "exlinefurniture:window_warped",
+      "exlinefurniture:shutters_warped"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

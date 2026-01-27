@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:chorundum"
+    },
+    "1": {
+      "item": "stalwart_dungeons:chorundum"
+    },
+    "2": {
+      "item": "stalwart_dungeons:chorundum"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:chorundum_axe",
+    "count": 1
+  }
+}

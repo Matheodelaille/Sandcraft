@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodextended:festivalbreaditem"
+    },
+	{	
+      "tag": "forge:fruits"
+    },
+	{	
+      "tag": "forge:cream"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:fruitcreamfestivalbreaditem",
+	"count": 1}
+	
+}

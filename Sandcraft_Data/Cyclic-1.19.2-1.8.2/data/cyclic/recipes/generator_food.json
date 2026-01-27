@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pip",
+    "cbc",
+    "pip"
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:target"
+    },
+    "i": {
+      "item": "cyclic:gold_bars"
+    },
+    "b": {
+      "tag": "forge:nuggets/netherite"
+    },
+    "c": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "cyclic:generator_food"
+  }
+}

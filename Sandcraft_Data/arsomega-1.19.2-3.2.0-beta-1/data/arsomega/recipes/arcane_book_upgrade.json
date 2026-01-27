@@ -1,0 +1,32 @@
+{
+  "type": "ars_nouveau:book_upgrade",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:archmage_spell_book"
+    },
+    {
+      "item": "minecraft:elytra"
+    },
+    {
+      "tag": "arsomega:tier_4_catalyst"
+    },
+    {
+      "tag": "arsomega:tier_4_ingredient"
+    },
+    {
+      "tag": "arsomega:tier_4_ingredient"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    },
+    {
+      "item": "ars_nouveau:blue_archwood_log"
+    },
+    {
+      "item": "ars_nouveau:red_archwood_log"
+    }
+  ],
+  "result": {
+    "item": "arsomega:arcane_book"
+  }
+}

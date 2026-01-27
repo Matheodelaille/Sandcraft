@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R#R",
+    "GGG"
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    },
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    "G": {
+      "item": "minecraft:gold_nugget",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:circuit_logic",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:crops/strawberry"
+    },
+	{	
+      "tag": "forge:milk"
+    },
+	{	
+      "tag": "forge:cream"
+    },
+	{	
+      "tag": "forge:spices/vanilla"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "tag": "forge:sugar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:strawberrysouffleitem",
+	"count": 1}
+	
+}

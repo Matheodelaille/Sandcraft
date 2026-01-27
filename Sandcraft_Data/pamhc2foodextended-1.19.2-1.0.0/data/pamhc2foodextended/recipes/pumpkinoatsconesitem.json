@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:crops/oats"
+    },
+	{	
+      "tag": "forge:crops/pumpkin"
+    },
+	{	
+      "tag": "forge:butter"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pumpkinoatsconesitem",
+	"count": 1}
+	
+}

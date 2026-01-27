@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orcz:orc_steelpickaxe"
+    },
+    {
+      "item": "orcz:orcsteelshovel"
+    },
+    {
+      "item": "orcz:orc_steel_axe"
+    },
+    {
+      "item": "orcz:orc_steel_hoe"
+    },
+    {
+      "item": "orcz:orc_steel_sword"
+    }
+  ],
+  "result": {
+    "item": "orcz:orc_steel_paxel",
+    "count": 1
+  }
+}

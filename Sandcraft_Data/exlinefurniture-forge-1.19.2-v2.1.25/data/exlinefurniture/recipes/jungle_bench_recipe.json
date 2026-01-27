@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "P  ",
+        "PPP",
+        " F "
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:jungle_slab"
+        },
+        "F": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:jungle_bench",
+        "count": 1
+    }
+}

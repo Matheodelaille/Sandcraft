@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "trophy",
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "/": {
+      "item": "minecraft:creeper_head"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#/#",
+    "# #"
+  ],
+  "result": {
+    "item": "handcrafted:creeper_trophy"
+  }
+}

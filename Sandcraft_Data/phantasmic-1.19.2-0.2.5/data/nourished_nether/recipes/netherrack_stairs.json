@@ -1,0 +1,33 @@
+{
+  "group": "netherrack_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "3": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "minecraft:netherrack"
+    },
+    "6": {
+      "item": "minecraft:netherrack"
+    },
+    "7": {
+      "item": "minecraft:netherrack"
+    },
+    "8": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:netherrack_stairs",
+    "count": 4
+  }
+}

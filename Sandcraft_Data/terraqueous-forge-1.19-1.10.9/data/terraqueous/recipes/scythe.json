@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "II",
+        " S",
+        "SC"
+    ],
+    "key": {
+        "I": { "tag": "forge:ingots/iron" },
+        "S": { "tag": "forge:rods/wooden" },
+        "C": { "tag": "forge:string" }
+    },
+    "result": {
+        "item": "terraqueous:scythe"
+    }
+}

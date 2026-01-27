@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "ASA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:chests/wooden"
+    },
+    "S": {
+      "tag": "forge:leather"
+    },
+    "F": {
+      "tag": "forge:feathers"
+    }
+  },
+  "result": {
+    "item": "exoticbirds:pigeon_backpack"
+  }
+}

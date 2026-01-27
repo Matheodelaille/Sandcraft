@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodextended:vegemiteitem"
+    },
+	{	
+      "tag": "forge:toast"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:vegemiteontoastitem",
+	"count": 1}
+	
+}

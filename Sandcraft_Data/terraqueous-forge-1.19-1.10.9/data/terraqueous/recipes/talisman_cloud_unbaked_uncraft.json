@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "cloud_talisman",
+    "ingredients": [
+        { "item": "terraqueous:unbaked_cloud_talisman" }
+    ],
+    "result": {
+        "item": "minecraft:clay_ball",
+        "count": 3
+    }
+}

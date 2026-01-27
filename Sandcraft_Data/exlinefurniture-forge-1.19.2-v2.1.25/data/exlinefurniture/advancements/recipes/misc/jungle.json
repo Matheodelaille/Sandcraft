@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:jungle_adirondack_chair_recipe",
+      "exlinefurniture:jungle_bench_recipe",
+      "exlinefurniture:jungle_chair_recipe",
+      "exlinefurniture:jungle_chair_black_recipe",
+      "exlinefurniture:jungle_chair_blue_recipe",
+      "exlinefurniture:jungle_chair_brown_recipe",
+      "exlinefurniture:jungle_chair_cyan_recipe",
+      "exlinefurniture:jungle_chair_gray_recipe",
+      "exlinefurniture:jungle_chair_green_recipe",
+      "exlinefurniture:jungle_chair_light_blue_recipe",
+      "exlinefurniture:jungle_chair_light_gray_recipe",
+      "exlinefurniture:jungle_chair_lime_recipe",
+      "exlinefurniture:jungle_chair_magenta_recipe",
+      "exlinefurniture:jungle_chair_orange_recipe",
+      "exlinefurniture:jungle_chair_pink_recipe",
+      "exlinefurniture:jungle_chair_purple_recipe",
+      "exlinefurniture:jungle_chair_red_recipe",
+      "exlinefurniture:jungle_chair_white_recipe",
+      "exlinefurniture:jungle_chair_yellow_recipe",
+      "exlinefurniture:jungle_dresser_recipe",
+      "exlinefurniture:jungle_table_recipe",
+      "exlinefurniture:jungle_glass_table_recipe",
+      "exlinefurniture:jungle_log_table_recipe",
+      "exlinefurniture:jungle_log_glass_table_recipe",
+      "exlinefurniture:jungle_stripped_log_table_recipe",
+      "exlinefurniture:jungle_stripped_log_glass_table_recipe",
+      "exlinefurniture:jungle_lamp_black_recipe",
+      "exlinefurniture:jungle_lamp_blue_recipe",
+      "exlinefurniture:jungle_lamp_brown_recipe",
+      "exlinefurniture:jungle_lamp_cyan_recipe",
+      "exlinefurniture:jungle_lamp_gray_recipe",
+      "exlinefurniture:jungle_lamp_green_recipe",
+      "exlinefurniture:jungle_lamp_light_blue_recipe",
+      "exlinefurniture:jungle_lamp_light_gray_recipe",
+      "exlinefurniture:jungle_lamp_lime_recipe",
+      "exlinefurniture:jungle_lamp_magenta_recipe",
+      "exlinefurniture:jungle_lamp_orange_recipe",
+      "exlinefurniture:jungle_lamp_pink_recipe",
+      "exlinefurniture:jungle_lamp_purple_recipe",
+      "exlinefurniture:jungle_lamp_red_recipe",
+      "exlinefurniture:jungle_lamp_white_recipe",
+      "exlinefurniture:jungle_lamp_yellow_recipe",
+      "exlinefurniture:jungle_window_web",
+      "exlinefurniture:window_heart_jungle",
+      "exlinefurniture:window_sliding_jungle",
+      "exlinefurniture:window_jungle",
+      "exlinefurniture:shutters_jungle"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:jungle_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

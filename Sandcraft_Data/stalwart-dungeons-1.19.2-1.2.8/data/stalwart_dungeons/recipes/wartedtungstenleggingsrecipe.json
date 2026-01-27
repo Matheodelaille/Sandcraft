@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "stalwart_dungeons:tungsten_leggings"
+  },
+  "addition": {
+    "item": "stalwart_dungeons:spore_bottle"
+  },
+  "result": {
+    "item": "stalwart_dungeons:warted_tungsten_leggings"
+  }
+}

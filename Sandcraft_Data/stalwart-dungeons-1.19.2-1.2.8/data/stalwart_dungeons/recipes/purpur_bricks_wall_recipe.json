@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "1": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "2": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "3": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "4": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "5": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:purpur_bricks_wall",
+    "count": 6
+  }
+}

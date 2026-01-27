@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_light_blue_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:cloud_blue_corydalis",
+              "ferdinandsflowers:light_blue_forget_me_not",
+              "ferdinandsflowers:forget_me_not",
+              "ferdinandsflowers:light_blue_lobelia",
+              "ferdinandsflowers:blue_bell_bachelor_button",
+              "ferdinandsflowers:borage",
+              "ferdinandsflowers:blue_bell_sweet_peas",
+              "ferdinandsflowers:himalayan_blue_poppy",
+              "ferdinandsflowers:australian_cornflower",
+              "ferdinandsflowers:baby_blue_eyes",
+              "ferdinandsflowers:baby_blue_eyes_small",
+              "ferdinandsflowers:pixies_parasol_blue",
+              "ferdinandsflowers:oyster_blue"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:light_blue_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_light_blue_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:light_blue"
+    ]
+  }
+}

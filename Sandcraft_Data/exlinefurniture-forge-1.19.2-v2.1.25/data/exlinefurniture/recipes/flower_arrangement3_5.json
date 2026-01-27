@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DRF",
+        "TWT",
+        "TTT"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:allium"
+        },
+        "D": {
+            "item": "minecraft:lily_of_the_valley"
+        },
+        "R": {
+            "item": "minecraft:pink_tulip"
+        },
+        "T": {
+            "item": "minecraft:purple_terracotta"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:flower_arrangement3",
+        "count": 1
+    }
+}

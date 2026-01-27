@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "cac",
+    "csc"
+  ],
+  "key": {
+    "a": {
+      "item": "cyclic:apple_chocolate"
+    },
+    "c": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "cyclic:apple_chorus",
+    "count": 1
+  }
+}

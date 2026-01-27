@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:pasta"
+    },
+	{	
+      "tag": "forge:crops/peanut"
+    },
+	{	
+      "tag": "forge:boiledegg"
+    },
+	{	
+      "tag": "forge:firmtofu"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:crops/lime"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:padthaiitem",
+	"count": 1}
+	
+}

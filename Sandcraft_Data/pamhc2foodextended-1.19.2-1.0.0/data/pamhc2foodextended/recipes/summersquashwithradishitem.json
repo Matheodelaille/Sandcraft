@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+	{	
+      "tag": "forge:crops/radish"
+    },
+	{	
+      "tag": "forge:crops/zucchini"
+    },
+	{	
+      "tag": "forge:crops/pumpkin"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:summersquashwithradishitem",
+	"count": 1}
+	
+}

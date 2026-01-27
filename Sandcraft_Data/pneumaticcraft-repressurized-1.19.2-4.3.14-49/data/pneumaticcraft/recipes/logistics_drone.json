@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "pneumaticcraft:turbine_rotor"
+    },
+    "C": {
+      "item": "pneumaticcraft:logistics_core"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BCB",
+    " B "
+  ],
+  "result": {
+    "item": "pneumaticcraft:logistics_drone"
+  }
+}

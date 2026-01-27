@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        "DOD",
+        "OOO"
+    ],
+    "key": {
+        "O": { "tag": "forge:obsidian" },
+        "D": { "tag": "forge:gems/diamond" },
+        "B": { "item": "terraqueous:ender_book" }
+    },
+    "result": {
+        "item": "terraqueous:ender_table"
+    }
+}

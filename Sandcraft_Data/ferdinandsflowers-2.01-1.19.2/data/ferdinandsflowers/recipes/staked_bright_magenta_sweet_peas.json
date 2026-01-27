@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "ferdinandsflowers:bright_magenta_sweet_peas"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ferdinandsflowers:staked_bright_magenta_sweet_peas"
+  }
+}

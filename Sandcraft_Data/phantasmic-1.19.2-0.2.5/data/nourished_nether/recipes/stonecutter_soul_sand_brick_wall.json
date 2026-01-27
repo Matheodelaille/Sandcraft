@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nourished_nether:sludge_bricks"
+  },
+  "result": "nourished_nether:sludge_brick_wall"
+}

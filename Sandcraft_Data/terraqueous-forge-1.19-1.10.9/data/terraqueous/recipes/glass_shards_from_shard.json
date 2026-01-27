@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "terraqueous:glass_shard" },
+        { "item": "terraqueous:glass_shard" },
+        { "item": "terraqueous:glass_shard" },
+        { "item": "terraqueous:glass_shard" }
+    ],
+    "result": {
+        "item": "terraqueous:doodad_glassshards"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:blackstone"
+    },
+    "result": "mcwroofs:blackstone_upper_steep_roof",
+    "group": "roofs",
+    "count": 1
+}

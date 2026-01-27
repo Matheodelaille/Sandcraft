@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:stock"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:crops/scallion"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    },
+	{	
+      "tag": "forge:condiments/soysauce"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:wontonsoupitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:crops/avocado"
+    },
+	{	
+      "tag": "forge:tortilla"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:avocadoburritoitem",
+	"count": 1}
+	
+}

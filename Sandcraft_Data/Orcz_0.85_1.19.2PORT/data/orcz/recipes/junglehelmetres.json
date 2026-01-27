@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_leaves"
+    },
+    "1": {
+      "item": "minecraft:oak_leaves"
+    },
+    "2": {
+      "item": "minecraft:oak_leaves"
+    },
+    "3": {
+      "item": "minecraft:oak_leaves"
+    },
+    "5": {
+      "item": "minecraft:oak_leaves"
+    }
+  },
+  "result": {
+    "item": "orcz:great_jungle_armour_helmet",
+    "count": 1
+  }
+}

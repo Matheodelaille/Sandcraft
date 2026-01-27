@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "item": "pamhc2foodextended:espressoitem"
+    },
+	{	
+      "tag": "forge:milk"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:coffeeconlecheitem",
+	"count": 1}
+	
+}

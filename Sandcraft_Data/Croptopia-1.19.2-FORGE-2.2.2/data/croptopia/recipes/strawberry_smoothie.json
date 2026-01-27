@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:strawberries"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "tag": "forge:milks"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "croptopia:strawberry_smoothie"
+  }
+}

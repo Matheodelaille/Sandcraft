@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "L#L",
+    "FXF"
+  ],
+  "key": {
+    "X": {
+      "item": "viescraftmachines:xegonite_shard",
+      "count": 1
+    },
+    "#": {
+      "tag": "viescraftmachines:fuel_machine_pellet",
+      "count": 1
+    },
+    "F": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "I": {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    },
+    "L": {
+      "item": "viescraftmachines:circuit_logic",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:fuel_machine_battery",
+    "count": 1
+  }
+}

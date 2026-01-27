@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "NCN",
+    " S "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:iron_nugget"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:coal"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:upgraded_torch",
+        "count": 4
+    }
+}

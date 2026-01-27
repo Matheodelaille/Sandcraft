@@ -1,0 +1,25 @@
+{
+  "group": "food",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orcz:orcshroom"
+    },
+    {
+      "item": "orcz:blue_orcshroom"
+    },
+    {
+      "item": "orcz:orcamanita"
+    },
+    {
+      "item": "orcz:orcagaric"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "orcz:orczstew",
+    "count": 1
+  }
+}

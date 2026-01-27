@@ -1,0 +1,68 @@
+	{	
+	     "itemGroup.mcwlights": "Ara Lámpák",
+
+		 "block.mcwlights.white_lamp":"Fehér Lámpa",
+		 "block.mcwlights.orange_lamp":"Narancs Lámpa",
+		 "block.mcwlights.magenta_lamp":"Bíborvörös Lámpa",
+		 "block.mcwlights.light_blue_lamp":"Világoskék Lámpa",
+		 "block.mcwlights.yellow_lamp":"Sárga Lámpa",
+		 "block.mcwlights.lime_lamp":"Világoszöld Lámpa",
+		 "block.mcwlights.pink_lamp":"Rózsaszín Lámpa",
+		 "block.mcwlights.gray_lamp":"Szürke Lámpa",
+		 "block.mcwlights.light_gray_lamp":"Világosszürke Lámpa",
+		 "block.mcwlights.cyan_lamp":"Cián Lámpa",
+		 "block.mcwlights.purple_lamp":"Lila Lámpa",
+		 "block.mcwlights.blue_lamp":"Kék Lámpa",
+		 "block.mcwlights.brown_lamp":"Barna Lámpa",
+		 "block.mcwlights.green_lamp":"Zöld Lámpa",
+		 "block.mcwlights.red_lamp":"Piros Lámpa",
+		 "block.mcwlights.black_lamp":"Fekete Lámpa",
+		 
+		 "block.mcwlights.white_ceiling_light":"Fehér Mennyezeti Lámpa",
+		 "block.mcwlights.orange_ceiling_light":"Narancs Mennyezeti Lámpa",
+		 "block.mcwlights.magenta_ceiling_light":"Bíborvörös Mennyezeti Lámpa",
+		 "block.mcwlights.light_blue_ceiling_light":"Világoskék Mennyezeti Lámpa",
+		 "block.mcwlights.yellow_ceiling_light":"Sárga Mennyezeti Lámpa",
+		 "block.mcwlights.lime_ceiling_light":"Világoszöld Mennyezeti Lámpa",
+		 "block.mcwlights.pink_ceiling_light":"Rózsaszín Mennyezeti Lámpa",
+		 "block.mcwlights.gray_ceiling_light":"Szürke Mennyezeti Lámpa",
+		 "block.mcwlights.light_gray_ceiling_light":"Világosszürke Mennyezeti Lámpa",
+		 "block.mcwlights.cyan_ceiling_light":"Cián Mennyezeti Lámpa",
+		 "block.mcwlights.purple_ceiling_light":"Lila Mennyezeti Lámpa",
+		 "block.mcwlights.blue_ceiling_light":"Kék Mennyezeti Lámpa",
+		 "block.mcwlights.brown_ceiling_light":"Barna Mennyezeti Lámpa",
+		 "block.mcwlights.green_ceiling_light":"Zöld Mennyezeti Lámpa",
+		 "block.mcwlights.red_ceiling_light":"Piros Mennyezeti Lámpa",
+		 "block.mcwlights.black_ceiling_light":"Fekete Mennyezeti Lámpa",
+		 
+		 "block.mcwlights.oak_tiki_torch":"Tölgy Tiki Fáklya",
+		 "block.mcwlights.spruce_tiki_torch":"Lucfenyő Tiki Fáklya",
+		 "block.mcwlights.birch_tiki_torch":"Nyír Tiki Fáklya",
+		 "block.mcwlights.jungle_tiki_torch":"Dzsungel Tiki Fáklya",
+		 "block.mcwlights.acacia_tiki_torch":"Akác Tiki Fáklya",
+		 "block.mcwlights.dark_oak_tiki_torch":"Sötét Tölgy Tiki Fáklya",
+		 "block.mcwlights.crimson_tiki_torch":"Karmazsinvörös Tiki Fáklya",
+		 "block.mcwlights.warped_tiki_torch":"Megvetemedett Tiki Fáklya",
+		 
+		 "block.mcwlights.soul_oak_tiki_torch":"Lelki Tölgy Tiki Fáklya",
+		 "block.mcwlights.soul_spruce_tiki_torch":"Lelki Lucfenyő Tiki Fáklya",
+		 "block.mcwlights.soul_birch_tiki_torch":"Lelki Nyír Tiki Fáklya",
+		 "block.mcwlights.soul_jungle_tiki_torch":"Lelki Dzsungel Tiki Fáklya",
+		 "block.mcwlights.soul_acacia_tiki_torch":"Lelki Akác Tiki Fáklya",
+		 "block.mcwlights.soul_dark_oak_tiki_torch":"Lelki ötét Tölgy Tiki Fáklya",
+		 "block.mcwlights.soul_crimson_tiki_torch":"Lelki Karmazsinvörös Tiki Fáklya",
+		 "block.mcwlights.soul_warped_tiki_torch":"Lelki Megvetemedett Tiki Fáklya",
+		 
+		 "block.mcwlights.classic_street_lamp":"Utcai Lámpa",
+		 "block.mcwlights.double_street_lamp":"Kettős Utcai Lámpa",
+		 
+		 "block.mcwlights.soul_classic_street_lamp":"Lelki Utcai Lámpa",
+		 "block.mcwlights.soul_double_street_lamp":"Lelki Kettős SUtcai Lámpa",
+		 
+		 "block.mcwlights.lava_lamp":"Láva Lámpa",
+		 
+		 "block.mcwlights.garden_light":"Kerti Lámpa"
+		 
+	                                                                          
+	}
+	

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "$": {
+      "item": "littlelogistics:seater_car"
+    },
+    ".": {
+      "item": "littlelogistics:vessel_charger"
+    },
+    "_": {
+      "item": "minecraft:piston"
+    }
+  },
+  "pattern": [
+    " # ",
+    "_._",
+    "#$#"
+  ],
+  "result": {
+    "item": "littlelogistics:energy_locomotive"
+  }
+}

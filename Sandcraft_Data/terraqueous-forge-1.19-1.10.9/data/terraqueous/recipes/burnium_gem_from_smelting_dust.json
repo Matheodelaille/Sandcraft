@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "group": "terraqueous:burnium",
+    "ingredient": {
+        "item": "terraqueous:burnium_dust"
+    },
+    "result": "terraqueous:burnium_gem",
+    "experience": 2.75,
+    "cookingtime": 200
+}

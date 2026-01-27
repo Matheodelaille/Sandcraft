@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "TST",
+        "TST"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:oak_planks"
+        },
+        "S": {
+            "item": "minecraft:oak_slab"
+        },
+        "T": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:oak_dresser",
+        "count": 1
+    }
+}

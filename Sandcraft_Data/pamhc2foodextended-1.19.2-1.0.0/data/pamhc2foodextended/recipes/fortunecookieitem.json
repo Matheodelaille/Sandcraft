@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "item": "minecraft:paper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:fortunecookieitem",
+	"count": 1}
+	
+}

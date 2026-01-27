@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/coconut"
+    },
+	{	
+      "tag": "forge:yogurt"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:spices/currypowder"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chickencurryitem",
+	"count": 1}
+	
+}

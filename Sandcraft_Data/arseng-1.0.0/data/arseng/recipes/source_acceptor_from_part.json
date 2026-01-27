@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arseng:cable_source_acceptor"
+    }
+  ],
+  "result": {
+    "item": "arseng:source_acceptor"
+  }
+}

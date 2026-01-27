@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:yellow_terracotta"
+    },
+    "result": "mcwroofs:yellow_terracotta_top_roof",
+    "group": "roofs",
+    "count": 1
+}

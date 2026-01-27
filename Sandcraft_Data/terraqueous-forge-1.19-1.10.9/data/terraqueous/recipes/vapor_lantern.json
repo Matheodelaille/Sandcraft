@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CVC",
+        "VTV",
+        "C C"
+    ],
+    "key": {
+        "C": { "item": "terraqueous:light_cloud" },
+        "V": { "item": "terraqueous:vapor_block" },
+        "T": { "item": "minecraft:torch" }
+    },
+    "result": {
+        "item": "terraqueous:vapor_lantern",
+        "nbt": { "rgb16": 330, "rgbsimple": 11 }
+    }
+}

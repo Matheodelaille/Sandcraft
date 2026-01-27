@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "SSS",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:warped_stem"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:warped_log_table",
+        "count": 1
+    }
+}

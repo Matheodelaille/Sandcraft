@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodcore:basichamburgeritem"
+    },
+	{	
+      "tag": "forge:crops/chilipepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:jalapenoburgeritem",
+	"count": 1}
+	
+}

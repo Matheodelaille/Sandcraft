@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rsr",
+    "gbg",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "g": {
+      "tag": "forge:ingots/copper"
+    },
+    "s": {
+      "item": "minecraft:dropper"
+    },
+    "r": {
+      "item": "minecraft:andesite"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "cyclic:placer"
+  }
+}

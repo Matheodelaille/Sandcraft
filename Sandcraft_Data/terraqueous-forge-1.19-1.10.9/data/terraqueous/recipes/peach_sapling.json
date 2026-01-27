@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "saplings",
+    "ingredients": [
+        { "item": "terraqueous:peach" },
+        { "item": "terraqueous:peach_leaves" },
+        { "tag": "terraqueous:peach_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:peach_sapling"
+    }
+}

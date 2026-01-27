@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwroofs:cobblestone_roof",
+	  "mcwroofs:cobblestone_attic_roof",
+	  "mcwroofs:cobblestone_top_roof",
+	  "mcwroofs:cobblestone_lower_roof",
+	  "mcwroofs:cobblestone_steep_roof",
+	  "mcwroofs:cobblestone_upper_lower_roof",
+	  "mcwroofs:cobblestone_upper_steep_roof",
+	  
+	  "mcwroofs:deepslate_roof",
+	  "mcwroofs:deepslate_attic_roof",
+	  "mcwroofs:deepslate_top_roof",
+	  "mcwroofs:deepslate_lower_roof",
+	  "mcwroofs:deepslate_steep_roof",
+	  "mcwroofs:deepslate_upper_lower_roof",
+	  "mcwroofs:deepslate_upper_steep_roof",
+	  
+	  "mcwroofs:blackstone_roof",
+	  "mcwroofs:blackstone_attic_roof",
+	  "mcwroofs:blackstone_top_roof",
+	  "mcwroofs:blackstone_lower_roof",
+	  "mcwroofs:blackstone_steep_roof",
+	  "mcwroofs:blackstone_upper_lower_roof",
+	  "mcwroofs:blackstone_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cobblestone"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

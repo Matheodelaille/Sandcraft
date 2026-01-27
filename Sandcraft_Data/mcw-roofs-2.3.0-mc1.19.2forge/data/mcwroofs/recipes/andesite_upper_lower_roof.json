@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:andesite"
+    },
+    "result": "mcwroofs:andesite_upper_lower_roof",
+    "group": "roofs",
+    "count": 1
+}

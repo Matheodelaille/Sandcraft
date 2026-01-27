@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:sandstone"
+    },
+    "result": "mcwroofs:sandstone_steep_roof",
+    "group": "roofs",
+    "count": 1
+}

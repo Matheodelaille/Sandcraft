@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "phoenix_egg",
+  "ingredients": [
+    {
+      "item": "exoticbirds:skeleton_phoenix_egg"
+    }
+  ],
+  "result": {
+    "item": "exoticbirds:phoenix_egg",
+    "count": 1
+  }
+}

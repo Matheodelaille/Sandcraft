@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "botania:dreamwood_logs"
+    }
+  },
+  "pattern": [
+    " D ",
+    "D D",
+    "DD "
+  ],
+  "result": {
+    "item": "botania:clip"
+  }
+}

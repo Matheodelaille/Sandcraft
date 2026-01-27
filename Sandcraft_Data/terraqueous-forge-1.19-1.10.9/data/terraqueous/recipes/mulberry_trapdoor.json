@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_trapdoor",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:mulberry_planks" }
+    },
+    "result": {
+        "item": "terraqueous:mulberry_trapdoor",
+        "count": 2
+    }
+}

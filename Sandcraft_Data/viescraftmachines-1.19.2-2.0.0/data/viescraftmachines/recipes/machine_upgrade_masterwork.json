@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AKA",
+    "N#N",
+    "AKA"
+  ],
+  "key": {
+    "K": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "A": {
+      "item": "viescraftmachines:circuit_adaptive",
+      "count": 1
+    },
+    "N": {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    "#": {
+      "item": "viescraftmachines:machine_upgrade_greater",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:machine_upgrade_masterwork",
+    "count": 1
+  }
+}

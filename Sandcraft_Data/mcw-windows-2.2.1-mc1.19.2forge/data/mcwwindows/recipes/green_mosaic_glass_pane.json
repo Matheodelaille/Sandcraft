@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mosaic_glass_pane",
+	
+    "pattern":
+    [
+		"BBB",
+		"BBB"
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "mcwwindows:green_mosaic_glass"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:green_mosaic_glass_pane",
+        "count": 16
+    }
+}
+
+

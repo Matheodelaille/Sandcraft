@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WLW",
+        " S ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:mangrove_slab"
+        },
+        "L": {
+            "item": "minecraft:redstone_torch"
+        },
+        "W": {
+            "item": "minecraft:brown_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:mangrove_lamp_brown",
+        "count": 1
+    }
+}

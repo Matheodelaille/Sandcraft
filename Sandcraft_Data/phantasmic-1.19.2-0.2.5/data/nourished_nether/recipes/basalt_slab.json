@@ -1,0 +1,22 @@
+{
+  "group": "basalt_decorative",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:basalt"
+    },
+    "1": {
+      "item": "minecraft:basalt"
+    },
+    "2": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:basalt_slab",
+    "count": 6
+  }
+}

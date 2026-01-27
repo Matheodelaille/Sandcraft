@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/glowberry"
+    },
+    {
+      "tag": "forge:crops/glowberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:glowberryjuiceitem",
+	"count": 1}
+	
+}

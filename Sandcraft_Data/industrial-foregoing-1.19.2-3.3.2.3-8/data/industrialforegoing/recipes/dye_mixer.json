@@ -1,0 +1,43 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:dye_mixer"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "D": {
+            "tag": "forge:dyes"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "R": {
+            "tag": "forge:gears/gold"
+          }
+        },
+        "pattern": [
+          "PDP",
+          "DMD",
+          "PRP"
+        ],
+        "result": {
+          "item": "industrialforegoing:dye_mixer"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "group": "smooth_basalt_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "1": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "2": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "3": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:smooth_basalt_bricks",
+    "count": 4
+  }
+}

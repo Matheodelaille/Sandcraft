@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ofo",
+    "beb",
+    "ofo"
+  ],
+  "key": {
+    "e": {
+      "item": "cyclic:gem_amber"
+    },
+    "b": {
+      "item": "minecraft:lapis_block"
+    },
+    "o": {
+      "item": "minecraft:magma_cream"
+    },
+    "f": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "cyclic:spell_water"
+  }
+}

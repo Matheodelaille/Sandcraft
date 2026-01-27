@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"group": "wall_lantern",
+    "ingredients": [
+        {
+            "tag": "forge:fences/wooden"
+        },
+        {
+            "item": "minecraft:lantern"
+        }
+    ],
+    "result": {
+        "item": "mcwlights:wall_lantern",
+        "count": 1
+    }
+}

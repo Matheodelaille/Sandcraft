@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_carpet"
+        },
+        {
+            "item": "minecraft:brown_carpet"
+        },
+        {
+            "item": "exlinefurniture:mangrove_chair"
+        }
+    ],
+    "result": {
+        "item": "exlinefurniture:acacia_chair_brown",
+        "count":1
+    }
+}

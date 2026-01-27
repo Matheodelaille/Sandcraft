@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orcz:scrapblock"
+    }
+  ],
+  "result": {
+    "item": "orcz:ironscrap",
+    "count": 9
+  }
+}

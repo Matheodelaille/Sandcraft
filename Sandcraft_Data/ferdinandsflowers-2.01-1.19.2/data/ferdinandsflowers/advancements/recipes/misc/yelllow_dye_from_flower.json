@@ -1,0 +1,52 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_yellow_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:yellow_cosmos",
+              "ferdinandsflowers:yellow_crocus",
+              "ferdinandsflowers:yellow_freesia",
+              "ferdinandsflowers:corydalis",
+              "ferdinandsflowers:yellow_lupin",
+              "ferdinandsflowers:golden_bean",
+              "ferdinandsflowers:yellow_daffodil",
+              "ferdinandsflowers:skyscraper_sunflower",
+              "ferdinandsflowers:sundance_kid_sunflower",
+              "ferdinandsflowers:teddy_bear_sunflower",
+              "ferdinandsflowers:parodia_muricata",
+              "ferdinandsflowers:yellow_starthistle",
+              "ferdinandsflowers:coastal_lotus",
+              "ferdinandsflowers:cinquefoil",
+              "ferdinandsflowers:yellow_stagshorn",
+              "ferdinandsflowers:yellow_patches",
+              "ferdinandsflowers:crinoline_stinkhorn",
+              "ferdinandsflowers:oyster_yellow",
+              "ferdinandsflowers:silver_carpet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:yellow_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_yellow_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:yellow"
+    ]
+  }
+}

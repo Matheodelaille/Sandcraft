@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": {
+      "item": "minecraft:stone_bricks"
+    },
+    "w": {
+      "tag": "forge:cobblestone"
+    }
+  },
+  "pattern": [
+    "s s",
+    "sws",
+    "sws"
+  ],
+  "result": {
+    "count": 6,
+    "item": "immersiveposts:postbase"
+  }
+}

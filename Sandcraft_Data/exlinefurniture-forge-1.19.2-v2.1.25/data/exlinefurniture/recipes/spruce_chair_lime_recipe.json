@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:spruce_slab"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:lime_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:spruce_chair_lime",
+        "count": 1
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:mob_imprisonment_tool"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "G": {
+            "item": "minecraft:ghast_tear"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          }
+        },
+        "pattern": [
+          " P ",
+          "PGP",
+          " P "
+        ],
+        "result": {
+          "item": "industrialforegoing:mob_imprisonment_tool"
+        }
+      }
+    }
+  ]
+}

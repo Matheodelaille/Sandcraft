@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cgc",
+    "gdg",
+    "cpc"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:dropper"
+    },
+    "g": {
+      "tag": "forge:storage_blocks/cobblestone"
+    },
+    "c": {
+      "tag": "forge:ingots/copper"
+    },
+    "p": {
+      "tag": "forge:storage_blocks/iron"
+    }
+  },
+  "result": {
+    "item": "cyclic:dropper",
+    "count": 1
+  }
+}

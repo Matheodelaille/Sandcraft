@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "nightstand",
+  "key": {
+    "#": {
+      "item": "handcrafted:warped_board"
+    },
+    "/": {
+      "item": "minecraft:warped_planks"
+    },
+    "@": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "///",
+    "#@#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "handcrafted:warped_nightstand"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_fence",
+    "pattern": [
+        "W#W",
+        "W#W"
+    ],
+    "key": {
+        "#": { "tag": "forge:rods/wooden" },
+        "W": { "item": "terraqueous:pear_planks" }
+    },
+    "result": {
+        "item": "terraqueous:pear_fence",
+        "count": 3
+    }
+}

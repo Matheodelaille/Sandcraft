@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:trapped_chest"
+    },
+    "@": {
+      "item": "minecraft:coarse_dirt"
+    }
+  },
+  "result": {
+    "item": "goodall:ant_box"
+  }
+}

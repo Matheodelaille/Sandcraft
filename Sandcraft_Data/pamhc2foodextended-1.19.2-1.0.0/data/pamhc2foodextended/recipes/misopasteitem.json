@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+	{	
+      "tag": "forge:crops/soybean"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    },
+	{	
+      "tag": "forge:salt"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:misopasteitem",
+	"count": 1}
+	
+}

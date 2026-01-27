@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "$": {
+      "item": "minecraft:redstone"
+    },
+    "_": {
+      "item": "littlelogistics:transmitter_component"
+    }
+  },
+  "pattern": [
+    " # ",
+    "$_$",
+    " # "
+  ],
+  "result": {
+    "item": "littlelogistics:locomotive_route"
+  }
+}

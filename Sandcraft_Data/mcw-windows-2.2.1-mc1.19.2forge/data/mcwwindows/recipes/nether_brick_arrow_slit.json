@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "arrow_slit",
+	
+    "pattern":
+    [
+        " AA",
+        " BB",
+        " AA"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:nether_brick_slab"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:nether_bricks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:nether_brick_arrow_slit",
+        "count": 3
+    }
+}
+
+

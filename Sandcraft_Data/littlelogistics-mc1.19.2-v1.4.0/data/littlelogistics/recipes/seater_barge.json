@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:signs"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    },
+    "_": {
+      "tag": "minecraft:wooden_stairs"
+    }
+  },
+  "pattern": [
+    "#_#",
+    "$$$"
+  ],
+  "result": {
+    "item": "littlelogistics:seater_barge"
+  }
+}

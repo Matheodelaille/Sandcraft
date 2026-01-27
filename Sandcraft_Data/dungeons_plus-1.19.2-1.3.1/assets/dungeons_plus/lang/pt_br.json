@@ -1,0 +1,26 @@
+{
+	"filled_map.dungeons_plus:bigger_dungeon": "Mapa da Masmorra Enterrada",
+	"filled_map.dungeons_plus:leviathan": "Mapa do Leviatã",
+	"filled_map.dungeons_plus:snowy_temple": "Mapa do Templo de Neve",
+	
+	"dungeons_plus:advancements.adventure.find_tower.title": "Torres de Batalha?",
+	"dungeons_plus:advancements.adventure.find_tower.description": "Não é bem assim, mas ainda há mobs para lutar! (Encontre uma Torre)",
+	
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.title": "Agora isso é uma masmorra",
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.description": "São mais Geradores do que estou acostumado. (Encontre uma Masmorra Enterrada)",
+	
+	"dungeons_plus:advancements.adventure.find_leviathan.title": "Vestígios Atigos",
+	"dungeons_plus:advancements.adventure.find_leviathan.description": "Deve ter descido com um... fêmur. (Encontre um Leviatã)",
+	
+	"dungeons_plus:advancements.adventure.find_snowy_temple.title": "Nevou em",
+	"dungeons_plus:advancements.adventure.find_snowy_temple.description": "Eu pensei que pirâmides estivessem em desertos ... (Encontre um Templo de Neve)",
+	
+	"dungeons_plus:advancements.end.find_end_ruins.title": "Um Fim arruinado",
+	"dungeons_plus:advancements.end.find_end_ruins.description": "Provavelmente não deveria demorar muito. (Encontre as Ruínas  de Fin)",
+	
+	"dungeons_plus:advancements.adventure.find_warped_garden.title": "Algo não natural",
+	"dungeons_plus:advancements.adventure.find_warped_garden.description": "Vá para dentro. O que poderia dar errado? (Encontre um Jardim Distorcido)",
+	
+	"dungeons_plus:advancements.nether.find_soul_prison.title": "Lágrimas Enjauladas",
+	"dungeons_plus:advancements.nether.find_soul_prison.description": "Mas não deles. (Encontre a Prisão da Alma)"
+}

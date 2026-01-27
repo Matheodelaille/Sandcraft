@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:stone_brick_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:stone_brick_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:stone_brick_bridge",
+        "count": 4
+    }
+}

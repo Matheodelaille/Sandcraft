@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:ceiling_fan_acacia_recipe",
+      "exlinefurniture:ceiling_fan_birch_recipe",
+      "exlinefurniture:ceiling_fan_spruce_recipe",
+      "exlinefurniture:ceiling_fan_oak_recipe",
+      "exlinefurniture:ceiling_fan_dark_oak_recipe",
+      "exlinefurniture:ceiling_fan_jungle_recipe",
+      "exlinefurniture:ceiling_fan_crimson_recipe",
+      "exlinefurniture:ceiling_fan_warped_recipe",
+      "exlinefurniture:retro_tv",
+      "exlinefurniture:old_tv",
+      "exlinefurniture:light",
+      "exlinefurniture:fridge",
+      "exlinefurniture:oven_recipe",
+      "exlinefurniture:faucet_recipe",
+      "exlinefurniture:toaster_recipe",
+      "exlinefurniture:toilet_recipe"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

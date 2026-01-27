@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "E",
+        "G",
+        "S"
+    ],
+    "key": {
+        "E": { "tag": "forge:gems/endimium" },
+        "G": { "tag": "forge:nuggets/gold" },
+        "S": { "tag": "forge:rods/wooden" }
+    },
+    "result": {
+        "item": "terraqueous:cloud_staff"
+    }
+}

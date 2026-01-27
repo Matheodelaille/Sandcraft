@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:purple_archwood_log"
+    },
+    {
+      "tag": "arsomega:tier_4_ingredient"
+    },
+    {
+      "tag": "arsomega:tier_4_ingredient"
+    },
+    {
+      "tag": "arsomega:tier_4_ingredient"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "arsomega:infused_diamond_block"
+    },
+    {
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "result": {
+    "item": "arsomega:ritual_aura"
+  }
+}

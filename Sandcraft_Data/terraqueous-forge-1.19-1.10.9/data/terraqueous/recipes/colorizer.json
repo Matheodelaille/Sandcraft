@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RII",
+        "GPI",
+        "BII"
+    ],
+    "key": {
+        "R": { "tag": "forge:dyes/red" },
+        "G": { "tag": "forge:dyes/green" },
+        "B": { "tag": "forge:dyes/blue" },
+        "P": { "tag": "forge:glass_panes" },
+        "I": { "tag": "forge:ingots/iron" }
+    },
+    "result": {
+        "item": "terraqueous:colorizer",
+        "nbt": { "charge": 512 }
+    }
+}

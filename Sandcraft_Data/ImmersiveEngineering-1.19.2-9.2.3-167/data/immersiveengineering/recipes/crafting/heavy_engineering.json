@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"e":{"tag":"forge:ingots/electrum"},"g":{"item":"immersiveengineering:component_steel"},"i":{"tag":"forge:sheetmetals/steel"}},"pattern":["igi","geg","igi"],"result":{"count":4,"item":"immersiveengineering:heavy_engineering"}}

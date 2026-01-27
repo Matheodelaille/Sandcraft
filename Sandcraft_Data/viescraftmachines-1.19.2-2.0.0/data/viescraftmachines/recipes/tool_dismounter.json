@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "F",
+    "L"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:feather",
+      "count": 1
+    },
+    "F": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    },
+    "L": {
+      "item": "minecraft:leather",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:tool_dismounter",
+    "count": 1
+  }
+}

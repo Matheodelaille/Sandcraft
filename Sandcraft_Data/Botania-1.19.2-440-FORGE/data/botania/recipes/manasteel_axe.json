@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "botania:manasteel_ingots"
+    },
+    "T": {
+      "item": "botania:livingwood_twig"
+    }
+  },
+  "pattern": [
+    "SS",
+    "TS",
+    "T "
+  ],
+  "result": {
+    "item": "botania:manasteel_axe"
+  }
+}

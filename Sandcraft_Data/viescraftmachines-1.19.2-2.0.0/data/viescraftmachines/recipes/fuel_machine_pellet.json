@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#"
+  ],
+  "key": {
+    "X": {
+      "item": "viescraftmachines:xegonite_shard",
+      "count": 1
+    },
+    "#": {
+      "tag": "minecraft:coals",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:fuel_machine_pellet",
+    "count": 4
+  }
+}

@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "item": "pamhc2foodextended:pinkelitem"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:spices/blackpepper"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:sausage"
+    },
+	{	
+      "tag": "forge:crops/kale"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:kohlundpinkelitem",
+	"count": 1}
+	
+}

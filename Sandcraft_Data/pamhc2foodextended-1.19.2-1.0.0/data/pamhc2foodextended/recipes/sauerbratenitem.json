@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    },
+	{	
+      "tag": "forge:vinegar"
+    },
+	{	
+      "tag": "forge:water"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:sauerbratenitem",
+	"count": 1}
+	
+}

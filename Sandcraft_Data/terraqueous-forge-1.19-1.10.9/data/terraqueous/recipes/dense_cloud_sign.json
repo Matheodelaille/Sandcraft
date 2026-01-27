@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_sign",
+    "pattern": [
+        "###",
+        "###",
+        " X "
+    ],
+    "key": {
+        "#": { "item": "terraqueous:dense_cloud" },
+        "X": { "item": "terraqueous:vapor_block" }
+    },
+    "result": {
+        "item": "terraqueous:dense_cloud_sign",
+        "count": 3
+    }
+}

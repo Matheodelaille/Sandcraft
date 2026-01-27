@@ -1,0 +1,26 @@
+{
+  "group": "sludge_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:sludge_brick"
+    },
+    "1": {
+      "item": "nourished_nether:sludge_brick"
+    },
+    "2": {
+      "item": "nourished_nether:sludge_brick"
+    },
+    "3": {
+      "item": "nourished_nether:sludge_brick"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:sludge_bricks",
+    "count": 1
+  }
+}

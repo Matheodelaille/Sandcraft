@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	    "A A",
+        "A A",
+		"III"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:iron_bridge",
+        "count": 1
+    }
+}

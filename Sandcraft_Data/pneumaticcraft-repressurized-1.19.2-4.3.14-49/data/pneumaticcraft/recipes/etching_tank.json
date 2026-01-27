@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "O": {
+      "tag": "forge:obsidian"
+    },
+    "S": {
+      "item": "pneumaticcraft:reinforced_brick_slab"
+    },
+    "T": {
+      "type": "forge:nbt",
+      "count": 1,
+      "item": "pneumaticcraft:small_tank"
+    },
+    "W": {
+      "item": "pneumaticcraft:reinforced_brick_wall"
+    }
+  },
+  "pattern": [
+    "OGO",
+    "WTW",
+    "SSS"
+  ],
+  "result": {
+    "item": "pneumaticcraft:etching_tank"
+  }
+}

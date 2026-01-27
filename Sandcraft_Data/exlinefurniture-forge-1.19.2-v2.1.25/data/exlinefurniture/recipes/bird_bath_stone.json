@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W W",
+        " W ",
+        " W "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:stone_bricks"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:bird_bath_stone",
+        "count": 6
+    }
+}

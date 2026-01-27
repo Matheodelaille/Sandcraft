@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/cabbage"
+    },
+	{	
+      "tag": "forge:condiments/oystersauce"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cantonesegreensitem",
+	"count": 1}
+	
+}

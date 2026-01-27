@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "slabs",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone_lamp"
+        }
+    },
+    "result": {
+        "item": "mcwlights:redstone_lamp_slab",
+        "count": 6
+    }
+}

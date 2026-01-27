@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:minecart"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "P": {
+      "item": "minecraft:prismarine"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GCG",
+    "PPP"
+  ],
+  "result": {
+    "item": "thermal:underwater_minecart"
+  }
+}

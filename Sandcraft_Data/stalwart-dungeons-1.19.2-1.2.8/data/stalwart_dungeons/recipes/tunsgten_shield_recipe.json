@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:blaze_armor_scrap"
+    },
+    "1": {
+      "item": "stalwart_dungeons:blaze_armor_scrap"
+    },
+    "2": {
+      "item": "stalwart_dungeons:blaze_armor_scrap"
+    },
+    "3": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "4": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "5": {
+      "item": "stalwart_dungeons:tungsten_ingot"
+    },
+    "7": {
+      "item": "stalwart_dungeons:blaze_armor_scrap"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:tungsten_shield",
+    "count": 1
+  }
+}

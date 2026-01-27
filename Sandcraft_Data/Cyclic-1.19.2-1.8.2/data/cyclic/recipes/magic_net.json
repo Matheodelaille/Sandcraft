@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lal",
+    "qiq",
+    "lal"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "l": {
+      "tag": "minecraft:coral_blocks"
+    },
+    "a": {
+      "tag": "forge:dyes/cyan"
+    },
+    "q": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "cyclic:magic_net",
+    "count": 8
+  }
+}

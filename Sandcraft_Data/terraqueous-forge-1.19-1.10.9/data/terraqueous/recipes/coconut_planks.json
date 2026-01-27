@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "planks",
+    "ingredients": [
+        { "tag": "terraqueous:coconut_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:coconut_planks",
+        "count": 4
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "netheritenugget",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:netherite_nugget",
+    "count": 9
+  }
+}

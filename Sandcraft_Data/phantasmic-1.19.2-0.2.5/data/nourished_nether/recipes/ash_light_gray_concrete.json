@@ -1,0 +1,34 @@
+{
+  "group": "light_gray_concrete",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nourished_nether:ash_lump"
+    },
+    {
+      "item": "nourished_nether:ash_lump"
+    },
+    {
+      "item": "nourished_nether:ash_lump"
+    },
+    {
+      "item": "nourished_nether:ash_lump"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light_gray_concrete_powder",
+    "count": 5
+  }
+}

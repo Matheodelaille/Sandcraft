@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:birch_slab"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:green_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:birch_chair_green",
+        "count": 1
+    }
+}

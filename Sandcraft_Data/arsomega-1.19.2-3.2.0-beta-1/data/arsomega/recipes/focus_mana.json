@@ -1,0 +1,54 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "item": "ars_nouveau:summon_focus"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:source_gem_block"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/gold"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:diamond_block"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:diamond_block"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:diamond_block"
+      }
+    }
+  ],
+  "output": {
+    "item": "arsomega:focus_of_mana"
+  },
+  "sourceCost": 2000
+}

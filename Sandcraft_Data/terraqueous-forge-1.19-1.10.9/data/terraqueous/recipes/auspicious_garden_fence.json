@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " F ",
+        "FIF"
+    ],
+    "key": {
+        "F": { "item": "terraqueous:trickster_bloom" },
+        "I": { "tag": "forge:ingots/iron" }
+    },
+    "result": {
+        "item": "terraqueous:auspicious_garden_fence",
+        "count": 3
+    }
+}

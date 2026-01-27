@@ -1,0 +1,42 @@
+{
+  "group": "soul_forge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:basalt"
+    },
+    "1": {
+      "item": "minecraft:blackstone"
+    },
+    "2": {
+      "item": "minecraft:basalt"
+    },
+    "3": {
+      "item": "nourished_nether:soul_quartz"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "nourished_nether:soul_quartz"
+    },
+    "6": {
+      "item": "minecraft:basalt"
+    },
+    "7": {
+      "item": "minecraft:blackstone"
+    },
+    "8": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:soul_forge",
+    "count": 1
+  }
+}

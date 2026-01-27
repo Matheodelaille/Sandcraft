@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pneumaticcraft:remote"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_transistor": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pneumaticcraft:transistor"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_transistor",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pneumaticcraft:remote"
+    ]
+  }
+}

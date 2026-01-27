@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:ironscrap"
+    },
+    "1": {
+      "item": "orcz:ironscrap"
+    },
+    "2": {
+      "item": "orcz:ironscrap"
+    },
+    "3": {
+      "item": "orcz:ironscrap"
+    },
+    "4": {
+      "item": "orcz:ironscrap"
+    },
+    "5": {
+      "item": "orcz:ironscrap"
+    },
+    "6": {
+      "item": "orcz:ironscrap"
+    },
+    "7": {
+      "item": "orcz:ironscrap"
+    },
+    "8": {
+      "item": "orcz:ironscrap"
+    }
+  },
+  "result": {
+    "item": "orcz:scrapblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "necronium_shovel",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:necronium_ingot"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:necronium_shovel",
+    "count": 1
+  }
+}

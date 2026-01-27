@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwroofs:dark_oak_planks_roof",
+	  "mcwroofs:dark_oak_planks_attic_roof",
+	  "mcwroofs:dark_oak_planks_top_roof",
+	  "mcwroofs:dark_oak_planks_lower_roof",
+	  "mcwroofs:dark_oak_planks_steep_roof",
+	  "mcwroofs:dark_oak_planks_upper_lower_roof",
+	  "mcwroofs:dark_oak_planks_upper_steep_roof"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dark_oak_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

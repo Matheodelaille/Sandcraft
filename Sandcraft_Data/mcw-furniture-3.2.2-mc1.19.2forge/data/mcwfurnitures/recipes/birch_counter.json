@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "counter",
+    "pattern":
+    [
+        "A",
+        "B"	
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:birch_slab"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:birch_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:birch_counter",
+        "count": 1
+    }
+}
+
+

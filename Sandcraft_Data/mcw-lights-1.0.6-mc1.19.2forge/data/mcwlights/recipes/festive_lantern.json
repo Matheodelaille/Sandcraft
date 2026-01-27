@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "I I",
+    "INI",
+	"I I"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:torch"
+        },
+
+        
+        "I":
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwlights:festive_lantern",
+        "count": 1
+    }
+}

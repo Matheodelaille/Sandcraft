@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:spices/saltandpepper"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:roastchickenitem",
+	"count": 1}
+	
+}

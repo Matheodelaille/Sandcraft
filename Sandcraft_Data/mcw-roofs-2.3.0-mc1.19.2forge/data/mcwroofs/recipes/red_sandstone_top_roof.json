@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:red_sandstone"
+    },
+    "result": "mcwroofs:red_sandstone_top_roof",
+    "group": "roofs",
+    "count": 1
+}

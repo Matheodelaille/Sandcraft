@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "viescraftmachines:xegonite_block"
+    }
+  ],
+  "result": {
+    "item": "viescraftmachines:machine_parts",
+    "count": 9
+  }
+}

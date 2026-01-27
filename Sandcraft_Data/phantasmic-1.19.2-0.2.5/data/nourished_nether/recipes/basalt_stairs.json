@@ -1,0 +1,33 @@
+{
+  "group": "basalt_decorative",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:basalt"
+    },
+    "3": {
+      "item": "minecraft:basalt"
+    },
+    "4": {
+      "item": "minecraft:basalt"
+    },
+    "6": {
+      "item": "minecraft:basalt"
+    },
+    "7": {
+      "item": "minecraft:basalt"
+    },
+    "8": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:basalt_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:groundmeats/groundpork"
+    },
+	{	
+      "tag": "forge:crops/potato"
+    },
+	{	
+      "tag": "forge:condiments/ketchup"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:hashitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:wooden_trapdoors"
+    },
+    {
+      "item": "create:copper_casing"
+    }
+  ],
+  "result": {
+    "item": "create_things_and_misc:copper_casing_trapdoor",
+    "count": 1
+  }
+}

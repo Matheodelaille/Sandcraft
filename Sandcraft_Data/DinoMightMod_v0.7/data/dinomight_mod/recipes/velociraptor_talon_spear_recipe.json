@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "dinomight_mod:velociraptor_talon"
+    },
+    "4": {
+      "item": "minecraft:red_wool"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dinomight_mod:velociraptor_talon_spear",
+    "count": 1
+  }
+}

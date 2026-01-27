@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:dark_oak_adirondack_chair_recipe",
+      "exlinefurniture:dark_oak_bench_recipe",
+      "exlinefurniture:dark_oak_chair_recipe",
+      "exlinefurniture:dark_oak_chair_black_recipe",
+      "exlinefurniture:dark_oak_chair_blue_recipe",
+      "exlinefurniture:dark_oak_chair_brown_recipe",
+      "exlinefurniture:dark_oak_chair_cyan_recipe",
+      "exlinefurniture:dark_oak_chair_gray_recipe",
+      "exlinefurniture:dark_oak_chair_green_recipe",
+      "exlinefurniture:dark_oak_chair_light_blue_recipe",
+      "exlinefurniture:dark_oak_chair_light_gray_recipe",
+      "exlinefurniture:dark_oak_chair_lime_recipe",
+      "exlinefurniture:dark_oak_chair_magenta_recipe",
+      "exlinefurniture:dark_oak_chair_orange_recipe",
+      "exlinefurniture:dark_oak_chair_pink_recipe",
+      "exlinefurniture:dark_oak_chair_purple_recipe",
+      "exlinefurniture:dark_oak_chair_red_recipe",
+      "exlinefurniture:dark_oak_chair_white_recipe",
+      "exlinefurniture:dark_oak_chair_yellow_recipe",
+      "exlinefurniture:dark_oak_dresser_recipe",
+      "exlinefurniture:dark_oak_table_recipe",
+      "exlinefurniture:dark_oak_glass_table_recipe",
+      "exlinefurniture:dark_oak_log_table_recipe",
+      "exlinefurniture:dark_oak_log_glass_table_recipe",
+      "exlinefurniture:dark_oak_stripped_log_table_recipe",
+      "exlinefurniture:dark_oak_stripped_log_glass_table_recipe",
+      "exlinefurniture:dark_oak_lamp_black_recipe",
+      "exlinefurniture:dark_oak_lamp_blue_recipe",
+      "exlinefurniture:dark_oak_lamp_brown_recipe",
+      "exlinefurniture:dark_oak_lamp_cyan_recipe",
+      "exlinefurniture:dark_oak_lamp_gray_recipe",
+      "exlinefurniture:dark_oak_lamp_green_recipe",
+      "exlinefurniture:dark_oak_lamp_light_blue_recipe",
+      "exlinefurniture:dark_oak_lamp_light_gray_recipe",
+      "exlinefurniture:dark_oak_lamp_lime_recipe",
+      "exlinefurniture:dark_oak_lamp_magenta_recipe",
+      "exlinefurniture:dark_oak_lamp_orange_recipe",
+      "exlinefurniture:dark_oak_lamp_pink_recipe",
+      "exlinefurniture:dark_oak_lamp_purple_recipe",
+      "exlinefurniture:dark_oak_lamp_red_recipe",
+      "exlinefurniture:dark_oak_lamp_white_recipe",
+      "exlinefurniture:dark_oak_lamp_yellow_recipe",
+      "exlinefurniture:dark_oak_window_web",
+      "exlinefurniture:window_heart_dark_oak",
+      "exlinefurniture:window_sliding_dark_oak",
+      "exlinefurniture:window_dark_oak",
+      "exlinefurniture:shutters_dark_oak"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dark_oak_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

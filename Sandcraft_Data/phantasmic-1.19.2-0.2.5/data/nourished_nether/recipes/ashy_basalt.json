@@ -1,0 +1,19 @@
+{
+  "group": "ashy_basalt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "nourished_nether:ash_lump"
+    },
+    {
+      "item": "nourished_nether:ash_lump"
+    }
+  ],
+  "result": {
+    "item": "nourished_nether:ashy_basalt",
+    "count": 1
+  }
+}

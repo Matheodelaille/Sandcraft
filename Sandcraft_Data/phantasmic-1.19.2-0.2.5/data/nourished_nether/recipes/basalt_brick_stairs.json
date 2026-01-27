@@ -1,0 +1,33 @@
+{
+  "group": "basalt_brick_decorative",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:basalt_bricks"
+    },
+    "3": {
+      "item": "nourished_nether:basalt_bricks"
+    },
+    "4": {
+      "item": "nourished_nether:basalt_bricks"
+    },
+    "6": {
+      "item": "nourished_nether:basalt_bricks"
+    },
+    "7": {
+      "item": "nourished_nether:basalt_bricks"
+    },
+    "8": {
+      "item": "nourished_nether:basalt_bricks"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:basalt_brick_stairs",
+    "count": 4
+  }
+}

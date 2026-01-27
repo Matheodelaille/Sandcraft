@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:rawchicken"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    },
+	{	
+      "tag": "forge:onions"
+    },
+	{	
+      "tag": "forge:honey"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:gingerchickenitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SPS",
+        "PTP",
+        "S S"
+    ],
+    "key": {
+        "S": { "tag": "forge:rods/wooden" },
+        "P": { "tag": "forge:paper" },
+        "T": { "item": "minecraft:torch" }
+    },
+    "result": {
+        "item": "terraqueous:paper_lantern",
+        "nbt": { "rgb16": 4095, "rgbsimple": 0 }
+    }
+}

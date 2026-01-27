@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WPW",
+        "WSW",
+        "WPW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:acacia_planks"
+        },
+        "P": {
+            "item": "minecraft:glass_pane"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:acacia_window_sliding",
+        "count": 8
+    }
+}

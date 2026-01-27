@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:assembly_drill",
+  "input": {
+    "item": "pneumaticcraft:unassembled_netherite_drill_bit"
+  },
+  "program": "drill",
+  "result": {
+    "item": "pneumaticcraft:drill_bit_netherite"
+  }
+}

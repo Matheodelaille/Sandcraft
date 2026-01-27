@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "WWW"
+    ],
+    
+    "key":
+    {
+        
+        "W":
+        {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:iron_bridge_pier",
+        "count": 3
+    }
+}

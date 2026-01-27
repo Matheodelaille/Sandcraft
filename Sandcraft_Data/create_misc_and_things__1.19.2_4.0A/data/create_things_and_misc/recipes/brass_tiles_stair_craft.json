@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "create_things_and_misc:brass_tiles"
+    },
+    "3": {
+      "item": "create_things_and_misc:brass_tiles"
+    },
+    "4": {
+      "item": "create_things_and_misc:brass_tiles"
+    },
+    "6": {
+      "item": "create_things_and_misc:brass_tiles"
+    },
+    "7": {
+      "item": "create_things_and_misc:brass_tiles"
+    },
+    "8": {
+      "item": "create_things_and_misc:brass_tiles"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:brass_tiles_stair",
+    "count": 4
+  }
+}

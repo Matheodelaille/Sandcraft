@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "shutters",
+	
+    "pattern":
+    [
+        "B",
+        "B",
+        "B"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:spruce_trapdoor"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:spruce_shutter",
+        "count": 3
+    }
+}
+
+

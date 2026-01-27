@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "stalwart_dungeons:soul_tiles"
+  },
+  "result": "stalwart_dungeons:soul_tiles_slab"
+}

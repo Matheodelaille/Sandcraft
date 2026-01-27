@@ -1,0 +1,25 @@
+{
+  "type": "createbigcannons:melting",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "createbigcannons:block_bronze"
+      }
+    }
+  ],
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "createbigcannons:block_bronze"
+    }
+  ],
+  "processingTime": 1620,
+  "results": [
+    {
+      "amount": 810,
+      "fluid": "createbigcannons:molten_bronze"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_capital",
+    "pattern": [
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": { "item": "terraqueous:light_cloud" }
+    },
+    "result": {
+        "item": "terraqueous:light_cloud_capital"
+    }
+}

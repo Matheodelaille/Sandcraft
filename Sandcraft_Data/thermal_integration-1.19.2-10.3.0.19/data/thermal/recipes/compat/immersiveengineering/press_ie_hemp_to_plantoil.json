@@ -1,0 +1,21 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:seed"
+    }
+  ],
+  "result": [
+    {
+      "fluid": "immersiveengineering:plantoil",
+      "amount": 120
+    }
+  ],
+  "energy": 800,
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "mod_immersiveengineering"
+    }
+  ]
+}

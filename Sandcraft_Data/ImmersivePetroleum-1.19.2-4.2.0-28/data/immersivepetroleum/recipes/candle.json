@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": {
+      "tag": "forge:string"
+    },
+    "w": {
+      "tag": "forge:wax/paraffin"
+    }
+  },
+  "pattern": [
+    "s",
+    "w"
+  ],
+  "result": {
+    "item": "minecraft:candle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "forge:dyes/purple"
+    },
+    "E": {
+      "item": "pneumaticcraft:transistor"
+    },
+    "X": {
+      "tag": "forge:chests/wooden"
+    }
+  },
+  "pattern": [
+    "CEC",
+    "EXE",
+    "CEC"
+  ],
+  "result": {
+    "count": 16,
+    "item": "pneumaticcraft:network_node"
+  }
+}

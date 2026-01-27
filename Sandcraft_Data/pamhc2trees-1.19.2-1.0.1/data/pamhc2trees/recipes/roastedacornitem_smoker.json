@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smoking",
+"ingredient": {"tag": "forge:crops/acorn"},
+	"result": "pamhc2trees:roastedacornitem",
+	"experience": 0.35,
+	"cookingtime": 100
+
+}

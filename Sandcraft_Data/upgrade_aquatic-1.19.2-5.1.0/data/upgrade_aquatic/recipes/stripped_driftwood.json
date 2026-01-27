@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "upgrade_aquatic:stripped_driftwood_log"
+    }
+  },
+  "result": {
+    "item": "upgrade_aquatic:stripped_driftwood",
+    "count": 3
+  }
+}

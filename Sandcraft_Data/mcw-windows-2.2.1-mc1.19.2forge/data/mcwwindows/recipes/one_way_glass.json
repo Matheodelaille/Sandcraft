@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	
+    "pattern":
+    [
+		"BBA",
+		"BBA",
+		"BBA"
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:glass"
+        },
+		
+		"A":
+        {
+            "item": "minecraft:black_dye"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:one_way_glass",
+        "count": 6
+    }
+}
+
+

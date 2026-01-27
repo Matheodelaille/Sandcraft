@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B ",
+    "##",
+    "RR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    "#": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "B": {
+      "item": "minecraft:book",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:kit_service_durability_large",
+    "count": 1
+  }
+}

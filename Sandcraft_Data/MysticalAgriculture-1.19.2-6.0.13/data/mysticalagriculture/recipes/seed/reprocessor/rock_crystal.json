@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:rock_crystal"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:rock_crystal_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:rock_crystal_essence"
+  }
+}

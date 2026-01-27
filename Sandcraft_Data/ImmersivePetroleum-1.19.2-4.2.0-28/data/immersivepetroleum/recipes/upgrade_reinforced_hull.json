@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "forge:storage_blocks/steel"
+    },
+    "P": {
+      "tag": "forge:plates/steel"
+    }
+  },
+  "pattern": [
+    "P P",
+    "PBP"
+  ],
+  "result": {
+    "item": "immersivepetroleum:upgrade_reinforced_hull"
+  }
+}

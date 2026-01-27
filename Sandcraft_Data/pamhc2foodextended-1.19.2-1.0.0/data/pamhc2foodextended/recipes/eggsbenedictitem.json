@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "tag": "forge:egg"
+    },
+	{	
+      "item": "pamhc2foodextended:biscuititem"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:butter"
+    },
+	{	
+      "tag": "forge:crops/lemon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:eggsbenedictitem",
+	"count": 1}
+	
+}

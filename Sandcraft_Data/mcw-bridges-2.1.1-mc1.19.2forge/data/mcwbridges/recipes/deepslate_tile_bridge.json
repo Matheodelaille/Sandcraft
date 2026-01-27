@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:deepslate_tile_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:deepslate_tile_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:deepslate_tile_bridge",
+        "count": 4
+    }
+}

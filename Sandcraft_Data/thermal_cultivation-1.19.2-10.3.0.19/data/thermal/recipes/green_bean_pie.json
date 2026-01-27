@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "G": {
+      "tag": "forge:crops/green_bean"
+    },
+    "M": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "O": {
+      "tag": "forge:crops/onion"
+    },
+    "W": {
+      "tag": "forge:crops/wheat"
+    }
+  },
+  "pattern": [
+    "GMG",
+    "OEO",
+    " W "
+  ],
+  "result": {
+    "item": "thermal:green_bean_pie"
+  }
+}

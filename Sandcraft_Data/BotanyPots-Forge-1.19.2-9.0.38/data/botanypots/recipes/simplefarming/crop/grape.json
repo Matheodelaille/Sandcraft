@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:item_exists","values":["simplefarming:grape_seeds"]}],"type":"botanypots:crop","seed":{"item":"simplefarming:grape_seeds"},"categories":["dirt","farmland"],"growthTicks":1200,"display":{"type":"botanypots:aging","block":"simplefarming:grapevine","rotation":"X_180"},"drops":[{"chance":1.00,"output":{"item":"simplefarming:grapes"}}]}

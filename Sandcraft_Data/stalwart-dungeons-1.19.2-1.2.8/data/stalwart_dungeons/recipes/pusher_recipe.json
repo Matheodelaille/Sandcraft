@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "stalwart_dungeons:soul_tiles"
+    },
+    "3": {
+      "item": "stalwart_dungeons:soul_tiles"
+    },
+    "4": {
+      "item": "minecraft:piston"
+    },
+    "5": {
+      "item": "stalwart_dungeons:soul_tiles"
+    },
+    "7": {
+      "item": "stalwart_dungeons:soul_tiles"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:pusher",
+    "count": 1
+  }
+}

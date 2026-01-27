@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "planks",
+    "ingredients": [
+        { "tag": "terraqueous:lemon_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:lemon_planks",
+        "count": 4
+    }
+}

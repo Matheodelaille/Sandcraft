@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "desk",
+    "pattern":
+    [
+        "AAA",
+        "B B"                
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:crimson_stem"
+        }, 
+		
+		
+        "B":
+        {
+            "item": "minecraft:crimson_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:crimson_desk",
+        "count": 2
+    }
+}
+
+

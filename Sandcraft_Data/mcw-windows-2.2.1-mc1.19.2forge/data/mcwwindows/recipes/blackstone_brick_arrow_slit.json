@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "arrow_slit",
+	
+    "pattern":
+    [
+        " AA",
+        " BB",
+        " AA"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:polished_blackstone_brick_slab"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:polished_blackstone_bricks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:blackstone_brick_arrow_slit",
+        "count": 3
+    }
+}
+
+

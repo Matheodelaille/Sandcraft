@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "terraqueous:burnium",
+    "ingredients": [
+        { "tag": "forge:dusts/coal" },
+        { "item": "minecraft:blaze_powder" }
+    ],
+    "result": {
+        "item": "terraqueous:burnium_dust"
+    }
+}

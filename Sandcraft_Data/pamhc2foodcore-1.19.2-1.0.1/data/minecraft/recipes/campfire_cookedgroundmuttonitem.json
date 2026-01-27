@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "pamhc2foodcore:groundmuttonitem"
+  },
+  "result": "pamhc2foodcore:cookedgroundmuttonitem"
+}

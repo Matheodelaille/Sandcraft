@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "chimes:iron_chimes"
+    ]
+  },
+  "criteria": {
+    "has_wood_slabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:iron_ingot"]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "chimes:iron_chimes"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wood_slabs",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cloud_stairs",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:dense_cloud" }
+    },
+    "result": {
+        "item": "terraqueous:dense_cloud_stairs",
+        "count": 4
+    }
+}

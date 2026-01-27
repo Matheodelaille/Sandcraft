@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:squigs_claws"
+    },
+    "1": {
+      "item": "orcz:orc_steel"
+    },
+    "2": {
+      "item": "orcz:orc_steel"
+    },
+    "3": {
+      "item": "minecraft:ender_pearl"
+    },
+    "4": {
+      "item": "orcz:orceye"
+    },
+    "5": {
+      "item": "orcz:orc_steel"
+    },
+    "6": {
+      "item": "orcz:orcteeth_tool_sword"
+    },
+    "7": {
+      "item": "minecraft:ender_pearl"
+    },
+    "8": {
+      "item": "orcz:squigs_claws"
+    }
+  },
+  "result": {
+    "item": "orcz:orc_steel_sword",
+    "count": 1
+  }
+}

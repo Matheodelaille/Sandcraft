@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+	{	
+      "item": "pamhc2foodextended:mochiitem"
+    },
+	{	
+      "item": "pamhc2foodextended:mochiitem"
+    },
+	{	
+      "item": "pamhc2foodextended:mochiitem"
+    },
+	{	
+      "item": "minecraft:stick"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:dangoitem",
+	"count": 1}
+	
+}

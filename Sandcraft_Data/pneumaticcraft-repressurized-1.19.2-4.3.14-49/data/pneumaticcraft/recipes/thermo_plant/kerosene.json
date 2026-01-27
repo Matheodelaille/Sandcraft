@@ -1,0 +1,17 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "exothermic": false,
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "amount": 100,
+    "tag": "forge:diesel"
+  },
+  "fluid_output": {
+    "amount": 80,
+    "fluid": "pneumaticcraft:kerosene"
+  },
+  "pressure": 2.0,
+  "temperature": {
+    "min_temp": 573
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:gray_terracotta"
+    },
+    "result": "mcwroofs:gray_terracotta_upper_lower_roof",
+    "group": "roofs",
+    "count": 1
+}

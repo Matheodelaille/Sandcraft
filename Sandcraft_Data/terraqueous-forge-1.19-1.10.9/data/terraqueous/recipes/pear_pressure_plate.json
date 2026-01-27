@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_pressure_plate",
+    "pattern": [
+        "##"
+    ],
+    "key": {
+        "#": { "item": "terraqueous:pear_planks" }
+    },
+    "result": {
+        "item": "terraqueous:pear_pressure_plate"
+    }
+}

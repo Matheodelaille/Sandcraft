@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:rawpork"
+    },
+	{	
+      "tag": "forge:cookingoil"
+    },
+	{	
+      "tag": "forge:crops/spiceleaf"
+    }
+	
+	],
+	
+	"result": {"item": "pamhc2foodextended:cracklinsitem",
+	"count": 1}
+	
+}

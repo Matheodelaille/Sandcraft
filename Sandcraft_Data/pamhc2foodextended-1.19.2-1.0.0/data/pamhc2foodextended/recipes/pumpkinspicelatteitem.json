@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+	{	
+      "tag": "forge:crops/pumpkin"
+    },
+	{	
+      "tag": "forge:milk"
+    },
+	{	
+      "item": "pamhc2foodextended:espressoitem"
+    },
+	{	
+      "tag": "forge:spices/groundnutmeg"
+    },
+	{	
+      "tag": "forge:spices/groundcinnamon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pumpkinspicelatteitem",
+	"count": 1}
+	
+}

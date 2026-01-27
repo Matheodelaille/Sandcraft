@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/iron"
+    },
+    "*": {
+      "item": "minecraft:iron_bars"
+    },
+    "X": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    }
+  },
+  "pattern": [
+    "*X*",
+    "###"
+  ],
+  "result": {
+    "item": "valhelsia_structures:soul_brazier"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:jungle_slab"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:orange_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:jungle_chair_orange",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "soulquartzbricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "1": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "2": {
+      "item": "nourished_nether:soul_quartz_block"
+    },
+    "3": {
+      "item": "nourished_nether:soul_quartz_block"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:soul_quartz_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "ectoplasm_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "1": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "2": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "3": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "4": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "5": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "6": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "7": {
+      "item": "nourished_nether:ectoplasm"
+    },
+    "8": {
+      "item": "nourished_nether:ectoplasm"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:ectoplasm_block",
+    "count": 1
+  }
+}

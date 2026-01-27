@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "1": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "2": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "3": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "4": {
+      "item": "stalwart_dungeons:void_crystal"
+    },
+    "5": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "6": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "7": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    },
+    "8": {
+      "item": "stalwart_dungeons:purpur_bricks"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:teleporter",
+    "count": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_leaves"
+    },
+    "2": {
+      "item": "minecraft:oak_leaves"
+    },
+    "3": {
+      "item": "minecraft:oak_leaves"
+    },
+    "4": {
+      "item": "minecraft:oak_leaves"
+    },
+    "5": {
+      "item": "minecraft:oak_leaves"
+    },
+    "6": {
+      "item": "minecraft:oak_leaves"
+    },
+    "7": {
+      "item": "minecraft:oak_leaves"
+    },
+    "8": {
+      "item": "minecraft:oak_leaves"
+    }
+  },
+  "result": {
+    "item": "orcz:great_jungle_armour_chestplate",
+    "count": 1
+  }
+}

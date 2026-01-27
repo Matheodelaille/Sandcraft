@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "terraqueous:burnium",
+    "ingredients": [
+        { "tag": "terraqueous:burnium_blocks" }
+    ],
+    "result": {
+        "item": "terraqueous:burnium_gem",
+        "count": 9
+    }
+}

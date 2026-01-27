@@ -1,0 +1,26 @@
+{
+  "group": "warped_nether_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nourished_nether:warped_nether_brick"
+    },
+    "1": {
+      "item": "nourished_nether:warped_nether_brick"
+    },
+    "2": {
+      "item": "nourished_nether:warped_nether_brick"
+    },
+    "3": {
+      "item": "nourished_nether:warped_nether_brick"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:warped_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ferdinandsflowers:jack_o_lantern_light"
+    }
+  ],
+  "result": {
+    "item": "ferdinandsflowers:jack_o_lantern_light_fan"
+  }
+}

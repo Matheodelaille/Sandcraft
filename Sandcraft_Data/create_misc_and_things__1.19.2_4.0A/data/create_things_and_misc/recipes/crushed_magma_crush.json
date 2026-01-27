@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_things_and_misc:crushed_magma",
+      "count": 2
+    },
+    {
+      "item": "create_things_and_misc:crushed_magma",
+      "chance": 0.25
+    },
+    {
+      "item": "create:scoria",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 450
+}

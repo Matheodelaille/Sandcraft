@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_magenta_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:maroon_mallow",
+              "ferdinandsflowers:magenta_zinnia",
+              "ferdinandsflowers:fuchsia",
+              "ferdinandsflowers:magenta_clover",
+              "ferdinandsflowers:cosmos",
+              "ferdinandsflowers:magenta_orchid",
+              "ferdinandsflowers:gladiola",
+              "ferdinandsflowers:quince",
+              "ferdinandsflowers:magenta_sweet_peas",
+              "ferdinandsflowers:bright_magenta_sweet_peas",
+              "ferdinandsflowers:magenta_larkspur",
+              "ferdinandsflowers:desert_sand_verbena",
+              "ferdinandsflowers:fuchsia_small"
+
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:magenta_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_magenta_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:magenta"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "slabs",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sea_lantern"
+        }
+    },
+    "result": {
+        "item": "mcwlights:sea_lantern_slab",
+        "count": 6
+    }
+}

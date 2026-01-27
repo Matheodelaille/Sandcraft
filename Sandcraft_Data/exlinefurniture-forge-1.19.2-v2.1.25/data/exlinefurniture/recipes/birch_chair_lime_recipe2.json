@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lime_carpet"
+        },
+        {
+            "item": "minecraft:lime_carpet"
+        },
+        {
+            "item": "exlinefurniture:birch_chair"
+        }
+    ],
+    "result": {
+        "item": "exlinefurniture:birch_chair_lime",
+        "count":1
+    }
+}

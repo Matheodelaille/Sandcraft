@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "R",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:circuit_logic",
+      "count": 1
+    },
+    "F": {
+      "item": "viescraftmachines:machine_parts",
+      "count": 1
+    },
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:tool_ignition_key",
+    "count": 1
+  }
+}

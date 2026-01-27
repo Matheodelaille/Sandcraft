@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "45 ",
+    "123"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:butters"
+    },
+    "2": {
+      "tag": "forge:greenbeans"
+    },
+    "3": {
+      "tag": "forge:gingers"
+    },
+    "4": {
+      "tag": "forge:salts"
+    },
+    "5": {
+      "item": "croptopia:pepper"
+    }
+  },
+  "result": {
+    "item": "croptopia:buttered_green_beans",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wood_bowl",
+  "key": {
+    "#": {
+      "tag": "handcrafted:boards"
+    }
+  },
+  "pattern": [
+    "# #",
+    " # ",
+    "   "
+  ],
+  "result": {
+    "count": 3,
+    "item": "handcrafted:wood_bowl"
+  }
+}

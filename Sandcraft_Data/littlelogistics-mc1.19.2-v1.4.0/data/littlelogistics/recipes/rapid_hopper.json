@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "$": {
+      "item": "minecraft:gold_ingot"
+    },
+    "_": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "pattern": [
+    "$_$",
+    " # "
+  ],
+  "result": {
+    "item": "littlelogistics:rapid_hopper"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "environmental:yak_hair"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "environmental:yak_hair_rug"
+  }
+}

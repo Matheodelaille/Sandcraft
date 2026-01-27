@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pneumaticcraft:guard_drone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_turbine_rotor": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pneumaticcraft:turbine_rotor"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_turbine_rotor",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pneumaticcraft:guard_drone"
+    ]
+  }
+}

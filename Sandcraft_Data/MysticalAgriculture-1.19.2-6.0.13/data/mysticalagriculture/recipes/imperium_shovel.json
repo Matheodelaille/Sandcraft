@@ -1,0 +1,23 @@
+{
+  "type": "cucumber:shaped_transfer_damage",
+  "transfer_nbt": true,
+  "pattern": [
+    " G ",
+    "ISI",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "mysticalagriculture:imperium_gemstone"
+    },
+    "I": {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    "S": {
+      "item": "mysticalagriculture:tertium_shovel"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_shovel"
+  }
+}

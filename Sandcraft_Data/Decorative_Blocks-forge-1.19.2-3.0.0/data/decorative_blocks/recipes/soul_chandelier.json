@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_chandeliers",
+  "key": {
+    "#": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "decorative_blocks:soul_chandelier"
+  }
+}

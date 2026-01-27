@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:flour"
+    },
+	{	
+      "tag": "forge:milk"
+    },
+	{	
+      "tag": "forge:salt"
+    },
+	{	
+      "tag": "forge:butter"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:damperitem",
+	"count": 1}
+	
+}

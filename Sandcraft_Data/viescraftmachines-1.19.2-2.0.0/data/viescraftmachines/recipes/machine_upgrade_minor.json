@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AKA",
+    "DED",
+    "AKA"
+  ],
+  "key": {
+    "K": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "A": {
+      "item": "viescraftmachines:circuit_adaptive",
+      "count": 1
+    },
+    "D": {
+      "item": "minecraft:diamond",
+      "count": 1
+    },
+    "E": {
+      "item": "minecraft:ender_eye",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:machine_upgrade_minor",
+    "count": 1
+  }
+}

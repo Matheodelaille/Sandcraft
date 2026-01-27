@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:reprocessor",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:platinum"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:platinum_seeds"
+  },
+  "result": {
+    "count": 2,
+    "item": "mysticalagriculture:platinum_essence"
+  }
+}

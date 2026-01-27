@@ -1,0 +1,43 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:enchantment_applicator"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "B": {
+            "item": "minecraft:anvil"
+          },
+          "G": {
+            "tag": "forge:gears/gold"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          }
+        },
+        "pattern": [
+          "PPP",
+          "BMB",
+          "GBG"
+        ],
+        "result": {
+          "item": "industrialforegoing:enchantment_applicator"
+        }
+      }
+    }
+  ]
+}

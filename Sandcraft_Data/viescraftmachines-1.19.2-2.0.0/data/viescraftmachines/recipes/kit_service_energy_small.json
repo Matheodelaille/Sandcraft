@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B ",
+    "#R"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    "#": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "B": {
+      "item": "minecraft:paper",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:kit_service_energy_small",
+    "count": 1
+  }
+}

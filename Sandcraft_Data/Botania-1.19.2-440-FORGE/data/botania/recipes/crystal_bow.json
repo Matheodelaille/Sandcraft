@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "botania:dragonstone_gems"
+    },
+    "S": {
+      "item": "botania:mana_string"
+    },
+    "T": {
+      "item": "botania:livingwood_twig"
+    }
+  },
+  "pattern": [
+    " DS",
+    "T S",
+    " DS"
+  ],
+  "result": {
+    "item": "botania:crystal_bow"
+  }
+}

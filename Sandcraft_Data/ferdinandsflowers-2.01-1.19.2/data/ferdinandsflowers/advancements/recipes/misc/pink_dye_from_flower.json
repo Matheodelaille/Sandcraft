@@ -1,0 +1,59 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pink_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:pink_petticoat",
+              "ferdinandsflowers:pink_clover",
+              "ferdinandsflowers:pink_geranium",
+              "ferdinandsflowers:echinacea",
+              "ferdinandsflowers:light_pink_geranium",
+              "ferdinandsflowers:lewisia",
+              "ferdinandsflowers:bleeding_heart",
+              "ferdinandsflowers:cosmos",
+              "ferdinandsflowers:hawthorne",
+              "ferdinandsflowers:ornamental_cherry",
+              "ferdinandsflowers:mixed_pink_sweet_peas",
+              "ferdinandsflowers:tall_cosmos",
+              "ferdinandsflowers:pink_larkspur",
+              "ferdinandsflowers:light_pink_larkspur",
+              "ferdinandsflowers:peach_gladiola",
+              "ferdinandsflowers:pink_desert_sand_verbena",
+              "ferdinandsflowers:engelmanns_hedgehog_cactus",
+              "ferdinandsflowers:devils_claw",
+              "ferdinandsflowers:tall_cactus",
+              "ferdinandsflowers:snapdragon_pink",
+              "ferdinandsflowers:clover_flowers",
+              "ferdinandsflowers:nasturtium_pink",
+              "ferdinandsflowers:flowering_current",
+              "ferdinandsflowers:buckwheat",
+              "ferdinandsflowers:rock_rose",
+              "ferdinandsflowers:rock_rose_orchid"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:pink_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_pink_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:pink"
+    ]
+  }
+}

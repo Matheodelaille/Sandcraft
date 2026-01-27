@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mcwbridges:deepslate_tile_bridge_stair"
+        }
+    ],
+    "result": {
+        "item": "mcwbridges:deepslate_tile_bridge",
+        "count": 1
+    }
+}

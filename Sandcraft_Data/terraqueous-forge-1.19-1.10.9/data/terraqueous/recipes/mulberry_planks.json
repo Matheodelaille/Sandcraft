@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "planks",
+    "ingredients": [
+        { "tag": "terraqueous:mulberry_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:mulberry_planks",
+        "count": 4
+    }
+}

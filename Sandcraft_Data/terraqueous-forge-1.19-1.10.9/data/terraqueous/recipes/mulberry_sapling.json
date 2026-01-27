@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "saplings",
+    "ingredients": [
+        { "item": "terraqueous:mulberry" },
+        { "item": "terraqueous:mulberry_leaves" },
+        { "tag": "terraqueous:mulberry_logs" }
+    ],
+    "result": {
+        "item": "terraqueous:mulberry_sapling"
+    }
+}

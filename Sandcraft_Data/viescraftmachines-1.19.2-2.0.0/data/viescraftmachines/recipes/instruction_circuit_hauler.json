@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B#A",
+    " PA",
+    " #R"
+  ],
+  "key": {
+    "A": {
+      "item": "viescraftmachines:circuit_adaptive",
+      "count": 1
+    },
+    "#": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "P": {
+      "item": "minecraft:glass_pane",
+      "count": 1
+    },
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    "B": {
+      "item": "minecraft:book",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:instruction_circuit_hauler",
+    "count": 1
+  }
+}

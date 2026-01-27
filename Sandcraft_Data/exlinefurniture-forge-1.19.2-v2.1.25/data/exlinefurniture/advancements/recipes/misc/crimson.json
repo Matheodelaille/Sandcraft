@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:crimson_adirondack_chair_recipe",
+      "exlinefurniture:crimson_bench_recipe",
+      "exlinefurniture:crimson_chair_recipe",
+      "exlinefurniture:crimson_chair_black_recipe",
+      "exlinefurniture:crimson_chair_blue_recipe",
+      "exlinefurniture:crimson_chair_brown_recipe",
+      "exlinefurniture:crimson_chair_cyan_recipe",
+      "exlinefurniture:crimson_chair_gray_recipe",
+      "exlinefurniture:crimson_chair_green_recipe",
+      "exlinefurniture:crimson_chair_light_blue_recipe",
+      "exlinefurniture:crimson_chair_light_gray_recipe",
+      "exlinefurniture:crimson_chair_lime_recipe",
+      "exlinefurniture:crimson_chair_magenta_recipe",
+      "exlinefurniture:crimson_chair_orange_recipe",
+      "exlinefurniture:crimson_chair_pink_recipe",
+      "exlinefurniture:crimson_chair_purple_recipe",
+      "exlinefurniture:crimson_chair_red_recipe",
+      "exlinefurniture:crimson_chair_white_recipe",
+      "exlinefurniture:crimson_chair_yellow_recipe",
+      "exlinefurniture:crimson_dresser_recipe",
+      "exlinefurniture:crimson_table_recipe",
+      "exlinefurniture:crimson_glass_table_recipe",
+      "exlinefurniture:crimson_log_table_recipe",
+      "exlinefurniture:crimson_log_glass_table_recipe",
+      "exlinefurniture:crimson_stripped_log_table_recipe",
+      "exlinefurniture:crimson_stripped_log_glass_table_recipe",
+      "exlinefurniture:crimson_lamp_black_recipe",
+      "exlinefurniture:crimson_lamp_blue_recipe",
+      "exlinefurniture:crimson_lamp_brown_recipe",
+      "exlinefurniture:crimson_lamp_cyan_recipe",
+      "exlinefurniture:crimson_lamp_gray_recipe",
+      "exlinefurniture:crimson_lamp_green_recipe",
+      "exlinefurniture:crimson_lamp_light_blue_recipe",
+      "exlinefurniture:crimson_lamp_light_gray_recipe",
+      "exlinefurniture:crimson_lamp_lime_recipe",
+      "exlinefurniture:crimson_lamp_magenta_recipe",
+      "exlinefurniture:crimson_lamp_orange_recipe",
+      "exlinefurniture:crimson_lamp_pink_recipe",
+      "exlinefurniture:crimson_lamp_purple_recipe",
+      "exlinefurniture:crimson_lamp_red_recipe",
+      "exlinefurniture:crimson_lamp_white_recipe",
+      "exlinefurniture:crimson_lamp_yellow_recipe",
+      "exlinefurniture:crimson_window_web",
+      "exlinefurniture:window_heart_crimson",
+      "exlinefurniture:window_sliding_crimson",
+      "exlinefurniture:window_crimson",
+      "exlinefurniture:shutters_crimson"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crimson_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

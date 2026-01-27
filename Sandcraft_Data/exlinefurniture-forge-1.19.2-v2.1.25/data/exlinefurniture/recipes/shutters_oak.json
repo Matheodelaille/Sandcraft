@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WSW",
+        "WSW",
+        "WSW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:oak_planks"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:shutters_oak",
+        "count": 8
+    }
+}

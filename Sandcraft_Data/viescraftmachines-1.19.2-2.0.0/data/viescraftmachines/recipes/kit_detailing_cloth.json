@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    "  F",
+    " B#"
+  ],
+  "key": {
+    "#": {
+      "item": "viescraftmachines:circuit_adaptive",
+      "count": 4
+    },
+    "F": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "B": {
+      "item": "minecraft:book",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:kit_detailing_cloth",
+    "count": 1
+  }
+}

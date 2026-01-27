@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:mushrooms"
+    },
+	{	
+      "tag": "forge:cheese"
+    },
+	{	
+      "tag": "forge:toast"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:stuffedmushroomitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+	{	
+      "tag": "forge:dough"
+    },
+	{	
+      "item": "pamhc2foodextended:spagettiandmeatballsitem"
+    },
+	{	
+      "item": "pamhc2foodextended:deviledeggitem"
+    },
+	{	
+      "tag": "forge:sausage"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:timpanoitem",
+	"count": 1}
+	
+}

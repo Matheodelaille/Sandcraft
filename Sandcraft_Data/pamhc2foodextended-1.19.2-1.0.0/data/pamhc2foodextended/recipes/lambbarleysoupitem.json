@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:stock"
+    },
+	{	
+      "tag": "forge:rawmutton"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/carrot"
+    },
+	{	
+      "tag": "forge:crops/barley"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:lambbarleysoupitem",
+	"count": 1}
+	
+}

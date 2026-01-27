@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "log_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:oak_fence"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:oak_log_bridge_middle",
+        "count": 4
+    }
+}

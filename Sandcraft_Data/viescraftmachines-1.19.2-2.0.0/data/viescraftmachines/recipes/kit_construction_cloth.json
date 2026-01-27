@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F#F",
+    "#C#",
+    "F#F"
+  ],
+  "key": {
+    "F": {
+      "item": "viescraftmachines:kit_framework",
+      "count": 1
+    },
+    "C": {
+      "item": "viescraftmachines:circuit_logic",
+      "count": 1
+    },
+    "#": {
+      "tag": "minecraft:wool",
+      "count": 1
+    }
+  },
+  "result": {
+    "item": "viescraftmachines:kit_construction_cloth",
+    "count": 1
+  }
+}

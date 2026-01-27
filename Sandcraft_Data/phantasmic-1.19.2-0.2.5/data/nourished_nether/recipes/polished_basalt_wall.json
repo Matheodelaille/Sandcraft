@@ -1,0 +1,32 @@
+{
+  "group": "polished_basalt_deco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_basalt"
+    },
+    "1": {
+      "item": "minecraft:polished_basalt"
+    },
+    "2": {
+      "item": "minecraft:polished_basalt"
+    },
+    "3": {
+      "item": "minecraft:polished_basalt"
+    },
+    "4": {
+      "item": "minecraft:polished_basalt"
+    },
+    "5": {
+      "item": "minecraft:polished_basalt"
+    }
+  },
+  "result": {
+    "item": "nourished_nether:polished_basalt_wall",
+    "count": 6
+  }
+}

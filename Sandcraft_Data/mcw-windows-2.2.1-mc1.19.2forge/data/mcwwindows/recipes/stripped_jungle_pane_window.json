@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "windows_pane",
+	
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwwindows:window_base"
+        },    
+
+		
+        "B":
+        {
+            "item": "minecraft:stripped_jungle_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:stripped_jungle_pane_window",
+        "count": 8
+    }
+}
+
+

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "exoticbirds:raw_birdmeat"
+  },
+  "result": "exoticbirds:cooked_birdmeat",
+  "experience": 0.2,
+  "cookingtime": 100
+}

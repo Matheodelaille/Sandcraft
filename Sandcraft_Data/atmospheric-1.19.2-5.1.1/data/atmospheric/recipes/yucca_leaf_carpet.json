@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "atmospheric:yucca_leaves"
+    }
+  },
+  "result": {
+    "item": "atmospheric:yucca_leaf_carpet",
+    "count": 3
+  },
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+       "flag": "leaf_carpet"
+    }
+  ]
+} 

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "1": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    },
+    "2": {
+      "item": "stalwart_dungeons:nether_bricks_and_netherrack"
+    }
+  },
+  "result": {
+    "item": "stalwart_dungeons:nether_bricks_and_netherrack_slab",
+    "count": 6
+  }
+}

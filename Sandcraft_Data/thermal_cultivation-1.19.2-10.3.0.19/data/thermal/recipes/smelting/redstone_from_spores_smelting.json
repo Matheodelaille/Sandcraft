@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "thermal:redstone_mushroom_spores"
+  },
+  "result": "minecraft:redstone"
+}

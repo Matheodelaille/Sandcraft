@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_white_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ferdinandsflowers:white_daffodil",
+              "ferdinandsflowers:narcissus",
+              "ferdinandsflowers:calla_lily",
+              "ferdinandsflowers:lily_of_the_valley",
+              "ferdinandsflowers:chrysanthenum",
+              "ferdinandsflowers:mendocino_poppy",
+              "ferdinandsflowers:tall_calla_lily",
+              "ferdinandsflowers:white_larkspur",
+              "ferdinandsflowers:white_tinsel_flower",
+              "ferdinandsflowers:yucca_flower",
+              "ferdinandsflowers:snapdragon_white",
+              "ferdinandsflowers:beach_strawberry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ferdinandsflowers:white_dye_from_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_white_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ferdinandsflowers:white"
+    ]
+  }
+}

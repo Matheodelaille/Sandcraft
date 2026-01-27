@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:birch_adirondack_chair_recipe",
+      "exlinefurniture:birch_bench_recipe",
+      "exlinefurniture:birch_chair_recipe",
+      "exlinefurniture:birch_chair_black_recipe",
+      "exlinefurniture:birch_chair_blue_recipe",
+      "exlinefurniture:birch_chair_brown_recipe",
+      "exlinefurniture:birch_chair_cyan_recipe",
+      "exlinefurniture:birch_chair_gray_recipe",
+      "exlinefurniture:birch_chair_green_recipe",
+      "exlinefurniture:birch_chair_light_blue_recipe",
+      "exlinefurniture:birch_chair_light_gray_recipe",
+      "exlinefurniture:birch_chair_lime_recipe",
+      "exlinefurniture:birch_chair_magenta_recipe",
+      "exlinefurniture:birch_chair_orange_recipe",
+      "exlinefurniture:birch_chair_pink_recipe",
+      "exlinefurniture:birch_chair_purple_recipe",
+      "exlinefurniture:birch_chair_red_recipe",
+      "exlinefurniture:birch_chair_white_recipe",
+      "exlinefurniture:birch_chair_yellow_recipe",
+      "exlinefurniture:birch_dresser_recipe",
+      "exlinefurniture:birch_table_recipe",
+      "exlinefurniture:birch_glass_table_recipe",
+      "exlinefurniture:birch_log_table_recipe",
+      "exlinefurniture:birch_log_glass_table_recipe",
+      "exlinefurniture:birch_stripped_log_table_recipe",
+      "exlinefurniture:birch_stripped_log_glass_table_recipe",
+      "exlinefurniture:birch_lamp_black_recipe",
+      "exlinefurniture:birch_lamp_blue_recipe",
+      "exlinefurniture:birch_lamp_brown_recipe",
+      "exlinefurniture:birch_lamp_cyan_recipe",
+      "exlinefurniture:birch_lamp_gray_recipe",
+      "exlinefurniture:birch_lamp_green_recipe",
+      "exlinefurniture:birch_lamp_light_blue_recipe",
+      "exlinefurniture:birch_lamp_light_gray_recipe",
+      "exlinefurniture:birch_lamp_lime_recipe",
+      "exlinefurniture:birch_lamp_magenta_recipe",
+      "exlinefurniture:birch_lamp_orange_recipe",
+      "exlinefurniture:birch_lamp_pink_recipe",
+      "exlinefurniture:birch_lamp_purple_recipe",
+      "exlinefurniture:birch_lamp_red_recipe",
+      "exlinefurniture:birch_lamp_white_recipe",
+      "exlinefurniture:birch_lamp_yellow_recipe",
+      "exlinefurniture:birch_window_web",
+      "exlinefurniture:window_heart_birch",
+      "exlinefurniture:window_sliding_birch",
+      "exlinefurniture:window_birch",
+      "exlinefurniture:shutters_birch"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:birch_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

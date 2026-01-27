@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "blinds",
+	
+    "pattern":
+    [
+        "AAA",
+        "BBB",
+        "BBB"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:mangrove_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:mangrove_blinds",
+        "count": 3
+    }
+}
+
+

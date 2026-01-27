@@ -1,0 +1,24 @@
+{
+  "type": "thermal:smelter",
+  "ingredient": {
+    "item": "create:crushed_raw_aluminum"
+  },
+  "result": [
+    {
+      "item": "immersiveengineering:ingot_aluminum",
+      "count": 1
+    }
+  ],
+  "energy_mod": 0.5,
+  "experience": 0.1,
+  "conditions": [
+    {
+      "type": "thermal:flag",
+      "flag": "mod_create"
+    },
+    {
+      "type": "thermal:flag",
+      "flag": "mod_immersiveengineering"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "thermal:peanut_butter"
+    },
+    {
+      "item": "thermal:jelly"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "thermal:pbj_sandwich"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BRB",
+        "BBB"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:campfire"
+        },
+        "B": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:oven",
+        "count": 1
+    }
+}

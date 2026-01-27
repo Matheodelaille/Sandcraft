@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "tag": "ae2:all_nether_quartz"
+    },
+    "c": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "bbb",
+    "ccc"
+  ],
+  "result": {
+    "item": "minecraft:daylight_detector"
+  }
+}

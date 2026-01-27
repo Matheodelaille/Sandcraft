@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinefurniture:spruce_adirondack_chair_recipe",
+      "exlinefurniture:spruce_bench_recipe",
+      "exlinefurniture:spruce_chair_recipe",
+      "exlinefurniture:spruce_chair_black_recipe",
+      "exlinefurniture:spruce_chair_blue_recipe",
+      "exlinefurniture:spruce_chair_brown_recipe",
+      "exlinefurniture:spruce_chair_cyan_recipe",
+      "exlinefurniture:spruce_chair_gray_recipe",
+      "exlinefurniture:spruce_chair_green_recipe",
+      "exlinefurniture:spruce_chair_light_blue_recipe",
+      "exlinefurniture:spruce_chair_light_gray_recipe",
+      "exlinefurniture:spruce_chair_lime_recipe",
+      "exlinefurniture:spruce_chair_magenta_recipe",
+      "exlinefurniture:spruce_chair_orange_recipe",
+      "exlinefurniture:spruce_chair_pink_recipe",
+      "exlinefurniture:spruce_chair_purple_recipe",
+      "exlinefurniture:spruce_chair_red_recipe",
+      "exlinefurniture:spruce_chair_white_recipe",
+      "exlinefurniture:spruce_chair_yellow_recipe",
+      "exlinefurniture:spruce_dresser_recipe",
+      "exlinefurniture:spruce_table_recipe",
+      "exlinefurniture:spruce_glass_table_recipe",
+      "exlinefurniture:spruce_log_table_recipe",
+      "exlinefurniture:spruce_log_glass_table_recipe",
+      "exlinefurniture:spruce_stripped_log_table_recipe",
+      "exlinefurniture:spruce_stripped_log_glass_table_recipe",
+      "exlinefurniture:spruce_lamp_black_recipe",
+      "exlinefurniture:spruce_lamp_blue_recipe",
+      "exlinefurniture:spruce_lamp_brown_recipe",
+      "exlinefurniture:spruce_lamp_cyan_recipe",
+      "exlinefurniture:spruce_lamp_gray_recipe",
+      "exlinefurniture:spruce_lamp_green_recipe",
+      "exlinefurniture:spruce_lamp_light_blue_recipe",
+      "exlinefurniture:spruce_lamp_light_gray_recipe",
+      "exlinefurniture:spruce_lamp_lime_recipe",
+      "exlinefurniture:spruce_lamp_magenta_recipe",
+      "exlinefurniture:spruce_lamp_orange_recipe",
+      "exlinefurniture:spruce_lamp_pink_recipe",
+      "exlinefurniture:spruce_lamp_purple_recipe",
+      "exlinefurniture:spruce_lamp_red_recipe",
+      "exlinefurniture:spruce_lamp_white_recipe",
+      "exlinefurniture:spruce_lamp_yellow_recipe",
+      "exlinefurniture:spruce_window_web",
+      "exlinefurniture:window_heart_spruce",
+      "exlinefurniture:window_sliding_spruce",
+      "exlinefurniture:window_spruce",
+      "exlinefurniture:shutters_spruce"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:spruce_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}

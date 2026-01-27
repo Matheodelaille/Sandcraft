@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 2,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "orcz:orcsteelpowder"
+  },
+  "result": "orcz:orc_steel"
+}

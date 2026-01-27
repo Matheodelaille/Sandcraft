@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PWW",
+        "PPP",
+        "S S"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:mangrove_slab"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:magenta_carpet"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:mangrove_chair_magenta",
+        "count": 1
+    }
+}

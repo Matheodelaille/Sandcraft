@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "grass_topped",
+    
+    "pattern":
+    [
+		"BGB",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:packed_mud"
+        },    
+        
+		"G":
+        {
+            "item": "minecraft:dirt"
+        }, 
+        
+        "B":
+        {
+            "item": "minecraft:mud_bricks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:mud_brick_grass_topped_wall",
+        "count": 6
+    }
+}
+
+

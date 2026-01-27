@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "i": {
+      "tag": "forge:ingots/lead"
+    },
+    "s": {
+      "tag": "forge:rods/lead"
+    }
+  },
+  "pattern": [
+    "isi",
+    "isi"
+  ],
+  "result": {
+    "count": 3,
+    "item": "immersiveposts:fence_lead"
+  }
+}

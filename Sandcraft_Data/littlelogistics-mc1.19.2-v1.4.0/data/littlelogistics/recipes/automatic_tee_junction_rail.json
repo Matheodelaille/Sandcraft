@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "littlelogistics:tee_junction_rail"
+    },
+    {
+      "item": "littlelogistics:receiver_component"
+    }
+  ],
+  "result": {
+    "item": "littlelogistics:automatic_tee_junction_rail"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "group": "cracked_quartz_bricks",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:quartz_bricks"
+  },
+  "result": "nourished_nether:cracked_quartz_bricks"
+}

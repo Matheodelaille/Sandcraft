@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "white_crockery_combo",
+  "ingredients": [
+    {
+      "item": "handcrafted:white_cup"
+    },
+    {
+      "item": "handcrafted:white_plate"
+    }
+  ],
+  "result": {
+    "item": "handcrafted:white_crockery_combo"
+  }
+}

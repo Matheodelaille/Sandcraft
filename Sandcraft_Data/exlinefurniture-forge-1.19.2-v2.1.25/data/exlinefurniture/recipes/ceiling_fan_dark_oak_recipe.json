@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NPN",
+        "PRP",
+        "NPN"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:dark_oak_slab"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "N": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "exlinefurniture:ceiling_fan_dark_oak",
+        "count": 3
+    }
+}

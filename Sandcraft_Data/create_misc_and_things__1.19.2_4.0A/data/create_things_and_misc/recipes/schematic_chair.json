@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "1": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "2": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "4": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "create_things_and_misc:deleted_mod_element",
+    "count": 1
+  }
+}

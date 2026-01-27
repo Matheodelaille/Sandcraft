@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:orc_wood_log"
+    },
+    "1": {
+      "item": "orcz:orc_wood_log"
+    },
+    "2": {
+      "item": "orcz:orc_wood_log"
+    },
+    "3": {
+      "item": "orcz:orc_wood_log"
+    }
+  },
+  "result": {
+    "item": "orcz:orc_wood_wood",
+    "count": 3
+  }
+}

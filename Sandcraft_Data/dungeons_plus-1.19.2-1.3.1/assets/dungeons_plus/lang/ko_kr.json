@@ -1,0 +1,26 @@
+{
+	"filled_map.dungeons_plus:bigger_dungeon": "땅에 묻힌 던전 지도",
+	"filled_map.dungeons_plus:leviathan": "레비아탄 지도",
+	"filled_map.dungeons_plus:snowy_temple": "설원 사원 지도",
+	
+	"dungeons_plus:advancements.adventure.find_tower.title": "배틀 타워?",
+	"dungeons_plus:advancements.adventure.find_tower.description": "흔하진 않지만, 여전히 몹들과 싸울 순 있습니다! (타워를 찾으세요)",
+	
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.title": "이게 바로 던전입니다",
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.description": "몬스터 생성기가 제가 쓰던 것보다도 많군요. (땅에 묻힌 던전을 찾으세요)",
+	
+	"dungeons_plus:advancements.adventure.find_leviathan.title": "고대의 유해",
+	"dungeons_plus:advancements.adventure.find_leviathan.description": "이 녀석은 대퇴골이 부러진 게... 분명합니다. (레비아탄을 찾으세요)",
+	
+	"dungeons_plus:advancements.adventure.find_snowy_temple.title": "눈 속에 파묻혀",
+	"dungeons_plus:advancements.adventure.find_snowy_temple.description": "피라미드는 사막에만 있는 줄 알았는데... (설원 사원을 찾으세요)",
+	
+	"dungeons_plus:advancements.end.find_end_ruins.title": "폐허가 된 엔드",
+	"dungeons_plus:advancements.end.find_end_ruins.description": "그리 길게 머물지는 마세요. (엔드 폐허를 찾으세요)",
+	
+	"dungeons_plus:advancements.adventure.find_warped_garden.title": "비정상적인 무언가",
+	"dungeons_plus:advancements.adventure.find_warped_garden.description": "한 번 들어가 봐요. 뭐 잘못되기라도 하겠어요? (뒤틀린 정원을 찾으세요)",
+	
+	"dungeons_plus:advancements.nether.find_soul_prison.title": "새장 속 눈물",
+	"dungeons_plus:advancements.nether.find_soul_prison.description": "아, 걔네 눈물은 아닙니다. (영혼 감옥을 찾으세요)"
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "counter",
+    "pattern":
+    [
+        "A",
+        "B"	
+    ],
+    
+    "key":
+    { 
+	    "A":
+        {
+            "item": "minecraft:acacia_slab"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:stripped_acacia_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:stripped_acacia_counter",
+        "count": 1
+    }
+}
+
+

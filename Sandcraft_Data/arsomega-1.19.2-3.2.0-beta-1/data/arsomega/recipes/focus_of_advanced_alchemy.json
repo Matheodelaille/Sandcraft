@@ -1,0 +1,54 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "item": "arsomega:focus_of_alchemy"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "arsomega:enchanted_diamond_block"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:enchanted_diamond_block"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/iron"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/iron"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/iron"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/iron"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:glyph_lead_skin"
+      }
+    },
+    {
+      "item": {
+        "item": "arsomega:glyph_lead_skin"
+      }
+    }
+  ],
+  "output": {
+    "item": "arsomega:focus_of_advanced_alchemy"
+  },
+  "sourceCost": 2000
+}

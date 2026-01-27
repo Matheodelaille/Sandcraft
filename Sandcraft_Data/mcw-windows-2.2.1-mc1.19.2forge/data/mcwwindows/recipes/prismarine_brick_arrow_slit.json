@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "arrow_slit",
+	
+    "pattern":
+    [
+        " AA",
+        " BB",
+        " AA"		
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:prismarine_brick_slab"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:prismarine_bricks"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwwindows:prismarine_brick_arrow_slit",
+        "count": 3
+    }
+}
+
+

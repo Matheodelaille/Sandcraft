@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    "C  ",
+    "CBC",
+    " C "
+  ],
+  "result": {
+    "item": "thermal:watering_can"
+  }
+}

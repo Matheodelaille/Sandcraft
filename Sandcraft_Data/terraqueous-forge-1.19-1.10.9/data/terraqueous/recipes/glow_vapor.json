@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "VVV",
+        "VGV",
+        "VVV"
+    ],
+    "key": {
+        "V": { "item": "terraqueous:vapor_block" },
+        "G": { "tag": "forge:dusts/glowstone" }
+    },
+    "result": {
+        "item": "terraqueous:glow_vapor",
+        "nbt": { "rgb16": 330, "rgbsimple": 11 },
+        "count": 2
+    }
+}

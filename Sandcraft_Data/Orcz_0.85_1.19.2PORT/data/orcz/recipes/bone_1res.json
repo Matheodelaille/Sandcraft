@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "orcz:orcteeth"
+    },
+    "1": {
+      "item": "orcz:orcteeth"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "orcz:bone_1",
+    "count": 1
+  }
+}

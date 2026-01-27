@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:water"
+    },
+	{	
+      "tag": "forge:sugar"
+    },
+	{	
+      "tag": "forge:crops/orange"
+    },
+	{	
+      "tag": "forge:crops/vanillabean"
+    },
+	{	
+      "tag": "forge:crops/pistachio"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:turkishdelightitem",
+	"count": 1}
+	
+}
