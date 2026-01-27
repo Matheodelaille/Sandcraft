@@ -89,3 +89,69 @@
     --mc-lighter: #000000;
     --ui-border: #9e9e9e;
 }
+/* --- AJOUT POUR LE MODE SOMBRE ET LES GRILLES --- */
+:root {
+    /* Tes couleurs actuelles (exemple) adaptées en variables */
+    --bg-main: #ffffff;
+    --text-main: #212529;
+    --mc-gui-bg: #c6c6c6;
+    --mc-slot-bg: #8b8b8b;
+}
+
+/* Détection automatique du mode sombre du PC */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-main: #121212;
+        --text-main: #e0e0e0;
+        --mc-slot-bg: #373737;
+    }
+}
+
+/* On applique les variables à ton body existant */
+body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    transition: background 0.3s ease;
+}
+
+/* Rendu Pixel Art pour les icônes Minecraft */
+.pixelated {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+/* Styles pour la table de craft (à ajouter à la fin du fichier) */
+.crafting-container {
+    background-color: var(--mc-gui-bg);
+    border: 4px solid #555;
+    padding: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 2px;
+}
+
+.grid-3x3 {
+    display: grid;
+    grid-template-columns: repeat(3, 40px);
+    grid-template-rows: repeat(3, 40px);
+    gap: 2px;
+}
+
+.mc-slot {
+    width: 40px; height: 40px;
+    background-color: var(--mc-slot-bg);
+    border: 2px solid #373737;
+    border-top-color: #fff; border-left-color: #fff;
+    display: flex; align-items: center; justify-content: center;
+}
+
+.mc-slot img { width: 32px; height: 32px; }
+.result-slot {
+    width: 52px; height: 52px;
+    background-color: var(--mc-slot-bg);
+    border: 3px solid #373737;
+    border-top-color: #fff; border-left-color: #fff;
+    display: flex; align-items: center; justify-content: center;
+}
