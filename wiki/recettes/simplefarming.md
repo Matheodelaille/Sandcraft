@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Apple Pie
 **ID Technique** : `simplefarming:apple_pie` | **Machine** : `minecraft:crafting_shapeless`
 

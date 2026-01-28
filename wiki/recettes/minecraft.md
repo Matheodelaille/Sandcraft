@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Asphalt Slab
 **ID Technique** : `immersivepetroleum:asphalt_slab` | **Machine** : `minecraft:stonecutting`
 

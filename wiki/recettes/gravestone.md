@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Gravestone
 **ID Technique** : `gravestone:gravestone` | **Machine** : `minecraft:crafting_shaped`
 

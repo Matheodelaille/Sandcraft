@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Animal Dictionary
 **ID Technique** : `alexsmobs:animal_dictionary` | **Machine** : `minecraft:crafting_shapeless`
 

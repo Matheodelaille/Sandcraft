@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Aeronos Chest
 **ID Technique** : `ad_astra:aeronos_chest` | **Machine** : `minecraft:crafting_shaped`
 

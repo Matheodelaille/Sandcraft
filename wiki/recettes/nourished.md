@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Ash
 **ID Technique** : `nourished_nether:ash` | **Machine** : `minecraft:crafting_shaped`
 

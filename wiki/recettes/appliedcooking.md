@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Kitchen Station
 **ID Technique** : `appliedcooking:kitchen_station` | **Machine** : `minecraft:crafting_shaped`
 

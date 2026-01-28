@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Chorus Crate
 **ID Technique** : `endersdelight:chorus_crate` | **Machine** : `minecraft:crafting_shaped`
 

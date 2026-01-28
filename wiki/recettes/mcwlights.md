@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Tiki Torch
 **ID Technique** : `mcwlights:acacia_tiki_torch` | **Machine** : `minecraft:crafting_shaped`
 

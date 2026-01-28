@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Abyssal Sacrifice
 **ID Technique** : `cataclysm:abyssal_sacrifice` | **Machine** : `minecraft:crafting_shapeless`
 

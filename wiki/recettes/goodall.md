@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Animal Crate
 **ID Technique** : `goodall:animal_crate` | **Machine** : `minecraft:crafting_shaped`
 

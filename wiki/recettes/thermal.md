@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Amaranth Block
 **ID Technique** : `thermal:amaranth_block` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Explorerscompass
 **ID Technique** : `explorerscompass:explorerscompass` | **Machine** : `crafting_shaped`
 

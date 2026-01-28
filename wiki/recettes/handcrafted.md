@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Bench
 **ID Technique** : `handcrafted:acacia_bench` | **Machine** : `minecraft:crafting_shaped`
 

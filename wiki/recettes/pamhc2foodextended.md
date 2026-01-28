@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Aebleskiversitem
 **ID Technique** : `pamhc2foodextended:aebleskiversitem` | **Machine** : `minecraft:crafting_shapeless`
 

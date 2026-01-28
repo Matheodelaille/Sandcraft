@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Cocoa Beans
 **ID Technique** : `cocoa_beans` | **Machine** : `minecraft:crafting_shapeless`
 

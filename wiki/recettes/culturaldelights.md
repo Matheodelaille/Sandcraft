@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Avocado
 **ID Technique** : `culturaldelights:avocado` | **Machine** : `minecraft:crafting_shapeless`
 

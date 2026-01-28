@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Music Disc Sight
 **ID Technique** : `integrated_stronghold:music_disc_sight` | **Machine** : `minecraft:crafting_shaped`
 

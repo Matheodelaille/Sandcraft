@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Apple Cider
 **ID Technique** : `farmersdelight:apple_cider` | **Machine** : `farmersrespite:brewing`
 

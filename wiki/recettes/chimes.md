@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Amethyst Chimes
 **ID Technique** : `chimes:amethyst_chimes` | **Machine** : `crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Awakened Draconium Crux
 **ID Technique** : `mysticalagradditions:awakened_draconium_crux` | **Machine** : `crafting_shaped`
 

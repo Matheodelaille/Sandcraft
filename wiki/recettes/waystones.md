@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Black Sharestone
 **ID Technique** : `waystones:black_sharestone` | **Machine** : `minecraft:crafting_shapeless`
 

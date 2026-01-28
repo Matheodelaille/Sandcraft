@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Azure Froglass Pane
 **ID Technique** : `naturalist:azure_froglass_pane` | **Machine** : `minecraft:crafting_shaped`
 

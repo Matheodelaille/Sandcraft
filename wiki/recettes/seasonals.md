@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Chocolate Pumpkin Muffin
 **ID Technique** : `seasonals:chocolate_pumpkin_muffin` | **Machine** : `minecraft:crafting_shapeless`
 

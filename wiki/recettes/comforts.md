@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Hammock Black
 **ID Technique** : `comforts:hammock_black` | **Machine** : `minecraft:crafting_shaped`
 

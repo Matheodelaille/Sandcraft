@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Alchemical Diamond Block
 **ID Technique** : `arsomega:alchemical_diamond_block` | **Machine** : `minecraft:crafting_shaped`
 

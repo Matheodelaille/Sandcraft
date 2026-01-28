@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Advanced Inscriber
 **ID Technique** : `ae2things:advanced_inscriber` | **Machine** : `minecraft:crafting_shaped`
 

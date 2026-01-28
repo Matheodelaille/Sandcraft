@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Absorption I Augment
 **ID Technique** : `mysticalagriculture:absorption_i_augment` | **Machine** : `mysticalagriculture:infusion`
 

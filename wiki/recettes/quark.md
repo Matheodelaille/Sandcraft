@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Abacus
 **ID Technique** : `quark:abacus` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Bedside Cabinet
 **ID Technique** : `cfm:acacia_bedside_cabinet` | **Machine** : `minecraft:crafting_shaped`
 

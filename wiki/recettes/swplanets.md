@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Light Saber Base
 **ID Technique** : `swplanets:light_saber_base` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Applejellyitem
 **ID Technique** : `pamhc2foodcore:applejellyitem` | **Machine** : `minecraft:crafting_shapeless`
 

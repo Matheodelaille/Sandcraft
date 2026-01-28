@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Abyssal Amethyst
 **ID Technique** : `aquamirae:abyssal_amethyst` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Armor
 **ID Technique** : `simpleplanes:armor` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Pump
 **ID Technique** : `rangedpumps:pump` | **Machine** : `minecraft:crafting_shaped`
 

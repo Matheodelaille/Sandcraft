@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acan Coralstone Slab
 **ID Technique** : `upgrade_aquatic:acan_coralstone_slab` | **Machine** : `minecraft:crafting_shaped`
 

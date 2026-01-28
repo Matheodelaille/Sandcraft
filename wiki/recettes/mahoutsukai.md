@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Attuned Diamond
 **ID Technique** : `mahoutsukai:attuned_diamond` | **Machine** : `minecraft:crafting_shapeless`
 

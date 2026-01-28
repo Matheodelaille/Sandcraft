@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Axolotl
 **ID Technique** : `plushies:axolotl` | **Machine** : `minecraft:crafting_shaped`
 

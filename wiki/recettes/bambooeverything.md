@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Bamboo Bundle
 **ID Technique** : `bambooeverything:bamboo_bundle` | **Machine** : `crafting_shaped`
 

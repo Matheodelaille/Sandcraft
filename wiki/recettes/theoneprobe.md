@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Diamond Helmet Probe
 **ID Technique** : `theoneprobe:diamond_helmet_probe` | **Machine** : `theoneprobe:probe_helmet`
 

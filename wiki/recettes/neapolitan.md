@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Chocolate Bar
 **ID Technique** : `neapolitan:chocolate_bar` | **Machine** : `minecraft:crafting_shapeless`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Green Stockbar
 **ID Technique** : `simpleshops:green_stockbar` | **Machine** : `minecraft:crafting_shaped`
 

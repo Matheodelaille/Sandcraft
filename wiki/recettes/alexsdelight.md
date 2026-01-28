@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Blossom Soup
 **ID Technique** : `alexsdelight:acacia_blossom_soup` | **Machine** : `farmersdelight:cooking`
 

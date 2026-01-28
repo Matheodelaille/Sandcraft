@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Iron Nugget
 **ID Technique** : `minecraft:iron_nugget` | **Machine** : `cyclic:crusher`
 

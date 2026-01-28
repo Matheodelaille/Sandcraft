@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Music Disc Slither
 **ID Technique** : `idas:music_disc_slither` | **Machine** : `minecraft:crafting_shaped`
 

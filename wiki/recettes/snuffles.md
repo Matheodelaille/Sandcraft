@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Frosty Fluff Carpet
 **ID Technique** : `snuffles:frosty_fluff_carpet` | **Machine** : `minecraft:crafting_shaped`
 

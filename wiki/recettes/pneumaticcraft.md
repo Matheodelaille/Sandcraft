@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Advanced Air Compressor
 **ID Technique** : `pneumaticcraft:advanced_air_compressor` | **Machine** : `pneumaticcraft:compressor_upgrade_crafting`
 

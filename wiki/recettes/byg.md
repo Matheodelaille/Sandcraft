@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Aloe Vera Juice
 **ID Technique** : `byg:aloe_vera_juice` | **Machine** : `minecraft:crafting_shapeless`
 

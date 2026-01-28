@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Beam
 **ID Technique** : `decorative_blocks:acacia_beam` | **Machine** : `corail_woodcutter:woodcutting`
 

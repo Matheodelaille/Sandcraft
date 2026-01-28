@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Advanced Compacting Upgrade
 **ID Technique** : `sophisticatedbackpacks:advanced_compacting_upgrade` | **Machine** : `sophisticatedcore:upgrade_next_tier`
 

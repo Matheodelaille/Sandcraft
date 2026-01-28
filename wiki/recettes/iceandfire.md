@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Ambrosia
 **ID Technique** : `iceandfire:ambrosia` | **Machine** : `minecraft:crafting_shapeless`
 

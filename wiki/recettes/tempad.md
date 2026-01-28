@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Tempad
 **ID Technique** : `tempad:tempad` | **Machine** : `minecraft:crafting_shaped`
 

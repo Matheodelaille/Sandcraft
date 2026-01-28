@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Cedar Button
 **ID Technique** : `totemic:cedar_button` | **Machine** : `minecraft:crafting_shapeless`
 

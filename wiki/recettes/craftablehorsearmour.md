@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Diamond Horse Armor
 **ID Technique** : `minecraft:diamond_horse_armor` | **Machine** : `minecraft:crafting_shaped`
 

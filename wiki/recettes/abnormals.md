@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Cherry Cookie
 **ID Technique** : `abnormals_delight:cherry_cookie` | **Machine** : `minecraft:crafting_shaped`
 

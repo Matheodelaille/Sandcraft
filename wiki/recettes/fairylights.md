@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Candle Lantern
 **ID Technique** : `fairylights:candle_lantern` | **Machine** : `minecraft:crafting_shaped`
 

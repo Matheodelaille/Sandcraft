@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Chiseled Gloomslate
 **ID Technique** : `deeperdarker:chiseled_gloomslate` | **Machine** : `minecraft:crafting_shaped`
 

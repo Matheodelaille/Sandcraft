@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Planks
 **ID Technique** : `minecraft:acacia_planks` | **Machine** : `minecraft:crafting_shaped`
 

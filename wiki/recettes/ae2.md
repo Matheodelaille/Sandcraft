@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## 16K Crafting Storage
 **ID Technique** : `ae2:16k_crafting_storage` | **Machine** : `minecraft:crafting_shapeless`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Cuisine Skillet
 **ID Technique** : `cuisinedelight:cuisine_skillet` | **Machine** : `minecraft:crafting_shapeless`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Black Kitchen Floor
 **ID Technique** : `cookingforblockheads:black_kitchen_floor` | **Machine** : `minecraft:crafting_shaped`
 

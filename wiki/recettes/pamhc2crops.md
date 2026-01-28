@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Agaveseeditem
 **ID Technique** : `pamhc2crops:agaveseeditem` | **Machine** : `minecraft:crafting_shapeless`
 

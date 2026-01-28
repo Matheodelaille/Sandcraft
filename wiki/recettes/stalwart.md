@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Awful Dagger
 **ID Technique** : `stalwart_dungeons:awful_dagger` | **Machine** : `minecraft:crafting_shaped`
 

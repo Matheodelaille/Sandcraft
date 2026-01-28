@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Dimension Card
 **ID Technique** : `aeinfinitybooster:dimension_card` | **Machine** : `minecraft:crafting_shaped`
 

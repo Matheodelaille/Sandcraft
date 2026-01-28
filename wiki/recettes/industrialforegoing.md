@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Stripped Acacia Log
 **ID Technique** : `minecraft:stripped_acacia_log` | **Machine** : `industrialforegoing:fluid_extractor`
 

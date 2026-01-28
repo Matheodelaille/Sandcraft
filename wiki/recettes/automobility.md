@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Automobile Frame
 **ID Technique** : `automobility:automobile_frame` | **Machine** : `automobility:auto_mechanic_table`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Bone Meal
 **ID Technique** : `minecraft:bone_meal` | **Machine** : `minecraft:crafting_shapeless`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Velociraptor Talon Spear
 **ID Technique** : `dinomight_mod:velociraptor_talon_spear` | **Machine** : `minecraft:crafting_shaped`
 

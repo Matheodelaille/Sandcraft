@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Starbuncle Wheel
 **ID Technique** : `ars_creo:starbuncle_wheel` | **Machine** : `minecraft:crafting_shapeless`
 

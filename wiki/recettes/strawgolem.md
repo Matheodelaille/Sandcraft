@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Straw Hat
 **ID Technique** : `strawgolem:straw_hat` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Yucca Fudge
 **ID Technique** : `peculiars:yucca_fudge` | **Machine** : `minecraft:crafting_shapeless`
 

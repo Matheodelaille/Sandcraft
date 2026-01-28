@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Candy Cane
 **ID Technique** : `snowyspirit:candy_cane` | **Machine** : `minecraft:crafting_shapeless`
 

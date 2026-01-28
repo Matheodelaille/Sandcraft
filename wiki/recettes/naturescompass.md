@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Naturescompass
 **ID Technique** : `naturescompass:naturescompass` | **Machine** : `crafting_shaped`
 

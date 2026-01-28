@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Beer
 **ID Technique** : `brewinandchewin:beer` | **Machine** : `brewinandchewin:fermenting`
 

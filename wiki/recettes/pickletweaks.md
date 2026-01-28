@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Black Cobblestone
 **ID Technique** : `pickletweaks:black_cobblestone` | **Machine** : `minecraft:crafting_shaped`
 

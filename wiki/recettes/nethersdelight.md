@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Blackstone Blast Furnace
 **ID Technique** : `nethersdelight:blackstone_blast_furnace` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Brown Dye
 **ID Technique** : `minecraft:brown_dye` | **Machine** : `minecraft:crafting_shapeless`
 

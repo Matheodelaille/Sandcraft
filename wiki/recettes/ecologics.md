@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Azalea Boat
 **ID Technique** : `ecologics:azalea_boat` | **Machine** : `minecraft:crafting_shaped`
 

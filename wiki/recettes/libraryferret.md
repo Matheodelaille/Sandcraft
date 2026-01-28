@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Diamond
 **ID Technique** : `minecraft:diamond` | **Machine** : `minecraft:smelting`
 

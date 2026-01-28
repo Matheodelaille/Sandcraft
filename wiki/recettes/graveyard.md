@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Coffin
 **ID Technique** : `graveyard:acacia_coffin` | **Machine** : `minecraft:crafting_shaped`
 

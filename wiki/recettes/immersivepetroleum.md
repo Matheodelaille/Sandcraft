@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acetaldehyde'}
 **ID Technique** : `{'amount': 8, 'fluid': 'immersiveengineering:acetaldehyde'}` | **Machine** : `immersiveengineering:refinery`
 

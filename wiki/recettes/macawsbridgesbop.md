@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Cherry Bridge Pier
 **ID Technique** : `macawsbridgesbop:cherry_bridge_pier` | **Machine** : `minecraft:crafting_shaped`
 

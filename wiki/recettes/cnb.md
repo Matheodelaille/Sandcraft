@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Apple Slice
 **ID Technique** : `cnb:apple_slice` | **Machine** : `minecraft:crafting_shapeless`
 

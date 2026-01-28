@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Arrow Target
 **ID Technique** : `rsgauges:arrow_target` | **Machine** : `minecraft:crafting_shaped`
 

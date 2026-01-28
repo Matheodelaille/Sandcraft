@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Brigg
 **ID Technique** : `smallships:acacia_brigg` | **Machine** : `minecraft:crafting_shaped`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Big Bone 1
 **ID Technique** : `orcz:big_bone_1` | **Machine** : `minecraft:crafting_shaped`
 

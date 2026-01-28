@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Automatic Switch Rail
 **ID Technique** : `littlelogistics:automatic_switch_rail` | **Machine** : `minecraft:crafting_shapeless`
 

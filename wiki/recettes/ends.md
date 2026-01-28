@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Assorted Salad
 **ID Technique** : `ends_delight:assorted_salad` | **Machine** : `minecraft:crafting_shapeless`
 

@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Circuit Adaptive
 **ID Technique** : `viescraftmachines:circuit_adaptive` | **Machine** : `minecraft:crafting_shaped`
 

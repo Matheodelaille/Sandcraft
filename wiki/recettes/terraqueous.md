@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Amethyst Shard
 **ID Technique** : `minecraft:amethyst_shard` | **Machine** : `minecraft:smelting`
 

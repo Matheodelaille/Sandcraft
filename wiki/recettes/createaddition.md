@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Modular Accumulator
 **ID Technique** : `createaddition:modular_accumulator` | **Machine** : `minecraft:crafting_shapeless`
 

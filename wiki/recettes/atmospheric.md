@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Aloe Bundle
 **ID Technique** : `atmospheric:aloe_bundle` | **Machine** : `minecraft:crafting_shaped`
 

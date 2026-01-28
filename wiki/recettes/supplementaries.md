@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Altimeter
 **ID Technique** : `supplementaries:altimeter` | **Machine** : `minecraft:crafting_shaped`
 

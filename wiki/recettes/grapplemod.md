@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Baseupgradeitem
 **ID Technique** : `grapplemod:baseupgradeitem` | **Machine** : `minecraft:crafting_shaped`
 

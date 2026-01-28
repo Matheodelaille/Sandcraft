@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Acacia Chair
 **ID Technique** : `valhelsia_furniture:acacia_chair` | **Machine** : `minecraft:crafting_shaped`
 

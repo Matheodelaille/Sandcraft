@@ -1,3 +1,7 @@
+[⬅️ Retour à l'index des mods](../README.md)
+
+---
+
 ## Allurite Block
 **ID Technique** : `galosphere:allurite_block` | **Machine** : `minecraft:crafting_shaped`
 
