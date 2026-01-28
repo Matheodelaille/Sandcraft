@@ -1,0 +1,50 @@
+## Animal Crate
+**ID Technique** : `goodall:animal_crate` | **Machine** : `minecraft:crafting_shaped`
+
+| Emplacement | Ingrédient | Icône |
+| :--- | :--- | :--- |
+| # | Trapped Chest | ![trapped_chest](../images/goodall_trapped_chest.png) |
+| @ | Scaffolding | ![scaffolding](../images/goodall_scaffolding.png) |
+
+---
+## Ant Box
+**ID Technique** : `goodall:ant_box` | **Machine** : `minecraft:crafting_shaped`
+
+| Emplacement | Ingrédient | Icône |
+| :--- | :--- | :--- |
+| # | Trapped Chest | ![trapped_chest](../images/goodall_trapped_chest.png) |
+| @ | Coarse Dirt | ![coarse_dirt](../images/goodall_coarse_dirt.png) |
+
+---
+## Cooked Venison
+**ID Technique** : `goodall:cooked_venison` | **Machine** : `minecraft:smoking`
+
+| Emplacement | Ingrédient | Icône |
+| :--- | :--- | :--- |
+| item | Raw Venison | ![raw_venison](../images/goodall_raw_venison.png) |
+
+---
+## Cooked Venison
+**ID Technique** : `goodall:cooked_venison` | **Machine** : `minecraft:smelting`
+
+| Emplacement | Ingrédient | Icône |
+| :--- | :--- | :--- |
+| item | Raw Venison | ![raw_venison](../images/goodall_raw_venison.png) |
+
+---
+## Cooked Venison
+**ID Technique** : `goodall:cooked_venison` | **Machine** : `minecraft:campfire_cooking`
+
+| Emplacement | Ingrédient | Icône |
+| :--- | :--- | :--- |
+| item | Raw Venison | ![raw_venison](../images/goodall_raw_venison.png) |
+
+---
+## Tortoise Scute Block
+**ID Technique** : `goodall:tortoise_scute_block` | **Machine** : `minecraft:crafting_shaped`
+
+| Emplacement | Ingrédient | Icône |
+| :--- | :--- | :--- |
+| # | Tortoise Scute | ![tortoise_scute](../images/goodall_tortoise_scute.png) |
+
+---
