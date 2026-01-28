@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Acacia Slab | ![acacia_slab](../images/exoticbirds_acacia_slab.png) |
+| W | Acacia Slab | ![acacia_slab](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## {}
@@ -24,9 +24,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glow Berries | ![glow_berries](../images/exoticbirds_glow_berries.png) |
-| - | Apple | ![apple](../images/exoticbirds_apple.png) |
-| - | Honey Bottle | ![honey_bottle](../images/exoticbirds_honey_bottle.png) |
+| - | Glow Berries | ![glow_berries](../images/exoticbirds_acacia_birdcage.png) |
+| - | Apple | ![apple](../images/exoticbirds_acacia_birdcage.png) |
+| - | Honey Bottle | ![honey_bottle](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Ambrosia
@@ -34,9 +34,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/exoticbirds_sweet_berries.png) |
-| - | Apple | ![apple](../images/exoticbirds_apple.png) |
-| - | Honey Bottle | ![honey_bottle](../images/exoticbirds_honey_bottle.png) |
+| - | Sweet Berries | ![sweet_berries](../images/exoticbirds_acacia_birdcage.png) |
+| - | Apple | ![apple](../images/exoticbirds_acacia_birdcage.png) |
+| - | Honey Bottle | ![honey_bottle](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Birch Birdcage
@@ -46,7 +46,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Birch Slab | ![birch_slab](../images/exoticbirds_birch_slab.png) |
+| W | Birch Slab | ![birch_slab](../images/exoticbirds_birch_birdcage.png) |
 
 ---
 ## Bird Book
@@ -54,8 +54,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Feathers | ![feathers](../images/exoticbirds_feathers.png) |
-| X | Book | ![book](../images/exoticbirds_book.png) |
+| A | Feathers | ![feathers](../images/exoticbirds_acacia_birdcage.png) |
+| X | Book | ![book](../images/exoticbirds_bird_book.png) |
 
 ---
 ## Black Birdhouse
@@ -64,7 +64,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Black | ![dyes/black](../images/exoticbirds_dyes/black.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Blue Birdhouse
@@ -73,7 +73,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Blue | ![dyes/blue](../images/exoticbirds_dyes/blue.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Bone Meal
@@ -90,7 +90,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Brown | ![dyes/brown](../images/exoticbirds_dyes/brown.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Cooked Birdmeat
@@ -124,7 +124,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Crimson Slab | ![crimson_slab](../images/exoticbirds_crimson_slab.png) |
+| W | Crimson Slab | ![crimson_slab](../images/exoticbirds_crimson_birdcage.png) |
 
 ---
 ## Cyan Birdhouse
@@ -133,7 +133,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Cyan | ![dyes/cyan](../images/exoticbirds_dyes/cyan.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Dark Oak Birdcage
@@ -143,7 +143,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Dark Oak Slab | ![dark_oak_slab](../images/exoticbirds_dark_oak_slab.png) |
+| W | Dark Oak Slab | ![dark_oak_slab](../images/exoticbirds_dark_oak_birdcage.png) |
 
 ---
 ## {}
@@ -160,7 +160,7 @@
 | :--- | :--- | :--- |
 | A | Glass/Colorless | ![glass/colorless](../images/exoticbirds_glass/colorless.png) |
 | B | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
-| C | Bucket | ![bucket](../images/exoticbirds_bucket.png) |
+| C | Bucket | ![bucket](../images/exoticbirds_acacia_birdcage.png) |
 | D | Dusts/Redstone | ![dusts/redstone](../images/exoticbirds_dusts/redstone.png) |
 
 ---
@@ -171,8 +171,8 @@
 | :--- | :--- | :--- |
 | A | Glass/Colorless | ![glass/colorless](../images/exoticbirds_glass/colorless.png) |
 | B | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
-| C | Bucket | ![bucket](../images/exoticbirds_bucket.png) |
-| D | Flint And Steel | ![flint_and_steel](../images/exoticbirds_flint_and_steel.png) |
+| C | Bucket | ![bucket](../images/exoticbirds_acacia_birdcage.png) |
+| D | Flint And Steel | ![flint_and_steel](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Gold Birdcage
@@ -190,7 +190,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Gray | ![dyes/gray](../images/exoticbirds_dyes/gray.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Green Birdhouse
@@ -199,7 +199,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Green | ![dyes/green](../images/exoticbirds_dyes/green.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Hummingbird Feeder
@@ -207,9 +207,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/exoticbirds_string.png) |
+| S | String | ![string](../images/exoticbirds_acacia_birdcage.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/exoticbirds_wooden_slabs.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Iron Birdcage
@@ -228,7 +228,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Jungle Slab | ![jungle_slab](../images/exoticbirds_jungle_slab.png) |
+| W | Jungle Slab | ![jungle_slab](../images/exoticbirds_jungle_birdcage.png) |
 
 ---
 ## Light Blue Birdhouse
@@ -237,7 +237,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Light Blue | ![dyes/light_blue](../images/exoticbirds_dyes/light_blue.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Light Gray Birdhouse
@@ -246,7 +246,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Light Gray | ![dyes/light_gray](../images/exoticbirds_dyes/light_gray.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Lime Birdhouse
@@ -255,7 +255,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Lime | ![dyes/lime](../images/exoticbirds_dyes/lime.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Magenta Birdhouse
@@ -264,7 +264,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Magenta | ![dyes/magenta](../images/exoticbirds_dyes/magenta.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Mangrove Birdcage
@@ -274,7 +274,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Mangrove Slab | ![mangrove_slab](../images/exoticbirds_mangrove_slab.png) |
+| W | Mangrove Slab | ![mangrove_slab](../images/exoticbirds_mangrove_birdcage.png) |
 
 ---
 ## Nest
@@ -292,7 +292,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Oak Slab | ![oak_slab](../images/exoticbirds_oak_slab.png) |
+| W | Oak Slab | ![oak_slab](../images/exoticbirds_dark_oak_birdcage.png) |
 
 ---
 ## Orange Birdhouse
@@ -301,7 +301,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Orange | ![dyes/orange](../images/exoticbirds_dyes/orange.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Phoenix Egg
@@ -382,8 +382,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Chests/Wooden | ![chests/wooden](../images/exoticbirds_chests/wooden.png) |
-| S | Leather | ![leather](../images/exoticbirds_leather.png) |
-| F | Feathers | ![feathers](../images/exoticbirds_feathers.png) |
+| S | Leather | ![leather](../images/exoticbirds_acacia_birdcage.png) |
+| F | Feathers | ![feathers](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Pink Birdhouse
@@ -392,7 +392,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Pink | ![dyes/pink](../images/exoticbirds_dyes/pink.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Purple Birdhouse
@@ -401,7 +401,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Purple | ![dyes/purple](../images/exoticbirds_dyes/purple.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Red Birdhouse
@@ -410,7 +410,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Red | ![dyes/red](../images/exoticbirds_dyes/red.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Roost Box
@@ -418,8 +418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Planks | ![planks](../images/exoticbirds_planks.png) |
-| O | Iron Bars | ![iron_bars](../images/exoticbirds_iron_bars.png) |
+| X | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
+| O | Iron Bars | ![iron_bars](../images/exoticbirds_iron_birdcage.png) |
 
 ---
 ## Spruce Birdcage
@@ -429,7 +429,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Spruce Slab | ![spruce_slab](../images/exoticbirds_spruce_slab.png) |
+| W | Spruce Slab | ![spruce_slab](../images/exoticbirds_spruce_birdcage.png) |
 
 ---
 ## Warped Birdcage
@@ -439,7 +439,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Iron | ![ingots/iron](../images/exoticbirds_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/exoticbirds_rods/wooden.png) |
-| W | Warped Slab | ![warped_slab](../images/exoticbirds_warped_slab.png) |
+| W | Warped Slab | ![warped_slab](../images/exoticbirds_warped_birdcage.png) |
 
 ---
 ## White Birdhouse
@@ -448,7 +448,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/White | ![dyes/white](../images/exoticbirds_dyes/white.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---
 ## Yellow Birdhouse
@@ -457,6 +457,6 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Dyes/Yellow | ![dyes/yellow](../images/exoticbirds_dyes/yellow.png) |
-| W | Planks | ![planks](../images/exoticbirds_planks.png) |
+| W | Planks | ![planks](../images/exoticbirds_acacia_birdcage.png) |
 
 ---

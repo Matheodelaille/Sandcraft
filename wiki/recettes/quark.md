@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| W | Planks | ![planks](../images/quark_planks.png) |
+| W | Planks | ![planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Acacia Bookshelf
@@ -17,8 +17,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_bookshelf.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Acacia Chest
@@ -26,7 +26,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Chest
@@ -34,7 +34,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Logs | ![acacia_logs](../images/quark_acacia_logs.png) |
+| # | Acacia Logs | ![acacia_logs](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Hedge
@@ -42,8 +42,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Leaves | ![acacia_leaves](../images/quark_acacia_leaves.png) |
-| W | Acacia Logs | ![acacia_logs](../images/quark_acacia_logs.png) |
+| L | Acacia Leaves | ![acacia_leaves](../images/quark_acacia_bookshelf.png) |
+| W | Acacia Logs | ![acacia_logs](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Ladder
@@ -52,7 +52,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Acacia Planks | ![acacia_planks](../images/quark_acacia_planks.png) |
+| W | Acacia Planks | ![acacia_planks](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Leaf Carpet
@@ -60,7 +60,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Leaves | ![acacia_leaves](../images/quark_acacia_leaves.png) |
+| # | Acacia Leaves | ![acacia_leaves](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Post
@@ -68,7 +68,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Acacia Wood | ![acacia_wood](../images/quark_acacia_wood.png) |
+| F | Acacia Wood | ![acacia_wood](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Trapped Chest
@@ -76,8 +76,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Chest | ![acacia_chest](../images/quark_acacia_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Acacia Chest | ![acacia_chest](../images/quark_acacia_bookshelf.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Acacia Vertical Slab
@@ -85,7 +85,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/quark_acacia_slab.png) |
+| # | Acacia Slab | ![acacia_slab](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Slab
@@ -93,7 +93,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Vertical Slab | ![acacia_vertical_slab](../images/quark_acacia_vertical_slab.png) |
+| - | Acacia Vertical Slab | ![acacia_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Ancient Hedge
@@ -102,7 +102,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Ancient Leaves | ![ancient_leaves](../images/quark_ancient_leaves.png) |
-| W | Ancient Logs | ![ancient_logs](../images/quark_ancient_logs.png) |
+| W | Ancient Logs | ![ancient_logs](../images/quark_ancient_boat.png) |
 
 ---
 ## Ancient Leaf Carpet
@@ -134,7 +134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ancient Planks Slab | ![ancient_planks_slab](../images/quark_ancient_planks_slab.png) |
+| # | Ancient Planks Slab | ![ancient_planks_slab](../images/quark_ancient_planks.png) |
 
 ---
 ## Ancient Planks Slab
@@ -142,7 +142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ancient Planks Vertical Slab | ![ancient_planks_vertical_slab](../images/quark_ancient_planks_vertical_slab.png) |
+| - | Ancient Planks Vertical Slab | ![ancient_planks_vertical_slab](../images/quark_ancient_planks.png) |
 
 ---
 ## Ancient Post
@@ -150,7 +150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Ancient Wood | ![ancient_wood](../images/quark_ancient_wood.png) |
+| F | Ancient Wood | ![ancient_wood](../images/quark_ancient_boat.png) |
 
 ---
 ## Andesite Bricks
@@ -158,7 +158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| # | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks
@@ -166,7 +166,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| item | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Slab
@@ -182,7 +182,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| item | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Slab
@@ -190,7 +190,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Slab
@@ -214,7 +214,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| item | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Stairs
@@ -222,7 +222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Stairs
@@ -238,7 +238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Vertical Slab
@@ -246,7 +246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Andesite Bricks Slab | ![andesite_bricks_slab](../images/quark_andesite_bricks_slab.png) |
+| # | Andesite Bricks Slab | ![andesite_bricks_slab](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Vertical Slab
@@ -254,7 +254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| item | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Slab
@@ -262,7 +262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite Bricks Vertical Slab | ![andesite_bricks_vertical_slab](../images/quark_andesite_bricks_vertical_slab.png) |
+| - | Andesite Bricks Vertical Slab | ![andesite_bricks_vertical_slab](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Vertical Slab
@@ -270,7 +270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Vertical Slab
@@ -294,7 +294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| item | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Wall
@@ -302,7 +302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Bricks Wall
@@ -318,7 +318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Andesite Slab | ![polished_andesite_slab](../images/quark_polished_andesite_slab.png) |
+| # | Polished Andesite Slab | ![polished_andesite_slab](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Pillar
@@ -326,7 +326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Vertical Slab
@@ -334,7 +334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Andesite Slab | ![andesite_slab](../images/quark_andesite_slab.png) |
+| # | Andesite Slab | ![andesite_slab](../images/quark_andesite_bricks.png) |
 
 ---
 ## Andesite Slab
@@ -342,7 +342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite Vertical Slab | ![andesite_vertical_slab](../images/quark_andesite_vertical_slab.png) |
+| - | Andesite Vertical Slab | ![andesite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Andesite Vertical Slab
@@ -350,7 +350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Apple Crate
@@ -358,7 +358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Apple | ![apple](../images/quark_apple.png) |
+| # | Apple | ![apple](../images/quark_apple_crate.png) |
 
 ---
 ## Apple
@@ -374,8 +374,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Azalea Leaves | ![azalea_leaves](../images/quark_azalea_leaves.png) |
-| W | Azalea Logs | ![azalea_logs](../images/quark_azalea_logs.png) |
+| L | Azalea Leaves | ![azalea_leaves](../images/quark_ancient_leaves.png) |
+| W | Azalea Logs | ![azalea_logs](../images/quark_azalea_boat.png) |
 
 ---
 ## Azalea Hedge
@@ -383,8 +383,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Azalea Leaves | ![azalea_leaves](../images/quark_azalea_leaves.png) |
-| W | Oak Logs | ![oak_logs](../images/quark_oak_logs.png) |
+| L | Azalea Leaves | ![azalea_leaves](../images/quark_ancient_leaves.png) |
+| W | Oak Logs | ![oak_logs](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Azalea Leaf Carpet
@@ -392,7 +392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Azalea Leaves | ![azalea_leaves](../images/quark_azalea_leaves.png) |
+| # | Azalea Leaves | ![azalea_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Azalea Planks Slab
@@ -416,7 +416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Azalea Planks Slab | ![azalea_planks_slab](../images/quark_azalea_planks_slab.png) |
+| # | Azalea Planks Slab | ![azalea_planks_slab](../images/quark_azalea_planks.png) |
 
 ---
 ## Azalea Planks Slab
@@ -424,7 +424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Planks Vertical Slab | ![azalea_planks_vertical_slab](../images/quark_azalea_planks_vertical_slab.png) |
+| - | Azalea Planks Vertical Slab | ![azalea_planks_vertical_slab](../images/quark_azalea_planks.png) |
 
 ---
 ## Azalea Post
@@ -432,7 +432,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azalea Wood | ![azalea_wood](../images/quark_azalea_wood.png) |
+| F | Azalea Wood | ![azalea_wood](../images/quark_azalea_boat.png) |
 
 ---
 ## Backpack
@@ -440,7 +440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather | ![leather](../images/quark_leather.png) |
+| L | Leather | ![leather](../images/quark_bonded_leather.png) |
 | R | Ravager Hide | ![ravager_hide](../images/quark_ravager_hide.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
@@ -451,7 +451,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather | ![leather](../images/quark_leather.png) |
+| L | Leather | ![leather](../images/quark_bonded_leather.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
 
@@ -461,7 +461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo | ![bamboo](../images/quark_bamboo.png) |
+| # | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
 
 ---
 ## Bamboo
@@ -477,8 +477,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| S | Stick | ![stick](../images/quark_stick.png) |
+| B | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| S | Stick | ![stick](../images/quark_stick_block.png) |
 
 ---
 ## Bamboo Mat Carpet
@@ -510,7 +510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo Planks Slab | ![bamboo_planks_slab](../images/quark_bamboo_planks_slab.png) |
+| # | Bamboo Planks Slab | ![bamboo_planks_slab](../images/quark_bamboo_planks.png) |
 
 ---
 ## Bamboo Planks Slab
@@ -518,7 +518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bamboo Planks Vertical Slab | ![bamboo_planks_vertical_slab](../images/quark_bamboo_planks_vertical_slab.png) |
+| - | Bamboo Planks Vertical Slab | ![bamboo_planks_vertical_slab](../images/quark_bamboo_planks.png) |
 
 ---
 ## Beetroot Crate
@@ -542,7 +542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sweet Berries | ![sweet_berries](../images/quark_sweet_berries.png) |
+| # | Sweet Berries | ![sweet_berries](../images/quark_berries.png) |
 
 ---
 ## Sweet Berries
@@ -558,8 +558,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/quark_birch_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Birch Planks | ![birch_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Birch Chest
@@ -567,7 +567,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/quark_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Birch Chest
@@ -575,7 +575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Logs | ![birch_logs](../images/quark_birch_logs.png) |
+| # | Birch Logs | ![birch_logs](../images/quark_birch_bookshelf.png) |
 
 ---
 ## Birch Hedge
@@ -583,8 +583,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Leaves | ![birch_leaves](../images/quark_birch_leaves.png) |
-| W | Birch Logs | ![birch_logs](../images/quark_birch_logs.png) |
+| L | Birch Leaves | ![birch_leaves](../images/quark_ancient_leaves.png) |
+| W | Birch Logs | ![birch_logs](../images/quark_birch_bookshelf.png) |
 
 ---
 ## Birch Ladder
@@ -593,7 +593,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Birch Planks | ![birch_planks](../images/quark_birch_planks.png) |
+| W | Birch Planks | ![birch_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Birch Leaf Carpet
@@ -601,7 +601,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Leaves | ![birch_leaves](../images/quark_birch_leaves.png) |
+| # | Birch Leaves | ![birch_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Birch Post
@@ -609,7 +609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Birch Wood | ![birch_wood](../images/quark_birch_wood.png) |
+| F | Birch Wood | ![birch_wood](../images/quark_birch_bookshelf.png) |
 
 ---
 ## Birch Trapped Chest
@@ -617,8 +617,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Chest | ![birch_chest](../images/quark_birch_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Birch Chest | ![birch_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Birch Vertical Slab
@@ -626,7 +626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/quark_birch_slab.png) |
+| # | Birch Slab | ![birch_slab](../images/quark_birch_bookshelf.png) |
 
 ---
 ## Birch Slab
@@ -634,7 +634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Vertical Slab | ![birch_vertical_slab](../images/quark_birch_vertical_slab.png) |
+| - | Birch Vertical Slab | ![birch_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Blast Furnace
@@ -642,9 +642,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Stone | ![smooth_stone](../images/quark_smooth_stone.png) |
-| X | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace.png) |
-| I | Iron Ingot | ![iron_ingot](../images/quark_iron_ingot.png) |
+| # | Smooth Stone | ![smooth_stone](../images/quark_smooth_stone_vertical_slab_side.png) |
+| X | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace_front.png) |
+| I | Iron Ingot | ![iron_ingot](../images/quark_iron_ladder.png) |
 
 ---
 ## Blackstone Bricks
@@ -652,7 +652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone | ![blackstone](../images/quark_blackstone.png) |
+| # | Blackstone | ![blackstone](../images/quark_blackstone_bricks.png) |
 | C | Cobblestone Bricks | ![cobblestone_bricks](../images/quark_cobblestone_bricks.png) |
 
 ---
@@ -693,7 +693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone Bricks Slab | ![blackstone_bricks_slab](../images/quark_blackstone_bricks_slab.png) |
+| # | Blackstone Bricks Slab | ![blackstone_bricks_slab](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Blackstone Bricks Slab
@@ -701,7 +701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone Bricks Vertical Slab | ![blackstone_bricks_vertical_slab](../images/quark_blackstone_bricks_vertical_slab.png) |
+| - | Blackstone Bricks Vertical Slab | ![blackstone_bricks_vertical_slab](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Blackstone Bricks Vertical Slab
@@ -733,7 +733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone | ![blackstone](../images/quark_blackstone.png) |
+| # | Blackstone | ![blackstone](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Furnace Minecart
@@ -741,8 +741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace.png) |
-| B | Minecart | ![minecart](../images/quark_minecart.png) |
+| A | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace_front.png) |
+| B | Minecart | ![minecart](../images/quark_abacus_0.png) |
 
 ---
 ## Furnace Minecart
@@ -751,7 +751,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| X | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace.png) |
+| X | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace_front.png) |
 
 ---
 ## Smoker
@@ -759,8 +759,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Logs | ![logs](../images/quark_logs.png) |
-| X | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace.png) |
+| # | Logs | ![logs](../images/quark_abacus_0.png) |
+| X | Blackstone Furnace | ![blackstone_furnace](../images/quark_blackstone_furnace_front.png) |
 
 ---
 ## Blackstone Vertical Slab
@@ -768,7 +768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone Slab | ![blackstone_slab](../images/quark_blackstone_slab.png) |
+| # | Blackstone Slab | ![blackstone_slab](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Blackstone Slab
@@ -776,7 +776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone Vertical Slab | ![blackstone_vertical_slab](../images/quark_blackstone_vertical_slab.png) |
+| - | Blackstone Vertical Slab | ![blackstone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Blackstone Vertical Slab
@@ -784,7 +784,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/quark_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Black Corundum
@@ -792,7 +792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Corundum Pane | ![black_corundum_pane](../images/quark_black_corundum_pane.png) |
+| # | Black Corundum Pane | ![black_corundum_pane](../images/quark_black_corundum.png) |
 
 ---
 ## Black Crystal Lamp
@@ -801,7 +801,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Black Corundum | ![black_corundum](../images/quark_black_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Black Corundum Pane
@@ -817,10 +817,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Black Dye | ![black_dye](../images/quark_black_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Black Dye | ![black_dye](../images/quark_black_corundum.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Black Framed Glass
@@ -870,7 +870,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Black Corundum | ![black_corundum](../images/quark_black_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Black Shingles
@@ -878,7 +878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Terracotta | ![black_terracotta](../images/quark_black_terracotta.png) |
+| # | Black Terracotta | ![black_terracotta](../images/quark_black_corundum.png) |
 
 ---
 ## Black Shingles
@@ -911,7 +911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/quark_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/quark_black_corundum.png) |
 
 ---
 ## Black Shingles Stairs
@@ -935,7 +935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/quark_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/quark_black_corundum.png) |
 
 ---
 ## Black Shingles
@@ -943,7 +943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/quark_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/quark_black_corundum.png) |
 
 ---
 ## Black Shingles Vertical Slab
@@ -951,7 +951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Shingles Slab | ![black_shingles_slab](../images/quark_black_shingles_slab.png) |
+| # | Black Shingles Slab | ![black_shingles_slab](../images/quark_black_shingles.png) |
 
 ---
 ## Black Shingles Slab
@@ -959,7 +959,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Shingles Vertical Slab | ![black_shingles_vertical_slab](../images/quark_black_shingles_vertical_slab.png) |
+| - | Black Shingles Vertical Slab | ![black_shingles_vertical_slab](../images/quark_black_shingles.png) |
 
 ---
 ## Black Shingles Vertical Slab
@@ -975,7 +975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/quark_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/quark_black_corundum.png) |
 
 ---
 ## Black Stool
@@ -983,8 +983,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/quark_black_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Black Wool | ![black_wool](../images/quark_black_corundum.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Black Wool
@@ -992,8 +992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/quark_black_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Black Dye | ![black_dye](../images/quark_black_corundum.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Blaze Lantern
@@ -1001,8 +1001,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Rod | ![blaze_rod](../images/quark_blaze_rod.png) |
-| P | Blaze Powder | ![blaze_powder](../images/quark_blaze_powder.png) |
+| B | Blaze Rod | ![blaze_rod](../images/quark_blaze_lantern.png) |
+| P | Blaze Powder | ![blaze_powder](../images/quark_blaze_lantern.png) |
 
 ---
 ## Blossom Planks Slab
@@ -1026,7 +1026,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blossom Planks Slab | ![blossom_planks_slab](../images/quark_blossom_planks_slab.png) |
+| # | Blossom Planks Slab | ![blossom_planks_slab](../images/quark_blossom_planks.png) |
 
 ---
 ## Blossom Planks Slab
@@ -1034,7 +1034,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blossom Planks Vertical Slab | ![blossom_planks_vertical_slab](../images/quark_blossom_planks_vertical_slab.png) |
+| - | Blossom Planks Vertical Slab | ![blossom_planks_vertical_slab](../images/quark_blossom_planks.png) |
 
 ---
 ## Blossom Post
@@ -1042,7 +1042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Blossom Wood | ![blossom_wood](../images/quark_blossom_wood.png) |
+| F | Blossom Wood | ![blossom_wood](../images/quark_blossom_boat.png) |
 
 ---
 ## Blue Blossom Hedge
@@ -1051,7 +1051,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Blue Blossom Leaves | ![blue_blossom_leaves](../images/quark_blue_blossom_leaves.png) |
-| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Blue Blossom Leaf Carpet
@@ -1067,7 +1067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Corundum Pane | ![blue_corundum_pane](../images/quark_blue_corundum_pane.png) |
+| # | Blue Corundum Pane | ![blue_corundum_pane](../images/quark_blue_corundum.png) |
 
 ---
 ## Blue Crystal Lamp
@@ -1076,7 +1076,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Blue Corundum | ![blue_corundum](../images/quark_blue_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Blue Corundum Pane
@@ -1092,10 +1092,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Light Blue Dye | ![light_blue_dye](../images/quark_light_blue_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Light Blue Dye | ![light_blue_dye](../images/quark_light_blue_framed_glass.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Blue Framed Glass
@@ -1135,8 +1135,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Bricks | ![nether_bricks](../images/quark_nether_bricks.png) |
-| - | Warped Wart Block | ![warped_wart_block](../images/quark_warped_wart_block.png) |
+| - | Nether Bricks | ![nether_bricks](../images/quark_blue_nether_bricks.png) |
+| - | Warped Wart Block | ![warped_wart_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Blue Nether Bricks Slab
@@ -1176,7 +1176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Nether Bricks Slab | ![blue_nether_bricks_slab](../images/quark_blue_nether_bricks_slab.png) |
+| # | Blue Nether Bricks Slab | ![blue_nether_bricks_slab](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Blue Nether Bricks Slab
@@ -1184,7 +1184,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Nether Bricks Vertical Slab | ![blue_nether_bricks_vertical_slab](../images/quark_blue_nether_bricks_vertical_slab.png) |
+| - | Blue Nether Bricks Vertical Slab | ![blue_nether_bricks_vertical_slab](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Blue Nether Bricks Vertical Slab
@@ -1226,7 +1226,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Indigo Corundum | ![indigo_corundum](../images/quark_indigo_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Blue Shingles
@@ -1234,7 +1234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Terracotta | ![blue_terracotta](../images/quark_blue_terracotta.png) |
+| # | Blue Terracotta | ![blue_terracotta](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Blue Shingles
@@ -1267,7 +1267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/quark_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Blue Shingles Stairs
@@ -1291,7 +1291,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/quark_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Blue Shingles
@@ -1299,7 +1299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/quark_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Blue Shingles Vertical Slab
@@ -1307,7 +1307,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Shingles Slab | ![blue_shingles_slab](../images/quark_blue_shingles_slab.png) |
+| # | Blue Shingles Slab | ![blue_shingles_slab](../images/quark_blue_shingles.png) |
 
 ---
 ## Blue Shingles Slab
@@ -1315,7 +1315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Shingles Vertical Slab | ![blue_shingles_vertical_slab](../images/quark_blue_shingles_vertical_slab.png) |
+| - | Blue Shingles Vertical Slab | ![blue_shingles_vertical_slab](../images/quark_blue_shingles.png) |
 
 ---
 ## Blue Shingles Vertical Slab
@@ -1331,7 +1331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/quark_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Blue Stool
@@ -1339,8 +1339,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/quark_blue_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Blue Wool | ![blue_wool](../images/quark_axolotl_bucket_blue.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Blue Wool
@@ -1348,8 +1348,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/quark_blue_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Blue Dye | ![blue_dye](../images/quark_axolotl_bucket_blue.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Blossom Boat
@@ -1365,7 +1365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Leather | ![leather](../images/quark_leather.png) |
+| # | Leather | ![leather](../images/quark_bonded_leather.png) |
 
 ---
 ## Leather
@@ -1381,7 +1381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rabbit Hide | ![rabbit_hide](../images/quark_rabbit_hide.png) |
+| # | Rabbit Hide | ![rabbit_hide](../images/quark_bonded_rabbit_hide.png) |
 
 ---
 ## Ravager Hide
@@ -1405,7 +1405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone | ![bone](../images/quark_bone.png) |
+| item | Bone | ![bone](../images/quark_abacus_0.png) |
 
 ---
 ## Blossom Bookshelf
@@ -1414,7 +1414,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Blossom Planks | ![blossom_planks](../images/quark_blossom_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Pink Dye
@@ -1422,7 +1422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brain Coral Fan'}] | ![brain_coral_fan'}]](../images/quark_brain_coral_fan'}].png) |
+| - | Brain Coral Fan'}] | ![brain_coral_fan'}]](../images/quark_abacus_0.png) |
 
 ---
 ## Bread
@@ -1438,7 +1438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brick Slab | ![brick_slab](../images/quark_brick_slab.png) |
+| # | Brick Slab | ![brick_slab](../images/quark_mud_brick_lattice.png) |
 
 ---
 ## Brick Slab
@@ -1446,7 +1446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brick Vertical Slab | ![brick_vertical_slab](../images/quark_brick_vertical_slab.png) |
+| - | Brick Vertical Slab | ![brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Brick Vertical Slab
@@ -1454,7 +1454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/quark_bricks.png) |
+| item | Bricks | ![bricks](../images/quark_andesite_bricks.png) |
 
 ---
 ## Brown Framed Glass
@@ -1541,7 +1541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Terracotta | ![brown_terracotta](../images/quark_brown_terracotta.png) |
+| # | Brown Terracotta | ![brown_terracotta](../images/quark_brown_framed_glass.png) |
 
 ---
 ## Brown Shingles
@@ -1574,7 +1574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_framed_glass.png) |
 
 ---
 ## Brown Shingles Stairs
@@ -1598,7 +1598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_framed_glass.png) |
 
 ---
 ## Brown Shingles
@@ -1606,7 +1606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_framed_glass.png) |
 
 ---
 ## Brown Shingles Vertical Slab
@@ -1614,7 +1614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Shingles Slab | ![brown_shingles_slab](../images/quark_brown_shingles_slab.png) |
+| # | Brown Shingles Slab | ![brown_shingles_slab](../images/quark_brown_shingles.png) |
 
 ---
 ## Brown Shingles Slab
@@ -1622,7 +1622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Shingles Vertical Slab | ![brown_shingles_vertical_slab](../images/quark_brown_shingles_vertical_slab.png) |
+| - | Brown Shingles Vertical Slab | ![brown_shingles_vertical_slab](../images/quark_brown_shingles.png) |
 
 ---
 ## Brown Shingles Vertical Slab
@@ -1638,7 +1638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/quark_brown_framed_glass.png) |
 
 ---
 ## Brown Stool
@@ -1646,8 +1646,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/quark_brown_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Brown Wool | ![brown_wool](../images/quark_brown_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Brown Wool
@@ -1655,8 +1655,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/quark_brown_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Brown Dye | ![brown_dye](../images/quark_brown_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Magenta Dye
@@ -1664,7 +1664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bubble Coral Fan'}] | ![bubble_coral_fan'}]](../images/quark_bubble_coral_fan'}].png) |
+| - | Bubble Coral Fan'}] | ![bubble_coral_fan'}]](../images/quark_abacus_0.png) |
 
 ---
 ## Bundle
@@ -1672,8 +1672,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/quark_string.png) |
-| H | Leather | ![leather](../images/quark_leather.png) |
+| S | String | ![string](../images/quark_abacus_0.png) |
+| H | Leather | ![leather](../images/quark_bonded_leather.png) |
 
 ---
 ## Blossom Button
@@ -1689,7 +1689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cactus | ![cactus](../images/quark_cactus.png) |
+| # | Cactus | ![cactus](../images/quark_cactus_block.png) |
 
 ---
 ## Cactus
@@ -1737,7 +1737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Slab
@@ -1769,7 +1769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Stairs
@@ -1785,7 +1785,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Vertical Slab
@@ -1793,7 +1793,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite Bricks Slab | ![calcite_bricks_slab](../images/quark_calcite_bricks_slab.png) |
+| # | Calcite Bricks Slab | ![calcite_bricks_slab](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Vertical Slab
@@ -1809,7 +1809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calcite Bricks Vertical Slab | ![calcite_bricks_vertical_slab](../images/quark_calcite_bricks_vertical_slab.png) |
+| - | Calcite Bricks Vertical Slab | ![calcite_bricks_vertical_slab](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Vertical Slab
@@ -1817,7 +1817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Vertical Slab
@@ -1849,7 +1849,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Bricks Wall
@@ -1865,7 +1865,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Calcite Slab | ![polished_calcite_slab](../images/quark_polished_calcite_slab.png) |
+| # | Polished Calcite Slab | ![polished_calcite_slab](../images/quark_polished_calcite.png) |
 
 ---
 ## Calcite Pillar
@@ -1873,7 +1873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Slab
@@ -1881,7 +1881,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite | ![calcite](../images/quark_calcite.png) |
+| # | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Slab
@@ -1889,7 +1889,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Stairs
@@ -1897,7 +1897,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite | ![calcite](../images/quark_calcite.png) |
+| # | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Stairs
@@ -1905,7 +1905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Vertical Slab
@@ -1913,7 +1913,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite Slab | ![calcite_slab](../images/quark_calcite_slab.png) |
+| # | Calcite Slab | ![calcite_slab](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Slab
@@ -1921,7 +1921,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calcite Vertical Slab | ![calcite_vertical_slab](../images/quark_calcite_vertical_slab.png) |
+| - | Calcite Vertical Slab | ![calcite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Calcite Vertical Slab
@@ -1929,7 +1929,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Wall
@@ -1937,7 +1937,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite | ![calcite](../images/quark_calcite.png) |
+| # | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Calcite Wall
@@ -1945,7 +1945,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Carrot Crate
@@ -1969,7 +1969,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mud Brick Slab | ![mud_brick_slab](../images/quark_mud_brick_slab.png) |
+| # | Mud Brick Slab | ![mud_brick_slab](../images/quark_mud_brick_lattice.png) |
 
 ---
 ## Carved Mud Bricks
@@ -1977,7 +1977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/quark_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/quark_carved_mud_bricks.png) |
 
 ---
 ## Charcoal Block
@@ -1985,7 +1985,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Charcoal | ![charcoal](../images/quark_charcoal.png) |
+| # | Charcoal | ![charcoal](../images/quark_charcoal_block.png) |
 
 ---
 ## Charcoal
@@ -2001,7 +2001,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charcoal | ![charcoal](../images/quark_charcoal.png) |
+| - | Charcoal | ![charcoal](../images/quark_charcoal_block.png) |
 
 ---
 ## Blossom Chest
@@ -2035,7 +2035,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Revertable Chests | ![revertable_chests](../images/quark_revertable_chests.png) |
+| - | Revertable Chests | ![revertable_chests](../images/quark_abacus_0.png) |
 
 ---
 ## Trapped Chest
@@ -2043,8 +2043,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/quark_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Chest | ![chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Blossom Chest
@@ -2052,7 +2052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| # | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Chiseled Andesite Bricks
@@ -2060,7 +2060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Andesite Bricks Slab | ![andesite_bricks_slab](../images/quark_andesite_bricks_slab.png) |
+| # | Andesite Bricks Slab | ![andesite_bricks_slab](../images/quark_andesite_bricks.png) |
 
 ---
 ## Chiseled Andesite Bricks
@@ -2068,7 +2068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Chiseled Calcite Bricks
@@ -2076,7 +2076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite Bricks Slab | ![calcite_bricks_slab](../images/quark_calcite_bricks_slab.png) |
+| # | Calcite Bricks Slab | ![calcite_bricks_slab](../images/quark_calcite_bricks.png) |
 
 ---
 ## Chiseled Calcite Bricks
@@ -2084,7 +2084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Chiseled Diorite Bricks
@@ -2092,7 +2092,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diorite Bricks Slab | ![diorite_bricks_slab](../images/quark_diorite_bricks_slab.png) |
+| # | Diorite Bricks Slab | ![diorite_bricks_slab](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Chiseled Diorite Bricks
@@ -2100,7 +2100,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Chiseled Dripstone Bricks
@@ -2108,7 +2108,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Bricks Slab | ![dripstone_bricks_slab](../images/quark_dripstone_bricks_slab.png) |
+| # | Dripstone Bricks Slab | ![dripstone_bricks_slab](../images/quark_chiseled_dripstone_bricks.png) |
 
 ---
 ## Chiseled Dripstone Bricks
@@ -2116,7 +2116,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Chiseled Granite Bricks
@@ -2124,7 +2124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Granite Bricks Slab | ![granite_bricks_slab](../images/quark_granite_bricks_slab.png) |
+| # | Granite Bricks Slab | ![granite_bricks_slab](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Chiseled Granite Bricks
@@ -2132,7 +2132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Chiseled Jasper Bricks
@@ -2140,7 +2140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jasper Bricks Slab | ![jasper_bricks_slab](../images/quark_jasper_bricks_slab.png) |
+| # | Jasper Bricks Slab | ![jasper_bricks_slab](../images/quark_chiseled_jasper_bricks.png) |
 
 ---
 ## Chiseled Jasper Bricks
@@ -2156,7 +2156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Limestone Bricks Slab | ![limestone_bricks_slab](../images/quark_limestone_bricks_slab.png) |
+| # | Limestone Bricks Slab | ![limestone_bricks_slab](../images/quark_chiseled_limestone_bricks.png) |
 
 ---
 ## Chiseled Limestone Bricks
@@ -2172,7 +2172,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Myalite Bricks Slab | ![myalite_bricks_slab](../images/quark_myalite_bricks_slab.png) |
+| # | Myalite Bricks Slab | ![myalite_bricks_slab](../images/quark_chiseled_myalite_bricks.png) |
 
 ---
 ## Chiseled Myalite Bricks
@@ -2188,7 +2188,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shale Bricks Slab | ![shale_bricks_slab](../images/quark_shale_bricks_slab.png) |
+| # | Shale Bricks Slab | ![shale_bricks_slab](../images/quark_chiseled_shale_bricks.png) |
 
 ---
 ## Chiseled Shale Bricks
@@ -2204,7 +2204,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Soul Sandstone Slab | ![soul_sandstone_slab](../images/quark_soul_sandstone_slab.png) |
+| # | Soul Sandstone Slab | ![soul_sandstone_slab](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Chiseled Soul Sandstone
@@ -2220,7 +2220,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff Bricks Slab | ![tuff_bricks_slab](../images/quark_tuff_bricks_slab.png) |
+| # | Tuff Bricks Slab | ![tuff_bricks_slab](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Chiseled Tuff Bricks
@@ -2228,7 +2228,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Chorus Fruit Block
@@ -2236,7 +2236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chorus Fruit | ![chorus_fruit](../images/quark_chorus_fruit.png) |
+| # | Chorus Fruit | ![chorus_fruit](../images/quark_chorus_fruit_block.png) |
 
 ---
 ## Chorus Fruit
@@ -2252,7 +2252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/quark_planks.png) |
+| W | Planks | ![planks](../images/quark_ancient_planks.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
 
 ---
@@ -2277,7 +2277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobbled Deepslate Slab | ![cobbled_deepslate_slab](../images/quark_cobbled_deepslate_slab.png) |
+| # | Cobbled Deepslate Slab | ![cobbled_deepslate_slab](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Cobbled Deepslate Vertical Slab
@@ -2285,7 +2285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_cobbled_deepslate.png) |
+| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Cobbled Deepslate Slab
@@ -2293,7 +2293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobbled Deepslate Vertical Slab | ![cobbled_deepslate_vertical_slab](../images/quark_cobbled_deepslate_vertical_slab.png) |
+| - | Cobbled Deepslate Vertical Slab | ![cobbled_deepslate_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Cobblestone Bricks
@@ -2301,7 +2301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| # | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Cobblestone Bricks Slab
@@ -2341,7 +2341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Cobblestone Bricks Vertical Slab
@@ -2349,7 +2349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone Bricks Slab | ![cobblestone_bricks_slab](../images/quark_cobblestone_bricks_slab.png) |
+| # | Cobblestone Bricks Slab | ![cobblestone_bricks_slab](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Cobblestone Bricks Slab
@@ -2357,7 +2357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone Bricks Vertical Slab | ![cobblestone_bricks_vertical_slab](../images/quark_cobblestone_bricks_vertical_slab.png) |
+| - | Cobblestone Bricks Vertical Slab | ![cobblestone_bricks_vertical_slab](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Cobblestone Bricks Vertical Slab
@@ -2389,7 +2389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| # | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Stone Bricks
@@ -2405,7 +2405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone Slab | ![cobblestone_slab](../images/quark_cobblestone_slab.png) |
+| # | Cobblestone Slab | ![cobblestone_slab](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Cobblestone Slab
@@ -2413,7 +2413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone Vertical Slab | ![cobblestone_vertical_slab](../images/quark_cobblestone_vertical_slab.png) |
+| - | Cobblestone Vertical Slab | ![cobblestone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Cobblestone Vertical Slab
@@ -2421,7 +2421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Cocoa Beans Sack
@@ -2429,7 +2429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cocoa Beans | ![cocoa_beans](../images/quark_cocoa_beans.png) |
+| # | Cocoa Beans | ![cocoa_beans](../images/quark_cocoa_beans_sack.png) |
 
 ---
 ## Cocoa Beans
@@ -2454,7 +2454,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Wheat | ![wheat](../images/quark_wheat.png) |
-| X | Cocoa Beans | ![cocoa_beans](../images/quark_cocoa_beans.png) |
+| X | Cocoa Beans | ![cocoa_beans](../images/quark_cocoa_beans_sack.png) |
 
 ---
 ## Crate
@@ -2462,7 +2462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/quark_planks.png) |
+| W | Planks | ![planks](../images/quark_ancient_planks.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
@@ -2472,8 +2472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/quark_crimson_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Crimson Planks | ![crimson_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Crimson Chest
@@ -2481,7 +2481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/quark_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Crimson Trapped Chest
@@ -2489,8 +2489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Chest | ![crimson_chest](../images/quark_crimson_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Crimson Chest | ![crimson_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Crimson Chest
@@ -2498,7 +2498,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Stems | ![crimson_stems](../images/quark_crimson_stems.png) |
+| # | Crimson Stems | ![crimson_stems](../images/quark_crimson_bookshelf.png) |
 
 ---
 ## Crimson Ladder
@@ -2507,7 +2507,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Crimson Planks | ![crimson_planks](../images/quark_crimson_planks.png) |
+| W | Crimson Planks | ![crimson_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Crimson Post
@@ -2515,7 +2515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Crimson Hyphae | ![crimson_hyphae](../images/quark_crimson_hyphae.png) |
+| F | Crimson Hyphae | ![crimson_hyphae](../images/quark_crimson_bookshelf.png) |
 
 ---
 ## Crimson Vertical Slab
@@ -2523,7 +2523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/quark_crimson_slab.png) |
+| # | Crimson Slab | ![crimson_slab](../images/quark_crimson_bookshelf.png) |
 
 ---
 ## Crimson Slab
@@ -2531,7 +2531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Vertical Slab | ![crimson_vertical_slab](../images/quark_crimson_vertical_slab.png) |
+| - | Crimson Vertical Slab | ![crimson_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Cut Copper Vertical Slab
@@ -2539,7 +2539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Copper Slab | ![cut_copper_slab](../images/quark_cut_copper_slab.png) |
+| # | Cut Copper Slab | ![cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Copper Vertical Slab
@@ -2547,7 +2547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Copper Block | ![copper_block](../images/quark_copper_block.png) |
+| item | Copper Block | ![copper_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Cut Copper Vertical Slab
@@ -2555,7 +2555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Copper | ![cut_copper](../images/quark_cut_copper.png) |
+| item | Cut Copper | ![cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Copper Slab
@@ -2563,7 +2563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Vertical Slab | ![cut_copper_vertical_slab](../images/quark_cut_copper_vertical_slab.png) |
+| - | Cut Copper Vertical Slab | ![cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Cut Red Sandstone Vertical Slab
@@ -2571,7 +2571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Red Sandstone Slab | ![cut_red_sandstone_slab](../images/quark_cut_red_sandstone_slab.png) |
+| # | Cut Red Sandstone Slab | ![cut_red_sandstone_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Red Sandstone Vertical Slab
@@ -2579,7 +2579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Red Sandstone | ![cut_red_sandstone](../images/quark_cut_red_sandstone.png) |
+| item | Cut Red Sandstone | ![cut_red_sandstone](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Red Sandstone Slab
@@ -2587,7 +2587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Red Sandstone Vertical Slab | ![cut_red_sandstone_vertical_slab](../images/quark_cut_red_sandstone_vertical_slab.png) |
+| - | Cut Red Sandstone Vertical Slab | ![cut_red_sandstone_vertical_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Red Sandstone Vertical Slab
@@ -2595,7 +2595,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/quark_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Cut Sandstone Vertical Slab
@@ -2603,7 +2603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Sandstone Slab | ![cut_sandstone_slab](../images/quark_cut_sandstone_slab.png) |
+| # | Cut Sandstone Slab | ![cut_sandstone_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Sandstone Vertical Slab
@@ -2611,7 +2611,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Sandstone | ![cut_sandstone](../images/quark_cut_sandstone.png) |
+| item | Cut Sandstone | ![cut_sandstone](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Sandstone Slab
@@ -2619,7 +2619,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Sandstone Vertical Slab | ![cut_sandstone_vertical_slab](../images/quark_cut_sandstone_vertical_slab.png) |
+| - | Cut Sandstone Vertical Slab | ![cut_sandstone_vertical_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Sandstone Vertical Slab
@@ -2627,7 +2627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/quark_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Cut Soul Sandstone
@@ -2675,7 +2675,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Soul Sandstone Slab | ![cut_soul_sandstone_slab](../images/quark_cut_soul_sandstone_slab.png) |
+| # | Cut Soul Sandstone Slab | ![cut_soul_sandstone_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Soul Sandstone Slab
@@ -2683,7 +2683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Soul Sandstone Vertical Slab | ![cut_soul_sandstone_vertical_slab](../images/quark_cut_soul_sandstone_vertical_slab.png) |
+| - | Cut Soul Sandstone Vertical Slab | ![cut_soul_sandstone_vertical_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Cut Soul Sandstone Vertical Slab
@@ -2757,7 +2757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Terracotta | ![cyan_terracotta](../images/quark_cyan_terracotta.png) |
+| # | Cyan Terracotta | ![cyan_terracotta](../images/quark_axolotl_bucket_cyan.png) |
 
 ---
 ## Cyan Shingles
@@ -2790,7 +2790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_axolotl_bucket_cyan.png) |
 
 ---
 ## Cyan Shingles Stairs
@@ -2814,7 +2814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_axolotl_bucket_cyan.png) |
 
 ---
 ## Cyan Shingles
@@ -2822,7 +2822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_axolotl_bucket_cyan.png) |
 
 ---
 ## Cyan Shingles Vertical Slab
@@ -2830,7 +2830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Shingles Slab | ![cyan_shingles_slab](../images/quark_cyan_shingles_slab.png) |
+| # | Cyan Shingles Slab | ![cyan_shingles_slab](../images/quark_cyan_shingles.png) |
 
 ---
 ## Cyan Shingles Slab
@@ -2838,7 +2838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Shingles Vertical Slab | ![cyan_shingles_vertical_slab](../images/quark_cyan_shingles_vertical_slab.png) |
+| - | Cyan Shingles Vertical Slab | ![cyan_shingles_vertical_slab](../images/quark_cyan_shingles.png) |
 
 ---
 ## Cyan Shingles Vertical Slab
@@ -2854,7 +2854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/quark_axolotl_bucket_cyan.png) |
 
 ---
 ## Cyan Stool
@@ -2862,8 +2862,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/quark_cyan_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Cyan Wool | ![cyan_wool](../images/quark_axolotl_bucket_cyan.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Cyan Wool
@@ -2871,8 +2871,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/quark_cyan_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Cyan Dye | ![cyan_dye](../images/quark_axolotl_bucket_cyan.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Dark Elder Prismarine
@@ -2880,8 +2880,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine | ![elder_prismarine](../images/quark_elder_prismarine.png) |
-| D | Ink Sac | ![ink_sac](../images/quark_ink_sac.png) |
+| # | Elder Prismarine | ![elder_prismarine](../images/quark_abacus_0.png) |
+| D | Ink Sac | ![ink_sac](../images/quark_abacus_0.png) |
 
 ---
 ## Dark Oak Bookshelf
@@ -2889,8 +2889,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_bookshelf.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Dark Oak Chest
@@ -2898,7 +2898,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Chest
@@ -2906,7 +2906,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Logs | ![dark_oak_logs](../images/quark_dark_oak_logs.png) |
+| # | Dark Oak Logs | ![dark_oak_logs](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Hedge
@@ -2914,8 +2914,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Leaves | ![dark_oak_leaves](../images/quark_dark_oak_leaves.png) |
-| W | Dark Oak Logs | ![dark_oak_logs](../images/quark_dark_oak_logs.png) |
+| L | Dark Oak Leaves | ![dark_oak_leaves](../images/quark_dark_oak_bookshelf.png) |
+| W | Dark Oak Logs | ![dark_oak_logs](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Ladder
@@ -2924,7 +2924,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_planks.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Leaf Carpet
@@ -2932,7 +2932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Leaves | ![dark_oak_leaves](../images/quark_dark_oak_leaves.png) |
+| # | Dark Oak Leaves | ![dark_oak_leaves](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Post
@@ -2940,7 +2940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Dark Oak Wood | ![dark_oak_wood](../images/quark_dark_oak_wood.png) |
+| F | Dark Oak Wood | ![dark_oak_wood](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Trapped Chest
@@ -2948,8 +2948,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Chest | ![dark_oak_chest](../images/quark_dark_oak_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Dark Oak Chest | ![dark_oak_chest](../images/quark_dark_oak_bookshelf.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Dark Oak Vertical Slab
@@ -2957,7 +2957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/quark_dark_oak_slab.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Slab
@@ -2965,7 +2965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Vertical Slab | ![dark_oak_vertical_slab](../images/quark_dark_oak_vertical_slab.png) |
+| - | Dark Oak Vertical Slab | ![dark_oak_vertical_slab](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Prismarine Vertical Slab
@@ -2973,7 +2973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Prismarine Slab | ![dark_prismarine_slab](../images/quark_dark_prismarine_slab.png) |
+| # | Dark Prismarine Slab | ![dark_prismarine_slab](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Prismarine Slab
@@ -2981,7 +2981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Prismarine Vertical Slab | ![dark_prismarine_vertical_slab](../images/quark_dark_prismarine_vertical_slab.png) |
+| - | Dark Prismarine Vertical Slab | ![dark_prismarine_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Dark Prismarine Vertical Slab
@@ -2989,7 +2989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/quark_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Blast Furnace
@@ -2997,9 +2997,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Stone | ![smooth_stone](../images/quark_smooth_stone.png) |
-| X | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace.png) |
-| I | Iron Ingot | ![iron_ingot](../images/quark_iron_ingot.png) |
+| # | Smooth Stone | ![smooth_stone](../images/quark_smooth_stone_vertical_slab_side.png) |
+| X | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace_front.png) |
+| I | Iron Ingot | ![iron_ingot](../images/quark_iron_ladder.png) |
 
 ---
 ## Deepslate Brick Vertical Slab
@@ -3007,7 +3007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Deepslate Brick Slab | ![deepslate_brick_slab](../images/quark_deepslate_brick_slab.png) |
+| # | Deepslate Brick Slab | ![deepslate_brick_slab](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Brick Vertical Slab
@@ -3015,7 +3015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_cobbled_deepslate.png) |
+| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Brick Vertical Slab
@@ -3023,7 +3023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Bricks | ![deepslate_bricks](../images/quark_deepslate_bricks.png) |
+| item | Deepslate Bricks | ![deepslate_bricks](../images/quark_andesite_bricks.png) |
 
 ---
 ## Deepslate Brick Vertical Slab
@@ -3031,7 +3031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Deepslate | ![polished_deepslate](../images/quark_polished_deepslate.png) |
+| item | Polished Deepslate | ![polished_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Brick Slab
@@ -3039,7 +3039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Brick Vertical Slab | ![deepslate_brick_vertical_slab](../images/quark_deepslate_brick_vertical_slab.png) |
+| - | Deepslate Brick Vertical Slab | ![deepslate_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Deepslate Furnace
@@ -3047,7 +3047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_cobbled_deepslate.png) |
+| # | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Furnace Minecart
@@ -3055,8 +3055,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace.png) |
-| B | Minecart | ![minecart](../images/quark_minecart.png) |
+| A | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace_front.png) |
+| B | Minecart | ![minecart](../images/quark_abacus_0.png) |
 
 ---
 ## Furnace Minecart
@@ -3065,7 +3065,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| X | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace.png) |
+| X | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Smoker
@@ -3073,8 +3073,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Logs | ![logs](../images/quark_logs.png) |
-| X | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace.png) |
+| # | Logs | ![logs](../images/quark_abacus_0.png) |
+| X | Deepslate Furnace | ![deepslate_furnace](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Tile Vertical Slab
@@ -3082,7 +3082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Deepslate Tile Slab | ![deepslate_tile_slab](../images/quark_deepslate_tile_slab.png) |
+| # | Deepslate Tile Slab | ![deepslate_tile_slab](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Tile Vertical Slab
@@ -3090,7 +3090,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_cobbled_deepslate.png) |
+| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Tile Vertical Slab
@@ -3098,7 +3098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Bricks | ![deepslate_bricks](../images/quark_deepslate_bricks.png) |
+| item | Deepslate Bricks | ![deepslate_bricks](../images/quark_andesite_bricks.png) |
 
 ---
 ## Deepslate Tile Vertical Slab
@@ -3106,7 +3106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Tiles | ![deepslate_tiles](../images/quark_deepslate_tiles.png) |
+| item | Deepslate Tiles | ![deepslate_tiles](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Tile Vertical Slab
@@ -3114,7 +3114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Deepslate | ![polished_deepslate](../images/quark_polished_deepslate.png) |
+| item | Polished Deepslate | ![polished_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Deepslate Tile Slab
@@ -3122,7 +3122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Tile Vertical Slab | ![deepslate_tile_vertical_slab](../images/quark_deepslate_tile_vertical_slab.png) |
+| - | Deepslate Tile Vertical Slab | ![deepslate_tile_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Diorite Bricks
@@ -3130,7 +3130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| # | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks
@@ -3138,7 +3138,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| item | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Slab
@@ -3154,7 +3154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| item | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Slab
@@ -3162,7 +3162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Slab
@@ -3186,7 +3186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| item | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Stairs
@@ -3194,7 +3194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Stairs
@@ -3210,7 +3210,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Vertical Slab
@@ -3218,7 +3218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diorite Bricks Slab | ![diorite_bricks_slab](../images/quark_diorite_bricks_slab.png) |
+| # | Diorite Bricks Slab | ![diorite_bricks_slab](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Vertical Slab
@@ -3226,7 +3226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| item | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Slab
@@ -3234,7 +3234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diorite Bricks Vertical Slab | ![diorite_bricks_vertical_slab](../images/quark_diorite_bricks_vertical_slab.png) |
+| - | Diorite Bricks Vertical Slab | ![diorite_bricks_vertical_slab](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Vertical Slab
@@ -3242,7 +3242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Vertical Slab
@@ -3266,7 +3266,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| item | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Wall
@@ -3274,7 +3274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Bricks Wall
@@ -3290,7 +3290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Diorite Slab | ![polished_diorite_slab](../images/quark_polished_diorite_slab.png) |
+| # | Polished Diorite Slab | ![polished_diorite_slab](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Pillar
@@ -3298,7 +3298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Vertical Slab
@@ -3306,7 +3306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diorite Slab | ![diorite_slab](../images/quark_diorite_slab.png) |
+| # | Diorite Slab | ![diorite_slab](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Diorite Slab
@@ -3314,7 +3314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diorite Vertical Slab | ![diorite_vertical_slab](../images/quark_diorite_vertical_slab.png) |
+| - | Diorite Vertical Slab | ![diorite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Diorite Vertical Slab
@@ -3322,7 +3322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Acacia Chest Boat
@@ -3330,7 +3330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_bookshelf.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3357,7 +3357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/quark_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/quark_ancient_planks.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3375,7 +3375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_bookshelf.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3384,7 +3384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/quark_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/quark_ancient_planks.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3393,7 +3393,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/quark_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/quark_ancient_planks.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3402,7 +3402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/quark_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/quark_ancient_planks.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3411,7 +3411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/quark_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/quark_ancient_planks.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/quark_chests/wooden.png) |
 
 ---
@@ -3420,7 +3420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shards | ![shards](../images/quark_shards.png) |
+| # | Shards | ![shards](../images/quark_abacus_0.png) |
 
 ---
 ## Dirty Glass Pane
@@ -3436,7 +3436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dirt | ![dirt](../images/quark_dirt.png) |
+| # | Dirt | ![dirt](../images/quark_dirt_bricks.png) |
 | C | Cobblestone Bricks | ![cobblestone_bricks](../images/quark_cobblestone_bricks.png) |
 
 ---
@@ -3461,7 +3461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dirt Bricks Slab | ![dirt_bricks_slab](../images/quark_dirt_bricks_slab.png) |
+| # | Dirt Bricks Slab | ![dirt_bricks_slab](../images/quark_dirt_bricks.png) |
 
 ---
 ## Dirt Bricks Slab
@@ -3469,7 +3469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt Bricks Vertical Slab | ![dirt_bricks_vertical_slab](../images/quark_dirt_bricks_vertical_slab.png) |
+| - | Dirt Bricks Vertical Slab | ![dirt_bricks_vertical_slab](../images/quark_dirt_bricks.png) |
 
 ---
 ## Dirt Bricks Wall
@@ -3485,8 +3485,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bow | ![bow](../images/quark_bow.png) |
-| - | Dropper | ![dropper](../images/quark_dropper.png) |
+| - | Bow | ![bow](../images/quark_abacus_0.png) |
+| - | Dropper | ![dropper](../images/quark_abacus_0.png) |
 
 ---
 ## Dispenser
@@ -3495,8 +3495,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | String | ![string](../images/quark_string.png) |
-| D | Dropper | ![dropper](../images/quark_dropper.png) |
+| X | String | ![string](../images/quark_abacus_0.png) |
+| D | Dropper | ![dropper](../images/quark_abacus_0.png) |
 
 ---
 ## Blossom Door
@@ -3512,7 +3512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| # | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Slab
@@ -3520,7 +3520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Stairs
@@ -3528,7 +3528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| # | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Stairs
@@ -3536,7 +3536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Vertical Slab
@@ -3544,7 +3544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Block Slab | ![dripstone_block_slab](../images/quark_dripstone_block_slab.png) |
+| # | Dripstone Block Slab | ![dripstone_block_slab](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Slab
@@ -3552,7 +3552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dripstone Block Vertical Slab | ![dripstone_block_vertical_slab](../images/quark_dripstone_block_vertical_slab.png) |
+| - | Dripstone Block Vertical Slab | ![dripstone_block_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Dripstone Block Vertical Slab
@@ -3560,7 +3560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Wall
@@ -3568,7 +3568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| # | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Block Wall
@@ -3576,7 +3576,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Bricks
@@ -3616,7 +3616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Bricks Slab
@@ -3648,7 +3648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Bricks Stairs
@@ -3664,7 +3664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Bricks Vertical Slab
@@ -3672,7 +3672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Bricks Slab | ![dripstone_bricks_slab](../images/quark_dripstone_bricks_slab.png) |
+| # | Dripstone Bricks Slab | ![dripstone_bricks_slab](../images/quark_chiseled_dripstone_bricks.png) |
 
 ---
 ## Dripstone Bricks Vertical Slab
@@ -3688,7 +3688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dripstone Bricks Vertical Slab | ![dripstone_bricks_vertical_slab](../images/quark_dripstone_bricks_vertical_slab.png) |
+| - | Dripstone Bricks Vertical Slab | ![dripstone_bricks_vertical_slab](../images/quark_chiseled_dripstone_bricks.png) |
 
 ---
 ## Dripstone Bricks Vertical Slab
@@ -3696,7 +3696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Bricks Vertical Slab
@@ -3728,7 +3728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Dripstone Bricks Wall
@@ -3744,7 +3744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Dripstone Slab | ![polished_dripstone_slab](../images/quark_polished_dripstone_slab.png) |
+| # | Polished Dripstone Slab | ![polished_dripstone_slab](../images/quark_polished_dripstone.png) |
 
 ---
 ## Dripstone Pillar
@@ -3752,7 +3752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Duskbound Block
@@ -3760,7 +3760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Purpur Block | ![purpur_block](../images/quark_purpur_block.png) |
+| P | Purpur Block | ![purpur_block](../images/quark_bamboo_block.png) |
 | O | Dusky Myalite | ![dusky_myalite](../images/quark_dusky_myalite.png) |
 
 ---
@@ -3801,7 +3801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Duskbound Block Slab | ![duskbound_block_slab](../images/quark_duskbound_block_slab.png) |
+| # | Duskbound Block Slab | ![duskbound_block_slab](../images/quark_duskbound_block.png) |
 
 ---
 ## Duskbound Block Slab
@@ -3809,7 +3809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Duskbound Block Vertical Slab | ![duskbound_block_vertical_slab](../images/quark_duskbound_block_vertical_slab.png) |
+| - | Duskbound Block Vertical Slab | ![duskbound_block_vertical_slab](../images/quark_duskbound_block.png) |
 
 ---
 ## Duskbound Block Vertical Slab
@@ -3825,8 +3825,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Purpur Block | ![purpur_block](../images/quark_purpur_block.png) |
-| O | Obsidian | ![obsidian](../images/quark_obsidian.png) |
+| P | Purpur Block | ![purpur_block](../images/quark_bamboo_block.png) |
+| O | Obsidian | ![obsidian](../images/quark_abacus_0.png) |
 
 ---
 ## Duskbound Lantern
@@ -3835,7 +3835,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Duskbound Block | ![duskbound_block](../images/quark_duskbound_block.png) |
-| E | Ender Pearl | ![ender_pearl](../images/quark_ender_pearl.png) |
+| E | Ender Pearl | ![ender_pearl](../images/quark_ender_watcher.png) |
 
 ---
 ## {}
@@ -3851,7 +3851,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| W | Logs | ![logs](../images/quark_logs.png) |
+| W | Logs | ![logs](../images/quark_abacus_0.png) |
 
 ---
 ## Stick
@@ -3859,7 +3859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Logs | ![logs](../images/quark_logs.png) |
+| # | Logs | ![logs](../images/quark_abacus_0.png) |
 
 ---
 ## Stick
@@ -3867,7 +3867,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo Logs | ![bamboo_logs](../images/quark_bamboo_logs.png) |
+| # | Bamboo Logs | ![bamboo_logs](../images/quark_bamboo_block.png) |
 
 ---
 ## Echorang
@@ -3889,8 +3889,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pipe | ![pipe](../images/quark_pipe.png) |
-| - | Glass | ![glass](../images/quark_glass.png) |
+| - | Pipe | ![pipe](../images/quark_pipe_connectors.png) |
+| - | Glass | ![glass](../images/quark_black_framed_glass.png) |
 
 ---
 ## Pipe
@@ -3898,7 +3898,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Encased Pipe | ![encased_pipe](../images/quark_encased_pipe.png) |
+| - | Encased Pipe | ![encased_pipe](../images/quark_pipe_connectors.png) |
 
 ---
 ## Ender Watcher
@@ -3907,8 +3907,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Dusts/Redstone | ![dusts/redstone](../images/quark_dusts/redstone.png) |
-| B | Obsidian | ![obsidian](../images/quark_obsidian.png) |
-| E | Ender Eye | ![ender_eye](../images/quark_ender_eye.png) |
+| B | Obsidian | ![obsidian](../images/quark_abacus_0.png) |
+| E | Ender Eye | ![ender_eye](../images/quark_ender_watcher.png) |
 
 ---
 ## End Stone Brick Vertical Slab
@@ -3916,7 +3916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | End Stone Brick Slab | ![end_stone_brick_slab](../images/quark_end_stone_brick_slab.png) |
+| # | End Stone Brick Slab | ![end_stone_brick_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## End Stone Brick Vertical Slab
@@ -3924,7 +3924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Bricks | ![end_stone_bricks](../images/quark_end_stone_bricks.png) |
+| item | End Stone Bricks | ![end_stone_bricks](../images/quark_andesite_bricks.png) |
 
 ---
 ## End Stone Brick Slab
@@ -3932,7 +3932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Stone Brick Vertical Slab | ![end_stone_brick_vertical_slab](../images/quark_end_stone_brick_vertical_slab.png) |
+| - | End Stone Brick Vertical Slab | ![end_stone_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## End Stone Brick Vertical Slab
@@ -3940,7 +3940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone | ![end_stone](../images/quark_end_stone.png) |
+| item | End Stone | ![end_stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Exposed Cut Copper Vertical Slab
@@ -3948,7 +3948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/quark_exposed_cut_copper_slab.png) |
+| # | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Exposed Cut Copper Vertical Slab
@@ -3956,7 +3956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Copper | ![exposed_copper](../images/quark_exposed_copper.png) |
+| item | Exposed Copper | ![exposed_copper](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Exposed Cut Copper Vertical Slab
@@ -3964,7 +3964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Cut Copper | ![exposed_cut_copper](../images/quark_exposed_cut_copper.png) |
+| item | Exposed Cut Copper | ![exposed_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Exposed Cut Copper Slab
@@ -3972,7 +3972,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper Vertical Slab | ![exposed_cut_copper_vertical_slab](../images/quark_exposed_cut_copper_vertical_slab.png) |
+| - | Exposed Cut Copper Vertical Slab | ![exposed_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Feeding Trough
@@ -3981,7 +3981,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | W | Wheat | ![wheat](../images/quark_wheat.png) |
-| # | Planks | ![planks](../images/quark_planks.png) |
+| # | Planks | ![planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Blossom Fence
@@ -3989,7 +3989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/quark_stick.png) |
+| # | Stick | ![stick](../images/quark_stick_block.png) |
 | W | Blossom Planks | ![blossom_planks](../images/quark_blossom_planks.png) |
 
 ---
@@ -3998,7 +3998,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/quark_stick.png) |
+| # | Stick | ![stick](../images/quark_stick_block.png) |
 | W | Blossom Planks | ![blossom_planks](../images/quark_blossom_planks.png) |
 
 ---
@@ -4007,7 +4007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fire Coral Fan'}] | ![fire_coral_fan'}]](../images/quark_fire_coral_fan'}].png) |
+| - | Fire Coral Fan'}] | ![fire_coral_fan'}]](../images/quark_music_disc_fire.png) |
 
 ---
 ## Flamerang
@@ -4022,8 +4022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/quark_flowering_azalea_leaves.png) |
-| W | Azalea Logs | ![azalea_logs](../images/quark_azalea_logs.png) |
+| L | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/quark_ancient_leaves.png) |
+| W | Azalea Logs | ![azalea_logs](../images/quark_azalea_boat.png) |
 
 ---
 ## Flowering Azalea Hedge
@@ -4031,8 +4031,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/quark_flowering_azalea_leaves.png) |
-| W | Oak Logs | ![oak_logs](../images/quark_oak_logs.png) |
+| L | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/quark_ancient_leaves.png) |
+| W | Oak Logs | ![oak_logs](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Flowering Azalea Leaf Carpet
@@ -4040,7 +4040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/quark_flowering_azalea_leaves.png) |
+| # | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Framed Glass
@@ -4066,7 +4066,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| X | Furnace | ![furnace](../images/quark_furnace.png) |
+| X | Furnace | ![furnace](../images/quark_blackstone_furnace_front.png) |
 
 ---
 ## Glass Item Frame
@@ -4075,7 +4075,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Glass Panes/Colorless | ![glass_panes/colorless](../images/quark_glass_panes/colorless.png) |
-| F | Item Frame | ![item_frame](../images/quark_item_frame.png) |
+| F | Item Frame | ![item_frame](../images/quark_dyed_glow_item_frame.png) |
 
 ---
 ## Glowberry Sack
@@ -4083,7 +4083,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glow Berries | ![glow_berries](../images/quark_glow_berries.png) |
+| # | Glow Berries | ![glow_berries](../images/quark_berries.png) |
 
 ---
 ## Glow Berries
@@ -4100,7 +4100,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Glass Item Frame | ![glass_item_frame](../images/quark_glass_item_frame.png) |
-| - | Glow Ink Sac | ![glow_ink_sac](../images/quark_glow_ink_sac.png) |
+| - | Glow Ink Sac | ![glow_ink_sac](../images/quark_dyed_glow_item_frame.png) |
 
 ---
 ## Golden Apple Crate
@@ -4108,7 +4108,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Golden Apple | ![golden_apple](../images/quark_golden_apple.png) |
+| # | Golden Apple | ![golden_apple](../images/quark_golden_apple_crate.png) |
 
 ---
 ## Golden Apple
@@ -4124,7 +4124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Golden Carrot | ![golden_carrot](../images/quark_golden_carrot.png) |
+| # | Golden Carrot | ![golden_carrot](../images/quark_golden_carrot_crate.png) |
 
 ---
 ## Golden Carrot
@@ -4148,7 +4148,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Buttons | ![wooden_buttons](../images/quark_wooden_buttons.png) |
+| - | Wooden Buttons | ![wooden_buttons](../images/quark_abacus_0.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/quark_ingots/gold.png) |
 
 ---
@@ -4157,7 +4157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| # | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks
@@ -4165,7 +4165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| item | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Slab
@@ -4181,7 +4181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| item | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Slab
@@ -4189,7 +4189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Slab
@@ -4213,7 +4213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| item | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Stairs
@@ -4221,7 +4221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Stairs
@@ -4237,7 +4237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Vertical Slab
@@ -4245,7 +4245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Granite Bricks Slab | ![granite_bricks_slab](../images/quark_granite_bricks_slab.png) |
+| # | Granite Bricks Slab | ![granite_bricks_slab](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Vertical Slab
@@ -4253,7 +4253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| item | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Slab
@@ -4261,7 +4261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Granite Bricks Vertical Slab | ![granite_bricks_vertical_slab](../images/quark_granite_bricks_vertical_slab.png) |
+| - | Granite Bricks Vertical Slab | ![granite_bricks_vertical_slab](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Vertical Slab
@@ -4269,7 +4269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Vertical Slab
@@ -4293,7 +4293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| item | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Wall
@@ -4301,7 +4301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Bricks Wall
@@ -4317,7 +4317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Granite Slab | ![polished_granite_slab](../images/quark_polished_granite_slab.png) |
+| # | Polished Granite Slab | ![polished_granite_slab](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Pillar
@@ -4325,7 +4325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Vertical Slab
@@ -4333,7 +4333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Granite Slab | ![granite_slab](../images/quark_granite_slab.png) |
+| # | Granite Slab | ![granite_slab](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Granite Slab
@@ -4341,7 +4341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Granite Vertical Slab | ![granite_vertical_slab](../images/quark_granite_vertical_slab.png) |
+| - | Granite Vertical Slab | ![granite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Granite Vertical Slab
@@ -4349,7 +4349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Grate
@@ -4357,7 +4357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Bars | ![iron_bars](../images/quark_iron_bars.png) |
+| # | Iron Bars | ![iron_bars](../images/quark_gold_bars.png) |
 
 ---
 ## Gravisand
@@ -4366,7 +4366,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Sand/Colorless | ![sand/colorless](../images/quark_sand/colorless.png) |
-| E | Ender Pearls | ![ender_pearls](../images/quark_ender_pearls.png) |
+| E | Ender Pearls | ![ender_pearls](../images/quark_ender_watcher.png) |
 
 ---
 ## Gray Framed Glass
@@ -4424,7 +4424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Terracotta | ![gray_terracotta](../images/quark_gray_terracotta.png) |
+| # | Gray Terracotta | ![gray_terracotta](../images/quark_gray_framed_glass.png) |
 
 ---
 ## Gray Shingles
@@ -4457,7 +4457,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_framed_glass.png) |
 
 ---
 ## Gray Shingles Stairs
@@ -4481,7 +4481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_framed_glass.png) |
 
 ---
 ## Gray Shingles
@@ -4489,7 +4489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_framed_glass.png) |
 
 ---
 ## Gray Shingles Vertical Slab
@@ -4497,7 +4497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Shingles Slab | ![gray_shingles_slab](../images/quark_gray_shingles_slab.png) |
+| # | Gray Shingles Slab | ![gray_shingles_slab](../images/quark_gray_shingles.png) |
 
 ---
 ## Gray Shingles Slab
@@ -4505,7 +4505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Shingles Vertical Slab | ![gray_shingles_vertical_slab](../images/quark_gray_shingles_vertical_slab.png) |
+| - | Gray Shingles Vertical Slab | ![gray_shingles_vertical_slab](../images/quark_gray_shingles.png) |
 
 ---
 ## Gray Shingles Vertical Slab
@@ -4521,7 +4521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/quark_gray_framed_glass.png) |
 
 ---
 ## Gray Stool
@@ -4529,8 +4529,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/quark_gray_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Gray Wool | ![gray_wool](../images/quark_gray_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Gray Wool
@@ -4538,8 +4538,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/quark_gray_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Gray Dye | ![gray_dye](../images/quark_gray_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Green Corundum
@@ -4547,7 +4547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Corundum Pane | ![green_corundum_pane](../images/quark_green_corundum_pane.png) |
+| # | Green Corundum Pane | ![green_corundum_pane](../images/quark_green_corundum.png) |
 
 ---
 ## Green Crystal Lamp
@@ -4556,7 +4556,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Green Corundum | ![green_corundum](../images/quark_green_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Green Corundum Pane
@@ -4572,10 +4572,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Lime Dye | ![lime_dye](../images/quark_lime_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Lime Dye | ![lime_dye](../images/quark_lime_framed_glass.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Green Framed Glass
@@ -4633,7 +4633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Terracotta | ![green_terracotta](../images/quark_green_terracotta.png) |
+| # | Green Terracotta | ![green_terracotta](../images/quark_crab_bucket_green.png) |
 
 ---
 ## Green Shingles
@@ -4666,7 +4666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/quark_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/quark_crab_bucket_green.png) |
 
 ---
 ## Green Shingles Stairs
@@ -4690,7 +4690,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/quark_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/quark_crab_bucket_green.png) |
 
 ---
 ## Green Shingles
@@ -4698,7 +4698,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/quark_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/quark_crab_bucket_green.png) |
 
 ---
 ## Green Shingles Vertical Slab
@@ -4706,7 +4706,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Shingles Slab | ![green_shingles_slab](../images/quark_green_shingles_slab.png) |
+| # | Green Shingles Slab | ![green_shingles_slab](../images/quark_green_shingles.png) |
 
 ---
 ## Green Shingles Slab
@@ -4714,7 +4714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Shingles Vertical Slab | ![green_shingles_vertical_slab](../images/quark_green_shingles_vertical_slab.png) |
+| - | Green Shingles Vertical Slab | ![green_shingles_vertical_slab](../images/quark_green_shingles.png) |
 
 ---
 ## Green Shingles Vertical Slab
@@ -4730,7 +4730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/quark_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/quark_crab_bucket_green.png) |
 
 ---
 ## Green Stool
@@ -4738,8 +4738,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/quark_green_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Green Wool | ![green_wool](../images/quark_crab_bucket_green.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Green Wool
@@ -4747,8 +4747,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/quark_green_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Green Dye | ![green_dye](../images/quark_crab_bucket_green.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Gunpowder Sack
@@ -4756,7 +4756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gunpowder | ![gunpowder](../images/quark_gunpowder.png) |
+| # | Gunpowder | ![gunpowder](../images/quark_gunpowder_sack.png) |
 
 ---
 ## Gunpowder
@@ -4772,7 +4772,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/quark_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Hollow Ancient Log
@@ -4796,7 +4796,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/quark_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/quark_ancient_log.png) |
 
 ---
 ## Hollow Blossom Log
@@ -4812,7 +4812,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/quark_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/quark_crimson_bookshelf.png) |
 
 ---
 ## Hollow Dark Oak Log
@@ -4820,7 +4820,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/quark_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Hollow Jungle Log
@@ -4828,7 +4828,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/quark_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/quark_ancient_log.png) |
 
 ---
 ## Hollow Mangrove Log
@@ -4836,7 +4836,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/quark_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/quark_ancient_log.png) |
 
 ---
 ## Hollow Oak Log
@@ -4844,7 +4844,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/quark_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/quark_ancient_log.png) |
 
 ---
 ## Hollow Spruce Log
@@ -4852,7 +4852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/quark_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/quark_ancient_log.png) |
 
 ---
 ## Hollow Warped Stem
@@ -4860,7 +4860,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/quark_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/quark_glow_shroom_stem.png) |
 
 ---
 ## Hopper Minecart
@@ -4869,7 +4869,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| X | Hopper | ![hopper](../images/quark_hopper.png) |
+| X | Hopper | ![hopper](../images/quark_abacus_0.png) |
 
 ---
 ## Yellow Dye
@@ -4877,7 +4877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Horn Coral Fan'}] | ![horn_coral_fan'}]](../images/quark_horn_coral_fan'}].png) |
+| - | Horn Coral Fan'}] | ![horn_coral_fan'}]](../images/quark_abacus_0.png) |
 
 ---
 ## Indigo Corundum
@@ -4885,7 +4885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Indigo Corundum Pane | ![indigo_corundum_pane](../images/quark_indigo_corundum_pane.png) |
+| # | Indigo Corundum Pane | ![indigo_corundum_pane](../images/quark_indigo_corundum.png) |
 
 ---
 ## Indigo Crystal Lamp
@@ -4894,7 +4894,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Indigo Corundum | ![indigo_corundum](../images/quark_indigo_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Indigo Corundum Pane
@@ -4910,10 +4910,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Blue Dye | ![blue_dye](../images/quark_blue_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Blue Dye | ![blue_dye](../images/quark_axolotl_bucket_blue.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Iron Button
@@ -4921,7 +4921,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Buttons | ![wooden_buttons](../images/quark_wooden_buttons.png) |
+| - | Wooden Buttons | ![wooden_buttons](../images/quark_abacus_0.png) |
 | - | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
 
 ---
@@ -4939,7 +4939,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plate Slab | ![iron_plate_slab](../images/quark_iron_plate_slab.png) |
+| # | Iron Plate Slab | ![iron_plate_slab](../images/quark_iron_plate.png) |
 
 ---
 ## Iron Pillar
@@ -4995,7 +4995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plate Slab | ![iron_plate_slab](../images/quark_iron_plate_slab.png) |
+| # | Iron Plate Slab | ![iron_plate_slab](../images/quark_iron_plate.png) |
 
 ---
 ## Iron Plate Slab
@@ -5003,7 +5003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Plate Vertical Slab | ![iron_plate_vertical_slab](../images/quark_iron_plate_vertical_slab.png) |
+| - | Iron Plate Vertical Slab | ![iron_plate_vertical_slab](../images/quark_iron_plate.png) |
 
 ---
 ## Iron Plate Vertical Slab
@@ -5019,7 +5019,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | End Rod | ![end_rod](../images/quark_end_rod.png) |
+| R | End Rod | ![end_rod](../images/quark_iron_rod.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
 
 ---
@@ -5124,7 +5124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jasper Bricks Slab | ![jasper_bricks_slab](../images/quark_jasper_bricks_slab.png) |
+| # | Jasper Bricks Slab | ![jasper_bricks_slab](../images/quark_chiseled_jasper_bricks.png) |
 
 ---
 ## Jasper Bricks Vertical Slab
@@ -5140,7 +5140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jasper Bricks Vertical Slab | ![jasper_bricks_vertical_slab](../images/quark_jasper_bricks_vertical_slab.png) |
+| - | Jasper Bricks Vertical Slab | ![jasper_bricks_vertical_slab](../images/quark_chiseled_jasper_bricks.png) |
 
 ---
 ## Jasper Bricks Vertical Slab
@@ -5196,7 +5196,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Jasper Slab | ![polished_jasper_slab](../images/quark_polished_jasper_slab.png) |
+| # | Polished Jasper Slab | ![polished_jasper_slab](../images/quark_polished_jasper.png) |
 
 ---
 ## Jasper Pillar
@@ -5244,7 +5244,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jasper Slab | ![jasper_slab](../images/quark_jasper_slab.png) |
+| # | Jasper Slab | ![jasper_slab](../images/quark_chiseled_jasper_bricks.png) |
 
 ---
 ## Jasper Slab
@@ -5252,7 +5252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jasper Vertical Slab | ![jasper_vertical_slab](../images/quark_jasper_vertical_slab.png) |
+| - | Jasper Vertical Slab | ![jasper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Jasper Vertical Slab
@@ -5284,8 +5284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/quark_jungle_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Jungle Planks | ![jungle_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Jungle Chest
@@ -5293,7 +5293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/quark_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Jungle Chest
@@ -5301,7 +5301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Logs | ![jungle_logs](../images/quark_jungle_logs.png) |
+| # | Jungle Logs | ![jungle_logs](../images/quark_jungle_bookshelf.png) |
 
 ---
 ## Jungle Hedge
@@ -5309,8 +5309,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Leaves | ![jungle_leaves](../images/quark_jungle_leaves.png) |
-| W | Jungle Logs | ![jungle_logs](../images/quark_jungle_logs.png) |
+| L | Jungle Leaves | ![jungle_leaves](../images/quark_ancient_leaves.png) |
+| W | Jungle Logs | ![jungle_logs](../images/quark_jungle_bookshelf.png) |
 
 ---
 ## Jungle Ladder
@@ -5319,7 +5319,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Jungle Planks | ![jungle_planks](../images/quark_jungle_planks.png) |
+| W | Jungle Planks | ![jungle_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Jungle Leaf Carpet
@@ -5327,7 +5327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Leaves | ![jungle_leaves](../images/quark_jungle_leaves.png) |
+| # | Jungle Leaves | ![jungle_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Jungle Post
@@ -5335,7 +5335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Jungle Wood | ![jungle_wood](../images/quark_jungle_wood.png) |
+| F | Jungle Wood | ![jungle_wood](../images/quark_jungle_bookshelf.png) |
 
 ---
 ## Jungle Trapped Chest
@@ -5343,8 +5343,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Chest | ![jungle_chest](../images/quark_jungle_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Jungle Chest | ![jungle_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Jungle Vertical Slab
@@ -5352,7 +5352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/quark_jungle_slab.png) |
+| # | Jungle Slab | ![jungle_slab](../images/quark_jungle_bookshelf.png) |
 
 ---
 ## Jungle Slab
@@ -5360,7 +5360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Vertical Slab | ![jungle_vertical_slab](../images/quark_jungle_vertical_slab.png) |
+| - | Jungle Vertical Slab | ![jungle_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Blossom Ladder
@@ -5378,7 +5378,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Lavender Blossom Leaves | ![lavender_blossom_leaves](../images/quark_lavender_blossom_leaves.png) |
-| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Lavender Blossom Leaf Carpet
@@ -5436,7 +5436,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Blue Corundum | ![blue_corundum](../images/quark_blue_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Light Blue Shingles
@@ -5444,7 +5444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_terracotta.png) |
+| # | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_framed_glass.png) |
 
 ---
 ## Light Blue Shingles
@@ -5477,7 +5477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_framed_glass.png) |
 
 ---
 ## Light Blue Shingles Stairs
@@ -5501,7 +5501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_framed_glass.png) |
 
 ---
 ## Light Blue Shingles
@@ -5509,7 +5509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_framed_glass.png) |
 
 ---
 ## Light Blue Shingles Vertical Slab
@@ -5517,7 +5517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Shingles Slab | ![light_blue_shingles_slab](../images/quark_light_blue_shingles_slab.png) |
+| # | Light Blue Shingles Slab | ![light_blue_shingles_slab](../images/quark_light_blue_shingles.png) |
 
 ---
 ## Light Blue Shingles Slab
@@ -5525,7 +5525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Shingles Vertical Slab | ![light_blue_shingles_vertical_slab](../images/quark_light_blue_shingles_vertical_slab.png) |
+| - | Light Blue Shingles Vertical Slab | ![light_blue_shingles_vertical_slab](../images/quark_light_blue_shingles.png) |
 
 ---
 ## Light Blue Shingles Vertical Slab
@@ -5541,7 +5541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/quark_light_blue_framed_glass.png) |
 
 ---
 ## Light Blue Stool
@@ -5549,8 +5549,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/quark_light_blue_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/quark_light_blue_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Light Blue Wool
@@ -5558,8 +5558,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/quark_light_blue_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/quark_light_blue_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Light Gray Framed Glass
@@ -5627,7 +5627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_terracotta.png) |
+| # | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_framed_glass.png) |
 
 ---
 ## Light Gray Shingles
@@ -5660,7 +5660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_framed_glass.png) |
 
 ---
 ## Light Gray Shingles Stairs
@@ -5684,7 +5684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_framed_glass.png) |
 
 ---
 ## Light Gray Shingles
@@ -5692,7 +5692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_framed_glass.png) |
 
 ---
 ## Light Gray Shingles Vertical Slab
@@ -5700,7 +5700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Shingles Slab | ![light_gray_shingles_slab](../images/quark_light_gray_shingles_slab.png) |
+| # | Light Gray Shingles Slab | ![light_gray_shingles_slab](../images/quark_light_gray_shingles.png) |
 
 ---
 ## Light Gray Shingles Slab
@@ -5708,7 +5708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Shingles Vertical Slab | ![light_gray_shingles_vertical_slab](../images/quark_light_gray_shingles_vertical_slab.png) |
+| - | Light Gray Shingles Vertical Slab | ![light_gray_shingles_vertical_slab](../images/quark_light_gray_shingles.png) |
 
 ---
 ## Light Gray Shingles Vertical Slab
@@ -5724,7 +5724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/quark_light_gray_framed_glass.png) |
 
 ---
 ## Light Gray Stool
@@ -5732,8 +5732,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/quark_light_gray_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/quark_light_gray_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Light Gray Wool
@@ -5741,8 +5741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/quark_light_gray_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/quark_light_gray_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Limestone Bricks
@@ -5838,7 +5838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Limestone Bricks Slab | ![limestone_bricks_slab](../images/quark_limestone_bricks_slab.png) |
+| # | Limestone Bricks Slab | ![limestone_bricks_slab](../images/quark_chiseled_limestone_bricks.png) |
 
 ---
 ## Limestone Bricks Vertical Slab
@@ -5854,7 +5854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Limestone Bricks Vertical Slab | ![limestone_bricks_vertical_slab](../images/quark_limestone_bricks_vertical_slab.png) |
+| - | Limestone Bricks Vertical Slab | ![limestone_bricks_vertical_slab](../images/quark_chiseled_limestone_bricks.png) |
 
 ---
 ## Limestone Bricks Vertical Slab
@@ -5910,7 +5910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Limestone Slab | ![polished_limestone_slab](../images/quark_polished_limestone_slab.png) |
+| # | Polished Limestone Slab | ![polished_limestone_slab](../images/quark_polished_limestone.png) |
 
 ---
 ## Limestone Pillar
@@ -5958,7 +5958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Limestone Slab | ![limestone_slab](../images/quark_limestone_slab.png) |
+| # | Limestone Slab | ![limestone_slab](../images/quark_chiseled_limestone_bricks.png) |
 
 ---
 ## Limestone Slab
@@ -5966,7 +5966,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Limestone Vertical Slab | ![limestone_vertical_slab](../images/quark_limestone_vertical_slab.png) |
+| - | Limestone Vertical Slab | ![limestone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Limestone Vertical Slab
@@ -6040,7 +6040,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Green Corundum | ![green_corundum](../images/quark_green_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Lime Shingles
@@ -6048,7 +6048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Terracotta | ![lime_terracotta](../images/quark_lime_terracotta.png) |
+| # | Lime Terracotta | ![lime_terracotta](../images/quark_lime_framed_glass.png) |
 
 ---
 ## Lime Shingles
@@ -6081,7 +6081,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_framed_glass.png) |
 
 ---
 ## Lime Shingles Stairs
@@ -6105,7 +6105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_framed_glass.png) |
 
 ---
 ## Lime Shingles
@@ -6113,7 +6113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_framed_glass.png) |
 
 ---
 ## Lime Shingles Vertical Slab
@@ -6121,7 +6121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Shingles Slab | ![lime_shingles_slab](../images/quark_lime_shingles_slab.png) |
+| # | Lime Shingles Slab | ![lime_shingles_slab](../images/quark_lime_shingles.png) |
 
 ---
 ## Lime Shingles Slab
@@ -6129,7 +6129,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Shingles Vertical Slab | ![lime_shingles_vertical_slab](../images/quark_lime_shingles_vertical_slab.png) |
+| - | Lime Shingles Vertical Slab | ![lime_shingles_vertical_slab](../images/quark_lime_shingles.png) |
 
 ---
 ## Lime Shingles Vertical Slab
@@ -6145,7 +6145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/quark_lime_framed_glass.png) |
 
 ---
 ## Lime Stool
@@ -6153,8 +6153,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/quark_lime_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Lime Wool | ![lime_wool](../images/quark_lime_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Lime Wool
@@ -6162,8 +6162,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/quark_lime_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Lime Dye | ![lime_dye](../images/quark_lime_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Magenta Framed Glass
@@ -6213,7 +6213,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Violet Corundum | ![violet_corundum](../images/quark_violet_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Magenta Shingles
@@ -6221,7 +6221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_terracotta.png) |
+| # | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_framed_glass.png) |
 
 ---
 ## Magenta Shingles
@@ -6254,7 +6254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_framed_glass.png) |
 
 ---
 ## Magenta Shingles Stairs
@@ -6278,7 +6278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_framed_glass.png) |
 
 ---
 ## Magenta Shingles
@@ -6286,7 +6286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_framed_glass.png) |
 
 ---
 ## Magenta Shingles Vertical Slab
@@ -6294,7 +6294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Shingles Slab | ![magenta_shingles_slab](../images/quark_magenta_shingles_slab.png) |
+| # | Magenta Shingles Slab | ![magenta_shingles_slab](../images/quark_magenta_shingles.png) |
 
 ---
 ## Magenta Shingles Slab
@@ -6302,7 +6302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Shingles Vertical Slab | ![magenta_shingles_vertical_slab](../images/quark_magenta_shingles_vertical_slab.png) |
+| - | Magenta Shingles Vertical Slab | ![magenta_shingles_vertical_slab](../images/quark_magenta_shingles.png) |
 
 ---
 ## Magenta Shingles Vertical Slab
@@ -6318,7 +6318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/quark_magenta_framed_glass.png) |
 
 ---
 ## Magenta Stool
@@ -6326,8 +6326,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/quark_magenta_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Magenta Wool | ![magenta_wool](../images/quark_magenta_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Magenta Wool
@@ -6335,8 +6335,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/quark_magenta_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Magenta Dye | ![magenta_dye](../images/quark_magenta_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Magnet
@@ -6344,11 +6344,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
 | B | Dyes/Blue | ![dyes/blue](../images/quark_dyes/blue.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/quark_dusts/redstone.png) |
-| F | Chorus Fruit | ![chorus_fruit](../images/quark_chorus_fruit.png) |
+| F | Chorus Fruit | ![chorus_fruit](../images/quark_chorus_fruit_block.png) |
 
 ---
 ## Magnet
@@ -6356,7 +6356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
 | B | Dyes/Blue | ![dyes/blue](../images/quark_dyes/blue.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/quark_dusts/redstone.png) |
@@ -6368,8 +6368,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/quark_mangrove_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Mangrove Chest
@@ -6377,7 +6377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/quark_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Mangrove Chest
@@ -6385,7 +6385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Logs | ![mangrove_logs](../images/quark_mangrove_logs.png) |
+| # | Mangrove Logs | ![mangrove_logs](../images/quark_mangrove_bookshelf.png) |
 
 ---
 ## Mangrove Hedge
@@ -6393,8 +6393,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Leaves | ![mangrove_leaves](../images/quark_mangrove_leaves.png) |
-| W | Mangrove Logs | ![mangrove_logs](../images/quark_mangrove_logs.png) |
+| L | Mangrove Leaves | ![mangrove_leaves](../images/quark_ancient_leaves.png) |
+| W | Mangrove Logs | ![mangrove_logs](../images/quark_mangrove_bookshelf.png) |
 
 ---
 ## Mangrove Ladder
@@ -6403,7 +6403,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Mangrove Planks | ![mangrove_planks](../images/quark_mangrove_planks.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Mangrove Leaf Carpet
@@ -6411,7 +6411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Leaves | ![mangrove_leaves](../images/quark_mangrove_leaves.png) |
+| # | Mangrove Leaves | ![mangrove_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Mangrove Post
@@ -6419,7 +6419,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mangrove Wood | ![mangrove_wood](../images/quark_mangrove_wood.png) |
+| F | Mangrove Wood | ![mangrove_wood](../images/quark_mangrove_bookshelf.png) |
 
 ---
 ## Mangrove Trapped Chest
@@ -6427,8 +6427,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Chest | ![mangrove_chest](../images/quark_mangrove_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Mangrove Chest | ![mangrove_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Mangrove Vertical Slab
@@ -6436,7 +6436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/quark_mangrove_slab.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/quark_mangrove_bookshelf.png) |
 
 ---
 ## Mangrove Slab
@@ -6444,7 +6444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Vertical Slab | ![mangrove_vertical_slab](../images/quark_mangrove_vertical_slab.png) |
+| - | Mangrove Vertical Slab | ![mangrove_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Midori Block
@@ -6492,7 +6492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Midori Block Slab | ![midori_block_slab](../images/quark_midori_block_slab.png) |
+| # | Midori Block Slab | ![midori_block_slab](../images/quark_midori_block.png) |
 
 ---
 ## Midori Block Slab
@@ -6500,7 +6500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Midori Block Vertical Slab | ![midori_block_vertical_slab](../images/quark_midori_block_vertical_slab.png) |
+| - | Midori Block Vertical Slab | ![midori_block_vertical_slab](../images/quark_midori_block.png) |
 
 ---
 ## Midori Block Vertical Slab
@@ -6516,7 +6516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Midori Block Slab | ![midori_block_slab](../images/quark_midori_block_slab.png) |
+| # | Midori Block Slab | ![midori_block_slab](../images/quark_midori_block.png) |
 
 ---
 ## Midori Pillar
@@ -6546,7 +6546,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Logs | ![logs](../images/quark_logs.png) |
+| # | Logs | ![logs](../images/quark_abacus_0.png) |
 
 ---
 ## {}
@@ -6561,7 +6561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo Planks Slab | ![bamboo_planks_slab](../images/quark_bamboo_planks_slab.png) |
+| # | Bamboo Planks Slab | ![bamboo_planks_slab](../images/quark_bamboo_planks.png) |
 
 ---
 ## Mossy Cobblestone Bricks
@@ -6569,7 +6569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Cobblestone | ![mossy_cobblestone](../images/quark_mossy_cobblestone.png) |
+| # | Mossy Cobblestone | ![mossy_cobblestone](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Cobblestone Bricks Slab
@@ -6609,7 +6609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Cobblestone | ![mossy_cobblestone](../images/quark_mossy_cobblestone.png) |
+| item | Mossy Cobblestone | ![mossy_cobblestone](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Cobblestone Bricks Vertical Slab
@@ -6617,7 +6617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Cobblestone Bricks Slab | ![mossy_cobblestone_bricks_slab](../images/quark_mossy_cobblestone_bricks_slab.png) |
+| # | Mossy Cobblestone Bricks Slab | ![mossy_cobblestone_bricks_slab](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Cobblestone Bricks Slab
@@ -6625,7 +6625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Cobblestone Bricks Vertical Slab | ![mossy_cobblestone_bricks_vertical_slab](../images/quark_mossy_cobblestone_bricks_vertical_slab.png) |
+| - | Mossy Cobblestone Bricks Vertical Slab | ![mossy_cobblestone_bricks_vertical_slab](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Cobblestone Bricks Vertical Slab
@@ -6657,7 +6657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Cobblestone Slab | ![mossy_cobblestone_slab](../images/quark_mossy_cobblestone_slab.png) |
+| # | Mossy Cobblestone Slab | ![mossy_cobblestone_slab](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Cobblestone Slab
@@ -6665,7 +6665,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Cobblestone Vertical Slab | ![mossy_cobblestone_vertical_slab](../images/quark_mossy_cobblestone_vertical_slab.png) |
+| - | Mossy Cobblestone Vertical Slab | ![mossy_cobblestone_vertical_slab](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Cobblestone Vertical Slab
@@ -6673,7 +6673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Cobblestone | ![mossy_cobblestone](../images/quark_mossy_cobblestone.png) |
+| item | Mossy Cobblestone | ![mossy_cobblestone](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Mossy Stone Brick Vertical Slab
@@ -6681,7 +6681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Stone Brick Slab | ![mossy_stone_brick_slab](../images/quark_mossy_stone_brick_slab.png) |
+| # | Mossy Stone Brick Slab | ![mossy_stone_brick_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Mossy Stone Brick Slab
@@ -6689,7 +6689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Stone Brick Vertical Slab | ![mossy_stone_brick_vertical_slab](../images/quark_mossy_stone_brick_vertical_slab.png) |
+| - | Mossy Stone Brick Vertical Slab | ![mossy_stone_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Mossy Stone Brick Vertical Slab
@@ -6697,7 +6697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Stone Bricks | ![mossy_stone_bricks](../images/quark_mossy_stone_bricks.png) |
+| item | Mossy Stone Bricks | ![mossy_stone_bricks](../images/quark_mossy_cobblestone_bricks.png) |
 
 ---
 ## Moss Paste
@@ -6705,7 +6705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Block | ![moss_block](../images/quark_moss_block.png) |
+| item | Moss Block | ![moss_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Mud Brick Lattice
@@ -6713,7 +6713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mud Bricks | ![mud_bricks](../images/quark_mud_bricks.png) |
+| # | Mud Bricks | ![mud_bricks](../images/quark_carved_mud_bricks.png) |
 
 ---
 ## Mud Brick Lattice
@@ -6721,7 +6721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/quark_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/quark_carved_mud_bricks.png) |
 
 ---
 ## Mud Brick Vertical Slab
@@ -6729,7 +6729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mud Brick Slab | ![mud_brick_slab](../images/quark_mud_brick_slab.png) |
+| # | Mud Brick Slab | ![mud_brick_slab](../images/quark_mud_brick_lattice.png) |
 
 ---
 ## Mud Brick Slab
@@ -6737,7 +6737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mud Brick Vertical Slab | ![mud_brick_vertical_slab](../images/quark_mud_brick_vertical_slab.png) |
+| - | Mud Brick Vertical Slab | ![mud_brick_vertical_slab](../images/quark_mud_brick_lattice.png) |
 
 ---
 ## Mud Brick Vertical Slab
@@ -6745,7 +6745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/quark_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/quark_carved_mud_bricks.png) |
 
 ---
 ## Mud Pillar
@@ -6753,7 +6753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mud Brick Slab | ![mud_brick_slab](../images/quark_mud_brick_slab.png) |
+| # | Mud Brick Slab | ![mud_brick_slab](../images/quark_mud_brick_lattice.png) |
 
 ---
 ## Mud Pillar
@@ -6761,7 +6761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/quark_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/quark_carved_mud_bricks.png) |
 
 ---
 ## Myalite Bricks
@@ -6857,7 +6857,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Myalite Bricks Slab | ![myalite_bricks_slab](../images/quark_myalite_bricks_slab.png) |
+| # | Myalite Bricks Slab | ![myalite_bricks_slab](../images/quark_chiseled_myalite_bricks.png) |
 
 ---
 ## Myalite Bricks Vertical Slab
@@ -6873,7 +6873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Myalite Bricks Vertical Slab | ![myalite_bricks_vertical_slab](../images/quark_myalite_bricks_vertical_slab.png) |
+| - | Myalite Bricks Vertical Slab | ![myalite_bricks_vertical_slab](../images/quark_chiseled_myalite_bricks.png) |
 
 ---
 ## Myalite Bricks Vertical Slab
@@ -6929,7 +6929,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Myalite Slab | ![polished_myalite_slab](../images/quark_polished_myalite_slab.png) |
+| # | Polished Myalite Slab | ![polished_myalite_slab](../images/quark_polished_myalite.png) |
 
 ---
 ## Myalite Pillar
@@ -6977,7 +6977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Myalite Slab | ![myalite_slab](../images/quark_myalite_slab.png) |
+| # | Myalite Slab | ![myalite_slab](../images/quark_chiseled_myalite_bricks.png) |
 
 ---
 ## Myalite Slab
@@ -6985,7 +6985,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Myalite Vertical Slab | ![myalite_vertical_slab](../images/quark_myalite_vertical_slab.png) |
+| - | Myalite Vertical Slab | ![myalite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Myalite Vertical Slab
@@ -7017,7 +7017,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Netherrack | ![netherrack](../images/quark_netherrack.png) |
+| # | Netherrack | ![netherrack](../images/quark_netherrack_bricks.png) |
 | C | Cobblestone Bricks | ![cobblestone_bricks](../images/quark_cobblestone_bricks.png) |
 
 ---
@@ -7058,7 +7058,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Netherrack Bricks Slab | ![netherrack_bricks_slab](../images/quark_netherrack_bricks_slab.png) |
+| # | Netherrack Bricks Slab | ![netherrack_bricks_slab](../images/quark_netherrack_bricks.png) |
 
 ---
 ## Netherrack Bricks Slab
@@ -7066,7 +7066,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack Bricks Vertical Slab | ![netherrack_bricks_vertical_slab](../images/quark_netherrack_bricks_vertical_slab.png) |
+| - | Netherrack Bricks Vertical Slab | ![netherrack_bricks_vertical_slab](../images/quark_netherrack_bricks.png) |
 
 ---
 ## Netherrack Bricks Vertical Slab
@@ -7098,7 +7098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nether Bricks | ![nether_bricks](../images/quark_nether_bricks.png) |
+| # | Nether Bricks | ![nether_bricks](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Nether Brick Fence Gate
@@ -7107,7 +7107,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Nether Brick | ![ingots/nether_brick](../images/quark_ingots/nether_brick.png) |
-| W | Nether Bricks | ![nether_bricks](../images/quark_nether_bricks.png) |
+| W | Nether Bricks | ![nether_bricks](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Nether Brick Trapped Chest
@@ -7115,8 +7115,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Brick Chest | ![nether_brick_chest](../images/quark_nether_brick_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Nether Brick Chest | ![nether_brick_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Nether Brick Vertical Slab
@@ -7124,7 +7124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nether Brick Slab | ![nether_brick_slab](../images/quark_nether_brick_slab.png) |
+| # | Nether Brick Slab | ![nether_brick_slab](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Nether Brick Slab
@@ -7132,7 +7132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Brick Vertical Slab | ![nether_brick_vertical_slab](../images/quark_nether_brick_vertical_slab.png) |
+| - | Nether Brick Vertical Slab | ![nether_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Nether Brick Vertical Slab
@@ -7140,7 +7140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/quark_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Nether Wart Block
@@ -7172,8 +7172,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/quark_oak_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Oak Planks | ![oak_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Oak Chest
@@ -7181,7 +7181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/quark_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Oak Chest
@@ -7189,7 +7189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Logs | ![oak_logs](../images/quark_oak_logs.png) |
+| # | Oak Logs | ![oak_logs](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Oak Hedge
@@ -7197,8 +7197,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Leaves | ![oak_leaves](../images/quark_oak_leaves.png) |
-| W | Oak Logs | ![oak_logs](../images/quark_oak_logs.png) |
+| L | Oak Leaves | ![oak_leaves](../images/quark_ancient_leaves.png) |
+| W | Oak Logs | ![oak_logs](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Ladder
@@ -7207,7 +7207,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Oak Planks | ![oak_planks](../images/quark_oak_planks.png) |
+| W | Oak Planks | ![oak_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Oak Leaf Carpet
@@ -7215,7 +7215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Leaves | ![oak_leaves](../images/quark_oak_leaves.png) |
+| # | Oak Leaves | ![oak_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Oak Post
@@ -7223,7 +7223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oak Wood | ![oak_wood](../images/quark_oak_wood.png) |
+| F | Oak Wood | ![oak_wood](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Oak Trapped Chest
@@ -7231,8 +7231,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Chest | ![oak_chest](../images/quark_oak_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Oak Chest | ![oak_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Oak Vertical Slab
@@ -7240,7 +7240,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/quark_oak_slab.png) |
+| # | Oak Slab | ![oak_slab](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Oak Slab
@@ -7248,7 +7248,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Vertical Slab | ![oak_vertical_slab](../images/quark_oak_vertical_slab.png) |
+| - | Oak Vertical Slab | ![oak_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Obsidian Pressure Plate
@@ -7256,7 +7256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| O | Obsidian | ![obsidian](../images/quark_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/quark_abacus_0.png) |
 
 ---
 ## Orange Blossom Hedge
@@ -7265,7 +7265,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Orange Blossom Leaves | ![orange_blossom_leaves](../images/quark_orange_blossom_leaves.png) |
-| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Orange Blossom Leaf Carpet
@@ -7281,7 +7281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Corundum Pane | ![orange_corundum_pane](../images/quark_orange_corundum_pane.png) |
+| # | Orange Corundum Pane | ![orange_corundum_pane](../images/quark_orange_corundum.png) |
 
 ---
 ## Orange Crystal Lamp
@@ -7290,7 +7290,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Orange Corundum | ![orange_corundum](../images/quark_orange_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Orange Corundum Pane
@@ -7306,10 +7306,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Orange Dye | ![orange_dye](../images/quark_orange_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Orange Dye | ![orange_dye](../images/quark_orange_blossom_leaves.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Orange Framed Glass
@@ -7359,7 +7359,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Orange Corundum | ![orange_corundum](../images/quark_orange_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Orange Shingles
@@ -7367,7 +7367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Terracotta | ![orange_terracotta](../images/quark_orange_terracotta.png) |
+| # | Orange Terracotta | ![orange_terracotta](../images/quark_orange_blossom_leaves.png) |
 
 ---
 ## Orange Shingles
@@ -7400,7 +7400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_blossom_leaves.png) |
 
 ---
 ## Orange Shingles Stairs
@@ -7424,7 +7424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_blossom_leaves.png) |
 
 ---
 ## Orange Shingles
@@ -7432,7 +7432,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_blossom_leaves.png) |
 
 ---
 ## Orange Shingles Vertical Slab
@@ -7440,7 +7440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Shingles Slab | ![orange_shingles_slab](../images/quark_orange_shingles_slab.png) |
+| # | Orange Shingles Slab | ![orange_shingles_slab](../images/quark_orange_shingles.png) |
 
 ---
 ## Orange Shingles Slab
@@ -7448,7 +7448,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Shingles Vertical Slab | ![orange_shingles_vertical_slab](../images/quark_orange_shingles_vertical_slab.png) |
+| - | Orange Shingles Vertical Slab | ![orange_shingles_vertical_slab](../images/quark_orange_shingles.png) |
 
 ---
 ## Orange Shingles Vertical Slab
@@ -7464,7 +7464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/quark_orange_blossom_leaves.png) |
 
 ---
 ## Orange Stool
@@ -7472,8 +7472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/quark_orange_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Orange Wool | ![orange_wool](../images/quark_orange_blossom_leaves.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Orange Wool
@@ -7481,8 +7481,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/quark_orange_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Orange Dye | ![orange_dye](../images/quark_orange_blossom_leaves.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Oxidized Cut Copper Vertical Slab
@@ -7490,7 +7490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/quark_oxidized_cut_copper_slab.png) |
+| # | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Oxidized Cut Copper Vertical Slab
@@ -7498,7 +7498,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oxidized Copper | ![oxidized_copper](../images/quark_oxidized_copper.png) |
+| item | Oxidized Copper | ![oxidized_copper](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Oxidized Cut Copper Vertical Slab
@@ -7506,7 +7506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oxidized Cut Copper | ![oxidized_cut_copper](../images/quark_oxidized_cut_copper.png) |
+| item | Oxidized Cut Copper | ![oxidized_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Oxidized Cut Copper Slab
@@ -7514,7 +7514,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper Vertical Slab | ![oxidized_cut_copper_vertical_slab](../images/quark_oxidized_cut_copper_vertical_slab.png) |
+| - | Oxidized Cut Copper Vertical Slab | ![oxidized_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Paper
@@ -7530,8 +7530,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| P | Paper | ![paper](../images/quark_paper.png) |
+| S | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| P | Paper | ![paper](../images/quark_paper_lantern_inside.png) |
 | G | Dusts/Glowstone | ![dusts/glowstone](../images/quark_dusts/glowstone.png) |
 
 ---
@@ -7540,8 +7540,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| P | Paper | ![paper](../images/quark_paper.png) |
+| # | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| P | Paper | ![paper](../images/quark_paper_lantern_inside.png) |
 
 ---
 ## Paper Wall Big
@@ -7621,7 +7621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Bricks Slab | ![permafrost_bricks_slab](../images/quark_permafrost_bricks_slab.png) |
+| # | Permafrost Bricks Slab | ![permafrost_bricks_slab](../images/quark_permafrost_bricks.png) |
 
 ---
 ## Permafrost Bricks Slab
@@ -7629,7 +7629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Permafrost Bricks Vertical Slab | ![permafrost_bricks_vertical_slab](../images/quark_permafrost_bricks_vertical_slab.png) |
+| - | Permafrost Bricks Vertical Slab | ![permafrost_bricks_vertical_slab](../images/quark_permafrost_bricks.png) |
 
 ---
 ## Permafrost Bricks Vertical Slab
@@ -7709,7 +7709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Slab | ![permafrost_slab](../images/quark_permafrost_slab.png) |
+| # | Permafrost Slab | ![permafrost_slab](../images/quark_permafrost.png) |
 
 ---
 ## Permafrost Slab
@@ -7717,7 +7717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Permafrost Vertical Slab | ![permafrost_vertical_slab](../images/quark_permafrost_vertical_slab.png) |
+| - | Permafrost Vertical Slab | ![permafrost_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Permafrost Vertical Slab
@@ -7749,7 +7749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/quark_planks.png) |
+| W | Planks | ![planks](../images/quark_ancient_planks.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/quark_gems/diamond.png) |
 | H | Diamond Heart | ![diamond_heart](../images/quark_diamond_heart.png) |
 
@@ -7759,7 +7759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/quark_planks.png) |
+| W | Planks | ![planks](../images/quark_ancient_planks.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/quark_gems/diamond.png) |
 
 ---
@@ -7769,7 +7769,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Pink Blossom Leaves | ![pink_blossom_leaves](../images/quark_pink_blossom_leaves.png) |
-| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Pink Blossom Leaf Carpet
@@ -7835,7 +7835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Terracotta | ![pink_terracotta](../images/quark_pink_terracotta.png) |
+| # | Pink Terracotta | ![pink_terracotta](../images/quark_pink_blossom_leaves.png) |
 
 ---
 ## Pink Shingles
@@ -7868,7 +7868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_blossom_leaves.png) |
 
 ---
 ## Pink Shingles Stairs
@@ -7892,7 +7892,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_blossom_leaves.png) |
 
 ---
 ## Pink Shingles
@@ -7900,7 +7900,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_blossom_leaves.png) |
 
 ---
 ## Pink Shingles Vertical Slab
@@ -7908,7 +7908,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Shingles Slab | ![pink_shingles_slab](../images/quark_pink_shingles_slab.png) |
+| # | Pink Shingles Slab | ![pink_shingles_slab](../images/quark_pink_shingles.png) |
 
 ---
 ## Pink Shingles Slab
@@ -7916,7 +7916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Shingles Vertical Slab | ![pink_shingles_vertical_slab](../images/quark_pink_shingles_vertical_slab.png) |
+| - | Pink Shingles Vertical Slab | ![pink_shingles_vertical_slab](../images/quark_pink_shingles.png) |
 
 ---
 ## Pink Shingles Vertical Slab
@@ -7932,7 +7932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/quark_pink_blossom_leaves.png) |
 
 ---
 ## Pink Stool
@@ -7940,8 +7940,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/quark_pink_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Pink Wool | ![pink_wool](../images/quark_pink_blossom_leaves.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Pink Wool
@@ -7949,8 +7949,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/quark_pink_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Pink Dye | ![pink_dye](../images/quark_pink_blossom_leaves.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Pipe
@@ -7958,7 +7958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/quark_glass.png) |
+| G | Glass | ![glass](../images/quark_black_framed_glass.png) |
 | I | Ingots/Copper | ![ingots/copper](../images/quark_ingots/copper.png) |
 
 ---
@@ -7967,7 +7967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| - | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Bamboo Planks
@@ -7975,15 +7975,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
-| - | Bamboo | ![bamboo](../images/quark_bamboo.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
+| - | Bamboo | ![bamboo](../images/quark_bamboo_block.png) |
 
 ---
 ## Polished Andesite Vertical Slab
@@ -7991,7 +7991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Andesite Slab | ![polished_andesite_slab](../images/quark_polished_andesite_slab.png) |
+| # | Polished Andesite Slab | ![polished_andesite_slab](../images/quark_andesite_bricks.png) |
 
 ---
 ## Polished Andesite Vertical Slab
@@ -7999,7 +7999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/quark_andesite.png) |
+| item | Andesite | ![andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Polished Andesite Slab
@@ -8007,7 +8007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Andesite Vertical Slab | ![polished_andesite_vertical_slab](../images/quark_polished_andesite_vertical_slab.png) |
+| - | Polished Andesite Vertical Slab | ![polished_andesite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Polished Andesite Vertical Slab
@@ -8015,7 +8015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Andesite | ![polished_andesite](../images/quark_polished_andesite.png) |
+| item | Polished Andesite | ![polished_andesite](../images/quark_andesite_bricks.png) |
 
 ---
 ## Polished Blackstone Brick Vertical Slab
@@ -8023,7 +8023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Blackstone Brick Slab | ![polished_blackstone_brick_slab](../images/quark_polished_blackstone_brick_slab.png) |
+| # | Polished Blackstone Brick Slab | ![polished_blackstone_brick_slab](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Blackstone Brick Slab
@@ -8031,7 +8031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Blackstone Brick Vertical Slab | ![polished_blackstone_brick_vertical_slab](../images/quark_polished_blackstone_brick_vertical_slab.png) |
+| - | Polished Blackstone Brick Vertical Slab | ![polished_blackstone_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Polished Blackstone Brick Vertical Slab
@@ -8039,7 +8039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/quark_polished_blackstone_bricks.png) |
+| item | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Blackstone Brick Vertical Slab
@@ -8047,7 +8047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone | ![polished_blackstone](../images/quark_polished_blackstone.png) |
+| item | Polished Blackstone | ![polished_blackstone](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Blackstone Brick Vertical Slab
@@ -8055,7 +8055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/quark_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Blackstone Vertical Slab
@@ -8063,7 +8063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Blackstone Slab | ![polished_blackstone_slab](../images/quark_polished_blackstone_slab.png) |
+| # | Polished Blackstone Slab | ![polished_blackstone_slab](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Blackstone Slab
@@ -8071,7 +8071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Blackstone Vertical Slab | ![polished_blackstone_vertical_slab](../images/quark_polished_blackstone_vertical_slab.png) |
+| - | Polished Blackstone Vertical Slab | ![polished_blackstone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Polished Blackstone Vertical Slab
@@ -8079,7 +8079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone | ![polished_blackstone](../images/quark_polished_blackstone.png) |
+| item | Polished Blackstone | ![polished_blackstone](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Blackstone Vertical Slab
@@ -8087,7 +8087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/quark_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/quark_blackstone_bricks.png) |
 
 ---
 ## Polished Calcite
@@ -8095,7 +8095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calcite | ![calcite](../images/quark_calcite.png) |
+| # | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Polished Calcite Slab
@@ -8119,7 +8119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Polished Calcite Stairs
@@ -8143,7 +8143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Polished Calcite
@@ -8151,7 +8151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Polished Calcite Vertical Slab
@@ -8159,7 +8159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Calcite Slab | ![polished_calcite_slab](../images/quark_polished_calcite_slab.png) |
+| # | Polished Calcite Slab | ![polished_calcite_slab](../images/quark_polished_calcite.png) |
 
 ---
 ## Polished Calcite Slab
@@ -8167,7 +8167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Calcite Vertical Slab | ![polished_calcite_vertical_slab](../images/quark_polished_calcite_vertical_slab.png) |
+| - | Polished Calcite Vertical Slab | ![polished_calcite_vertical_slab](../images/quark_polished_calcite.png) |
 
 ---
 ## Polished Calcite Vertical Slab
@@ -8183,7 +8183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/quark_calcite.png) |
+| item | Calcite | ![calcite](../images/quark_calcite_bricks.png) |
 
 ---
 ## Polished Deepslate Vertical Slab
@@ -8191,7 +8191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Deepslate Slab | ![polished_deepslate_slab](../images/quark_polished_deepslate_slab.png) |
+| # | Polished Deepslate Slab | ![polished_deepslate_slab](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Polished Deepslate Vertical Slab
@@ -8199,7 +8199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_cobbled_deepslate.png) |
+| item | Cobbled Deepslate | ![cobbled_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Polished Deepslate Vertical Slab
@@ -8207,7 +8207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Deepslate | ![polished_deepslate](../images/quark_polished_deepslate.png) |
+| item | Polished Deepslate | ![polished_deepslate](../images/quark_deepslate_furnace_front.png) |
 
 ---
 ## Polished Deepslate Slab
@@ -8215,7 +8215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Deepslate Vertical Slab | ![polished_deepslate_vertical_slab](../images/quark_polished_deepslate_vertical_slab.png) |
+| - | Polished Deepslate Vertical Slab | ![polished_deepslate_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Polished Diorite Vertical Slab
@@ -8223,7 +8223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Diorite Slab | ![polished_diorite_slab](../images/quark_polished_diorite_slab.png) |
+| # | Polished Diorite Slab | ![polished_diorite_slab](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Polished Diorite Vertical Slab
@@ -8231,7 +8231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/quark_diorite.png) |
+| item | Diorite | ![diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Polished Diorite Slab
@@ -8239,7 +8239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Diorite Vertical Slab | ![polished_diorite_vertical_slab](../images/quark_polished_diorite_vertical_slab.png) |
+| - | Polished Diorite Vertical Slab | ![polished_diorite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Polished Diorite Vertical Slab
@@ -8247,7 +8247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Diorite | ![polished_diorite](../images/quark_polished_diorite.png) |
+| item | Polished Diorite | ![polished_diorite](../images/quark_chiseled_diorite_bricks.png) |
 
 ---
 ## Polished Dripstone
@@ -8255,7 +8255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| # | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Polished Dripstone Slab
@@ -8279,7 +8279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Polished Dripstone Stairs
@@ -8303,7 +8303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Polished Dripstone
@@ -8311,7 +8311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Polished Dripstone Vertical Slab
@@ -8319,7 +8319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Dripstone Slab | ![polished_dripstone_slab](../images/quark_polished_dripstone_slab.png) |
+| # | Polished Dripstone Slab | ![polished_dripstone_slab](../images/quark_polished_dripstone.png) |
 
 ---
 ## Polished Dripstone Vertical Slab
@@ -8327,7 +8327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dripstone Block | ![dripstone_block](../images/quark_dripstone_block.png) |
+| item | Dripstone Block | ![dripstone_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Polished Dripstone Slab
@@ -8335,7 +8335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Dripstone Vertical Slab | ![polished_dripstone_vertical_slab](../images/quark_polished_dripstone_vertical_slab.png) |
+| - | Polished Dripstone Vertical Slab | ![polished_dripstone_vertical_slab](../images/quark_polished_dripstone.png) |
 
 ---
 ## Polished Dripstone Vertical Slab
@@ -8351,7 +8351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Granite Slab | ![polished_granite_slab](../images/quark_polished_granite_slab.png) |
+| # | Polished Granite Slab | ![polished_granite_slab](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Polished Granite Vertical Slab
@@ -8359,7 +8359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/quark_granite.png) |
+| item | Granite | ![granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Polished Granite Slab
@@ -8367,7 +8367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Granite Vertical Slab | ![polished_granite_vertical_slab](../images/quark_polished_granite_vertical_slab.png) |
+| - | Polished Granite Vertical Slab | ![polished_granite_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Polished Granite Vertical Slab
@@ -8375,7 +8375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Granite | ![polished_granite](../images/quark_polished_granite.png) |
+| item | Polished Granite | ![polished_granite](../images/quark_chiseled_granite_bricks.png) |
 
 ---
 ## Polished Jasper
@@ -8447,7 +8447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Jasper Slab | ![polished_jasper_slab](../images/quark_polished_jasper_slab.png) |
+| # | Polished Jasper Slab | ![polished_jasper_slab](../images/quark_polished_jasper.png) |
 
 ---
 ## Polished Jasper Slab
@@ -8455,7 +8455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Jasper Vertical Slab | ![polished_jasper_vertical_slab](../images/quark_polished_jasper_vertical_slab.png) |
+| - | Polished Jasper Vertical Slab | ![polished_jasper_vertical_slab](../images/quark_polished_jasper.png) |
 
 ---
 ## Polished Jasper Vertical Slab
@@ -8543,7 +8543,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Limestone Slab | ![polished_limestone_slab](../images/quark_polished_limestone_slab.png) |
+| # | Polished Limestone Slab | ![polished_limestone_slab](../images/quark_polished_limestone.png) |
 
 ---
 ## Polished Limestone Slab
@@ -8551,7 +8551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Limestone Vertical Slab | ![polished_limestone_vertical_slab](../images/quark_polished_limestone_vertical_slab.png) |
+| - | Polished Limestone Vertical Slab | ![polished_limestone_vertical_slab](../images/quark_polished_limestone.png) |
 
 ---
 ## Polished Limestone Vertical Slab
@@ -8623,7 +8623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Myalite Slab | ![polished_myalite_slab](../images/quark_polished_myalite_slab.png) |
+| # | Polished Myalite Slab | ![polished_myalite_slab](../images/quark_polished_myalite.png) |
 
 ---
 ## Polished Myalite Slab
@@ -8631,7 +8631,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Myalite Vertical Slab | ![polished_myalite_vertical_slab](../images/quark_polished_myalite_vertical_slab.png) |
+| - | Polished Myalite Vertical Slab | ![polished_myalite_vertical_slab](../images/quark_polished_myalite.png) |
 
 ---
 ## Polished Myalite Vertical Slab
@@ -8711,7 +8711,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Shale Slab | ![polished_shale_slab](../images/quark_polished_shale_slab.png) |
+| # | Polished Shale Slab | ![polished_shale_slab](../images/quark_polished_shale.png) |
 
 ---
 ## Polished Shale Slab
@@ -8719,7 +8719,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Shale Vertical Slab | ![polished_shale_vertical_slab](../images/quark_polished_shale_vertical_slab.png) |
+| - | Polished Shale Vertical Slab | ![polished_shale_vertical_slab](../images/quark_polished_shale.png) |
 
 ---
 ## Polished Shale Vertical Slab
@@ -8743,7 +8743,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff | ![tuff](../images/quark_tuff.png) |
+| # | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Polished Tuff Slab
@@ -8767,7 +8767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Polished Tuff Stairs
@@ -8791,7 +8791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Polished Tuff
@@ -8799,7 +8799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Polished Tuff Vertical Slab
@@ -8807,7 +8807,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Tuff Slab | ![polished_tuff_slab](../images/quark_polished_tuff_slab.png) |
+| # | Polished Tuff Slab | ![polished_tuff_slab](../images/quark_polished_tuff.png) |
 
 ---
 ## Polished Tuff Vertical Slab
@@ -8815,7 +8815,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Polished Tuff Slab
@@ -8823,7 +8823,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Tuff Vertical Slab | ![polished_tuff_vertical_slab](../images/quark_polished_tuff_vertical_slab.png) |
+| - | Polished Tuff Vertical Slab | ![polished_tuff_vertical_slab](../images/quark_polished_tuff.png) |
 
 ---
 ## Polished Tuff Vertical Slab
@@ -8871,7 +8871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Brick Slab | ![prismarine_brick_slab](../images/quark_prismarine_brick_slab.png) |
+| # | Prismarine Brick Slab | ![prismarine_brick_slab](../images/quark_mud_brick_lattice.png) |
 
 ---
 ## Prismarine Brick Slab
@@ -8879,7 +8879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Brick Vertical Slab | ![prismarine_brick_vertical_slab](../images/quark_prismarine_brick_vertical_slab.png) |
+| - | Prismarine Brick Vertical Slab | ![prismarine_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Prismarine Brick Vertical Slab
@@ -8887,7 +8887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/quark_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/quark_andesite_bricks.png) |
 
 ---
 ## Prismarine Chest
@@ -8895,7 +8895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine | ![prismarine](../images/quark_prismarine.png) |
+| # | Prismarine | ![prismarine](../images/quark_abacus_0.png) |
 
 ---
 ## Prismarine Trapped Chest
@@ -8903,8 +8903,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Chest | ![prismarine_chest](../images/quark_prismarine_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Prismarine Chest | ![prismarine_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Prismarine Vertical Slab
@@ -8912,7 +8912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Slab | ![prismarine_slab](../images/quark_prismarine_slab.png) |
+| # | Prismarine Slab | ![prismarine_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Prismarine Slab
@@ -8920,7 +8920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Vertical Slab | ![prismarine_vertical_slab](../images/quark_prismarine_vertical_slab.png) |
+| - | Prismarine Vertical Slab | ![prismarine_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Prismarine Vertical Slab
@@ -8928,7 +8928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine | ![prismarine](../images/quark_prismarine.png) |
+| item | Prismarine | ![prismarine](../images/quark_abacus_0.png) |
 
 ---
 ## Purple Framed Glass
@@ -8986,7 +8986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Terracotta | ![purple_terracotta](../images/quark_purple_terracotta.png) |
+| # | Purple Terracotta | ![purple_terracotta](../images/quark_purple_framed_glass.png) |
 
 ---
 ## Purple Shingles
@@ -9019,7 +9019,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_framed_glass.png) |
 
 ---
 ## Purple Shingles Stairs
@@ -9043,7 +9043,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_framed_glass.png) |
 
 ---
 ## Purple Shingles
@@ -9051,7 +9051,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_framed_glass.png) |
 
 ---
 ## Purple Shingles Vertical Slab
@@ -9059,7 +9059,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Shingles Slab | ![purple_shingles_slab](../images/quark_purple_shingles_slab.png) |
+| # | Purple Shingles Slab | ![purple_shingles_slab](../images/quark_purple_shingles.png) |
 
 ---
 ## Purple Shingles Slab
@@ -9067,7 +9067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Shingles Vertical Slab | ![purple_shingles_vertical_slab](../images/quark_purple_shingles_vertical_slab.png) |
+| - | Purple Shingles Vertical Slab | ![purple_shingles_vertical_slab](../images/quark_purple_shingles.png) |
 
 ---
 ## Purple Shingles Vertical Slab
@@ -9083,7 +9083,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/quark_purple_framed_glass.png) |
 
 ---
 ## Purple Stool
@@ -9091,8 +9091,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/quark_purple_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Purple Wool | ![purple_wool](../images/quark_purple_framed_glass.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Purple Wool
@@ -9100,8 +9100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/quark_purple_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Purple Dye | ![purple_dye](../images/quark_purple_framed_glass.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Purpur Chest
@@ -9109,7 +9109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purpur Block | ![purpur_block](../images/quark_purpur_block.png) |
+| # | Purpur Block | ![purpur_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Purpur Trapped Chest
@@ -9117,8 +9117,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purpur Chest | ![purpur_chest](../images/quark_purpur_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Purpur Chest | ![purpur_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Purpur Vertical Slab
@@ -9126,7 +9126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purpur Slab | ![purpur_slab](../images/quark_purpur_slab.png) |
+| # | Purpur Slab | ![purpur_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Purpur Slab
@@ -9134,7 +9134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purpur Vertical Slab | ![purpur_vertical_slab](../images/quark_purpur_vertical_slab.png) |
+| - | Purpur Vertical Slab | ![purpur_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Purpur Vertical Slab
@@ -9142,7 +9142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purpur Block | ![purpur_block](../images/quark_purpur_block.png) |
+| item | Purpur Block | ![purpur_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Quartz Vertical Slab
@@ -9150,7 +9150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Quartz Slab | ![quartz_slab](../images/quark_quartz_slab.png) |
+| # | Quartz Slab | ![quartz_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Quartz Slab
@@ -9158,7 +9158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Vertical Slab | ![quartz_vertical_slab](../images/quark_quartz_vertical_slab.png) |
+| - | Quartz Vertical Slab | ![quartz_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Quartz Vertical Slab
@@ -9166,7 +9166,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Block | ![quartz_block](../images/quark_quartz_block.png) |
+| item | Quartz Block | ![quartz_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Rainbow Rune
@@ -9174,7 +9174,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 | W | White Corundum | ![white_corundum](../images/quark_white_corundum.png) |
 | R | Red Corundum | ![red_corundum](../images/quark_red_corundum.png) |
 | O | Orange Corundum | ![orange_corundum](../images/quark_orange_corundum.png) |
@@ -9205,7 +9205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Copper Block | ![raw_copper_block](../images/quark_raw_copper_block.png) |
+| item | Raw Copper Block | ![raw_copper_block](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Copper Block
@@ -9213,7 +9213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Copper Block | ![raw_copper_block](../images/quark_raw_copper_block.png) |
+| item | Raw Copper Block | ![raw_copper_block](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Raw Copper Bricks
@@ -9221,7 +9221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Raw Copper Block | ![raw_copper_block](../images/quark_raw_copper_block.png) |
+| I | Raw Copper Block | ![raw_copper_block](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Copper Block
@@ -9285,7 +9285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Raw Copper Bricks Slab | ![raw_copper_bricks_slab](../images/quark_raw_copper_bricks_slab.png) |
+| # | Raw Copper Bricks Slab | ![raw_copper_bricks_slab](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Raw Copper Bricks Slab
@@ -9293,7 +9293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Copper Bricks Vertical Slab | ![raw_copper_bricks_vertical_slab](../images/quark_raw_copper_bricks_vertical_slab.png) |
+| - | Raw Copper Bricks Vertical Slab | ![raw_copper_bricks_vertical_slab](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Raw Copper Bricks Vertical Slab
@@ -9309,7 +9309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Gold Block | ![raw_gold_block](../images/quark_raw_gold_block.png) |
+| item | Raw Gold Block | ![raw_gold_block](../images/quark_raw_gold_bricks.png) |
 
 ---
 ## Gold Block
@@ -9317,7 +9317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Gold Block | ![raw_gold_block](../images/quark_raw_gold_block.png) |
+| item | Raw Gold Block | ![raw_gold_block](../images/quark_raw_gold_bricks.png) |
 
 ---
 ## Raw Gold Bricks
@@ -9325,7 +9325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Raw Gold Block | ![raw_gold_block](../images/quark_raw_gold_block.png) |
+| I | Raw Gold Block | ![raw_gold_block](../images/quark_raw_gold_bricks.png) |
 
 ---
 ## Gold Block
@@ -9389,7 +9389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Raw Gold Bricks Slab | ![raw_gold_bricks_slab](../images/quark_raw_gold_bricks_slab.png) |
+| # | Raw Gold Bricks Slab | ![raw_gold_bricks_slab](../images/quark_raw_gold_bricks.png) |
 
 ---
 ## Raw Gold Bricks Slab
@@ -9397,7 +9397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Gold Bricks Vertical Slab | ![raw_gold_bricks_vertical_slab](../images/quark_raw_gold_bricks_vertical_slab.png) |
+| - | Raw Gold Bricks Vertical Slab | ![raw_gold_bricks_vertical_slab](../images/quark_raw_gold_bricks.png) |
 
 ---
 ## Raw Gold Bricks Vertical Slab
@@ -9413,7 +9413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Iron Block | ![raw_iron_block](../images/quark_raw_iron_block.png) |
+| item | Raw Iron Block | ![raw_iron_block](../images/quark_raw_iron_bricks.png) |
 
 ---
 ## Iron Block
@@ -9421,7 +9421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Iron Block | ![raw_iron_block](../images/quark_raw_iron_block.png) |
+| item | Raw Iron Block | ![raw_iron_block](../images/quark_raw_iron_bricks.png) |
 
 ---
 ## Raw Iron Bricks
@@ -9429,7 +9429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Raw Iron Block | ![raw_iron_block](../images/quark_raw_iron_block.png) |
+| I | Raw Iron Block | ![raw_iron_block](../images/quark_raw_iron_bricks.png) |
 
 ---
 ## Iron Block
@@ -9493,7 +9493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Raw Iron Bricks Slab | ![raw_iron_bricks_slab](../images/quark_raw_iron_bricks_slab.png) |
+| # | Raw Iron Bricks Slab | ![raw_iron_bricks_slab](../images/quark_raw_iron_bricks.png) |
 
 ---
 ## Raw Iron Bricks Slab
@@ -9501,7 +9501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Iron Bricks Vertical Slab | ![raw_iron_bricks_vertical_slab](../images/quark_raw_iron_bricks_vertical_slab.png) |
+| - | Raw Iron Bricks Vertical Slab | ![raw_iron_bricks_vertical_slab](../images/quark_raw_iron_bricks.png) |
 
 ---
 ## Raw Iron Bricks Vertical Slab
@@ -9517,9 +9517,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Redstone Torch | ![redstone_torch](../images/quark_redstone_torch.png) |
-| I | Stone | ![stone](../images/quark_stone.png) |
-| B | Prismarine Crystals | ![prismarine_crystals](../images/quark_prismarine_crystals.png) |
+| X | Redstone Torch | ![redstone_torch](../images/quark_redstone_randomizer.png) |
+| I | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
+| B | Prismarine Crystals | ![prismarine_crystals](../images/quark_abacus_0.png) |
 
 ---
 ## Red Blossom Hedge
@@ -9528,7 +9528,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Red Blossom Leaves | ![red_blossom_leaves](../images/quark_red_blossom_leaves.png) |
-| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Red Blossom Leaf Carpet
@@ -9544,7 +9544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Corundum Pane | ![red_corundum_pane](../images/quark_red_corundum_pane.png) |
+| # | Red Corundum Pane | ![red_corundum_pane](../images/quark_red_corundum.png) |
 
 ---
 ## Red Crystal Lamp
@@ -9553,7 +9553,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Red Corundum | ![red_corundum](../images/quark_red_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Red Corundum Pane
@@ -9569,10 +9569,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Red Dye | ![red_dye](../images/quark_red_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Red Dye | ![red_dye](../images/quark_egg_parrot_red_blue.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Red Framed Glass
@@ -9612,8 +9612,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Bricks | ![nether_bricks](../images/quark_nether_bricks.png) |
-| - | Nether Wart Block | ![nether_wart_block](../images/quark_nether_wart_block.png) |
+| - | Nether Bricks | ![nether_bricks](../images/quark_blue_nether_bricks.png) |
+| - | Nether Wart Block | ![nether_wart_block](../images/quark_nether_wart.png) |
 
 ---
 ## Red Nether Brick Vertical Slab
@@ -9621,7 +9621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Nether Brick Slab | ![red_nether_brick_slab](../images/quark_red_nether_brick_slab.png) |
+| # | Red Nether Brick Slab | ![red_nether_brick_slab](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Red Nether Brick Slab
@@ -9629,7 +9629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Nether Brick Vertical Slab | ![red_nether_brick_vertical_slab](../images/quark_red_nether_brick_vertical_slab.png) |
+| - | Red Nether Brick Vertical Slab | ![red_nether_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Red Nether Brick Vertical Slab
@@ -9637,7 +9637,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/quark_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/quark_blue_nether_bricks.png) |
 
 ---
 ## Red Rune
@@ -9655,7 +9655,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Red Corundum | ![red_corundum](../images/quark_red_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Red Sandstone Bricks
@@ -9663,7 +9663,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Red Sandstone | ![cut_red_sandstone](../images/quark_cut_red_sandstone.png) |
+| # | Cut Red Sandstone | ![cut_red_sandstone](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Red Sandstone Bricks
@@ -9671,7 +9671,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Red Sandstone | ![cut_red_sandstone](../images/quark_cut_red_sandstone.png) |
+| item | Cut Red Sandstone | ![cut_red_sandstone](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Red Sandstone Bricks Slab
@@ -9711,7 +9711,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/quark_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Red Sandstone Bricks Vertical Slab
@@ -9719,7 +9719,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Sandstone Bricks Slab | ![red_sandstone_bricks_slab](../images/quark_red_sandstone_bricks_slab.png) |
+| # | Red Sandstone Bricks Slab | ![red_sandstone_bricks_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Red Sandstone Bricks Slab
@@ -9727,7 +9727,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sandstone Bricks Vertical Slab | ![red_sandstone_bricks_vertical_slab](../images/quark_red_sandstone_bricks_vertical_slab.png) |
+| - | Red Sandstone Bricks Vertical Slab | ![red_sandstone_bricks_vertical_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Red Sandstone Bricks Vertical Slab
@@ -9759,7 +9759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Sandstone Slab | ![red_sandstone_slab](../images/quark_red_sandstone_slab.png) |
+| # | Red Sandstone Slab | ![red_sandstone_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Red Sandstone Slab
@@ -9767,7 +9767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sandstone Vertical Slab | ![red_sandstone_vertical_slab](../images/quark_red_sandstone_vertical_slab.png) |
+| - | Red Sandstone Vertical Slab | ![red_sandstone_vertical_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Red Sandstone Vertical Slab
@@ -9775,7 +9775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/quark_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Red Shingles
@@ -9783,7 +9783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Terracotta | ![red_terracotta](../images/quark_red_terracotta.png) |
+| # | Red Terracotta | ![red_terracotta](../images/quark_egg_parrot_red_blue.png) |
 
 ---
 ## Red Shingles
@@ -9816,7 +9816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/quark_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/quark_egg_parrot_red_blue.png) |
 
 ---
 ## Red Shingles Stairs
@@ -9840,7 +9840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/quark_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/quark_egg_parrot_red_blue.png) |
 
 ---
 ## Red Shingles
@@ -9848,7 +9848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/quark_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/quark_egg_parrot_red_blue.png) |
 
 ---
 ## Red Shingles Vertical Slab
@@ -9856,7 +9856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Shingles Slab | ![red_shingles_slab](../images/quark_red_shingles_slab.png) |
+| # | Red Shingles Slab | ![red_shingles_slab](../images/quark_red_shingles.png) |
 
 ---
 ## Red Shingles Slab
@@ -9864,7 +9864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Shingles Vertical Slab | ![red_shingles_vertical_slab](../images/quark_red_shingles_vertical_slab.png) |
+| - | Red Shingles Vertical Slab | ![red_shingles_vertical_slab](../images/quark_red_shingles.png) |
 
 ---
 ## Red Shingles Vertical Slab
@@ -9880,7 +9880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/quark_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/quark_egg_parrot_red_blue.png) |
 
 ---
 ## Red Stool
@@ -9888,8 +9888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/quark_red_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Red Wool | ![red_wool](../images/quark_egg_parrot_red_blue.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Red Wool
@@ -9897,8 +9897,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/quark_red_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Red Dye | ![red_dye](../images/quark_egg_parrot_red_blue.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Repeater
@@ -9907,8 +9907,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | Redstone | ![redstone](../images/quark_redstone.png) |
-| I | Stone | ![stone](../images/quark_stone.png) |
+| X | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| I | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Rope
@@ -9916,7 +9916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | String | ![string](../images/quark_string.png) |
+| # | String | ![string](../images/quark_abacus_0.png) |
 
 ---
 ## Rusty Iron Plate
@@ -9925,7 +9925,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| W | Water Bucket | ![water_bucket](../images/quark_water_bucket.png) |
+| W | Water Bucket | ![water_bucket](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Rusty Iron Plate
@@ -9934,7 +9934,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Iron Plate | ![iron_plate](../images/quark_iron_plate.png) |
-| W | Water Bucket | ![water_bucket](../images/quark_water_bucket.png) |
+| W | Water Bucket | ![water_bucket](../images/quark_axolotl_bucket_blue.png) |
 
 ---
 ## Rusty Iron Plate Slab
@@ -9974,7 +9974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusty Iron Plate Slab | ![rusty_iron_plate_slab](../images/quark_rusty_iron_plate_slab.png) |
+| # | Rusty Iron Plate Slab | ![rusty_iron_plate_slab](../images/quark_rusty_iron_plate.png) |
 
 ---
 ## Rusty Iron Plate Slab
@@ -9982,7 +9982,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusty Iron Plate Vertical Slab | ![rusty_iron_plate_vertical_slab](../images/quark_rusty_iron_plate_vertical_slab.png) |
+| - | Rusty Iron Plate Vertical Slab | ![rusty_iron_plate_vertical_slab](../images/quark_rusty_iron_plate.png) |
 
 ---
 ## Rusty Iron Plate Vertical Slab
@@ -9998,8 +9998,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper Lantern | ![paper_lantern](../images/quark_paper_lantern.png) |
-| - | Saplings | ![saplings](../images/quark_saplings.png) |
+| - | Paper Lantern | ![paper_lantern](../images/quark_paper_lantern_inside.png) |
+| - | Saplings | ![saplings](../images/quark_abacus_0.png) |
 
 ---
 ## Paper Wall Sakura
@@ -10008,7 +10008,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Paper Wall | ![paper_wall](../images/quark_paper_wall.png) |
-| - | Saplings | ![saplings](../images/quark_saplings.png) |
+| - | Saplings | ![saplings](../images/quark_abacus_0.png) |
 
 ---
 ## Sandstone Bricks
@@ -10016,7 +10016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Sandstone | ![cut_sandstone](../images/quark_cut_sandstone.png) |
+| # | Cut Sandstone | ![cut_sandstone](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Sandstone Bricks
@@ -10024,7 +10024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Sandstone | ![cut_sandstone](../images/quark_cut_sandstone.png) |
+| item | Cut Sandstone | ![cut_sandstone](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Sandstone Bricks Slab
@@ -10064,7 +10064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/quark_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Sandstone Bricks Vertical Slab
@@ -10072,7 +10072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sandstone Bricks Slab | ![sandstone_bricks_slab](../images/quark_sandstone_bricks_slab.png) |
+| # | Sandstone Bricks Slab | ![sandstone_bricks_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Sandstone Bricks Slab
@@ -10080,7 +10080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone Bricks Vertical Slab | ![sandstone_bricks_vertical_slab](../images/quark_sandstone_bricks_vertical_slab.png) |
+| - | Sandstone Bricks Vertical Slab | ![sandstone_bricks_vertical_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Sandstone Bricks Vertical Slab
@@ -10112,7 +10112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sandstone Slab | ![sandstone_slab](../images/quark_sandstone_slab.png) |
+| # | Sandstone Slab | ![sandstone_slab](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Sandstone Slab
@@ -10120,7 +10120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone Vertical Slab | ![sandstone_vertical_slab](../images/quark_sandstone_vertical_slab.png) |
+| - | Sandstone Vertical Slab | ![sandstone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Sandstone Vertical Slab
@@ -10128,7 +10128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/quark_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Seed Pouch
@@ -10136,9 +10136,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/quark_string.png) |
-| X | Seed Pouch Holdable | ![seed_pouch_holdable](../images/quark_seed_pouch_holdable.png) |
-| H | Leather | ![leather](../images/quark_leather.png) |
+| S | String | ![string](../images/quark_abacus_0.png) |
+| X | Seed Pouch Holdable | ![seed_pouch_holdable](../images/quark_seed_pouch.png) |
+| H | Leather | ![leather](../images/quark_bonded_leather.png) |
 
 ---
 ## Shale Bricks
@@ -10234,7 +10234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shale Bricks Slab | ![shale_bricks_slab](../images/quark_shale_bricks_slab.png) |
+| # | Shale Bricks Slab | ![shale_bricks_slab](../images/quark_chiseled_shale_bricks.png) |
 
 ---
 ## Shale Bricks Vertical Slab
@@ -10250,7 +10250,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shale Bricks Vertical Slab | ![shale_bricks_vertical_slab](../images/quark_shale_bricks_vertical_slab.png) |
+| - | Shale Bricks Vertical Slab | ![shale_bricks_vertical_slab](../images/quark_chiseled_shale_bricks.png) |
 
 ---
 ## Shale Bricks Vertical Slab
@@ -10306,7 +10306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Shale Slab | ![polished_shale_slab](../images/quark_polished_shale_slab.png) |
+| # | Polished Shale Slab | ![polished_shale_slab](../images/quark_polished_shale.png) |
 
 ---
 ## Shale Pillar
@@ -10354,7 +10354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shale Slab | ![shale_slab](../images/quark_shale_slab.png) |
+| # | Shale Slab | ![shale_slab](../images/quark_chiseled_shale_bricks.png) |
 
 ---
 ## Shale Slab
@@ -10362,7 +10362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shale Vertical Slab | ![shale_vertical_slab](../images/quark_shale_vertical_slab.png) |
+| - | Shale Vertical Slab | ![shale_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Shale Vertical Slab
@@ -10394,7 +10394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/quark_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/quark_abacus_0.png) |
 
 ---
 ## Shingles Slab
@@ -10418,7 +10418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/quark_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/quark_abacus_0.png) |
 
 ---
 ## Shingles Stairs
@@ -10442,7 +10442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/quark_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/quark_abacus_0.png) |
 
 ---
 ## Shingles
@@ -10450,7 +10450,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/quark_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/quark_abacus_0.png) |
 
 ---
 ## Shingles Vertical Slab
@@ -10458,7 +10458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shingles Slab | ![shingles_slab](../images/quark_shingles_slab.png) |
+| # | Shingles Slab | ![shingles_slab](../images/quark_black_shingles.png) |
 
 ---
 ## Shingles Slab
@@ -10466,7 +10466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shingles Vertical Slab | ![shingles_vertical_slab](../images/quark_shingles_vertical_slab.png) |
+| - | Shingles Vertical Slab | ![shingles_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Shingles Vertical Slab
@@ -10482,7 +10482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/quark_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/quark_abacus_0.png) |
 
 ---
 ## Blossom Sign
@@ -10491,7 +10491,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Blossom Planks | ![blossom_planks](../images/quark_blossom_planks.png) |
-| X | Stick | ![stick](../images/quark_stick.png) |
+| X | Stick | ![stick](../images/quark_stick_block.png) |
 
 ---
 ## {}
@@ -10506,7 +10506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Quartz Slab | ![smooth_quartz_slab](../images/quark_smooth_quartz_slab.png) |
+| # | Smooth Quartz Slab | ![smooth_quartz_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Quartz Slab
@@ -10514,7 +10514,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Quartz Vertical Slab | ![smooth_quartz_vertical_slab](../images/quark_smooth_quartz_vertical_slab.png) |
+| - | Smooth Quartz Vertical Slab | ![smooth_quartz_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Quartz Vertical Slab
@@ -10522,7 +10522,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Quartz | ![smooth_quartz](../images/quark_smooth_quartz.png) |
+| item | Smooth Quartz | ![smooth_quartz](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Red Sandstone Vertical Slab
@@ -10530,7 +10530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Red Sandstone Slab | ![smooth_red_sandstone_slab](../images/quark_smooth_red_sandstone_slab.png) |
+| # | Smooth Red Sandstone Slab | ![smooth_red_sandstone_slab](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Smooth Red Sandstone Slab
@@ -10538,7 +10538,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Red Sandstone Vertical Slab | ![smooth_red_sandstone_vertical_slab](../images/quark_smooth_red_sandstone_vertical_slab.png) |
+| - | Smooth Red Sandstone Vertical Slab | ![smooth_red_sandstone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Red Sandstone Vertical Slab
@@ -10546,7 +10546,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Red Sandstone | ![smooth_red_sandstone](../images/quark_smooth_red_sandstone.png) |
+| item | Smooth Red Sandstone | ![smooth_red_sandstone](../images/quark_red_sandstone_bricks.png) |
 
 ---
 ## Smooth Sandstone Vertical Slab
@@ -10554,7 +10554,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sandstone Slab | ![smooth_sandstone_slab](../images/quark_smooth_sandstone_slab.png) |
+| # | Smooth Sandstone Slab | ![smooth_sandstone_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Sandstone Slab
@@ -10562,7 +10562,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sandstone Vertical Slab | ![smooth_sandstone_vertical_slab](../images/quark_smooth_sandstone_vertical_slab.png) |
+| - | Smooth Sandstone Vertical Slab | ![smooth_sandstone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Sandstone Vertical Slab
@@ -10570,7 +10570,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sandstone | ![smooth_sandstone](../images/quark_smooth_sandstone.png) |
+| item | Smooth Sandstone | ![smooth_sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Soul Sandstone
@@ -10586,7 +10586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_smooth_soul_sandstone.png) |
+| # | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Soul Sandstone Slab
@@ -10594,7 +10594,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_smooth_soul_sandstone.png) |
+| item | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Soul Sandstone Stairs
@@ -10602,7 +10602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_smooth_soul_sandstone.png) |
+| # | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Soul Sandstone Stairs
@@ -10610,7 +10610,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_smooth_soul_sandstone.png) |
+| item | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Soul Sandstone Vertical Slab
@@ -10618,7 +10618,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Soul Sandstone Slab | ![smooth_soul_sandstone_slab](../images/quark_smooth_soul_sandstone_slab.png) |
+| # | Smooth Soul Sandstone Slab | ![smooth_soul_sandstone_slab](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Soul Sandstone Slab
@@ -10626,7 +10626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Soul Sandstone Vertical Slab | ![smooth_soul_sandstone_vertical_slab](../images/quark_smooth_soul_sandstone_vertical_slab.png) |
+| - | Smooth Soul Sandstone Vertical Slab | ![smooth_soul_sandstone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Soul Sandstone Vertical Slab
@@ -10634,7 +10634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_smooth_soul_sandstone.png) |
+| item | Smooth Soul Sandstone | ![smooth_soul_sandstone](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Smooth Stone Vertical Slab
@@ -10642,7 +10642,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Stone Slab | ![smooth_stone_slab](../images/quark_smooth_stone_slab.png) |
+| # | Smooth Stone Slab | ![smooth_stone_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Stone Slab
@@ -10650,7 +10650,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Stone Vertical Slab | ![smooth_stone_vertical_slab](../images/quark_smooth_stone_vertical_slab.png) |
+| - | Smooth Stone Vertical Slab | ![smooth_stone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Smooth Stone Vertical Slab
@@ -10658,7 +10658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Stone | ![smooth_stone](../images/quark_smooth_stone.png) |
+| item | Smooth Stone | ![smooth_stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Soul Sandstone
@@ -10666,7 +10666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Soul Sand | ![soul_sand](../images/quark_soul_sand.png) |
+| # | Soul Sand | ![soul_sand](../images/quark_blackstone_furnace_front_on_soul.png) |
 
 ---
 ## Soul Sandstone Bricks
@@ -10730,7 +10730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Soul Sandstone Bricks Slab | ![soul_sandstone_bricks_slab](../images/quark_soul_sandstone_bricks_slab.png) |
+| # | Soul Sandstone Bricks Slab | ![soul_sandstone_bricks_slab](../images/quark_soul_sandstone_bricks.png) |
 
 ---
 ## Soul Sandstone Bricks Slab
@@ -10738,7 +10738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Sandstone Bricks Vertical Slab | ![soul_sandstone_bricks_vertical_slab](../images/quark_soul_sandstone_bricks_vertical_slab.png) |
+| - | Soul Sandstone Bricks Vertical Slab | ![soul_sandstone_bricks_vertical_slab](../images/quark_soul_sandstone_bricks.png) |
 
 ---
 ## Soul Sandstone Bricks Vertical Slab
@@ -10802,7 +10802,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Soul Sandstone Slab | ![soul_sandstone_slab](../images/quark_soul_sandstone_slab.png) |
+| # | Soul Sandstone Slab | ![soul_sandstone_slab](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Soul Sandstone Slab
@@ -10810,7 +10810,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Sandstone Vertical Slab | ![soul_sandstone_vertical_slab](../images/quark_soul_sandstone_vertical_slab.png) |
+| - | Soul Sandstone Vertical Slab | ![soul_sandstone_vertical_slab](../images/quark_chiseled_soul_sandstone.png) |
 
 ---
 ## Soul Sandstone Vertical Slab
@@ -10842,8 +10842,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/quark_spruce_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Spruce Planks | ![spruce_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Spruce Chest
@@ -10851,7 +10851,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/quark_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Spruce Chest
@@ -10859,7 +10859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Logs | ![spruce_logs](../images/quark_spruce_logs.png) |
+| # | Spruce Logs | ![spruce_logs](../images/quark_spruce_bookshelf.png) |
 
 ---
 ## Spruce Hedge
@@ -10867,8 +10867,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Leaves | ![spruce_leaves](../images/quark_spruce_leaves.png) |
-| W | Spruce Logs | ![spruce_logs](../images/quark_spruce_logs.png) |
+| L | Spruce Leaves | ![spruce_leaves](../images/quark_ancient_leaves.png) |
+| W | Spruce Logs | ![spruce_logs](../images/quark_spruce_bookshelf.png) |
 
 ---
 ## Spruce Ladder
@@ -10877,7 +10877,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Spruce Planks | ![spruce_planks](../images/quark_spruce_planks.png) |
+| W | Spruce Planks | ![spruce_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Spruce Leaf Carpet
@@ -10885,7 +10885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Leaves | ![spruce_leaves](../images/quark_spruce_leaves.png) |
+| # | Spruce Leaves | ![spruce_leaves](../images/quark_ancient_leaves.png) |
 
 ---
 ## Spruce Post
@@ -10893,7 +10893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Spruce Wood | ![spruce_wood](../images/quark_spruce_wood.png) |
+| F | Spruce Wood | ![spruce_wood](../images/quark_spruce_bookshelf.png) |
 
 ---
 ## Spruce Trapped Chest
@@ -10901,8 +10901,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Chest | ![spruce_chest](../images/quark_spruce_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Spruce Chest | ![spruce_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Spruce Vertical Slab
@@ -10910,7 +10910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/quark_spruce_slab.png) |
+| # | Spruce Slab | ![spruce_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Spruce Slab
@@ -10918,7 +10918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Vertical Slab | ![spruce_vertical_slab](../images/quark_spruce_vertical_slab.png) |
+| - | Spruce Vertical Slab | ![spruce_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stick Block
@@ -10926,7 +10926,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/quark_stick.png) |
+| # | Stick | ![stick](../images/quark_stick_block.png) |
 
 ---
 ## Stick
@@ -10943,7 +10943,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_stone_tool_materials.png) |
+| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Brick Lamp
@@ -10951,9 +10951,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone Bricks | ![stone_bricks](../images/quark_stone_bricks.png) |
-| G | Glass | ![glass](../images/quark_glass.png) |
-| T | Torch | ![torch](../images/quark_torch.png) |
+| S | Stone Bricks | ![stone_bricks](../images/quark_andesite_bricks.png) |
+| G | Glass | ![glass](../images/quark_black_framed_glass.png) |
+| T | Torch | ![torch](../images/quark_torch_arrow.png) |
 
 ---
 ## Stone Brick Vertical Slab
@@ -10961,7 +10961,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Brick Slab | ![stone_brick_slab](../images/quark_stone_brick_slab.png) |
+| # | Stone Brick Slab | ![stone_brick_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Brick Vertical Slab
@@ -10969,7 +10969,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/quark_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/quark_andesite_bricks.png) |
 
 ---
 ## Stone Brick Slab
@@ -10977,7 +10977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Brick Vertical Slab | ![stone_brick_vertical_slab](../images/quark_stone_brick_vertical_slab.png) |
+| - | Stone Brick Vertical Slab | ![stone_brick_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Brick Vertical Slab
@@ -10985,7 +10985,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/quark_stone.png) |
+| item | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Hoe
@@ -10994,7 +10994,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_stone_tool_materials.png) |
+| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Lamp
@@ -11002,9 +11002,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/quark_stone.png) |
-| G | Glass | ![glass](../images/quark_glass.png) |
-| T | Torch | ![torch](../images/quark_torch.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
+| G | Glass | ![glass](../images/quark_black_framed_glass.png) |
+| T | Torch | ![torch](../images/quark_torch_arrow.png) |
 
 ---
 ## Stone Pickaxe
@@ -11013,7 +11013,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_stone_tool_materials.png) |
+| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Shovel
@@ -11022,7 +11022,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_stone_tool_materials.png) |
+| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Sword
@@ -11031,7 +11031,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_stone_tool_materials.png) |
+| X | Stone Tool Materials | ![stone_tool_materials](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Vertical Slab
@@ -11039,7 +11039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Slab | ![stone_slab](../images/quark_stone_slab.png) |
+| # | Stone Slab | ![stone_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Slab
@@ -11047,7 +11047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Vertical Slab | ![stone_vertical_slab](../images/quark_stone_vertical_slab.png) |
+| - | Stone Vertical Slab | ![stone_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stone Vertical Slab
@@ -11055,7 +11055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/quark_stone.png) |
+| item | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Stripped Acacia Post
@@ -11063,7 +11063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Acacia Wood | ![stripped_acacia_wood](../images/quark_stripped_acacia_wood.png) |
+| F | Stripped Acacia Wood | ![stripped_acacia_wood](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Stripped Ancient Post
@@ -11071,7 +11071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Ancient Wood | ![stripped_ancient_wood](../images/quark_stripped_ancient_wood.png) |
+| F | Stripped Ancient Wood | ![stripped_ancient_wood](../images/quark_stripped_ancient_log.png) |
 
 ---
 ## Stripped Azalea Post
@@ -11079,7 +11079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Azalea Wood | ![stripped_azalea_wood](../images/quark_stripped_azalea_wood.png) |
+| F | Stripped Azalea Wood | ![stripped_azalea_wood](../images/quark_stripped_azalea_log.png) |
 
 ---
 ## Stripped Birch Post
@@ -11087,7 +11087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Birch Wood | ![stripped_birch_wood](../images/quark_stripped_birch_wood.png) |
+| F | Stripped Birch Wood | ![stripped_birch_wood](../images/quark_birch_bookshelf.png) |
 
 ---
 ## Stripped Blossom Post
@@ -11095,7 +11095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Blossom Wood | ![stripped_blossom_wood](../images/quark_stripped_blossom_wood.png) |
+| F | Stripped Blossom Wood | ![stripped_blossom_wood](../images/quark_stripped_blossom_log.png) |
 
 ---
 ## Stripped Crimson Post
@@ -11103,7 +11103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Crimson Hyphae | ![stripped_crimson_hyphae](../images/quark_stripped_crimson_hyphae.png) |
+| F | Stripped Crimson Hyphae | ![stripped_crimson_hyphae](../images/quark_crimson_bookshelf.png) |
 
 ---
 ## Stripped Dark Oak Post
@@ -11111,7 +11111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Dark Oak Wood | ![stripped_dark_oak_wood](../images/quark_stripped_dark_oak_wood.png) |
+| F | Stripped Dark Oak Wood | ![stripped_dark_oak_wood](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Stripped Jungle Post
@@ -11119,7 +11119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Jungle Wood | ![stripped_jungle_wood](../images/quark_stripped_jungle_wood.png) |
+| F | Stripped Jungle Wood | ![stripped_jungle_wood](../images/quark_jungle_bookshelf.png) |
 
 ---
 ## Stripped Mangrove Post
@@ -11127,7 +11127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Mangrove Wood | ![stripped_mangrove_wood](../images/quark_stripped_mangrove_wood.png) |
+| F | Stripped Mangrove Wood | ![stripped_mangrove_wood](../images/quark_mangrove_bookshelf.png) |
 
 ---
 ## Stripped Oak Post
@@ -11135,7 +11135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Oak Wood | ![stripped_oak_wood](../images/quark_stripped_oak_wood.png) |
+| F | Stripped Oak Wood | ![stripped_oak_wood](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Stripped Bamboo Post
@@ -11151,7 +11151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Spruce Wood | ![stripped_spruce_wood](../images/quark_stripped_spruce_wood.png) |
+| F | Stripped Spruce Wood | ![stripped_spruce_wood](../images/quark_spruce_bookshelf.png) |
 
 ---
 ## Stripped Warped Post
@@ -11159,7 +11159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Warped Hyphae | ![stripped_warped_hyphae](../images/quark_stripped_warped_hyphae.png) |
+| F | Stripped Warped Hyphae | ![stripped_warped_hyphae](../images/quark_stripped_ancient_log.png) |
 
 ---
 ## Stripped Blossom Wood
@@ -11175,7 +11175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
 
 ---
 ## Sturdy Stone
@@ -11183,8 +11183,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/quark_cobblestone.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| C | Cobblestone | ![cobblestone](../images/quark_cobblestone_bricks.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Cobblestone
@@ -11192,7 +11192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sturdy Stone | ![sturdy_stone](../images/quark_sturdy_stone.png) |
+| - | Sturdy Stone | ![sturdy_stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Sugar Cane Block
@@ -11248,7 +11248,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thatch Slab | ![thatch_slab](../images/quark_thatch_slab.png) |
+| # | Thatch Slab | ![thatch_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Thatch Slab
@@ -11256,7 +11256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thatch Vertical Slab | ![thatch_vertical_slab](../images/quark_thatch_vertical_slab.png) |
+| - | Thatch Vertical Slab | ![thatch_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Tiny Potato
@@ -11283,7 +11283,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/quark_ingots/iron.png) |
-| X | Tnt | ![tnt](../images/quark_tnt.png) |
+| X | Tnt | ![tnt](../images/quark_abacus_0.png) |
 
 ---
 ## Torch Arrow
@@ -11291,8 +11291,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Torch | ![torch](../images/quark_torch.png) |
-| - | Arrow | ![arrow](../images/quark_arrow.png) |
+| - | Torch | ![torch](../images/quark_torch_arrow.png) |
+| - | Arrow | ![arrow](../images/quark_torch_arrow.png) |
 
 ---
 ## Blossom Trapdoor
@@ -11308,8 +11308,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blossom Chest | ![blossom_chest](../images/quark_blossom_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Blossom Chest | ![blossom_chest](../images/quark_blossom_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Trapped Chest
@@ -11317,7 +11317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Revertable Trapped Chests | ![revertable_trapped_chests](../images/quark_revertable_trapped_chests.png) |
+| - | Revertable Trapped Chests | ![revertable_trapped_chests](../images/quark_abacus_0.png) |
 
 ---
 ## Trowel
@@ -11342,7 +11342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tube Coral Fan'}] | ![tube_coral_fan'}]](../images/quark_tube_coral_fan'}].png) |
+| - | Tube Coral Fan'}] | ![tube_coral_fan'}]](../images/quark_abacus_0.png) |
 
 ---
 ## Tuff Bricks
@@ -11382,7 +11382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Slab
@@ -11414,7 +11414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Stairs
@@ -11430,7 +11430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Vertical Slab
@@ -11438,7 +11438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff Bricks Slab | ![tuff_bricks_slab](../images/quark_tuff_bricks_slab.png) |
+| # | Tuff Bricks Slab | ![tuff_bricks_slab](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Vertical Slab
@@ -11454,7 +11454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tuff Bricks Vertical Slab | ![tuff_bricks_vertical_slab](../images/quark_tuff_bricks_vertical_slab.png) |
+| - | Tuff Bricks Vertical Slab | ![tuff_bricks_vertical_slab](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Vertical Slab
@@ -11462,7 +11462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Vertical Slab
@@ -11494,7 +11494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Bricks Wall
@@ -11510,7 +11510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Tuff Slab | ![polished_tuff_slab](../images/quark_polished_tuff_slab.png) |
+| # | Polished Tuff Slab | ![polished_tuff_slab](../images/quark_polished_tuff.png) |
 
 ---
 ## Tuff Pillar
@@ -11518,7 +11518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Slab
@@ -11526,7 +11526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff | ![tuff](../images/quark_tuff.png) |
+| # | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Slab
@@ -11534,7 +11534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Stairs
@@ -11542,7 +11542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff | ![tuff](../images/quark_tuff.png) |
+| # | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Stairs
@@ -11550,7 +11550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Vertical Slab
@@ -11558,7 +11558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff Slab | ![tuff_slab](../images/quark_tuff_slab.png) |
+| # | Tuff Slab | ![tuff_slab](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Slab
@@ -11566,7 +11566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tuff Vertical Slab | ![tuff_vertical_slab](../images/quark_tuff_vertical_slab.png) |
+| - | Tuff Vertical Slab | ![tuff_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Tuff Vertical Slab
@@ -11574,7 +11574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Wall
@@ -11582,7 +11582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tuff | ![tuff](../images/quark_tuff.png) |
+| # | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Tuff Wall
@@ -11590,7 +11590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/quark_tuff.png) |
+| item | Tuff | ![tuff](../images/quark_chiseled_tuff_bricks.png) |
 
 ---
 ## Vertical Acacia Planks
@@ -11598,7 +11598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Acacia Planks
@@ -11606,7 +11606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Acacia Planks | ![vertical_acacia_planks](../images/quark_vertical_acacia_planks.png) |
+| - | Vertical Acacia Planks | ![vertical_acacia_planks](../images/quark_acacia_bookshelf.png) |
 
 ---
 ## Vertical Ancient Planks
@@ -11622,7 +11622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Ancient Planks | ![vertical_ancient_planks](../images/quark_vertical_ancient_planks.png) |
+| - | Vertical Ancient Planks | ![vertical_ancient_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Azalea Planks
@@ -11638,7 +11638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Azalea Planks | ![vertical_azalea_planks](../images/quark_vertical_azalea_planks.png) |
+| - | Vertical Azalea Planks | ![vertical_azalea_planks](../images/quark_azalea_planks.png) |
 
 ---
 ## Vertical Bamboo Planks
@@ -11654,7 +11654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Bamboo Planks | ![vertical_bamboo_planks](../images/quark_vertical_bamboo_planks.png) |
+| - | Vertical Bamboo Planks | ![vertical_bamboo_planks](../images/quark_bamboo_planks.png) |
 
 ---
 ## Vertical Birch Planks
@@ -11662,7 +11662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/quark_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Birch Planks
@@ -11670,7 +11670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Birch Planks | ![vertical_birch_planks](../images/quark_vertical_birch_planks.png) |
+| - | Vertical Birch Planks | ![vertical_birch_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Blossom Planks
@@ -11686,7 +11686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Blossom Planks | ![vertical_blossom_planks](../images/quark_vertical_blossom_planks.png) |
+| - | Vertical Blossom Planks | ![vertical_blossom_planks](../images/quark_blossom_planks.png) |
 
 ---
 ## Vertical Crimson Planks
@@ -11694,7 +11694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/quark_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Crimson Planks
@@ -11702,7 +11702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Crimson Planks | ![vertical_crimson_planks](../images/quark_vertical_crimson_planks.png) |
+| - | Vertical Crimson Planks | ![vertical_crimson_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Dark Oak Planks
@@ -11710,7 +11710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Dark Oak Planks
@@ -11718,7 +11718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Dark Oak Planks | ![vertical_dark_oak_planks](../images/quark_vertical_dark_oak_planks.png) |
+| - | Vertical Dark Oak Planks | ![vertical_dark_oak_planks](../images/quark_dark_oak_bookshelf.png) |
 
 ---
 ## Vertical Jungle Planks
@@ -11726,7 +11726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/quark_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Jungle Planks
@@ -11734,7 +11734,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Jungle Planks | ![vertical_jungle_planks](../images/quark_vertical_jungle_planks.png) |
+| - | Vertical Jungle Planks | ![vertical_jungle_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Mangrove Planks
@@ -11742,7 +11742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/quark_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Mangrove Planks
@@ -11750,7 +11750,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Mangrove Planks | ![vertical_mangrove_planks](../images/quark_vertical_mangrove_planks.png) |
+| - | Vertical Mangrove Planks | ![vertical_mangrove_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Oak Planks
@@ -11758,7 +11758,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/quark_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Oak Planks
@@ -11766,7 +11766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Oak Planks | ![vertical_oak_planks](../images/quark_vertical_oak_planks.png) |
+| - | Vertical Oak Planks | ![vertical_oak_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Spruce Planks
@@ -11774,7 +11774,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/quark_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Spruce Planks
@@ -11782,7 +11782,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Spruce Planks | ![vertical_spruce_planks](../images/quark_vertical_spruce_planks.png) |
+| - | Vertical Spruce Planks | ![vertical_spruce_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Vertical Warped Planks
@@ -11790,7 +11790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/quark_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Warped Planks
@@ -11798,7 +11798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Warped Planks | ![vertical_warped_planks](../images/quark_vertical_warped_planks.png) |
+| - | Vertical Warped Planks | ![vertical_warped_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Violet Corundum
@@ -11806,7 +11806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Violet Corundum Pane | ![violet_corundum_pane](../images/quark_violet_corundum_pane.png) |
+| # | Violet Corundum Pane | ![violet_corundum_pane](../images/quark_violet_corundum.png) |
 
 ---
 ## Violet Crystal Lamp
@@ -11815,7 +11815,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Violet Corundum | ![violet_corundum](../images/quark_violet_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Violet Corundum Pane
@@ -11831,10 +11831,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Pink Dye | ![pink_dye](../images/quark_pink_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Pink Dye | ![pink_dye](../images/quark_pink_blossom_leaves.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Warped Bookshelf
@@ -11842,8 +11842,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/quark_warped_planks.png) |
-| X | Book | ![book](../images/quark_book.png) |
+| # | Warped Planks | ![warped_planks](../images/quark_ancient_planks.png) |
+| X | Book | ![book](../images/quark_abacus_0.png) |
 
 ---
 ## Warped Chest
@@ -11851,7 +11851,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/quark_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Warped Trapped Chest
@@ -11859,8 +11859,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Chest | ![warped_chest](../images/quark_warped_chest.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/quark_tripwire_hook.png) |
+| - | Warped Chest | ![warped_chest](../images/quark_ancient_chest_boat.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/quark_abacus_0.png) |
 
 ---
 ## Warped Chest
@@ -11868,7 +11868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Stems | ![warped_stems](../images/quark_warped_stems.png) |
+| # | Warped Stems | ![warped_stems](../images/quark_warped_bookshelf.png) |
 
 ---
 ## Warped Ladder
@@ -11877,7 +11877,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/quark_rods/wooden.png) |
-| W | Warped Planks | ![warped_planks](../images/quark_warped_planks.png) |
+| W | Warped Planks | ![warped_planks](../images/quark_ancient_planks.png) |
 
 ---
 ## Warped Post
@@ -11885,7 +11885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Warped Hyphae | ![warped_hyphae](../images/quark_warped_hyphae.png) |
+| F | Warped Hyphae | ![warped_hyphae](../images/quark_warped_bookshelf.png) |
 
 ---
 ## Warped Vertical Slab
@@ -11893,7 +11893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/quark_warped_slab.png) |
+| # | Warped Slab | ![warped_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Warped Slab
@@ -11901,7 +11901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Vertical Slab | ![warped_vertical_slab](../images/quark_warped_vertical_slab.png) |
+| - | Warped Vertical Slab | ![warped_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Waxed Black Corundum
@@ -11910,7 +11910,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Black Corundum | ![black_corundum](../images/quark_black_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Blue Corundum
@@ -11919,7 +11919,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Blue Corundum | ![blue_corundum](../images/quark_blue_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Cut Copper Vertical Slab
@@ -11927,7 +11927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Cut Copper Slab | ![waxed_cut_copper_slab](../images/quark_waxed_cut_copper_slab.png) |
+| # | Waxed Cut Copper Slab | ![waxed_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Cut Copper Vertical Slab
@@ -11935,7 +11935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Copper Block | ![waxed_copper_block](../images/quark_waxed_copper_block.png) |
+| item | Waxed Copper Block | ![waxed_copper_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Waxed Cut Copper Vertical Slab
@@ -11943,7 +11943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Cut Copper | ![waxed_cut_copper](../images/quark_waxed_cut_copper.png) |
+| item | Waxed Cut Copper | ![waxed_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Cut Copper Vertical Slab
@@ -11951,8 +11951,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Vertical Slab | ![cut_copper_vertical_slab](../images/quark_cut_copper_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Cut Copper Vertical Slab | ![cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Cut Copper Slab
@@ -11960,7 +11960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Cut Copper Vertical Slab | ![waxed_cut_copper_vertical_slab](../images/quark_waxed_cut_copper_vertical_slab.png) |
+| - | Waxed Cut Copper Vertical Slab | ![waxed_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Waxed Exposed Cut Copper Vertical Slab
@@ -11968,7 +11968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Cut Copper Slab | ![waxed_exposed_cut_copper_slab](../images/quark_waxed_exposed_cut_copper_slab.png) |
+| # | Waxed Exposed Cut Copper Slab | ![waxed_exposed_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Exposed Cut Copper Vertical Slab
@@ -11976,7 +11976,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Copper | ![waxed_exposed_copper](../images/quark_waxed_exposed_copper.png) |
+| item | Waxed Exposed Copper | ![waxed_exposed_copper](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Waxed Exposed Cut Copper Vertical Slab
@@ -11984,7 +11984,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Cut Copper | ![waxed_exposed_cut_copper](../images/quark_waxed_exposed_cut_copper.png) |
+| item | Waxed Exposed Cut Copper | ![waxed_exposed_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Exposed Cut Copper Vertical Slab
@@ -11992,8 +11992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper Vertical Slab | ![exposed_cut_copper_vertical_slab](../images/quark_exposed_cut_copper_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Exposed Cut Copper Vertical Slab | ![exposed_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Exposed Cut Copper Slab
@@ -12001,7 +12001,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Exposed Cut Copper Vertical Slab | ![waxed_exposed_cut_copper_vertical_slab](../images/quark_waxed_exposed_cut_copper_vertical_slab.png) |
+| - | Waxed Exposed Cut Copper Vertical Slab | ![waxed_exposed_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Waxed Green Corundum
@@ -12010,7 +12010,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Green Corundum | ![green_corundum](../images/quark_green_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Indigo Corundum
@@ -12019,7 +12019,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Indigo Corundum | ![indigo_corundum](../images/quark_indigo_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Orange Corundum
@@ -12028,7 +12028,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Orange Corundum | ![orange_corundum](../images/quark_orange_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Oxidized Cut Copper Vertical Slab
@@ -12036,7 +12036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Oxidized Cut Copper Slab | ![waxed_oxidized_cut_copper_slab](../images/quark_waxed_oxidized_cut_copper_slab.png) |
+| # | Waxed Oxidized Cut Copper Slab | ![waxed_oxidized_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Oxidized Cut Copper Vertical Slab
@@ -12044,7 +12044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Oxidized Copper | ![waxed_oxidized_copper](../images/quark_waxed_oxidized_copper.png) |
+| item | Waxed Oxidized Copper | ![waxed_oxidized_copper](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Waxed Oxidized Cut Copper Vertical Slab
@@ -12052,7 +12052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Oxidized Cut Copper | ![waxed_oxidized_cut_copper](../images/quark_waxed_oxidized_cut_copper.png) |
+| item | Waxed Oxidized Cut Copper | ![waxed_oxidized_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Oxidized Cut Copper Vertical Slab
@@ -12060,8 +12060,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper Vertical Slab | ![oxidized_cut_copper_vertical_slab](../images/quark_oxidized_cut_copper_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Oxidized Cut Copper Vertical Slab | ![oxidized_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Oxidized Cut Copper Slab
@@ -12069,7 +12069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Oxidized Cut Copper Vertical Slab | ![waxed_oxidized_cut_copper_vertical_slab](../images/quark_waxed_oxidized_cut_copper_vertical_slab.png) |
+| - | Waxed Oxidized Cut Copper Vertical Slab | ![waxed_oxidized_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Waxed Red Corundum
@@ -12078,7 +12078,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Red Corundum | ![red_corundum](../images/quark_red_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Violet Corundum
@@ -12087,7 +12087,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Violet Corundum | ![violet_corundum](../images/quark_violet_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Weathered Cut Copper Vertical Slab
@@ -12095,7 +12095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Cut Copper Slab | ![waxed_weathered_cut_copper_slab](../images/quark_waxed_weathered_cut_copper_slab.png) |
+| # | Waxed Weathered Cut Copper Slab | ![waxed_weathered_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Weathered Cut Copper Vertical Slab
@@ -12103,7 +12103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Copper | ![waxed_weathered_copper](../images/quark_waxed_weathered_copper.png) |
+| item | Waxed Weathered Copper | ![waxed_weathered_copper](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Waxed Weathered Cut Copper Vertical Slab
@@ -12111,7 +12111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Cut Copper | ![waxed_weathered_cut_copper](../images/quark_waxed_weathered_cut_copper.png) |
+| item | Waxed Weathered Cut Copper | ![waxed_weathered_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Waxed Weathered Cut Copper Vertical Slab
@@ -12119,8 +12119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper Vertical Slab | ![weathered_cut_copper_vertical_slab](../images/quark_weathered_cut_copper_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Weathered Cut Copper Vertical Slab | ![weathered_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Weathered Cut Copper Slab
@@ -12128,7 +12128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Weathered Cut Copper Vertical Slab | ![waxed_weathered_cut_copper_vertical_slab](../images/quark_waxed_weathered_cut_copper_vertical_slab.png) |
+| - | Waxed Weathered Cut Copper Vertical Slab | ![waxed_weathered_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Waxed White Corundum
@@ -12137,7 +12137,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | White Corundum | ![white_corundum](../images/quark_white_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Waxed Yellow Corundum
@@ -12146,7 +12146,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Yellow Corundum | ![yellow_corundum](../images/quark_yellow_corundum.png) |
-| - | Honeycomb | ![honeycomb](../images/quark_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/quark_abacus_0.png) |
 
 ---
 ## Weathered Cut Copper Vertical Slab
@@ -12154,7 +12154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/quark_weathered_cut_copper_slab.png) |
+| # | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Weathered Cut Copper Vertical Slab
@@ -12162,7 +12162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Copper | ![weathered_copper](../images/quark_weathered_copper.png) |
+| item | Weathered Copper | ![weathered_copper](../images/quark_raw_copper_bricks.png) |
 
 ---
 ## Weathered Cut Copper Vertical Slab
@@ -12170,7 +12170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Cut Copper | ![weathered_cut_copper](../images/quark_weathered_cut_copper.png) |
+| item | Weathered Cut Copper | ![weathered_cut_copper](../images/quark_cut_soul_sandstone.png) |
 
 ---
 ## Weathered Cut Copper Slab
@@ -12178,7 +12178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper Vertical Slab | ![weathered_cut_copper_vertical_slab](../images/quark_weathered_cut_copper_vertical_slab.png) |
+| - | Weathered Cut Copper Vertical Slab | ![weathered_cut_copper_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## White Corundum
@@ -12186,7 +12186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Corundum Pane | ![white_corundum_pane](../images/quark_white_corundum_pane.png) |
+| # | White Corundum Pane | ![white_corundum_pane](../images/quark_white_corundum.png) |
 
 ---
 ## White Crystal Lamp
@@ -12195,7 +12195,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | White Corundum | ![white_corundum](../images/quark_white_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## White Corundum Pane
@@ -12211,10 +12211,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | White Dye | ![white_dye](../images/quark_white_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | White Dye | ![white_dye](../images/quark_white_corundum.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## White Framed Glass
@@ -12264,7 +12264,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | White Corundum | ![white_corundum](../images/quark_white_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## White Shingles
@@ -12272,7 +12272,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Terracotta | ![white_terracotta](../images/quark_white_terracotta.png) |
+| # | White Terracotta | ![white_terracotta](../images/quark_white_corundum.png) |
 
 ---
 ## White Shingles
@@ -12305,7 +12305,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/quark_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/quark_white_corundum.png) |
 
 ---
 ## White Shingles Stairs
@@ -12329,7 +12329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/quark_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/quark_white_corundum.png) |
 
 ---
 ## White Shingles
@@ -12337,7 +12337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/quark_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/quark_white_corundum.png) |
 
 ---
 ## White Shingles Vertical Slab
@@ -12345,7 +12345,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Shingles Slab | ![white_shingles_slab](../images/quark_white_shingles_slab.png) |
+| # | White Shingles Slab | ![white_shingles_slab](../images/quark_white_shingles.png) |
 
 ---
 ## White Shingles Slab
@@ -12353,7 +12353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Shingles Vertical Slab | ![white_shingles_vertical_slab](../images/quark_white_shingles_vertical_slab.png) |
+| - | White Shingles Vertical Slab | ![white_shingles_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## White Shingles Vertical Slab
@@ -12369,7 +12369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/quark_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/quark_white_corundum.png) |
 
 ---
 ## White Stool
@@ -12377,8 +12377,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/quark_white_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | White Wool | ![white_wool](../images/quark_white_corundum.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## White Wool
@@ -12386,8 +12386,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Dye | ![white_dye](../images/quark_white_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | White Dye | ![white_dye](../images/quark_white_corundum.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---
 ## Blossom Wood
@@ -12404,7 +12404,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Yellow Blossom Leaves | ![yellow_blossom_leaves](../images/quark_yellow_blossom_leaves.png) |
-| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_logs.png) |
+| W | Blossom Logs | ![blossom_logs](../images/quark_blossom_boat.png) |
 
 ---
 ## Yellow Blossom Leaf Carpet
@@ -12420,7 +12420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Corundum Pane | ![yellow_corundum_pane](../images/quark_yellow_corundum_pane.png) |
+| # | Yellow Corundum Pane | ![yellow_corundum_pane](../images/quark_yellow_corundum.png) |
 
 ---
 ## Yellow Crystal Lamp
@@ -12429,7 +12429,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Yellow Corundum | ![yellow_corundum](../images/quark_yellow_corundum.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
 
 ---
 ## Yellow Corundum Pane
@@ -12445,10 +12445,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Yellow Dye | ![yellow_dye](../images/quark_yellow_dye.png) |
-| R | Redstone | ![redstone](../images/quark_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/quark_glowstone_dust.png) |
-| A | Amethyst Block | ![amethyst_block](../images/quark_amethyst_block.png) |
+| D | Yellow Dye | ![yellow_dye](../images/quark_egg_parrot_yellow_blue.png) |
+| R | Redstone | ![redstone](../images/quark_redstone_randomizer.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/quark_abacus_0.png) |
+| A | Amethyst Block | ![amethyst_block](../images/quark_bamboo_block.png) |
 
 ---
 ## Yellow Framed Glass
@@ -12498,7 +12498,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Yellow Corundum | ![yellow_corundum](../images/quark_yellow_corundum.png) |
-| S | Stone | ![stone](../images/quark_stone.png) |
+| S | Stone | ![stone](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Yellow Shingles
@@ -12506,7 +12506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Terracotta | ![yellow_terracotta](../images/quark_yellow_terracotta.png) |
+| # | Yellow Terracotta | ![yellow_terracotta](../images/quark_egg_parrot_yellow_blue.png) |
 
 ---
 ## Yellow Shingles
@@ -12539,7 +12539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_egg_parrot_yellow_blue.png) |
 
 ---
 ## Yellow Shingles Stairs
@@ -12563,7 +12563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_egg_parrot_yellow_blue.png) |
 
 ---
 ## Yellow Shingles
@@ -12571,7 +12571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_egg_parrot_yellow_blue.png) |
 
 ---
 ## Yellow Shingles Vertical Slab
@@ -12579,7 +12579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Shingles Slab | ![yellow_shingles_slab](../images/quark_yellow_shingles_slab.png) |
+| # | Yellow Shingles Slab | ![yellow_shingles_slab](../images/quark_yellow_shingles.png) |
 
 ---
 ## Yellow Shingles Slab
@@ -12587,7 +12587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Shingles Vertical Slab | ![yellow_shingles_vertical_slab](../images/quark_yellow_shingles_vertical_slab.png) |
+| - | Yellow Shingles Vertical Slab | ![yellow_shingles_vertical_slab](../images/quark_smooth_stone_vertical_slab_side.png) |
 
 ---
 ## Yellow Shingles Vertical Slab
@@ -12603,7 +12603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/quark_egg_parrot_yellow_blue.png) |
 
 ---
 ## Yellow Stool
@@ -12611,8 +12611,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/quark_yellow_wool.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/quark_wooden_slabs.png) |
+| # | Yellow Wool | ![yellow_wool](../images/quark_egg_parrot_yellow_blue.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/quark_abacus_0.png) |
 
 ---
 ## Yellow Wool
@@ -12620,7 +12620,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/quark_yellow_dye.png) |
-| - | Wool | ![wool](../images/quark_wool.png) |
+| - | Yellow Dye | ![yellow_dye](../images/quark_egg_parrot_yellow_blue.png) |
+| - | Wool | ![wool](../images/quark_abacus_0.png) |
 
 ---

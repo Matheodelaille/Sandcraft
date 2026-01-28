@@ -14,8 +14,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Acacia Slab | ![acacia_slab](../images/mcwwindows_acacia_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Four Window
@@ -24,7 +24,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_log.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Log Parapet
@@ -32,8 +32,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Louvered Shutter
@@ -41,7 +41,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Acacia Slab | ![acacia_slab](../images/mcwwindows_acacia_slab.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Pane Window
@@ -50,7 +50,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_log.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Plank Four Window
@@ -59,7 +59,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_planks.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Plank Pane Window
@@ -68,7 +68,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_planks.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Plank Parapet
@@ -76,8 +76,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Plank Window
@@ -86,7 +86,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_planks.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Plank Window2
@@ -95,7 +95,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_planks.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Shutter
@@ -103,7 +103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Acacia Trapdoor | ![acacia_trapdoor](../images/mcwwindows_acacia_trapdoor.png) |
+| B | Acacia Trapdoor | ![acacia_trapdoor](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Window
@@ -112,7 +112,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_log.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Acacia Window2
@@ -121,7 +121,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_log.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## {}
@@ -137,7 +137,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Andesite | ![andesite](../images/mcwwindows_andesite.png) |
+| B | Andesite | ![andesite](../images/mcwwindows_andesite_louvered_shutter.png) |
 
 ---
 ## Andesite Louvered Shutter
@@ -145,7 +145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Andesite Slab | ![andesite_slab](../images/mcwwindows_andesite_slab.png) |
+| B | Andesite Slab | ![andesite_slab](../images/mcwwindows_andesite_louvered_shutter.png) |
 
 ---
 ## Andesite Pane Window
@@ -154,7 +154,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Andesite | ![andesite](../images/mcwwindows_andesite.png) |
+| B | Andesite | ![andesite](../images/mcwwindows_andesite_louvered_shutter.png) |
 
 ---
 ## Andesite Parapet
@@ -162,8 +162,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Andesite | ![andesite](../images/mcwwindows_andesite.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Andesite | ![andesite](../images/mcwwindows_andesite_louvered_shutter.png) |
 
 ---
 ## Andesite Window
@@ -172,7 +172,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Andesite | ![andesite](../images/mcwwindows_andesite.png) |
+| B | Andesite | ![andesite](../images/mcwwindows_andesite_louvered_shutter.png) |
 
 ---
 ## Andesite Window2
@@ -181,7 +181,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Andesite | ![andesite](../images/mcwwindows_andesite.png) |
+| B | Andesite | ![andesite](../images/mcwwindows_andesite_louvered_shutter.png) |
 
 ---
 ## {}
@@ -196,7 +196,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/mcwwindows_bamboo.png) |
+| B | Bamboo | ![bamboo](../images/mcwwindows_bamboo_shutter.png) |
 
 ---
 ## {}
@@ -211,8 +211,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Birch Slab | ![birch_slab](../images/mcwwindows_birch_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Four Window
@@ -221,7 +221,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Birch Log | ![birch_log](../images/mcwwindows_birch_log.png) |
+| B | Birch Log | ![birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Log Parapet
@@ -229,8 +229,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Birch Log | ![birch_log](../images/mcwwindows_birch_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Birch Log | ![birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Louvered Shutter
@@ -238,7 +238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Birch Slab | ![birch_slab](../images/mcwwindows_birch_slab.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Pane Window
@@ -247,7 +247,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Birch Log | ![birch_log](../images/mcwwindows_birch_log.png) |
+| B | Birch Log | ![birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Plank Four Window
@@ -256,7 +256,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_planks.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Plank Pane Window
@@ -265,7 +265,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_planks.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Plank Parapet
@@ -273,8 +273,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Plank Window
@@ -283,7 +283,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_planks.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Plank Window2
@@ -292,7 +292,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_planks.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Shutter
@@ -300,7 +300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Birch Trapdoor | ![birch_trapdoor](../images/mcwwindows_birch_trapdoor.png) |
+| B | Birch Trapdoor | ![birch_trapdoor](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Window
@@ -309,7 +309,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Birch Log | ![birch_log](../images/mcwwindows_birch_log.png) |
+| B | Birch Log | ![birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Birch Window2
@@ -318,7 +318,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Birch Log | ![birch_log](../images/mcwwindows_birch_log.png) |
+| B | Birch Log | ![birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## {}
@@ -333,8 +333,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Polished Blackstone Brick Slab | ![polished_blackstone_brick_slab](../images/mcwwindows_polished_blackstone_brick_slab.png) |
-| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwwindows_polished_blackstone_bricks.png) |
+| B | Polished Blackstone Brick Slab | ![polished_blackstone_brick_slab](../images/mcwwindows_polished_diorite.png) |
+| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwwindows_polished_diorite.png) |
 
 ---
 ## Blackstone Brick Gothic
@@ -342,8 +342,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwwindows_polished_blackstone_bricks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwwindows_polished_diorite.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## Blackstone Four Window
@@ -352,7 +352,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_blackstone.png) |
+| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_diorite.png) |
 
 ---
 ## Blackstone Pane Window
@@ -361,7 +361,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_blackstone.png) |
+| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_diorite.png) |
 
 ---
 ## Blackstone Parapet
@@ -369,8 +369,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_blackstone.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_diorite.png) |
 
 ---
 ## Blackstone Window
@@ -379,7 +379,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_blackstone.png) |
+| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_diorite.png) |
 
 ---
 ## Blackstone Window2
@@ -388,7 +388,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_blackstone.png) |
+| B | Polished Blackstone | ![polished_blackstone](../images/mcwwindows_polished_diorite.png) |
 
 ---
 ## Black Curtain
@@ -396,7 +396,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Black Wool | ![black_wool](../images/mcwwindows_black_wool.png) |
+| W | Black Wool | ![black_wool](../images/mcwwindows_black_base.png) |
 
 ---
 ## Black Mosaic Glass
@@ -404,8 +404,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Black Stained Glass | ![black_stained_glass](../images/mcwwindows_black_stained_glass.png) |
-| B | Black Dye | ![black_dye](../images/mcwwindows_black_dye.png) |
+| A | Black Stained Glass | ![black_stained_glass](../images/mcwwindows_black_base.png) |
+| B | Black Dye | ![black_dye](../images/mcwwindows_black_base.png) |
 
 ---
 ## Black Mosaic Glass Pane
@@ -413,7 +413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Black Mosaic Glass | ![black_mosaic_glass](../images/mcwwindows_black_mosaic_glass.png) |
+| B | Black Mosaic Glass | ![black_mosaic_glass](../images/mcwwindows_black_base.png) |
 
 ---
 ## {}
@@ -428,7 +428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Blue Wool | ![blue_wool](../images/mcwwindows_blue_wool.png) |
+| W | Blue Wool | ![blue_wool](../images/mcwwindows_blue_base.png) |
 
 ---
 ## Blue Mosaic Glass
@@ -436,8 +436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Blue Stained Glass | ![blue_stained_glass](../images/mcwwindows_blue_stained_glass.png) |
-| B | Blue Dye | ![blue_dye](../images/mcwwindows_blue_dye.png) |
+| A | Blue Stained Glass | ![blue_stained_glass](../images/mcwwindows_blue_base.png) |
+| B | Blue Dye | ![blue_dye](../images/mcwwindows_blue_base.png) |
 
 ---
 ## Blue Mosaic Glass Pane
@@ -445,7 +445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blue Mosaic Glass | ![blue_mosaic_glass](../images/mcwwindows_blue_mosaic_glass.png) |
+| B | Blue Mosaic Glass | ![blue_mosaic_glass](../images/mcwwindows_blue_base.png) |
 
 ---
 ## Brown Curtain
@@ -453,7 +453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Brown Wool | ![brown_wool](../images/mcwwindows_brown_wool.png) |
+| W | Brown Wool | ![brown_wool](../images/mcwwindows_brown_base.png) |
 
 ---
 ## Brown Mosaic Glass
@@ -461,8 +461,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Brown Stained Glass | ![brown_stained_glass](../images/mcwwindows_brown_stained_glass.png) |
-| B | Brown Dye | ![brown_dye](../images/mcwwindows_brown_dye.png) |
+| A | Brown Stained Glass | ![brown_stained_glass](../images/mcwwindows_brown_base.png) |
+| B | Brown Dye | ![brown_dye](../images/mcwwindows_brown_base.png) |
 
 ---
 ## Brown Mosaic Glass Pane
@@ -470,7 +470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Brown Mosaic Glass | ![brown_mosaic_glass](../images/mcwwindows_brown_mosaic_glass.png) |
+| B | Brown Mosaic Glass | ![brown_mosaic_glass](../images/mcwwindows_brown_base.png) |
 
 ---
 ## Cobblestone Arrow Slit
@@ -478,8 +478,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Cobblestone Slab | ![cobblestone_slab](../images/mcwwindows_cobblestone_slab.png) |
-| A | Cobblestone | ![cobblestone](../images/mcwwindows_cobblestone.png) |
+| B | Cobblestone Slab | ![cobblestone_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Cobblestone | ![cobblestone](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## {}
@@ -501,8 +501,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Crimson Slab | ![crimson_slab](../images/mcwwindows_crimson_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Louvered Shutter
@@ -510,7 +510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Crimson Slab | ![crimson_slab](../images/mcwwindows_crimson_slab.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Pane Window
@@ -519,7 +519,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_stem.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Planks Four Window
@@ -528,7 +528,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_planks.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Planks Window
@@ -537,7 +537,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_planks.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Planks Window2
@@ -546,7 +546,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_planks.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Plank Pane Window
@@ -555,7 +555,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_planks.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Plank Parapet
@@ -563,8 +563,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Shutter
@@ -572,7 +572,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Crimson Trapdoor | ![crimson_trapdoor](../images/mcwwindows_crimson_trapdoor.png) |
+| B | Crimson Trapdoor | ![crimson_trapdoor](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Stem Four Window
@@ -581,7 +581,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_stem.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Stem Parapet
@@ -589,8 +589,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_stem.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Stem Window
@@ -599,7 +599,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_stem.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Crimson Stem Window2
@@ -608,7 +608,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_stem.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## {}
@@ -623,7 +623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Cyan Wool | ![cyan_wool](../images/mcwwindows_cyan_wool.png) |
+| W | Cyan Wool | ![cyan_wool](../images/mcwwindows_cyan_base.png) |
 
 ---
 ## Cyan Mosaic Glass
@@ -631,8 +631,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Cyan Stained Glass | ![cyan_stained_glass](../images/mcwwindows_cyan_stained_glass.png) |
-| B | Cyan Dye | ![cyan_dye](../images/mcwwindows_cyan_dye.png) |
+| A | Cyan Stained Glass | ![cyan_stained_glass](../images/mcwwindows_cyan_base.png) |
+| B | Cyan Dye | ![cyan_dye](../images/mcwwindows_cyan_base.png) |
 
 ---
 ## Cyan Mosaic Glass Pane
@@ -640,7 +640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Cyan Mosaic Glass | ![cyan_mosaic_glass](../images/mcwwindows_cyan_mosaic_glass.png) |
+| B | Cyan Mosaic Glass | ![cyan_mosaic_glass](../images/mcwwindows_cyan_base.png) |
 
 ---
 ## {}
@@ -655,8 +655,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwwindows_dark_oak_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Four Window
@@ -665,7 +665,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_log.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Log Parapet
@@ -673,8 +673,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Louvered Shutter
@@ -682,7 +682,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwwindows_dark_oak_slab.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Pane Window
@@ -691,7 +691,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_log.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Plank Four Window
@@ -700,7 +700,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_planks.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Plank Pane Window
@@ -709,7 +709,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_planks.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Plank Parapet
@@ -717,8 +717,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Plank Window
@@ -727,7 +727,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_planks.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Plank Window2
@@ -736,7 +736,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_planks.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Shutter
@@ -744,7 +744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/mcwwindows_dark_oak_trapdoor.png) |
+| B | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Window
@@ -753,7 +753,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_log.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Oak Window2
@@ -762,7 +762,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_log.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## {}
@@ -777,8 +777,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dark Prismarine Slab | ![dark_prismarine_slab](../images/mcwwindows_dark_prismarine_slab.png) |
-| A | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
+| B | Dark Prismarine Slab | ![dark_prismarine_slab](../images/mcwwindows_dark_oak_louvered_shutter.png) |
+| A | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Prismarine Brick Gothic
@@ -786,8 +786,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## Dark Prismarine Four Window
@@ -796,7 +796,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
+| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Prismarine Pane Window
@@ -805,7 +805,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
+| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Prismarine Parapet
@@ -813,8 +813,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Prismarine Window
@@ -823,7 +823,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
+| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Dark Prismarine Window2
@@ -832,7 +832,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_prismarine.png) |
+| B | Dark Prismarine | ![dark_prismarine](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## {}
@@ -848,7 +848,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Diorite | ![diorite](../images/mcwwindows_diorite.png) |
+| B | Diorite | ![diorite](../images/mcwwindows_diorite_louvered_shutter.png) |
 
 ---
 ## Diorite Louvered Shutter
@@ -856,7 +856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Diorite Slab | ![diorite_slab](../images/mcwwindows_diorite_slab.png) |
+| B | Diorite Slab | ![diorite_slab](../images/mcwwindows_diorite_louvered_shutter.png) |
 
 ---
 ## Diorite Pane Window
@@ -865,7 +865,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Diorite | ![diorite](../images/mcwwindows_diorite.png) |
+| B | Diorite | ![diorite](../images/mcwwindows_diorite_louvered_shutter.png) |
 
 ---
 ## Diorite Parapet
@@ -873,8 +873,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Diorite | ![diorite](../images/mcwwindows_diorite.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Diorite | ![diorite](../images/mcwwindows_diorite_louvered_shutter.png) |
 
 ---
 ## Diorite Window
@@ -883,7 +883,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Diorite | ![diorite](../images/mcwwindows_diorite.png) |
+| B | Diorite | ![diorite](../images/mcwwindows_diorite_louvered_shutter.png) |
 
 ---
 ## Diorite Window2
@@ -892,7 +892,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Diorite | ![diorite](../images/mcwwindows_diorite.png) |
+| B | Diorite | ![diorite](../images/mcwwindows_diorite_louvered_shutter.png) |
 
 ---
 ## Ender Brick Arrow Slit
@@ -900,8 +900,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | End Stone Brick Slab | ![end_stone_brick_slab](../images/mcwwindows_end_stone_brick_slab.png) |
-| A | End Stone Bricks | ![end_stone_bricks](../images/mcwwindows_end_stone_bricks.png) |
+| B | End Stone Brick Slab | ![end_stone_brick_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | End Stone Bricks | ![end_stone_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## End Brick Gothic
@@ -909,8 +909,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | End Stone Bricks | ![end_stone_bricks](../images/mcwwindows_end_stone_bricks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | End Stone Bricks | ![end_stone_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## {}
@@ -926,7 +926,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Granite | ![granite](../images/mcwwindows_granite.png) |
+| B | Granite | ![granite](../images/mcwwindows_granite_louvered_shutter.png) |
 
 ---
 ## Granite Louvered Shutter
@@ -934,7 +934,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Granite Slab | ![granite_slab](../images/mcwwindows_granite_slab.png) |
+| B | Granite Slab | ![granite_slab](../images/mcwwindows_granite_louvered_shutter.png) |
 
 ---
 ## Granite Pane Window
@@ -943,7 +943,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Granite | ![granite](../images/mcwwindows_granite.png) |
+| B | Granite | ![granite](../images/mcwwindows_granite_louvered_shutter.png) |
 
 ---
 ## Granite Parapet
@@ -951,8 +951,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Granite | ![granite](../images/mcwwindows_granite.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Granite | ![granite](../images/mcwwindows_granite_louvered_shutter.png) |
 
 ---
 ## Granite Window
@@ -961,7 +961,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Granite | ![granite](../images/mcwwindows_granite.png) |
+| B | Granite | ![granite](../images/mcwwindows_granite_louvered_shutter.png) |
 
 ---
 ## Granite Window2
@@ -970,7 +970,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Granite | ![granite](../images/mcwwindows_granite.png) |
+| B | Granite | ![granite](../images/mcwwindows_granite_louvered_shutter.png) |
 
 ---
 ## Gray Curtain
@@ -978,7 +978,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Gray Wool | ![gray_wool](../images/mcwwindows_gray_wool.png) |
+| W | Gray Wool | ![gray_wool](../images/mcwwindows_gray_base.png) |
 
 ---
 ## Gray Mosaic Glass
@@ -986,8 +986,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Gray Stained Glass | ![gray_stained_glass](../images/mcwwindows_gray_stained_glass.png) |
-| B | Gray Dye | ![gray_dye](../images/mcwwindows_gray_dye.png) |
+| A | Gray Stained Glass | ![gray_stained_glass](../images/mcwwindows_glass.png) |
+| B | Gray Dye | ![gray_dye](../images/mcwwindows_gray_base.png) |
 
 ---
 ## Gray Mosaic Glass Pane
@@ -995,7 +995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gray Mosaic Glass | ![gray_mosaic_glass](../images/mcwwindows_gray_mosaic_glass.png) |
+| B | Gray Mosaic Glass | ![gray_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## Green Curtain
@@ -1003,7 +1003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Green Wool | ![green_wool](../images/mcwwindows_green_wool.png) |
+| W | Green Wool | ![green_wool](../images/mcwwindows_green_base.png) |
 
 ---
 ## Green Mosaic Glass
@@ -1011,8 +1011,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Green Stained Glass | ![green_stained_glass](../images/mcwwindows_green_stained_glass.png) |
-| B | Green Dye | ![green_dye](../images/mcwwindows_green_dye.png) |
+| A | Green Stained Glass | ![green_stained_glass](../images/mcwwindows_glass.png) |
+| B | Green Dye | ![green_dye](../images/mcwwindows_green_base.png) |
 
 ---
 ## Green Mosaic Glass Pane
@@ -1020,7 +1020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Green Mosaic Glass | ![green_mosaic_glass](../images/mcwwindows_green_mosaic_glass.png) |
+| B | Green Mosaic Glass | ![green_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## Hammer
@@ -1028,9 +1028,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Ingot | ![iron_ingot](../images/mcwwindows_iron_ingot.png) |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| C | Iron Nugget | ![iron_nugget](../images/mcwwindows_iron_nugget.png) |
+| A | Iron Ingot | ![iron_ingot](../images/mcwwindows_iron_shutter.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| C | Iron Nugget | ![iron_nugget](../images/mcwwindows_iron_shutter.png) |
 
 ---
 ## Iron Shutter
@@ -1038,7 +1038,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Trapdoor | ![iron_trapdoor](../images/mcwwindows_iron_trapdoor.png) |
+| B | Iron Trapdoor | ![iron_trapdoor](../images/mcwwindows_iron_shutter.png) |
 
 ---
 ## {}
@@ -1053,8 +1053,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Jungle Slab | ![jungle_slab](../images/mcwwindows_jungle_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Four Window
@@ -1063,7 +1063,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_log.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Log Parapet
@@ -1071,8 +1071,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Louvered Shutter
@@ -1080,7 +1080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Jungle Slab | ![jungle_slab](../images/mcwwindows_jungle_slab.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Pane Window
@@ -1089,7 +1089,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_log.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Plank Four Window
@@ -1098,7 +1098,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_planks.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Plank Pane Window
@@ -1107,7 +1107,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_planks.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Plank Parapet
@@ -1115,8 +1115,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Plank Window
@@ -1125,7 +1125,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_planks.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Plank Window2
@@ -1134,7 +1134,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_planks.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Shutter
@@ -1142,7 +1142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Jungle Trapdoor | ![jungle_trapdoor](../images/mcwwindows_jungle_trapdoor.png) |
+| B | Jungle Trapdoor | ![jungle_trapdoor](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Window
@@ -1151,7 +1151,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_log.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Jungle Window2
@@ -1160,7 +1160,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_log.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Key
@@ -1169,7 +1169,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| C | Iron Nugget | ![iron_nugget](../images/mcwwindows_iron_nugget.png) |
+| C | Iron Nugget | ![iron_nugget](../images/mcwwindows_iron_shutter.png) |
 
 ---
 ## Light Blue Curtain
@@ -1177,7 +1177,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Light Blue Wool | ![light_blue_wool](../images/mcwwindows_light_blue_wool.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/mcwwindows_light_blue_base.png) |
 
 ---
 ## Light Blue Mosaic Glass
@@ -1185,8 +1185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Light Blue Stained Glass | ![light_blue_stained_glass](../images/mcwwindows_light_blue_stained_glass.png) |
-| B | Light Blue Dye | ![light_blue_dye](../images/mcwwindows_light_blue_dye.png) |
+| A | Light Blue Stained Glass | ![light_blue_stained_glass](../images/mcwwindows_light_blue_base.png) |
+| B | Light Blue Dye | ![light_blue_dye](../images/mcwwindows_light_blue_base.png) |
 
 ---
 ## Light Blue Mosaic Glass Pane
@@ -1194,7 +1194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Light Blue Mosaic Glass | ![light_blue_mosaic_glass](../images/mcwwindows_light_blue_mosaic_glass.png) |
+| B | Light Blue Mosaic Glass | ![light_blue_mosaic_glass](../images/mcwwindows_light_blue_base.png) |
 
 ---
 ## Light Gray Curtain
@@ -1202,7 +1202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Light Gray Wool | ![light_gray_wool](../images/mcwwindows_light_gray_wool.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/mcwwindows_light_gray_base.png) |
 
 ---
 ## Light Gray Mosaic Glass
@@ -1210,8 +1210,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Light Gray Stained Glass | ![light_gray_stained_glass](../images/mcwwindows_light_gray_stained_glass.png) |
-| B | Light Gray Dye | ![light_gray_dye](../images/mcwwindows_light_gray_dye.png) |
+| A | Light Gray Stained Glass | ![light_gray_stained_glass](../images/mcwwindows_light_gray_base.png) |
+| B | Light Gray Dye | ![light_gray_dye](../images/mcwwindows_light_gray_base.png) |
 
 ---
 ## Light Gray Mosaic Glass Pane
@@ -1219,7 +1219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Light Gray Mosaic Glass | ![light_gray_mosaic_glass](../images/mcwwindows_light_gray_mosaic_glass.png) |
+| B | Light Gray Mosaic Glass | ![light_gray_mosaic_glass](../images/mcwwindows_light_gray_base.png) |
 
 ---
 ## Lime Curtain
@@ -1227,7 +1227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Lime Wool | ![lime_wool](../images/mcwwindows_lime_wool.png) |
+| W | Lime Wool | ![lime_wool](../images/mcwwindows_lime_base.png) |
 
 ---
 ## Lime Mosaic Glass
@@ -1235,8 +1235,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Lime Stained Glass | ![lime_stained_glass](../images/mcwwindows_lime_stained_glass.png) |
-| B | Lime Dye | ![lime_dye](../images/mcwwindows_lime_dye.png) |
+| A | Lime Stained Glass | ![lime_stained_glass](../images/mcwwindows_glass.png) |
+| B | Lime Dye | ![lime_dye](../images/mcwwindows_lime_base.png) |
 
 ---
 ## Lime Mosaic Glass Pane
@@ -1244,7 +1244,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Lime Mosaic Glass | ![lime_mosaic_glass](../images/mcwwindows_lime_mosaic_glass.png) |
+| B | Lime Mosaic Glass | ![lime_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## Magenta Curtain
@@ -1252,7 +1252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Magenta Wool | ![magenta_wool](../images/mcwwindows_magenta_wool.png) |
+| W | Magenta Wool | ![magenta_wool](../images/mcwwindows_magenta_base.png) |
 
 ---
 ## Magenta Mosaic Glass
@@ -1260,8 +1260,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Magenta Stained Glass | ![magenta_stained_glass](../images/mcwwindows_magenta_stained_glass.png) |
-| B | Magenta Dye | ![magenta_dye](../images/mcwwindows_magenta_dye.png) |
+| A | Magenta Stained Glass | ![magenta_stained_glass](../images/mcwwindows_glass.png) |
+| B | Magenta Dye | ![magenta_dye](../images/mcwwindows_magenta_base.png) |
 
 ---
 ## Magenta Mosaic Glass Pane
@@ -1269,7 +1269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Magenta Mosaic Glass | ![magenta_mosaic_glass](../images/mcwwindows_magenta_mosaic_glass.png) |
+| B | Magenta Mosaic Glass | ![magenta_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## {}
@@ -1284,8 +1284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwwindows_mangrove_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Four Window
@@ -1294,7 +1294,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_log.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Log Parapet
@@ -1302,8 +1302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Louvered Shutter
@@ -1311,7 +1311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwwindows_mangrove_slab.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Pane Window
@@ -1320,7 +1320,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_log.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Plank Four Window
@@ -1329,7 +1329,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_planks.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Plank Pane Window
@@ -1338,7 +1338,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_planks.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Plank Parapet
@@ -1346,8 +1346,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Plank Window
@@ -1356,7 +1356,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_planks.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Plank Window2
@@ -1365,7 +1365,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_planks.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Shutter
@@ -1373,7 +1373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Mangrove Trapdoor | ![mangrove_trapdoor](../images/mcwwindows_mangrove_trapdoor.png) |
+| B | Mangrove Trapdoor | ![mangrove_trapdoor](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Window
@@ -1382,7 +1382,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_log.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Mangrove Window2
@@ -1391,7 +1391,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_log.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## {}
@@ -1406,8 +1406,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Mud Brick Slab | ![mud_brick_slab](../images/mcwwindows_mud_brick_slab.png) |
-| A | Mud Bricks | ![mud_bricks](../images/mcwwindows_mud_bricks.png) |
+| B | Mud Brick Slab | ![mud_brick_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Mud Bricks | ![mud_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Mud Brick Gothic
@@ -1415,8 +1415,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mud Bricks | ![mud_bricks](../images/mcwwindows_mud_bricks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | Mud Bricks | ![mud_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## Nether Brick Arrow Slit
@@ -1424,8 +1424,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Nether Brick Slab | ![nether_brick_slab](../images/mcwwindows_nether_brick_slab.png) |
-| A | Nether Bricks | ![nether_bricks](../images/mcwwindows_nether_bricks.png) |
+| B | Nether Brick Slab | ![nether_brick_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Nether Bricks | ![nether_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Nether Brick Gothic
@@ -1433,8 +1433,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Nether Bricks | ![nether_bricks](../images/mcwwindows_nether_bricks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | Nether Bricks | ![nether_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## {}
@@ -1449,8 +1449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Oak Slab | ![oak_slab](../images/mcwwindows_oak_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Four Window
@@ -1459,7 +1459,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Oak Log | ![oak_log](../images/mcwwindows_oak_log.png) |
+| B | Oak Log | ![oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Log Parapet
@@ -1467,8 +1467,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Oak Log | ![oak_log](../images/mcwwindows_oak_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Oak Log | ![oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Louvered Shutter
@@ -1476,7 +1476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Oak Slab | ![oak_slab](../images/mcwwindows_oak_slab.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Pane Window
@@ -1485,7 +1485,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Oak Log | ![oak_log](../images/mcwwindows_oak_log.png) |
+| B | Oak Log | ![oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Plank Four Window
@@ -1494,7 +1494,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwwindows_oak_planks.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Plank Pane Window
@@ -1503,7 +1503,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwwindows_oak_planks.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Plank Parapet
@@ -1511,8 +1511,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwwindows_oak_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Plank Window
@@ -1521,7 +1521,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwwindows_oak_planks.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Plank Window2
@@ -1530,7 +1530,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwwindows_oak_planks.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Shutter
@@ -1538,7 +1538,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Oak Trapdoor | ![oak_trapdoor](../images/mcwwindows_oak_trapdoor.png) |
+| B | Oak Trapdoor | ![oak_trapdoor](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Window
@@ -1547,7 +1547,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Oak Log | ![oak_log](../images/mcwwindows_oak_log.png) |
+| B | Oak Log | ![oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Oak Window2
@@ -1556,7 +1556,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Oak Log | ![oak_log](../images/mcwwindows_oak_log.png) |
+| B | Oak Log | ![oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## One Way Glass
@@ -1565,7 +1565,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Glass | ![glass](../images/mcwwindows_glass.png) |
-| A | Black Dye | ![black_dye](../images/mcwwindows_black_dye.png) |
+| A | Black Dye | ![black_dye](../images/mcwwindows_black_base.png) |
 
 ---
 ## One Way Glass Pane
@@ -1581,7 +1581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Orange Wool | ![orange_wool](../images/mcwwindows_orange_wool.png) |
+| W | Orange Wool | ![orange_wool](../images/mcwwindows_orange_base.png) |
 
 ---
 ## Orange Mosaic Glass
@@ -1589,8 +1589,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Orange Stained Glass | ![orange_stained_glass](../images/mcwwindows_orange_stained_glass.png) |
-| B | Orange Dye | ![orange_dye](../images/mcwwindows_orange_dye.png) |
+| A | Orange Stained Glass | ![orange_stained_glass](../images/mcwwindows_glass.png) |
+| B | Orange Dye | ![orange_dye](../images/mcwwindows_orange_base.png) |
 
 ---
 ## Orange Mosaic Glass Pane
@@ -1598,7 +1598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Orange Mosaic Glass | ![orange_mosaic_glass](../images/mcwwindows_orange_mosaic_glass.png) |
+| B | Orange Mosaic Glass | ![orange_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## {}
@@ -1613,7 +1613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Pink Wool | ![pink_wool](../images/mcwwindows_pink_wool.png) |
+| W | Pink Wool | ![pink_wool](../images/mcwwindows_pink_base.png) |
 
 ---
 ## Pink Mosaic Glass
@@ -1621,8 +1621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Pink Stained Glass | ![pink_stained_glass](../images/mcwwindows_pink_stained_glass.png) |
-| B | Pink Dye | ![pink_dye](../images/mcwwindows_pink_dye.png) |
+| A | Pink Stained Glass | ![pink_stained_glass](../images/mcwwindows_glass.png) |
+| B | Pink Dye | ![pink_dye](../images/mcwwindows_pink_base.png) |
 
 ---
 ## Pink Mosaic Glass Pane
@@ -1630,7 +1630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Pink Mosaic Glass | ![pink_mosaic_glass](../images/mcwwindows_pink_mosaic_glass.png) |
+| B | Pink Mosaic Glass | ![pink_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## {}
@@ -1645,8 +1645,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Prismarine Brick Slab | ![prismarine_brick_slab](../images/mcwwindows_prismarine_brick_slab.png) |
-| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
+| B | Prismarine Brick Slab | ![prismarine_brick_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Prismarine Brick Gothic
@@ -1654,8 +1654,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## Prismarine Four Window
@@ -1664,7 +1664,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
+| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Prismarine Pane Window
@@ -1673,7 +1673,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
+| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Prismarine Parapet
@@ -1681,8 +1681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Prismarine Window
@@ -1691,7 +1691,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
+| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Prismarine Window2
@@ -1700,7 +1700,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_prismarine_bricks.png) |
+| B | Prismarine Bricks | ![prismarine_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Purple Curtain
@@ -1708,7 +1708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Purple Wool | ![purple_wool](../images/mcwwindows_purple_wool.png) |
+| W | Purple Wool | ![purple_wool](../images/mcwwindows_purple_base.png) |
 
 ---
 ## Purple Mosaic Glass
@@ -1716,8 +1716,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Purple Stained Glass | ![purple_stained_glass](../images/mcwwindows_purple_stained_glass.png) |
-| B | Purple Dye | ![purple_dye](../images/mcwwindows_purple_dye.png) |
+| A | Purple Stained Glass | ![purple_stained_glass](../images/mcwwindows_glass.png) |
+| B | Purple Dye | ![purple_dye](../images/mcwwindows_purple_base.png) |
 
 ---
 ## Purple Mosaic Glass Pane
@@ -1725,7 +1725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Purple Mosaic Glass | ![purple_mosaic_glass](../images/mcwwindows_purple_mosaic_glass.png) |
+| B | Purple Mosaic Glass | ![purple_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## Red Curtain
@@ -1733,7 +1733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Red Wool | ![red_wool](../images/mcwwindows_red_wool.png) |
+| W | Red Wool | ![red_wool](../images/mcwwindows_red_base.png) |
 
 ---
 ## Red Mosaic Glass
@@ -1741,8 +1741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Red Stained Glass | ![red_stained_glass](../images/mcwwindows_red_stained_glass.png) |
-| B | Red Dye | ![red_dye](../images/mcwwindows_red_dye.png) |
+| A | Red Stained Glass | ![red_stained_glass](../images/mcwwindows_glass.png) |
+| B | Red Dye | ![red_dye](../images/mcwwindows_red_base.png) |
 
 ---
 ## Red Mosaic Glass Pane
@@ -1750,7 +1750,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Red Mosaic Glass | ![red_mosaic_glass](../images/mcwwindows_red_mosaic_glass.png) |
+| B | Red Mosaic Glass | ![red_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## {}
@@ -1772,8 +1772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Spruce Slab | ![spruce_slab](../images/mcwwindows_spruce_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Four Window
@@ -1782,7 +1782,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_log.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Log Parapet
@@ -1790,8 +1790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_log.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Louvered Shutter
@@ -1799,7 +1799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Spruce Slab | ![spruce_slab](../images/mcwwindows_spruce_slab.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Pane Window
@@ -1808,7 +1808,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_log.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Plank Four Window
@@ -1817,7 +1817,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_planks.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Plank Pane Window
@@ -1826,7 +1826,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_planks.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Plank Parapet
@@ -1834,8 +1834,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Plank Window
@@ -1844,7 +1844,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_planks.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Plank Window2
@@ -1853,7 +1853,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_planks.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Shutter
@@ -1861,7 +1861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Spruce Trapdoor | ![spruce_trapdoor](../images/mcwwindows_spruce_trapdoor.png) |
+| B | Spruce Trapdoor | ![spruce_trapdoor](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Window
@@ -1870,7 +1870,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_log.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Spruce Window2
@@ -1879,7 +1879,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_log.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## {}
@@ -1894,8 +1894,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone Brick Slab | ![stone_brick_slab](../images/mcwwindows_stone_brick_slab.png) |
-| A | Stone Bricks | ![stone_bricks](../images/mcwwindows_stone_bricks.png) |
+| B | Stone Brick Slab | ![stone_brick_slab](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Stone Bricks | ![stone_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stone Brick Gothic
@@ -1903,8 +1903,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stone Bricks | ![stone_bricks](../images/mcwwindows_stone_bricks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwwindows_glass_pane.png) |
+| A | Stone Bricks | ![stone_bricks](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwwindows_one_glass_pane_top.png) |
 
 ---
 ## Stone Four Window
@@ -1913,7 +1913,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stone | ![stone](../images/mcwwindows_stone.png) |
+| B | Stone | ![stone](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stone Pane Window
@@ -1922,7 +1922,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stone | ![stone](../images/mcwwindows_stone.png) |
+| B | Stone | ![stone](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stone Window
@@ -1931,7 +1931,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stone | ![stone](../images/mcwwindows_stone.png) |
+| B | Stone | ![stone](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stone Window2
@@ -1940,7 +1940,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stone | ![stone](../images/mcwwindows_stone.png) |
+| B | Stone | ![stone](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stripped Acacia Log Four Window
@@ -1949,7 +1949,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_stripped_acacia_log.png) |
+| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stripped Acacia Log Window
@@ -1958,7 +1958,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_stripped_acacia_log.png) |
+| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stripped Acacia Log Window2
@@ -1967,7 +1967,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_stripped_acacia_log.png) |
+| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stripped Acacia Pane Window
@@ -1976,7 +1976,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_stripped_acacia_log.png) |
+| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwwindows_acacia_louvered_shutter.png) |
 
 ---
 ## Stripped Birch Log Four Window
@@ -1985,7 +1985,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_stripped_birch_log.png) |
+| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Stripped Birch Log Window
@@ -1994,7 +1994,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_stripped_birch_log.png) |
+| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Stripped Birch Log Window2
@@ -2003,7 +2003,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_stripped_birch_log.png) |
+| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Stripped Birch Pane Window
@@ -2012,7 +2012,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_stripped_birch_log.png) |
+| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwwindows_birch_louvered_shutter.png) |
 
 ---
 ## Stripped Crimson Pane Window
@@ -2021,7 +2021,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_stripped_crimson_stem.png) |
+| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Stripped Crimson Stem Four Window
@@ -2030,7 +2030,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_stripped_crimson_stem.png) |
+| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Stripped Crimson Stem Window
@@ -2039,7 +2039,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_stripped_crimson_stem.png) |
+| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Stripped Crimson Stem Window2
@@ -2048,7 +2048,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_stripped_crimson_stem.png) |
+| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwwindows_crimson_louvered_shutter.png) |
 
 ---
 ## Stripped Dark Oak Log Four Window
@@ -2057,7 +2057,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_stripped_dark_oak_log.png) |
+| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Dark Oak Log Window
@@ -2066,7 +2066,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_stripped_dark_oak_log.png) |
+| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Dark Oak Log Window2
@@ -2075,7 +2075,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_stripped_dark_oak_log.png) |
+| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Dark Oak Pane Window
@@ -2084,7 +2084,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_stripped_dark_oak_log.png) |
+| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Jungle Log Four Window
@@ -2093,7 +2093,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_stripped_jungle_log.png) |
+| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Stripped Jungle Log Window
@@ -2102,7 +2102,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_stripped_jungle_log.png) |
+| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Stripped Jungle Log Window2
@@ -2111,7 +2111,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_stripped_jungle_log.png) |
+| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Stripped Jungle Pane Window
@@ -2120,7 +2120,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_stripped_jungle_log.png) |
+| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwwindows_jungle_louvered_shutter.png) |
 
 ---
 ## Stripped Mangrove Log Four Window
@@ -2129,7 +2129,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_stripped_mangrove_log.png) |
+| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Stripped Mangrove Log Window
@@ -2138,7 +2138,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_stripped_mangrove_log.png) |
+| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Stripped Mangrove Log Window2
@@ -2147,7 +2147,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_stripped_mangrove_log.png) |
+| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Stripped Mangrove Pane Window
@@ -2156,7 +2156,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_stripped_mangrove_log.png) |
+| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwwindows_mangrove_louvered_shutter.png) |
 
 ---
 ## Stripped Oak Log Four Window
@@ -2165,7 +2165,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_stripped_oak_log.png) |
+| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Oak Log Window
@@ -2174,7 +2174,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_stripped_oak_log.png) |
+| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Oak Log Window2
@@ -2183,7 +2183,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_stripped_oak_log.png) |
+| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Oak Pane Window
@@ -2192,7 +2192,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_stripped_oak_log.png) |
+| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwwindows_dark_oak_louvered_shutter.png) |
 
 ---
 ## Stripped Spruce Log Four Window
@@ -2201,7 +2201,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_stripped_spruce_log.png) |
+| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Stripped Spruce Log Window
@@ -2210,7 +2210,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_stripped_spruce_log.png) |
+| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Stripped Spruce Log Window2
@@ -2219,7 +2219,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_stripped_spruce_log.png) |
+| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Stripped Spruce Pane Window
@@ -2228,7 +2228,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_stripped_spruce_log.png) |
+| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwwindows_spruce_louvered_shutter.png) |
 
 ---
 ## Stripped Warped Pane Window
@@ -2237,7 +2237,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_stripped_warped_stem.png) |
+| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Stripped Warped Stem Four Window
@@ -2246,7 +2246,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_stripped_warped_stem.png) |
+| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Stripped Warped Stem Window
@@ -2255,7 +2255,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_stripped_warped_stem.png) |
+| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Stripped Warped Stem Window2
@@ -2264,7 +2264,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_stripped_warped_stem.png) |
+| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## {}
@@ -2279,8 +2279,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwwindows_stick.png) |
-| A | Warped Slab | ![warped_slab](../images/mcwwindows_warped_slab.png) |
+| B | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Louvered Shutter
@@ -2288,7 +2288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Warped Slab | ![warped_slab](../images/mcwwindows_warped_slab.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Pane Window
@@ -2297,7 +2297,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_stem.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Planks Four Window
@@ -2306,7 +2306,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_planks.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Planks Window
@@ -2315,7 +2315,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_planks.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Planks Window2
@@ -2324,7 +2324,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_planks.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Plank Pane Window
@@ -2333,7 +2333,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_planks.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Plank Parapet
@@ -2341,8 +2341,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_planks.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Shutter
@@ -2350,7 +2350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Warped Trapdoor | ![warped_trapdoor](../images/mcwwindows_warped_trapdoor.png) |
+| B | Warped Trapdoor | ![warped_trapdoor](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Stem Four Window
@@ -2359,7 +2359,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Centre Bar Base | ![window_centre_bar_base](../images/mcwwindows_window_centre_bar_base.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_stem.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Stem Parapet
@@ -2367,8 +2367,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_stem.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Stem Window
@@ -2377,7 +2377,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Base | ![window_base](../images/mcwwindows_window_base.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_stem.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## Warped Stem Window2
@@ -2386,7 +2386,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Window Half Bar Base | ![window_half_bar_base](../images/mcwwindows_window_half_bar_base.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_stem.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwwindows_warped_louvered_shutter.png) |
 
 ---
 ## White Curtain
@@ -2394,7 +2394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | White Wool | ![white_wool](../images/mcwwindows_white_wool.png) |
+| W | White Wool | ![white_wool](../images/mcwwindows_white_base.png) |
 
 ---
 ## White Mosaic Glass
@@ -2402,8 +2402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | White Stained Glass | ![white_stained_glass](../images/mcwwindows_white_stained_glass.png) |
-| B | White Dye | ![white_dye](../images/mcwwindows_white_dye.png) |
+| A | White Stained Glass | ![white_stained_glass](../images/mcwwindows_glass.png) |
+| B | White Dye | ![white_dye](../images/mcwwindows_white_base.png) |
 
 ---
 ## White Mosaic Glass Pane
@@ -2411,7 +2411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | White Mosaic Glass | ![white_mosaic_glass](../images/mcwwindows_white_mosaic_glass.png) |
+| B | White Mosaic Glass | ![white_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---
 ## Window Base
@@ -2419,7 +2419,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwwindows_stick.png) |
+| A | Stick | ![stick](../images/mcwwindows_acacia_louvered_shutter.png) |
 | B | Glass | ![glass](../images/mcwwindows_glass.png) |
 
 ---
@@ -2446,7 +2446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Yellow Wool | ![yellow_wool](../images/mcwwindows_yellow_wool.png) |
+| W | Yellow Wool | ![yellow_wool](../images/mcwwindows_yellow_base.png) |
 
 ---
 ## Yellow Mosaic Glass
@@ -2454,8 +2454,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Yellow Stained Glass | ![yellow_stained_glass](../images/mcwwindows_yellow_stained_glass.png) |
-| B | Yellow Dye | ![yellow_dye](../images/mcwwindows_yellow_dye.png) |
+| A | Yellow Stained Glass | ![yellow_stained_glass](../images/mcwwindows_glass.png) |
+| B | Yellow Dye | ![yellow_dye](../images/mcwwindows_yellow_base.png) |
 
 ---
 ## Yellow Mosaic Glass Pane
@@ -2463,6 +2463,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Yellow Mosaic Glass | ![yellow_mosaic_glass](../images/mcwwindows_yellow_mosaic_glass.png) |
+| B | Yellow Mosaic Glass | ![yellow_mosaic_glass](../images/mcwwindows_glass.png) |
 
 ---

@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/swplanets_iron_ingot.png) |
+| # | Iron Ingot | ![iron_ingot](../images/swplanets_blue.png) |
 | D | Kyber Crystal | ![kyber_crystal](../images/swplanets_kyber_crystal.png) |
 
 ---
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Dye | ![blue_dye](../images/swplanets_blue_dye.png) |
-| B | Beacon | ![beacon](../images/swplanets_beacon.png) |
+| # | Blue Dye | ![blue_dye](../images/swplanets_blue.png) |
+| B | Beacon | ![beacon](../images/swplanets_blue.png) |
 | R | Light Saber Base | ![light_saber_base](../images/swplanets_light_saber_base.png) |
 
 ---
@@ -26,9 +26,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Saber Red | ![light_saber_red](../images/swplanets_light_saber_red.png) |
-| B | Beacon | ![beacon](../images/swplanets_beacon.png) |
-| R | Red Dye | ![red_dye](../images/swplanets_red_dye.png) |
+| # | Light Saber Red | ![light_saber_red](../images/swplanets_light_saber_base.png) |
+| B | Beacon | ![beacon](../images/swplanets_blue.png) |
+| R | Red Dye | ![red_dye](../images/swplanets_red.png) |
 
 ---
 ## Light Saber Green
@@ -36,8 +36,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Dye | ![green_dye](../images/swplanets_green_dye.png) |
-| B | Beacon | ![beacon](../images/swplanets_beacon.png) |
+| # | Green Dye | ![green_dye](../images/swplanets_green.png) |
+| B | Beacon | ![beacon](../images/swplanets_blue.png) |
 | R | Light Saber Base | ![light_saber_base](../images/swplanets_light_saber_base.png) |
 
 ---
@@ -46,8 +46,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Dye | ![green_dye](../images/swplanets_green_dye.png) |
-| B | Beacon | ![beacon](../images/swplanets_beacon.png) |
+| # | Green Dye | ![green_dye](../images/swplanets_green.png) |
+| B | Beacon | ![beacon](../images/swplanets_blue.png) |
 | R | Light Saber Base | ![light_saber_base](../images/swplanets_light_saber_base.png) |
 
 ---
@@ -56,8 +56,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Dye | ![red_dye](../images/swplanets_red_dye.png) |
-| B | Beacon | ![beacon](../images/swplanets_beacon.png) |
+| # | Red Dye | ![red_dye](../images/swplanets_red.png) |
+| B | Beacon | ![beacon](../images/swplanets_blue.png) |
 | R | Light Saber Base | ![light_saber_base](../images/swplanets_light_saber_base.png) |
 
 ---
@@ -66,8 +66,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Dye | ![purple_dye](../images/swplanets_purple_dye.png) |
-| B | Beacon | ![beacon](../images/swplanets_beacon.png) |
+| # | Purple Dye | ![purple_dye](../images/swplanets_blue.png) |
+| B | Beacon | ![beacon](../images/swplanets_blue.png) |
 | R | Light Saber Base | ![light_saber_base](../images/swplanets_light_saber_base.png) |
 
 ---

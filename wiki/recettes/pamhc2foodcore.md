@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Applejuice | ![juices/applejuice](../images/pamhc2foodcore_juices/applejuice.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Applejellytoastitem
@@ -17,8 +17,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Toast | ![toast](../images/pamhc2foodcore_toast.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Toast | ![toast](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Jellies/Applejelly | ![jellies/applejelly](../images/pamhc2foodcore_jellies/applejelly.png) |
 
 ---
@@ -27,7 +27,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
 
@@ -37,10 +37,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Applesauceitem
@@ -48,10 +48,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Applesmoothieitem
@@ -59,9 +59,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Applejuice | ![juices/applejuice](../images/pamhc2foodcore_juices/applejuice.png) |
-| - | Ices | ![ices](../images/pamhc2foodcore_ices.png) |
+| - | Ices | ![ices](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Appleyogurtitem
@@ -69,8 +69,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Yogurt | ![yogurt](../images/pamhc2foodcore_yogurt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Yogurt | ![yogurt](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
 
 ---
@@ -79,9 +79,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
-| - | Egg | ![egg](../images/pamhc2foodcore_egg.png) |
-| - | Rawpork | ![rawpork](../images/pamhc2foodcore_rawpork.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Egg | ![egg](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawpork | ![rawpork](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Baconcheeseburgeritem
@@ -89,12 +89,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundbeefitem | ![groundbeefitem](../images/pamhc2foodcore_groundbeefitem.png) |
-| - | Condiments | ![condiments](../images/pamhc2foodcore_condiments.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
-| - | Rawpork | ![rawpork](../images/pamhc2foodcore_rawpork.png) |
-| - | Cheese | ![cheese](../images/pamhc2foodcore_cheese.png) |
+| - | Condiments | ![condiments](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawpork | ![rawpork](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cheese | ![cheese](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Bakedvegetablemedlyitem
@@ -102,9 +102,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Basiccheeseburgeritem
@@ -112,11 +112,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundbeefitem | ![groundbeefitem](../images/pamhc2foodcore_groundbeefitem.png) |
-| - | Condiments | ![condiments](../images/pamhc2foodcore_condiments.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
-| - | Cheese | ![cheese](../images/pamhc2foodcore_cheese.png) |
+| - | Condiments | ![condiments](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cheese | ![cheese](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Basicchickensandwichitem
@@ -124,10 +124,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundchickenitem | ![groundchickenitem](../images/pamhc2foodcore_groundchickenitem.png) |
-| - | Condiments | ![condiments](../images/pamhc2foodcore_condiments.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
+| - | Condiments | ![condiments](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Basicfishsandwichitem
@@ -135,10 +135,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundfishitem | ![groundfishitem](../images/pamhc2foodcore_groundfishitem.png) |
-| - | Condiments | ![condiments](../images/pamhc2foodcore_condiments.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
+| - | Condiments | ![condiments](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Basichamburgeritem
@@ -146,10 +146,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundbeefitem | ![groundbeefitem](../images/pamhc2foodcore_groundbeefitem.png) |
-| - | Condiments | ![condiments](../images/pamhc2foodcore_condiments.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
+| - | Condiments | ![condiments](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Batteritem
@@ -157,10 +157,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
-| - | Egg | ![egg](../images/pamhc2foodcore_egg.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Egg | ![egg](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Beefjerkyitem
@@ -168,9 +168,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Rawbeef | ![rawbeef](../images/pamhc2foodcore_rawbeef.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawbeef | ![rawbeef](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Boiledeggitem
@@ -178,8 +178,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Egg | ![egg](../images/pamhc2foodcore_egg.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Egg | ![egg](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Bread
@@ -187,8 +187,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Butteredbakedpotatoitem
@@ -196,10 +196,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Baked Potato | ![baked_potato](../images/pamhc2foodcore_baked_potato.png) |
-| - | Butter | ![butter](../images/pamhc2foodcore_butter.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Baked Potato | ![baked_potato](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Butter | ![butter](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Butteritem
@@ -207,8 +207,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Caramelappleitem
@@ -216,8 +216,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Caramel | ![caramel](../images/pamhc2foodcore_caramel.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Caramel | ![caramel](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Apple | ![crops/apple](../images/pamhc2foodcore_crops/apple.png) |
 
 ---
@@ -226,9 +226,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Caramel | ![caramel](../images/pamhc2foodcore_caramel.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Caramel | ![caramel](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Caramelicecreamitem
@@ -236,9 +236,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Icecream | ![icecream](../images/pamhc2foodcore_icecream.png) |
-| - | Caramel | ![caramel](../images/pamhc2foodcore_caramel.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Icecream | ![icecream](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Caramel | ![caramel](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Caramelitem
@@ -246,9 +246,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Caramelmuffinitem
@@ -256,9 +256,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Caramel | ![caramel](../images/pamhc2foodcore_caramel.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Caramel | ![caramel](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Caramelyogurtitem
@@ -266,9 +266,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Yogurt | ![yogurt](../images/pamhc2foodcore_yogurt.png) |
-| - | Caramel | ![caramel](../images/pamhc2foodcore_caramel.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Yogurt | ![yogurt](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Caramel | ![caramel](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Carrotbreaditem
@@ -276,9 +276,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Carrotcakeitem
@@ -286,10 +286,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Carrotcupcakeitem
@@ -297,9 +297,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Carrotmuffinitem
@@ -307,9 +307,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Carrotsoupitem
@@ -317,9 +317,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Stock | ![stock](../images/pamhc2foodcore_stock.png) |
+| - | Stock | ![stock](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cheesecakeitem
@@ -327,10 +327,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
-| - | Cheese | ![cheese](../images/pamhc2foodcore_cheese.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cheese | ![cheese](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cheeseitem
@@ -338,9 +338,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chickendinneritem
@@ -348,10 +348,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Friedchickenitem | ![friedchickenitem](../images/pamhc2foodcore_friedchickenitem.png) |
 | - | Mashedpotatoesitem | ![mashedpotatoesitem](../images/pamhc2foodcore_mashedpotatoesitem.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chickenjerkyitem
@@ -359,9 +359,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_rawchicken.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chickennuggetitem
@@ -369,9 +369,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundchickenitem | ![groundchickenitem](../images/pamhc2foodcore_groundchickenitem.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chickenpotpieitem
@@ -379,11 +379,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_rawchicken.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Potato | ![crops/potato](../images/pamhc2foodcore_crops/potato.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatebaconitem
@@ -391,9 +391,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_chocolatebar.png) |
-| - | Rawpork | ![rawpork](../images/pamhc2foodcore_rawpork.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawpork | ![rawpork](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatebaritem
@@ -401,7 +401,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Cocoabeans | ![crops/cocoabeans](../images/pamhc2foodcore_crops/cocoabeans.png) |
 
 ---
@@ -410,10 +410,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
-| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_chocolatebar.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatecaramelfudgeitem
@@ -421,9 +421,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_chocolatebar.png) |
-| - | Caramel | ![caramel](../images/pamhc2foodcore_caramel.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Caramel | ![caramel](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatecupcakeitem
@@ -431,9 +431,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatedonutitem
@@ -441,10 +441,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_cookingoil.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolateicecreamitem
@@ -452,9 +452,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Icecream | ![icecream](../images/pamhc2foodcore_icecream.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Icecream | ![icecream](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatemuffinitem
@@ -462,9 +462,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolatepuddingitem
@@ -472,9 +472,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolaterollitem
@@ -482,10 +482,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
-| - | Cream | ![cream](../images/pamhc2foodcore_cream.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cream | ![cream](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Chocolateyogurtitem
@@ -493,9 +493,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Yogurt | ![yogurt](../images/pamhc2foodcore_yogurt.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Yogurt | ![yogurt](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cocoapowderitem
@@ -503,7 +503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Cocoabeans | ![crops/cocoabeans](../images/pamhc2foodcore_crops/cocoabeans.png) |
 
 ---
@@ -512,9 +512,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
-| - | Cookies | ![cookies](../images/pamhc2foodcore_cookies.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cookies | ![cookies](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cookingoilitem
@@ -522,8 +522,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Roller | ![tool_roller](../images/pamhc2foodcore_tool_roller.png) |
-| - | Nuts | ![nuts](../images/pamhc2foodcore_nuts.png) |
+| - | Tool Roller | ![tool_roller](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Nuts | ![nuts](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cookingoilitem
@@ -531,8 +531,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Roller | ![tool_roller](../images/pamhc2foodcore_tool_roller.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
+| - | Tool Roller | ![tool_roller](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cottoncandyitem
@@ -540,8 +540,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Crackeritem
@@ -549,9 +549,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Creamitem
@@ -559,8 +559,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Donutitem
@@ -568,9 +568,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_cookingoil.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Doughitem
@@ -578,10 +578,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
-| - | Water | ![water](../images/pamhc2foodcore_water.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Water | ![water](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Epicbaconitem
@@ -589,8 +589,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Cookedpork | ![cookedpork](../images/pamhc2foodcore_cookedpork.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cookedpork | ![cookedpork](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Dyes/Red | ![dyes/red](../images/pamhc2foodcore_dyes/red.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/pamhc2foodcore_dyes/orange.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/pamhc2foodcore_dyes/yellow.png) |
@@ -605,9 +605,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Rawfish | ![rawfish](../images/pamhc2foodcore_rawfish.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawfish | ![rawfish](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Friesitem | ![friesitem](../images/pamhc2foodcore_friesitem.png) |
 
 ---
@@ -616,9 +616,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Fishes | ![fishes](../images/pamhc2foodcore_fishes.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fishes | ![fishes](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Fishsticksitem
@@ -626,9 +626,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundfishitem | ![groundfishitem](../images/pamhc2foodcore_groundfishitem.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Flouritem
@@ -636,8 +636,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Flour Plants | ![flour_plants](../images/pamhc2foodcore_flour_plants.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour Plants | ![flour_plants](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Freshmilkitem
@@ -645,7 +645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/pamhc2foodcore_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Freshwateritem
@@ -653,7 +653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Water Bucket | ![water_bucket](../images/pamhc2foodcore_water_bucket.png) |
+| - | Water Bucket | ![water_bucket](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Friedchickenitem
@@ -661,10 +661,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
-| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_rawchicken.png) |
-| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_cookingoil.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Friedeggitem
@@ -672,8 +672,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
-| - | Egg | ![egg](../images/pamhc2foodcore_egg.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Egg | ![egg](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Friesitem
@@ -681,10 +681,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Potato | ![crops/potato](../images/pamhc2foodcore_crops/potato.png) |
-| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_cookingoil.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Fruitcrumbleitem
@@ -692,10 +692,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Fruitpunchitem
@@ -703,10 +703,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Fruitsaladitem
@@ -714,9 +714,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Glazedcarrotsitem
@@ -724,10 +724,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
-| - | Butter | ![butter](../images/pamhc2foodcore_butter.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Butter | ![butter](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Glowberryjellyitem
@@ -735,9 +735,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Glowberryjuice | ![juices/glowberryjuice](../images/pamhc2foodcore_juices/glowberryjuice.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Glowberryjellytoastitem
@@ -745,8 +745,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Toast | ![toast](../images/pamhc2foodcore_toast.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Toast | ![toast](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Jellies/Glowberryjelly | ![jellies/glowberryjelly](../images/pamhc2foodcore_jellies/glowberryjelly.png) |
 
 ---
@@ -755,7 +755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Glowberry | ![crops/glowberry](../images/pamhc2foodcore_crops/glowberry.png) |
 | - | Crops/Glowberry | ![crops/glowberry](../images/pamhc2foodcore_crops/glowberry.png) |
 
@@ -765,10 +765,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Glowberry | ![crops/glowberry](../images/pamhc2foodcore_crops/glowberry.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Glowberrysmoothieitem
@@ -776,9 +776,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Glowberryjuice | ![juices/glowberryjuice](../images/pamhc2foodcore_juices/glowberryjuice.png) |
-| - | Ices | ![ices](../images/pamhc2foodcore_ices.png) |
+| - | Ices | ![ices](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Glowberryyogurtitem
@@ -786,8 +786,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Yogurt | ![yogurt](../images/pamhc2foodcore_yogurt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Yogurt | ![yogurt](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Glowberry | ![crops/glowberry](../images/pamhc2foodcore_crops/glowberry.png) |
 
 ---
@@ -796,10 +796,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
-| - | Butter | ![butter](../images/pamhc2foodcore_butter.png) |
-| - | Cheese | ![cheese](../images/pamhc2foodcore_cheese.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Butter | ![butter](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cheese | ![cheese](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Groundbeefitem
@@ -807,8 +807,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Rawbeef | ![rawbeef](../images/pamhc2foodcore_rawbeef.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawbeef | ![rawbeef](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Groundchickenitem
@@ -816,8 +816,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_rawchicken.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawchicken | ![rawchicken](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Groundfishitem
@@ -825,8 +825,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Fishes | ![fishes](../images/pamhc2foodcore_fishes.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fishes | ![fishes](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Groundmuttonitem
@@ -834,8 +834,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Rawmutton | ![rawmutton](../images/pamhc2foodcore_rawmutton.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawmutton | ![rawmutton](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Groundporkitem
@@ -843,8 +843,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Rawpork | ![rawpork](../images/pamhc2foodcore_rawpork.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawpork | ![rawpork](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Groundrabbititem
@@ -852,8 +852,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_tool_grinder.png) |
-| - | Rawrabbit | ![rawrabbit](../images/pamhc2foodcore_rawrabbit.png) |
+| - | Tool Grinder | ![tool_grinder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawrabbit | ![rawrabbit](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Gummybearsitem
@@ -861,8 +861,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Dyes/Red | ![dyes/red](../images/pamhc2foodcore_dyes/red.png) |
 | - | Dyes/Green | ![dyes/green](../images/pamhc2foodcore_dyes/green.png) |
 
@@ -872,10 +872,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
-| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_cocoapowder.png) |
-| - | Marshmellows | ![marshmellows](../images/pamhc2foodcore_marshmellows.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cocoapowder | ![cocoapowder](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Marshmellows | ![marshmellows](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Hotdogitem
@@ -883,10 +883,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Groundporkitem | ![groundporkitem](../images/pamhc2foodcore_groundporkitem.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
-| - | Condiments | ![condiments](../images/pamhc2foodcore_condiments.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Condiments | ![condiments](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Icecreamitem
@@ -894,10 +894,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
-| - | Ices | ![ices](../images/pamhc2foodcore_ices.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Ices | ![ices](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Jellybeansitem
@@ -905,8 +905,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/pamhc2foodcore_dyes/blue.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/pamhc2foodcore_dyes/orange.png) |
 
@@ -916,10 +916,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_cookingoil.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
-| - | Jellies | ![jellies](../images/pamhc2foodcore_jellies.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Jellies | ![jellies](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Macncheeseitem
@@ -927,9 +927,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Pasta | ![pasta](../images/pamhc2foodcore_pasta.png) |
-| - | Cheese | ![cheese](../images/pamhc2foodcore_cheese.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Pasta | ![pasta](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cheese | ![cheese](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Marshmellowchicksitem
@@ -937,9 +937,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
-| - | Dyes | ![dyes](../images/pamhc2foodcore_dyes.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dyes | ![dyes](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Marshmellowsitem
@@ -947,8 +947,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Mashedpotatoesitem
@@ -956,10 +956,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
-| - | Baked Potato | ![baked_potato](../images/pamhc2foodcore_baked_potato.png) |
-| - | Butter | ![butter](../images/pamhc2foodcore_butter.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Baked Potato | ![baked_potato](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Butter | ![butter](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Mayonaiseitem
@@ -967,8 +967,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
-| - | Egg | ![egg](../images/pamhc2foodcore_egg.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Egg | ![egg](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Meatloafitem
@@ -976,9 +976,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Groundmeats | ![groundmeats](../images/pamhc2foodcore_groundmeats.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Groundmeats | ![groundmeats](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Melonjellyitem
@@ -986,9 +986,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Melonjuice | ![juices/melonjuice](../images/pamhc2foodcore_juices/melonjuice.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Melonjellytoastitem
@@ -996,8 +996,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Toast | ![toast](../images/pamhc2foodcore_toast.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Toast | ![toast](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Jellies/Melonjelly | ![jellies/melonjelly](../images/pamhc2foodcore_jellies/melonjelly.png) |
 
 ---
@@ -1006,7 +1006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Melon | ![crops/melon](../images/pamhc2foodcore_crops/melon.png) |
 | - | Crops/Melon | ![crops/melon](../images/pamhc2foodcore_crops/melon.png) |
 
@@ -1016,9 +1016,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Melonjuice | ![juices/melonjuice](../images/pamhc2foodcore_juices/melonjuice.png) |
-| - | Ices | ![ices](../images/pamhc2foodcore_ices.png) |
+| - | Ices | ![ices](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Muttonjerkyitem
@@ -1026,9 +1026,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Rawmutton | ![rawmutton](../images/pamhc2foodcore_rawmutton.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawmutton | ![rawmutton](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Noodlesoupitem
@@ -1036,9 +1036,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Pasta | ![pasta](../images/pamhc2foodcore_pasta.png) |
-| - | Stock | ![stock](../images/pamhc2foodcore_stock.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Pasta | ![pasta](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Stock | ![stock](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## P8Juiceitem
@@ -1046,9 +1046,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pastaitem
@@ -1056,8 +1056,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Roller | ![tool_roller](../images/pamhc2foodcore_tool_roller.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Tool Roller | ![tool_roller](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pickledbeetsitem
@@ -1065,8 +1065,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Vinegar | ![vinegar](../images/pamhc2foodcore_vinegar.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vinegar | ![vinegar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Beetroot | ![crops/beetroot](../images/pamhc2foodcore_crops/beetroot.png) |
 
 ---
@@ -1075,9 +1075,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Rawpork | ![rawpork](../images/pamhc2foodcore_rawpork.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawpork | ![rawpork](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Potatochipsitem
@@ -1085,10 +1085,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Potato | ![crops/potato](../images/pamhc2foodcore_crops/potato.png) |
-| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_cookingoil.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Cookingoil | ![cookingoil](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Potatosoupitem
@@ -1096,9 +1096,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Potato | ![crops/potato](../images/pamhc2foodcore_crops/potato.png) |
-| - | Stock | ![stock](../images/pamhc2foodcore_stock.png) |
+| - | Stock | ![stock](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Potroastitem
@@ -1106,8 +1106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Rawbeef | ![rawbeef](../images/pamhc2foodcore_rawbeef.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawbeef | ![rawbeef](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Potato | ![crops/potato](../images/pamhc2foodcore_crops/potato.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/pamhc2foodcore_crops/carrot.png) |
 
@@ -1117,9 +1117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Pumpkin | ![crops/pumpkin](../images/pamhc2foodcore_crops/pumpkin.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pumpkincheesecakeitem
@@ -1127,11 +1127,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
-| - | Cheese | ![cheese](../images/pamhc2foodcore_cheese.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cheese | ![cheese](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Pumpkin | ![crops/pumpkin](../images/pamhc2foodcore_crops/pumpkin.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pumpkincupcakeitem
@@ -1139,9 +1139,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Pumpkin | ![crops/pumpkin](../images/pamhc2foodcore_crops/pumpkin.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pumpkinmuffinitem
@@ -1149,9 +1149,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Pumpkin | ![crops/pumpkin](../images/pamhc2foodcore_crops/pumpkin.png) |
-| - | Batter | ![batter](../images/pamhc2foodcore_batter.png) |
+| - | Batter | ![batter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pumpkinsoupitem
@@ -1159,9 +1159,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Pumpkin | ![crops/pumpkin](../images/pamhc2foodcore_crops/pumpkin.png) |
-| - | Stock | ![stock](../images/pamhc2foodcore_stock.png) |
+| - | Stock | ![stock](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Pumpkinyogurtitem
@@ -1169,8 +1169,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Yogurt | ![yogurt](../images/pamhc2foodcore_yogurt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Yogurt | ![yogurt](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Pumpkin | ![crops/pumpkin](../images/pamhc2foodcore_crops/pumpkin.png) |
 
 ---
@@ -1179,9 +1179,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Rawrabbit | ![rawrabbit](../images/pamhc2foodcore_rawrabbit.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawrabbit | ![rawrabbit](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Saltitem
@@ -1189,8 +1189,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Water | ![water](../images/pamhc2foodcore_water.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Water | ![water](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Scrambledeggitem
@@ -1198,10 +1198,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
-| - | Egg | ![egg](../images/pamhc2foodcore_egg.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Egg | ![egg](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Smoresitem
@@ -1209,10 +1209,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Cracker | ![cracker](../images/pamhc2foodcore_cracker.png) |
-| - | Marshmellows | ![marshmellows](../images/pamhc2foodcore_marshmellows.png) |
-| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_chocolatebar.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Cracker | ![cracker](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Marshmellows | ![marshmellows](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Softpretzelitem
@@ -1220,9 +1220,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Stewitem
@@ -1230,11 +1230,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Rawmeats | ![rawmeats](../images/pamhc2foodcore_rawmeats.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
-| - | Vegetables | ![vegetables](../images/pamhc2foodcore_vegetables.png) |
-| - | Flour | ![flour](../images/pamhc2foodcore_flour.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Rawmeats | ![rawmeats](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vegetables | ![vegetables](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Flour | ![flour](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Stockitem
@@ -1242,8 +1242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Stock Ingredients | ![stock_ingredients](../images/pamhc2foodcore_stock_ingredients.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Stock Ingredients | ![stock_ingredients](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Sugar
@@ -1260,8 +1260,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sunflower | ![sunflower](../images/pamhc2foodcore_sunflower.png) |
-| - | Sunflower | ![sunflower](../images/pamhc2foodcore_sunflower.png) |
+| - | Sunflower | ![sunflower](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sunflower | ![sunflower](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Sweetberryjellyitem
@@ -1269,9 +1269,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Sweetberryjuice | ![juices/sweetberryjuice](../images/pamhc2foodcore_juices/sweetberryjuice.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Sweetberryjellytoastitem
@@ -1279,8 +1279,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Toast | ![toast](../images/pamhc2foodcore_toast.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Toast | ![toast](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Jellies/Sweetberryjelly | ![jellies/sweetberryjelly](../images/pamhc2foodcore_jellies/sweetberryjelly.png) |
 
 ---
@@ -1289,7 +1289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_tool_juicer.png) |
+| - | Tool Juicer | ![tool_juicer](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Sweetberry | ![crops/sweetberry](../images/pamhc2foodcore_crops/sweetberry.png) |
 | - | Crops/Sweetberry | ![crops/sweetberry](../images/pamhc2foodcore_crops/sweetberry.png) |
 
@@ -1299,10 +1299,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Sugar | ![sugar](../images/pamhc2foodcore_sugar.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Sugar | ![sugar](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Sweetberry | ![crops/sweetberry](../images/pamhc2foodcore_crops/sweetberry.png) |
-| - | Dough | ![dough](../images/pamhc2foodcore_dough.png) |
+| - | Dough | ![dough](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Sweetberrysmoothieitem
@@ -1310,9 +1310,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_tool_mixingbowl.png) |
+| - | Tool Mixingbowl | ![tool_mixingbowl](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Juices/Sweetberryjuice | ![juices/sweetberryjuice](../images/pamhc2foodcore_juices/sweetberryjuice.png) |
-| - | Ices | ![ices](../images/pamhc2foodcore_ices.png) |
+| - | Ices | ![ices](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Sweetberryyogurtitem
@@ -1320,8 +1320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_tool_cuttingboard.png) |
-| - | Yogurt | ![yogurt](../images/pamhc2foodcore_yogurt.png) |
+| - | Tool Cuttingboard | ![tool_cuttingboard](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Yogurt | ![yogurt](../images/pamhc2foodcore_applejellyitem.png) |
 | - | Crops/Sweetberry | ![crops/sweetberry](../images/pamhc2foodcore_crops/sweetberry.png) |
 
 ---
@@ -1330,9 +1330,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_tool_skillet.png) |
-| - | Bread | ![bread](../images/pamhc2foodcore_bread.png) |
-| - | Butter | ![butter](../images/pamhc2foodcore_butter.png) |
+| - | Tool Skillet | ![tool_skillet](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Bread | ![bread](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Butter | ![butter](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Bakewareitem
@@ -1340,7 +1340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/pamhc2foodcore_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Cuttingboarditem
@@ -1350,7 +1350,7 @@
 | :--- | :--- | :--- |
 | a | Ingots/Copper | ![ingots/copper](../images/pamhc2foodcore_ingots/copper.png) |
 | b | Rods/Wooden | ![rods/wooden](../images/pamhc2foodcore_rods/wooden.png) |
-| c | Planks | ![planks](../images/pamhc2foodcore_planks.png) |
+| c | Planks | ![planks](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Grinderitem
@@ -1358,7 +1358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Andesite | ![andesite](../images/pamhc2foodcore_andesite.png) |
+| a | Andesite | ![andesite](../images/pamhc2foodcore_applejellyitem.png) |
 | b | Rods/Wooden | ![rods/wooden](../images/pamhc2foodcore_rods/wooden.png) |
 
 ---
@@ -1367,7 +1367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Terracotta | ![terracotta](../images/pamhc2foodcore_terracotta.png) |
+| a | Terracotta | ![terracotta](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Mixingbowlitem
@@ -1375,7 +1375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Planks | ![planks](../images/pamhc2foodcore_planks.png) |
+| a | Planks | ![planks](../images/pamhc2foodcore_applejellyitem.png) |
 | b | Rods/Wooden | ![rods/wooden](../images/pamhc2foodcore_rods/wooden.png) |
 
 ---
@@ -1394,7 +1394,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Rods/Wooden | ![rods/wooden](../images/pamhc2foodcore_rods/wooden.png) |
-| b | Logs | ![logs](../images/pamhc2foodcore_logs.png) |
+| b | Logs | ![logs](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Saucepanitem
@@ -1420,11 +1420,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_tool_bakeware.png) |
-| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_chocolatebar.png) |
-| - | Salt | ![salt](../images/pamhc2foodcore_salt.png) |
-| - | Seeds | ![seeds](../images/pamhc2foodcore_seeds.png) |
-| - | Fruits | ![fruits](../images/pamhc2foodcore_fruits.png) |
+| - | Tool Bakeware | ![tool_bakeware](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Chocolatebar | ![chocolatebar](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Salt | ![salt](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Seeds | ![seeds](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Fruits | ![fruits](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Vinegaritem
@@ -1432,8 +1432,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_tool_pot.png) |
-| - | Vinegar Ingredients | ![vinegar_ingredients](../images/pamhc2foodcore_vinegar_ingredients.png) |
+| - | Tool Pot | ![tool_pot](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Vinegar Ingredients | ![vinegar_ingredients](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---
 ## Yogurtitem
@@ -1441,7 +1441,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_tool_saucepan.png) |
-| - | Milk | ![milk](../images/pamhc2foodcore_milk.png) |
+| - | Tool Saucepan | ![tool_saucepan](../images/pamhc2foodcore_applejellyitem.png) |
+| - | Milk | ![milk](../images/pamhc2foodcore_applejellyitem.png) |
 
 ---

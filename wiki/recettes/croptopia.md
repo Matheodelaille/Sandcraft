@@ -14,10 +14,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Butters | ![butters](../images/croptopia_butters.png) |
-| - | Almonds | ![almonds](../images/croptopia_almonds.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Butters | ![butters](../images/croptopia_ajvar.png) |
+| - | Almonds | ![almonds](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Almond Sapling
@@ -25,9 +25,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Almonds | ![almonds](../images/croptopia_almonds.png) |
-| - | Almonds | ![almonds](../images/croptopia_almonds.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Almonds | ![almonds](../images/croptopia_ajvar.png) |
+| - | Almonds | ![almonds](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Anchovy Pizza
@@ -35,10 +35,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| 2 | Anchovies | ![anchovies](../images/croptopia_anchovies.png) |
-| 3 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| 4 | Doughs | ![doughs](../images/croptopia_doughs.png) |
+| 1 | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| 2 | Anchovies | ![anchovies](../images/croptopia_ajvar.png) |
+| 3 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| 4 | Doughs | ![doughs](../images/croptopia_ajvar.png) |
 | 7 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -54,9 +54,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apples | ![apples](../images/croptopia_apples.png) |
+| - | Apples | ![apples](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Apple Pie
@@ -64,11 +64,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apples | ![apples](../images/croptopia_apples.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
+| - | Apples | ![apples](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -77,9 +77,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apples | ![apples](../images/croptopia_apples.png) |
-| - | Apples | ![apples](../images/croptopia_apples.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Apples | ![apples](../images/croptopia_ajvar.png) |
+| - | Apples | ![apples](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -94,8 +94,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apricots | ![apricots](../images/croptopia_apricots.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Apricots | ![apricots](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -104,9 +104,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apricots | ![apricots](../images/croptopia_apricots.png) |
-| - | Apricots | ![apricots](../images/croptopia_apricots.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Apricots | ![apricots](../images/croptopia_ajvar.png) |
+| - | Apricots | ![apricots](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Artichoke Dip
@@ -114,8 +114,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Artichokes | ![artichokes](../images/croptopia_artichokes.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Artichokes | ![artichokes](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 
 ---
 ## Artichoke Seed
@@ -123,7 +123,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Artichokes | ![artichokes](../images/croptopia_artichokes.png) |
+| - | Artichokes | ![artichokes](../images/croptopia_ajvar.png) |
 
 ---
 ## Asparagus Seed
@@ -146,9 +146,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Avocados | ![avocados](../images/croptopia_avocados.png) |
-| - | Avocados | ![avocados](../images/croptopia_avocados.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Avocados | ![avocados](../images/croptopia_ajvar.png) |
+| - | Avocados | ![avocados](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Baked Beans
@@ -172,11 +172,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | 2 | Flour | ![flour](../images/croptopia_flour.png) |
-| 3 | Milks | ![milks](../images/croptopia_milks.png) |
+| 3 | Milks | ![milks](../images/croptopia_ajvar.png) |
 | 7 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 6 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| 6 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | 5 | Spinach | ![spinach](../images/croptopia_spinach.png) |
 
 ---
@@ -224,11 +224,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bananas | ![bananas](../images/croptopia_bananas.png) |
+| - | Bananas | ![bananas](../images/croptopia_ajvar.png) |
 | - | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -238,10 +238,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Bananas | ![bananas](../images/croptopia_bananas.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
+| - | Bananas | ![bananas](../images/croptopia_ajvar.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
 
 ---
 ## Banana Sapling
@@ -249,9 +249,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bananas | ![bananas](../images/croptopia_bananas.png) |
-| - | Bananas | ![bananas](../images/croptopia_bananas.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Bananas | ![bananas](../images/croptopia_ajvar.png) |
+| - | Bananas | ![bananas](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Banana Smoothie
@@ -259,10 +259,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bananas | ![bananas](../images/croptopia_bananas.png) |
-| - | Ice | ![ice](../images/croptopia_ice.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Bananas | ![bananas](../images/croptopia_ajvar.png) |
+| - | Ice | ![ice](../images/croptopia_chocolate_ice_cream.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Barley Seed
@@ -286,9 +286,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beef | ![beef](../images/croptopia_beef.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Beef | ![beef](../images/croptopia_beef_jerky.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Beer
@@ -296,7 +296,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 | - | Hops | ![hops](../images/croptopia_hops.png) |
 | - | Barley | ![barley](../images/croptopia_barley.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
@@ -307,9 +307,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Beetroot | ![beetroot](../images/croptopia_beetroot.png) |
-| 4 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| 5 | Lemons | ![lemons](../images/croptopia_lemons.png) |
+| 1 | Beetroot | ![beetroot](../images/croptopia_beetroot_salad.png) |
+| 4 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| 5 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
 | 6 | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 | 7 | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
 
@@ -319,7 +319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bellpeppers | ![bellpeppers](../images/croptopia_bellpeppers.png) |
+| - | Bellpeppers | ![bellpeppers](../images/croptopia_ajvar.png) |
 
 ---
 ## Blackbean Seed
@@ -327,7 +327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
 
 ---
 ## Blackberry Jam
@@ -335,8 +335,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackberries | ![blackberries](../images/croptopia_blackberries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Blackberries | ![blackberries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -345,7 +345,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackberries | ![blackberries](../images/croptopia_blackberries.png) |
+| - | Blackberries | ![blackberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Salt
@@ -361,10 +361,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 | - | Cooked Bacon | ![cooked_bacon](../images/croptopia_cooked_bacon.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 
 ---
 ## Blueberry Jam
@@ -372,8 +372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blueberries | ![blueberries](../images/croptopia_blueberries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Blueberries | ![blueberries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -382,7 +382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blueberries | ![blueberries](../images/croptopia_blueberries.png) |
+| - | Blueberries | ![blueberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Borscht
@@ -390,12 +390,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Carrot | ![carrot](../images/croptopia_carrot.png) |
-| 2 | Potato | ![potato](../images/croptopia_potato.png) |
-| 3 | Beetroot | ![beetroot](../images/croptopia_beetroot.png) |
-| 4 | Onions | ![onions](../images/croptopia_onions.png) |
-| 5 | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| 6 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 1 | Carrot | ![carrot](../images/croptopia_ajvar.png) |
+| 2 | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
+| 3 | Beetroot | ![beetroot](../images/croptopia_beetroot_salad.png) |
+| 4 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 5 | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| 6 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | 7 | Cabbage | ![cabbage](../images/croptopia_cabbage.png) |
 | 8 | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 | 9 | Garlic | ![garlic](../images/croptopia_garlic.png) |
@@ -414,11 +414,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Chocolates | ![chocolates](../images/croptopia_chocolates.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Chocolates | ![chocolates](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -427,10 +427,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
 | - | Rice | ![rice](../images/croptopia_rice.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
 
 ---
 ## Butter
@@ -440,8 +440,8 @@
 | :--- | :--- | :--- |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Buttered Toast
@@ -449,8 +449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Toasts | ![toasts](../images/croptopia_toasts.png) |
-| - | Butters | ![butters](../images/croptopia_butters.png) |
+| - | Toasts | ![toasts](../images/croptopia_ajvar.png) |
+| - | Butters | ![butters](../images/croptopia_ajvar.png) |
 
 ---
 ## Cabbage Roll
@@ -458,9 +458,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Beef Replacements | ![beef_replacements](../images/croptopia_beef_replacements.png) |
-| 2 | Onions | ![onions](../images/croptopia_onions.png) |
-| 4 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Beef Replacements | ![beef_replacements](../images/croptopia_beef_jerky.png) |
+| 2 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 4 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 5 | Cabbage | ![cabbage](../images/croptopia_cabbage.png) |
 | 6 | Rice | ![rice](../images/croptopia_rice.png) |
 | 8 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
@@ -479,11 +479,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
-| - | Olives | ![olives](../images/croptopia_olives.png) |
+| - | Olives | ![olives](../images/croptopia_ajvar.png) |
 | - | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| - | Toasts | ![toasts](../images/croptopia_toasts.png) |
+| - | Toasts | ![toasts](../images/croptopia_ajvar.png) |
 
 ---
 ## Baked Beans
@@ -491,7 +491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
+| tag | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
 
 ---
 ## Baked Sweet Potato
@@ -499,7 +499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Sweetpotatos | ![sweetpotatos](../images/croptopia_sweetpotatos.png) |
+| tag | Sweetpotatos | ![sweetpotatos](../images/croptopia_ajvar.png) |
 
 ---
 ## Baked Yam
@@ -507,7 +507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Yams | ![yams](../images/croptopia_yams.png) |
+| tag | Yams | ![yams](../images/croptopia_ajvar.png) |
 
 ---
 ## Caramel
@@ -515,7 +515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| item | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Molasses
@@ -523,7 +523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar Cane | ![sugar_cane](../images/croptopia_sugar_cane.png) |
+| item | Sugar Cane | ![sugar_cane](../images/croptopia_ajvar.png) |
 
 ---
 ## Popcorn
@@ -539,7 +539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Grapes | ![grapes](../images/croptopia_grapes.png) |
+| tag | Grapes | ![grapes](../images/croptopia_ajvar.png) |
 
 ---
 ## Toast
@@ -547,7 +547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bread | ![bread](../images/croptopia_bread.png) |
+| item | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 
 ---
 ## Candied Kumquats
@@ -555,15 +555,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
 | - | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| - | Honey Bottle | ![honey_bottle](../images/croptopia_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Candied Nuts
@@ -571,10 +571,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Candy Corn
@@ -582,9 +582,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Corn | ![corn](../images/croptopia_corn.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Cantaloupe Seed
@@ -592,7 +592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cantaloupes | ![cantaloupes](../images/croptopia_cantaloupes.png) |
+| - | Cantaloupes | ![cantaloupes](../images/croptopia_ajvar.png) |
 
 ---
 ## Caramel
@@ -600,7 +600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| item | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Caramel
@@ -608,7 +608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| item | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Carnitas
@@ -616,10 +616,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Porkchop | ![porkchop](../images/croptopia_porkchop.png) |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
+| - | Porkchop | ![porkchop](../images/croptopia_ajvar.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
 | - | Cabbage | ![cabbage](../images/croptopia_cabbage.png) |
-| - | Onions | ![onions](../images/croptopia_onions.png) |
+| - | Onions | ![onions](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -635,11 +635,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cashews | ![cashews](../images/croptopia_cashews.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/croptopia_cooked_chicken.png) |
-| - | Soy Sauces | ![soy_sauces](../images/croptopia_soy_sauces.png) |
+| - | Cashews | ![cashews](../images/croptopia_ajvar.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/croptopia_cashew_chicken.png) |
+| - | Soy Sauces | ![soy_sauces](../images/croptopia_soy_milk.png) |
 | - | Cabbage | ![cabbage](../images/croptopia_cabbage.png) |
-| - | Carrot | ![carrot](../images/croptopia_carrot.png) |
+| - | Carrot | ![carrot](../images/croptopia_ajvar.png) |
 
 ---
 ## Cashew Sapling
@@ -647,9 +647,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cashews | ![cashews](../images/croptopia_cashews.png) |
-| - | Cashews | ![cashews](../images/croptopia_cashews.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Cashews | ![cashews](../images/croptopia_ajvar.png) |
+| - | Cashews | ![cashews](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Cauliflower Seed
@@ -674,8 +674,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Cheeseburger
@@ -683,10 +683,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| - | Beef Replacements | ![beef_replacements](../images/croptopia_beef_replacements.png) |
+| - | Beef Replacements | ![beef_replacements](../images/croptopia_beef_jerky.png) |
 
 ---
 ## Cheese Pizza
@@ -694,10 +694,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -713,8 +713,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherries | ![cherries](../images/croptopia_cherries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Cherries | ![cherries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -723,11 +723,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherries | ![cherries](../images/croptopia_cherries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
+| - | Cherries | ![cherries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -736,9 +736,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherries | ![cherries](../images/croptopia_cherries.png) |
-| - | Cherries | ![cherries](../images/croptopia_cherries.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Cherries | ![cherries](../images/croptopia_ajvar.png) |
+| - | Cherries | ![cherries](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Chicken And Dumplings
@@ -746,9 +746,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Chicken | ![chicken](../images/croptopia_chicken.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Chicken | ![chicken](../images/croptopia_cashew_chicken.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -757,10 +757,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Noodles | ![noodles](../images/croptopia_noodles.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_chicken_replacements.png) |
+| - | Noodles | ![noodles](../images/croptopia_chicken_and_noodles.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_cashew_chicken.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -770,9 +770,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rice | ![rice](../images/croptopia_rice.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_chicken_replacements.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_cashew_chicken.png) |
 
 ---
 ## Chile Pepper Seed
@@ -780,7 +780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
 
 ---
 ## Chili Relleno
@@ -788,11 +788,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -818,8 +818,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cocoa Beans | ![cocoa_beans](../images/croptopia_cocoa_beans.png) |
-| - | Butters | ![butters](../images/croptopia_butters.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/croptopia_baked_beans.png) |
+| - | Butters | ![butters](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -828,9 +828,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
-| - | Chocolates | ![chocolates](../images/croptopia_chocolates.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
+| - | Chocolates | ![chocolates](../images/croptopia_ajvar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Vanilla Ice Cream | ![vanilla_ice_cream](../images/croptopia_vanilla_ice_cream.png) |
 
 ---
@@ -839,8 +839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 | - | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
 
@@ -850,12 +850,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Milks | ![milks](../images/croptopia_milks.png) |
-| 2 | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| 3 | Egg | ![egg](../images/croptopia_egg.png) |
-| 4 | Butters | ![butters](../images/croptopia_butters.png) |
-| 5 | Salts | ![salts](../images/croptopia_salts.png) |
-| 6 | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| 1 | Milks | ![milks](../images/croptopia_ajvar.png) |
+| 2 | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| 3 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 4 | Butters | ![butters](../images/croptopia_ajvar.png) |
+| 5 | Salts | ![salts](../images/croptopia_ajvar.png) |
+| 6 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | 7 | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
 | 8 | Whipping Cream | ![whipping_cream](../images/croptopia_whipping_cream.png) |
 | 9 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
@@ -1287,9 +1287,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coconuts | ![coconuts](../images/croptopia_coconuts.png) |
-| - | Coconuts | ![coconuts](../images/croptopia_coconuts.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Coconuts | ![coconuts](../images/croptopia_ajvar.png) |
+| - | Coconuts | ![coconuts](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Coffee
@@ -1297,7 +1297,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 | - | Coffee Beans | ![coffee_beans](../images/croptopia_coffee_beans.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
@@ -1411,7 +1411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/croptopia_iron_ingot.png) |
+| # | Iron Ingot | ![iron_ingot](../images/croptopia_ajvar.png) |
 
 ---
 ## Corn Bread
@@ -1446,11 +1446,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Butters | ![butters](../images/croptopia_butters.png) |
+| 1 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 2 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 3 | Salts | ![salts](../images/croptopia_salts.png) |
+| 3 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 4 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 5 | Crabs | ![crabs](../images/croptopia_crabs.png) |
+| 5 | Crabs | ![crabs](../images/croptopia_ajvar.png) |
 | 7 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -1459,9 +1459,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cranberries | ![cranberries](../images/croptopia_cranberries.png) |
+| - | Cranberries | ![cranberries](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Cranberry Seed
@@ -1469,7 +1469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cranberries | ![cranberries](../images/croptopia_cranberries.png) |
+| - | Cranberries | ![cranberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Crema
@@ -1477,9 +1477,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Limes | ![limes](../images/croptopia_limes.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Limes | ![limes](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Croque Madame
@@ -1488,12 +1488,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 2 | Bread | ![bread](../images/croptopia_bread.png) |
-| 3 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| 4 | Pork Replacements | ![pork_replacements](../images/croptopia_pork_replacements.png) |
-| 5 | Butters | ![butters](../images/croptopia_butters.png) |
+| 2 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| 3 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| 4 | Pork Replacements | ![pork_replacements](../images/croptopia_ground_pork.png) |
+| 5 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 6 | Flour | ![flour](../images/croptopia_flour.png) |
-| 7 | Egg | ![egg](../images/croptopia_egg.png) |
+| 7 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 
 ---
 ## Croque Monsieur
@@ -1502,10 +1502,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 2 | Bread | ![bread](../images/croptopia_bread.png) |
-| 3 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| 4 | Pork Replacements | ![pork_replacements](../images/croptopia_pork_replacements.png) |
-| 5 | Butters | ![butters](../images/croptopia_butters.png) |
+| 2 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| 3 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| 4 | Pork Replacements | ![pork_replacements](../images/croptopia_ground_pork.png) |
+| 5 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 6 | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -1514,8 +1514,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Cucumbers | ![cucumbers](../images/croptopia_cucumbers.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Cucumbers | ![cucumbers](../images/croptopia_ajvar.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
 | - | Spinach | ![spinach](../images/croptopia_spinach.png) |
 
@@ -1525,7 +1525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cucumbers | ![cucumbers](../images/croptopia_cucumbers.png) |
+| - | Cucumbers | ![cucumbers](../images/croptopia_ajvar.png) |
 
 ---
 ## Currant Seed
@@ -1533,7 +1533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Currants | ![currants](../images/croptopia_currants.png) |
+| - | Currants | ![currants](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -1548,9 +1548,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dates | ![dates](../images/croptopia_dates.png) |
-| - | Dates | ![dates](../images/croptopia_dates.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Dates | ![dates](../images/croptopia_ajvar.png) |
+| - | Dates | ![dates](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Dauphine Potatoes
@@ -1559,11 +1559,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
-| 3 | Milks | ![milks](../images/croptopia_milks.png) |
-| 4 | Butters | ![butters](../images/croptopia_butters.png) |
+| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
+| 3 | Milks | ![milks](../images/croptopia_ajvar.png) |
+| 4 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 5 | Flour | ![flour](../images/croptopia_flour.png) |
-| 6 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 6 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 
 ---
 ## Dead Bush
@@ -1571,8 +1571,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Deep Fried Shrimp
@@ -1581,9 +1581,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Shrimp | ![shrimp](../images/croptopia_shrimp.png) |
-| 4 | Egg | ![egg](../images/croptopia_egg.png) |
+| 4 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | 5 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 6 | Bread | ![bread](../images/croptopia_bread.png) |
+| 6 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 
 ---
 ## Guide
@@ -1591,10 +1591,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crops | ![crops](../images/croptopia_crops.png) |
-| - | Crops | ![crops](../images/croptopia_crops.png) |
-| - | Crops | ![crops](../images/croptopia_crops.png) |
-| - | Book | ![book](../images/croptopia_book.png) |
+| - | Crops | ![crops](../images/croptopia_ajvar.png) |
+| - | Crops | ![crops](../images/croptopia_ajvar.png) |
+| - | Crops | ![crops](../images/croptopia_ajvar.png) |
+| - | Book | ![book](../images/croptopia_ajvar.png) |
 
 ---
 ## Dough
@@ -1603,7 +1603,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -1613,8 +1613,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -1630,9 +1630,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dragonfruits | ![dragonfruits](../images/croptopia_dragonfruits.png) |
-| - | Dragonfruits | ![dragonfruits](../images/croptopia_dragonfruits.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Dragonfruits | ![dragonfruits](../images/croptopia_ajvar.png) |
+| - | Dragonfruits | ![dragonfruits](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Eggplant Seed
@@ -1640,7 +1640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggplants | ![eggplants](../images/croptopia_eggplants.png) |
+| - | Eggplants | ![eggplants](../images/croptopia_ajvar.png) |
 
 ---
 ## Egg Roll
@@ -1648,10 +1648,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Meat Replacements | ![meat_replacements](../images/croptopia_meat_replacements.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Meat Replacements | ![meat_replacements](../images/croptopia_ajvar.png) |
 
 ---
 ## Elderberry Jam
@@ -1659,8 +1659,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Elderberries | ![elderberries](../images/croptopia_elderberries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Elderberries | ![elderberries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -1669,7 +1669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Elderberries | ![elderberries](../images/croptopia_elderberries.png) |
+| - | Elderberries | ![elderberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Enchilada
@@ -1677,10 +1677,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Meat Replacements | ![meat_replacements](../images/croptopia_meat_replacements.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
+| - | Meat Replacements | ![meat_replacements](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
 
 ---
 ## Fajitas
@@ -1688,11 +1688,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Meat Replacements | ![meat_replacements](../images/croptopia_meat_replacements.png) |
-| - | Bellpeppers | ![bellpeppers](../images/croptopia_bellpeppers.png) |
-| - | Onions | ![onions](../images/croptopia_onions.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Meat Replacements | ![meat_replacements](../images/croptopia_ajvar.png) |
+| - | Bellpeppers | ![bellpeppers](../images/croptopia_ajvar.png) |
+| - | Onions | ![onions](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -1708,9 +1708,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Figs | ![figs](../images/croptopia_figs.png) |
-| - | Figs | ![figs](../images/croptopia_figs.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Figs | ![figs](../images/croptopia_ajvar.png) |
+| - | Figs | ![figs](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Flour
@@ -1718,8 +1718,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flourable | ![flourable](../images/croptopia_flourable.png) |
-| - | Flourable | ![flourable](../images/croptopia_flourable.png) |
+| - | Flourable | ![flourable](../images/croptopia_ajvar.png) |
+| - | Flourable | ![flourable](../images/croptopia_ajvar.png) |
 
 ---
 ## Food Press
@@ -1727,8 +1727,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| H | Hopper | ![hopper](../images/croptopia_hopper.png) |
-| I | Piston | ![piston](../images/croptopia_piston.png) |
+| H | Hopper | ![hopper](../images/croptopia_ajvar.png) |
+| I | Piston | ![piston](../images/croptopia_ajvar.png) |
 
 ---
 ## French Fries
@@ -1736,10 +1736,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potato | ![potato](../images/croptopia_potato.png) |
+| - | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 
 ---
 ## Fried Calamari
@@ -1748,8 +1748,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Calamari | ![calamari](../images/croptopia_calamari.png) |
-| 2 | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 2 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 4 | Flour | ![flour](../images/croptopia_flour.png) |
 | 5 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 | 6 | Sea Lettuce | ![sea_lettuce](../images/croptopia_sea_lettuce.png) |
@@ -1761,9 +1761,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_chicken_replacements.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_cashew_chicken.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -1772,11 +1772,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
-| - | Bananas | ![bananas](../images/croptopia_bananas.png) |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
-| - | Apple | ![apple](../images/croptopia_apple.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
+| - | Bananas | ![bananas](../images/croptopia_ajvar.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
+| - | Apple | ![apple](../images/croptopia_apple_juice.png) |
 
 ---
 ## Fruit Smoothie
@@ -1784,12 +1784,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
-| - | Fruits | ![fruits](../images/croptopia_fruits.png) |
-| - | Fruits | ![fruits](../images/croptopia_fruits.png) |
-| - | Fruits | ![fruits](../images/croptopia_fruits.png) |
-| - | Ice | ![ice](../images/croptopia_ice.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
+| - | Fruits | ![fruits](../images/croptopia_ajvar.png) |
+| - | Fruits | ![fruits](../images/croptopia_ajvar.png) |
+| - | Fruits | ![fruits](../images/croptopia_ajvar.png) |
+| - | Ice | ![ice](../images/croptopia_chocolate_ice_cream.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 
 ---
 ## Frying Pan
@@ -1797,7 +1797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/croptopia_iron_ingot.png) |
+| # | Iron Ingot | ![iron_ingot](../images/croptopia_ajvar.png) |
 
 ---
 ## Garlic Seed
@@ -1813,7 +1813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gingers | ![gingers](../images/croptopia_gingers.png) |
+| - | Gingers | ![gingers](../images/croptopia_ajvar.png) |
 
 ---
 ## Goulash
@@ -1821,11 +1821,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Pork Replacements | ![pork_replacements](../images/croptopia_pork_replacements.png) |
-| 2 | Onions | ![onions](../images/croptopia_onions.png) |
-| 3 | Beef Replacements | ![beef_replacements](../images/croptopia_beef_replacements.png) |
+| 1 | Pork Replacements | ![pork_replacements](../images/croptopia_ground_pork.png) |
+| 2 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 3 | Beef Replacements | ![beef_replacements](../images/croptopia_beef_jerky.png) |
 | 4 | Cabbage | ![cabbage](../images/croptopia_cabbage.png) |
-| 5 | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| 5 | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 | 8 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -1841,9 +1841,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grapefruits | ![grapefruits](../images/croptopia_grapefruits.png) |
-| - | Grapefruits | ![grapefruits](../images/croptopia_grapefruits.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Grapefruits | ![grapefruits](../images/croptopia_ajvar.png) |
+| - | Grapefruits | ![grapefruits](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Grape Jam
@@ -1851,8 +1851,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -1861,9 +1861,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Grape Seed
@@ -1871,7 +1871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
 
 ---
 ## Greenbean Seed
@@ -1879,7 +1879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Greenbeans | ![greenbeans](../images/croptopia_greenbeans.png) |
+| - | Greenbeans | ![greenbeans](../images/croptopia_ajvar.png) |
 
 ---
 ## Greenonion Seed
@@ -1887,7 +1887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Greenonions | ![greenonions](../images/croptopia_greenonions.png) |
+| - | Greenonions | ![greenonions](../images/croptopia_ajvar.png) |
 
 ---
 ## Grilled Cheese
@@ -1895,8 +1895,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -1905,11 +1905,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Oysters | ![oysters](../images/croptopia_oysters.png) |
-| 2 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| 4 | Lemons | ![lemons](../images/croptopia_lemons.png) |
+| 1 | Oysters | ![oysters](../images/croptopia_grilled_oysters.png) |
+| 2 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| 4 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
 | 5 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 6 | Salts | ![salts](../images/croptopia_salts.png) |
+| 6 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 7 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -1918,7 +1918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Pork Replacements | ![pork_replacements](../images/croptopia_pork_replacements.png) |
+| 1 | Pork Replacements | ![pork_replacements](../images/croptopia_ground_pork.png) |
 | 2 | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -1927,9 +1927,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| - | Beef | ![beef](../images/croptopia_beef.png) |
+| - | Beef | ![beef](../images/croptopia_beef_jerky.png) |
 
 ---
 ## Ham Sandwich
@@ -1937,9 +1937,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
-| - | Cooked Porkchop | ![cooked_porkchop](../images/croptopia_cooked_porkchop.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| - | Cooked Porkchop | ![cooked_porkchop](../images/croptopia_cooked_anchovy.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 
 ---
 ## Hashed Brown
@@ -1948,9 +1948,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 4 | Knife | ![knife](../images/croptopia_knife.png) |
-| 1 | Potatoes | ![potatoes](../images/croptopia_potatoes.png) |
+| 1 | Potatoes | ![potatoes](../images/croptopia_dauphine_potatoes.png) |
 | 2 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 
 ---
 ## Honeydew Seed
@@ -1975,10 +1975,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rice | ![rice](../images/croptopia_rice.png) |
-| - | Almonds | ![almonds](../images/croptopia_almonds.png) |
-| - | Limes | ![limes](../images/croptopia_limes.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Almonds | ![almonds](../images/croptopia_ajvar.png) |
+| - | Limes | ![limes](../images/croptopia_ajvar.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
 
 ---
@@ -2453,8 +2453,8 @@
 | :--- | :--- | :--- |
 | - | Kale | ![kale](../images/croptopia_kale.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 
 ---
 ## Kale Seed
@@ -2470,13 +2470,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 | - | Kale | ![kale](../images/croptopia_kale.png) |
-| - | Ice | ![ice](../images/croptopia_ice.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Mangos | ![mangos](../images/croptopia_mangos.png) |
-| - | Yoghurts | ![yoghurts](../images/croptopia_yoghurts.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| - | Ice | ![ice](../images/croptopia_chocolate_ice_cream.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Mangos | ![mangos](../images/croptopia_ajvar.png) |
+| - | Yoghurts | ![yoghurts](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 
 ---
 ## Kiwi Seed
@@ -2484,7 +2484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kiwis | ![kiwis](../images/croptopia_kiwis.png) |
+| - | Kiwis | ![kiwis](../images/croptopia_ajvar.png) |
 
 ---
 ## Knife
@@ -2492,8 +2492,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/croptopia_iron_ingot.png) |
-| i | Stick | ![stick](../images/croptopia_stick.png) |
+| # | Iron Ingot | ![iron_ingot](../images/croptopia_ajvar.png) |
+| i | Stick | ![stick](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -2508,9 +2508,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Kumquats | ![kumquats](../images/croptopia_kumquats.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Kumquats | ![kumquats](../images/croptopia_candied_kumquats.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Leafy Salad
@@ -2518,7 +2518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
 | - | Spinach | ![spinach](../images/croptopia_spinach.png) |
 | - | Kale | ![kale](../images/croptopia_kale.png) |
@@ -2537,10 +2537,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
 | - | Leek | ![leek](../images/croptopia_leek.png) |
-| - | Potato | ![potato](../images/croptopia_potato.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -2555,8 +2555,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
-| - | Lemons | ![lemons](../images/croptopia_lemons.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
+| - | Lemons | ![lemons](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -2565,10 +2565,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_chicken_replacements.png) |
+| - | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_cashew_chicken.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -2577,9 +2577,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| - | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| - | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Lettuce Seed
@@ -2602,9 +2602,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
-| - | Limes | ![limes](../images/croptopia_limes.png) |
-| - | Lemons | ![lemons](../images/croptopia_lemons.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
+| - | Limes | ![limes](../images/croptopia_ajvar.png) |
+| - | Lemons | ![lemons](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -2613,9 +2613,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Limes | ![limes](../images/croptopia_limes.png) |
-| - | Limes | ![limes](../images/croptopia_limes.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Limes | ![limes](../images/croptopia_ajvar.png) |
+| - | Limes | ![limes](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Macaron
@@ -2623,9 +2623,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 5 | Almonds | ![almonds](../images/croptopia_almonds.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 5 | Almonds | ![almonds](../images/croptopia_ajvar.png) |
 | 6 | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -2641,10 +2641,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangos | ![mangos](../images/croptopia_mangos.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Mangos | ![mangos](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -2653,9 +2653,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangos | ![mangos](../images/croptopia_mangos.png) |
-| - | Mangos | ![mangos](../images/croptopia_mangos.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Mangos | ![mangos](../images/croptopia_ajvar.png) |
+| - | Mangos | ![mangos](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Mashed Potatoes
@@ -2663,10 +2663,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Potatoes | ![potatoes](../images/croptopia_potatoes.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Potatoes | ![potatoes](../images/croptopia_dauphine_potatoes.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 3 | Mortar And Pestle | ![mortar_and_pestle](../images/croptopia_mortar_and_pestle.png) |
-| 4 | Milks | ![milks](../images/croptopia_milks.png) |
+| 4 | Milks | ![milks](../images/croptopia_ajvar.png) |
 
 ---
 ## Mead
@@ -2674,10 +2674,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Bottle | ![honey_bottle](../images/croptopia_honey_bottle.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| - | Honey Bottle | ![honey_bottle](../images/croptopia_milk_bottle.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Melon Juice
@@ -2685,9 +2685,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melons | ![melons](../images/croptopia_melons.png) |
+| - | Melons | ![melons](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Meringue
@@ -2695,9 +2695,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
-| 3 | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
+| 3 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | 4 | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
 
 ---
@@ -2706,7 +2706,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar Cane | ![sugar_cane](../images/croptopia_sugar_cane.png) |
+| item | Sugar Cane | ![sugar_cane](../images/croptopia_ajvar.png) |
 
 ---
 ## Molasses
@@ -2714,7 +2714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar Cane | ![sugar_cane](../images/croptopia_sugar_cane.png) |
+| item | Sugar Cane | ![sugar_cane](../images/croptopia_ajvar.png) |
 
 ---
 ## Mortar And Pestle
@@ -2722,8 +2722,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| i | Stick | ![stick](../images/croptopia_stick.png) |
+| # | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| i | Stick | ![stick](../images/croptopia_ajvar.png) |
 
 ---
 ## Mustard Seed
@@ -2746,9 +2746,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nectarines | ![nectarines](../images/croptopia_nectarines.png) |
-| - | Nectarines | ![nectarines](../images/croptopia_nectarines.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Nectarines | ![nectarines](../images/croptopia_ajvar.png) |
+| - | Nectarines | ![nectarines](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Noodle
@@ -2757,8 +2757,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -2774,12 +2774,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
 
 ---
 ## {}
@@ -2794,9 +2794,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nutmegs | ![nutmegs](../images/croptopia_nutmegs.png) |
-| - | Nutmegs | ![nutmegs](../images/croptopia_nutmegs.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Nutmegs | ![nutmegs](../images/croptopia_ajvar.png) |
+| - | Nutmegs | ![nutmegs](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Nutty Cookie
@@ -2804,9 +2804,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -2815,9 +2815,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Oats | ![oats](../images/croptopia_oats.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Oats | ![oats](../images/croptopia_ajvar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 
 ---
 ## Oat Seed
@@ -2833,8 +2833,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Olives | ![olives](../images/croptopia_olives.png) |
-| - | Olives | ![olives](../images/croptopia_olives.png) |
+| - | Olives | ![olives](../images/croptopia_ajvar.png) |
+| - | Olives | ![olives](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -2843,7 +2843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Olives | ![olives](../images/croptopia_olives.png) |
+| - | Olives | ![olives](../images/croptopia_ajvar.png) |
 
 ---
 ## Onion Rings
@@ -2851,10 +2851,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Onions | ![onions](../images/croptopia_onions.png) |
+| - | Onions | ![onions](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -2863,7 +2863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Onions | ![onions](../images/croptopia_onions.png) |
+| - | Onions | ![onions](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -2886,9 +2886,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oranges | ![oranges](../images/croptopia_oranges.png) |
+| - | Oranges | ![oranges](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Orange Sapling
@@ -2896,9 +2896,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oranges | ![oranges](../images/croptopia_oranges.png) |
-| - | Oranges | ![oranges](../images/croptopia_oranges.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Oranges | ![oranges](../images/croptopia_ajvar.png) |
+| - | Oranges | ![oranges](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Paprika
@@ -2906,7 +2906,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/croptopia_mortar_and_pestle.png) |
 
 ---
@@ -2922,8 +2922,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peaches | ![peaches](../images/croptopia_peaches.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Peaches | ![peaches](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -2932,9 +2932,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peaches | ![peaches](../images/croptopia_peaches.png) |
-| - | Peaches | ![peaches](../images/croptopia_peaches.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Peaches | ![peaches](../images/croptopia_ajvar.png) |
+| - | Peaches | ![peaches](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Peanut Butter And Jam
@@ -2942,9 +2942,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 | - | Peanut Butter | ![peanut_butter](../images/croptopia_peanut_butter.png) |
-| - | Jams | ![jams](../images/croptopia_jams.png) |
+| - | Jams | ![jams](../images/croptopia_ajvar.png) |
 
 ---
 ## Peanut Seed
@@ -2952,7 +2952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peanuts | ![peanuts](../images/croptopia_peanuts.png) |
+| - | Peanuts | ![peanuts](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -2967,9 +2967,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pears | ![pears](../images/croptopia_pears.png) |
-| - | Pears | ![pears](../images/croptopia_pears.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Pears | ![pears](../images/croptopia_ajvar.png) |
+| - | Pears | ![pears](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -2984,10 +2984,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pecans | ![pecans](../images/croptopia_pecans.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Pecans | ![pecans](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -2996,11 +2996,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pecans | ![pecans](../images/croptopia_pecans.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
+| - | Pecans | ![pecans](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3009,9 +3009,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pecans | ![pecans](../images/croptopia_pecans.png) |
-| - | Pecans | ![pecans](../images/croptopia_pecans.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Pecans | ![pecans](../images/croptopia_ajvar.png) |
+| - | Pecans | ![pecans](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Pepperoni
@@ -3019,10 +3019,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beef | ![beef](../images/croptopia_beef.png) |
-| - | Porkchop | ![porkchop](../images/croptopia_porkchop.png) |
+| - | Beef | ![beef](../images/croptopia_beef_jerky.png) |
+| - | Porkchop | ![porkchop](../images/croptopia_ajvar.png) |
 | - | Paprika | ![paprika](../images/croptopia_paprika.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
 
 ---
 ## Pepper Seed
@@ -3045,9 +3045,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Persimmons | ![persimmons](../images/croptopia_persimmons.png) |
-| - | Persimmons | ![persimmons](../images/croptopia_persimmons.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Persimmons | ![persimmons](../images/croptopia_ajvar.png) |
+| - | Persimmons | ![persimmons](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Pineapple Juice
@@ -3055,9 +3055,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pineapples | ![pineapples](../images/croptopia_pineapples.png) |
+| - | Pineapples | ![pineapples](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Pineapple Pepperoni Pizza
@@ -3065,12 +3065,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Pineapples | ![pineapples](../images/croptopia_pineapples.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Pineapples | ![pineapples](../images/croptopia_ajvar.png) |
 | - | Pepperoni | ![pepperoni](../images/croptopia_pepperoni.png) |
-| - | Pineapples | ![pineapples](../images/croptopia_pineapples.png) |
+| - | Pineapples | ![pineapples](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3079,7 +3079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pineapples | ![pineapples](../images/croptopia_pineapples.png) |
+| - | Pineapples | ![pineapples](../images/croptopia_ajvar.png) |
 
 ---
 ## Pizza
@@ -3087,9 +3087,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3105,9 +3105,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plums | ![plums](../images/croptopia_plums.png) |
-| - | Plums | ![plums](../images/croptopia_plums.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Plums | ![plums](../images/croptopia_ajvar.png) |
+| - | Plums | ![plums](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Popcorn
@@ -3131,9 +3131,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
-| - | Porkchop | ![porkchop](../images/croptopia_porkchop.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
+| - | Porkchop | ![porkchop](../images/croptopia_ajvar.png) |
 
 ---
 ## Pork Jerky
@@ -3141,9 +3141,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Porkchop | ![porkchop](../images/croptopia_porkchop.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Porkchop | ![porkchop](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Potato Chips
@@ -3151,10 +3151,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potato | ![potato](../images/croptopia_potato.png) |
+| - | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 
 ---
 ## Protein Bar
@@ -3162,12 +3162,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Caramel | ![caramel](../images/croptopia_caramel.png) |
-| - | Chocolates | ![chocolates](../images/croptopia_chocolates.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
+| - | Chocolates | ![chocolates](../images/croptopia_ajvar.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Pumpkin Bars
@@ -3175,13 +3175,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 3 | Pumpkin | ![pumpkin](../images/croptopia_pumpkin.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 3 | Pumpkin | ![pumpkin](../images/croptopia_pumpkin_bars.png) |
 | 4 | Flour | ![flour](../images/croptopia_flour.png) |
 | 5 | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
-| 6 | Salts | ![salts](../images/croptopia_salts.png) |
-| 7 | Butters | ![butters](../images/croptopia_butters.png) |
+| 6 | Salts | ![salts](../images/croptopia_ajvar.png) |
+| 7 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 8 | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
 
 ---
@@ -3190,11 +3190,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Onions | ![onions](../images/croptopia_onions.png) |
+| 1 | Onions | ![onions](../images/croptopia_ajvar.png) |
 | 2 | Garlic | ![garlic](../images/croptopia_garlic.png) |
 | 3 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 4 | Pumpkin | ![pumpkin](../images/croptopia_pumpkin.png) |
-| 5 | Salts | ![salts](../images/croptopia_salts.png) |
+| 4 | Pumpkin | ![pumpkin](../images/croptopia_pumpkin_bars.png) |
+| 5 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 6 | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -3203,10 +3203,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Paprika | ![paprika](../images/croptopia_paprika.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Pumpkin | ![pumpkin](../images/croptopia_pumpkin.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Pumpkin | ![pumpkin](../images/croptopia_pumpkin_bars.png) |
 | - | Coffee | ![coffee](../images/croptopia_coffee.png) |
 
 ---
@@ -3215,7 +3215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
 
 ---
 ## Quesadilla
@@ -3223,11 +3223,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| - | Avocados | ![avocados](../images/croptopia_avocados.png) |
-| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_chicken_replacements.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| - | Avocados | ![avocados](../images/croptopia_ajvar.png) |
+| - | Chicken Replacements | ![chicken_replacements](../images/croptopia_cashew_chicken.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3238,9 +3238,9 @@
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 | 5 | Flour | ![flour](../images/croptopia_flour.png) |
-| 6 | Onions | ![onions](../images/croptopia_onions.png) |
-| 2 | Milks | ![milks](../images/croptopia_milks.png) |
-| 3 | Egg | ![egg](../images/croptopia_egg.png) |
+| 6 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 2 | Milks | ![milks](../images/croptopia_ajvar.png) |
+| 3 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | 4 | Spinach | ![spinach](../images/croptopia_spinach.png) |
 
 ---
@@ -3249,7 +3249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Radishes | ![radishes](../images/croptopia_radishes.png) |
+| - | Radishes | ![radishes](../images/croptopia_roasted_radishes.png) |
 
 ---
 ## Raisins
@@ -3275,7 +3275,7 @@
 | :--- | :--- | :--- |
 | - | Raisins | ![raisins](../images/croptopia_raisins.png) |
 | - | Oatmeal | ![oatmeal](../images/croptopia_oatmeal.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -3284,8 +3284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raspberries | ![raspberries](../images/croptopia_raspberries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Raspberries | ![raspberries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -3294,7 +3294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raspberries | ![raspberries](../images/croptopia_raspberries.png) |
+| - | Raspberries | ![raspberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Ravioli
@@ -3302,8 +3302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Noodles | ![noodles](../images/croptopia_noodles.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Noodles | ![noodles](../images/croptopia_chicken_and_noodles.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 
 ---
 ## Refried Beans
@@ -3311,10 +3311,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3324,10 +3324,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rhubarb | ![rhubarb](../images/croptopia_rhubarb.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3352,7 +3352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Nuts | ![nuts](../images/croptopia_nuts.png) |
+| tag | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
 
 ---
 ## Roasted Nuts
@@ -3360,7 +3360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Nuts | ![nuts](../images/croptopia_nuts.png) |
+| tag | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
 
 ---
 ## Roasted Pumpkin Seeds
@@ -3368,8 +3368,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Pumpkin Seeds | ![pumpkin_seeds](../images/croptopia_pumpkin_seeds.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Pumpkin Seeds | ![pumpkin_seeds](../images/croptopia_roasted_pumpkin_seeds.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 3 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 4 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
@@ -3379,7 +3379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Nuts | ![nuts](../images/croptopia_nuts.png) |
+| tag | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
 
 ---
 ## Roasted Sunflower Seeds
@@ -3387,8 +3387,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Sunflower | ![sunflower](../images/croptopia_sunflower.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Sunflower | ![sunflower](../images/croptopia_roasted_sunflower_seeds.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 3 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 4 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
@@ -3398,9 +3398,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 | - | Molasses | ![molasses](../images/croptopia_molasses.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Rum Raisin Ice Cream
@@ -3408,11 +3408,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Raisins | ![raisins](../images/croptopia_raisins.png) |
-| - | Rums | ![rums](../images/croptopia_rums.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
+| - | Rums | ![rums](../images/croptopia_ajvar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -3421,7 +3421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rutabagas | ![rutabagas](../images/croptopia_rutabagas.png) |
+| - | Rutabagas | ![rutabagas](../images/croptopia_ajvar.png) |
 
 ---
 ## Saguaro Juice
@@ -3429,9 +3429,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saguaros | ![saguaros](../images/croptopia_saguaros.png) |
+| - | Saguaros | ![saguaros](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Saguaro Seed
@@ -3439,7 +3439,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saguaros | ![saguaros](../images/croptopia_saguaros.png) |
+| - | Saguaros | ![saguaros](../images/croptopia_ajvar.png) |
 
 ---
 ## Salsa
@@ -3447,11 +3447,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Limes | ![limes](../images/croptopia_limes.png) |
-| - | Tomatillos | ![tomatillos](../images/croptopia_tomatillos.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Limes | ![limes](../images/croptopia_ajvar.png) |
+| - | Tomatillos | ![tomatillos](../images/croptopia_ajvar.png) |
 
 ---
 ## Salt
@@ -3475,8 +3475,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Sauces | ![sauces](../images/croptopia_sauces.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Sauces | ![sauces](../images/croptopia_ajvar.png) |
 | - | Potato Chips | ![potato_chips](../images/croptopia_potato_chips.png) |
 
 ---
@@ -3486,7 +3486,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Ground Pork | ![ground_pork](../images/croptopia_ground_pork.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 3 | Paprika | ![paprika](../images/croptopia_paprika.png) |
 
 ---
@@ -3496,8 +3496,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 
 ---
 ## Ajvar
@@ -3505,12 +3505,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Bellpeppers | ![bellpeppers](../images/croptopia_bellpeppers.png) |
-| 2 | Eggplants | ![eggplants](../images/croptopia_eggplants.png) |
+| 1 | Bellpeppers | ![bellpeppers](../images/croptopia_ajvar.png) |
+| 2 | Eggplants | ![eggplants](../images/croptopia_ajvar.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| 5 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| 6 | Salts | ![salts](../images/croptopia_salts.png) |
+| 4 | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| 5 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| 6 | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Ajvar Toast
@@ -3527,7 +3527,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Avocados | ![avocados](../images/croptopia_avocados.png) |
+| 1 | Avocados | ![avocados](../images/croptopia_ajvar.png) |
 | 2 | Toast | ![toast](../images/croptopia_toast.png) |
 
 ---
@@ -3537,7 +3537,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Knife | ![knife](../images/croptopia_knife.png) |
-| 2 | Porkchop | ![porkchop](../images/croptopia_porkchop.png) |
+| 2 | Porkchop | ![porkchop](../images/croptopia_ajvar.png) |
 
 ---
 ## Beef Stew
@@ -3545,10 +3545,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Carrot | ![carrot](../images/croptopia_carrot.png) |
-| 2 | Beef | ![beef](../images/croptopia_beef.png) |
-| 3 | Potato | ![potato](../images/croptopia_potato.png) |
-| 4 | Carrot | ![carrot](../images/croptopia_carrot.png) |
+| 1 | Carrot | ![carrot](../images/croptopia_ajvar.png) |
+| 2 | Beef | ![beef](../images/croptopia_beef_jerky.png) |
+| 3 | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
+| 4 | Carrot | ![carrot](../images/croptopia_ajvar.png) |
 | 5 | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -3558,11 +3558,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Broccoli | ![broccoli](../images/croptopia_broccoli.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Beef | ![beef](../images/croptopia_beef.png) |
-| 5 | Soy Sauces | ![soy_sauces](../images/croptopia_soy_sauces.png) |
-| 6 | Carrot | ![carrot](../images/croptopia_carrot.png) |
+| 4 | Beef | ![beef](../images/croptopia_beef_jerky.png) |
+| 5 | Soy Sauces | ![soy_sauces](../images/croptopia_soy_milk.png) |
+| 6 | Carrot | ![carrot](../images/croptopia_ajvar.png) |
 
 ---
 ## Beef Wellington
@@ -3571,12 +3571,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 1 | Beef | ![beef](../images/croptopia_beef.png) |
+| 1 | Beef | ![beef](../images/croptopia_beef_jerky.png) |
 | 2 | Mustard | ![mustard](../images/croptopia_mustard.png) |
 | 3 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 4 | Onions | ![onions](../images/croptopia_onions.png) |
-| 5 | Egg | ![egg](../images/croptopia_egg.png) |
-| 6 | Brown Mushroom | ![brown_mushroom](../images/croptopia_brown_mushroom.png) |
+| 4 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 5 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 6 | Brown Mushroom | ![brown_mushroom](../images/croptopia_hashed_brown.png) |
 | 9 | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -3585,10 +3585,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Butters | ![butters](../images/croptopia_butters.png) |
-| 2 | Greenbeans | ![greenbeans](../images/croptopia_greenbeans.png) |
-| 3 | Gingers | ![gingers](../images/croptopia_gingers.png) |
-| 4 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Butters | ![butters](../images/croptopia_ajvar.png) |
+| 2 | Greenbeans | ![greenbeans](../images/croptopia_ajvar.png) |
+| 3 | Gingers | ![gingers](../images/croptopia_ajvar.png) |
+| 4 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 5 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 
 ---
@@ -3598,8 +3598,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Asparagus | ![asparagus](../images/croptopia_asparagus.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| 3 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| 3 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | 4 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 
 ---
@@ -3608,10 +3608,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Chocolates | ![chocolates](../images/croptopia_chocolates.png) |
-| 3 | Milk Bottles | ![milk_bottles](../images/croptopia_milk_bottles.png) |
-| 4 | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Chocolates | ![chocolates](../images/croptopia_ajvar.png) |
+| 3 | Milk Bottles | ![milk_bottles](../images/croptopia_milk_bottle.png) |
+| 4 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | 5 | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -3622,10 +3622,10 @@
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 | 2 | Flour | ![flour](../images/croptopia_flour.png) |
-| 3 | Beef | ![beef](../images/croptopia_beef.png) |
-| 4 | Potato | ![potato](../images/croptopia_potato.png) |
-| 5 | Onions | ![onions](../images/croptopia_onions.png) |
-| 6 | Rutabagas | ![rutabagas](../images/croptopia_rutabagas.png) |
+| 3 | Beef | ![beef](../images/croptopia_beef_jerky.png) |
+| 4 | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
+| 5 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 6 | Rutabagas | ![rutabagas](../images/croptopia_ajvar.png) |
 | 7 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 
 ---
@@ -3634,13 +3634,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Eggplants | ![eggplants](../images/croptopia_eggplants.png) |
-| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Eggplants | ![eggplants](../images/croptopia_ajvar.png) |
+| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 4 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 5 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| 5 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | 6 | Basil | ![basil](../images/croptopia_basil.png) |
-| 7 | Bread | ![bread](../images/croptopia_bread.png) |
+| 7 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 
 ---
 ## Eton Mess
@@ -3648,9 +3648,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 3 | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 3 | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
 | 4 | Whipping Cream | ![whipping_cream](../images/croptopia_whipping_cream.png) |
 
 ---
@@ -3659,12 +3659,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | 3 | Whipping Cream | ![whipping_cream](../images/croptopia_whipping_cream.png) |
-| 4 | Dates | ![dates](../images/croptopia_dates.png) |
-| 5 | Figs | ![figs](../images/croptopia_figs.png) |
-| 6 | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| 4 | Dates | ![dates](../images/croptopia_ajvar.png) |
+| 5 | Figs | ![figs](../images/croptopia_ajvar.png) |
+| 6 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 
 ---
 ## Fish And Chips
@@ -3673,11 +3673,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 1 | Potato | ![potato](../images/croptopia_potato.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 3 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 4 | Flour | ![flour](../images/croptopia_flour.png) |
-| 5 | Fishes | ![fishes](../images/croptopia_fishes.png) |
+| 5 | Fishes | ![fishes](../images/croptopia_ajvar.png) |
 
 ---
 ## Fruit Cake
@@ -3685,14 +3685,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Fruits | ![fruits](../images/croptopia_fruits.png) |
-| 2 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 3 | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| 4 | Pecans | ![pecans](../images/croptopia_pecans.png) |
+| 1 | Fruits | ![fruits](../images/croptopia_ajvar.png) |
+| 2 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 3 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| 4 | Pecans | ![pecans](../images/croptopia_ajvar.png) |
 | 5 | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
-| 6 | Salts | ![salts](../images/croptopia_salts.png) |
-| 7 | Nutmegs | ![nutmegs](../images/croptopia_nutmegs.png) |
-| 8 | Egg | ![egg](../images/croptopia_egg.png) |
+| 6 | Salts | ![salts](../images/croptopia_ajvar.png) |
+| 7 | Nutmegs | ![nutmegs](../images/croptopia_ajvar.png) |
+| 8 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 
 ---
 ## Grilled Eggplant
@@ -3700,9 +3700,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Eggplants | ![eggplants](../images/croptopia_eggplants.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
-| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 1 | Eggplants | ![eggplants](../images/croptopia_ajvar.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
+| 3 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 4 | Garlic | ![garlic](../images/croptopia_garlic.png) |
 | 5 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 6 | Paprika | ![paprika](../images/croptopia_paprika.png) |
@@ -3713,8 +3713,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Kiwis | ![kiwis](../images/croptopia_kiwis.png) |
-| 2 | Honey Bottle | ![honey_bottle](../images/croptopia_honey_bottle.png) |
+| 1 | Kiwis | ![kiwis](../images/croptopia_ajvar.png) |
+| 2 | Honey Bottle | ![honey_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Lemon Coconut Bar
@@ -3722,11 +3722,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| 2 | Coconuts | ![coconuts](../images/croptopia_coconuts.png) |
-| 3 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 4 | Egg | ![egg](../images/croptopia_egg.png) |
-| 5 | Butters | ![butters](../images/croptopia_butters.png) |
+| 1 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| 2 | Coconuts | ![coconuts](../images/croptopia_ajvar.png) |
+| 3 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 4 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 5 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 6 | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -3735,8 +3735,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Milk Bucket | ![milk_bucket](../images/croptopia_milk_bucket.png) |
-| 2 | Glass | ![glass](../images/croptopia_glass.png) |
+| 1 | Milk Bucket | ![milk_bucket](../images/croptopia_milk_bottle.png) |
+| 2 | Glass | ![glass](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -3752,9 +3752,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Flour | ![flour](../images/croptopia_flour.png) |
-| 2 | Nether Wart | ![nether_wart](../images/croptopia_nether_wart.png) |
-| 3 | Crimson Fungus | ![crimson_fungus](../images/croptopia_crimson_fungus.png) |
-| 4 | Warped Fungus | ![warped_fungus](../images/croptopia_warped_fungus.png) |
+| 2 | Nether Wart | ![nether_wart](../images/croptopia_nether_wart_stew.png) |
+| 3 | Crimson Fungus | ![crimson_fungus](../images/croptopia_ajvar.png) |
+| 4 | Warped Fungus | ![warped_fungus](../images/croptopia_ajvar.png) |
 
 ---
 ## Peanut Butter
@@ -3763,7 +3763,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| 2 | Peanuts | ![peanuts](../images/croptopia_peanuts.png) |
+| 2 | Peanuts | ![peanuts](../images/croptopia_ajvar.png) |
 
 ---
 ## Peanut Butter With Celery
@@ -3780,11 +3780,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Potato | ![potato](../images/croptopia_potato.png) |
+| 1 | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
 | 2 | Flour | ![flour](../images/croptopia_flour.png) |
-| 3 | Greenonions | ![greenonions](../images/croptopia_greenonions.png) |
+| 3 | Greenonions | ![greenonions](../images/croptopia_ajvar.png) |
 | 4 | Bacon | ![bacon](../images/croptopia_bacon.png) |
-| 5 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 5 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Ratatouille
@@ -3793,13 +3793,13 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 2 | Eggplants | ![eggplants](../images/croptopia_eggplants.png) |
-| 3 | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| 4 | Squashes | ![squashes](../images/croptopia_squashes.png) |
+| 2 | Eggplants | ![eggplants](../images/croptopia_ajvar.png) |
+| 3 | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| 4 | Squashes | ![squashes](../images/croptopia_ajvar.png) |
 | 5 | Zucchini | ![zucchini](../images/croptopia_zucchini.png) |
-| 6 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| 7 | Onions | ![onions](../images/croptopia_onions.png) |
-| 8 | Bellpeppers | ![bellpeppers](../images/croptopia_bellpeppers.png) |
+| 6 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| 7 | Onions | ![onions](../images/croptopia_ajvar.png) |
+| 8 | Bellpeppers | ![bellpeppers](../images/croptopia_ajvar.png) |
 | 9 | Basil | ![basil](../images/croptopia_basil.png) |
 
 ---
@@ -3809,12 +3809,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Rhubarb | ![rhubarb](../images/croptopia_rhubarb.png) |
-| 2 | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| 2 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | 3 | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
-| 4 | Oats | ![oats](../images/croptopia_oats.png) |
+| 4 | Oats | ![oats](../images/croptopia_ajvar.png) |
 | 5 | Flour | ![flour](../images/croptopia_flour.png) |
-| 6 | Butters | ![butters](../images/croptopia_butters.png) |
-| 7 | Salts | ![salts](../images/croptopia_salts.png) |
+| 6 | Butters | ![butters](../images/croptopia_ajvar.png) |
+| 7 | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Roasted Asparagus
@@ -3823,9 +3823,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Asparagus | ![asparagus](../images/croptopia_asparagus.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Salts | ![salts](../images/croptopia_salts.png) |
+| 4 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 5 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 6 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
@@ -3835,10 +3835,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Radishes | ![radishes](../images/croptopia_radishes.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 1 | Radishes | ![radishes](../images/croptopia_roasted_radishes.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Salts | ![salts](../images/croptopia_salts.png) |
+| 4 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 5 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 6 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
@@ -3848,10 +3848,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Squashes | ![squashes](../images/croptopia_squashes.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 1 | Squashes | ![squashes](../images/croptopia_ajvar.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Salts | ![salts](../images/croptopia_salts.png) |
+| 4 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 5 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 6 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
@@ -3861,10 +3861,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Turnips | ![turnips](../images/croptopia_turnips.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 1 | Turnips | ![turnips](../images/croptopia_roasted_turnips.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Salts | ![salts](../images/croptopia_salts.png) |
+| 4 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 5 | Pepper | ![pepper](../images/croptopia_pepper.png) |
 | 6 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
@@ -3876,11 +3876,11 @@
 | :--- | :--- | :--- |
 | 1 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 | 2 | Flour | ![flour](../images/croptopia_flour.png) |
-| 3 | Salts | ![salts](../images/croptopia_salts.png) |
-| 4 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 5 | Egg | ![egg](../images/croptopia_egg.png) |
+| 3 | Salts | ![salts](../images/croptopia_ajvar.png) |
+| 4 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 5 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | 6 | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| 7 | Blueberries | ![blueberries](../images/croptopia_blueberries.png) |
+| 7 | Blueberries | ![blueberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Shepherds Pie
@@ -3889,14 +3889,14 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 1 | Beef Mutton | ![beef_mutton](../images/croptopia_beef_mutton.png) |
-| 2 | Salts | ![salts](../images/croptopia_salts.png) |
+| 1 | Beef Mutton | ![beef_mutton](../images/croptopia_beef_jerky.png) |
+| 2 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 3 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 4 | Potato | ![potato](../images/croptopia_potato.png) |
-| 5 | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| 4 | Potato | ![potato](../images/croptopia_baked_sweet_potato.png) |
+| 5 | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 | 6 | Corn | ![corn](../images/croptopia_corn.png) |
 | 7 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 8 | Onions | ![onions](../images/croptopia_onions.png) |
+| 8 | Onions | ![onions](../images/croptopia_ajvar.png) |
 
 ---
 ## Steamed Broccoli
@@ -3905,7 +3905,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Broccoli | ![broccoli](../images/croptopia_broccoli.png) |
-| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Steamed Green Beans
@@ -3913,8 +3913,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Greenbeans | ![greenbeans](../images/croptopia_greenbeans.png) |
-| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 1 | Greenbeans | ![greenbeans](../images/croptopia_ajvar.png) |
+| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Sticky Toffee Pudding
@@ -3922,14 +3922,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | 3 | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
 | 4 | Whipping Cream | ![whipping_cream](../images/croptopia_whipping_cream.png) |
-| 5 | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| 6 | Butters | ![butters](../images/croptopia_butters.png) |
-| 7 | Dates | ![dates](../images/croptopia_dates.png) |
-| 8 | Salts | ![salts](../images/croptopia_salts.png) |
+| 5 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| 6 | Butters | ![butters](../images/croptopia_ajvar.png) |
+| 7 | Dates | ![dates](../images/croptopia_ajvar.png) |
+| 8 | Salts | ![salts](../images/croptopia_ajvar.png) |
 
 ---
 ## Stir Fry
@@ -3938,11 +3938,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Broccoli | ![broccoli](../images/croptopia_broccoli.png) |
-| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| 2 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | 3 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 4 | Greenonions | ![greenonions](../images/croptopia_greenonions.png) |
-| 5 | Bellpeppers | ![bellpeppers](../images/croptopia_bellpeppers.png) |
-| 6 | Carrot | ![carrot](../images/croptopia_carrot.png) |
+| 4 | Greenonions | ![greenonions](../images/croptopia_ajvar.png) |
+| 5 | Bellpeppers | ![bellpeppers](../images/croptopia_ajvar.png) |
+| 6 | Carrot | ![carrot](../images/croptopia_ajvar.png) |
 
 ---
 ## Stuffed Artichoke
@@ -3950,13 +3950,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Artichokes | ![artichokes](../images/croptopia_artichokes.png) |
+| 1 | Artichokes | ![artichokes](../images/croptopia_ajvar.png) |
 | 2 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 3 | Lemons | ![lemons](../images/croptopia_lemons.png) |
-| 4 | Bread | ![bread](../images/croptopia_bread.png) |
-| 5 | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| 6 | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
-| 7 | Salts | ![salts](../images/croptopia_salts.png) |
+| 3 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
+| 4 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| 5 | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| 6 | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
+| 7 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 8 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -3965,7 +3965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 1 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | 2 | Tea Leaves | ![tea_leaves](../images/croptopia_tea_leaves.png) |
 
 ---
@@ -3974,7 +3974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Bread | ![bread](../images/croptopia_bread.png) |
+| 1 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 | 2 | Buttered Toast | ![buttered_toast](../images/croptopia_buttered_toast.png) |
 
 ---
@@ -3983,9 +3983,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Bread | ![bread](../images/croptopia_bread.png) |
-| 2 | Honey Bottle | ![honey_bottle](../images/croptopia_honey_bottle.png) |
-| 3 | Lemons | ![lemons](../images/croptopia_lemons.png) |
+| 1 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| 2 | Honey Bottle | ![honey_bottle](../images/croptopia_milk_bottle.png) |
+| 3 | Lemons | ![lemons](../images/croptopia_ajvar.png) |
 | 4 | Whipping Cream | ![whipping_cream](../images/croptopia_whipping_cream.png) |
 
 ---
@@ -3994,13 +3994,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
-| 2 | Milks | ![milks](../images/croptopia_milks.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 2 | Milks | ![milks](../images/croptopia_ajvar.png) |
 | 3 | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| 4 | Wines | ![wines](../images/croptopia_wines.png) |
-| 5 | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
-| 6 | Bread | ![bread](../images/croptopia_bread.png) |
-| 7 | Butters | ![butters](../images/croptopia_butters.png) |
+| 4 | Wines | ![wines](../images/croptopia_ajvar.png) |
+| 5 | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
+| 6 | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
+| 7 | Butters | ![butters](../images/croptopia_ajvar.png) |
 
 ---
 ## Water Bottle
@@ -4008,8 +4008,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Water Bucket | ![water_bucket](../images/croptopia_water_bucket.png) |
-| 2 | Glass | ![glass](../images/croptopia_glass.png) |
+| 1 | Water Bucket | ![water_bucket](../images/croptopia_water_bottle.png) |
+| 2 | Glass | ![glass](../images/croptopia_ajvar.png) |
 
 ---
 ## Snicker Doodle
@@ -4018,7 +4018,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cinnamon | ![cinnamon](../images/croptopia_cinnamon.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 
 ---
@@ -4027,7 +4027,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soybeans | ![soybeans](../images/croptopia_soybeans.png) |
+| - | Soybeans | ![soybeans](../images/croptopia_ajvar.png) |
 
 ---
 ## Soy Milk
@@ -4035,8 +4035,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
-| - | Soybeans | ![soybeans](../images/croptopia_soybeans.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
+| - | Soybeans | ![soybeans](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -4046,8 +4046,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Soybeans | ![soybeans](../images/croptopia_soybeans.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| - | Soybeans | ![soybeans](../images/croptopia_ajvar.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Spaghetti Squash
@@ -4055,9 +4055,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Squashes | ![squashes](../images/croptopia_squashes.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Squashes | ![squashes](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -4074,7 +4074,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Squashes | ![squashes](../images/croptopia_squashes.png) |
+| - | Squashes | ![squashes](../images/croptopia_ajvar.png) |
 
 ---
 ## {}
@@ -4089,9 +4089,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Starfruits | ![starfruits](../images/croptopia_starfruits.png) |
-| - | Starfruits | ![starfruits](../images/croptopia_starfruits.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Starfruits | ![starfruits](../images/croptopia_ajvar.png) |
+| - | Starfruits | ![starfruits](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Steamed Clams
@@ -4099,11 +4099,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Butters | ![butters](../images/croptopia_butters.png) |
+| 1 | Butters | ![butters](../images/croptopia_ajvar.png) |
 | 2 | Garlic | ![garlic](../images/croptopia_garlic.png) |
-| 3 | Salts | ![salts](../images/croptopia_salts.png) |
+| 3 | Salts | ![salts](../images/croptopia_ajvar.png) |
 | 4 | Pepper | ![pepper](../images/croptopia_pepper.png) |
-| 5 | Clams | ![clams](../images/croptopia_clams.png) |
+| 5 | Clams | ![clams](../images/croptopia_steamed_clams.png) |
 | 7 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -4112,8 +4112,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Crabs | ![crabs](../images/croptopia_crabs.png) |
-| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| 1 | Crabs | ![crabs](../images/croptopia_ajvar.png) |
+| 2 | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 | 3 | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -4124,8 +4124,8 @@
 | :--- | :--- | :--- |
 | - | Rice | ![rice](../images/croptopia_rice.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Strawberry Ice Cream
@@ -4133,10 +4133,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -4145,8 +4145,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -4155,7 +4155,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
+| - | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Strawberry Smoothie
@@ -4163,10 +4163,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
-| - | Ice | ![ice](../images/croptopia_ice.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
+| - | Ice | ![ice](../images/croptopia_chocolate_ice_cream.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Stripped Cinnamon Wood
@@ -4182,11 +4182,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beef Replacements | ![beef_replacements](../images/croptopia_beef_replacements.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
+| - | Beef Replacements | ![beef_replacements](../images/croptopia_beef_jerky.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
 | - | Corn | ![corn](../images/croptopia_corn.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Rice | ![rice](../images/croptopia_rice.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
@@ -4197,7 +4197,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 2 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 
 ---
 ## Supreme Pizza
@@ -4205,12 +4205,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
-| - | Bellpeppers | ![bellpeppers](../images/croptopia_bellpeppers.png) |
-| - | Olives | ![olives](../images/croptopia_olives.png) |
-| - | Meat Replacements | ![meat_replacements](../images/croptopia_meat_replacements.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
+| - | Bellpeppers | ![bellpeppers](../images/croptopia_ajvar.png) |
+| - | Olives | ![olives](../images/croptopia_ajvar.png) |
+| - | Meat Replacements | ![meat_replacements](../images/croptopia_ajvar.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -4226,8 +4226,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Seagrass | ![seagrass](../images/croptopia_seagrass.png) |
-| - | Fishes | ![fishes](../images/croptopia_fishes.png) |
+| - | Seagrass | ![seagrass](../images/croptopia_ajvar.png) |
+| - | Fishes | ![fishes](../images/croptopia_ajvar.png) |
 | - | Rice | ![rice](../images/croptopia_rice.png) |
 
 ---
@@ -4236,7 +4236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweetpotatos | ![sweetpotatos](../images/croptopia_sweetpotatos.png) |
+| - | Sweetpotatos | ![sweetpotatos](../images/croptopia_ajvar.png) |
 
 ---
 ## Sweet Crepes
@@ -4245,10 +4245,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Flour | ![flour](../images/croptopia_flour.png) |
-| 2 | Egg | ![egg](../images/croptopia_egg.png) |
-| 3 | Milks | ![milks](../images/croptopia_milks.png) |
-| 4 | Jams | ![jams](../images/croptopia_jams.png) |
-| 5 | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| 2 | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| 3 | Milks | ![milks](../images/croptopia_ajvar.png) |
+| 4 | Jams | ![jams](../images/croptopia_ajvar.png) |
+| 5 | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | 6 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 
 ---
@@ -4257,10 +4257,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweetpotatos | ![sweetpotatos](../images/croptopia_sweetpotatos.png) |
+| - | Sweetpotatos | ![sweetpotatos](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Olive Oils | ![olive_oils](../images/croptopia_olive_oils.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Olive Oils | ![olive_oils](../images/croptopia_olive.png) |
 
 ---
 ## Taco
@@ -4268,11 +4268,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
-| - | Cheeses | ![cheeses](../images/croptopia_cheeses.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
+| - | Cheeses | ![cheeses](../images/croptopia_ajvar.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
 | - | Salsa | ![salsa](../images/croptopia_salsa.png) |
-| - | Meat Replacements | ![meat_replacements](../images/croptopia_meat_replacements.png) |
+| - | Meat Replacements | ![meat_replacements](../images/croptopia_ajvar.png) |
 
 ---
 ## Tamales
@@ -4280,12 +4280,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chicken | ![chicken](../images/croptopia_chicken.png) |
-| - | Onions | ![onions](../images/croptopia_onions.png) |
+| - | Chicken | ![chicken](../images/croptopia_cashew_chicken.png) |
+| - | Onions | ![onions](../images/croptopia_ajvar.png) |
 | - | Corn Husk | ![corn_husk](../images/croptopia_corn_husk.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -4303,11 +4303,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 7 | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| 1 | Egg | ![egg](../images/croptopia_egg.png) |
+| 1 | Egg | ![egg](../images/croptopia_egg_roll.png) |
 | 2 | Bacon | ![bacon](../images/croptopia_bacon.png) |
 | 3 | Hashed Brown | ![hashed_brown](../images/croptopia_hashed_brown.png) |
 | 4 | Baked Beans | ![baked_beans](../images/croptopia_baked_beans.png) |
-| 5 | Sausages | ![sausages](../images/croptopia_sausages.png) |
+| 5 | Sausages | ![sausages](../images/croptopia_ajvar.png) |
 | 6 | Toast | ![toast](../images/croptopia_toast.png) |
 
 ---
@@ -4316,7 +4316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bread | ![bread](../images/croptopia_bread.png) |
+| item | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 
 ---
 ## Toast
@@ -4324,7 +4324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bread | ![bread](../images/croptopia_bread.png) |
+| item | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 
 ---
 ## Toast With Jam
@@ -4332,8 +4332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Toasts | ![toasts](../images/croptopia_toasts.png) |
-| - | Jams | ![jams](../images/croptopia_jams.png) |
+| - | Toasts | ![toasts](../images/croptopia_ajvar.png) |
+| - | Jams | ![jams](../images/croptopia_ajvar.png) |
 
 ---
 ## Tofu
@@ -4342,8 +4342,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
-| - | Soybeans | ![soybeans](../images/croptopia_soybeans.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
+| - | Soybeans | ![soybeans](../images/croptopia_ajvar.png) |
 
 ---
 ## Tofuburger
@@ -4351,11 +4351,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/croptopia_bread.png) |
+| - | Bread | ![bread](../images/croptopia_banana_nut_bread.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
 | - | Tofu | ![tofu](../images/croptopia_tofu.png) |
-| - | Onions | ![onions](../images/croptopia_onions.png) |
+| - | Onions | ![onions](../images/croptopia_ajvar.png) |
 
 ---
 ## Tofu And Dumplings
@@ -4363,8 +4363,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Doughs | ![doughs](../images/croptopia_doughs.png) |
-| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_peppers.png) |
+| - | Doughs | ![doughs](../images/croptopia_ajvar.png) |
+| - | Chile Peppers | ![chile_peppers](../images/croptopia_chile_pepper.png) |
 | - | Tofu | ![tofu](../images/croptopia_tofu.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
@@ -4374,7 +4374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomatillos | ![tomatillos](../images/croptopia_tomatillos.png) |
+| - | Tomatillos | ![tomatillos](../images/croptopia_ajvar.png) |
 
 ---
 ## Tomato Juice
@@ -4382,9 +4382,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
 
 ---
 ## Tomato Seed
@@ -4392,7 +4392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 
 ---
 ## Tortilla
@@ -4402,7 +4402,7 @@
 | :--- | :--- | :--- |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 | - | Frying Pan | ![frying_pan](../images/croptopia_frying_pan.png) |
-| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottles.png) |
+| - | Water Bottles | ![water_bottles](../images/croptopia_water_bottle.png) |
 
 ---
 ## Tostada
@@ -4410,11 +4410,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
-| - | Blackbeans | ![blackbeans](../images/croptopia_blackbeans.png) |
-| - | Tomatoes | ![tomatoes](../images/croptopia_tomatoes.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
+| - | Blackbeans | ![blackbeans](../images/croptopia_ajvar.png) |
+| - | Tomatoes | ![tomatoes](../images/croptopia_ajvar.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
-| - | Tortillas | ![tortillas](../images/croptopia_tortillas.png) |
+| - | Tortillas | ![tortillas](../images/croptopia_ajvar.png) |
 
 ---
 ## Trail Mix
@@ -4422,12 +4422,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
-| - | Nuts | ![nuts](../images/croptopia_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
+| - | Nuts | ![nuts](../images/croptopia_candied_nuts.png) |
 | - | Raisins | ![raisins](../images/croptopia_raisins.png) |
-| - | Salts | ![salts](../images/croptopia_salts.png) |
-| - | Chocolates | ![chocolates](../images/croptopia_chocolates.png) |
+| - | Salts | ![salts](../images/croptopia_ajvar.png) |
+| - | Chocolates | ![chocolates](../images/croptopia_ajvar.png) |
 
 ---
 ## Tres Leche Cake
@@ -4435,12 +4435,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Flour | ![flour](../images/croptopia_flour.png) |
 | - | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| - | Rums | ![rums](../images/croptopia_rums.png) |
+| - | Rums | ![rums](../images/croptopia_ajvar.png) |
 | - | Whipping Cream | ![whipping_cream](../images/croptopia_whipping_cream.png) |
 
 ---
@@ -4450,9 +4450,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Tuna | ![tuna](../images/croptopia_tuna.png) |
-| 2 | Dried Kelp | ![dried_kelp](../images/croptopia_dried_kelp.png) |
+| 2 | Dried Kelp | ![dried_kelp](../images/croptopia_ajvar.png) |
 | 3 | Rice | ![rice](../images/croptopia_rice.png) |
-| 4 | Onions | ![onions](../images/croptopia_onions.png) |
+| 4 | Onions | ![onions](../images/croptopia_ajvar.png) |
 
 ---
 ## Turmeric Seed
@@ -4468,7 +4468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Turnips | ![turnips](../images/croptopia_turnips.png) |
+| - | Turnips | ![turnips](../images/croptopia_roasted_turnips.png) |
 
 ---
 ## Vanilla Ice Cream
@@ -4477,9 +4477,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
-| - | Egg | ![egg](../images/croptopia_egg.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
+| - | Egg | ![egg](../images/croptopia_egg_roll.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 | - | Cooking Pot | ![cooking_pot](../images/croptopia_cooking_pot.png) |
 
 ---
@@ -4496,9 +4496,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Cucumbers | ![cucumbers](../images/croptopia_cucumbers.png) |
-| - | Carrot | ![carrot](../images/croptopia_carrot.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Cucumbers | ![cucumbers](../images/croptopia_ajvar.png) |
+| - | Carrot | ![carrot](../images/croptopia_ajvar.png) |
 | - | Corn | ![corn](../images/croptopia_corn.png) |
 | - | Lettuce | ![lettuce](../images/croptopia_lettuce.png) |
 
@@ -4515,9 +4515,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Walnuts | ![walnuts](../images/croptopia_walnuts.png) |
-| - | Walnuts | ![walnuts](../images/croptopia_walnuts.png) |
-| - | Saplings | ![saplings](../images/croptopia_saplings.png) |
+| - | Walnuts | ![walnuts](../images/croptopia_ajvar.png) |
+| - | Walnuts | ![walnuts](../images/croptopia_ajvar.png) |
+| - | Saplings | ![saplings](../images/croptopia_ajvar.png) |
 
 ---
 ## Whipping Cream
@@ -4525,8 +4525,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Sugar | ![sugar](../images/croptopia_sugar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Sugar | ![sugar](../images/croptopia_ajvar.png) |
 | - | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
 
 ---
@@ -4535,9 +4535,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/croptopia_glass_bottle.png) |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
-| - | Grapes | ![grapes](../images/croptopia_grapes.png) |
+| - | Glass Bottle | ![glass_bottle](../images/croptopia_milk_bottle.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
+| - | Grapes | ![grapes](../images/croptopia_ajvar.png) |
 | - | Food Press | ![food_press](../images/croptopia_food_press.png) |
 
 ---
@@ -4546,10 +4546,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yams | ![yams](../images/croptopia_yams.png) |
+| - | Yams | ![yams](../images/croptopia_ajvar.png) |
 | - | Vanilla | ![vanilla](../images/croptopia_vanilla.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
 
 ---
 ## Yam Seed
@@ -4557,7 +4557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yams | ![yams](../images/croptopia_yams.png) |
+| - | Yams | ![yams](../images/croptopia_ajvar.png) |
 
 ---
 ## Yoghurt
@@ -4565,9 +4565,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/croptopia_bowl.png) |
-| - | Milks | ![milks](../images/croptopia_milks.png) |
-| - | Strawberries | ![strawberries](../images/croptopia_strawberries.png) |
+| - | Bowl | ![bowl](../images/croptopia_ajvar.png) |
+| - | Milks | ![milks](../images/croptopia_ajvar.png) |
+| - | Strawberries | ![strawberries](../images/croptopia_ajvar.png) |
 
 ---
 ## Zucchini Seed

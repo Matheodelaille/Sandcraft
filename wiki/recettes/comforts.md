@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Black Wool | ![black_wool](../images/comforts_black_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Black Wool | ![black_wool](../images/comforts_hammock_black.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -26,8 +26,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Blue Wool | ![blue_wool](../images/comforts_blue_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Blue Wool | ![blue_wool](../images/comforts_hammock_blue.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -45,8 +45,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Brown Wool | ![brown_wool](../images/comforts_brown_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Brown Wool | ![brown_wool](../images/comforts_hammock_brown.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -64,8 +64,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Cyan Wool | ![cyan_wool](../images/comforts_cyan_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Cyan Wool | ![cyan_wool](../images/comforts_hammock_cyan.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -83,8 +83,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Gray Wool | ![gray_wool](../images/comforts_gray_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Gray Wool | ![gray_wool](../images/comforts_hammock_gray.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -102,8 +102,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Green Wool | ![green_wool](../images/comforts_green_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Green Wool | ![green_wool](../images/comforts_hammock_green.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -121,8 +121,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Light Blue Wool | ![light_blue_wool](../images/comforts_light_blue_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Light Blue Wool | ![light_blue_wool](../images/comforts_hammock_light_blue.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -140,8 +140,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Light Gray Wool | ![light_gray_wool](../images/comforts_light_gray_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Light Gray Wool | ![light_gray_wool](../images/comforts_hammock_light_gray.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -159,8 +159,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Lime Wool | ![lime_wool](../images/comforts_lime_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Lime Wool | ![lime_wool](../images/comforts_hammock_lime.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -178,8 +178,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Magenta Wool | ![magenta_wool](../images/comforts_magenta_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Magenta Wool | ![magenta_wool](../images/comforts_hammock_magenta.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -197,8 +197,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Orange Wool | ![orange_wool](../images/comforts_orange_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Orange Wool | ![orange_wool](../images/comforts_hammock_orange.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -216,8 +216,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Pink Wool | ![pink_wool](../images/comforts_pink_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Pink Wool | ![pink_wool](../images/comforts_hammock_pink.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -235,8 +235,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Purple Wool | ![purple_wool](../images/comforts_purple_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Purple Wool | ![purple_wool](../images/comforts_hammock_purple.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -254,8 +254,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Red Wool | ![red_wool](../images/comforts_red_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Red Wool | ![red_wool](../images/comforts_hammock_red.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -273,8 +273,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | White Wool | ![white_wool](../images/comforts_white_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | White Wool | ![white_wool](../images/comforts_hammock_white.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -283,8 +283,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Yellow Wool | ![yellow_wool](../images/comforts_yellow_wool.png) |
-| s | String | ![string](../images/comforts_string.png) |
+| a | Yellow Wool | ![yellow_wool](../images/comforts_hammock_yellow.png) |
+| s | String | ![string](../images/comforts_hammock_black.png) |
 | w | Rods/Wooden | ![rods/wooden](../images/comforts_rods/wooden.png) |
 
 ---
@@ -302,7 +302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | String | ![string](../images/comforts_string.png) |
+| a | String | ![string](../images/comforts_hammock_black.png) |
 | x | Ingots/Iron | ![ingots/iron](../images/comforts_ingots/iron.png) |
 
 ---
@@ -311,7 +311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rope | ![rope](../images/comforts_rope.png) |
+| - | Rope | ![rope](../images/comforts_rope_and_nail.png) |
 | - | Ingots/Iron | ![ingots/iron](../images/comforts_ingots/iron.png) |
 
 ---
@@ -320,7 +320,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Black Wool | ![black_wool](../images/comforts_black_wool.png) |
+| a | Black Wool | ![black_wool](../images/comforts_hammock_black.png) |
 
 ---
 ## Sleeping Bag Black
@@ -337,7 +337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Blue Wool | ![blue_wool](../images/comforts_blue_wool.png) |
+| a | Blue Wool | ![blue_wool](../images/comforts_hammock_blue.png) |
 
 ---
 ## Sleeping Bag Blue
@@ -354,7 +354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Brown Wool | ![brown_wool](../images/comforts_brown_wool.png) |
+| a | Brown Wool | ![brown_wool](../images/comforts_hammock_brown.png) |
 
 ---
 ## Sleeping Bag Brown
@@ -371,7 +371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Cyan Wool | ![cyan_wool](../images/comforts_cyan_wool.png) |
+| a | Cyan Wool | ![cyan_wool](../images/comforts_hammock_cyan.png) |
 
 ---
 ## Sleeping Bag Cyan
@@ -388,7 +388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Gray Wool | ![gray_wool](../images/comforts_gray_wool.png) |
+| a | Gray Wool | ![gray_wool](../images/comforts_hammock_gray.png) |
 
 ---
 ## Sleeping Bag Gray
@@ -405,7 +405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Green Wool | ![green_wool](../images/comforts_green_wool.png) |
+| a | Green Wool | ![green_wool](../images/comforts_hammock_green.png) |
 
 ---
 ## Sleeping Bag Green
@@ -422,7 +422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Light Blue Wool | ![light_blue_wool](../images/comforts_light_blue_wool.png) |
+| a | Light Blue Wool | ![light_blue_wool](../images/comforts_hammock_light_blue.png) |
 
 ---
 ## Sleeping Bag Light Blue
@@ -439,7 +439,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Light Gray Wool | ![light_gray_wool](../images/comforts_light_gray_wool.png) |
+| a | Light Gray Wool | ![light_gray_wool](../images/comforts_hammock_light_gray.png) |
 
 ---
 ## Sleeping Bag Light Gray
@@ -456,7 +456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Lime Wool | ![lime_wool](../images/comforts_lime_wool.png) |
+| a | Lime Wool | ![lime_wool](../images/comforts_hammock_lime.png) |
 
 ---
 ## Sleeping Bag Lime
@@ -473,7 +473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Magenta Wool | ![magenta_wool](../images/comforts_magenta_wool.png) |
+| a | Magenta Wool | ![magenta_wool](../images/comforts_hammock_magenta.png) |
 
 ---
 ## Sleeping Bag Magenta
@@ -490,7 +490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Orange Wool | ![orange_wool](../images/comforts_orange_wool.png) |
+| a | Orange Wool | ![orange_wool](../images/comforts_hammock_orange.png) |
 
 ---
 ## Sleeping Bag Orange
@@ -507,7 +507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Pink Wool | ![pink_wool](../images/comforts_pink_wool.png) |
+| a | Pink Wool | ![pink_wool](../images/comforts_hammock_pink.png) |
 
 ---
 ## Sleeping Bag Pink
@@ -524,7 +524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Purple Wool | ![purple_wool](../images/comforts_purple_wool.png) |
+| a | Purple Wool | ![purple_wool](../images/comforts_hammock_purple.png) |
 
 ---
 ## Sleeping Bag Purple
@@ -541,7 +541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Red Wool | ![red_wool](../images/comforts_red_wool.png) |
+| a | Red Wool | ![red_wool](../images/comforts_hammock_red.png) |
 
 ---
 ## Sleeping Bag Red
@@ -558,7 +558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | White Wool | ![white_wool](../images/comforts_white_wool.png) |
+| a | White Wool | ![white_wool](../images/comforts_hammock_white.png) |
 
 ---
 ## Sleeping Bag Yellow
@@ -566,7 +566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Yellow Wool | ![yellow_wool](../images/comforts_yellow_wool.png) |
+| a | Yellow Wool | ![yellow_wool](../images/comforts_hammock_yellow.png) |
 
 ---
 ## Sleeping Bag Yellow

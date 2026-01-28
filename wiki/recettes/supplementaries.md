@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_ingot.png) |
-| 0 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
+| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_lantern.png) |
+| 0 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
 
 ---
 ## {}
@@ -47,7 +47,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ash Bricks Vertical Slab | ![ash_bricks_vertical_slab](../images/supplementaries_ash_bricks_vertical_slab.png) |
+| - | Ash Bricks Vertical Slab | ![ash_bricks_vertical_slab](../images/supplementaries_ash_bricks.png) |
 
 ---
 ## Ash Bricks Slab
@@ -71,7 +71,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ash Bricks Vertical Slab | ![ash_bricks_vertical_slab](../images/supplementaries_ash_bricks_vertical_slab.png) |
+| - | Ash Bricks Vertical Slab | ![ash_bricks_vertical_slab](../images/supplementaries_ash_bricks.png) |
 
 ---
 ## Ash Bricks Stairs
@@ -111,8 +111,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soot | ![soot](../images/supplementaries_soot.png) |
-| - | Soot | ![soot](../images/supplementaries_soot.png) |
+| - | Soot | ![soot](../images/supplementaries_altimeter.png) |
+| - | Soot | ![soot](../images/supplementaries_altimeter.png) |
 
 ---
 ## Bamboo Spikes
@@ -120,8 +120,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
-| 1 | Bamboo | ![bamboo](../images/supplementaries_bamboo.png) |
+| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
+| 1 | Bamboo | ![bamboo](../images/supplementaries_bamboo_spikes.png) |
 
 ---
 ## {}
@@ -137,7 +137,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Feather Block | ![feather_block](../images/supplementaries_feather_block.png) |
-| 1 | Planks | ![planks](../images/supplementaries_planks.png) |
+| 1 | Planks | ![planks](../images/supplementaries_altimeter.png) |
 
 ---
 ## Bellows
@@ -145,8 +145,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
-| 1 | Leather | ![leather](../images/supplementaries_leather.png) |
+| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
+| 1 | Leather | ![leather](../images/supplementaries_altimeter.png) |
 
 ---
 ## Blackboard
@@ -177,8 +177,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Blackstone | ![blackstone](../images/supplementaries_blackstone.png) |
-| 1 | Shroomlight | ![shroomlight](../images/supplementaries_shroomlight.png) |
+| 0 | Blackstone | ![blackstone](../images/supplementaries_blackstone_lamp.png) |
+| 1 | Shroomlight | ![shroomlight](../images/supplementaries_altimeter.png) |
 
 ---
 ## Blackstone Tile
@@ -186,7 +186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/supplementaries_polished_blackstone_bricks.png) |
+| item | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/supplementaries_ash_bricks.png) |
 
 ---
 ## Blackstone Tile Slab
@@ -194,7 +194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_tile.png) |
+| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Slab
@@ -202,7 +202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone Tile Vertical Slab | ![blackstone_tile_vertical_slab](../images/supplementaries_blackstone_tile_vertical_slab.png) |
+| - | Blackstone Tile Vertical Slab | ![blackstone_tile_vertical_slab](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Stairs
@@ -210,7 +210,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_tile.png) |
+| # | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Stairs
@@ -218,7 +218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_tile.png) |
+| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Vertical Slab
@@ -226,7 +226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_tile.png) |
+| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Slab
@@ -234,7 +234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone Tile Vertical Slab | ![blackstone_tile_vertical_slab](../images/supplementaries_blackstone_tile_vertical_slab.png) |
+| - | Blackstone Tile Vertical Slab | ![blackstone_tile_vertical_slab](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Wall
@@ -242,7 +242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_tile.png) |
+| # | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Blackstone Tile Wall
@@ -250,7 +250,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_tile.png) |
+| item | Blackstone Tile | ![blackstone_tile](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Jar Boat
@@ -258,8 +258,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jar | ![jar](../images/supplementaries_jar.png) |
-| - | Boats | ![boats](../images/supplementaries_boats.png) |
+| - | Jar | ![jar](../images/supplementaries_jar_boat.png) |
+| - | Boats | ![boats](../images/supplementaries_altimeter.png) |
 
 ---
 ## Bomb
@@ -267,9 +267,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tnt | ![tnt](../images/supplementaries_tnt.png) |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 2 | String | ![string](../images/supplementaries_string.png) |
+| 0 | Tnt | ![tnt](../images/supplementaries_altimeter.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | String | ![string](../images/supplementaries_altimeter.png) |
 
 ---
 ## {}
@@ -285,7 +285,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Ingots/Brass | ![ingots/brass](../images/supplementaries_ingots/brass.png) |
-| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_powder.png) |
+| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_rod.png) |
 
 ---
 ## Bubble Blower
@@ -293,8 +293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## {}
@@ -309,9 +309,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 2 | Iron Bars | ![iron_bars](../images/supplementaries_iron_bars.png) |
+| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Iron Bars | ![iron_bars](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder
@@ -320,7 +320,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Candle | ![candle](../images/supplementaries_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Black
@@ -328,8 +328,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Black Candle | ![black_candle](../images/supplementaries_black_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Black Candle | ![black_candle](../images/supplementaries_black.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Black
@@ -346,8 +346,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Blue Candle | ![blue_candle](../images/supplementaries_blue_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Blue Candle | ![blue_candle](../images/supplementaries_blue.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Blue
@@ -364,8 +364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Brown Candle | ![brown_candle](../images/supplementaries_brown_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Brown Candle | ![brown_candle](../images/supplementaries_brown.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Brown
@@ -382,8 +382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Cyan Candle | ![cyan_candle](../images/supplementaries_cyan_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Cyan Candle | ![cyan_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Cyan
@@ -400,8 +400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gray Candle | ![gray_candle](../images/supplementaries_gray_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Gray Candle | ![gray_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Gray
@@ -418,8 +418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Green Candle | ![green_candle](../images/supplementaries_green_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Green Candle | ![green_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Green
@@ -436,8 +436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Light Blue Candle | ![light_blue_candle](../images/supplementaries_light_blue_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Light Blue Candle | ![light_blue_candle](../images/supplementaries_light_blue.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Light Blue
@@ -454,8 +454,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Light Gray Candle | ![light_gray_candle](../images/supplementaries_light_gray_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Light Gray Candle | ![light_gray_candle](../images/supplementaries_light_gray.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Light Gray
@@ -472,8 +472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Lime Candle | ![lime_candle](../images/supplementaries_lime_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Lime Candle | ![lime_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Lime
@@ -490,8 +490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Magenta Candle | ![magenta_candle](../images/supplementaries_magenta_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Magenta Candle | ![magenta_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Magenta
@@ -508,8 +508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Orange Candle | ![orange_candle](../images/supplementaries_orange_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Orange Candle | ![orange_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Orange
@@ -526,8 +526,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Pink Candle | ![pink_candle](../images/supplementaries_pink_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Pink Candle | ![pink_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Pink
@@ -544,8 +544,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Purple Candle | ![purple_candle](../images/supplementaries_purple_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Purple Candle | ![purple_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Purple
@@ -562,8 +562,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Red Candle | ![red_candle](../images/supplementaries_red_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Red Candle | ![red_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Red
@@ -580,8 +580,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Soul Candle | ![soul_candle](../images/supplementaries_soul_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Soul Candle | ![soul_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Spectacle
@@ -589,8 +589,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Spectacle Candle | ![spectacle_candle](../images/supplementaries_spectacle_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Spectacle Candle | ![spectacle_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder White
@@ -598,8 +598,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | White Candle | ![white_candle](../images/supplementaries_white_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | White Candle | ![white_candle](../images/supplementaries_blackboard_white.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder White
@@ -616,8 +616,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Yellow Candle | ![yellow_candle](../images/supplementaries_yellow_candle.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Yellow Candle | ![yellow_candle](../images/supplementaries_candle.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Candle Holder Yellow
@@ -635,8 +635,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Sugar | ![sugar](../images/supplementaries_sugar.png) |
-| - | Paper | ![paper](../images/supplementaries_paper.png) |
-| - | Honey Bottle | ![honey_bottle](../images/supplementaries_honey_bottle.png) |
+| - | Paper | ![paper](../images/supplementaries_altimeter.png) |
+| - | Honey Bottle | ![honey_bottle](../images/supplementaries_pancake_side_honey.png) |
 
 ---
 ## Checker Block
@@ -644,8 +644,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Cobblestone | ![cobblestone](../images/supplementaries_cobblestone.png) |
-| 1 | Blackstone | ![blackstone](../images/supplementaries_blackstone.png) |
+| 0 | Cobblestone | ![cobblestone](../images/supplementaries_altimeter.png) |
+| 1 | Blackstone | ![blackstone](../images/supplementaries_blackstone_lamp.png) |
 
 ---
 ## Checker Slab
@@ -653,7 +653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Checker Block | ![checker_block](../images/supplementaries_checker_block.png) |
+| item | Checker Block | ![checker_block](../images/supplementaries_bubble_block.png) |
 
 ---
 ## Checker Slab
@@ -661,7 +661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Checker Vertical Slab | ![checker_vertical_slab](../images/supplementaries_checker_vertical_slab.png) |
+| - | Checker Vertical Slab | ![checker_vertical_slab](../images/supplementaries_altimeter.png) |
 
 ---
 ## Checker Vertical Slab
@@ -669,7 +669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Checker Block | ![checker_block](../images/supplementaries_checker_block.png) |
+| item | Checker Block | ![checker_block](../images/supplementaries_bubble_block.png) |
 
 ---
 ## Checker Slab
@@ -677,7 +677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Checker Vertical Slab | ![checker_vertical_slab](../images/supplementaries_checker_vertical_slab.png) |
+| - | Checker Vertical Slab | ![checker_vertical_slab](../images/supplementaries_altimeter.png) |
 
 ---
 ## {}
@@ -692,8 +692,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Planks | ![planks](../images/supplementaries_planks.png) |
-| 1 | Clock | ![clock](../images/supplementaries_clock.png) |
+| 0 | Planks | ![planks](../images/supplementaries_altimeter.png) |
+| 1 | Clock | ![clock](../images/supplementaries_clock_back.png) |
 
 ---
 ## Cog Block
@@ -701,8 +701,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_ingot.png) |
-| 2 | Redstone Block | ![redstone_block](../images/supplementaries_redstone_block.png) |
+| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_lantern.png) |
+| 2 | Redstone Block | ![redstone_block](../images/supplementaries_bubble_block.png) |
 
 ---
 ## Copper Lantern
@@ -710,8 +710,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_ingot.png) |
-| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_powder.png) |
+| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_lantern.png) |
+| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_rod.png) |
 
 ---
 ## Copper Lantern
@@ -719,8 +719,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_ingot.png) |
-| 2 | Fish Oil | ![fish_oil](../images/supplementaries_fish_oil.png) |
+| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_lantern.png) |
+| 2 | Fish Oil | ![fish_oil](../images/supplementaries_altimeter.png) |
 
 ---
 ## Crank
@@ -729,7 +729,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Rods/Wooden | ![rods/wooden](../images/supplementaries_rods/wooden.png) |
-| 3 | Cobblestone Slab | ![cobblestone_slab](../images/supplementaries_cobblestone_slab.png) |
+| 3 | Cobblestone Slab | ![cobblestone_slab](../images/supplementaries_altimeter.png) |
 
 ---
 ## Crimson Lantern
@@ -737,9 +737,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_ingot.png) |
-| 2 | Paper | ![paper](../images/supplementaries_paper.png) |
-| 3 | Shroomlight | ![shroomlight](../images/supplementaries_shroomlight.png) |
+| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_door.png) |
+| 2 | Paper | ![paper](../images/supplementaries_altimeter.png) |
+| 3 | Shroomlight | ![shroomlight](../images/supplementaries_altimeter.png) |
 
 ---
 ## Crystal Display
@@ -747,7 +747,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Deepslate | ![deepslate](../images/supplementaries_deepslate.png) |
+| 1 | Deepslate | ![deepslate](../images/supplementaries_deepslate_lamp.png) |
 | 2 | Amethyst Shard | ![amethyst_shard](../images/supplementaries_amethyst_shard.png) |
 
 ---
@@ -756,8 +756,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Clay Ball | ![clay_ball](../images/supplementaries_clay_ball.png) |
-| 2 | Straw | ![straw](../images/supplementaries_straw.png) |
+| 1 | Clay Ball | ![clay_ball](../images/supplementaries_altimeter.png) |
+| 2 | Straw | ![straw](../images/supplementaries_altimeter.png) |
 
 ---
 ## Daub Brace
@@ -792,8 +792,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Deepslate | ![deepslate](../images/supplementaries_deepslate.png) |
-| 1 | Shroomlight | ![shroomlight](../images/supplementaries_shroomlight.png) |
+| 0 | Deepslate | ![deepslate](../images/supplementaries_deepslate_lamp.png) |
+| 1 | Shroomlight | ![shroomlight](../images/supplementaries_altimeter.png) |
 
 ---
 ## Glass
@@ -801,7 +801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirty Glass | ![dirty_glass](../images/supplementaries_dirty_glass.png) |
+| - | Dirty Glass | ![dirty_glass](../images/supplementaries_altimeter.png) |
 | - | Soap | ![soap](../images/supplementaries_soap.png) |
 
 ---
@@ -810,7 +810,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirty Glass Pane | ![dirty_glass_pane](../images/supplementaries_dirty_glass_pane.png) |
+| - | Dirty Glass Pane | ![dirty_glass_pane](../images/supplementaries_altimeter.png) |
 | - | Soap | ![soap](../images/supplementaries_soap.png) |
 
 ---
@@ -819,7 +819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirty Shard | ![dirty_shard](../images/supplementaries_dirty_shard.png) |
+| - | Dirty Shard | ![dirty_shard](../images/supplementaries_amethyst_shard.png) |
 | - | Soap | ![soap](../images/supplementaries_soap.png) |
 
 ---
@@ -828,8 +828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dispenser | ![dispenser](../images/supplementaries_dispenser.png) |
-| 1 | Minecart | ![minecart](../images/supplementaries_minecart.png) |
+| 0 | Dispenser | ![dispenser](../images/supplementaries_dispenser_minecart.png) |
+| 1 | Minecart | ![minecart](../images/supplementaries_dispenser_minecart.png) |
 
 ---
 ## Dispenser Minecart
@@ -837,8 +837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dispenser | ![dispenser](../images/supplementaries_dispenser.png) |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 0 | Dispenser | ![dispenser](../images/supplementaries_dispenser_minecart.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Doormat
@@ -854,8 +854,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | End Stone | ![end_stone](../images/supplementaries_end_stone.png) |
-| 1 | Shroomlight | ![shroomlight](../images/supplementaries_shroomlight.png) |
+| 0 | End Stone | ![end_stone](../images/supplementaries_end_stone_lamp_a.png) |
+| 1 | Shroomlight | ![shroomlight](../images/supplementaries_altimeter.png) |
 
 ---
 ## Faucet
@@ -864,7 +864,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Rods/Wooden | ![rods/wooden](../images/supplementaries_rods/wooden.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Feather Block
@@ -872,7 +872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Feather | ![feather](../images/supplementaries_feather.png) |
+| 0 | Feather | ![feather](../images/supplementaries_feather_block.png) |
 
 ---
 ## Feather
@@ -888,7 +888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Black Wool | ![black_wool](../images/supplementaries_black_wool.png) |
+| 1 | Black Wool | ![black_wool](../images/supplementaries_black.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -897,7 +897,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Blue Wool | ![blue_wool](../images/supplementaries_blue_wool.png) |
+| 1 | Blue Wool | ![blue_wool](../images/supplementaries_blue.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -906,7 +906,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Brown Wool | ![brown_wool](../images/supplementaries_brown_wool.png) |
+| 1 | Brown Wool | ![brown_wool](../images/supplementaries_brown.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -922,7 +922,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Cyan Wool | ![cyan_wool](../images/supplementaries_cyan_wool.png) |
+| 1 | Cyan Wool | ![cyan_wool](../images/supplementaries_cyan.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -945,7 +945,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gray Wool | ![gray_wool](../images/supplementaries_gray_wool.png) |
+| 1 | Gray Wool | ![gray_wool](../images/supplementaries_gray.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -954,7 +954,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Green Wool | ![green_wool](../images/supplementaries_green_wool.png) |
+| 1 | Green Wool | ![green_wool](../images/supplementaries_green.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -963,7 +963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Light Blue Wool | ![light_blue_wool](../images/supplementaries_light_blue_wool.png) |
+| 1 | Light Blue Wool | ![light_blue_wool](../images/supplementaries_light_blue.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -972,7 +972,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Light Gray Wool | ![light_gray_wool](../images/supplementaries_light_gray_wool.png) |
+| 1 | Light Gray Wool | ![light_gray_wool](../images/supplementaries_light_gray.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -981,7 +981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Lime Wool | ![lime_wool](../images/supplementaries_lime_wool.png) |
+| 1 | Lime Wool | ![lime_wool](../images/supplementaries_lime.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -990,7 +990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Magenta Wool | ![magenta_wool](../images/supplementaries_magenta_wool.png) |
+| 1 | Magenta Wool | ![magenta_wool](../images/supplementaries_magenta.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -999,7 +999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Orange Wool | ![orange_wool](../images/supplementaries_orange_wool.png) |
+| 1 | Orange Wool | ![orange_wool](../images/supplementaries_orange.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1008,7 +1008,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Pink Wool | ![pink_wool](../images/supplementaries_pink_wool.png) |
+| 1 | Pink Wool | ![pink_wool](../images/supplementaries_pink.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1017,7 +1017,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Purple Wool | ![purple_wool](../images/supplementaries_purple_wool.png) |
+| 1 | Purple Wool | ![purple_wool](../images/supplementaries_present_bottom_purple.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1026,7 +1026,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Red Wool | ![red_wool](../images/supplementaries_red_wool.png) |
+| 1 | Red Wool | ![red_wool](../images/supplementaries_present_bottom_red.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1035,7 +1035,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | White Wool | ![white_wool](../images/supplementaries_white_wool.png) |
+| 1 | White Wool | ![white_wool](../images/supplementaries_blackboard_white.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1044,7 +1044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Yellow Wool | ![yellow_wool](../images/supplementaries_yellow_wool.png) |
+| 1 | Yellow Wool | ![yellow_wool](../images/supplementaries_present_bottom_yellow.png) |
 | 2 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1069,7 +1069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Flint | ![flint](../images/supplementaries_flint.png) |
+| 0 | Flint | ![flint](../images/supplementaries_flint_block.png) |
 
 ---
 ## Flint
@@ -1085,8 +1085,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
-| 0 | Dirt | ![dirt](../images/supplementaries_dirt.png) |
+| 1 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
+| 0 | Dirt | ![dirt](../images/supplementaries_dirt_moist.png) |
 
 ---
 ## Flute
@@ -1094,7 +1094,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Bamboo | ![bamboo](../images/supplementaries_bamboo.png) |
+| 1 | Bamboo | ![bamboo](../images/supplementaries_bamboo_spikes.png) |
 
 ---
 ## Fodder
@@ -1102,7 +1102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hay Block | ![hay_block](../images/supplementaries_hay_block.png) |
+| - | Hay Block | ![hay_block](../images/supplementaries_bubble_block.png) |
 | - | Flax Block | ![flax_block](../images/supplementaries_flax_block.png) |
 
 ---
@@ -1129,8 +1129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 0 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Gold Door
@@ -1138,7 +1138,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_ingot.png) |
+| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_door.png) |
 
 ---
 ## Gold Gate
@@ -1146,8 +1146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gold Nugget | ![gold_nugget](../images/supplementaries_gold_nugget.png) |
-| 0 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_ingot.png) |
+| 1 | Gold Nugget | ![gold_nugget](../images/supplementaries_gold_door.png) |
+| 0 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_door.png) |
 
 ---
 ## Gold Trapdoor
@@ -1155,7 +1155,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_ingot.png) |
+| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_door.png) |
 
 ---
 ## Hanging Sign Acacia
@@ -1163,8 +1163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Acacia Planks | ![acacia_planks](../images/supplementaries_acacia_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Acacia Planks | ![acacia_planks](../images/supplementaries_hanging_sign_acacia.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1173,8 +1173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Birch Planks | ![birch_planks](../images/supplementaries_birch_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Birch Planks | ![birch_planks](../images/supplementaries_hanging_sign_birch.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1183,8 +1183,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Crimson Planks | ![crimson_planks](../images/supplementaries_crimson_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Crimson Planks | ![crimson_planks](../images/supplementaries_crimson_lantern.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1193,8 +1193,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Dark Oak Planks | ![dark_oak_planks](../images/supplementaries_dark_oak_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Dark Oak Planks | ![dark_oak_planks](../images/supplementaries_hanging_sign_dark_oak.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1203,8 +1203,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Jungle Planks | ![jungle_planks](../images/supplementaries_jungle_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Jungle Planks | ![jungle_planks](../images/supplementaries_hanging_sign_jungle.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1213,8 +1213,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Mangrove Planks | ![mangrove_planks](../images/supplementaries_mangrove_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Mangrove Planks | ![mangrove_planks](../images/supplementaries_hanging_sign_mangrove.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1223,9 +1223,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
-| 2 | Oak Planks | ![oak_planks](../images/supplementaries_oak_planks.png) |
+| 2 | Oak Planks | ![oak_planks](../images/supplementaries_hanging_sign_dark_oak.png) |
 
 ---
 ## Hanging Sign Spruce
@@ -1233,8 +1233,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Spruce Planks | ![spruce_planks](../images/supplementaries_spruce_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Spruce Planks | ![spruce_planks](../images/supplementaries_hanging_sign_spruce.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1243,8 +1243,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 2 | Warped Planks | ![warped_planks](../images/supplementaries_warped_planks.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Warped Planks | ![warped_planks](../images/supplementaries_hanging_sign_warped.png) |
 | 3 | Stick | ![stick](../images/supplementaries_stick.png) |
 
 ---
@@ -1253,8 +1253,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Glass | ![glass](../images/supplementaries_glass.png) |
-| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_ingot.png) |
+| 0 | Glass | ![glass](../images/supplementaries_altimeter.png) |
+| 1 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_door.png) |
 
 ---
 ## Iron Gate
@@ -1262,8 +1262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
-| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| 1 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## {}
@@ -1278,7 +1278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
+| 0 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
 
 ---
 ## Jar
@@ -1286,8 +1286,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
-| 2 | Glass | ![glass](../images/supplementaries_glass.png) |
+| 1 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
+| 2 | Glass | ![glass](../images/supplementaries_altimeter.png) |
 
 ---
 ## Key
@@ -1295,8 +1295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_ingot.png) |
-| 1 | Gold Nugget | ![gold_nugget](../images/supplementaries_gold_nugget.png) |
+| 0 | Gold Ingot | ![gold_ingot](../images/supplementaries_gold_door.png) |
+| 1 | Gold Nugget | ![gold_nugget](../images/supplementaries_gold_door.png) |
 
 ---
 ## Lapis Bricks
@@ -1304,7 +1304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lapis Lazuli | ![lapis_lazuli](../images/supplementaries_lapis_lazuli.png) |
+| # | Lapis Lazuli | ![lapis_lazuli](../images/supplementaries_lapis_bricks.png) |
 
 ---
 ## Lapis Bricks Vertical Slab
@@ -1320,7 +1320,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapis Bricks Vertical Slab | ![lapis_bricks_vertical_slab](../images/supplementaries_lapis_bricks_vertical_slab.png) |
+| - | Lapis Bricks Vertical Slab | ![lapis_bricks_vertical_slab](../images/supplementaries_lapis_bricks.png) |
 
 ---
 ## Lapis Bricks Slab
@@ -1344,7 +1344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapis Bricks Vertical Slab | ![lapis_bricks_vertical_slab](../images/supplementaries_lapis_bricks_vertical_slab.png) |
+| - | Lapis Bricks Vertical Slab | ![lapis_bricks_vertical_slab](../images/supplementaries_lapis_bricks.png) |
 
 ---
 ## Lapis Bricks Stairs
@@ -1393,7 +1393,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Ingots/Lead | ![ingots/lead](../images/supplementaries_ingots/lead.png) |
-| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_powder.png) |
+| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_rod.png) |
 
 ---
 ## Lead Trapdoor
@@ -1409,9 +1409,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 0 | Planks | ![planks](../images/supplementaries_planks.png) |
-| 2 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 0 | Planks | ![planks](../images/supplementaries_altimeter.png) |
+| 2 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
 
 ---
 ## Map
@@ -1419,7 +1419,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Filled Map | ![filled_map](../images/supplementaries_filled_map.png) |
+| - | Filled Map | ![filled_map](../images/supplementaries_antique_map.png) |
 | - | Soap | ![soap](../images/supplementaries_soap.png) |
 
 ---
@@ -1442,8 +1442,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Planks | ![planks](../images/supplementaries_planks.png) |
-| 1 | Paper | ![paper](../images/supplementaries_paper.png) |
+| 0 | Planks | ![planks](../images/supplementaries_altimeter.png) |
+| 1 | Paper | ![paper](../images/supplementaries_altimeter.png) |
 
 ---
 ## Pancake
@@ -1452,9 +1452,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Sugar | ![sugar](../images/supplementaries_sugar.png) |
-| - | Milk | ![milk](../images/supplementaries_milk.png) |
-| - | Grain | ![grain](../images/supplementaries_grain.png) |
-| - | Eggs | ![eggs](../images/supplementaries_eggs.png) |
+| - | Milk | ![milk](../images/supplementaries_altimeter.png) |
+| - | Grain | ![grain](../images/supplementaries_altimeter.png) |
+| - | Eggs | ![eggs](../images/supplementaries_altimeter.png) |
 
 ---
 ## Pedestal
@@ -1462,8 +1462,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Stone Brick Slab | ![stone_brick_slab](../images/supplementaries_stone_brick_slab.png) |
-| 2 | Stone Bricks | ![stone_bricks](../images/supplementaries_stone_bricks.png) |
+| 1 | Stone Brick Slab | ![stone_brick_slab](../images/supplementaries_ash_brick.png) |
+| 2 | Stone Bricks | ![stone_bricks](../images/supplementaries_ash_bricks.png) |
 
 ---
 ## Piston
@@ -1471,7 +1471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sticky Piston | ![sticky_piston](../images/supplementaries_sticky_piston.png) |
+| - | Sticky Piston | ![sticky_piston](../images/supplementaries_altimeter.png) |
 | - | Soap | ![soap](../images/supplementaries_soap.png) |
 
 ---
@@ -1480,9 +1480,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Brick | ![brick](../images/supplementaries_brick.png) |
-| 1 | Bone Meal | ![bone_meal](../images/supplementaries_bone_meal.png) |
-| 2 | Dirt | ![dirt](../images/supplementaries_dirt.png) |
+| 0 | Brick | ![brick](../images/supplementaries_ash_brick.png) |
+| 1 | Bone Meal | ![bone_meal](../images/supplementaries_altimeter.png) |
+| 2 | Dirt | ![dirt](../images/supplementaries_dirt_moist.png) |
 
 ---
 ## Planter Rich
@@ -1490,9 +1490,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Brick | ![brick](../images/supplementaries_brick.png) |
-| 0 | Bone Meal | ![bone_meal](../images/supplementaries_bone_meal.png) |
-| 2 | Rich Soil | ![rich_soil](../images/supplementaries_rich_soil.png) |
+| 1 | Brick | ![brick](../images/supplementaries_ash_brick.png) |
+| 0 | Bone Meal | ![bone_meal](../images/supplementaries_altimeter.png) |
+| 2 | Rich Soil | ![rich_soil](../images/supplementaries_altimeter.png) |
 
 ---
 ## Planter Rich Soul
@@ -1500,9 +1500,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Nether Brick | ![nether_brick](../images/supplementaries_nether_brick.png) |
-| 0 | Bone Meal | ![bone_meal](../images/supplementaries_bone_meal.png) |
-| 2 | Rich Soul Soil | ![rich_soul_soil](../images/supplementaries_rich_soul_soil.png) |
+| 1 | Nether Brick | ![nether_brick](../images/supplementaries_ash_brick.png) |
+| 0 | Bone Meal | ![bone_meal](../images/supplementaries_altimeter.png) |
+| 2 | Rich Soul Soil | ![rich_soul_soil](../images/supplementaries_planter_bottom_soul.png) |
 
 ---
 ## Present
@@ -1510,7 +1510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Paper | ![paper](../images/supplementaries_paper.png) |
+| 0 | Paper | ![paper](../images/supplementaries_altimeter.png) |
 
 ---
 ## {}
@@ -1525,9 +1525,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Planks | ![planks](../images/supplementaries_planks.png) |
-| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 2 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
+| 1 | Planks | ![planks](../images/supplementaries_altimeter.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
 
 ---
 ##  2}]
@@ -1535,7 +1535,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saddle | ![saddle](../images/supplementaries_saddle.png) |
+| - | Saddle | ![saddle](../images/supplementaries_altimeter.png) |
 
 ---
 ## Redstone Illuminator
@@ -1543,11 +1543,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
-| 3 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
-| 4 | Sea Lantern | ![sea_lantern](../images/supplementaries_sea_lantern.png) |
-| 5 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
-| 7 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
+| 1 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
+| 3 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
+| 4 | Sea Lantern | ![sea_lantern](../images/supplementaries_brass_lantern.png) |
+| 5 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
+| 7 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
 
 ---
 ## Relayer
@@ -1555,9 +1555,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone | ![redstone](../images/supplementaries_redstone.png) |
-| 1 | Cobblestone | ![cobblestone](../images/supplementaries_cobblestone.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
+| # | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
+| 1 | Cobblestone | ![cobblestone](../images/supplementaries_altimeter.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Rope
@@ -1573,7 +1573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | String | ![string](../images/supplementaries_string.png) |
+| 1 | String | ![string](../images/supplementaries_altimeter.png) |
 
 ---
 ## {}
@@ -1596,7 +1596,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Crops/Flax | ![crops/flax](../images/supplementaries_crops/flax.png) |
-| 2 | String | ![string](../images/supplementaries_string.png) |
+| 2 | String | ![string](../images/supplementaries_altimeter.png) |
 
 ---
 ## Sack
@@ -1604,8 +1604,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Wheat | ![wheat](../images/supplementaries_wheat.png) |
-| 2 | String | ![string](../images/supplementaries_string.png) |
+| 1 | Wheat | ![wheat](../images/supplementaries_altimeter.png) |
+| 2 | String | ![string](../images/supplementaries_altimeter.png) |
 
 ---
 ## Safe
@@ -1620,8 +1620,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Torch | ![torch](../images/supplementaries_torch.png) |
-| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 1 | Torch | ![torch](../images/supplementaries_altimeter.png) |
+| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Sconce Ender
@@ -1629,8 +1629,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Ender Torch | ![ender_torch](../images/supplementaries_ender_torch.png) |
-| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 1 | Ender Torch | ![ender_torch](../images/supplementaries_sconce_ender.png) |
+| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Sconce Glow
@@ -1638,8 +1638,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Glow Torch | ![glow_torch](../images/supplementaries_glow_torch.png) |
-| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 1 | Glow Torch | ![glow_torch](../images/supplementaries_sconce_fire_glow.png) |
+| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Sconce Green
@@ -1647,8 +1647,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Cupric Torch | ![cupric_torch](../images/supplementaries_cupric_torch.png) |
-| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 1 | Cupric Torch | ![cupric_torch](../images/supplementaries_altimeter.png) |
+| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## {}
@@ -1665,7 +1665,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Sconce | ![sconce](../images/supplementaries_sconce.png) |
-| 2 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
+| 2 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
 
 ---
 ## Sconce Nether Brass
@@ -1673,8 +1673,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Nether Brass Torch | ![nether_brass_torch](../images/supplementaries_nether_brass_torch.png) |
-| 2 | Nether Brass Nugget | ![nether_brass_nugget](../images/supplementaries_nether_brass_nugget.png) |
+| 1 | Nether Brass Torch | ![nether_brass_torch](../images/supplementaries_sconce_fire_nether_brass.png) |
+| 2 | Nether Brass Nugget | ![nether_brass_nugget](../images/supplementaries_sconce_fire_nether_brass.png) |
 
 ---
 ## Sconce Soul
@@ -1682,8 +1682,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Soul Torch | ![soul_torch](../images/supplementaries_soul_torch.png) |
-| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_nugget.png) |
+| 1 | Soul Torch | ![soul_torch](../images/supplementaries_planter_bottom_soul.png) |
+| 2 | Iron Nugget | ![iron_nugget](../images/supplementaries_iron_gate_bottom.png) |
 
 ---
 ## Sign Post Acacia
@@ -1691,7 +1691,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Sign | ![acacia_sign](../images/supplementaries_acacia_sign.png) |
+| - | Acacia Sign | ![acacia_sign](../images/supplementaries_hanging_sign_acacia.png) |
 
 ---
 ## Sign Post Birch
@@ -1699,7 +1699,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Sign | ![birch_sign](../images/supplementaries_birch_sign.png) |
+| - | Birch Sign | ![birch_sign](../images/supplementaries_hanging_sign_birch.png) |
 
 ---
 ## Sign Post Crimson
@@ -1707,7 +1707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Sign | ![crimson_sign](../images/supplementaries_crimson_sign.png) |
+| - | Crimson Sign | ![crimson_sign](../images/supplementaries_hanging_sign_crimson.png) |
 
 ---
 ## Sign Post Dark Oak
@@ -1715,7 +1715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Sign | ![dark_oak_sign](../images/supplementaries_dark_oak_sign.png) |
+| - | Dark Oak Sign | ![dark_oak_sign](../images/supplementaries_hanging_sign_dark_oak.png) |
 
 ---
 ## Sign Post Jungle
@@ -1723,7 +1723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Sign | ![jungle_sign](../images/supplementaries_jungle_sign.png) |
+| - | Jungle Sign | ![jungle_sign](../images/supplementaries_hanging_sign_jungle.png) |
 
 ---
 ## Sign Post Mangrove
@@ -1731,7 +1731,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Sign | ![mangrove_sign](../images/supplementaries_mangrove_sign.png) |
+| - | Mangrove Sign | ![mangrove_sign](../images/supplementaries_hanging_sign_mangrove.png) |
 
 ---
 ## Sign Post Oak
@@ -1739,7 +1739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Sign | ![oak_sign](../images/supplementaries_oak_sign.png) |
+| - | Oak Sign | ![oak_sign](../images/supplementaries_hanging_sign_dark_oak.png) |
 
 ---
 ## Sign Post Spruce
@@ -1747,7 +1747,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Sign | ![spruce_sign](../images/supplementaries_spruce_sign.png) |
+| - | Spruce Sign | ![spruce_sign](../images/supplementaries_hanging_sign_spruce.png) |
 
 ---
 ## Sign Post Warped
@@ -1755,7 +1755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Sign | ![warped_sign](../images/supplementaries_warped_sign.png) |
+| - | Warped Sign | ![warped_sign](../images/supplementaries_hanging_sign_warped.png) |
 
 ---
 ## Silver Door
@@ -1772,7 +1772,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Ingots/Silver | ![ingots/silver](../images/supplementaries_ingots/silver.png) |
-| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_powder.png) |
+| 2 | Blaze Powder | ![blaze_powder](../images/supplementaries_blaze_rod.png) |
 
 ---
 ## Silver Trapdoor
@@ -1788,8 +1788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Altimeters | ![altimeters](../images/supplementaries_altimeters.png) |
-| - | Map | ![map](../images/supplementaries_map.png) |
+| - | Altimeters | ![altimeters](../images/supplementaries_altimeter.png) |
+| - | Map | ![map](../images/supplementaries_antique_map.png) |
 
 ---
 ## Slingshot
@@ -1798,9 +1798,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Rods/Wooden | ![rods/wooden](../images/supplementaries_rods/wooden.png) |
-| 2 | Rabbit Hide | ![rabbit_hide](../images/supplementaries_rabbit_hide.png) |
-| 3 | String | ![string](../images/supplementaries_string.png) |
-| 0 | Slime Ball | ![slime_ball](../images/supplementaries_slime_ball.png) |
+| 2 | Rabbit Hide | ![rabbit_hide](../images/supplementaries_altimeter.png) |
+| 3 | String | ![string](../images/supplementaries_altimeter.png) |
+| 0 | Slime Ball | ![slime_ball](../images/supplementaries_altimeter.png) |
 
 ---
 ## Soap
@@ -1808,12 +1808,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Water Bucket | ![water_bucket](../images/supplementaries_water_bucket.png) |
+| - | Water Bucket | ![water_bucket](../images/supplementaries_altimeter.png) |
 | - | Ash | ![ash](../images/supplementaries_ash.png) |
 | - | Ash | ![ash](../images/supplementaries_ash.png) |
 | - | Ash | ![ash](../images/supplementaries_ash.png) |
 | - | Ash | ![ash](../images/supplementaries_ash.png) |
-| - | Porkchop | ![porkchop](../images/supplementaries_porkchop.png) |
+| - | Porkchop | ![porkchop](../images/supplementaries_altimeter.png) |
 
 ---
 ## Soap Block
@@ -1837,8 +1837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Planks | ![planks](../images/supplementaries_planks.png) |
-| 1 | Emerald | ![emerald](../images/supplementaries_emerald.png) |
+| 0 | Planks | ![planks](../images/supplementaries_altimeter.png) |
+| 1 | Emerald | ![emerald](../images/supplementaries_altimeter.png) |
 
 ---
 ## Bamboo Spikes
@@ -1855,9 +1855,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Shrapnel Bomb | ![shrapnel_bomb](../images/supplementaries_shrapnel_bomb.png) |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 2 | String | ![string](../images/supplementaries_string.png) |
+| 0 | Shrapnel Bomb | ![shrapnel_bomb](../images/supplementaries_bomb.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 2 | String | ![string](../images/supplementaries_altimeter.png) |
 
 ---
 ## Bomb Spiky
@@ -1865,9 +1865,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tnt | ![tnt](../images/supplementaries_tnt.png) |
+| 0 | Tnt | ![tnt](../images/supplementaries_altimeter.png) |
 | 1 | Ingots/Lead | ![ingots/lead](../images/supplementaries_ingots/lead.png) |
-| 2 | String | ![string](../images/supplementaries_string.png) |
+| 2 | String | ![string](../images/supplementaries_altimeter.png) |
 
 ---
 ## Spring Launcher
@@ -1875,10 +1875,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 1 | Slime Block | ![slime_block](../images/supplementaries_slime_block.png) |
-| 2 | Sticky Piston | ![sticky_piston](../images/supplementaries_sticky_piston.png) |
-| 3 | Gunpowder | ![gunpowder](../images/supplementaries_gunpowder.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 1 | Slime Block | ![slime_block](../images/supplementaries_bubble_block.png) |
+| 2 | Sticky Piston | ![sticky_piston](../images/supplementaries_altimeter.png) |
+| 3 | Gunpowder | ![gunpowder](../images/supplementaries_gunpowder_dot.png) |
 
 ---
 ## Statue
@@ -1886,8 +1886,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Clay | ![clay](../images/supplementaries_clay.png) |
-| 2 | Smooth Stone Slab | ![smooth_stone_slab](../images/supplementaries_smooth_stone_slab.png) |
+| 1 | Clay | ![clay](../images/supplementaries_altimeter.png) |
+| 2 | Smooth Stone Slab | ![smooth_stone_slab](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Lamp
@@ -1895,8 +1895,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Stone | ![stone](../images/supplementaries_stone.png) |
-| 1 | Shroomlight | ![shroomlight](../images/supplementaries_shroomlight.png) |
+| 0 | Stone | ![stone](../images/supplementaries_end_stone_lamp_a.png) |
+| 1 | Shroomlight | ![shroomlight](../images/supplementaries_altimeter.png) |
 
 ---
 ## Stone Tile
@@ -1904,7 +1904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/supplementaries_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/supplementaries_ash_bricks.png) |
 
 ---
 ## Stone Tile Slab
@@ -1912,7 +1912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Tile | ![stone_tile](../images/supplementaries_stone_tile.png) |
+| item | Stone Tile | ![stone_tile](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Slab
@@ -1920,7 +1920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Tile Vertical Slab | ![stone_tile_vertical_slab](../images/supplementaries_stone_tile_vertical_slab.png) |
+| - | Stone Tile Vertical Slab | ![stone_tile_vertical_slab](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Stairs
@@ -1928,7 +1928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Tile | ![stone_tile](../images/supplementaries_stone_tile.png) |
+| # | Stone Tile | ![stone_tile](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Stairs
@@ -1936,7 +1936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Tile | ![stone_tile](../images/supplementaries_stone_tile.png) |
+| item | Stone Tile | ![stone_tile](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Vertical Slab
@@ -1944,7 +1944,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Tile | ![stone_tile](../images/supplementaries_stone_tile.png) |
+| item | Stone Tile | ![stone_tile](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Slab
@@ -1952,7 +1952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Tile Vertical Slab | ![stone_tile_vertical_slab](../images/supplementaries_stone_tile_vertical_slab.png) |
+| - | Stone Tile Vertical Slab | ![stone_tile_vertical_slab](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Wall
@@ -1960,7 +1960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Tile | ![stone_tile](../images/supplementaries_stone_tile.png) |
+| # | Stone Tile | ![stone_tile](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## Stone Tile Wall
@@ -1968,7 +1968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Tile | ![stone_tile](../images/supplementaries_stone_tile.png) |
+| item | Stone Tile | ![stone_tile](../images/supplementaries_end_stone_lamp_a.png) |
 
 ---
 ## White Stool
@@ -1977,7 +1977,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Feather Block | ![feather_block](../images/supplementaries_feather_block.png) |
-| 1 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_wooden_slabs.png) |
+| 1 | Wooden Slabs | ![wooden_slabs](../images/supplementaries_altimeter.png) |
 
 ---
 ## String
@@ -2001,7 +2001,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sugar Cube | ![sugar_cube](../images/supplementaries_sugar_cube.png) |
+| 0 | Sugar Cube | ![sugar_cube](../images/supplementaries_sugar.png) |
 
 ---
 ## Timber Brace
@@ -2055,10 +2055,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Planks | ![planks](../images/supplementaries_planks.png) |
-| 3 | Cobblestone | ![cobblestone](../images/supplementaries_cobblestone.png) |
-| 4 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_ingot.png) |
-| 7 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
+| 0 | Planks | ![planks](../images/supplementaries_altimeter.png) |
+| 3 | Cobblestone | ![cobblestone](../images/supplementaries_altimeter.png) |
+| 4 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_lantern.png) |
+| 7 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
 
 ---
 ## Wind Vane
@@ -2066,9 +2066,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_ingot.png) |
-| 4 | Iron Bars | ![iron_bars](../images/supplementaries_iron_bars.png) |
-| 7 | Redstone | ![redstone](../images/supplementaries_redstone.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/supplementaries_iron_gate_bottom.png) |
+| 4 | Iron Bars | ![iron_bars](../images/supplementaries_iron_gate_bottom.png) |
+| 7 | Redstone | ![redstone](../images/supplementaries_hourglass_redstone.png) |
 
 ---
 ## Wrench
@@ -2076,6 +2076,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_ingot.png) |
+| 1 | Copper Ingot | ![copper_ingot](../images/supplementaries_copper_lantern.png) |
 
 ---

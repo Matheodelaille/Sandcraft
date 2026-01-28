@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/gravestone_cobblestone.png) |
-| D | Dirt | ![dirt](../images/gravestone_dirt.png) |
+| C | Cobblestone | ![cobblestone](../images/gravestone_gravestone.png) |
+| D | Dirt | ![dirt](../images/gravestone_gravestone.png) |
 
 ---

@@ -368,9 +368,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grain | ![grain](../images/pamhc2crops_grain.png) |
-| - | Grain | ![grain](../images/pamhc2crops_grain.png) |
-| - | Grain | ![grain](../images/pamhc2crops_grain.png) |
+| - | Grain | ![grain](../images/pamhc2crops_agaveitem.png) |
+| - | Grain | ![grain](../images/pamhc2crops_agaveitem.png) |
+| - | Grain | ![grain](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Broccoliseeditem
@@ -410,8 +410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cactus Plants | ![cactus_plants](../images/pamhc2crops_cactus_plants.png) |
-| - | Cactus Plants | ![cactus_plants](../images/pamhc2crops_cactus_plants.png) |
+| - | Cactus Plants | ![cactus_plants](../images/pamhc2crops_agaveitem.png) |
+| - | Cactus Plants | ![cactus_plants](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Calabashseeditem
@@ -523,7 +523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tool Roller | ![tool_roller](../images/pamhc2crops_tool_roller.png) |
+| - | Tool Roller | ![tool_roller](../images/pamhc2crops_agaveitem.png) |
 | - | Canolaitem | ![canolaitem](../images/pamhc2crops_canolaitem.png) |
 | - | Canolaitem | ![canolaitem](../images/pamhc2crops_canolaitem.png) |
 
@@ -861,8 +861,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper Plants | ![paper_plants](../images/pamhc2crops_paper_plants.png) |
-| - | Paper Plants | ![paper_plants](../images/pamhc2crops_paper_plants.png) |
+| - | Paper Plants | ![paper_plants](../images/pamhc2crops_agaveitem.png) |
+| - | Paper Plants | ![paper_plants](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Papyrusseeditem
@@ -1022,7 +1022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/pamhc2crops_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Roastedmushroomitem
@@ -1030,7 +1030,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/pamhc2crops_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Roastedmushroomitem
@@ -1038,7 +1038,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/pamhc2crops_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Roastedonionitem
@@ -1265,8 +1265,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fiber | ![fiber](../images/pamhc2crops_fiber.png) |
-| - | Fiber | ![fiber](../images/pamhc2crops_fiber.png) |
+| - | Fiber | ![fiber](../images/pamhc2crops_agaveitem.png) |
+| - | Fiber | ![fiber](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Sugar
@@ -1323,7 +1323,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cookingoilitem | ![cookingoilitem](../images/pamhc2crops_cookingoilitem.png) |
+| - | Cookingoilitem | ![cookingoilitem](../images/pamhc2crops_agaveitem.png) |
 | - | Cattailitem | ![cattailitem](../images/pamhc2crops_cattailitem.png) |
 
 ---
@@ -1357,7 +1357,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Barrelcactusitem | ![barrelcactusitem](../images/pamhc2crops_barrelcactusitem.png) |
-| - | Bucket | ![bucket](../images/pamhc2crops_bucket.png) |
+| - | Bucket | ![bucket](../images/pamhc2crops_agaveitem.png) |
 
 ---
 ## Whitemushroomseeditem

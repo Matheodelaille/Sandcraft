@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/chimes_iron_ingot.png) |
-| / | String | ![string](../images/chimes_string.png) |
-| & | Amethyst Shard | ![amethyst_shard](../images/chimes_amethyst_shard.png) |
+| # | Iron Ingot | ![iron_ingot](../images/chimes_amethyst_chimes.png) |
+| / | String | ![string](../images/chimes_amethyst_chimes.png) |
+| & | Amethyst Shard | ![amethyst_shard](../images/chimes_amethyst_chimes.png) |
 
 ---
 ## Bamboo Chimes
@@ -17,9 +17,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wooden Slabs | ![wooden_slabs](../images/chimes_wooden_slabs.png) |
-| / | String | ![string](../images/chimes_string.png) |
-| & | Bamboo | ![bamboo](../images/chimes_bamboo.png) |
+| # | Wooden Slabs | ![wooden_slabs](../images/chimes_amethyst_chimes.png) |
+| / | String | ![string](../images/chimes_amethyst_chimes.png) |
+| & | Bamboo | ![bamboo](../images/chimes_bamboo_chimes.png) |
 
 ---
 ## Copper Chimes
@@ -27,9 +27,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wooden Slabs | ![wooden_slabs](../images/chimes_wooden_slabs.png) |
-| / | String | ![string](../images/chimes_string.png) |
-| & | Copper Ingot | ![copper_ingot](../images/chimes_copper_ingot.png) |
+| # | Wooden Slabs | ![wooden_slabs](../images/chimes_amethyst_chimes.png) |
+| / | String | ![string](../images/chimes_amethyst_chimes.png) |
+| & | Copper Ingot | ![copper_ingot](../images/chimes_chimes_copper.png) |
 
 ---
 ## Glass Bells
@@ -37,9 +37,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | String | ![string](../images/chimes_string.png) |
-| & | Glass Bottle | ![glass_bottle](../images/chimes_glass_bottle.png) |
-| ! | Paper | ![paper](../images/chimes_paper.png) |
+| # | String | ![string](../images/chimes_amethyst_chimes.png) |
+| & | Glass Bottle | ![glass_bottle](../images/chimes_bell_glass.png) |
+| ! | Paper | ![paper](../images/chimes_amethyst_chimes.png) |
 
 ---
 ## {}
@@ -54,8 +54,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wooden Slabs | ![wooden_slabs](../images/chimes_wooden_slabs.png) |
-| / | Chain | ![chain](../images/chimes_chain.png) |
-| & | Iron Ingot | ![iron_ingot](../images/chimes_iron_ingot.png) |
+| # | Wooden Slabs | ![wooden_slabs](../images/chimes_amethyst_chimes.png) |
+| / | Chain | ![chain](../images/chimes_amethyst_chimes.png) |
+| & | Iron Ingot | ![iron_ingot](../images/chimes_amethyst_chimes.png) |
 
 ---

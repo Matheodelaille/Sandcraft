@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/another_acacia_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Acacia Slab | ![acacia_slab](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Acacia Chair
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/another_acacia_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Acacia Planks | ![acacia_planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Acacia Drawer
@@ -25,9 +25,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/another_acacia_planks.png) |
-| S | Acacia Slab | ![acacia_slab](../images/another_acacia_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Acacia Planks | ![acacia_planks](../images/another_furniture_acacia.png) |
+| S | Acacia Slab | ![acacia_slab](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Acacia Planter Box
@@ -35,9 +35,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/another_acacia_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Acacia Slab | ![acacia_slab](../images/another_acacia_slab.png) |
+| # | Acacia Planks | ![acacia_planks](../images/another_furniture_acacia.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Acacia Slab | ![acacia_slab](../images/another_furniture_acacia.png) |
 
 ---
 ## Acacia Shelf
@@ -45,8 +45,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/another_acacia_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Acacia Planks | ![acacia_planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Acacia Shutter
@@ -54,7 +54,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/another_acacia_slab.png) |
+| S | Acacia Slab | ![acacia_slab](../images/another_furniture_acacia.png) |
 
 ---
 ## Acacia Table
@@ -62,8 +62,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/another_acacia_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Acacia Planks | ![acacia_planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Birch Bench
@@ -71,8 +71,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/another_birch_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Birch Slab | ![birch_slab](../images/another_furniture_birch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Birch Chair
@@ -80,8 +80,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/another_birch_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Birch Planks | ![birch_planks](../images/another_furniture_birch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Birch Drawer
@@ -89,9 +89,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/another_birch_planks.png) |
-| S | Birch Slab | ![birch_slab](../images/another_birch_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Birch Planks | ![birch_planks](../images/another_furniture_birch.png) |
+| S | Birch Slab | ![birch_slab](../images/another_furniture_birch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Birch Planter Box
@@ -99,9 +99,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/another_birch_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Birch Slab | ![birch_slab](../images/another_birch_slab.png) |
+| # | Birch Planks | ![birch_planks](../images/another_furniture_birch.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Birch Slab | ![birch_slab](../images/another_furniture_birch.png) |
 
 ---
 ## Birch Shelf
@@ -109,8 +109,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/another_birch_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Birch Planks | ![birch_planks](../images/another_furniture_birch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Birch Shutter
@@ -118,7 +118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/another_birch_slab.png) |
+| S | Birch Slab | ![birch_slab](../images/another_furniture_birch.png) |
 
 ---
 ## Birch Table
@@ -126,8 +126,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/another_birch_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Birch Planks | ![birch_planks](../images/another_furniture_birch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Black Curtain
@@ -135,8 +135,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Black Wool | ![black_wool](../images/another_black_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/another_furniture_black.png) |
 
 ---
 ## Black Curtain
@@ -144,8 +144,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/another_black_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Black Dye | ![black_dye](../images/another_furniture_black.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Black Lamp
@@ -153,9 +153,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Black Wool | ![black_wool](../images/another_black_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/another_furniture_black.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Black Lamp
@@ -163,8 +163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/another_black_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Black Dye | ![black_dye](../images/another_furniture_black.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Black Sofa
@@ -172,9 +172,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Black Wool | ![black_wool](../images/another_black_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/another_furniture_black.png) |
 
 ---
 ## Black Sofa
@@ -182,8 +182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/another_black_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Black Dye | ![black_dye](../images/another_furniture_black.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Black Stool
@@ -191,9 +191,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Black Wool | ![black_wool](../images/another_black_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/another_furniture_black.png) |
 
 ---
 ## Black Stool
@@ -201,8 +201,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/another_black_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Black Dye | ![black_dye](../images/another_furniture_black.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Black Tall Stool
@@ -210,9 +210,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Black Wool | ![black_wool](../images/another_black_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/another_furniture_black.png) |
 
 ---
 ## Black Tall Stool
@@ -220,8 +220,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/another_black_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Black Dye | ![black_dye](../images/another_furniture_black.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Blue Curtain
@@ -229,8 +229,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Blue Wool | ![blue_wool](../images/another_blue_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/another_furniture_blue.png) |
 
 ---
 ## Blue Curtain
@@ -238,8 +238,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/another_blue_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Blue Dye | ![blue_dye](../images/another_furniture_blue.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Blue Lamp
@@ -247,9 +247,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Blue Wool | ![blue_wool](../images/another_blue_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/another_furniture_blue.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Blue Lamp
@@ -257,8 +257,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/another_blue_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Blue Dye | ![blue_dye](../images/another_furniture_blue.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Blue Sofa
@@ -266,9 +266,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Blue Wool | ![blue_wool](../images/another_blue_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/another_furniture_blue.png) |
 
 ---
 ## Blue Sofa
@@ -276,8 +276,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/another_blue_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Blue Dye | ![blue_dye](../images/another_furniture_blue.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Blue Stool
@@ -285,9 +285,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Blue Wool | ![blue_wool](../images/another_blue_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/another_furniture_blue.png) |
 
 ---
 ## Blue Stool
@@ -295,8 +295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/another_blue_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Blue Dye | ![blue_dye](../images/another_furniture_blue.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Blue Tall Stool
@@ -304,9 +304,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Blue Wool | ![blue_wool](../images/another_blue_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/another_furniture_blue.png) |
 
 ---
 ## Blue Tall Stool
@@ -314,8 +314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/another_blue_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Blue Dye | ![blue_dye](../images/another_furniture_blue.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Brown Curtain
@@ -323,8 +323,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Brown Wool | ![brown_wool](../images/another_brown_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/another_furniture_brown.png) |
 
 ---
 ## Brown Curtain
@@ -332,8 +332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/another_brown_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Brown Dye | ![brown_dye](../images/another_furniture_brown.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Brown Lamp
@@ -341,9 +341,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Brown Wool | ![brown_wool](../images/another_brown_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/another_furniture_brown.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Brown Lamp
@@ -351,8 +351,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/another_brown_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Brown Dye | ![brown_dye](../images/another_furniture_brown.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Brown Sofa
@@ -360,9 +360,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Brown Wool | ![brown_wool](../images/another_brown_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/another_furniture_brown.png) |
 
 ---
 ## Brown Sofa
@@ -370,8 +370,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/another_brown_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Brown Dye | ![brown_dye](../images/another_furniture_brown.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Brown Stool
@@ -379,9 +379,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Brown Wool | ![brown_wool](../images/another_brown_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/another_furniture_brown.png) |
 
 ---
 ## Brown Stool
@@ -389,8 +389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/another_brown_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Brown Dye | ![brown_dye](../images/another_furniture_brown.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Brown Tall Stool
@@ -398,9 +398,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Brown Wool | ![brown_wool](../images/another_brown_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/another_furniture_brown.png) |
 
 ---
 ## Brown Tall Stool
@@ -408,8 +408,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/another_brown_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Brown Dye | ![brown_dye](../images/another_furniture_brown.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Crimson Bench
@@ -417,8 +417,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/another_crimson_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Crimson Slab | ![crimson_slab](../images/another_furniture_crimson.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Crimson Chair
@@ -426,8 +426,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/another_crimson_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Crimson Planks | ![crimson_planks](../images/another_furniture_crimson.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Crimson Drawer
@@ -435,9 +435,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/another_crimson_planks.png) |
-| S | Crimson Slab | ![crimson_slab](../images/another_crimson_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Crimson Planks | ![crimson_planks](../images/another_furniture_crimson.png) |
+| S | Crimson Slab | ![crimson_slab](../images/another_furniture_crimson.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Crimson Planter Box
@@ -445,9 +445,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/another_crimson_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Crimson Slab | ![crimson_slab](../images/another_crimson_slab.png) |
+| # | Crimson Planks | ![crimson_planks](../images/another_furniture_crimson.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Crimson Slab | ![crimson_slab](../images/another_furniture_crimson.png) |
 
 ---
 ## Crimson Shelf
@@ -455,8 +455,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/another_crimson_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Crimson Planks | ![crimson_planks](../images/another_furniture_crimson.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Crimson Shutter
@@ -464,7 +464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/another_crimson_slab.png) |
+| S | Crimson Slab | ![crimson_slab](../images/another_furniture_crimson.png) |
 
 ---
 ## Crimson Table
@@ -472,8 +472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/another_crimson_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Crimson Planks | ![crimson_planks](../images/another_furniture_crimson.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Cyan Curtain
@@ -481,8 +481,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Cyan Wool | ![cyan_wool](../images/another_cyan_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/another_furniture_cyan.png) |
 
 ---
 ## Cyan Curtain
@@ -490,8 +490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/another_cyan_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Cyan Dye | ![cyan_dye](../images/another_furniture_cyan.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Cyan Lamp
@@ -499,9 +499,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Cyan Wool | ![cyan_wool](../images/another_cyan_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/another_furniture_cyan.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Cyan Lamp
@@ -509,8 +509,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/another_cyan_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Cyan Dye | ![cyan_dye](../images/another_furniture_cyan.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Cyan Sofa
@@ -518,9 +518,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Cyan Wool | ![cyan_wool](../images/another_cyan_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/another_furniture_cyan.png) |
 
 ---
 ## Cyan Sofa
@@ -528,8 +528,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/another_cyan_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Cyan Dye | ![cyan_dye](../images/another_furniture_cyan.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Cyan Stool
@@ -537,9 +537,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Cyan Wool | ![cyan_wool](../images/another_cyan_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/another_furniture_cyan.png) |
 
 ---
 ## Cyan Stool
@@ -547,8 +547,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/another_cyan_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Cyan Dye | ![cyan_dye](../images/another_furniture_cyan.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Cyan Tall Stool
@@ -556,9 +556,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Cyan Wool | ![cyan_wool](../images/another_cyan_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/another_furniture_cyan.png) |
 
 ---
 ## Cyan Tall Stool
@@ -566,8 +566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/another_cyan_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Cyan Dye | ![cyan_dye](../images/another_furniture_cyan.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Dark Oak Bench
@@ -575,8 +575,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/another_dark_oak_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Dark Oak Chair
@@ -584,8 +584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/another_dark_oak_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Dark Oak Drawer
@@ -593,9 +593,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/another_dark_oak_planks.png) |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/another_dark_oak_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/another_furniture_dark_oak.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Dark Oak Planter Box
@@ -603,9 +603,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/another_dark_oak_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/another_dark_oak_slab.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/another_furniture_dark_oak.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/another_furniture_dark_oak.png) |
 
 ---
 ## Dark Oak Shelf
@@ -613,8 +613,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/another_dark_oak_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Dark Oak Shutter
@@ -622,7 +622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/another_dark_oak_slab.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/another_furniture_dark_oak.png) |
 
 ---
 ## Dark Oak Table
@@ -630,8 +630,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/another_dark_oak_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Furniture Hammer
@@ -639,9 +639,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/another_wooden_slabs.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/another_furniture_acacia.png) |
 
 ---
 ## Gray Curtain
@@ -649,8 +649,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Gray Wool | ![gray_wool](../images/another_gray_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/another_furniture_gray.png) |
 
 ---
 ## Gray Curtain
@@ -658,8 +658,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/another_gray_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Gray Dye | ![gray_dye](../images/another_furniture_gray.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Gray Lamp
@@ -667,9 +667,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Gray Wool | ![gray_wool](../images/another_gray_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/another_furniture_gray.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Gray Lamp
@@ -677,8 +677,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/another_gray_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Gray Dye | ![gray_dye](../images/another_furniture_gray.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Gray Sofa
@@ -686,9 +686,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Gray Wool | ![gray_wool](../images/another_gray_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/another_furniture_gray.png) |
 
 ---
 ## Gray Sofa
@@ -696,8 +696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/another_gray_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Gray Dye | ![gray_dye](../images/another_furniture_gray.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Gray Stool
@@ -705,9 +705,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Gray Wool | ![gray_wool](../images/another_gray_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/another_furniture_gray.png) |
 
 ---
 ## Gray Stool
@@ -715,8 +715,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/another_gray_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Gray Dye | ![gray_dye](../images/another_furniture_gray.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Gray Tall Stool
@@ -724,9 +724,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Gray Wool | ![gray_wool](../images/another_gray_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/another_furniture_gray.png) |
 
 ---
 ## Gray Tall Stool
@@ -734,8 +734,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/another_gray_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Gray Dye | ![gray_dye](../images/another_furniture_gray.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Green Curtain
@@ -743,8 +743,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Green Wool | ![green_wool](../images/another_green_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/another_furniture_green.png) |
 
 ---
 ## Green Curtain
@@ -752,8 +752,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/another_green_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Green Dye | ![green_dye](../images/another_furniture_green.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Green Lamp
@@ -761,9 +761,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Green Wool | ![green_wool](../images/another_green_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/another_furniture_green.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Green Lamp
@@ -771,8 +771,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/another_green_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Green Dye | ![green_dye](../images/another_furniture_green.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Green Sofa
@@ -780,9 +780,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Green Wool | ![green_wool](../images/another_green_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/another_furniture_green.png) |
 
 ---
 ## Green Sofa
@@ -790,8 +790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/another_green_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Green Dye | ![green_dye](../images/another_furniture_green.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Green Stool
@@ -799,9 +799,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Green Wool | ![green_wool](../images/another_green_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/another_furniture_green.png) |
 
 ---
 ## Green Stool
@@ -809,8 +809,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/another_green_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Green Dye | ![green_dye](../images/another_furniture_green.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Green Tall Stool
@@ -818,9 +818,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Green Wool | ![green_wool](../images/another_green_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/another_furniture_green.png) |
 
 ---
 ## Green Tall Stool
@@ -828,8 +828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/another_green_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Green Dye | ![green_dye](../images/another_furniture_green.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Jungle Bench
@@ -837,8 +837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/another_jungle_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Jungle Slab | ![jungle_slab](../images/another_furniture_jungle.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Jungle Chair
@@ -846,8 +846,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/another_jungle_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Jungle Planks | ![jungle_planks](../images/another_furniture_jungle.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Jungle Drawer
@@ -855,9 +855,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/another_jungle_planks.png) |
-| S | Jungle Slab | ![jungle_slab](../images/another_jungle_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Jungle Planks | ![jungle_planks](../images/another_furniture_jungle.png) |
+| S | Jungle Slab | ![jungle_slab](../images/another_furniture_jungle.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Jungle Planter Box
@@ -865,9 +865,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/another_jungle_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Jungle Slab | ![jungle_slab](../images/another_jungle_slab.png) |
+| # | Jungle Planks | ![jungle_planks](../images/another_furniture_jungle.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Jungle Slab | ![jungle_slab](../images/another_furniture_jungle.png) |
 
 ---
 ## Jungle Shelf
@@ -875,8 +875,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/another_jungle_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Jungle Planks | ![jungle_planks](../images/another_furniture_jungle.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Jungle Shutter
@@ -884,7 +884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/another_jungle_slab.png) |
+| S | Jungle Slab | ![jungle_slab](../images/another_furniture_jungle.png) |
 
 ---
 ## Jungle Table
@@ -892,8 +892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/another_jungle_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Jungle Planks | ![jungle_planks](../images/another_furniture_jungle.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Light Blue Curtain
@@ -901,8 +901,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/another_light_blue_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/another_furniture_light_blue.png) |
 
 ---
 ## Light Blue Curtain
@@ -910,8 +910,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/another_light_blue_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/another_furniture_light_blue.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Light Blue Lamp
@@ -919,9 +919,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/another_light_blue_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/another_furniture_light_blue.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Light Blue Lamp
@@ -929,8 +929,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/another_light_blue_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/another_furniture_light_blue.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Light Blue Sofa
@@ -938,9 +938,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/another_light_blue_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/another_furniture_light_blue.png) |
 
 ---
 ## Light Blue Sofa
@@ -948,8 +948,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/another_light_blue_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/another_furniture_light_blue.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Light Blue Stool
@@ -957,9 +957,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/another_light_blue_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/another_furniture_light_blue.png) |
 
 ---
 ## Light Blue Stool
@@ -967,8 +967,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/another_light_blue_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/another_furniture_light_blue.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Light Blue Tall Stool
@@ -976,9 +976,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/another_light_blue_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/another_furniture_light_blue.png) |
 
 ---
 ## Light Blue Tall Stool
@@ -986,8 +986,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/another_light_blue_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/another_furniture_light_blue.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Light Gray Curtain
@@ -995,8 +995,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/another_light_gray_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/another_furniture_light_gray.png) |
 
 ---
 ## Light Gray Curtain
@@ -1004,8 +1004,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/another_light_gray_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/another_furniture_light_gray.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Light Gray Lamp
@@ -1013,9 +1013,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/another_light_gray_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/another_furniture_light_gray.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Light Gray Lamp
@@ -1023,8 +1023,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/another_light_gray_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/another_furniture_light_gray.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Light Gray Sofa
@@ -1032,9 +1032,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/another_light_gray_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/another_furniture_light_gray.png) |
 
 ---
 ## Light Gray Sofa
@@ -1042,8 +1042,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/another_light_gray_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/another_furniture_light_gray.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Light Gray Stool
@@ -1051,9 +1051,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/another_light_gray_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/another_furniture_light_gray.png) |
 
 ---
 ## Light Gray Stool
@@ -1061,8 +1061,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/another_light_gray_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/another_furniture_light_gray.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Light Gray Tall Stool
@@ -1070,9 +1070,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/another_light_gray_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/another_furniture_light_gray.png) |
 
 ---
 ## Light Gray Tall Stool
@@ -1080,8 +1080,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/another_light_gray_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/another_furniture_light_gray.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Lime Curtain
@@ -1089,8 +1089,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Lime Wool | ![lime_wool](../images/another_lime_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/another_furniture_lime.png) |
 
 ---
 ## Lime Curtain
@@ -1098,8 +1098,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/another_lime_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Lime Dye | ![lime_dye](../images/another_furniture_lime.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Lime Lamp
@@ -1107,9 +1107,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Lime Wool | ![lime_wool](../images/another_lime_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/another_furniture_lime.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Lime Lamp
@@ -1117,8 +1117,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/another_lime_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Lime Dye | ![lime_dye](../images/another_furniture_lime.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Lime Sofa
@@ -1126,9 +1126,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Lime Wool | ![lime_wool](../images/another_lime_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/another_furniture_lime.png) |
 
 ---
 ## Lime Sofa
@@ -1136,8 +1136,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/another_lime_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Lime Dye | ![lime_dye](../images/another_furniture_lime.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Lime Stool
@@ -1145,9 +1145,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Lime Wool | ![lime_wool](../images/another_lime_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/another_furniture_lime.png) |
 
 ---
 ## Lime Stool
@@ -1155,8 +1155,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/another_lime_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Lime Dye | ![lime_dye](../images/another_furniture_lime.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Lime Tall Stool
@@ -1164,9 +1164,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Lime Wool | ![lime_wool](../images/another_lime_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/another_furniture_lime.png) |
 
 ---
 ## Lime Tall Stool
@@ -1174,8 +1174,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/another_lime_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Lime Dye | ![lime_dye](../images/another_furniture_lime.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Magenta Curtain
@@ -1183,8 +1183,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Magenta Wool | ![magenta_wool](../images/another_magenta_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/another_furniture_magenta.png) |
 
 ---
 ## Magenta Curtain
@@ -1192,8 +1192,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/another_magenta_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Magenta Dye | ![magenta_dye](../images/another_furniture_magenta.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Magenta Lamp
@@ -1201,9 +1201,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Magenta Wool | ![magenta_wool](../images/another_magenta_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/another_furniture_magenta.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Magenta Lamp
@@ -1211,8 +1211,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/another_magenta_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Magenta Dye | ![magenta_dye](../images/another_furniture_magenta.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Magenta Sofa
@@ -1220,9 +1220,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Magenta Wool | ![magenta_wool](../images/another_magenta_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/another_furniture_magenta.png) |
 
 ---
 ## Magenta Sofa
@@ -1230,8 +1230,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/another_magenta_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Magenta Dye | ![magenta_dye](../images/another_furniture_magenta.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Magenta Stool
@@ -1239,9 +1239,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Magenta Wool | ![magenta_wool](../images/another_magenta_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/another_furniture_magenta.png) |
 
 ---
 ## Magenta Stool
@@ -1249,8 +1249,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/another_magenta_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Magenta Dye | ![magenta_dye](../images/another_furniture_magenta.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Magenta Tall Stool
@@ -1258,9 +1258,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Magenta Wool | ![magenta_wool](../images/another_magenta_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/another_furniture_magenta.png) |
 
 ---
 ## Magenta Tall Stool
@@ -1268,8 +1268,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/another_magenta_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Magenta Dye | ![magenta_dye](../images/another_furniture_magenta.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Mangrove Bench
@@ -1277,8 +1277,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/another_mangrove_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/another_furniture_mangrove.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Mangrove Chair
@@ -1286,8 +1286,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/another_mangrove_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/another_furniture_mangrove.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Mangrove Drawer
@@ -1295,9 +1295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/another_mangrove_planks.png) |
-| S | Mangrove Slab | ![mangrove_slab](../images/another_mangrove_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/another_furniture_mangrove.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/another_furniture_mangrove.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Mangrove Planter Box
@@ -1305,9 +1305,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/another_mangrove_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Mangrove Slab | ![mangrove_slab](../images/another_mangrove_slab.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/another_furniture_mangrove.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/another_furniture_mangrove.png) |
 
 ---
 ## Mangrove Shelf
@@ -1315,8 +1315,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/another_mangrove_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/another_furniture_mangrove.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Mangrove Shutter
@@ -1324,7 +1324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/another_mangrove_slab.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/another_furniture_mangrove.png) |
 
 ---
 ## Mangrove Table
@@ -1332,8 +1332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/another_mangrove_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/another_furniture_mangrove.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Oak Bench
@@ -1341,8 +1341,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/another_oak_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Oak Slab | ![oak_slab](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Oak Chair
@@ -1350,8 +1350,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/another_oak_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Oak Planks | ![oak_planks](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Oak Drawer
@@ -1359,9 +1359,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/another_oak_planks.png) |
-| S | Oak Slab | ![oak_slab](../images/another_oak_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Oak Planks | ![oak_planks](../images/another_furniture_dark_oak.png) |
+| S | Oak Slab | ![oak_slab](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Oak Planter Box
@@ -1369,9 +1369,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/another_oak_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Oak Slab | ![oak_slab](../images/another_oak_slab.png) |
+| # | Oak Planks | ![oak_planks](../images/another_furniture_dark_oak.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Oak Slab | ![oak_slab](../images/another_furniture_dark_oak.png) |
 
 ---
 ## Oak Shelf
@@ -1379,8 +1379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/another_oak_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Oak Planks | ![oak_planks](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Oak Shutter
@@ -1388,7 +1388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/another_oak_slab.png) |
+| S | Oak Slab | ![oak_slab](../images/another_furniture_dark_oak.png) |
 
 ---
 ## Oak Table
@@ -1396,8 +1396,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/another_oak_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Oak Planks | ![oak_planks](../images/another_furniture_dark_oak.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Orange Curtain
@@ -1405,8 +1405,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Orange Wool | ![orange_wool](../images/another_orange_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/another_furniture_orange.png) |
 
 ---
 ## Orange Curtain
@@ -1414,8 +1414,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/another_orange_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Orange Dye | ![orange_dye](../images/another_furniture_orange.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Orange Lamp
@@ -1423,9 +1423,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Orange Wool | ![orange_wool](../images/another_orange_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/another_furniture_orange.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Orange Lamp
@@ -1433,8 +1433,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/another_orange_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Orange Dye | ![orange_dye](../images/another_furniture_orange.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Orange Sofa
@@ -1442,9 +1442,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Orange Wool | ![orange_wool](../images/another_orange_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/another_furniture_orange.png) |
 
 ---
 ## Orange Sofa
@@ -1452,8 +1452,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/another_orange_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Orange Dye | ![orange_dye](../images/another_furniture_orange.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Orange Stool
@@ -1461,9 +1461,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Orange Wool | ![orange_wool](../images/another_orange_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/another_furniture_orange.png) |
 
 ---
 ## Orange Stool
@@ -1471,8 +1471,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/another_orange_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Orange Dye | ![orange_dye](../images/another_furniture_orange.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Orange Tall Stool
@@ -1480,9 +1480,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Orange Wool | ![orange_wool](../images/another_orange_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/another_furniture_orange.png) |
 
 ---
 ## Orange Tall Stool
@@ -1490,8 +1490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/another_orange_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Orange Dye | ![orange_dye](../images/another_furniture_orange.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Pink Curtain
@@ -1499,8 +1499,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Pink Wool | ![pink_wool](../images/another_pink_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/another_furniture_pink.png) |
 
 ---
 ## Pink Curtain
@@ -1508,8 +1508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/another_pink_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Pink Dye | ![pink_dye](../images/another_furniture_pink.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Pink Lamp
@@ -1517,9 +1517,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Pink Wool | ![pink_wool](../images/another_pink_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/another_furniture_pink.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Pink Lamp
@@ -1527,8 +1527,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/another_pink_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Pink Dye | ![pink_dye](../images/another_furniture_pink.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Pink Sofa
@@ -1536,9 +1536,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Pink Wool | ![pink_wool](../images/another_pink_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/another_furniture_pink.png) |
 
 ---
 ## Pink Sofa
@@ -1546,8 +1546,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/another_pink_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Pink Dye | ![pink_dye](../images/another_furniture_pink.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Pink Stool
@@ -1555,9 +1555,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Pink Wool | ![pink_wool](../images/another_pink_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/another_furniture_pink.png) |
 
 ---
 ## Pink Stool
@@ -1565,8 +1565,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/another_pink_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Pink Dye | ![pink_dye](../images/another_furniture_pink.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Pink Tall Stool
@@ -1574,9 +1574,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Pink Wool | ![pink_wool](../images/another_pink_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/another_furniture_pink.png) |
 
 ---
 ## Pink Tall Stool
@@ -1584,8 +1584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/another_pink_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Pink Dye | ![pink_dye](../images/another_furniture_pink.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Purple Curtain
@@ -1593,8 +1593,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Purple Wool | ![purple_wool](../images/another_purple_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/another_furniture_purple.png) |
 
 ---
 ## Purple Curtain
@@ -1602,8 +1602,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/another_purple_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Purple Dye | ![purple_dye](../images/another_furniture_purple.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Purple Lamp
@@ -1611,9 +1611,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Purple Wool | ![purple_wool](../images/another_purple_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/another_furniture_purple.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Purple Lamp
@@ -1621,8 +1621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/another_purple_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Purple Dye | ![purple_dye](../images/another_furniture_purple.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Purple Sofa
@@ -1630,9 +1630,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Purple Wool | ![purple_wool](../images/another_purple_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/another_furniture_purple.png) |
 
 ---
 ## Purple Sofa
@@ -1640,8 +1640,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/another_purple_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Purple Dye | ![purple_dye](../images/another_furniture_purple.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Purple Stool
@@ -1649,9 +1649,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Purple Wool | ![purple_wool](../images/another_purple_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/another_furniture_purple.png) |
 
 ---
 ## Purple Stool
@@ -1659,8 +1659,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/another_purple_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Purple Dye | ![purple_dye](../images/another_furniture_purple.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Purple Tall Stool
@@ -1668,9 +1668,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Purple Wool | ![purple_wool](../images/another_purple_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/another_furniture_purple.png) |
 
 ---
 ## Purple Tall Stool
@@ -1678,8 +1678,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/another_purple_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Purple Dye | ![purple_dye](../images/another_furniture_purple.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Red Curtain
@@ -1687,8 +1687,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Red Wool | ![red_wool](../images/another_red_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/another_furniture_red.png) |
 
 ---
 ## Red Curtain
@@ -1696,8 +1696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/another_red_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Red Dye | ![red_dye](../images/another_furniture_red.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Red Lamp
@@ -1705,9 +1705,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Red Wool | ![red_wool](../images/another_red_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/another_furniture_red.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Red Lamp
@@ -1715,8 +1715,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/another_red_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Red Dye | ![red_dye](../images/another_furniture_red.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Red Sofa
@@ -1724,9 +1724,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Red Wool | ![red_wool](../images/another_red_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/another_furniture_red.png) |
 
 ---
 ## Red Sofa
@@ -1734,8 +1734,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/another_red_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Red Dye | ![red_dye](../images/another_furniture_red.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Red Stool
@@ -1743,9 +1743,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Red Wool | ![red_wool](../images/another_red_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/another_furniture_red.png) |
 
 ---
 ## Red Stool
@@ -1753,8 +1753,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/another_red_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Red Dye | ![red_dye](../images/another_furniture_red.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Red Tall Stool
@@ -1762,9 +1762,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Red Wool | ![red_wool](../images/another_red_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/another_furniture_red.png) |
 
 ---
 ## Red Tall Stool
@@ -1772,8 +1772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/another_red_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Red Dye | ![red_dye](../images/another_furniture_red.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---
 ## Service Bell
@@ -1781,8 +1781,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Ingot | ![iron_ingot](../images/another_iron_ingot.png) |
-| N | Iron Nugget | ![iron_nugget](../images/another_iron_nugget.png) |
+| I | Iron Ingot | ![iron_ingot](../images/another_furniture_acacia.png) |
+| N | Iron Nugget | ![iron_nugget](../images/another_furniture_acacia.png) |
 
 ---
 ## Spruce Bench
@@ -1790,8 +1790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/another_spruce_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Spruce Slab | ![spruce_slab](../images/another_furniture_spruce.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Spruce Chair
@@ -1799,8 +1799,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/another_spruce_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Spruce Planks | ![spruce_planks](../images/another_furniture_spruce.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Spruce Drawer
@@ -1808,9 +1808,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/another_spruce_planks.png) |
-| S | Spruce Slab | ![spruce_slab](../images/another_spruce_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Spruce Planks | ![spruce_planks](../images/another_furniture_spruce.png) |
+| S | Spruce Slab | ![spruce_slab](../images/another_furniture_spruce.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Spruce Planter Box
@@ -1818,9 +1818,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/another_spruce_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Spruce Slab | ![spruce_slab](../images/another_spruce_slab.png) |
+| # | Spruce Planks | ![spruce_planks](../images/another_furniture_spruce.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Spruce Slab | ![spruce_slab](../images/another_furniture_spruce.png) |
 
 ---
 ## Spruce Shelf
@@ -1828,8 +1828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/another_spruce_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Spruce Planks | ![spruce_planks](../images/another_furniture_spruce.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Spruce Shutter
@@ -1837,7 +1837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/another_spruce_slab.png) |
+| S | Spruce Slab | ![spruce_slab](../images/another_furniture_spruce.png) |
 
 ---
 ## Spruce Table
@@ -1845,8 +1845,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/another_spruce_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Spruce Planks | ![spruce_planks](../images/another_furniture_spruce.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Warped Bench
@@ -1854,8 +1854,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/another_warped_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| S | Warped Slab | ![warped_slab](../images/another_furniture_warped.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Warped Chair
@@ -1863,8 +1863,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/another_warped_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Warped Planks | ![warped_planks](../images/another_furniture_warped.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Warped Drawer
@@ -1872,9 +1872,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/another_warped_planks.png) |
-| S | Warped Slab | ![warped_slab](../images/another_warped_slab.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Warped Planks | ![warped_planks](../images/another_furniture_warped.png) |
+| S | Warped Slab | ![warped_slab](../images/another_furniture_warped.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Warped Planter Box
@@ -1882,9 +1882,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/another_warped_planks.png) |
-| D | Dirt | ![dirt](../images/another_dirt.png) |
-| S | Warped Slab | ![warped_slab](../images/another_warped_slab.png) |
+| # | Warped Planks | ![warped_planks](../images/another_furniture_warped.png) |
+| D | Dirt | ![dirt](../images/another_furniture_acacia.png) |
+| S | Warped Slab | ![warped_slab](../images/another_furniture_warped.png) |
 
 ---
 ## Warped Shelf
@@ -1892,8 +1892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/another_warped_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Warped Planks | ![warped_planks](../images/another_furniture_warped.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## Warped Shutter
@@ -1901,7 +1901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/another_warped_slab.png) |
+| S | Warped Slab | ![warped_slab](../images/another_furniture_warped.png) |
 
 ---
 ## Warped Table
@@ -1909,8 +1909,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/another_warped_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
+| # | Warped Planks | ![warped_planks](../images/another_furniture_warped.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
 
 ---
 ## White Curtain
@@ -1918,8 +1918,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | White Wool | ![white_wool](../images/another_white_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/another_furniture_white.png) |
 
 ---
 ## White Lamp
@@ -1927,9 +1927,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | White Wool | ![white_wool](../images/another_white_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/another_furniture_white.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## White Sofa
@@ -1937,9 +1937,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | White Wool | ![white_wool](../images/another_white_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/another_furniture_white.png) |
 
 ---
 ## White Stool
@@ -1947,9 +1947,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | White Wool | ![white_wool](../images/another_white_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/another_furniture_white.png) |
 
 ---
 ## White Tall Stool
@@ -1957,9 +1957,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | White Wool | ![white_wool](../images/another_white_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/another_furniture_white.png) |
 
 ---
 ## Yellow Curtain
@@ -1967,8 +1967,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Yellow Wool | ![yellow_wool](../images/another_yellow_wool.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/another_furniture_yellow.png) |
 
 ---
 ## Yellow Curtain
@@ -1976,8 +1976,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/another_yellow_dye.png) |
-| - | White Curtain | ![white_curtain](../images/another_white_curtain.png) |
+| - | Yellow Dye | ![yellow_dye](../images/another_furniture_yellow.png) |
+| - | White Curtain | ![white_curtain](../images/another_furniture_white.png) |
 
 ---
 ## Yellow Lamp
@@ -1985,9 +1985,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Yellow Wool | ![yellow_wool](../images/another_yellow_wool.png) |
-| T | Torch | ![torch](../images/another_torch.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/another_furniture_yellow.png) |
+| T | Torch | ![torch](../images/another_furniture_acacia.png) |
 
 ---
 ## Yellow Lamp
@@ -1995,8 +1995,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/another_yellow_dye.png) |
-| - | White Lamp | ![white_lamp](../images/another_white_lamp.png) |
+| - | Yellow Dye | ![yellow_dye](../images/another_furniture_yellow.png) |
+| - | White Lamp | ![white_lamp](../images/another_furniture_white.png) |
 
 ---
 ## Yellow Sofa
@@ -2004,9 +2004,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Yellow Wool | ![yellow_wool](../images/another_yellow_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/another_furniture_yellow.png) |
 
 ---
 ## Yellow Sofa
@@ -2014,8 +2014,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/another_yellow_dye.png) |
-| - | White Sofa | ![white_sofa](../images/another_white_sofa.png) |
+| - | Yellow Dye | ![yellow_dye](../images/another_furniture_yellow.png) |
+| - | White Sofa | ![white_sofa](../images/another_furniture_white.png) |
 
 ---
 ## Yellow Stool
@@ -2023,9 +2023,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Yellow Wool | ![yellow_wool](../images/another_yellow_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/another_furniture_yellow.png) |
 
 ---
 ## Yellow Stool
@@ -2033,8 +2033,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/another_yellow_dye.png) |
-| - | White Stool | ![white_stool](../images/another_white_stool.png) |
+| - | Yellow Dye | ![yellow_dye](../images/another_furniture_yellow.png) |
+| - | White Stool | ![white_stool](../images/another_furniture_white.png) |
 
 ---
 ## Yellow Tall Stool
@@ -2042,9 +2042,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/another_planks.png) |
-| / | Stick | ![stick](../images/another_stick.png) |
-| W | Yellow Wool | ![yellow_wool](../images/another_yellow_wool.png) |
+| # | Planks | ![planks](../images/another_furniture_acacia.png) |
+| / | Stick | ![stick](../images/another_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/another_furniture_yellow.png) |
 
 ---
 ## Yellow Tall Stool
@@ -2052,7 +2052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/another_yellow_dye.png) |
-| - | White Tall Stool | ![white_tall_stool](../images/another_white_tall_stool.png) |
+| - | Yellow Dye | ![yellow_dye](../images/another_furniture_yellow.png) |
+| - | White Tall Stool | ![white_tall_stool](../images/another_furniture_white.png) |
 
 ---

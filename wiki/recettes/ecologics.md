@@ -23,7 +23,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ecologics_chest.png) |
+| - | Chest | ![chest](../images/ecologics_azalea_chest_boat.png) |
 | - | Azalea Boat | ![azalea_boat](../images/ecologics_azalea_boat.png) |
 
 ---
@@ -40,7 +40,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Azalea Planks | ![azalea_planks](../images/ecologics_azalea_planks.png) |
 
 ---
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Azalea Planks | ![azalea_planks](../images/ecologics_azalea_planks.png) |
 
 ---
@@ -58,7 +58,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Logs | ![azalea_logs](../images/ecologics_azalea_logs.png) |
+| - | Azalea Logs | ![azalea_logs](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Azalea Pressure Plate
@@ -75,7 +75,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Azalea Planks | ![azalea_planks](../images/ecologics_azalea_planks.png) |
-| X | Stick | ![stick](../images/ecologics_stick.png) |
+| X | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Azalea Slab
@@ -116,12 +116,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Coconut Husk | ![coconut_husk](../images/ecologics_coconut_husk.png) |
-| - | Beetroot | ![beetroot](../images/ecologics_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/ecologics_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/ecologics_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/ecologics_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/ecologics_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/ecologics_beetroot.png) |
+| - | Beetroot | ![beetroot](../images/ecologics_azalea_boat.png) |
+| - | Beetroot | ![beetroot](../images/ecologics_azalea_boat.png) |
+| - | Beetroot | ![beetroot](../images/ecologics_azalea_boat.png) |
+| - | Beetroot | ![beetroot](../images/ecologics_azalea_boat.png) |
+| - | Beetroot | ![beetroot](../images/ecologics_azalea_boat.png) |
+| - | Beetroot | ![beetroot](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Coconut Boat
@@ -145,7 +145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ecologics_chest.png) |
+| - | Chest | ![chest](../images/ecologics_azalea_chest_boat.png) |
 | - | Coconut Boat | ![coconut_boat](../images/ecologics_coconut_boat.png) |
 
 ---
@@ -162,7 +162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Coconut Planks | ![coconut_planks](../images/ecologics_coconut_planks.png) |
 
 ---
@@ -171,7 +171,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Coconut Planks | ![coconut_planks](../images/ecologics_coconut_planks.png) |
 
 ---
@@ -180,7 +180,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coconut Logs | ![coconut_logs](../images/ecologics_coconut_logs.png) |
+| - | Coconut Logs | ![coconut_logs](../images/ecologics_coconut_boat.png) |
 
 ---
 ## Coconut Pressure Plate
@@ -197,7 +197,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Coconut Planks | ![coconut_planks](../images/ecologics_coconut_planks.png) |
-| X | Stick | ![stick](../images/ecologics_stick.png) |
+| X | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Coconut Slab
@@ -293,7 +293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ecologics_chest.png) |
+| - | Chest | ![chest](../images/ecologics_azalea_chest_boat.png) |
 | - | Flowering Azalea Boat | ![flowering_azalea_boat](../images/ecologics_flowering_azalea_boat.png) |
 
 ---
@@ -310,7 +310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Flowering Azalea Planks | ![flowering_azalea_planks](../images/ecologics_flowering_azalea_planks.png) |
 
 ---
@@ -319,7 +319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Flowering Azalea Planks | ![flowering_azalea_planks](../images/ecologics_flowering_azalea_planks.png) |
 
 ---
@@ -328,7 +328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flowering Azalea Logs | ![flowering_azalea_logs](../images/ecologics_flowering_azalea_logs.png) |
+| - | Flowering Azalea Logs | ![flowering_azalea_logs](../images/ecologics_flowering_azalea_boat.png) |
 
 ---
 ## Flowering Azalea Sign
@@ -337,7 +337,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Flowering Azalea Planks | ![flowering_azalea_planks](../images/ecologics_flowering_azalea_planks.png) |
-| X | Stick | ![stick](../images/ecologics_stick.png) |
+| X | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Flowering Azalea Slab
@@ -377,7 +377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Ice | ![ice](../images/ecologics_ice.png) |
+| S | Ice | ![ice](../images/ecologics_ice_bricks.png) |
 
 ---
 ## Ice Brick Slab
@@ -433,7 +433,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Surface Moss | ![surface_moss](../images/ecologics_surface_moss.png) |
+| # | Surface Moss | ![surface_moss](../images/ecologics_surface_moss_1.png) |
 
 ---
 ## Mushroom Stew
@@ -441,8 +441,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom | ![brown_mushroom](../images/ecologics_brown_mushroom.png) |
-| - | Red Mushroom | ![red_mushroom](../images/ecologics_red_mushroom.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/ecologics_azalea_boat.png) |
+| - | Red Mushroom | ![red_mushroom](../images/ecologics_azalea_boat.png) |
 | - | Coconut Husk | ![coconut_husk](../images/ecologics_coconut_husk.png) |
 
 ---
@@ -451,7 +451,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/ecologics_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Rabbit Stew
@@ -459,11 +459,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/ecologics_baked_potato.png) |
-| - | Cooked Rabbit | ![cooked_rabbit](../images/ecologics_cooked_rabbit.png) |
+| - | Baked Potato | ![baked_potato](../images/ecologics_azalea_boat.png) |
+| - | Cooked Rabbit | ![cooked_rabbit](../images/ecologics_cooked_prickly_pear.png) |
 | - | Coconut Husk | ![coconut_husk](../images/ecologics_coconut_husk.png) |
-| - | Carrot | ![carrot](../images/ecologics_carrot.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/ecologics_brown_mushroom.png) |
+| - | Carrot | ![carrot](../images/ecologics_azalea_boat.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Rabbit Stew
@@ -471,11 +471,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/ecologics_baked_potato.png) |
-| - | Cooked Rabbit | ![cooked_rabbit](../images/ecologics_cooked_rabbit.png) |
+| - | Baked Potato | ![baked_potato](../images/ecologics_azalea_boat.png) |
+| - | Cooked Rabbit | ![cooked_rabbit](../images/ecologics_cooked_prickly_pear.png) |
 | - | Coconut Husk | ![coconut_husk](../images/ecologics_coconut_husk.png) |
-| - | Carrot | ![carrot](../images/ecologics_carrot.png) |
-| - | Red Mushroom | ![red_mushroom](../images/ecologics_red_mushroom.png) |
+| - | Carrot | ![carrot](../images/ecologics_azalea_boat.png) |
+| - | Red Mushroom | ![red_mushroom](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Sandcastle
@@ -483,9 +483,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Sand | ![sand](../images/ecologics_sand.png) |
+| A | Sand | ![sand](../images/ecologics_azalea_boat.png) |
 | B | Seashell | ![seashell](../images/ecologics_seashell.png) |
-| C | Stick | ![stick](../images/ecologics_stick.png) |
+| C | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Seashell
@@ -565,7 +565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Snow Block | ![snow_block](../images/ecologics_snow_block.png) |
+| S | Snow Block | ![snow_block](../images/ecologics_seashell_block.png) |
 
 ---
 ## Snow Brick Slab
@@ -645,7 +645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moss Block | ![moss_block](../images/ecologics_moss_block.png) |
+| - | Moss Block | ![moss_block](../images/ecologics_moss.png) |
 
 ---
 ## Tropical Stew
@@ -678,7 +678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ecologics_chest.png) |
+| - | Chest | ![chest](../images/ecologics_azalea_chest_boat.png) |
 | - | Walnut Boat | ![walnut_boat](../images/ecologics_walnut_boat.png) |
 
 ---
@@ -695,7 +695,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Walnut Planks | ![walnut_planks](../images/ecologics_walnut_planks.png) |
 
 ---
@@ -704,7 +704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ecologics_stick.png) |
+| # | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 | W | Walnut Planks | ![walnut_planks](../images/ecologics_walnut_planks.png) |
 
 ---
@@ -713,7 +713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Walnut Logs | ![walnut_logs](../images/ecologics_walnut_logs.png) |
+| - | Walnut Logs | ![walnut_logs](../images/ecologics_stripped_walnut_log.png) |
 
 ---
 ## Walnut Pressure Plate
@@ -730,7 +730,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Walnut Planks | ![walnut_planks](../images/ecologics_walnut_planks.png) |
-| X | Stick | ![stick](../images/ecologics_stick.png) |
+| X | Stick | ![stick](../images/ecologics_azalea_boat.png) |
 
 ---
 ## Walnut Slab

@@ -7,13 +7,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
-| - | Crimson Fungus | ![crimson_fungus](../images/ends_crimson_fungus.png) |
-| - | Warped Fungus | ![warped_fungus](../images/ends_warped_fungus.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/ends_delight_assorted_salad.png) |
+| - | Warped Fungus | ![warped_fungus](../images/ends_delight_assorted_salad.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/ends_crops/cabbage.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
-| - | Dragon Egg Shell | ![dragon_egg_shell](../images/ends_dragon_egg_shell.png) |
+| - | Dragon Egg Shell | ![dragon_egg_shell](../images/ends_delight_dragon_egg_shell.png) |
 
 ---
 ## Bubble Tea
@@ -21,9 +21,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk | ![milk](../images/ends_milk.png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
-| - | Ender Pearl Grain | ![ender_pearl_grain](../images/ends_ender_pearl_grain.png) |
+| - | Milk | ![milk](../images/ends_delight_chorus_fruit_milk_tea.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Ender Pearl Grain | ![ender_pearl_grain](../images/ends_delight_ender_pearl_grain.png) |
 
 ---
 ## Chorus Cookie
@@ -31,9 +31,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat | ![wheat](../images/ends_wheat.png) |
-| - | Wheat | ![wheat](../images/ends_wheat.png) |
-| - | Chorus Fruit Grain | ![chorus_fruit_grain](../images/ends_chorus_fruit_grain.png) |
+| - | Wheat | ![wheat](../images/ends_delight_assorted_salad.png) |
+| - | Wheat | ![wheat](../images/ends_delight_assorted_salad.png) |
+| - | Chorus Fruit Grain | ![chorus_fruit_grain](../images/ends_delight_chorus_fruit_grain.png) |
 
 ---
 ## Chorus Flower Pie
@@ -41,11 +41,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dough | ![dough](../images/ends_dough.png) |
-| - | Dried Chorus Flower | ![dried_chorus_flower](../images/ends_dried_chorus_flower.png) |
-| - | Dried Chorus Flower | ![dried_chorus_flower](../images/ends_dried_chorus_flower.png) |
-| - | Poppy | ![poppy](../images/ends_poppy.png) |
-| - | Sugar | ![sugar](../images/ends_sugar.png) |
+| - | Dough | ![dough](../images/ends_delight_assorted_salad.png) |
+| - | Dried Chorus Flower | ![dried_chorus_flower](../images/ends_delight_dried_chorus_flower.png) |
+| - | Dried Chorus Flower | ![dried_chorus_flower](../images/ends_delight_dried_chorus_flower.png) |
+| - | Poppy | ![poppy](../images/ends_delight_assorted_salad.png) |
+| - | Sugar | ![sugar](../images/ends_delight_assorted_salad.png) |
 
 ---
 ## Chorus Flower Tea
@@ -53,8 +53,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ghast Tear | ![ghast_tear](../images/ends_ghast_tear.png) |
-| - | Dried Chorus Flower | ![dried_chorus_flower](../images/ends_dried_chorus_flower.png) |
+| - | Ghast Tear | ![ghast_tear](../images/ends_delight_assorted_salad.png) |
+| - | Dried Chorus Flower | ![dried_chorus_flower](../images/ends_delight_dried_chorus_flower.png) |
 
 ---
 ## Chorus Fruit Crate
@@ -62,15 +62,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Chorus Fruit
@@ -78,7 +78,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit Crate | ![chorus_fruit_crate](../images/ends_chorus_fruit_crate.png) |
+| - | Chorus Fruit Crate | ![chorus_fruit_crate](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ##  4}]
@@ -86,7 +86,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Chorus Fruit Milk Tea
@@ -94,8 +94,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk | ![milk](../images/ends_milk.png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
+| - | Milk | ![milk](../images/ends_delight_chorus_fruit_milk_tea.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Chorus Fruit Pie
@@ -103,12 +103,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Pie Crust | ![pie_crust](../images/ends_pie_crust.png) |
-| 1 | Wheat | ![wheat](../images/ends_wheat.png) |
-| 2 | Poppy | ![poppy](../images/ends_poppy.png) |
-| 3 | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| 4 | Chorus Flower | ![chorus_flower](../images/ends_chorus_flower.png) |
-| 5 | Sugar | ![sugar](../images/ends_sugar.png) |
+| 0 | Pie Crust | ![pie_crust](../images/ends_delight_chorus_flower_pie.png) |
+| 1 | Wheat | ![wheat](../images/ends_delight_assorted_salad.png) |
+| 2 | Poppy | ![poppy](../images/ends_delight_assorted_salad.png) |
+| 3 | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| 4 | Chorus Flower | ![chorus_flower](../images/ends_delight_chorus_flower_pie.png) |
+| 5 | Sugar | ![sugar](../images/ends_delight_assorted_salad.png) |
 
 ---
 ##  4}]
@@ -116,7 +116,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit Pie | ![chorus_fruit_pie](../images/ends_chorus_fruit_pie.png) |
+| - | Chorus Fruit Pie | ![chorus_fruit_pie](../images/ends_delight_chorus_fruit_pie.png) |
 
 ---
 ## Chorus Fruit Popsicle
@@ -124,9 +124,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorus Fruit Grain | ![chorus_fruit_grain](../images/ends_chorus_fruit_grain.png) |
-| 1 | Ice | ![ice](../images/ends_ice.png) |
-| 2 | Stick | ![stick](../images/ends_stick.png) |
+| 0 | Chorus Fruit Grain | ![chorus_fruit_grain](../images/ends_delight_chorus_fruit_grain.png) |
+| 1 | Ice | ![ice](../images/ends_delight_assorted_salad.png) |
+| 2 | Stick | ![stick](../images/ends_delight_end_barbecue_stick.png) |
 
 ---
 ## Chorus Fruit Wine
@@ -134,9 +134,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/ends_sugar.png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
+| - | Sugar | ![sugar](../images/ends_delight_assorted_salad.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ##  1}]
@@ -144,7 +144,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Non Hatchable Dragon Egg | ![non_hatchable_dragon_egg](../images/ends_non_hatchable_dragon_egg.png) |
+| - | Non Hatchable Dragon Egg | ![non_hatchable_dragon_egg](../images/ends_delight_non_hatchable_dragon_egg.png) |
 
 ---
 ## Dragon Breath And Chorus Soup
@@ -152,11 +152,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Suspicious Stew | ![suspicious_stew](../images/ends_suspicious_stew.png) |
-| - | Dragon Breath | ![dragon_breath](../images/ends_dragon_breath.png) |
-| - | Chorus Flower | ![chorus_flower](../images/ends_chorus_flower.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
+| - | Suspicious Stew | ![suspicious_stew](../images/ends_delight_dragon_meat_stew.png) |
+| - | Dragon Breath | ![dragon_breath](../images/ends_delight_dragon_breath_and_chorus_soup.png) |
+| - | Chorus Flower | ![chorus_flower](../images/ends_delight_chorus_flower_pie.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Dragon Breath Soda
@@ -164,8 +164,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dragon Breath | ![dragon_breath](../images/ends_dragon_breath.png) |
-| - | Sugar | ![sugar](../images/ends_sugar.png) |
+| - | Dragon Breath | ![dragon_breath](../images/ends_delight_dragon_breath_and_chorus_soup.png) |
+| - | Sugar | ![sugar](../images/ends_delight_assorted_salad.png) |
 
 ---
 ## Dragon Egg Shell Knife
@@ -173,8 +173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dragon Egg Shell | ![dragon_egg_shell](../images/ends_dragon_egg_shell.png) |
-| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_popped_chorus_fruit.png) |
+| 0 | Dragon Egg Shell | ![dragon_egg_shell](../images/ends_delight_dragon_egg_shell.png) |
+| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Dragon Leg With Sauce Block
@@ -183,11 +183,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
-| 1 | Ender Sauce | ![ender_sauce](../images/ends_ender_sauce.png) |
-| 2 | Crimson Fungus | ![crimson_fungus](../images/ends_crimson_fungus.png) |
-| 3 | Smoked Dragon Leg | ![smoked_dragon_leg](../images/ends_smoked_dragon_leg.png) |
-| 4 | Warped Fungus | ![warped_fungus](../images/ends_warped_fungus.png) |
-| 5 | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
+| 1 | Ender Sauce | ![ender_sauce](../images/ends_delight_ender_sauce.png) |
+| 2 | Crimson Fungus | ![crimson_fungus](../images/ends_delight_assorted_salad.png) |
+| 3 | Smoked Dragon Leg | ![smoked_dragon_leg](../images/ends_delight_smoked_dragon_leg.png) |
+| 4 | Warped Fungus | ![warped_fungus](../images/ends_delight_assorted_salad.png) |
+| 5 | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Dragon Meat Stew Block
@@ -195,11 +195,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_raw_dragon_meat.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
-| - | Carrot | ![carrot](../images/ends_carrot.png) |
-| - | Potato | ![potato](../images/ends_potato.png) |
+| - | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_delight_raw_dragon_meat.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
+| - | Carrot | ![carrot](../images/ends_delight_assorted_salad.png) |
+| - | Potato | ![potato](../images/ends_delight_assorted_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
 
 ---
@@ -208,8 +208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dragon Tooth | ![dragon_tooth](../images/ends_dragon_tooth.png) |
-| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_popped_chorus_fruit.png) |
+| 0 | Dragon Tooth | ![dragon_tooth](../images/ends_delight_dragon_tooth.png) |
+| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Dried Chorus Flower
@@ -217,7 +217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chorus Flower | ![chorus_flower](../images/ends_chorus_flower.png) |
+| item | Chorus Flower | ![chorus_flower](../images/ends_delight_chorus_flower_pie.png) |
 
 ---
 ## Dried Endermite Meat
@@ -225,7 +225,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Ender Mite Meat | ![raw_ender_mite_meat](../images/ends_raw_ender_mite_meat.png) |
+| item | Raw Ender Mite Meat | ![raw_ender_mite_meat](../images/ends_delight_raw_ender_mite_meat.png) |
 
 ---
 ## Ender Congee
@@ -234,8 +234,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Rice | ![crops/rice](../images/ends_crops/rice.png) |
-| - | Dried Endermite Meat | ![dried_endermite_meat](../images/ends_dried_endermite_meat.png) |
-| - | Ender Pearl Grain | ![ender_pearl_grain](../images/ends_ender_pearl_grain.png) |
+| - | Dried Endermite Meat | ![dried_endermite_meat](../images/ends_delight_dried_endermite_meat.png) |
+| - | Ender Pearl Grain | ![ender_pearl_grain](../images/ends_delight_ender_pearl_grain.png) |
 
 ---
 ##  4}]
@@ -243,7 +243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/ends_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ends_delight_ender_pearl_grain.png) |
 
 ---
 ## Ender Sauce
@@ -251,8 +251,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## End Barbecue Stick
@@ -260,13 +260,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Shulker Meat | ![roasted_shulker_meat](../images/ends_roasted_shulker_meat.png) |
-| - | Roasted Dragon Meat | ![roasted_dragon_meat](../images/ends_roasted_dragon_meat.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Dried Endermite Meat | ![dried_endermite_meat](../images/ends_dried_endermite_meat.png) |
-| - | Stick | ![stick](../images/ends_stick.png) |
-| - | Stick | ![stick](../images/ends_stick.png) |
-| - | Stick | ![stick](../images/ends_stick.png) |
+| - | Roasted Shulker Meat | ![roasted_shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
+| - | Roasted Dragon Meat | ![roasted_dragon_meat](../images/ends_delight_roasted_dragon_meat.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Dried Endermite Meat | ![dried_endermite_meat](../images/ends_delight_dried_endermite_meat.png) |
+| - | Stick | ![stick](../images/ends_delight_end_barbecue_stick.png) |
+| - | Stick | ![stick](../images/ends_delight_end_barbecue_stick.png) |
+| - | Stick | ![stick](../images/ends_delight_end_barbecue_stick.png) |
 
 ---
 ## End Mixed Salad
@@ -274,12 +274,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/ends_crops/cabbage.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
-| - | Bowl | ![bowl](../images/ends_bowl.png) |
+| - | Bowl | ![bowl](../images/ends_delight_assorted_salad.png) |
 
 ---
 ## End Stone Knife
@@ -287,8 +287,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | End Stone | ![end_stone](../images/ends_end_stone.png) |
-| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_popped_chorus_fruit.png) |
+| 0 | End Stone | ![end_stone](../images/ends_delight_end_stone_knife.png) |
+| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## End Stove
@@ -296,9 +296,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_popped_chorus_fruit.png) |
-| 2 | End Stone Bricks | ![end_stone_bricks](../images/ends_end_stone_bricks.png) |
-| 3 | Campfire | ![campfire](../images/ends_campfire.png) |
+| 1 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| 2 | End Stone Bricks | ![end_stone_bricks](../images/ends_delight_end_stone_knife.png) |
+| 3 | Campfire | ![campfire](../images/ends_delight_assorted_salad.png) |
 
 ---
 ## Fried Dragon Egg
@@ -306,7 +306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_liquid_dragon_egg.png) |
+| item | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_delight_liquid_dragon_egg.png) |
 
 ---
 ## Fried Dragon Egg
@@ -314,7 +314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_liquid_dragon_egg.png) |
+| item | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_delight_liquid_dragon_egg.png) |
 
 ---
 ## Fried Dragon Egg
@@ -322,7 +322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_liquid_dragon_egg.png) |
+| item | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_delight_liquid_dragon_egg.png) |
 
 ---
 ## Grilled Shulker Block
@@ -330,12 +330,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Roasted Shulker Meat | ![roasted_shulker_meat](../images/ends_roasted_shulker_meat.png) |
-| 2 | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| 3 | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
+| 1 | Roasted Shulker Meat | ![roasted_shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
+| 2 | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| 3 | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
 | 4 | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
 | 5 | Crops/Onion | ![crops/onion](../images/ends_crops/onion.png) |
-| 6 | Shulker Shell | ![shulker_shell](../images/ends_shulker_shell.png) |
+| 6 | Shulker Shell | ![shulker_shell](../images/ends_delight_dragon_egg_shell.png) |
 
 ---
 ## Half Dragon Egg Shell
@@ -343,8 +343,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian | ![obsidian](../images/ends_obsidian.png) |
-| 1 | Dragon Egg Shell | ![dragon_egg_shell](../images/ends_dragon_egg_shell.png) |
+| 0 | Obsidian | ![obsidian](../images/ends_delight_assorted_salad.png) |
+| 1 | Dragon Egg Shell | ![dragon_egg_shell](../images/ends_delight_dragon_egg_shell.png) |
 
 ---
 ##  6}]
@@ -352,7 +352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dragon Leg | ![dragon_leg](../images/ends_dragon_leg.png) |
+| - | Dragon Leg | ![dragon_leg](../images/ends_delight_dragon_leg.png) |
 
 ---
 ## Non Hatchable Dragon Egg
@@ -360,9 +360,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian | ![obsidian](../images/ends_obsidian.png) |
-| 1 | End Crystal | ![end_crystal](../images/ends_end_crystal.png) |
-| 2 | Dragon Tooth | ![dragon_tooth](../images/ends_dragon_tooth.png) |
+| 0 | Obsidian | ![obsidian](../images/ends_delight_assorted_salad.png) |
+| 1 | End Crystal | ![end_crystal](../images/ends_delight_end_barbecue_stick.png) |
+| 2 | Dragon Tooth | ![dragon_tooth](../images/ends_delight_dragon_tooth.png) |
 
 ---
 ## Purpur Knife
@@ -370,7 +370,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_popped_chorus_fruit.png) |
+| 0 | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ##  3}]
@@ -378,7 +378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_raw_dragon_meat.png) |
+| - | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_delight_raw_dragon_meat.png) |
 
 ---
 ## Roasted Dragon Meat
@@ -386,7 +386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_raw_dragon_meat.png) |
+| item | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_delight_raw_dragon_meat.png) |
 
 ---
 ## Roasted Dragon Meat
@@ -394,7 +394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_raw_dragon_meat.png) |
+| item | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_delight_raw_dragon_meat.png) |
 
 ---
 ## Roasted Dragon Meat Cuts
@@ -402,7 +402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Dragon Meat Cuts | ![raw_dragon_meat_cuts](../images/ends_raw_dragon_meat_cuts.png) |
+| item | Raw Dragon Meat Cuts | ![raw_dragon_meat_cuts](../images/ends_delight_raw_dragon_meat_cuts.png) |
 
 ---
 ## Roasted Dragon Meat Cuts
@@ -410,7 +410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Dragon Meat Cuts | ![raw_dragon_meat_cuts](../images/ends_raw_dragon_meat_cuts.png) |
+| item | Raw Dragon Meat Cuts | ![raw_dragon_meat_cuts](../images/ends_delight_raw_dragon_meat_cuts.png) |
 
 ---
 ## Roasted Dragon Meat Cuts
@@ -418,7 +418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Dragon Meat Cuts | ![raw_dragon_meat_cuts](../images/ends_raw_dragon_meat_cuts.png) |
+| item | Raw Dragon Meat Cuts | ![raw_dragon_meat_cuts](../images/ends_delight_raw_dragon_meat_cuts.png) |
 
 ---
 ## Roasted Dragon Meat
@@ -426,7 +426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_raw_dragon_meat.png) |
+| item | Raw Dragon Meat | ![raw_dragon_meat](../images/ends_delight_raw_dragon_meat.png) |
 
 ---
 ## Roasted Dragon Steak
@@ -434,13 +434,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Sauce | ![ender_sauce](../images/ends_ender_sauce.png) |
-| - | Roasted Dragon Meat | ![roasted_dragon_meat](../images/ends_roasted_dragon_meat.png) |
+| - | Ender Sauce | ![ender_sauce](../images/ends_delight_ender_sauce.png) |
+| - | Roasted Dragon Meat | ![roasted_dragon_meat](../images/ends_delight_roasted_dragon_meat.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
-| - | Warped Fungus | ![warped_fungus](../images/ends_warped_fungus.png) |
-| - | Crimson Fungus | ![crimson_fungus](../images/ends_crimson_fungus.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Bowl | ![bowl](../images/ends_bowl.png) |
+| - | Warped Fungus | ![warped_fungus](../images/ends_delight_assorted_salad.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/ends_delight_assorted_salad.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Bowl | ![bowl](../images/ends_delight_assorted_salad.png) |
 
 ---
 ## Roasted Shulker Meat
@@ -448,7 +448,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shulker Meat | ![shulker_meat](../images/ends_shulker_meat.png) |
+| item | Shulker Meat | ![shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
 
 ---
 ## Roasted Shulker Meat
@@ -456,7 +456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shulker Meat | ![shulker_meat](../images/ends_shulker_meat.png) |
+| item | Shulker Meat | ![shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
 
 ---
 ## Roasted Shulker Meat Slice
@@ -464,7 +464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shulker Meat Slice | ![shulker_meat_slice](../images/ends_shulker_meat_slice.png) |
+| item | Shulker Meat Slice | ![shulker_meat_slice](../images/ends_delight_roasted_shulker_meat_slice.png) |
 
 ---
 ## Roasted Shulker Meat Slice
@@ -472,7 +472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shulker Meat Slice | ![shulker_meat_slice](../images/ends_shulker_meat_slice.png) |
+| item | Shulker Meat Slice | ![shulker_meat_slice](../images/ends_delight_roasted_shulker_meat_slice.png) |
 
 ---
 ## Roasted Shulker Meat Slice
@@ -480,7 +480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shulker Meat Slice | ![shulker_meat_slice](../images/ends_shulker_meat_slice.png) |
+| item | Shulker Meat Slice | ![shulker_meat_slice](../images/ends_delight_roasted_shulker_meat_slice.png) |
 
 ---
 ## Roasted Shulker Meat
@@ -488,7 +488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shulker Meat | ![shulker_meat](../images/ends_shulker_meat.png) |
+| item | Shulker Meat | ![shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
 
 ---
 ##  2}]
@@ -496,7 +496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shulker Meat | ![shulker_meat](../images/ends_shulker_meat.png) |
+| - | Shulker Meat | ![shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
 
 ---
 ## Smoked Dragon Leg
@@ -504,7 +504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dragon Leg | ![dragon_leg](../images/ends_dragon_leg.png) |
+| item | Dragon Leg | ![dragon_leg](../images/ends_delight_dragon_leg.png) |
 
 ---
 ## Steamed Dragon Egg Block
@@ -512,11 +512,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_liquid_dragon_egg.png) |
-| - | Shulker Meat | ![shulker_meat](../images/ends_shulker_meat.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/ends_chorus_fruit.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/ends_brown_mushroom.png) |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
+| - | Liquid Dragon Egg | ![liquid_dragon_egg](../images/ends_delight_liquid_dragon_egg.png) |
+| - | Shulker Meat | ![shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/ends_delight_assorted_salad.png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
 | - | Crops/Onion | ![crops/onion](../images/ends_crops/onion.png) |
 
 ---
@@ -527,8 +527,8 @@
 | :--- | :--- | :--- |
 | - | Crops/Onion | ![crops/onion](../images/ends_crops/onion.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/ends_crops/tomato.png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
-| - | Shulker Meat | ![shulker_meat](../images/ends_shulker_meat.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
+| - | Shulker Meat | ![shulker_meat](../images/ends_delight_roasted_shulker_meat.png) |
 
 ---
 ## Stuffed Rice Cake
@@ -537,8 +537,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Rice | ![crops/rice](../images/ends_crops/rice.png) |
-| - | Sugar | ![sugar](../images/ends_sugar.png) |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_chorus_fruit_grain'}].png) |
+| - | Sugar | ![sugar](../images/ends_delight_assorted_salad.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/ends_delight_chorus_fruit_crate_side.png) |
 
 ---
 ## Purple Dye
@@ -546,6 +546,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Succulent | ![chorus_succulent](../images/ends_chorus_succulent.png) |
+| - | Chorus Succulent | ![chorus_succulent](../images/ends_delight_chorus_succulent.png) |
 
 ---

@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Log | ![acacia_log](../images/create_acacia_log.png) |
+| - | Acacia Log | ![acacia_log](../images/create_acacia_window.png) |
 
 ---
 ## Acacia Window
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/create_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/create_acacia_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -32,7 +32,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Wood | ![acacia_wood](../images/create_acacia_wood.png) |
+| - | Acacia Wood | ![acacia_wood](../images/create_acacia_window.png) |
 
 ---
 ## Adjustable Chain Gearshift
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aeronos Caps | ![aeronos_caps](../images/create_aeronos_caps.png) |
+| - | Aeronos Caps | ![aeronos_caps](../images/create_0.png) |
 
 ---
 ## {}
@@ -57,7 +57,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Agate Ore | ![agate_ore](../images/create_agate_ore.png) |
+| - | Agate Ore | ![agate_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -65,7 +65,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Alexandrite Ore | ![alexandrite_ore](../images/create_alexandrite_ore.png) |
+| - | Alexandrite Ore | ![alexandrite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -73,7 +73,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Allium | ![allium](../images/create_allium.png) |
+| - | Allium | ![allium](../images/create_0.png) |
 
 ---
 ## {}
@@ -81,7 +81,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Allium Flower Bush | ![allium_flower_bush](../images/create_allium_flower_bush.png) |
+| - | Allium Flower Bush | ![allium_flower_bush](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -89,7 +89,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Alpine Bellflower | ![alpine_bellflower](../images/create_alpine_bellflower.png) |
+| - | Alpine Bellflower | ![alpine_bellflower](../images/create_0.png) |
 
 ---
 ## {}
@@ -105,7 +105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amaranth | ![amaranth](../images/create_amaranth.png) |
+| - | Amaranth | ![amaranth](../images/create_0.png) |
 
 ---
 ## {}
@@ -113,7 +113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amber Moss'}] | ![amber_moss'}]](../images/create_amber_moss'}].png) |
+| - | Amber Moss'}] | ![amber_moss'}]](../images/create_0.png) |
 
 ---
 ## {}
@@ -121,7 +121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amber Ore | ![amber_ore](../images/create_amber_ore.png) |
+| - | Amber Ore | ![amber_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -129,7 +129,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Block | ![amethyst_block](../images/create_amethyst_block.png) |
+| - | Amethyst Block | ![amethyst_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -137,7 +137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Cluster | ![amethyst_cluster](../images/create_amethyst_cluster.png) |
+| - | Amethyst Cluster | ![amethyst_cluster](../images/create_0.png) |
 
 ---
 ## {}
@@ -145,7 +145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Ore | ![amethyst_ore](../images/create_amethyst_ore.png) |
+| - | Amethyst Ore | ![amethyst_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -153,7 +153,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ametrine Ore | ![ametrine_ore](../images/create_ametrine_ore.png) |
+| - | Ametrine Ore | ![ametrine_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -161,7 +161,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ammolite Ore | ![ammolite_ore](../images/create_ammolite_ore.png) |
+| - | Ammolite Ore | ![ammolite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Analog Lever
@@ -178,7 +178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite | ![andesite](../images/create_andesite.png) |
+| - | Andesite | ![andesite](../images/create_andesite_alloy.png) |
 
 ---
 ## {}
@@ -186,7 +186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite | ![andesite](../images/create_andesite.png) |
+| - | Andesite | ![andesite](../images/create_andesite_alloy.png) |
 | - | Nuggets/Iron | ![nuggets/iron](../images/create_nuggets/iron.png) |
 
 ---
@@ -203,7 +203,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite Alloy Block | ![andesite_alloy_block](../images/create_andesite_alloy_block.png) |
+| - | Andesite Alloy Block | ![andesite_alloy_block](../images/create_andesite_alloy.png) |
 
 ---
 ## {}
@@ -211,7 +211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite | ![andesite](../images/create_andesite.png) |
+| - | Andesite | ![andesite](../images/create_andesite_alloy.png) |
 | - | Nuggets/Zinc | ![nuggets/zinc](../images/create_nuggets/zinc.png) |
 
 ---
@@ -228,7 +228,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Logs | ![stripped_logs](../images/create_stripped_logs.png) |
+| - | Stripped Logs | ![stripped_logs](../images/create_0.png) |
 | - | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 
 ---
@@ -237,7 +237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Wood | ![stripped_wood](../images/create_stripped_wood.png) |
+| - | Stripped Wood | ![stripped_wood](../images/create_0.png) |
 | - | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 
 ---
@@ -246,7 +246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Doors | ![wooden_doors](../images/create_wooden_doors.png) |
+| - | Wooden Doors | ![wooden_doors](../images/create_bracket_plate_wooden.png) |
 | - | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 
 ---
@@ -255,10 +255,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flint | ![flint](../images/create_flint.png) |
-| - | Flint | ![flint](../images/create_flint.png) |
-| - | Gravel | ![gravel](../images/create_gravel.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Flint | ![flint](../images/create_0.png) |
+| - | Flint | ![flint](../images/create_0.png) |
+| - | Gravel | ![gravel](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Andesite
@@ -275,7 +275,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| K | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| K | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 
 ---
 ## Andesite Ladder
@@ -308,7 +308,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| K | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| K | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 
 ---
 ## {}
@@ -316,7 +316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Angelica | ![angelica](../images/create_angelica.png) |
+| - | Angelica | ![angelica](../images/create_0.png) |
 
 ---
 ## {}
@@ -340,7 +340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aquamarine Ore | ![aquamarine_ore](../images/create_aquamarine_ore.png) |
+| - | Aquamarine Ore | ![aquamarine_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -348,7 +348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Arid Sand | ![arid_sand](../images/create_arid_sand.png) |
+| - | Arid Sand | ![arid_sand](../images/create_red_sand_paper.png) |
 
 ---
 ## {}
@@ -356,7 +356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aspen Log | ![aspen_log](../images/create_aspen_log.png) |
+| - | Aspen Log | ![aspen_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -364,7 +364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aspen Wood | ![aspen_wood](../images/create_aspen_wood.png) |
+| - | Aspen Wood | ![aspen_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -372,7 +372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Asurine | ![asurine](../images/create_asurine.png) |
+| - | Asurine | ![asurine](../images/create_asurine_0.png) |
 
 ---
 ## Asurine
@@ -405,7 +405,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Nuggets/Brass | ![nuggets/brass](../images/create_nuggets/brass.png) |
-| S | Wool | ![wool](../images/create_wool.png) |
+| S | Wool | ![wool](../images/create_0.png) |
 
 ---
 ## Attribute Filter
@@ -421,7 +421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Autumn Crocus | ![autumn_crocus](../images/create_autumn_crocus.png) |
+| - | Autumn Crocus | ![autumn_crocus](../images/create_0.png) |
 
 ---
 ## {}
@@ -429,7 +429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Log | ![azalea_log](../images/create_azalea_log.png) |
+| - | Azalea Log | ![azalea_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -437,7 +437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Wood | ![azalea_wood](../images/create_azalea_wood.png) |
+| - | Azalea Wood | ![azalea_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -445,7 +445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azure Bluet | ![azure_bluet](../images/create_azure_bluet.png) |
+| - | Azure Bluet | ![azure_bluet](../images/create_0.png) |
 
 ---
 ## {}
@@ -453,7 +453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baobab Log | ![baobab_log](../images/create_baobab_log.png) |
+| - | Baobab Log | ![baobab_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -461,7 +461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baobab Wood | ![baobab_wood](../images/create_baobab_wood.png) |
+| - | Baobab Wood | ![baobab_wood](../images/create_0.png) |
 
 ---
 ## Basin
@@ -477,7 +477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beetroot | ![beetroot](../images/create_beetroot.png) |
+| - | Beetroot | ![beetroot](../images/create_0.png) |
 
 ---
 ## {}
@@ -485,7 +485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Begonia | ![begonia](../images/create_begonia.png) |
+| - | Begonia | ![begonia](../images/create_0.png) |
 
 ---
 ## Belt Connector
@@ -493,7 +493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| D | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 
 ---
 ## {}
@@ -501,7 +501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Benitoite Ore | ![benitoite_ore](../images/create_benitoite_ore.png) |
+| - | Benitoite Ore | ![benitoite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -509,7 +509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Log | ![birch_log](../images/create_birch_log.png) |
+| - | Birch Log | ![birch_log](../images/create_birch_window.png) |
 
 ---
 ## Birch Window
@@ -517,7 +517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/create_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/create_birch_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -534,7 +534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Wood | ![birch_wood](../images/create_birch_wood.png) |
+| - | Birch Wood | ![birch_wood](../images/create_birch_window.png) |
 
 ---
 ## {}
@@ -542,7 +542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bird Of Paradise | ![bird_of_paradise](../images/create_bird_of_paradise.png) |
+| - | Bird Of Paradise | ![bird_of_paradise](../images/create_bar_of_chocolate.png) |
 
 ---
 ## {}
@@ -550,7 +550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bistort | ![bistort](../images/create_bistort.png) |
+| - | Bistort | ![bistort](../images/create_0.png) |
 
 ---
 ## {}
@@ -558,7 +558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackboard | ![blackboard](../images/create_blackboard.png) |
+| - | Blackboard | ![blackboard](../images/create_0.png) |
 
 ---
 ## {}
@@ -566,7 +566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/create_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/create_0.png) |
 
 ---
 ## {}
@@ -574,7 +574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Concrete Powder | ![black_concrete_powder](../images/create_black_concrete_powder.png) |
+| - | Black Concrete Powder | ![black_concrete_powder](../images/create_black.png) |
 
 ---
 ## {}
@@ -582,7 +582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Diamond Ore | ![black_diamond_ore](../images/create_black_diamond_ore.png) |
+| - | Black Diamond Ore | ![black_diamond_ore](../images/create_black.png) |
 
 ---
 ## {}
@@ -598,7 +598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Rose | ![black_rose](../images/create_black_rose.png) |
+| - | Black Rose | ![black_rose](../images/create_black.png) |
 
 ---
 ## Black Seat
@@ -606,8 +606,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Wool | ![black_wool](../images/create_black_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Black Wool | ![black_wool](../images/create_black.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Black Seat
@@ -616,7 +616,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Black | ![dyes/black](../images/create_dyes/black.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Black Valve Handle
@@ -625,7 +625,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Black | ![dyes/black](../images/create_dyes/black.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -634,7 +634,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Blaze Cake Base | ![blaze_cake_base](../images/create_blaze_cake_base.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -642,7 +642,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blaze Rod | ![blaze_rod](../images/create_blaze_rod.png) |
+| - | Blaze Rod | ![blaze_rod](../images/create_blaze_active.png) |
 
 ---
 ## {}
@@ -650,7 +650,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bloodshroom Log | ![bloodshroom_log](../images/create_bloodshroom_log.png) |
+| - | Bloodshroom Log | ![bloodshroom_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -658,7 +658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bloodshroom Wood | ![bloodshroom_wood](../images/create_bloodshroom_wood.png) |
+| - | Bloodshroom Wood | ![bloodshroom_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -666,7 +666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blossom Log | ![blossom_log](../images/create_blossom_log.png) |
+| - | Blossom Log | ![blossom_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -674,7 +674,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blossom Wood | ![blossom_wood](../images/create_blossom_wood.png) |
+| - | Blossom Wood | ![blossom_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -682,7 +682,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bluebell | ![bluebell](../images/create_bluebell.png) |
+| - | Bluebell | ![bluebell](../images/create_0.png) |
 
 ---
 ## {}
@@ -690,7 +690,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bluebright Log | ![bluebright_log](../images/create_bluebright_log.png) |
+| - | Bluebright Log | ![bluebright_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -698,7 +698,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bluebright Wood | ![bluebright_wood](../images/create_bluebright_wood.png) |
+| - | Bluebright Wood | ![bluebright_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -706,7 +706,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/create_blue_archwood_log.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/create_blue.png) |
 
 ---
 ## {}
@@ -714,7 +714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Wood | ![blue_archwood_wood](../images/create_blue_archwood_wood.png) |
+| - | Blue Archwood Wood | ![blue_archwood_wood](../images/create_blue.png) |
 
 ---
 ## {}
@@ -722,7 +722,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Concrete Powder | ![blue_concrete_powder](../images/create_blue_concrete_powder.png) |
+| - | Blue Concrete Powder | ![blue_concrete_powder](../images/create_blue.png) |
 
 ---
 ## {}
@@ -730,7 +730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Delphinium | ![blue_delphinium](../images/create_blue_delphinium.png) |
+| - | Blue Delphinium | ![blue_delphinium](../images/create_blue.png) |
 
 ---
 ## {}
@@ -738,7 +738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Enchanted Log | ![blue_enchanted_log](../images/create_blue_enchanted_log.png) |
+| - | Blue Enchanted Log | ![blue_enchanted_log](../images/create_blue.png) |
 
 ---
 ## {}
@@ -746,7 +746,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Enchanted Wood | ![blue_enchanted_wood](../images/create_blue_enchanted_wood.png) |
+| - | Blue Enchanted Wood | ![blue_enchanted_wood](../images/create_blue.png) |
 
 ---
 ## {}
@@ -754,7 +754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Hydrangea | ![blue_hydrangea](../images/create_blue_hydrangea.png) |
+| - | Blue Hydrangea | ![blue_hydrangea](../images/create_blue.png) |
 
 ---
 ## {}
@@ -762,7 +762,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Nether Gold Ore | ![blue_nether_gold_ore](../images/create_blue_nether_gold_ore.png) |
+| - | Blue Nether Gold Ore | ![blue_nether_gold_ore](../images/create_blue.png) |
 
 ---
 ## {}
@@ -770,7 +770,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Nether Quartz Ore | ![blue_nether_quartz_ore](../images/create_blue_nether_quartz_ore.png) |
+| - | Blue Nether Quartz Ore | ![blue_nether_quartz_ore](../images/create_blue.png) |
 
 ---
 ## {}
@@ -778,7 +778,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Orchid | ![blue_orchid](../images/create_blue_orchid.png) |
+| - | Blue Orchid | ![blue_orchid](../images/create_blue.png) |
 
 ---
 ## {}
@@ -794,7 +794,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Sage | ![blue_sage](../images/create_blue_sage.png) |
+| - | Blue Sage | ![blue_sage](../images/create_blue.png) |
 
 ---
 ## Blue Seat
@@ -802,8 +802,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Wool | ![blue_wool](../images/create_blue_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Blue Wool | ![blue_wool](../images/create_blue.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Blue Seat
@@ -812,7 +812,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Blue | ![dyes/blue](../images/create_dyes/blue.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Blue Valve Handle
@@ -821,7 +821,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Blue | ![dyes/blue](../images/create_dyes/blue.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -829,7 +829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bone | ![bone](../images/create_bone.png) |
+| - | Bone | ![bone](../images/create_0.png) |
 
 ---
 ## {}
@@ -837,7 +837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bone Meal | ![bone_meal](../images/create_bone_meal.png) |
+| - | Bone Meal | ![bone_meal](../images/create_0.png) |
 
 ---
 ## Brass Bars
@@ -861,7 +861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Logs | ![stripped_logs](../images/create_stripped_logs.png) |
+| - | Stripped Logs | ![stripped_logs](../images/create_0.png) |
 | - | Ingots/Brass | ![ingots/brass](../images/create_ingots/brass.png) |
 
 ---
@@ -870,7 +870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Wood | ![stripped_wood](../images/create_stripped_wood.png) |
+| - | Stripped Wood | ![stripped_wood](../images/create_0.png) |
 | - | Ingots/Brass | ![ingots/brass](../images/create_ingots/brass.png) |
 
 ---
@@ -879,7 +879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Doors | ![wooden_doors](../images/create_wooden_doors.png) |
+| - | Wooden Doors | ![wooden_doors](../images/create_bracket_plate_wooden.png) |
 | - | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 
 ---
@@ -890,7 +890,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Brass | ![ingots/brass](../images/create_ingots/brass.png) |
 | E | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
-| K | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| K | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 
 ---
 ## Brass Hand
@@ -957,7 +957,7 @@
 | :--- | :--- | :--- |
 | A | Ingots/Brass | ![ingots/brass](../images/create_ingots/brass.png) |
 | E | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
-| K | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| K | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 
 ---
 ## Bread
@@ -973,7 +973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brimstone Nether Gold Ore | ![brimstone_nether_gold_ore](../images/create_brimstone_nether_gold_ore.png) |
+| - | Brimstone Nether Gold Ore | ![brimstone_nether_gold_ore](../images/create_crushed_raw_gold.png) |
 
 ---
 ## {}
@@ -981,7 +981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brimstone Nether Quartz Ore | ![brimstone_nether_quartz_ore](../images/create_brimstone_nether_quartz_ore.png) |
+| - | Brimstone Nether Quartz Ore | ![brimstone_nether_quartz_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -989,7 +989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Concrete Powder | ![brown_concrete_powder](../images/create_brown_concrete_powder.png) |
+| - | Brown Concrete Powder | ![brown_concrete_powder](../images/create_brown.png) |
 
 ---
 ## {}
@@ -1005,8 +1005,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Wool | ![brown_wool](../images/create_brown_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Brown Wool | ![brown_wool](../images/create_brown.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Brown Seat
@@ -1015,7 +1015,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Brown | ![dyes/brown](../images/create_dyes/brown.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Brown Toolbox
@@ -1024,7 +1024,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
-| L | Leather | ![leather](../images/create_leather.png) |
+| L | Leather | ![leather](../images/create_0.png) |
 | S | Plates/Gold | ![plates/gold](../images/create_plates/gold.png) |
 | W | Chests/Wooden | ![chests/wooden](../images/create_chests/wooden.png) |
 
@@ -1035,7 +1035,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Brown | ![dyes/brown](../images/create_dyes/brown.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -1043,8 +1043,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1052,7 +1052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bulbis Stem | ![bulbis_stem](../images/create_bulbis_stem.png) |
+| - | Bulbis Stem | ![bulbis_stem](../images/create_0.png) |
 
 ---
 ## {}
@@ -1060,7 +1060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bulbis Wood | ![bulbis_wood](../images/create_bulbis_wood.png) |
+| - | Bulbis Wood | ![bulbis_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -1068,7 +1068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Burning Blossom | ![burning_blossom](../images/create_burning_blossom.png) |
+| - | Burning Blossom | ![burning_blossom](../images/create_0.png) |
 
 ---
 ## {}
@@ -1076,7 +1076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Buttercup | ![buttercup](../images/create_buttercup.png) |
+| - | Buttercup | ![buttercup](../images/create_0.png) |
 
 ---
 ## {}
@@ -1084,7 +1084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cactus | ![cactus](../images/create_cactus.png) |
+| - | Cactus | ![cactus](../images/create_0.png) |
 
 ---
 ## Cake
@@ -1092,10 +1092,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Eggs | ![eggs](../images/create_eggs.png) |
-| M | Milk Bucket | ![milk_bucket](../images/create_milk_bucket.png) |
+| E | Eggs | ![eggs](../images/create_0.png) |
+| M | Milk Bucket | ![milk_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 | P | Dough | ![dough](../images/create_dough.png) |
-| S | Sugar | ![sugar](../images/create_sugar.png) |
+| S | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -1103,7 +1103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calcite | ![calcite](../images/create_calcite.png) |
+| - | Calcite | ![calcite](../images/create_calcite_cut.png) |
 
 ---
 ## Calcite
@@ -1127,7 +1127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | California Poppy | ![california_poppy](../images/create_california_poppy.png) |
+| - | California Poppy | ![california_poppy](../images/create_0.png) |
 
 ---
 ## {}
@@ -1135,7 +1135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calorite Ingots | ![calorite_ingots](../images/create_calorite_ingots.png) |
+| - | Calorite Ingots | ![calorite_ingots](../images/create_0.png) |
 
 ---
 ## Calorite Ingot
@@ -1143,7 +1143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Calorite Ore | ![crushed_calorite_ore](../images/create_crushed_calorite_ore.png) |
+| item | Crushed Calorite Ore | ![crushed_calorite_ore](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -1151,7 +1151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canopy Log | ![canopy_log](../images/create_canopy_log.png) |
+| - | Canopy Log | ![canopy_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -1159,7 +1159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canopy Wood | ![canopy_wood](../images/create_canopy_wood.png) |
+| - | Canopy Wood | ![canopy_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -1167,7 +1167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carnelian Ore | ![carnelian_ore](../images/create_carnelian_ore.png) |
+| - | Carnelian Ore | ![carnelian_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -1175,7 +1175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cartwheel | ![cartwheel](../images/create_cartwheel.png) |
+| - | Cartwheel | ![cartwheel](../images/create_0.png) |
 
 ---
 ## Cart Assembler
@@ -1184,7 +1184,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| L | Logs | ![logs](../images/create_logs.png) |
+| L | Logs | ![logs](../images/create_0.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
 
 ---
@@ -1193,7 +1193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cats Eye Ore | ![cats_eye_ore](../images/create_cats_eye_ore.png) |
+| - | Cats Eye Ore | ![cats_eye_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -1201,7 +1201,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cave Moss'}] | ![cave_moss'}]](../images/create_cave_moss'}].png) |
+| - | Cave Moss'}] | ![cave_moss'}]](../images/create_0.png) |
 
 ---
 ## {}
@@ -1209,9 +1209,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Adzuki Bun
@@ -1219,7 +1219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1228,14 +1228,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Adzuki Cake
@@ -1243,10 +1243,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1255,7 +1255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1264,7 +1264,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -1274,10 +1274,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1285,9 +1285,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1295,9 +1295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1305,9 +1305,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_roasted_adzuki_beans.png) |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Roasted Adzuki Beans | ![roasted_adzuki_beans](../images/create_0.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1315,14 +1315,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Aloe Cake
@@ -1330,10 +1330,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1342,13 +1342,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
-| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Cake Slice | ![aloe_cake_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
 
 ---
 ## Aloe Cake Slice'}]
@@ -1356,7 +1356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Cake | ![aloe_cake](../images/create_aloe_cake.png) |
+| - | Aloe Cake | ![aloe_cake](../images/create_central_kitchen_aloe_cake_slice.png) |
 
 ---
 ## {}
@@ -1364,10 +1364,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
 
 ---
 ## {}
@@ -1375,7 +1375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Aloe Gel Block
@@ -1383,7 +1383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Gel Bucket | ![aloe_gel_bucket](../images/create_aloe_gel_bucket.png) |
+| - | Aloe Gel Bucket | ![aloe_gel_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 
 ---
 ## {}
@@ -1391,8 +1391,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Aloe Gel Bottle
@@ -1400,11 +1400,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Gel Bucket | ![aloe_gel_bucket](../images/create_aloe_gel_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
+| - | Aloe Gel Bucket | ![aloe_gel_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
 
 ---
 ## {}
@@ -1412,8 +1412,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Aloe Gel Bucket
@@ -1421,8 +1421,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Aloe Gel Block | ![aloe_gel_block](../images/create_aloe_gel_block.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Aloe Gel Block | ![aloe_gel_block](../images/create_central_kitchen_aloe_gel_bucket.png) |
 
 ---
 ## {}
@@ -1430,7 +1430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Gel Block | ![aloe_gel_block](../images/create_aloe_gel_block.png) |
+| - | Aloe Gel Block | ![aloe_gel_block](../images/create_central_kitchen_aloe_gel_bucket.png) |
 
 ---
 ## {}
@@ -1438,10 +1438,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1449,9 +1449,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Leaves | ![aloe_leaves](../images/create_aloe_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Aloe Leaves | ![aloe_leaves](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1459,9 +1459,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1469,9 +1469,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/create_apple.png) |
-| - | Apple | ![apple](../images/create_apple.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Apple | ![apple](../images/create_central_kitchen_incomplete_apple_pie.png) |
+| - | Apple | ![apple](../images/create_central_kitchen_incomplete_apple_pie.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -1479,7 +1479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -1487,7 +1487,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bread | ![bread](../images/create_bread.png) |
+| tag | Bread | ![bread](../images/create_0.png) |
 
 ---
 ## Banana Bread
@@ -1497,7 +1497,7 @@
 | :--- | :--- | :--- |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 | - | Fruits/Banana | ![fruits/banana](../images/create_fruits/banana.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -1505,14 +1505,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Fruits/Banana | ![fruits/banana](../images/create_fruits/banana.png) |
 | - | Fruits/Banana | ![fruits/banana](../images/create_fruits/banana.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Banana Cake
@@ -1521,9 +1521,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Fruits/Banana | ![fruits/banana](../images/create_fruits/banana.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1551,10 +1551,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Fruits/Banana | ![fruits/banana](../images/create_fruits/banana.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1563,8 +1563,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Banana | ![fruits/banana](../images/create_fruits/banana.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1572,9 +1572,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1584,10 +1584,10 @@
 | :--- | :--- | :--- |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Berries | ![berries](../images/create_berries.png) |
-| - | Berries | ![berries](../images/create_berries.png) |
-| - | Berries | ![berries](../images/create_berries.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Berries | ![berries](../images/create_chocolate_glazed_berries.png) |
+| - | Berries | ![berries](../images/create_chocolate_glazed_berries.png) |
+| - | Berries | ![berries](../images/create_chocolate_glazed_berries.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -1595,10 +1595,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Berries | ![berries](../images/create_berries.png) |
-| - | Berries | ![berries](../images/create_berries.png) |
-| - | Berries | ![berries](../images/create_berries.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Berries | ![berries](../images/create_chocolate_glazed_berries.png) |
+| - | Berries | ![berries](../images/create_chocolate_glazed_berries.png) |
+| - | Berries | ![berries](../images/create_chocolate_glazed_berries.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1606,9 +1606,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1616,14 +1616,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Black Tea Cake
@@ -1631,10 +1631,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1643,10 +1643,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1654,7 +1654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
+| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
 
 ---
 ## Brewing Guide
@@ -1663,8 +1663,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Plates/Obsidian | ![plates/obsidian](../images/create_plates/obsidian.png) |
-| - | Canvas | ![canvas](../images/create_canvas.png) |
-| - | Tea Leaves | ![tea_leaves](../images/create_tea_leaves.png) |
+| - | Canvas | ![canvas](../images/create_canvas_black.png) |
+| - | Tea Leaves | ![tea_leaves](../images/create_builders_tea.png) |
 
 ---
 ## {}
@@ -1672,8 +1672,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Builders Tea
@@ -1681,8 +1681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tea Leaves | ![tea_leaves](../images/create_tea_leaves.png) |
-| - | Milk | ![milk](../images/create_milk.png) |
+| - | Tea Leaves | ![tea_leaves](../images/create_builders_tea.png) |
+| - | Milk | ![milk](../images/create_0.png) |
 
 ---
 ## {}
@@ -1690,9 +1690,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tea Leaves | ![tea_leaves](../images/create_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Tea Leaves | ![tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1700,13 +1700,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1714,8 +1714,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Slice | ![lime_slice](../images/create_lime_slice.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Lime Slice | ![lime_slice](../images/create_canvas_lime.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1723,7 +1723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherries | ![cherries](../images/create_cherries.png) |
+| - | Cherries | ![cherries](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -1733,7 +1733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## Cherry Pie
@@ -1741,10 +1741,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_cherry_pie_slice.png) |
-| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_cherry_pie_slice.png) |
-| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_cherry_pie_slice.png) |
-| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_cherry_pie_slice.png) |
+| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
+| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
+| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
+| - | Cherry Pie Slice | ![cherry_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
 
 ---
 ## Cherry Pie Slice'}]
@@ -1752,7 +1752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Pie | ![cherry_pie](../images/create_cherry_pie.png) |
+| - | Cherry Pie | ![cherry_pie](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -1760,7 +1760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bread | ![bread](../images/create_bread.png) |
+| tag | Bread | ![bread](../images/create_0.png) |
 
 ---
 ## {}
@@ -1768,7 +1768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chocolate Block | ![chocolate_block](../images/create_chocolate_block.png) |
+| - | Chocolate Block | ![chocolate_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -1776,14 +1776,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Chocolate Cake
@@ -1792,9 +1792,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -1803,13 +1803,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Chocolate Cake
@@ -1817,13 +1817,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
-| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
+| - | Chocolate Cake Slice | ![chocolate_cake_slice](../images/create_central_kitchen_chocolate_cake_slice.png) |
 
 ---
 ## Chocolate Cake Slice'}]
@@ -1831,7 +1831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chocolate Cake | ![chocolate_cake](../images/create_chocolate_cake.png) |
+| - | Chocolate Cake | ![chocolate_cake](../images/create_central_kitchen_chocolate_cake_slice.png) |
 
 ---
 ## {}
@@ -1858,10 +1858,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1869,10 +1869,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1881,8 +1881,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1890,9 +1890,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1900,10 +1900,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Chocolate Pumpkin Muffin
@@ -1911,8 +1911,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
@@ -1922,8 +1922,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spider Eye | ![spider_eye](../images/create_spider_eye.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Spider Eye | ![spider_eye](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1932,7 +1932,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1940,7 +1940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/create_chorus_fruit.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -1950,7 +1950,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wheat Dough | ![wheat_dough](../images/create_wheat_dough.png) |
+| item | Wheat Dough | ![wheat_dough](../images/create_dough.png) |
 
 ---
 ## {}
@@ -1958,9 +1958,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ghast Tear | ![ghast_tear](../images/create_ghast_tear.png) |
-| - | Dried Chorus Flower | ![dried_chorus_flower](../images/create_dried_chorus_flower.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ghast Tear | ![ghast_tear](../images/create_0.png) |
+| - | Dried Chorus Flower | ![dried_chorus_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1968,9 +1968,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/create_chorus_fruit_grain'}].png) |
-| - | Ender Pearl Grain | ![ender_pearl_grain](../images/create_ender_pearl_grain.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Ender Pearl Grain | ![ender_pearl_grain](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1978,8 +1978,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/create_chorus_fruit_grain'}].png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Chorus Fruit Grain'}] | ![chorus_fruit_grain'}]](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -1987,7 +1987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -1995,10 +1995,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/create_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/create_chorus_fruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2006,9 +2006,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| - | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| - | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2016,7 +2016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee Berries | ![coffee_berries](../images/create_coffee_berries.png) |
+| - | Coffee Berries | ![coffee_berries](../images/create_chocolate_glazed_berries.png) |
 
 ---
 ## {}
@@ -2024,14 +2024,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| - | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| - | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Coffee Cake
@@ -2039,10 +2039,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2051,10 +2051,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2062,7 +2062,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cocoa Beans | ![cocoa_beans](../images/create_cocoa_beans.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -2073,8 +2073,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Plates/Obsidian | ![plates/obsidian](../images/create_plates/obsidian.png) |
-| - | Canvas | ![canvas](../images/create_canvas.png) |
-| - | Carrot | ![carrot](../images/create_carrot.png) |
+| - | Canvas | ![canvas](../images/create_canvas_black.png) |
+| - | Carrot | ![carrot](../images/create_0.png) |
 
 ---
 ## {}
@@ -2084,8 +2084,8 @@
 | :--- | :--- | :--- |
 | - | Crops/Corn | ![crops/corn](../images/create_crops/corn.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/create_crops/cabbage.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2093,8 +2093,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/create_bowl.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Bowl | ![bowl](../images/create_things_and_misc_bowl_of_porridge.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2102,8 +2102,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2112,8 +2112,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Corn | ![crops/corn](../images/create_crops/corn.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2121,9 +2121,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tea Leaves | ![tea_leaves](../images/create_tea_leaves.png) |
-| - | Dandelion | ![dandelion](../images/create_dandelion.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Tea Leaves | ![tea_leaves](../images/create_builders_tea.png) |
+| - | Dandelion | ![dandelion](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Dough
@@ -2131,7 +2131,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Water Bucket | ![water_bucket](../images/create_water_bucket.png) |
+| A | Water Bucket | ![water_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 | B | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
 ---
@@ -2140,7 +2140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Water Bucket | ![water_bucket](../images/create_water_bucket.png) |
+| A | Water Bucket | ![water_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 | B | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
 ---
@@ -2149,7 +2149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Water Bucket | ![water_bucket](../images/create_water_bucket.png) |
+| A | Water Bucket | ![water_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 | B | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
 ---
@@ -2158,7 +2158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Water Bucket | ![water_bucket](../images/create_water_bucket.png) |
+| A | Water Bucket | ![water_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 | B | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
 ---
@@ -2167,7 +2167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dragon Breath | ![dragon_breath](../images/create_dragon_breath.png) |
+| - | Dragon Breath | ![dragon_breath](../images/create_0.png) |
 
 ---
 ## {}
@@ -2175,8 +2175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2184,8 +2184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2193,7 +2193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bread | ![bread](../images/create_bread.png) |
+| tag | Bread | ![bread](../images/create_0.png) |
 
 ---
 ## {}
@@ -2201,8 +2201,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2210,8 +2210,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Porkchop | ![cooked_porkchop](../images/create_cooked_porkchop.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Cooked Porkchop | ![cooked_porkchop](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2219,9 +2219,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2229,14 +2229,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Green Tea Cake
@@ -2244,10 +2244,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2256,7 +2256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -2266,10 +2266,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2277,7 +2277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bread | ![bread](../images/create_bread.png) |
+| tag | Bread | ![bread](../images/create_0.png) |
 
 ---
 ## {}
@@ -2285,8 +2285,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/create_bread.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Bread | ![bread](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Honey Cake
@@ -2294,13 +2294,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
-| - | Honey Cake Slice | ![honey_cake_slice](../images/create_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
+| - | Honey Cake Slice | ![honey_cake_slice](../images/create_central_kitchen_honey_cake_slice.png) |
 
 ---
 ## Honey Cake Slice'}]
@@ -2308,7 +2308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Cake | ![honey_cake](../images/create_honey_cake.png) |
+| - | Honey Cake | ![honey_cake](../images/create_central_kitchen_honey_cake_slice.png) |
 
 ---
 ## {}
@@ -2318,7 +2318,7 @@
 | :--- | :--- | :--- |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2326,8 +2326,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2337,7 +2337,7 @@
 | :--- | :--- | :--- |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -2345,14 +2345,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Lime Cake
@@ -2361,9 +2361,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2383,8 +2383,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2392,10 +2392,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2404,8 +2404,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2413,9 +2413,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2423,7 +2423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -2431,8 +2431,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2440,8 +2440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2449,8 +2449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2458,8 +2458,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2467,8 +2467,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2476,8 +2476,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2485,8 +2485,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2494,8 +2494,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2503,8 +2503,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2512,7 +2512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Adzuki Beans | ![adzuki_beans](../images/create_adzuki_beans.png) |
+| - | Adzuki Beans | ![adzuki_beans](../images/create_0.png) |
 
 ---
 ## {}
@@ -2522,7 +2522,7 @@
 | :--- | :--- | :--- |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2530,8 +2530,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Bacon | ![cooked_bacon](../images/create_cooked_bacon.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Cooked Bacon | ![cooked_bacon](../images/create_central_kitchen_incomplete_bacon_sandwich.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2539,8 +2539,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2589,8 +2589,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Plates/Obsidian | ![plates/obsidian](../images/create_plates/obsidian.png) |
-| - | Canvas | ![canvas](../images/create_canvas.png) |
-| - | Cave Carrot | ![cave_carrot](../images/create_cave_carrot.png) |
+| - | Canvas | ![canvas](../images/create_canvas_black.png) |
+| - | Cave Carrot | ![cave_carrot](../images/create_0.png) |
 
 ---
 ## {}
@@ -2598,14 +2598,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Mint Cake
@@ -2613,10 +2613,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2625,8 +2625,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2634,7 +2634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2643,7 +2643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -2653,10 +2653,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2666,9 +2666,9 @@
 | :--- | :--- | :--- |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
 | - | Fruits/Lime | ![fruits/lime](../images/create_fruits/lime.png) |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -2676,9 +2676,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2686,9 +2686,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mint Leaves | ![mint_leaves](../images/create_mint_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Mint Leaves | ![mint_leaves](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2696,9 +2696,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2706,9 +2706,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chocolate Bar | ![chocolate_bar](../images/create_chocolate_bar.png) |
-| - | Coffee Beans | ![coffee_beans](../images/create_coffee_beans.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Chocolate Bar | ![chocolate_bar](../images/create_bar_of_chocolate.png) |
+| - | Coffee Beans | ![coffee_beans](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2716,7 +2716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry | ![mulberry](../images/create_mulberry.png) |
+| - | Mulberry | ![mulberry](../images/create_central_kitchen_incomplete_mulberry_pie.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -2726,8 +2726,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry | ![mulberry](../images/create_mulberry.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Mulberry | ![mulberry](../images/create_central_kitchen_incomplete_mulberry_pie.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -2735,7 +2735,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Mulberry Jam Block
@@ -2743,7 +2743,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Jam Bucket | ![mulberry_jam_bucket](../images/create_mulberry_jam_bucket.png) |
+| - | Mulberry Jam Bucket | ![mulberry_jam_bucket](../images/create_central_kitchen_mulberry_jam_bucket.png) |
 
 ---
 ## {}
@@ -2751,8 +2751,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Mulberry Jam Bottle
@@ -2760,11 +2760,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Jam Bucket | ![mulberry_jam_bucket](../images/create_mulberry_jam_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
+| - | Mulberry Jam Bucket | ![mulberry_jam_bucket](../images/create_central_kitchen_mulberry_jam_bucket.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
 
 ---
 ## {}
@@ -2772,8 +2772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Mulberry Jam Bucket
@@ -2781,8 +2781,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Mulberry Jam Block | ![mulberry_jam_block](../images/create_mulberry_jam_block.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Mulberry Jam Block | ![mulberry_jam_block](../images/create_central_kitchen_mulberry_jam_bucket.png) |
 
 ---
 ## {}
@@ -2790,7 +2790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## Mulberry Pie
@@ -2798,10 +2798,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_mulberry_pie_slice.png) |
-| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_mulberry_pie_slice.png) |
-| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_mulberry_pie_slice.png) |
-| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_mulberry_pie_slice.png) |
+| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_central_kitchen_mulberry_pie_slice.png) |
+| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_central_kitchen_mulberry_pie_slice.png) |
+| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_central_kitchen_mulberry_pie_slice.png) |
+| - | Mulberry Pie Slice | ![mulberry_pie_slice](../images/create_central_kitchen_mulberry_pie_slice.png) |
 
 ---
 ## Mulberry Pie Slice'}]
@@ -2809,7 +2809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Pie | ![mulberry_pie](../images/create_mulberry_pie.png) |
+| - | Mulberry Pie | ![mulberry_pie](../images/create_central_kitchen_incomplete_mulberry_pie.png) |
 
 ---
 ## {}
@@ -2817,7 +2817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bread | ![bread](../images/create_bread.png) |
+| tag | Bread | ![bread](../images/create_0.png) |
 
 ---
 ## {}
@@ -2825,7 +2825,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Vanilla Ice Cream | ![vanilla_ice_cream](../images/create_vanilla_ice_cream.png) |
+| item | Vanilla Ice Cream | ![vanilla_ice_cream](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
 
 ---
 ## {}
@@ -2833,7 +2833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Vanilla Ice Cream | ![vanilla_ice_cream](../images/create_vanilla_ice_cream.png) |
+| item | Vanilla Ice Cream | ![vanilla_ice_cream](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
 
 ---
 ## {}
@@ -2841,8 +2841,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Pancake
@@ -2850,9 +2850,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk | ![milk](../images/create_milk.png) |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
+| - | Milk | ![milk](../images/create_0.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2861,14 +2861,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Passionfruit Cake
@@ -2876,10 +2876,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -2888,13 +2888,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
-| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit Cake Slice | ![passionfruit_cake_slice](../images/create_central_kitchen_passionfruit_cake_slice.png) |
 
 ---
 ## Passionfruit Cake Slice'}]
@@ -2902,7 +2902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Passionfruit Cake | ![passionfruit_cake](../images/create_passionfruit_cake.png) |
+| - | Passionfruit Cake | ![passionfruit_cake](../images/create_central_kitchen_passionfruit_cake_slice.png) |
 
 ---
 ## {}
@@ -2910,10 +2910,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2921,9 +2921,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2931,9 +2931,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2941,15 +2941,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Passionfruit | ![passionfruit](../images/create_passionfruit.png) |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Passionfruit | ![passionfruit](../images/create_central_kitchen_passionfruit_cake_slice.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
 
 ---
 ## {}
@@ -2962,7 +2962,7 @@
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 
 ---
 ## {}
@@ -2973,7 +2973,7 @@
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2981,9 +2981,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pomegranate Slice | ![pomegranate_slice](../images/create_pomegranate_slice.png) |
-| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Pomegranate Slice | ![pomegranate_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Black Tea Leaves | ![black_tea_leaves](../images/create_black.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -2991,14 +2991,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Pomegranate Cake
@@ -3007,9 +3007,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3018,10 +3018,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3030,8 +3030,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Pomegranate | ![fruits/pomegranate](../images/create_fruits/pomegranate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3039,9 +3039,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3049,9 +3049,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pomegranate Slice | ![pomegranate_slice](../images/create_pomegranate_slice.png) |
-| - | Pomegranate Slice | ![pomegranate_slice](../images/create_pomegranate_slice.png) |
-| - | Banana | ![banana](../images/create_banana.png) |
+| - | Pomegranate Slice | ![pomegranate_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Pomegranate Slice | ![pomegranate_slice](../images/create_central_kitchen_aloe_cake_slice.png) |
+| - | Banana | ![banana](../images/create_0.png) |
 
 ---
 ## {}
@@ -3059,7 +3059,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bread | ![bread](../images/create_bread.png) |
+| tag | Bread | ![bread](../images/create_0.png) |
 
 ---
 ## {}
@@ -3067,7 +3067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -3075,10 +3075,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin | ![pumpkin](../images/create_pumpkin.png) |
+| - | Pumpkin | ![pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Pumpkin Bread
@@ -3086,8 +3086,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Pumpkin | ![pumpkin](../images/create_pumpkin.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Pumpkin | ![pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3096,8 +3096,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Pumpkin Slice | ![pumpkin_slice](../images/create_pumpkin_slice.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Pumpkin Slice | ![pumpkin_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3106,8 +3106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3116,10 +3116,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin Slice | ![pumpkin_slice](../images/create_pumpkin_slice.png) |
+| - | Pumpkin Slice | ![pumpkin_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3127,10 +3127,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3138,14 +3138,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Pumpkin Cake
@@ -3153,10 +3153,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3165,13 +3165,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
-| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
+| - | Pumpkin Cake Slice | ![pumpkin_cake_slice](../images/create_central_kitchen_pumpkin_cake_slice.png) |
 
 ---
 ## Pumpkin Cake Slice'}]
@@ -3179,7 +3179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin Cake | ![pumpkin_cake](../images/create_pumpkin_cake.png) |
+| - | Pumpkin Cake | ![pumpkin_cake](../images/create_central_kitchen_pumpkin_cake_slice.png) |
 
 ---
 ## {}
@@ -3187,10 +3187,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3198,9 +3198,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_roasted_pumpkin.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Roasted Pumpkin | ![roasted_pumpkin](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3208,9 +3208,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3218,7 +3218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## Pumpkin Pie
@@ -3226,10 +3226,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_pumpkin_pie_slice.png) |
-| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_pumpkin_pie_slice.png) |
-| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_pumpkin_pie_slice.png) |
-| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_pumpkin_pie_slice.png) |
+| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
+| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
+| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
+| - | Pumpkin Pie Slice | ![pumpkin_pie_slice](../images/create_central_kitchen_cherry_pie_slice.png) |
 
 ---
 ## Pumpkin Pie Slice'}]
@@ -3237,7 +3237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin Pie | ![pumpkin_pie](../images/create_pumpkin_pie.png) |
+| - | Pumpkin Pie | ![pumpkin_pie](../images/create_central_kitchen_incomplete_pumpkin_pie.png) |
 
 ---
 ## {}
@@ -3245,9 +3245,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/create_nether_wart.png) |
-| - | Fermented Spider Eye | ![fermented_spider_eye](../images/create_fermented_spider_eye.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Nether Wart | ![nether_wart](../images/create_0.png) |
+| - | Fermented Spider Eye | ![fermented_spider_eye](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3255,9 +3255,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose Hips | ![rose_hips](../images/create_rose_hips.png) |
-| - | Rose Hips | ![rose_hips](../images/create_rose_hips.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Rose Hips | ![rose_hips](../images/create_polished_rose_quartz.png) |
+| - | Rose Hips | ![rose_hips](../images/create_polished_rose_quartz.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3265,8 +3265,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maple Log | ![maple_log](../images/create_maple_log.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Maple Log | ![maple_log](../images/create_smooth_dark_log_top.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Sappy Maple Log
@@ -3274,11 +3274,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sap Bucket | ![sap_bucket](../images/create_sap_bucket.png) |
-| - | Maple Log | ![maple_log](../images/create_maple_log.png) |
-| - | Maple Log | ![maple_log](../images/create_maple_log.png) |
-| - | Maple Log | ![maple_log](../images/create_maple_log.png) |
-| - | Maple Log | ![maple_log](../images/create_maple_log.png) |
+| - | Sap Bucket | ![sap_bucket](../images/create_central_kitchen_sap_bucket.png) |
+| - | Maple Log | ![maple_log](../images/create_smooth_dark_log_top.png) |
+| - | Maple Log | ![maple_log](../images/create_smooth_dark_log_top.png) |
+| - | Maple Log | ![maple_log](../images/create_smooth_dark_log_top.png) |
+| - | Maple Log | ![maple_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -3286,8 +3286,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maple Wood | ![maple_wood](../images/create_maple_wood.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Maple Wood | ![maple_wood](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Sappy Maple Wood
@@ -3295,11 +3295,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sap Bucket | ![sap_bucket](../images/create_sap_bucket.png) |
-| - | Maple Wood | ![maple_wood](../images/create_maple_wood.png) |
-| - | Maple Wood | ![maple_wood](../images/create_maple_wood.png) |
-| - | Maple Wood | ![maple_wood](../images/create_maple_wood.png) |
-| - | Maple Wood | ![maple_wood](../images/create_maple_wood.png) |
+| - | Sap Bucket | ![sap_bucket](../images/create_central_kitchen_sap_bucket.png) |
+| - | Maple Wood | ![maple_wood](../images/create_0.png) |
+| - | Maple Wood | ![maple_wood](../images/create_0.png) |
+| - | Maple Wood | ![maple_wood](../images/create_0.png) |
+| - | Maple Wood | ![maple_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -3307,8 +3307,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Sap Bottle
@@ -3316,11 +3316,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sap Bucket | ![sap_bucket](../images/create_sap_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
+| - | Sap Bucket | ![sap_bucket](../images/create_central_kitchen_sap_bucket.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
 
 ---
 ## Sap Bucket
@@ -3328,11 +3328,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Sap Bottle | ![sap_bottle](../images/create_sap_bottle.png) |
-| - | Sap Bottle | ![sap_bottle](../images/create_sap_bottle.png) |
-| - | Sap Bottle | ![sap_bottle](../images/create_sap_bottle.png) |
-| - | Sap Bottle | ![sap_bottle](../images/create_sap_bottle.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Sap Bottle | ![sap_bottle](../images/create_central_kitchen_sap_bucket.png) |
+| - | Sap Bottle | ![sap_bottle](../images/create_central_kitchen_sap_bucket.png) |
+| - | Sap Bottle | ![sap_bottle](../images/create_central_kitchen_sap_bucket.png) |
+| - | Sap Bottle | ![sap_bottle](../images/create_central_kitchen_sap_bucket.png) |
 
 ---
 ## {}
@@ -3340,8 +3340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Tea | ![black_tea](../images/create_black_tea.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Black Tea | ![black_tea](../images/create_black.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3349,8 +3349,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee | ![coffee](../images/create_coffee.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Coffee | ![coffee](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3358,8 +3358,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Tea | ![green_tea](../images/create_green_tea.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Green Tea | ![green_tea](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3367,8 +3367,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Tea | ![yellow_tea](../images/create_yellow_tea.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Yellow Tea | ![yellow_tea](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3376,14 +3376,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Strawberry Cake
@@ -3392,9 +3392,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3422,10 +3422,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3433,10 +3433,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat | ![wheat](../images/create_wheat.png) |
-| - | Strawberries | ![strawberries](../images/create_strawberries.png) |
-| - | Lime Or Slice | ![lime_or_slice](../images/create_lime_or_slice.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Wheat | ![wheat](../images/create_wheat_flour.png) |
+| - | Strawberries | ![strawberries](../images/create_0.png) |
+| - | Lime Or Slice | ![lime_or_slice](../images/create_canvas_lime.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3445,8 +3445,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3454,9 +3454,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Strawberry Scones
@@ -3465,7 +3465,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3475,7 +3475,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/create_fruits/strawberry.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -3485,8 +3485,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3494,8 +3494,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3503,8 +3503,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3512,8 +3512,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3521,8 +3521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3530,8 +3530,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3539,8 +3539,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3548,8 +3548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3557,8 +3557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3566,8 +3566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3575,14 +3575,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Sweet Berry Cake
@@ -3590,10 +3590,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3602,13 +3602,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
-| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
+| - | Sweet Berry Cake Slice | ![sweet_berry_cake_slice](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
 
 ---
 ## Sweet Berry Cake Slice'}]
@@ -3616,7 +3616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berry Cake | ![sweet_berry_cake](../images/create_sweet_berry_cake.png) |
+| - | Sweet Berry Cake | ![sweet_berry_cake](../images/create_central_kitchen_sweet_berry_cake_slice.png) |
 
 ---
 ## {}
@@ -3624,7 +3624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -3632,7 +3632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -3642,10 +3642,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3653,9 +3653,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3663,9 +3663,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3673,7 +3673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3681,8 +3681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Syrup Bottle
@@ -3690,11 +3690,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Syrup Bucket | ![syrup_bucket](../images/create_syrup_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
+| - | Syrup Bucket | ![syrup_bucket](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
 
 ---
 ## Syrup Bucket
@@ -3702,11 +3702,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
-| - | Syrup Bottle | ![syrup_bottle](../images/create_syrup_bottle.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
+| - | Syrup Bottle | ![syrup_bottle](../images/create_central_kitchen_syrup_bucket.png) |
 
 ---
 ## Syrup Bucket
@@ -3714,7 +3714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sap Bucket | ![sap_bucket](../images/create_sap_bucket.png) |
+| item | Sap Bucket | ![sap_bucket](../images/create_central_kitchen_sap_bucket.png) |
 
 ---
 ## Syrup Bucket
@@ -3722,7 +3722,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sap Bucket | ![sap_bucket](../images/create_sap_bucket.png) |
+| item | Sap Bucket | ![sap_bucket](../images/create_central_kitchen_sap_bucket.png) |
 
 ---
 ## Syrup Bucket
@@ -3730,7 +3730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sap Bucket | ![sap_bucket](../images/create_sap_bucket.png) |
+| item | Sap Bucket | ![sap_bucket](../images/create_central_kitchen_sap_bucket.png) |
 
 ---
 ## {}
@@ -3747,11 +3747,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/create_bucket.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/create_tomato_sauce.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/create_tomato_sauce.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/create_tomato_sauce.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/create_tomato_sauce.png) |
+| - | Bucket | ![bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/create_central_kitchen_tomato_sauce_bucket.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/create_central_kitchen_tomato_sauce_bucket.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/create_central_kitchen_tomato_sauce_bucket.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/create_central_kitchen_tomato_sauce_bucket.png) |
 
 ---
 ## Tomato Sauce
@@ -3759,11 +3759,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomato Sauce Bucket | ![tomato_sauce_bucket](../images/create_tomato_sauce_bucket.png) |
-| - | Bowl | ![bowl](../images/create_bowl.png) |
-| - | Bowl | ![bowl](../images/create_bowl.png) |
-| - | Bowl | ![bowl](../images/create_bowl.png) |
-| - | Bowl | ![bowl](../images/create_bowl.png) |
+| - | Tomato Sauce Bucket | ![tomato_sauce_bucket](../images/create_central_kitchen_tomato_sauce_bucket.png) |
+| - | Bowl | ![bowl](../images/create_things_and_misc_bowl_of_porridge.png) |
+| - | Bowl | ![bowl](../images/create_things_and_misc_bowl_of_porridge.png) |
+| - | Bowl | ![bowl](../images/create_things_and_misc_bowl_of_porridge.png) |
+| - | Bowl | ![bowl](../images/create_things_and_misc_bowl_of_porridge.png) |
 
 ---
 ## {}
@@ -3771,7 +3771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pie Crust | ![pie_crust](../images/create_pie_crust.png) |
+| item | Pie Crust | ![pie_crust](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## Truffle Pie
@@ -3779,10 +3779,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_truffle_pie_slice.png) |
-| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_truffle_pie_slice.png) |
-| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_truffle_pie_slice.png) |
-| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_truffle_pie_slice.png) |
+| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_central_kitchen_truffle_pie_slice.png) |
+| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_central_kitchen_truffle_pie_slice.png) |
+| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_central_kitchen_truffle_pie_slice.png) |
+| - | Truffle Pie Slice | ![truffle_pie_slice](../images/create_central_kitchen_truffle_pie_slice.png) |
 
 ---
 ## Truffle Pie Slice'}]
@@ -3790,7 +3790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Truffle Pie | ![truffle_pie](../images/create_truffle_pie.png) |
+| - | Truffle Pie | ![truffle_pie](../images/create_central_kitchen_incomplete_truffle_pie.png) |
 
 ---
 ## {}
@@ -3798,8 +3798,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl Grain | ![ender_pearl_grain](../images/create_ender_pearl_grain.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ender Pearl Grain | ![ender_pearl_grain](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3807,14 +3807,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Vanilla Cake
@@ -3822,10 +3822,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3834,8 +3834,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3843,7 +3843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
 | - | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3852,7 +3852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 
@@ -3862,10 +3862,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3873,10 +3873,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3884,8 +3884,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3893,7 +3893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tortilla | ![tortilla](../images/create_tortilla.png) |
+| item | Tortilla | ![tortilla](../images/create_0.png) |
 
 ---
 ## {}
@@ -3909,7 +3909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wild Tea Bush | ![wild_tea_bush](../images/create_wild_tea_bush.png) |
+| - | Wild Tea Bush | ![wild_tea_bush](../images/create_builders_tea.png) |
 
 ---
 ## {}
@@ -3917,9 +3917,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
-| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
+| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3927,14 +3927,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
-| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
+| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Yellow Tea Cake
@@ -3942,10 +3942,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -3954,10 +3954,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_yellow_tea_leaves.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/create_builders_tea.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -3965,7 +3965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Tea Leaves | ![green_tea_leaves](../images/create_green_tea_leaves.png) |
+| - | Green Tea Leaves | ![green_tea_leaves](../images/create_builders_tea.png) |
 
 ---
 ## {}
@@ -3973,14 +3973,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/create_eggs.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
+| - | Eggs | ![eggs](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Yucca Fruit | ![yucca_fruit](../images/create_yucca_fruit.png) |
-| - | Yucca Fruit | ![yucca_fruit](../images/create_yucca_fruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Yucca Fruit | ![yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Yucca Fruit | ![yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Yucca Cake
@@ -3988,10 +3988,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yucca Fruit | ![yucca_fruit](../images/create_yucca_fruit.png) |
-| e | Eggs | ![eggs](../images/create_eggs.png) |
-| m | Milk | ![milk](../images/create_milk.png) |
-| s | Sugar | ![sugar](../images/create_sugar.png) |
+| # | Yucca Fruit | ![yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| e | Eggs | ![eggs](../images/create_0.png) |
+| m | Milk | ![milk](../images/create_0.png) |
+| s | Sugar | ![sugar](../images/create_0.png) |
 | w | Dough/Wheat | ![dough/wheat](../images/create_dough/wheat.png) |
 
 ---
@@ -4000,13 +4000,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
-| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
+| - | Yucca Cake Slice | ![yucca_cake_slice](../images/create_central_kitchen_yucca_cake_slice.png) |
 
 ---
 ## Yucca Cake Slice'}]
@@ -4014,7 +4014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Cake | ![yucca_cake](../images/create_yucca_cake.png) |
+| - | Yucca Cake | ![yucca_cake](../images/create_central_kitchen_yucca_cake_slice.png) |
 
 ---
 ## {}
@@ -4022,8 +4022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Fruit | ![yucca_fruit](../images/create_yucca_fruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Yucca Fruit | ![yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4031,12 +4031,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Yucca Fruit | ![roasted_yucca_fruit](../images/create_roasted_yucca_fruit.png) |
-| - | Roasted Yucca Fruit | ![roasted_yucca_fruit](../images/create_roasted_yucca_fruit.png) |
-| - | Yucca Flower | ![yucca_flower](../images/create_yucca_flower.png) |
+| - | Roasted Yucca Fruit | ![roasted_yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Roasted Yucca Fruit | ![roasted_yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Yucca Flower | ![yucca_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4044,10 +4044,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice Cubes | ![ice_cubes](../images/create_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/create_sugar.png) |
-| - | Yucca Fruit | ![yucca_fruit](../images/create_yucca_fruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Ice Cubes | ![ice_cubes](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
+| - | Sugar | ![sugar](../images/create_0.png) |
+| - | Yucca Fruit | ![yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4055,9 +4055,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Fruit | ![yucca_fruit](../images/create_yucca_fruit.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Yucca Fruit | ![yucca_fruit](../images/create_central_kitchen_incomplete_chorus_fruit_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4065,9 +4065,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_dried_vanilla_pods.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4083,7 +4083,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charcoal | ![charcoal](../images/create_charcoal.png) |
+| - | Charcoal | ![charcoal](../images/create_0.png) |
 
 ---
 ## {}
@@ -4091,7 +4091,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherrywood | ![cherrywood](../images/create_cherrywood.png) |
+| - | Cherrywood | ![cherrywood](../images/create_0.png) |
 
 ---
 ## {}
@@ -4099,7 +4099,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherrywood Log | ![cherrywood_log](../images/create_cherrywood_log.png) |
+| - | Cherrywood Log | ![cherrywood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -4107,7 +4107,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Log | ![cherry_log](../images/create_cherry_log.png) |
+| - | Cherry Log | ![cherry_log](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -4115,7 +4115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Wood | ![cherry_wood](../images/create_cherry_wood.png) |
+| - | Cherry Wood | ![cherry_wood](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -4123,7 +4123,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4131,8 +4131,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4148,7 +4148,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Nylium'}] | ![chorus_nylium'}]](../images/create_chorus_nylium'}].png) |
+| - | Chorus Nylium'}] | ![chorus_nylium'}]](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -4156,7 +4156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chrysoprase Ore | ![chrysoprase_ore](../images/create_chrysoprase_ore.png) |
+| - | Chrysoprase Ore | ![chrysoprase_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Chute
@@ -4173,7 +4173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cika Log | ![cika_log](../images/create_cika_log.png) |
+| - | Cika Log | ![cika_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -4181,7 +4181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cika Wood | ![cika_wood](../images/create_cika_wood.png) |
+| - | Cika Wood | ![cika_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -4197,7 +4197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Citrine Ore | ![citrine_ore](../images/create_citrine_ore.png) |
+| - | Citrine Ore | ![citrine_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -4205,7 +4205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay | ![clay](../images/create_clay.png) |
+| - | Clay | ![clay](../images/create_0.png) |
 
 ---
 ## Clipboard
@@ -4214,8 +4214,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| G | Planks | ![planks](../images/create_planks.png) |
-| P | Paper | ![paper](../images/create_paper.png) |
+| G | Planks | ![planks](../images/create_0.png) |
+| P | Paper | ![paper](../images/create_red_sand_paper.png) |
 
 ---
 ## Clipboard
@@ -4231,7 +4231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| B | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 | C | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 | S | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
 
@@ -4242,7 +4242,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| - | Shaft | ![shaft](../images/create_shaft.png) |
+| - | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 | - | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
 
 ---
@@ -4251,7 +4251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/create_coal.png) |
+| - | Coal | ![coal](../images/create_0.png) |
 
 ---
 ## {}
@@ -4259,7 +4259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal Ore | ![coal_ore](../images/create_coal_ore.png) |
+| - | Coal Ore | ![coal_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -4267,7 +4267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/create_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/create_0.png) |
 
 ---
 ## {}
@@ -4275,7 +4275,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cocoa Beans | ![cocoa_beans](../images/create_cocoa_beans.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/create_0.png) |
 
 ---
 ## {}
@@ -4283,7 +4283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coconut Log | ![coconut_log](../images/create_coconut_log.png) |
+| - | Coconut Log | ![coconut_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -4291,7 +4291,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coconut Wood | ![coconut_wood](../images/create_coconut_wood.png) |
+| - | Coconut Wood | ![coconut_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -4299,8 +4299,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shaft | ![shaft](../images/create_shaft.png) |
-| - | Planks | ![planks](../images/create_planks.png) |
+| - | Shaft | ![shaft](../images/create_gantry_shaft.png) |
+| - | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## {}
@@ -4309,7 +4309,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Chocolate Bricks
@@ -4326,7 +4326,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -4335,7 +4335,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bars/Chocolate | ![bars/chocolate](../images/create_bars/chocolate.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Content Observer
@@ -4344,7 +4344,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
-| I | Observer | ![observer](../images/create_observer.png) |
+| I | Observer | ![observer](../images/create_content_observer.png) |
 | R | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
 
 ---
@@ -4353,7 +4353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Buttons | ![buttons](../images/create_buttons.png) |
+| B | Buttons | ![buttons](../images/create_0.png) |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 | I | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
 
@@ -4373,7 +4373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Lever | ![lever](../images/create_lever.png) |
+| B | Lever | ![lever](../images/create_analog_lever.png) |
 | C | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
 | I | Precision Mechanism | ![precision_mechanism](../images/create_precision_mechanism.png) |
 
@@ -4384,8 +4384,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| B | Copper Block | ![copper_block](../images/create_copper_block.png) |
-| G | Shaft | ![shaft](../images/create_shaft.png) |
+| B | Copper Block | ![copper_block](../images/create_andesite_block.png) |
+| G | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 | P | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 
 ---
@@ -4402,7 +4402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Logs | ![stripped_logs](../images/create_stripped_logs.png) |
+| - | Stripped Logs | ![stripped_logs](../images/create_0.png) |
 | - | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 
 ---
@@ -4411,7 +4411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Wood | ![stripped_wood](../images/create_stripped_wood.png) |
+| - | Stripped Wood | ![stripped_wood](../images/create_0.png) |
 | - | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 
 ---
@@ -4429,7 +4429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/create_glass.png) |
+| G | Glass | ![glass](../images/create_framed_glass.png) |
 | P | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 
 ---
@@ -4438,7 +4438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Doors | ![wooden_doors](../images/create_wooden_doors.png) |
+| - | Wooden Doors | ![wooden_doors](../images/create_bracket_plate_wooden.png) |
 | - | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
 
 ---
@@ -4479,7 +4479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Ore | ![copper_ore](../images/create_copper_ore.png) |
+| - | Copper Ore | ![copper_ore](../images/create_copper_backtank.png) |
 
 ---
 ## Copper Scaffolding
@@ -4584,7 +4584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## Copycat Panel
@@ -4608,7 +4608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coral Ore | ![coral_ore](../images/create_coral_ore.png) |
+| - | Coral Ore | ![coral_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -4616,7 +4616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cornflower | ![cornflower](../images/create_cornflower.png) |
+| - | Cornflower | ![cornflower](../images/create_0.png) |
 
 ---
 ## {}
@@ -4624,7 +4624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cottonwood Log | ![cottonwood_log](../images/create_cottonwood_log.png) |
+| - | Cottonwood Log | ![cottonwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## Crafter Slot Cover
@@ -4640,8 +4640,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Painting | ![painting](../images/create_painting.png) |
-| - | Crafting Table | ![crafting_table](../images/create_crafting_table.png) |
+| - | Painting | ![painting](../images/create_0.png) |
+| - | Crafting Table | ![crafting_table](../images/create_crafting_blueprint.png) |
 
 ---
 ## {}
@@ -4649,7 +4649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimsite | ![crimsite](../images/create_crimsite.png) |
+| - | Crimsite | ![crimsite](../images/create_crimsite_0.png) |
 
 ---
 ## Crimsite
@@ -4681,7 +4681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Mushroom | ![red_mushroom](../images/create_red_mushroom.png) |
+| - | Red Mushroom | ![red_mushroom](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -4689,7 +4689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Hyphae | ![crimson_hyphae](../images/create_crimson_hyphae.png) |
+| - | Crimson Hyphae | ![crimson_hyphae](../images/create_crimson_window.png) |
 
 ---
 ## {}
@@ -4697,7 +4697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Stem | ![crimson_stem](../images/create_crimson_stem.png) |
+| - | Crimson Stem | ![crimson_stem](../images/create_crimson_window.png) |
 
 ---
 ## Crimson Window
@@ -4705,7 +4705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/create_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/create_crimson_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -4722,7 +4722,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crocus | ![crocus](../images/create_crocus.png) |
+| - | Crocus | ![crocus](../images/create_0.png) |
 
 ---
 ## {}
@@ -4730,7 +4730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crushed Calorite Ore | ![crushed_calorite_ore](../images/create_crushed_calorite_ore.png) |
+| - | Crushed Calorite Ore | ![crushed_calorite_ore](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -4738,7 +4738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crushed Desh Ore | ![crushed_desh_ore](../images/create_crushed_desh_ore.png) |
+| - | Crushed Desh Ore | ![crushed_desh_ore](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -4746,7 +4746,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crushed Ostrum Ore | ![crushed_ostrum_ore](../images/create_crushed_ostrum_ore.png) |
+| - | Crushed Ostrum Ore | ![crushed_ostrum_ore](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -4843,8 +4843,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| P | Planks | ![planks](../images/create_planks.png) |
-| S | Stone | ![stone](../images/create_stone.png) |
+| P | Planks | ![planks](../images/create_0.png) |
+| S | Stone | ![stone](../images/create_0.png) |
 
 ---
 ## {}
@@ -4852,7 +4852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crustose'}] | ![crustose'}]](../images/create_crustose'}].png) |
+| - | Crustose'}] | ![crustose'}]](../images/create_0.png) |
 
 ---
 ## {}
@@ -4860,7 +4860,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cryptic Magma Block | ![cryptic_magma_block](../images/create_cryptic_magma_block.png) |
+| - | Cryptic Magma Block | ![cryptic_magma_block](../images/create_things_and_misc_magma_cream_block.png) |
 
 ---
 ## {}
@@ -4868,7 +4868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cryptic Redstone Ore | ![cryptic_redstone_ore](../images/create_cryptic_redstone_ore.png) |
+| - | Cryptic Redstone Ore | ![cryptic_redstone_ore](../images/create_copper_redstone_plate.png) |
 
 ---
 ## {}
@@ -4876,7 +4876,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crystallized Log | ![crystallized_log](../images/create_crystallized_log.png) |
+| - | Crystallized Log | ![crystallized_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -4884,7 +4884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crystallized Wood | ![crystallized_wood](../images/create_crystallized_wood.png) |
+| - | Crystallized Wood | ![crystallized_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -4892,7 +4892,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crystal Moss'}] | ![crystal_moss'}]](../images/create_crystal_moss'}].png) |
+| - | Crystal Moss'}] | ![crystal_moss'}]](../images/create_0.png) |
 
 ---
 ## Cuckoo Clock
@@ -4900,9 +4900,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Clock | ![clock](../images/create_clock.png) |
+| A | Clock | ![clock](../images/create_cuckoo_clock.png) |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| S | Planks | ![planks](../images/create_planks.png) |
+| S | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## Cut Andesite Bricks
@@ -4918,7 +4918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Andesite Bricks | ![cut_andesite_bricks](../images/create_cut_andesite_bricks.png) |
+| X | Cut Andesite Bricks | ![cut_andesite_bricks](../images/create_andesite_cut.png) |
 
 ---
 ## Cut Andesite Brick Slab
@@ -4934,8 +4934,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Andesite Brick Slab | ![cut_andesite_brick_slab](../images/create_cut_andesite_brick_slab.png) |
-| - | Cut Andesite Brick Slab | ![cut_andesite_brick_slab](../images/create_cut_andesite_brick_slab.png) |
+| - | Cut Andesite Brick Slab | ![cut_andesite_brick_slab](../images/create_andesite_cut_brick.png) |
+| - | Cut Andesite Brick Slab | ![cut_andesite_brick_slab](../images/create_andesite_cut_brick.png) |
 
 ---
 ## Cut Andesite Brick Stairs
@@ -4943,7 +4943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Andesite Bricks | ![cut_andesite_bricks](../images/create_cut_andesite_bricks.png) |
+| X | Cut Andesite Bricks | ![cut_andesite_bricks](../images/create_andesite_cut.png) |
 
 ---
 ## Cut Andesite Brick Stairs
@@ -4959,7 +4959,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Andesite Bricks | ![cut_andesite_bricks](../images/create_cut_andesite_bricks.png) |
+| X | Cut Andesite Bricks | ![cut_andesite_bricks](../images/create_andesite_cut.png) |
 
 ---
 ## Cut Andesite Brick Wall
@@ -4983,7 +4983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Andesite | ![cut_andesite](../images/create_cut_andesite.png) |
+| X | Cut Andesite | ![cut_andesite](../images/create_andesite_cut.png) |
 
 ---
 ## Cut Andesite Slab
@@ -4999,8 +4999,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Andesite Slab | ![cut_andesite_slab](../images/create_cut_andesite_slab.png) |
-| - | Cut Andesite Slab | ![cut_andesite_slab](../images/create_cut_andesite_slab.png) |
+| - | Cut Andesite Slab | ![cut_andesite_slab](../images/create_andesite_cut_slab.png) |
+| - | Cut Andesite Slab | ![cut_andesite_slab](../images/create_andesite_cut_slab.png) |
 
 ---
 ## Cut Andesite Stairs
@@ -5008,7 +5008,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Andesite | ![cut_andesite](../images/create_cut_andesite.png) |
+| X | Cut Andesite | ![cut_andesite](../images/create_andesite_cut.png) |
 
 ---
 ## Cut Andesite Stairs
@@ -5024,7 +5024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Andesite | ![cut_andesite](../images/create_cut_andesite.png) |
+| X | Cut Andesite | ![cut_andesite](../images/create_andesite_cut.png) |
 
 ---
 ## Cut Andesite Wall
@@ -5048,7 +5048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Asurine Bricks | ![cut_asurine_bricks](../images/create_cut_asurine_bricks.png) |
+| X | Cut Asurine Bricks | ![cut_asurine_bricks](../images/create_asurine_cut.png) |
 
 ---
 ## Cut Asurine Brick Slab
@@ -5064,8 +5064,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Asurine Brick Slab | ![cut_asurine_brick_slab](../images/create_cut_asurine_brick_slab.png) |
-| - | Cut Asurine Brick Slab | ![cut_asurine_brick_slab](../images/create_cut_asurine_brick_slab.png) |
+| - | Cut Asurine Brick Slab | ![cut_asurine_brick_slab](../images/create_asurine_cut_brick.png) |
+| - | Cut Asurine Brick Slab | ![cut_asurine_brick_slab](../images/create_asurine_cut_brick.png) |
 
 ---
 ## Cut Asurine Brick Stairs
@@ -5073,7 +5073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Asurine Bricks | ![cut_asurine_bricks](../images/create_cut_asurine_bricks.png) |
+| X | Cut Asurine Bricks | ![cut_asurine_bricks](../images/create_asurine_cut.png) |
 
 ---
 ## Cut Asurine Brick Stairs
@@ -5089,7 +5089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Asurine Bricks | ![cut_asurine_bricks](../images/create_cut_asurine_bricks.png) |
+| X | Cut Asurine Bricks | ![cut_asurine_bricks](../images/create_asurine_cut.png) |
 
 ---
 ## Cut Asurine Brick Wall
@@ -5113,7 +5113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Asurine | ![cut_asurine](../images/create_cut_asurine.png) |
+| X | Cut Asurine | ![cut_asurine](../images/create_asurine_cut.png) |
 
 ---
 ## Cut Asurine Slab
@@ -5129,8 +5129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Asurine Slab | ![cut_asurine_slab](../images/create_cut_asurine_slab.png) |
-| - | Cut Asurine Slab | ![cut_asurine_slab](../images/create_cut_asurine_slab.png) |
+| - | Cut Asurine Slab | ![cut_asurine_slab](../images/create_asurine_cut_slab.png) |
+| - | Cut Asurine Slab | ![cut_asurine_slab](../images/create_asurine_cut_slab.png) |
 
 ---
 ## Cut Asurine Stairs
@@ -5138,7 +5138,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Asurine | ![cut_asurine](../images/create_cut_asurine.png) |
+| X | Cut Asurine | ![cut_asurine](../images/create_asurine_cut.png) |
 
 ---
 ## Cut Asurine Stairs
@@ -5154,7 +5154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Asurine | ![cut_asurine](../images/create_cut_asurine.png) |
+| X | Cut Asurine | ![cut_asurine](../images/create_asurine_cut.png) |
 
 ---
 ## Cut Asurine Wall
@@ -5178,7 +5178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Calcite Bricks | ![cut_calcite_bricks](../images/create_cut_calcite_bricks.png) |
+| X | Cut Calcite Bricks | ![cut_calcite_bricks](../images/create_calcite_cut.png) |
 
 ---
 ## Cut Calcite Brick Slab
@@ -5194,8 +5194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Calcite Brick Slab | ![cut_calcite_brick_slab](../images/create_cut_calcite_brick_slab.png) |
-| - | Cut Calcite Brick Slab | ![cut_calcite_brick_slab](../images/create_cut_calcite_brick_slab.png) |
+| - | Cut Calcite Brick Slab | ![cut_calcite_brick_slab](../images/create_calcite_cut_brick.png) |
+| - | Cut Calcite Brick Slab | ![cut_calcite_brick_slab](../images/create_calcite_cut_brick.png) |
 
 ---
 ## Cut Calcite Brick Stairs
@@ -5203,7 +5203,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Calcite Bricks | ![cut_calcite_bricks](../images/create_cut_calcite_bricks.png) |
+| X | Cut Calcite Bricks | ![cut_calcite_bricks](../images/create_calcite_cut.png) |
 
 ---
 ## Cut Calcite Brick Stairs
@@ -5219,7 +5219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Calcite Bricks | ![cut_calcite_bricks](../images/create_cut_calcite_bricks.png) |
+| X | Cut Calcite Bricks | ![cut_calcite_bricks](../images/create_calcite_cut.png) |
 
 ---
 ## Cut Calcite Brick Wall
@@ -5243,7 +5243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Calcite | ![cut_calcite](../images/create_cut_calcite.png) |
+| X | Cut Calcite | ![cut_calcite](../images/create_calcite_cut.png) |
 
 ---
 ## Cut Calcite Slab
@@ -5259,8 +5259,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Calcite Slab | ![cut_calcite_slab](../images/create_cut_calcite_slab.png) |
-| - | Cut Calcite Slab | ![cut_calcite_slab](../images/create_cut_calcite_slab.png) |
+| - | Cut Calcite Slab | ![cut_calcite_slab](../images/create_calcite_cut_slab.png) |
+| - | Cut Calcite Slab | ![cut_calcite_slab](../images/create_calcite_cut_slab.png) |
 
 ---
 ## Cut Calcite Stairs
@@ -5268,7 +5268,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Calcite | ![cut_calcite](../images/create_cut_calcite.png) |
+| X | Cut Calcite | ![cut_calcite](../images/create_calcite_cut.png) |
 
 ---
 ## Cut Calcite Stairs
@@ -5284,7 +5284,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Calcite | ![cut_calcite](../images/create_cut_calcite.png) |
+| X | Cut Calcite | ![cut_calcite](../images/create_calcite_cut.png) |
 
 ---
 ## Cut Calcite Wall
@@ -5308,7 +5308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Crimsite Bricks | ![cut_crimsite_bricks](../images/create_cut_crimsite_bricks.png) |
+| X | Cut Crimsite Bricks | ![cut_crimsite_bricks](../images/create_crimsite_cut.png) |
 
 ---
 ## Cut Crimsite Brick Slab
@@ -5324,8 +5324,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Crimsite Brick Slab | ![cut_crimsite_brick_slab](../images/create_cut_crimsite_brick_slab.png) |
-| - | Cut Crimsite Brick Slab | ![cut_crimsite_brick_slab](../images/create_cut_crimsite_brick_slab.png) |
+| - | Cut Crimsite Brick Slab | ![cut_crimsite_brick_slab](../images/create_crimsite_cut_brick.png) |
+| - | Cut Crimsite Brick Slab | ![cut_crimsite_brick_slab](../images/create_crimsite_cut_brick.png) |
 
 ---
 ## Cut Crimsite Brick Stairs
@@ -5333,7 +5333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Crimsite Bricks | ![cut_crimsite_bricks](../images/create_cut_crimsite_bricks.png) |
+| X | Cut Crimsite Bricks | ![cut_crimsite_bricks](../images/create_crimsite_cut.png) |
 
 ---
 ## Cut Crimsite Brick Stairs
@@ -5349,7 +5349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Crimsite Bricks | ![cut_crimsite_bricks](../images/create_cut_crimsite_bricks.png) |
+| X | Cut Crimsite Bricks | ![cut_crimsite_bricks](../images/create_crimsite_cut.png) |
 
 ---
 ## Cut Crimsite Brick Wall
@@ -5373,7 +5373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Crimsite | ![cut_crimsite](../images/create_cut_crimsite.png) |
+| X | Cut Crimsite | ![cut_crimsite](../images/create_crimsite_cut.png) |
 
 ---
 ## Cut Crimsite Slab
@@ -5389,8 +5389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Crimsite Slab | ![cut_crimsite_slab](../images/create_cut_crimsite_slab.png) |
-| - | Cut Crimsite Slab | ![cut_crimsite_slab](../images/create_cut_crimsite_slab.png) |
+| - | Cut Crimsite Slab | ![cut_crimsite_slab](../images/create_crimsite_cut_slab.png) |
+| - | Cut Crimsite Slab | ![cut_crimsite_slab](../images/create_crimsite_cut_slab.png) |
 
 ---
 ## Cut Crimsite Stairs
@@ -5398,7 +5398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Crimsite | ![cut_crimsite](../images/create_cut_crimsite.png) |
+| X | Cut Crimsite | ![cut_crimsite](../images/create_crimsite_cut.png) |
 
 ---
 ## Cut Crimsite Stairs
@@ -5414,7 +5414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Crimsite | ![cut_crimsite](../images/create_cut_crimsite.png) |
+| X | Cut Crimsite | ![cut_crimsite](../images/create_crimsite_cut.png) |
 
 ---
 ## Cut Crimsite Wall
@@ -5438,7 +5438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Deepslate Bricks | ![cut_deepslate_bricks](../images/create_cut_deepslate_bricks.png) |
+| X | Cut Deepslate Bricks | ![cut_deepslate_bricks](../images/create_deepslate_cut.png) |
 
 ---
 ## Cut Deepslate Brick Slab
@@ -5454,8 +5454,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Deepslate Brick Slab | ![cut_deepslate_brick_slab](../images/create_cut_deepslate_brick_slab.png) |
-| - | Cut Deepslate Brick Slab | ![cut_deepslate_brick_slab](../images/create_cut_deepslate_brick_slab.png) |
+| - | Cut Deepslate Brick Slab | ![cut_deepslate_brick_slab](../images/create_deepslate_cut_brick.png) |
+| - | Cut Deepslate Brick Slab | ![cut_deepslate_brick_slab](../images/create_deepslate_cut_brick.png) |
 
 ---
 ## Cut Deepslate Brick Stairs
@@ -5463,7 +5463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Deepslate Bricks | ![cut_deepslate_bricks](../images/create_cut_deepslate_bricks.png) |
+| X | Cut Deepslate Bricks | ![cut_deepslate_bricks](../images/create_deepslate_cut.png) |
 
 ---
 ## Cut Deepslate Brick Stairs
@@ -5479,7 +5479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Deepslate Bricks | ![cut_deepslate_bricks](../images/create_cut_deepslate_bricks.png) |
+| X | Cut Deepslate Bricks | ![cut_deepslate_bricks](../images/create_deepslate_cut.png) |
 
 ---
 ## Cut Deepslate Brick Wall
@@ -5503,7 +5503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Deepslate | ![cut_deepslate](../images/create_cut_deepslate.png) |
+| X | Cut Deepslate | ![cut_deepslate](../images/create_deepslate_cut.png) |
 
 ---
 ## Cut Deepslate Slab
@@ -5519,8 +5519,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Deepslate Slab | ![cut_deepslate_slab](../images/create_cut_deepslate_slab.png) |
-| - | Cut Deepslate Slab | ![cut_deepslate_slab](../images/create_cut_deepslate_slab.png) |
+| - | Cut Deepslate Slab | ![cut_deepslate_slab](../images/create_deepslate_cut_slab.png) |
+| - | Cut Deepslate Slab | ![cut_deepslate_slab](../images/create_deepslate_cut_slab.png) |
 
 ---
 ## Cut Deepslate Stairs
@@ -5528,7 +5528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Deepslate | ![cut_deepslate](../images/create_cut_deepslate.png) |
+| X | Cut Deepslate | ![cut_deepslate](../images/create_deepslate_cut.png) |
 
 ---
 ## Cut Deepslate Stairs
@@ -5544,7 +5544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Deepslate | ![cut_deepslate](../images/create_cut_deepslate.png) |
+| X | Cut Deepslate | ![cut_deepslate](../images/create_deepslate_cut.png) |
 
 ---
 ## Cut Deepslate Wall
@@ -5568,7 +5568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Diorite Bricks | ![cut_diorite_bricks](../images/create_cut_diorite_bricks.png) |
+| X | Cut Diorite Bricks | ![cut_diorite_bricks](../images/create_diorite_cut.png) |
 
 ---
 ## Cut Diorite Brick Slab
@@ -5584,8 +5584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Diorite Brick Slab | ![cut_diorite_brick_slab](../images/create_cut_diorite_brick_slab.png) |
-| - | Cut Diorite Brick Slab | ![cut_diorite_brick_slab](../images/create_cut_diorite_brick_slab.png) |
+| - | Cut Diorite Brick Slab | ![cut_diorite_brick_slab](../images/create_diorite_cut_brick.png) |
+| - | Cut Diorite Brick Slab | ![cut_diorite_brick_slab](../images/create_diorite_cut_brick.png) |
 
 ---
 ## Cut Diorite Brick Stairs
@@ -5593,7 +5593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Diorite Bricks | ![cut_diorite_bricks](../images/create_cut_diorite_bricks.png) |
+| X | Cut Diorite Bricks | ![cut_diorite_bricks](../images/create_diorite_cut.png) |
 
 ---
 ## Cut Diorite Brick Stairs
@@ -5609,7 +5609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Diorite Bricks | ![cut_diorite_bricks](../images/create_cut_diorite_bricks.png) |
+| X | Cut Diorite Bricks | ![cut_diorite_bricks](../images/create_diorite_cut.png) |
 
 ---
 ## Cut Diorite Brick Wall
@@ -5633,7 +5633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Diorite | ![cut_diorite](../images/create_cut_diorite.png) |
+| X | Cut Diorite | ![cut_diorite](../images/create_diorite_cut.png) |
 
 ---
 ## Cut Diorite Slab
@@ -5649,8 +5649,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Diorite Slab | ![cut_diorite_slab](../images/create_cut_diorite_slab.png) |
-| - | Cut Diorite Slab | ![cut_diorite_slab](../images/create_cut_diorite_slab.png) |
+| - | Cut Diorite Slab | ![cut_diorite_slab](../images/create_diorite_cut_slab.png) |
+| - | Cut Diorite Slab | ![cut_diorite_slab](../images/create_diorite_cut_slab.png) |
 
 ---
 ## Cut Diorite Stairs
@@ -5658,7 +5658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Diorite | ![cut_diorite](../images/create_cut_diorite.png) |
+| X | Cut Diorite | ![cut_diorite](../images/create_diorite_cut.png) |
 
 ---
 ## Cut Diorite Stairs
@@ -5674,7 +5674,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Diorite | ![cut_diorite](../images/create_cut_diorite.png) |
+| X | Cut Diorite | ![cut_diorite](../images/create_diorite_cut.png) |
 
 ---
 ## Cut Diorite Wall
@@ -5698,7 +5698,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Dripstone Bricks | ![cut_dripstone_bricks](../images/create_cut_dripstone_bricks.png) |
+| X | Cut Dripstone Bricks | ![cut_dripstone_bricks](../images/create_dripstone_cut.png) |
 
 ---
 ## Cut Dripstone Brick Slab
@@ -5714,8 +5714,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Dripstone Brick Slab | ![cut_dripstone_brick_slab](../images/create_cut_dripstone_brick_slab.png) |
-| - | Cut Dripstone Brick Slab | ![cut_dripstone_brick_slab](../images/create_cut_dripstone_brick_slab.png) |
+| - | Cut Dripstone Brick Slab | ![cut_dripstone_brick_slab](../images/create_dripstone_cut_brick.png) |
+| - | Cut Dripstone Brick Slab | ![cut_dripstone_brick_slab](../images/create_dripstone_cut_brick.png) |
 
 ---
 ## Cut Dripstone Brick Stairs
@@ -5723,7 +5723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Dripstone Bricks | ![cut_dripstone_bricks](../images/create_cut_dripstone_bricks.png) |
+| X | Cut Dripstone Bricks | ![cut_dripstone_bricks](../images/create_dripstone_cut.png) |
 
 ---
 ## Cut Dripstone Brick Stairs
@@ -5739,7 +5739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Dripstone Bricks | ![cut_dripstone_bricks](../images/create_cut_dripstone_bricks.png) |
+| X | Cut Dripstone Bricks | ![cut_dripstone_bricks](../images/create_dripstone_cut.png) |
 
 ---
 ## Cut Dripstone Brick Wall
@@ -5763,7 +5763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Dripstone | ![cut_dripstone](../images/create_cut_dripstone.png) |
+| X | Cut Dripstone | ![cut_dripstone](../images/create_dripstone_cut.png) |
 
 ---
 ## Cut Dripstone Slab
@@ -5779,8 +5779,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Dripstone Slab | ![cut_dripstone_slab](../images/create_cut_dripstone_slab.png) |
-| - | Cut Dripstone Slab | ![cut_dripstone_slab](../images/create_cut_dripstone_slab.png) |
+| - | Cut Dripstone Slab | ![cut_dripstone_slab](../images/create_dripstone_cut_slab.png) |
+| - | Cut Dripstone Slab | ![cut_dripstone_slab](../images/create_dripstone_cut_slab.png) |
 
 ---
 ## Cut Dripstone Stairs
@@ -5788,7 +5788,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Dripstone | ![cut_dripstone](../images/create_cut_dripstone.png) |
+| X | Cut Dripstone | ![cut_dripstone](../images/create_dripstone_cut.png) |
 
 ---
 ## Cut Dripstone Stairs
@@ -5804,7 +5804,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Dripstone | ![cut_dripstone](../images/create_cut_dripstone.png) |
+| X | Cut Dripstone | ![cut_dripstone](../images/create_dripstone_cut.png) |
 
 ---
 ## Cut Dripstone Wall
@@ -5828,7 +5828,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Granite Bricks | ![cut_granite_bricks](../images/create_cut_granite_bricks.png) |
+| X | Cut Granite Bricks | ![cut_granite_bricks](../images/create_granite_cut.png) |
 
 ---
 ## Cut Granite Brick Slab
@@ -5844,8 +5844,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Granite Brick Slab | ![cut_granite_brick_slab](../images/create_cut_granite_brick_slab.png) |
-| - | Cut Granite Brick Slab | ![cut_granite_brick_slab](../images/create_cut_granite_brick_slab.png) |
+| - | Cut Granite Brick Slab | ![cut_granite_brick_slab](../images/create_granite_cut_brick.png) |
+| - | Cut Granite Brick Slab | ![cut_granite_brick_slab](../images/create_granite_cut_brick.png) |
 
 ---
 ## Cut Granite Brick Stairs
@@ -5853,7 +5853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Granite Bricks | ![cut_granite_bricks](../images/create_cut_granite_bricks.png) |
+| X | Cut Granite Bricks | ![cut_granite_bricks](../images/create_granite_cut.png) |
 
 ---
 ## Cut Granite Brick Stairs
@@ -5869,7 +5869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Granite Bricks | ![cut_granite_bricks](../images/create_cut_granite_bricks.png) |
+| X | Cut Granite Bricks | ![cut_granite_bricks](../images/create_granite_cut.png) |
 
 ---
 ## Cut Granite Brick Wall
@@ -5893,7 +5893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Granite | ![cut_granite](../images/create_cut_granite.png) |
+| X | Cut Granite | ![cut_granite](../images/create_granite_cut.png) |
 
 ---
 ## Cut Granite Slab
@@ -5909,8 +5909,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Granite Slab | ![cut_granite_slab](../images/create_cut_granite_slab.png) |
-| - | Cut Granite Slab | ![cut_granite_slab](../images/create_cut_granite_slab.png) |
+| - | Cut Granite Slab | ![cut_granite_slab](../images/create_granite_cut_slab.png) |
+| - | Cut Granite Slab | ![cut_granite_slab](../images/create_granite_cut_slab.png) |
 
 ---
 ## Cut Granite Stairs
@@ -5918,7 +5918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Granite | ![cut_granite](../images/create_cut_granite.png) |
+| X | Cut Granite | ![cut_granite](../images/create_granite_cut.png) |
 
 ---
 ## Cut Granite Stairs
@@ -5934,7 +5934,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Granite | ![cut_granite](../images/create_cut_granite.png) |
+| X | Cut Granite | ![cut_granite](../images/create_granite_cut.png) |
 
 ---
 ## Cut Granite Wall
@@ -5958,7 +5958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Limestone Bricks | ![cut_limestone_bricks](../images/create_cut_limestone_bricks.png) |
+| X | Cut Limestone Bricks | ![cut_limestone_bricks](../images/create_limestone_cut.png) |
 
 ---
 ## Cut Limestone Brick Slab
@@ -5974,8 +5974,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Limestone Brick Slab | ![cut_limestone_brick_slab](../images/create_cut_limestone_brick_slab.png) |
-| - | Cut Limestone Brick Slab | ![cut_limestone_brick_slab](../images/create_cut_limestone_brick_slab.png) |
+| - | Cut Limestone Brick Slab | ![cut_limestone_brick_slab](../images/create_limestone_cut_brick.png) |
+| - | Cut Limestone Brick Slab | ![cut_limestone_brick_slab](../images/create_limestone_cut_brick.png) |
 
 ---
 ## Cut Limestone Brick Stairs
@@ -5983,7 +5983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Limestone Bricks | ![cut_limestone_bricks](../images/create_cut_limestone_bricks.png) |
+| X | Cut Limestone Bricks | ![cut_limestone_bricks](../images/create_limestone_cut.png) |
 
 ---
 ## Cut Limestone Brick Stairs
@@ -5999,7 +5999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Limestone Bricks | ![cut_limestone_bricks](../images/create_cut_limestone_bricks.png) |
+| X | Cut Limestone Bricks | ![cut_limestone_bricks](../images/create_limestone_cut.png) |
 
 ---
 ## Cut Limestone Brick Wall
@@ -6023,7 +6023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Limestone | ![cut_limestone](../images/create_cut_limestone.png) |
+| X | Cut Limestone | ![cut_limestone](../images/create_limestone_cut.png) |
 
 ---
 ## Cut Limestone Slab
@@ -6039,8 +6039,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Limestone Slab | ![cut_limestone_slab](../images/create_cut_limestone_slab.png) |
-| - | Cut Limestone Slab | ![cut_limestone_slab](../images/create_cut_limestone_slab.png) |
+| - | Cut Limestone Slab | ![cut_limestone_slab](../images/create_limestone_cut_slab.png) |
+| - | Cut Limestone Slab | ![cut_limestone_slab](../images/create_limestone_cut_slab.png) |
 
 ---
 ## Cut Limestone Stairs
@@ -6048,7 +6048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Limestone | ![cut_limestone](../images/create_cut_limestone.png) |
+| X | Cut Limestone | ![cut_limestone](../images/create_limestone_cut.png) |
 
 ---
 ## Cut Limestone Stairs
@@ -6064,7 +6064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Limestone | ![cut_limestone](../images/create_cut_limestone.png) |
+| X | Cut Limestone | ![cut_limestone](../images/create_limestone_cut.png) |
 
 ---
 ## Cut Limestone Wall
@@ -6088,7 +6088,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Ochrum Bricks | ![cut_ochrum_bricks](../images/create_cut_ochrum_bricks.png) |
+| X | Cut Ochrum Bricks | ![cut_ochrum_bricks](../images/create_ochrum_cut.png) |
 
 ---
 ## Cut Ochrum Brick Slab
@@ -6104,8 +6104,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Ochrum Brick Slab | ![cut_ochrum_brick_slab](../images/create_cut_ochrum_brick_slab.png) |
-| - | Cut Ochrum Brick Slab | ![cut_ochrum_brick_slab](../images/create_cut_ochrum_brick_slab.png) |
+| - | Cut Ochrum Brick Slab | ![cut_ochrum_brick_slab](../images/create_ochrum_cut_brick.png) |
+| - | Cut Ochrum Brick Slab | ![cut_ochrum_brick_slab](../images/create_ochrum_cut_brick.png) |
 
 ---
 ## Cut Ochrum Brick Stairs
@@ -6113,7 +6113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Ochrum Bricks | ![cut_ochrum_bricks](../images/create_cut_ochrum_bricks.png) |
+| X | Cut Ochrum Bricks | ![cut_ochrum_bricks](../images/create_ochrum_cut.png) |
 
 ---
 ## Cut Ochrum Brick Stairs
@@ -6129,7 +6129,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Ochrum Bricks | ![cut_ochrum_bricks](../images/create_cut_ochrum_bricks.png) |
+| X | Cut Ochrum Bricks | ![cut_ochrum_bricks](../images/create_ochrum_cut.png) |
 
 ---
 ## Cut Ochrum Brick Wall
@@ -6153,7 +6153,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Ochrum | ![cut_ochrum](../images/create_cut_ochrum.png) |
+| X | Cut Ochrum | ![cut_ochrum](../images/create_ochrum_cut.png) |
 
 ---
 ## Cut Ochrum Slab
@@ -6169,8 +6169,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Ochrum Slab | ![cut_ochrum_slab](../images/create_cut_ochrum_slab.png) |
-| - | Cut Ochrum Slab | ![cut_ochrum_slab](../images/create_cut_ochrum_slab.png) |
+| - | Cut Ochrum Slab | ![cut_ochrum_slab](../images/create_ochrum_cut_slab.png) |
+| - | Cut Ochrum Slab | ![cut_ochrum_slab](../images/create_ochrum_cut_slab.png) |
 
 ---
 ## Cut Ochrum Stairs
@@ -6178,7 +6178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Ochrum | ![cut_ochrum](../images/create_cut_ochrum.png) |
+| X | Cut Ochrum | ![cut_ochrum](../images/create_ochrum_cut.png) |
 
 ---
 ## Cut Ochrum Stairs
@@ -6194,7 +6194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Ochrum | ![cut_ochrum](../images/create_cut_ochrum.png) |
+| X | Cut Ochrum | ![cut_ochrum](../images/create_ochrum_cut.png) |
 
 ---
 ## Cut Ochrum Wall
@@ -6218,7 +6218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scorchia Bricks | ![cut_scorchia_bricks](../images/create_cut_scorchia_bricks.png) |
+| X | Cut Scorchia Bricks | ![cut_scorchia_bricks](../images/create_scorchia_cut.png) |
 
 ---
 ## Cut Scorchia Brick Slab
@@ -6234,8 +6234,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Scorchia Brick Slab | ![cut_scorchia_brick_slab](../images/create_cut_scorchia_brick_slab.png) |
-| - | Cut Scorchia Brick Slab | ![cut_scorchia_brick_slab](../images/create_cut_scorchia_brick_slab.png) |
+| - | Cut Scorchia Brick Slab | ![cut_scorchia_brick_slab](../images/create_scorchia_cut_brick.png) |
+| - | Cut Scorchia Brick Slab | ![cut_scorchia_brick_slab](../images/create_scorchia_cut_brick.png) |
 
 ---
 ## Cut Scorchia Brick Stairs
@@ -6243,7 +6243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scorchia Bricks | ![cut_scorchia_bricks](../images/create_cut_scorchia_bricks.png) |
+| X | Cut Scorchia Bricks | ![cut_scorchia_bricks](../images/create_scorchia_cut.png) |
 
 ---
 ## Cut Scorchia Brick Stairs
@@ -6259,7 +6259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scorchia Bricks | ![cut_scorchia_bricks](../images/create_cut_scorchia_bricks.png) |
+| X | Cut Scorchia Bricks | ![cut_scorchia_bricks](../images/create_scorchia_cut.png) |
 
 ---
 ## Cut Scorchia Brick Wall
@@ -6283,7 +6283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scorchia | ![cut_scorchia](../images/create_cut_scorchia.png) |
+| X | Cut Scorchia | ![cut_scorchia](../images/create_scorchia_cut.png) |
 
 ---
 ## Cut Scorchia Slab
@@ -6299,8 +6299,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Scorchia Slab | ![cut_scorchia_slab](../images/create_cut_scorchia_slab.png) |
-| - | Cut Scorchia Slab | ![cut_scorchia_slab](../images/create_cut_scorchia_slab.png) |
+| - | Cut Scorchia Slab | ![cut_scorchia_slab](../images/create_scorchia_cut_slab.png) |
+| - | Cut Scorchia Slab | ![cut_scorchia_slab](../images/create_scorchia_cut_slab.png) |
 
 ---
 ## Cut Scorchia Stairs
@@ -6308,7 +6308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scorchia | ![cut_scorchia](../images/create_cut_scorchia.png) |
+| X | Cut Scorchia | ![cut_scorchia](../images/create_scorchia_cut.png) |
 
 ---
 ## Cut Scorchia Stairs
@@ -6324,7 +6324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scorchia | ![cut_scorchia](../images/create_cut_scorchia.png) |
+| X | Cut Scorchia | ![cut_scorchia](../images/create_scorchia_cut.png) |
 
 ---
 ## Cut Scorchia Wall
@@ -6348,7 +6348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scoria Bricks | ![cut_scoria_bricks](../images/create_cut_scoria_bricks.png) |
+| X | Cut Scoria Bricks | ![cut_scoria_bricks](../images/create_scoria_cut.png) |
 
 ---
 ## Cut Scoria Brick Slab
@@ -6364,8 +6364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Scoria Brick Slab | ![cut_scoria_brick_slab](../images/create_cut_scoria_brick_slab.png) |
-| - | Cut Scoria Brick Slab | ![cut_scoria_brick_slab](../images/create_cut_scoria_brick_slab.png) |
+| - | Cut Scoria Brick Slab | ![cut_scoria_brick_slab](../images/create_scoria_cut_brick.png) |
+| - | Cut Scoria Brick Slab | ![cut_scoria_brick_slab](../images/create_scoria_cut_brick.png) |
 
 ---
 ## Cut Scoria Brick Stairs
@@ -6373,7 +6373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scoria Bricks | ![cut_scoria_bricks](../images/create_cut_scoria_bricks.png) |
+| X | Cut Scoria Bricks | ![cut_scoria_bricks](../images/create_scoria_cut.png) |
 
 ---
 ## Cut Scoria Brick Stairs
@@ -6389,7 +6389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scoria Bricks | ![cut_scoria_bricks](../images/create_cut_scoria_bricks.png) |
+| X | Cut Scoria Bricks | ![cut_scoria_bricks](../images/create_scoria_cut.png) |
 
 ---
 ## Cut Scoria Brick Wall
@@ -6413,7 +6413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scoria | ![cut_scoria](../images/create_cut_scoria.png) |
+| X | Cut Scoria | ![cut_scoria](../images/create_scoria_cut.png) |
 
 ---
 ## Cut Scoria Slab
@@ -6429,8 +6429,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Scoria Slab | ![cut_scoria_slab](../images/create_cut_scoria_slab.png) |
-| - | Cut Scoria Slab | ![cut_scoria_slab](../images/create_cut_scoria_slab.png) |
+| - | Cut Scoria Slab | ![cut_scoria_slab](../images/create_scoria_cut_slab.png) |
+| - | Cut Scoria Slab | ![cut_scoria_slab](../images/create_scoria_cut_slab.png) |
 
 ---
 ## Cut Scoria Stairs
@@ -6438,7 +6438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scoria | ![cut_scoria](../images/create_cut_scoria.png) |
+| X | Cut Scoria | ![cut_scoria](../images/create_scoria_cut.png) |
 
 ---
 ## Cut Scoria Stairs
@@ -6454,7 +6454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Scoria | ![cut_scoria](../images/create_cut_scoria.png) |
+| X | Cut Scoria | ![cut_scoria](../images/create_scoria_cut.png) |
 
 ---
 ## Cut Scoria Wall
@@ -6478,7 +6478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Tuff Bricks | ![cut_tuff_bricks](../images/create_cut_tuff_bricks.png) |
+| X | Cut Tuff Bricks | ![cut_tuff_bricks](../images/create_tuff_cut.png) |
 
 ---
 ## Cut Tuff Brick Slab
@@ -6494,8 +6494,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Tuff Brick Slab | ![cut_tuff_brick_slab](../images/create_cut_tuff_brick_slab.png) |
-| - | Cut Tuff Brick Slab | ![cut_tuff_brick_slab](../images/create_cut_tuff_brick_slab.png) |
+| - | Cut Tuff Brick Slab | ![cut_tuff_brick_slab](../images/create_tuff_cut_brick.png) |
+| - | Cut Tuff Brick Slab | ![cut_tuff_brick_slab](../images/create_tuff_cut_brick.png) |
 
 ---
 ## Cut Tuff Brick Stairs
@@ -6503,7 +6503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Tuff Bricks | ![cut_tuff_bricks](../images/create_cut_tuff_bricks.png) |
+| X | Cut Tuff Bricks | ![cut_tuff_bricks](../images/create_tuff_cut.png) |
 
 ---
 ## Cut Tuff Brick Stairs
@@ -6519,7 +6519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Tuff Bricks | ![cut_tuff_bricks](../images/create_cut_tuff_bricks.png) |
+| X | Cut Tuff Bricks | ![cut_tuff_bricks](../images/create_tuff_cut.png) |
 
 ---
 ## Cut Tuff Brick Wall
@@ -6543,7 +6543,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Tuff | ![cut_tuff](../images/create_cut_tuff.png) |
+| X | Cut Tuff | ![cut_tuff](../images/create_tuff_cut.png) |
 
 ---
 ## Cut Tuff Slab
@@ -6559,8 +6559,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Tuff Slab | ![cut_tuff_slab](../images/create_cut_tuff_slab.png) |
-| - | Cut Tuff Slab | ![cut_tuff_slab](../images/create_cut_tuff_slab.png) |
+| - | Cut Tuff Slab | ![cut_tuff_slab](../images/create_tuff_cut_slab.png) |
+| - | Cut Tuff Slab | ![cut_tuff_slab](../images/create_tuff_cut_slab.png) |
 
 ---
 ## Cut Tuff Stairs
@@ -6568,7 +6568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Tuff | ![cut_tuff](../images/create_cut_tuff.png) |
+| X | Cut Tuff | ![cut_tuff](../images/create_tuff_cut.png) |
 
 ---
 ## Cut Tuff Stairs
@@ -6584,7 +6584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Tuff | ![cut_tuff](../images/create_cut_tuff.png) |
+| X | Cut Tuff | ![cut_tuff](../images/create_tuff_cut.png) |
 
 ---
 ## Cut Tuff Wall
@@ -6608,7 +6608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Veridium Bricks | ![cut_veridium_bricks](../images/create_cut_veridium_bricks.png) |
+| X | Cut Veridium Bricks | ![cut_veridium_bricks](../images/create_veridium_cut.png) |
 
 ---
 ## Cut Veridium Brick Slab
@@ -6624,8 +6624,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Veridium Brick Slab | ![cut_veridium_brick_slab](../images/create_cut_veridium_brick_slab.png) |
-| - | Cut Veridium Brick Slab | ![cut_veridium_brick_slab](../images/create_cut_veridium_brick_slab.png) |
+| - | Cut Veridium Brick Slab | ![cut_veridium_brick_slab](../images/create_veridium_cut_brick.png) |
+| - | Cut Veridium Brick Slab | ![cut_veridium_brick_slab](../images/create_veridium_cut_brick.png) |
 
 ---
 ## Cut Veridium Brick Stairs
@@ -6633,7 +6633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Veridium Bricks | ![cut_veridium_bricks](../images/create_cut_veridium_bricks.png) |
+| X | Cut Veridium Bricks | ![cut_veridium_bricks](../images/create_veridium_cut.png) |
 
 ---
 ## Cut Veridium Brick Stairs
@@ -6649,7 +6649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Veridium Bricks | ![cut_veridium_bricks](../images/create_cut_veridium_bricks.png) |
+| X | Cut Veridium Bricks | ![cut_veridium_bricks](../images/create_veridium_cut.png) |
 
 ---
 ## Cut Veridium Brick Wall
@@ -6673,7 +6673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Veridium | ![cut_veridium](../images/create_cut_veridium.png) |
+| X | Cut Veridium | ![cut_veridium](../images/create_veridium_cut.png) |
 
 ---
 ## Cut Veridium Slab
@@ -6689,8 +6689,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Veridium Slab | ![cut_veridium_slab](../images/create_cut_veridium_slab.png) |
-| - | Cut Veridium Slab | ![cut_veridium_slab](../images/create_cut_veridium_slab.png) |
+| - | Cut Veridium Slab | ![cut_veridium_slab](../images/create_veridium_cut_slab.png) |
+| - | Cut Veridium Slab | ![cut_veridium_slab](../images/create_veridium_cut_slab.png) |
 
 ---
 ## Cut Veridium Stairs
@@ -6698,7 +6698,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Veridium | ![cut_veridium](../images/create_cut_veridium.png) |
+| X | Cut Veridium | ![cut_veridium](../images/create_veridium_cut.png) |
 
 ---
 ## Cut Veridium Stairs
@@ -6714,7 +6714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cut Veridium | ![cut_veridium](../images/create_cut_veridium.png) |
+| X | Cut Veridium | ![cut_veridium](../images/create_veridium_cut.png) |
 
 ---
 ## Cut Veridium Wall
@@ -6730,7 +6730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Amaranth | ![cyan_amaranth](../images/create_cyan_amaranth.png) |
+| - | Cyan Amaranth | ![cyan_amaranth](../images/create_canvas_cyan.png) |
 
 ---
 ## {}
@@ -6738,7 +6738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/create_cyan_concrete_powder.png) |
+| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/create_canvas_cyan.png) |
 
 ---
 ## {}
@@ -6754,7 +6754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Rose | ![cyan_rose](../images/create_cyan_rose.png) |
+| - | Cyan Rose | ![cyan_rose](../images/create_canvas_cyan.png) |
 
 ---
 ## Cyan Seat
@@ -6762,8 +6762,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Wool | ![cyan_wool](../images/create_cyan_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Cyan Wool | ![cyan_wool](../images/create_canvas_cyan.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Cyan Seat
@@ -6772,7 +6772,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Cyan | ![dyes/cyan](../images/create_dyes/cyan.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -6780,7 +6780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Tulip | ![cyan_tulip](../images/create_cyan_tulip.png) |
+| - | Cyan Tulip | ![cyan_tulip](../images/create_canvas_cyan.png) |
 
 ---
 ## Cyan Valve Handle
@@ -6789,7 +6789,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Cyan | ![dyes/cyan](../images/create_dyes/cyan.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -6797,7 +6797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cypress Log | ![cypress_log](../images/create_cypress_log.png) |
+| - | Cypress Log | ![cypress_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -6805,7 +6805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cypress Wood | ![cypress_wood](../images/create_cypress_wood.png) |
+| - | Cypress Wood | ![cypress_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -6813,7 +6813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Daffodil | ![daffodil](../images/create_daffodil.png) |
+| - | Daffodil | ![daffodil](../images/create_0.png) |
 
 ---
 ## {}
@@ -6821,7 +6821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dandelion | ![dandelion](../images/create_dandelion.png) |
+| - | Dandelion | ![dandelion](../images/create_0.png) |
 
 ---
 ## {}
@@ -6829,7 +6829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Darkwood Log | ![darkwood_log](../images/create_darkwood_log.png) |
+| - | Darkwood Log | ![darkwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -6837,7 +6837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Log | ![dark_log](../images/create_dark_log.png) |
+| - | Dark Log | ![dark_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -6845,7 +6845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Log | ![dark_oak_log](../images/create_dark_oak_log.png) |
+| - | Dark Oak Log | ![dark_oak_log](../images/create_dark_oak_window.png) |
 
 ---
 ## Dark Oak Window
@@ -6853,7 +6853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/create_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/create_dark_oak_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -6870,7 +6870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Wood | ![dark_oak_wood](../images/create_dark_oak_wood.png) |
+| - | Dark Oak Wood | ![dark_oak_wood](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -6878,7 +6878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Wood | ![dark_wood](../images/create_dark_wood.png) |
+| - | Dark Wood | ![dark_wood](../images/create_dark_metal_block.png) |
 
 ---
 ## {}
@@ -6886,7 +6886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Log | ![dead_log](../images/create_dead_log.png) |
+| - | Dead Log | ![dead_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -6894,7 +6894,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Wood | ![dead_wood](../images/create_dead_wood.png) |
+| - | Dead Wood | ![dead_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -6902,7 +6902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Calorite Ore | ![deepslate_calorite_ore](../images/create_deepslate_calorite_ore.png) |
+| - | Deepslate Calorite Ore | ![deepslate_calorite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6910,7 +6910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Coal Ore | ![deepslate_coal_ore](../images/create_deepslate_coal_ore.png) |
+| - | Deepslate Coal Ore | ![deepslate_coal_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6918,7 +6918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Copper Ore | ![deepslate_copper_ore](../images/create_deepslate_copper_ore.png) |
+| - | Deepslate Copper Ore | ![deepslate_copper_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6926,7 +6926,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Desh Ore | ![deepslate_desh_ore](../images/create_deepslate_desh_ore.png) |
+| - | Deepslate Desh Ore | ![deepslate_desh_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6934,7 +6934,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Diamond Ore | ![deepslate_diamond_ore](../images/create_deepslate_diamond_ore.png) |
+| - | Deepslate Diamond Ore | ![deepslate_diamond_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6942,7 +6942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Emerald Ore | ![deepslate_emerald_ore](../images/create_deepslate_emerald_ore.png) |
+| - | Deepslate Emerald Ore | ![deepslate_emerald_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Deepslate
@@ -6958,7 +6958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Gold Ore | ![deepslate_gold_ore](../images/create_deepslate_gold_ore.png) |
+| - | Deepslate Gold Ore | ![deepslate_gold_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6966,7 +6966,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Ice Shard Ore | ![deepslate_ice_shard_ore](../images/create_deepslate_ice_shard_ore.png) |
+| - | Deepslate Ice Shard Ore | ![deepslate_ice_shard_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6974,7 +6974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Iron Ore | ![deepslate_iron_ore](../images/create_deepslate_iron_ore.png) |
+| - | Deepslate Iron Ore | ![deepslate_iron_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6982,7 +6982,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Lapis Ore | ![deepslate_lapis_ore](../images/create_deepslate_lapis_ore.png) |
+| - | Deepslate Lapis Ore | ![deepslate_lapis_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -6990,7 +6990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Ostrum Ore | ![deepslate_ostrum_ore](../images/create_deepslate_ostrum_ore.png) |
+| - | Deepslate Ostrum Ore | ![deepslate_ostrum_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Deepslate Pillar
@@ -7006,7 +7006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Redstone Ore | ![deepslate_redstone_ore](../images/create_deepslate_redstone_ore.png) |
+| - | Deepslate Redstone Ore | ![deepslate_redstone_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -7022,7 +7022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Delphinium | ![delphinium](../images/create_delphinium.png) |
+| - | Delphinium | ![delphinium](../images/create_0.png) |
 
 ---
 ## Deployer
@@ -7049,7 +7049,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Desh Ingots | ![desh_ingots](../images/create_desh_ingots.png) |
+| - | Desh Ingots | ![desh_ingots](../images/create_0.png) |
 
 ---
 ## Desh Ingot
@@ -7057,7 +7057,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Desh Ore | ![crushed_desh_ore](../images/create_crushed_desh_ore.png) |
+| item | Crushed Desh Ore | ![crushed_desh_ore](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -7065,7 +7065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Horse Armor | ![diamond_horse_armor](../images/create_diamond_horse_armor.png) |
+| - | Diamond Horse Armor | ![diamond_horse_armor](../images/create_new_age_diamond_coil.png) |
 
 ---
 ## {}
@@ -7073,7 +7073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Ore | ![diamond_ore](../images/create_diamond_ore.png) |
+| - | Diamond Ore | ![diamond_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -7081,7 +7081,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dianthus | ![dianthus](../images/create_dianthus.png) |
+| - | Dianthus | ![dianthus](../images/create_0.png) |
 
 ---
 ## {}
@@ -7089,7 +7089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diorite | ![diorite](../images/create_diorite.png) |
+| - | Diorite | ![diorite](../images/create_diorite_cut.png) |
 
 ---
 ## {}
@@ -7097,10 +7097,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flint | ![flint](../images/create_flint.png) |
-| - | Flint | ![flint](../images/create_flint.png) |
-| - | Calcite | ![calcite](../images/create_calcite.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Flint | ![flint](../images/create_0.png) |
+| - | Flint | ![flint](../images/create_0.png) |
+| - | Calcite | ![calcite](../images/create_calcite_cut.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Diorite
@@ -7142,7 +7142,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Plates/Copper | ![plates/copper](../images/create_plates/copper.png) |
-| C | Redstone Torch | ![redstone_torch](../images/create_redstone_torch.png) |
+| C | Redstone Torch | ![redstone_torch](../images/create_copper_redstone_plate.png) |
 | S | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 
 ---
@@ -7151,7 +7151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Water Bucket | ![water_bucket](../images/create_water_bucket.png) |
+| - | Water Bucket | ![water_bucket](../images/create_central_kitchen_aloe_gel_bucket.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
@@ -7165,7 +7165,7 @@
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
 | - | Flour/Wheat | ![flour/wheat](../images/create_flour/wheat.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -7173,7 +7173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dreamwood | ![dreamwood](../images/create_dreamwood.png) |
+| - | Dreamwood | ![dreamwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7181,7 +7181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dreamwood Log | ![dreamwood_log](../images/create_dreamwood_log.png) |
+| - | Dreamwood Log | ![dreamwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7189,7 +7189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Driftwood Log | ![driftwood_log](../images/create_driftwood_log.png) |
+| - | Driftwood Log | ![driftwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7197,7 +7197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dripstone Block | ![dripstone_block](../images/create_dripstone_block.png) |
+| - | Dripstone Block | ![dripstone_block](../images/create_andesite_block.png) |
 
 ---
 ## Dripstone Block
@@ -7221,7 +7221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dusk Log | ![dusk_log](../images/create_dusk_log.png) |
+| - | Dusk Log | ![dusk_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7229,7 +7229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dusk Wood | ![dusk_wood](../images/create_dusk_wood.png) |
+| - | Dusk Wood | ![dusk_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7237,7 +7237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ebony Log | ![ebony_log](../images/create_ebony_log.png) |
+| - | Ebony Log | ![ebony_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7245,7 +7245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ebony Wood | ![ebony_wood](../images/create_ebony_wood.png) |
+| - | Ebony Wood | ![ebony_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7253,7 +7253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Edified Log | ![edified_log](../images/create_edified_log.png) |
+| - | Edified Log | ![edified_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7261,7 +7261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Edified Wood | ![edified_wood](../images/create_edified_wood.png) |
+| - | Edified Wood | ![edified_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7269,7 +7269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Elder Log | ![elder_log](../images/create_elder_log.png) |
+| - | Elder Log | ![elder_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## Electron Tube
@@ -7287,7 +7287,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
-| C | Dried Kelp Block | ![dried_kelp_block](../images/create_dried_kelp_block.png) |
+| C | Dried Kelp Block | ![dried_kelp_block](../images/create_andesite_block.png) |
 | I | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
 
 ---
@@ -7304,7 +7304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Emerald Ore | ![emerald_ore](../images/create_emerald_ore.png) |
+| - | Emerald Ore | ![emerald_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Empty Blaze Burner
@@ -7312,7 +7312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Netherrack | ![netherrack](../images/create_netherrack.png) |
+| A | Netherrack | ![netherrack](../images/create_things_and_misc_zinc_enriched_netherrack.png) |
 | I | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
 
 ---
@@ -7321,7 +7321,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/create_paper.png) |
+| - | Paper | ![paper](../images/create_red_sand_paper.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/create_dyes/light_blue.png) |
 
 ---
@@ -7343,7 +7343,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 | P | Propeller | ![propeller](../images/create_propeller.png) |
-| S | Shaft | ![shaft](../images/create_shaft.png) |
+| S | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 
 ---
 ## {}
@@ -7351,7 +7351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearls | ![ender_pearls](../images/create_ender_pearls.png) |
+| - | Ender Pearls | ![ender_pearls](../images/create_0.png) |
 
 ---
 ## {}
@@ -7359,7 +7359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Moss'}] | ![end_moss'}]](../images/create_end_moss'}].png) |
+| - | End Moss'}] | ![end_moss'}]](../images/create_encased_chain_drive_end.png) |
 
 ---
 ## {}
@@ -7367,7 +7367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Mycelium'}] | ![end_mycelium'}]](../images/create_end_mycelium'}].png) |
+| - | End Mycelium'}] | ![end_mycelium'}]](../images/create_encased_chain_drive_end.png) |
 
 ---
 ## {}
@@ -7375,7 +7375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ether Log | ![ether_log](../images/create_ether_log.png) |
+| - | Ether Log | ![ether_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7383,7 +7383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ether Wood | ![ether_wood](../images/create_ether_wood.png) |
+| - | Ether Wood | ![ether_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7391,7 +7391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Euclase Ore | ![euclase_ore](../images/create_euclase_ore.png) |
+| - | Euclase Ore | ![euclase_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Experience Block
@@ -7490,7 +7490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fairy Slipper | ![fairy_slipper](../images/create_fairy_slipper.png) |
+| - | Fairy Slipper | ![fairy_slipper](../images/create_0.png) |
 
 ---
 ## {}
@@ -7498,7 +7498,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fern | ![fern](../images/create_fern.png) |
+| - | Fern | ![fern](../images/create_0.png) |
 
 ---
 ## {}
@@ -7506,7 +7506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fiery Glass Ore | ![fiery_glass_ore](../images/create_fiery_glass_ore.png) |
+| - | Fiery Glass Ore | ![fiery_glass_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Filter
@@ -7515,7 +7515,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Nuggets/Iron | ![nuggets/iron](../images/create_nuggets/iron.png) |
-| S | Wool | ![wool](../images/create_wool.png) |
+| S | Wool | ![wool](../images/create_0.png) |
 
 ---
 ## Filter
@@ -7531,7 +7531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Firecracker Flower Bush | ![firecracker_flower_bush](../images/create_firecracker_flower_bush.png) |
+| - | Firecracker Flower Bush | ![firecracker_flower_bush](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -7539,7 +7539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fir Log | ![fir_log](../images/create_fir_log.png) |
+| - | Fir Log | ![fir_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7547,7 +7547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fir Wood | ![fir_wood](../images/create_fir_wood.png) |
+| - | Fir Wood | ![fir_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7555,7 +7555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flax | ![flax](../images/create_flax.png) |
+| - | Flax | ![flax](../images/create_0.png) |
 
 ---
 ## {}
@@ -7563,7 +7563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flowering Azalea Log | ![flowering_azalea_log](../images/create_flowering_azalea_log.png) |
+| - | Flowering Azalea Log | ![flowering_azalea_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7571,7 +7571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flowering Azalea Wood | ![flowering_azalea_wood](../images/create_flowering_azalea_wood.png) |
+| - | Flowering Azalea Wood | ![flowering_azalea_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7579,7 +7579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flowering Rush | ![flowering_rush](../images/create_flowering_rush.png) |
+| - | Flowering Rush | ![flowering_rush](../images/create_0.png) |
 
 ---
 ## Fluid Pipe
@@ -7615,7 +7615,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
-| - | Fluid Pipe | ![fluid_pipe](../images/create_fluid_pipe.png) |
+| - | Fluid Pipe | ![fluid_pipe](../images/create_glass_fluid_pipe.png) |
 
 ---
 ## {}
@@ -7624,8 +7624,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/create_charged_certus_quartz_crystal.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/create_polished_rose_quartz.png) |
 | - | Gems/Quartz | ![gems/quartz](../images/create_gems/quartz.png) |
 
 ---
@@ -7634,7 +7634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluorite Ore | ![fluorite_ore](../images/create_fluorite_ore.png) |
+| - | Fluorite Ore | ![fluorite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Flywheel
@@ -7642,7 +7642,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Shaft | ![shaft](../images/create_shaft.png) |
+| A | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 | C | Ingots/Brass | ![ingots/brass](../images/create_ingots/brass.png) |
 
 ---
@@ -7651,7 +7651,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Foxglove | ![foxglove](../images/create_foxglove.png) |
+| - | Foxglove | ![foxglove](../images/create_0.png) |
 
 ---
 ## Framed Glass Door
@@ -7659,7 +7659,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Doors | ![wooden_doors](../images/create_wooden_doors.png) |
+| - | Wooden Doors | ![wooden_doors](../images/create_bracket_plate_wooden.png) |
 | - | Framed Glass | ![framed_glass](../images/create_framed_glass.png) |
 
 ---
@@ -7684,7 +7684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_wooden_trapdoors.png) |
+| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_bracket_plate_wooden.png) |
 | - | Framed Glass | ![framed_glass](../images/create_framed_glass.png) |
 
 ---
@@ -7693,7 +7693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frostbright Log | ![frostbright_log](../images/create_frostbright_log.png) |
+| - | Frostbright Log | ![frostbright_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7701,7 +7701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frostbright Wood | ![frostbright_wood](../images/create_frostbright_wood.png) |
+| - | Frostbright Wood | ![frostbright_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7709,7 +7709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fungal Imparius Hyphae | ![fungal_imparius_hyphae](../images/create_fungal_imparius_hyphae.png) |
+| - | Fungal Imparius Hyphae | ![fungal_imparius_hyphae](../images/create_0.png) |
 
 ---
 ## {}
@@ -7717,7 +7717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fungal Imparius Stem | ![fungal_imparius_stem](../images/create_fungal_imparius_stem.png) |
+| - | Fungal Imparius Stem | ![fungal_imparius_stem](../images/create_0.png) |
 
 ---
 ## Furnace Minecart
@@ -7733,7 +7733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| B | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 | I | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
 
@@ -7752,7 +7752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Garnet Ore | ![garnet_ore](../images/create_garnet_ore.png) |
+| - | Garnet Ore | ![garnet_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Gearbox
@@ -7769,7 +7769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Gearbox | ![vertical_gearbox](../images/create_vertical_gearbox.png) |
+| - | Vertical Gearbox | ![vertical_gearbox](../images/create_brass_gearbox.png) |
 
 ---
 ## Gearshift
@@ -7787,7 +7787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gilia | ![gilia](../images/create_gilia.png) |
+| - | Gilia | ![gilia](../images/create_0.png) |
 
 ---
 ## {}
@@ -7795,7 +7795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacian Log | ![glacian_log](../images/create_glacian_log.png) |
+| - | Glacian Log | ![glacian_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7803,7 +7803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacio Coal Ore | ![glacio_coal_ore](../images/create_glacio_coal_ore.png) |
+| - | Glacio Coal Ore | ![glacio_coal_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -7811,7 +7811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacio Copper Ore | ![glacio_copper_ore](../images/create_glacio_copper_ore.png) |
+| - | Glacio Copper Ore | ![glacio_copper_ore](../images/create_copper_backtank.png) |
 
 ---
 ## {}
@@ -7819,7 +7819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacio Ice Shard Ore | ![glacio_ice_shard_ore](../images/create_glacio_ice_shard_ore.png) |
+| - | Glacio Ice Shard Ore | ![glacio_ice_shard_ore](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
 
 ---
 ## {}
@@ -7827,7 +7827,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacio Iron Ore | ![glacio_iron_ore](../images/create_glacio_iron_ore.png) |
+| - | Glacio Iron Ore | ![glacio_iron_ore](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -7835,7 +7835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacio Lapis Ore | ![glacio_lapis_ore](../images/create_glacio_lapis_ore.png) |
+| - | Glacio Lapis Ore | ![glacio_lapis_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Glass
@@ -7875,7 +7875,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Framed Glass Pane | ![framed_glass_pane](../images/create_framed_glass_pane.png) |
+| item | Framed Glass Pane | ![framed_glass_pane](../images/create_framed_glass_pane_top.png) |
 
 ---
 ## Glass Pane
@@ -7883,7 +7883,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horizontal Framed Glass Pane | ![horizontal_framed_glass_pane](../images/create_horizontal_framed_glass_pane.png) |
+| item | Horizontal Framed Glass Pane | ![horizontal_framed_glass_pane](../images/create_framed_glass_pane_top.png) |
 
 ---
 ## Glass Pane
@@ -7891,7 +7891,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tiled Glass Pane | ![tiled_glass_pane](../images/create_tiled_glass_pane.png) |
+| item | Tiled Glass Pane | ![tiled_glass_pane](../images/create_framed_glass_pane_top.png) |
 
 ---
 ## Glass Pane
@@ -7899,7 +7899,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Vertical Framed Glass Pane | ![vertical_framed_glass_pane](../images/create_vertical_framed_glass_pane.png) |
+| item | Vertical Framed Glass Pane | ![vertical_framed_glass_pane](../images/create_framed_glass_pane_top.png) |
 
 ---
 ## {}
@@ -7907,7 +7907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Dreamwood | ![glimmering_dreamwood](../images/create_glimmering_dreamwood.png) |
+| - | Glimmering Dreamwood | ![glimmering_dreamwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7915,7 +7915,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Dreamwood Log | ![glimmering_dreamwood_log](../images/create_glimmering_dreamwood_log.png) |
+| - | Glimmering Dreamwood Log | ![glimmering_dreamwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7923,7 +7923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Livingwood | ![glimmering_livingwood](../images/create_glimmering_livingwood.png) |
+| - | Glimmering Livingwood | ![glimmering_livingwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7931,7 +7931,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Livingwood Log | ![glimmering_livingwood_log](../images/create_glimmering_livingwood_log.png) |
+| - | Glimmering Livingwood Log | ![glimmering_livingwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7939,7 +7939,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Stripped Dreamwood | ![glimmering_stripped_dreamwood](../images/create_glimmering_stripped_dreamwood.png) |
+| - | Glimmering Stripped Dreamwood | ![glimmering_stripped_dreamwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7947,7 +7947,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Stripped Dreamwood Log | ![glimmering_stripped_dreamwood_log](../images/create_glimmering_stripped_dreamwood_log.png) |
+| - | Glimmering Stripped Dreamwood Log | ![glimmering_stripped_dreamwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7955,7 +7955,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Stripped Livingwood | ![glimmering_stripped_livingwood](../images/create_glimmering_stripped_livingwood.png) |
+| - | Glimmering Stripped Livingwood | ![glimmering_stripped_livingwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -7963,7 +7963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glimmering Stripped Livingwood Log | ![glimmering_stripped_livingwood_log](../images/create_glimmering_stripped_livingwood_log.png) |
+| - | Glimmering Stripped Livingwood Log | ![glimmering_stripped_livingwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -7971,7 +7971,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowflower | ![glowflower](../images/create_glowflower.png) |
+| - | Glowflower | ![glowflower](../images/create_0.png) |
 
 ---
 ## {}
@@ -7980,7 +7980,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cinder Flour | ![cinder_flour](../images/create_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -7988,7 +7988,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/create_sweet_berries.png) |
+| - | Sweet Berries | ![sweet_berries](../images/create_central_kitchen_incomplete_sweet_berry_cheesecake.png) |
 
 ---
 ## {}
@@ -7996,7 +7996,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ink Sac | ![ink_sac](../images/create_ink_sac.png) |
+| - | Ink Sac | ![ink_sac](../images/create_0.png) |
 
 ---
 ## Goggles
@@ -8004,9 +8004,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/create_glass.png) |
+| G | Glass | ![glass](../images/create_framed_glass.png) |
 | P | Plates/Gold | ![plates/gold](../images/create_plates/gold.png) |
-| S | String | ![string](../images/create_string.png) |
+| S | String | ![string](../images/create_0.png) |
 
 ---
 ## {}
@@ -8014,7 +8014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Goldenrod | ![goldenrod](../images/create_goldenrod.png) |
+| - | Goldenrod | ![goldenrod](../images/create_0.png) |
 
 ---
 ## {}
@@ -8022,7 +8022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Horse Armor | ![golden_horse_armor](../images/create_golden_horse_armor.png) |
+| - | Golden Horse Armor | ![golden_horse_armor](../images/create_golden_sheet.png) |
 
 ---
 ## {}
@@ -8046,7 +8046,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Ore | ![gold_ore](../images/create_gold_ore.png) |
+| - | Gold Ore | ![gold_ore](../images/create_crushed_raw_gold.png) |
 
 ---
 ## {}
@@ -8054,7 +8054,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Granite | ![granite](../images/create_granite.png) |
+| - | Granite | ![granite](../images/create_granite_cut.png) |
 
 ---
 ## {}
@@ -8062,10 +8062,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flint | ![flint](../images/create_flint.png) |
-| - | Flint | ![flint](../images/create_flint.png) |
-| - | Red Sand | ![red_sand](../images/create_red_sand.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Flint | ![flint](../images/create_0.png) |
+| - | Flint | ![flint](../images/create_0.png) |
+| - | Red Sand | ![red_sand](../images/create_red_sand_paper.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Granite
@@ -8089,7 +8089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass | ![grass](../images/create_grass.png) |
+| - | Grass | ![grass](../images/create_0.png) |
 
 ---
 ## {}
@@ -8097,8 +8097,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/create_dirt.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Dirt | ![dirt](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -8106,7 +8106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gravel | ![gravel](../images/create_gravel.png) |
+| - | Gravel | ![gravel](../images/create_0.png) |
 
 ---
 ## {}
@@ -8114,7 +8114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Concrete Powder | ![gray_concrete_powder](../images/create_gray_concrete_powder.png) |
+| - | Gray Concrete Powder | ![gray_concrete_powder](../images/create_canvas_gray.png) |
 
 ---
 ## {}
@@ -8130,8 +8130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Wool | ![gray_wool](../images/create_gray_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Gray Wool | ![gray_wool](../images/create_canvas_gray.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Gray Seat
@@ -8140,7 +8140,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Gray | ![dyes/gray](../images/create_dyes/gray.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Gray Valve Handle
@@ -8149,7 +8149,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Gray | ![dyes/gray](../images/create_dyes/gray.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -8157,7 +8157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Greenheart Log | ![greenheart_log](../images/create_greenheart_log.png) |
+| - | Greenheart Log | ![greenheart_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8165,7 +8165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Greenheart Wood | ![greenheart_wood](../images/create_greenheart_wood.png) |
+| - | Greenheart Wood | ![greenheart_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -8173,7 +8173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/create_green_archwood_log.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -8181,7 +8181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Wood | ![green_archwood_wood](../images/create_green_archwood_wood.png) |
+| - | Green Archwood Wood | ![green_archwood_wood](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -8189,7 +8189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Concrete Powder | ![green_concrete_powder](../images/create_green_concrete_powder.png) |
+| - | Green Concrete Powder | ![green_concrete_powder](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -8197,7 +8197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Enchanted Log | ![green_enchanted_log](../images/create_green_enchanted_log.png) |
+| - | Green Enchanted Log | ![green_enchanted_log](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -8205,7 +8205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Enchanted Wood | ![green_enchanted_wood](../images/create_green_enchanted_wood.png) |
+| - | Green Enchanted Wood | ![green_enchanted_wood](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -8221,7 +8221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Sapphire Ore | ![green_sapphire_ore](../images/create_green_sapphire_ore.png) |
+| - | Green Sapphire Ore | ![green_sapphire_ore](../images/create_canvas_green.png) |
 
 ---
 ## Green Seat
@@ -8229,8 +8229,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Wool | ![green_wool](../images/create_green_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Green Wool | ![green_wool](../images/create_canvas_green.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Green Seat
@@ -8239,7 +8239,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Green | ![dyes/green](../images/create_dyes/green.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -8247,7 +8247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Tulip | ![green_tulip](../images/create_green_tulip.png) |
+| - | Green Tulip | ![green_tulip](../images/create_canvas_green.png) |
 
 ---
 ## Green Valve Handle
@@ -8256,7 +8256,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Green | ![dyes/green](../images/create_dyes/green.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -8264,7 +8264,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grimwood Log | ![grimwood_log](../images/create_grimwood_log.png) |
+| - | Grimwood Log | ![grimwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8273,7 +8273,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cinder Flour | ![cinder_flour](../images/create_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -8281,7 +8281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Guzmania | ![guzmania](../images/create_guzmania.png) |
+| - | Guzmania | ![guzmania](../images/create_0.png) |
 
 ---
 ## Hand Crank
@@ -8290,7 +8290,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| C | Planks | ![planks](../images/create_planks.png) |
+| C | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## {}
@@ -8298,7 +8298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peculiar Bell | ![peculiar_bell](../images/create_peculiar_bell.png) |
+| - | Peculiar Bell | ![peculiar_bell](../images/create_bell.png) |
 
 ---
 ## {}
@@ -8306,7 +8306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Heliodor Ore | ![heliodor_ore](../images/create_heliodor_ore.png) |
+| - | Heliodor Ore | ![heliodor_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8314,7 +8314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hellbark Log | ![hellbark_log](../images/create_hellbark_log.png) |
+| - | Hellbark Log | ![hellbark_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8322,7 +8322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hellbark Wood | ![hellbark_wood](../images/create_hellbark_wood.png) |
+| - | Hellbark Wood | ![hellbark_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -8330,7 +8330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Holly Log | ![holly_log](../images/create_holly_log.png) |
+| - | Holly Log | ![holly_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8338,7 +8338,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Holly Wood | ![holly_wood](../images/create_holly_wood.png) |
+| - | Holly Wood | ![holly_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -8346,7 +8346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Block | ![honey_block](../images/create_honey_block.png) |
+| - | Honey Block | ![honey_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -8354,8 +8354,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/create_apple.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Apple | ![apple](../images/create_central_kitchen_incomplete_apple_pie.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -8363,8 +8363,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Horizontal Framed Glass
@@ -8389,7 +8389,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
-| C | Dried Kelp Block | ![dried_kelp_block](../images/create_dried_kelp_block.png) |
+| C | Dried Kelp Block | ![dried_kelp_block](../images/create_andesite_block.png) |
 | I | Plates/Copper | ![plates/copper](../images/create_plates/copper.png) |
 
 ---
@@ -8398,7 +8398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hot Monkey Brush | ![hot_monkey_brush](../images/create_hot_monkey_brush.png) |
+| - | Hot Monkey Brush | ![hot_monkey_brush](../images/create_0.png) |
 
 ---
 ## {}
@@ -8406,7 +8406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hydrangea Bush | ![hydrangea_bush](../images/create_hydrangea_bush.png) |
+| - | Hydrangea Bush | ![hydrangea_bush](../images/create_0.png) |
 
 ---
 ## {}
@@ -8414,7 +8414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice | ![ice](../images/create_ice.png) |
+| - | Ice | ![ice](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
 
 ---
 ## {}
@@ -8422,7 +8422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Imparius Hyphae | ![imparius_hyphae](../images/create_imparius_hyphae.png) |
+| - | Imparius Hyphae | ![imparius_hyphae](../images/create_0.png) |
 
 ---
 ## {}
@@ -8430,7 +8430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Imparius Stem | ![imparius_stem](../images/create_imparius_stem.png) |
+| - | Imparius Stem | ![imparius_stem](../images/create_0.png) |
 
 ---
 ## {}
@@ -8438,7 +8438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Incan Lily | ![incan_lily](../images/create_incan_lily.png) |
+| - | Incan Lily | ![incan_lily](../images/create_0.png) |
 
 ---
 ## Industrial Iron Block
@@ -8454,7 +8454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/create_chiseled_stone_bricks.png) |
+| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## {}
@@ -8462,7 +8462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Stone Bricks | ![cracked_stone_bricks](../images/create_cracked_stone_bricks.png) |
+| - | Cracked Stone Bricks | ![cracked_stone_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## {}
@@ -8470,7 +8470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate | ![deepslate](../images/create_deepslate.png) |
+| - | Deepslate | ![deepslate](../images/create_deepslate_cut.png) |
 
 ---
 ## {}
@@ -8478,7 +8478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Stone Bricks | ![mossy_stone_bricks](../images/create_mossy_stone_bricks.png) |
+| - | Mossy Stone Bricks | ![mossy_stone_bricks](../images/create_mossy.png) |
 
 ---
 ## {}
@@ -8486,7 +8486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/create_stone.png) |
+| - | Stone | ![stone](../images/create_0.png) |
 
 ---
 ## {}
@@ -8494,7 +8494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/create_stone_bricks.png) |
+| - | Stone Bricks | ![stone_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## Ingot Aluminum
@@ -8574,7 +8574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ink Sac | ![ink_sac](../images/create_ink_sac.png) |
+| - | Ink Sac | ![ink_sac](../images/create_0.png) |
 
 ---
 ## {}
@@ -8582,7 +8582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iolite Ore | ![iolite_ore](../images/create_iolite_ore.png) |
+| - | Iolite Ore | ![iolite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8590,7 +8590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iris | ![iris](../images/create_iris.png) |
+| - | Iris | ![iris](../images/create_0.png) |
 
 ---
 ## {}
@@ -8598,7 +8598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Horse Armor | ![iron_horse_armor](../images/create_iron_horse_armor.png) |
+| - | Iron Horse Armor | ![iron_horse_armor](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -8622,7 +8622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ore | ![iron_ore](../images/create_iron_ore.png) |
+| - | Iron Ore | ![iron_ore](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -8630,7 +8630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Plate | ![iron_plate](../images/create_iron_plate.png) |
+| - | Iron Plate | ![iron_plate](../images/create_bracket_plate_metal.png) |
 
 ---
 ## Item Drain
@@ -8638,7 +8638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Iron Bars | ![iron_bars](../images/create_iron_bars.png) |
+| P | Iron Bars | ![iron_bars](../images/create_andesite_bars.png) |
 | S | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
 
 ---
@@ -8656,7 +8656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jacaranda Log | ![jacaranda_log](../images/create_jacaranda_log.png) |
+| - | Jacaranda Log | ![jacaranda_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8664,7 +8664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jacaranda Wood | ![jacaranda_wood](../images/create_jacaranda_wood.png) |
+| - | Jacaranda Wood | ![jacaranda_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -8672,7 +8672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jade Ore | ![jade_ore](../images/create_jade_ore.png) |
+| - | Jade Ore | ![jade_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8680,7 +8680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Japanese Orchid | ![japanese_orchid](../images/create_japanese_orchid.png) |
+| - | Japanese Orchid | ![japanese_orchid](../images/create_0.png) |
 
 ---
 ## {}
@@ -8688,7 +8688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jasper Ore | ![jasper_ore](../images/create_jasper_ore.png) |
+| - | Jasper Ore | ![jasper_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8696,7 +8696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Log | ![jungle_log](../images/create_jungle_log.png) |
+| - | Jungle Log | ![jungle_log](../images/create_jungle_window.png) |
 
 ---
 ## {}
@@ -8704,7 +8704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Moss'}] | ![jungle_moss'}]](../images/create_jungle_moss'}].png) |
+| - | Jungle Moss'}] | ![jungle_moss'}]](../images/create_jungle_window.png) |
 
 ---
 ## Jungle Window
@@ -8712,7 +8712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/create_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/create_jungle_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -8729,7 +8729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Wood | ![jungle_wood](../images/create_jungle_wood.png) |
+| - | Jungle Wood | ![jungle_wood](../images/create_jungle_window.png) |
 
 ---
 ## {}
@@ -8737,7 +8737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Juniper Log | ![juniper_log](../images/create_juniper_log.png) |
+| - | Juniper Log | ![juniper_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8745,7 +8745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kousa Log | ![kousa_log](../images/create_kousa_log.png) |
+| - | Kousa Log | ![kousa_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8753,7 +8753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kovan Flower | ![kovan_flower](../images/create_kovan_flower.png) |
+| - | Kovan Flower | ![kovan_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -8761,7 +8761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kunzite Ore | ![kunzite_ore](../images/create_kunzite_ore.png) |
+| - | Kunzite Ore | ![kunzite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8769,7 +8769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kyanite Ore | ![kyanite_ore](../images/create_kyanite_ore.png) |
+| - | Kyanite Ore | ![kyanite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8777,7 +8777,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lament Log | ![lament_log](../images/create_lament_log.png) |
+| - | Lament Log | ![lament_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -8785,7 +8785,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lament Wood | ![lament_wood](../images/create_lament_wood.png) |
+| - | Lament Wood | ![lament_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -8793,7 +8793,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapis Lazuli | ![lapis_lazuli](../images/create_lapis_lazuli.png) |
+| - | Lapis Lazuli | ![lapis_lazuli](../images/create_lapis_sheet.png) |
 
 ---
 ## {}
@@ -8801,7 +8801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapis Ore | ![lapis_ore](../images/create_lapis_ore.png) |
+| - | Lapis Ore | ![lapis_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -8818,7 +8818,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
-| - | Planks | ![planks](../images/create_planks.png) |
+| - | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## Large Cogwheel
@@ -8827,7 +8827,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
-| - | Planks | ![planks](../images/create_planks.png) |
+| - | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## {}
@@ -8835,7 +8835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Large Fern | ![large_fern](../images/create_large_fern.png) |
+| - | Large Fern | ![large_fern](../images/create_chute_large.png) |
 
 ---
 ## Large Water Wheel
@@ -8843,8 +8843,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Water Wheel | ![water_wheel](../images/create_water_wheel.png) |
-| S | Planks | ![planks](../images/create_planks.png) |
+| C | Water Wheel | ![water_wheel](../images/create_crushing_wheel_insert.png) |
+| S | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## {}
@@ -8852,8 +8852,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -8861,7 +8861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/create_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/create_0.png) |
 
 ---
 ## {}
@@ -8869,7 +8869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lavender | ![lavender](../images/create_lavender.png) |
+| - | Lavender | ![lavender](../images/create_0.png) |
 
 ---
 ## Layered Andesite
@@ -8989,7 +8989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lazarus Bellflower | ![lazarus_bellflower](../images/create_lazarus_bellflower.png) |
+| - | Lazarus Bellflower | ![lazarus_bellflower](../images/create_0.png) |
 
 ---
 ## Lead Ingot
@@ -9013,7 +9013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather Horse Armor | ![leather_horse_armor](../images/create_leather_horse_armor.png) |
+| - | Leather Horse Armor | ![leather_horse_armor](../images/create_0.png) |
 
 ---
 ## {}
@@ -9021,7 +9021,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lepidolite Ore | ![lepidolite_ore](../images/create_lepidolite_ore.png) |
+| - | Lepidolite Ore | ![lepidolite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9029,7 +9029,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/create_light_blue_concrete_powder.png) |
+| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/create_canvas_light_blue.png) |
 
 ---
 ## {}
@@ -9045,8 +9045,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Wool | ![light_blue_wool](../images/create_light_blue_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Light Blue Wool | ![light_blue_wool](../images/create_canvas_light_blue.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Light Blue Seat
@@ -9055,7 +9055,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/create_dyes/light_blue.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Light Blue Valve Handle
@@ -9064,7 +9064,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/create_dyes/light_blue.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -9072,7 +9072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/create_light_gray_concrete_powder.png) |
+| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/create_canvas_light_gray.png) |
 
 ---
 ## {}
@@ -9088,8 +9088,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Wool | ![light_gray_wool](../images/create_light_gray_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Light Gray Wool | ![light_gray_wool](../images/create_canvas_light_gray.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Light Gray Seat
@@ -9098,7 +9098,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/create_dyes/light_gray.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Light Gray Valve Handle
@@ -9107,7 +9107,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/create_dyes/light_gray.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -9123,7 +9123,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lilac | ![lilac](../images/create_lilac.png) |
+| - | Lilac | ![lilac](../images/create_0.png) |
 
 ---
 ## {}
@@ -9131,7 +9131,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lily Of The Valley | ![lily_of_the_valley](../images/create_lily_of_the_valley.png) |
+| - | Lily Of The Valley | ![lily_of_the_valley](../images/create_bar_of_chocolate.png) |
 
 ---
 ## Limestone
@@ -9155,7 +9155,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Concrete Powder | ![lime_concrete_powder](../images/create_lime_concrete_powder.png) |
+| - | Lime Concrete Powder | ![lime_concrete_powder](../images/create_canvas_lime.png) |
 
 ---
 ## {}
@@ -9171,8 +9171,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Wool | ![lime_wool](../images/create_lime_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Lime Wool | ![lime_wool](../images/create_canvas_lime.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Lime Seat
@@ -9181,7 +9181,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Lime | ![dyes/lime](../images/create_dyes/lime.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## Lime Valve Handle
@@ -9190,7 +9190,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Lime | ![dyes/lime](../images/create_dyes/lime.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## Linear Chassis
@@ -9198,7 +9198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/create_logs.png) |
+| L | Logs | ![logs](../images/create_0.png) |
 | P | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 
 ---
@@ -9207,7 +9207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Secondary Linear Chassis | ![secondary_linear_chassis](../images/create_secondary_linear_chassis.png) |
+| - | Secondary Linear Chassis | ![secondary_linear_chassis](../images/create_secondary_linear_chassis_side.png) |
 
 ---
 ## Linked Controller
@@ -9215,8 +9215,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redstone Link | ![redstone_link](../images/create_redstone_link.png) |
-| S | Wooden Buttons | ![wooden_buttons](../images/create_wooden_buttons.png) |
+| P | Redstone Link | ![redstone_link](../images/create_copper_redstone_plate.png) |
+| S | Wooden Buttons | ![wooden_buttons](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## {}
@@ -9224,7 +9224,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Livingwood | ![livingwood](../images/create_livingwood.png) |
+| - | Livingwood | ![livingwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9232,7 +9232,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Livingwood Log | ![livingwood_log](../images/create_livingwood_log.png) |
+| - | Livingwood Log | ![livingwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9240,7 +9240,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lollipop Flower | ![lollipop_flower](../images/create_lollipop_flower.png) |
+| - | Lollipop Flower | ![lollipop_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -9248,7 +9248,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lunar Log | ![lunar_log](../images/create_lunar_log.png) |
+| - | Lunar Log | ![lunar_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9256,7 +9256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lunar Wood | ![lunar_wood](../images/create_lunar_wood.png) |
+| - | Lunar Wood | ![lunar_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9264,8 +9264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lush Dirt | ![lush_dirt](../images/create_lush_dirt.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Lush Dirt | ![lush_dirt](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -9273,7 +9273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lush Dirt'}] | ![lush_dirt'}]](../images/create_lush_dirt'}].png) |
+| - | Lush Dirt'}] | ![lush_dirt'}]](../images/create_0.png) |
 
 ---
 ## {}
@@ -9281,7 +9281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Amaranth | ![magenta_amaranth](../images/create_magenta_amaranth.png) |
+| - | Magenta Amaranth | ![magenta_amaranth](../images/create_canvas_magenta.png) |
 
 ---
 ## {}
@@ -9289,7 +9289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/create_magenta_concrete_powder.png) |
+| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/create_canvas_magenta.png) |
 
 ---
 ## {}
@@ -9297,7 +9297,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Hibiscus | ![magenta_hibiscus](../images/create_magenta_hibiscus.png) |
+| - | Magenta Hibiscus | ![magenta_hibiscus](../images/create_canvas_magenta.png) |
 
 ---
 ## {}
@@ -9313,8 +9313,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Wool | ![magenta_wool](../images/create_magenta_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Magenta Wool | ![magenta_wool](../images/create_canvas_magenta.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Magenta Seat
@@ -9323,7 +9323,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Magenta | ![dyes/magenta](../images/create_dyes/magenta.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -9331,7 +9331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Tulip | ![magenta_tulip](../images/create_magenta_tulip.png) |
+| - | Magenta Tulip | ![magenta_tulip](../images/create_canvas_magenta.png) |
 
 ---
 ## Magenta Valve Handle
@@ -9340,7 +9340,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Magenta | ![dyes/magenta](../images/create_dyes/magenta.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -9348,7 +9348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magic Log | ![magic_log](../images/create_magic_log.png) |
+| - | Magic Log | ![magic_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9356,7 +9356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magic Wood | ![magic_wood](../images/create_magic_wood.png) |
+| - | Magic Wood | ![magic_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9364,7 +9364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Block | ![magma_block](../images/create_magma_block.png) |
+| - | Magma Block | ![magma_block](../images/create_things_and_misc_magma_cream_block.png) |
 
 ---
 ## {}
@@ -9372,7 +9372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mahogany Log | ![mahogany_log](../images/create_mahogany_log.png) |
+| - | Mahogany Log | ![mahogany_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9380,7 +9380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mahogany Wood | ![mahogany_wood](../images/create_mahogany_wood.png) |
+| - | Mahogany Wood | ![mahogany_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9388,7 +9388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Malachite Ore | ![malachite_ore](../images/create_malachite_ore.png) |
+| - | Malachite Ore | ![malachite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9396,7 +9396,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Log | ![mangrove_log](../images/create_mangrove_log.png) |
+| - | Mangrove Log | ![mangrove_log](../images/create_mangrove_window.png) |
 
 ---
 ## Mangrove Window
@@ -9404,7 +9404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -9421,7 +9421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Wood | ![mangrove_wood](../images/create_mangrove_wood.png) |
+| - | Mangrove Wood | ![mangrove_wood](../images/create_mangrove_window.png) |
 
 ---
 ## {}
@@ -9429,7 +9429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maple Log | ![maple_log](../images/create_maple_log.png) |
+| - | Maple Log | ![maple_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9437,7 +9437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maple Wood | ![maple_wood](../images/create_maple_wood.png) |
+| - | Maple Wood | ![maple_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9445,7 +9445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mars Diamond Ore | ![mars_diamond_ore](../images/create_mars_diamond_ore.png) |
+| - | Mars Diamond Ore | ![mars_diamond_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9453,7 +9453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mars Ice Shard Ore | ![mars_ice_shard_ore](../images/create_mars_ice_shard_ore.png) |
+| - | Mars Ice Shard Ore | ![mars_ice_shard_ore](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
 
 ---
 ## {}
@@ -9461,7 +9461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mars Iron Ore | ![mars_iron_ore](../images/create_mars_iron_ore.png) |
+| - | Mars Iron Ore | ![mars_iron_ore](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -9469,7 +9469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mars Ostrum Ore | ![mars_ostrum_ore](../images/create_mars_ostrum_ore.png) |
+| - | Mars Ostrum Ore | ![mars_ostrum_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Mechanical Arm
@@ -9488,9 +9488,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| B | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| I | Shaft | ![shaft](../images/create_shaft.png) |
+| I | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 
 ---
 ## Mechanical Crafter
@@ -9500,7 +9500,7 @@
 | :--- | :--- | :--- |
 | B | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
 | C | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
-| R | Crafting Table | ![crafting_table](../images/create_crafting_table.png) |
+| R | Crafting Table | ![crafting_table](../images/create_crafting_blueprint.png) |
 
 ---
 ## Mechanical Drill
@@ -9538,9 +9538,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| B | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| I | Piston Extension Pole | ![piston_extension_pole](../images/create_piston_extension_pole.png) |
+| I | Piston Extension Pole | ![piston_extension_pole](../images/create_andesite_casing_piston.png) |
 
 ---
 ## Mechanical Plough
@@ -9560,7 +9560,7 @@
 | :--- | :--- | :--- |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 | I | Storage Blocks/Iron | ![storage_blocks/iron](../images/create_storage_blocks/iron.png) |
-| S | Shaft | ![shaft](../images/create_shaft.png) |
+| S | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 
 ---
 ## Mechanical Pump
@@ -9569,7 +9569,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
-| - | Fluid Pipe | ![fluid_pipe](../images/create_fluid_pipe.png) |
+| - | Fluid Pipe | ![fluid_pipe](../images/create_glass_fluid_pipe.png) |
 
 ---
 ## Mechanical Roller
@@ -9579,7 +9579,7 @@
 | :--- | :--- | :--- |
 | A | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
 | C | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| I | Crushing Wheel | ![crushing_wheel](../images/create_crushing_wheel.png) |
+| I | Crushing Wheel | ![crushing_wheel](../images/create_crushing_wheel_insert.png) |
 
 ---
 ## Mechanical Saw
@@ -9597,7 +9597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Menril Log | ![menril_log](../images/create_menril_log.png) |
+| - | Menril Log | ![menril_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9605,7 +9605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Menril Log Stripped | ![menril_log_stripped](../images/create_menril_log_stripped.png) |
+| - | Menril Log Stripped | ![menril_log_stripped](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9613,7 +9613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Menril Wood | ![menril_wood](../images/create_menril_wood.png) |
+| - | Menril Wood | ![menril_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9621,7 +9621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Menril Wood Stripped | ![menril_wood_stripped](../images/create_menril_wood_stripped.png) |
+| - | Menril Wood Stripped | ![menril_wood_stripped](../images/create_0.png) |
 
 ---
 ## {}
@@ -9629,7 +9629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mercury Iron Ore | ![mercury_iron_ore](../images/create_mercury_iron_ore.png) |
+| - | Mercury Iron Ore | ![mercury_iron_ore](../images/create_crushed_raw_iron.png) |
 
 ---
 ## Metal Bracket
@@ -9656,8 +9656,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Millstone
@@ -9666,7 +9666,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
-| I | Stone | ![stone](../images/create_stone.png) |
+| I | Stone | ![stone](../images/create_0.png) |
 | S | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 
 ---
@@ -9692,7 +9692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mining Log | ![mining_log](../images/create_mining_log.png) |
+| - | Mining Log | ![mining_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9700,7 +9700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mining Wood | ![mining_wood](../images/create_mining_wood.png) |
+| - | Mining Wood | ![mining_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9708,7 +9708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moldavite Ore | ![moldavite_ore](../images/create_moldavite_ore.png) |
+| - | Moldavite Ore | ![moldavite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9716,7 +9716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moonstone Ore | ![moonstone_ore](../images/create_moonstone_ore.png) |
+| - | Moonstone Ore | ![moonstone_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9724,7 +9724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moon Cheese Ore | ![moon_cheese_ore](../images/create_moon_cheese_ore.png) |
+| - | Moon Cheese Ore | ![moon_cheese_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9732,7 +9732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moon Desh Ore | ![moon_desh_ore](../images/create_moon_desh_ore.png) |
+| - | Moon Desh Ore | ![moon_desh_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9740,7 +9740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moon Ice Shard Ore | ![moon_ice_shard_ore](../images/create_moon_ice_shard_ore.png) |
+| - | Moon Ice Shard Ore | ![moon_ice_shard_ore](../images/create_central_kitchen_incomplete_neapolitan_ice_cream_chocolate.png) |
 
 ---
 ## {}
@@ -9748,7 +9748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moon Iron Ore | ![moon_iron_ore](../images/create_moon_iron_ore.png) |
+| - | Moon Iron Ore | ![moon_iron_ore](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -9756,7 +9756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Morganite Ore | ![morganite_ore](../images/create_morganite_ore.png) |
+| - | Morganite Ore | ![morganite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9764,7 +9764,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moss Block | ![moss_block](../images/create_moss_block.png) |
+| - | Moss Block | ![moss_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -9772,8 +9772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Convertable To Mud | ![convertable_to_mud](../images/create_convertable_to_mud.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Convertable To Mud | ![convertable_to_mud](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -9781,7 +9781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mycelium'}] | ![mycelium'}]](../images/create_mycelium'}].png) |
+| - | Mycelium'}] | ![mycelium'}]](../images/create_0.png) |
 
 ---
 ## Mysterious Cuckoo Clock
@@ -9790,7 +9790,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Cuckoo Clock | ![cuckoo_clock](../images/create_cuckoo_clock.png) |
-| C | Gunpowder | ![gunpowder](../images/create_gunpowder.png) |
+| C | Gunpowder | ![gunpowder](../images/create_0.png) |
 
 ---
 ## {}
@@ -9798,7 +9798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mysterywood | ![mysterywood](../images/create_mysterywood.png) |
+| - | Mysterywood | ![mysterywood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9806,7 +9806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mysterywood Log | ![mysterywood_log](../images/create_mysterywood_log.png) |
+| - | Mysterywood Log | ![mysterywood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9814,7 +9814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Necrotic Bone | ![necrotic_bone](../images/create_necrotic_bone.png) |
+| - | Necrotic Bone | ![necrotic_bone](../images/create_0.png) |
 
 ---
 ## Netherite Backtank
@@ -9864,7 +9864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/create_netherrack.png) |
+| - | Netherrack | ![netherrack](../images/create_things_and_misc_zinc_enriched_netherrack.png) |
 
 ---
 ## {}
@@ -9872,7 +9872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherwood Log | ![netherwood_log](../images/create_netherwood_log.png) |
+| - | Netherwood Log | ![netherwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -9880,7 +9880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherwood Wood | ![netherwood_wood](../images/create_netherwood_wood.png) |
+| - | Netherwood Wood | ![netherwood_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -9888,7 +9888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brick | ![brick](../images/create_brick.png) |
+| - | Brick | ![brick](../images/create_andesite_cut_brick.png) |
 
 ---
 ## {}
@@ -9896,7 +9896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Gold Ore | ![nether_gold_ore](../images/create_nether_gold_ore.png) |
+| - | Nether Gold Ore | ![nether_gold_ore](../images/create_crushed_raw_gold.png) |
 
 ---
 ## {}
@@ -9904,7 +9904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Quartz Ore | ![nether_quartz_ore](../images/create_nether_quartz_ore.png) |
+| - | Nether Quartz Ore | ![nether_quartz_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -9912,7 +9912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart Block | ![nether_wart_block](../images/create_nether_wart_block.png) |
+| - | Nether Wart Block | ![nether_wart_block](../images/create_andesite_block.png) |
 
 ---
 ## Advanced Motor
@@ -9920,10 +9920,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Gold Nugget | ![gold_nugget](../images/create_gold_nugget.png) |
-| s | Shaft | ![shaft](../images/create_shaft.png) |
+| i | Gold Nugget | ![gold_nugget](../images/create_brass_nugget.png) |
+| s | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 | # | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
-| m | Iron Block | ![iron_block](../images/create_iron_block.png) |
+| m | Iron Block | ![iron_block](../images/create_industrial_iron_block.png) |
 
 ---
 ## Advanced Motor Extension
@@ -9931,10 +9931,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Overcharged Diamond | ![overcharged_diamond](../images/create_overcharged_diamond.png) |
-| # | Reinforced Motor | ![reinforced_motor](../images/create_reinforced_motor.png) |
-| . | Copper Circuit | ![copper_circuit](../images/create_copper_circuit.png) |
-| I | Overcharged Iron Sheet | ![overcharged_iron_sheet](../images/create_overcharged_iron_sheet.png) |
+| D | Overcharged Diamond | ![overcharged_diamond](../images/create_new_age_overcharged_diamond.png) |
+| # | Reinforced Motor | ![reinforced_motor](../images/create_creative_motor.png) |
+| . | Copper Circuit | ![copper_circuit](../images/create_new_age_copper_circuit.png) |
+| I | Overcharged Iron Sheet | ![overcharged_iron_sheet](../images/create_new_age_overcharged_iron_sheet.png) |
 
 ---
 ## Advanced Solar Heating Plate
@@ -9942,9 +9942,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| | | Heat Pipe | ![heat_pipe](../images/create_heat_pipe.png) |
-| . | Black Wool | ![black_wool](../images/create_black_wool.png) |
-| # | Glass | ![glass](../images/create_glass.png) |
+| | | Heat Pipe | ![heat_pipe](../images/create_new_age_heat_pipe.png) |
+| . | Black Wool | ![black_wool](../images/create_black.png) |
+| # | Glass | ![glass](../images/create_framed_glass.png) |
 
 ---
 ## Basic Motor
@@ -9952,10 +9952,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Nugget | ![iron_nugget](../images/create_iron_nugget.png) |
-| s | Shaft | ![shaft](../images/create_shaft.png) |
+| i | Iron Nugget | ![iron_nugget](../images/create_brass_nugget.png) |
+| s | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 | # | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| m | Magnetite Block | ![magnetite_block](../images/create_magnetite_block.png) |
+| m | Magnetite Block | ![magnetite_block](../images/create_new_age_magnetite_block.png) |
 
 ---
 ## Basic Motor Extension
@@ -9963,9 +9963,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| & | Copper Circuit | ![copper_circuit](../images/create_copper_circuit.png) |
-| # | Basic Motor | ![basic_motor](../images/create_basic_motor.png) |
-| ^ | Overcharged Iron | ![overcharged_iron](../images/create_overcharged_iron.png) |
+| & | Copper Circuit | ![copper_circuit](../images/create_new_age_copper_circuit.png) |
+| # | Basic Motor | ![basic_motor](../images/create_new_age_basic_motor.png) |
+| ^ | Overcharged Iron | ![overcharged_iron](../images/create_new_age_overcharged_iron.png) |
 
 ---
 ## {}
@@ -9980,10 +9980,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/create_stone.png) |
-| - | Redstone | ![redstone](../images/create_redstone.png) |
-| - | Iron Ingot | ![iron_ingot](../images/create_iron_ingot.png) |
-| - | Quartz | ![quartz](../images/create_quartz.png) |
+| - | Stone | ![stone](../images/create_0.png) |
+| - | Redstone | ![redstone](../images/create_copper_redstone_plate.png) |
+| - | Iron Ingot | ![iron_ingot](../images/create_brass_ingot.png) |
+| - | Quartz | ![quartz](../images/create_polished_rose_quartz.png) |
 
 ---
 ## Heater
@@ -9991,10 +9991,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Heat Pipe | ![heat_pipe](../images/create_heat_pipe.png) |
-| # | Coal Block | ![coal_block](../images/create_coal_block.png) |
-| . | Iron Nugget | ![iron_nugget](../images/create_iron_nugget.png) |
-| b | Empty Blaze Burner | ![empty_blaze_burner](../images/create_empty_blaze_burner.png) |
+| p | Heat Pipe | ![heat_pipe](../images/create_new_age_heat_pipe.png) |
+| # | Coal Block | ![coal_block](../images/create_andesite_block.png) |
+| . | Iron Nugget | ![iron_nugget](../images/create_brass_nugget.png) |
+| b | Empty Blaze Burner | ![empty_blaze_burner](../images/create_blaze_burner_flame.png) |
 
 ---
 ## Carbon Brushes
@@ -10002,9 +10002,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coal | ![coal](../images/create_coal.png) |
+| c | Coal | ![coal](../images/create_0.png) |
 | a | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| s | Shaft | ![shaft](../images/create_shaft.png) |
+| s | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 
 ---
 ## Electrical Connector
@@ -10030,8 +10030,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Circuit | ![blank_circuit](../images/create_blank_circuit.png) |
-| - | Copper Wire | ![copper_wire](../images/create_copper_wire.png) |
+| - | Blank Circuit | ![blank_circuit](../images/create_new_age_blank_circuit.png) |
+| - | Copper Wire | ![copper_wire](../images/create_copper_backtank.png) |
 
 ---
 ## {}
@@ -10061,7 +10061,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Apple | ![apple](../images/create_apple.png) |
+| item | Apple | ![apple](../images/create_central_kitchen_incomplete_apple_pie.png) |
 
 ---
 ## {}
@@ -10083,10 +10083,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diamond Block | ![diamond_block](../images/create_diamond_block.png) |
-| . | Redstone Block | ![redstone_block](../images/create_redstone_block.png) |
+| # | Diamond Block | ![diamond_block](../images/create_andesite_block.png) |
+| . | Redstone Block | ![redstone_block](../images/create_andesite_block.png) |
 | c | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
-| b | Copper Block | ![copper_block](../images/create_copper_block.png) |
+| b | Copper Block | ![copper_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -10102,7 +10102,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
-| a | Andesite Alloy Block | ![andesite_alloy_block](../images/create_andesite_alloy_block.png) |
+| a | Andesite Alloy Block | ![andesite_alloy_block](../images/create_andesite_alloy.png) |
 
 ---
 ## {}
@@ -10124,7 +10124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Copper Plates | ![copper_plates](../images/create_copper_plates.png) |
+| c | Copper Plates | ![copper_plates](../images/create_copper_backtank.png) |
 
 ---
 ## Heat Pipe
@@ -10134,7 +10134,7 @@
 | :--- | :--- | :--- |
 | c | Plates/Copper | ![plates/copper](../images/create_plates/copper.png) |
 | z | Nuggets/Zinc | ![nuggets/zinc](../images/create_nuggets/zinc.png) |
-| t | Terracotta | ![terracotta](../images/create_terracotta.png) |
+| t | Terracotta | ![terracotta](../images/create_0.png) |
 
 ---
 ## Heat Pump
@@ -10142,8 +10142,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Heat Pipe | ![heat_pipe](../images/create_heat_pipe.png) |
-| t | Redstone | ![redstone](../images/create_redstone.png) |
+| p | Heat Pipe | ![heat_pipe](../images/create_new_age_heat_pipe.png) |
+| t | Redstone | ![redstone](../images/create_copper_redstone_plate.png) |
 
 ---
 ## {}
@@ -10172,8 +10172,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| $ | Diamond Block | ![diamond_block](../images/create_diamond_block.png) |
-| . | Netherite Scrap | ![netherite_scrap](../images/create_netherite_scrap.png) |
+| $ | Diamond Block | ![diamond_block](../images/create_andesite_block.png) |
+| . | Netherite Scrap | ![netherite_scrap](../images/create_netherite_backtank.png) |
 
 ---
 ## {}
@@ -10181,7 +10181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Radioactive Thorium | ![radioactive_thorium](../images/create_radioactive_thorium.png) |
+| item | Radioactive Thorium | ![radioactive_thorium](../images/create_new_age_radioactive_thorium.png) |
 
 ---
 ## {}
@@ -10217,7 +10217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/create_bricks.png) |
+| item | Bricks | ![bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## Reactor Fuel Acceptor
@@ -10225,7 +10225,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Reactor Casing | ![reactor_casing](../images/create_reactor_casing.png) |
+| # | Reactor Casing | ![reactor_casing](../images/create_andesite_belt_casing.png) |
 | . | Andesite Funnel | ![andesite_funnel](../images/create_andesite_funnel.png) |
 | , | Brass Funnel | ![brass_funnel](../images/create_brass_funnel.png) |
 
@@ -10235,8 +10235,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Reactor Casing | ![reactor_casing](../images/create_reactor_casing.png) |
-| . | Glass | ![glass](../images/create_glass.png) |
+| # | Reactor Casing | ![reactor_casing](../images/create_andesite_belt_casing.png) |
+| . | Glass | ![glass](../images/create_framed_glass.png) |
 
 ---
 ## Reactor Heat Vent
@@ -10244,10 +10244,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Reactor Casing | ![reactor_casing](../images/create_reactor_casing.png) |
-| - | Reactor Casing | ![reactor_casing](../images/create_reactor_casing.png) |
-| - | Heat Pipe | ![heat_pipe](../images/create_heat_pipe.png) |
-| - | Heat Pipe | ![heat_pipe](../images/create_heat_pipe.png) |
+| - | Reactor Casing | ![reactor_casing](../images/create_andesite_belt_casing.png) |
+| - | Reactor Casing | ![reactor_casing](../images/create_andesite_belt_casing.png) |
+| - | Heat Pipe | ![heat_pipe](../images/create_new_age_heat_pipe.png) |
+| - | Heat Pipe | ![heat_pipe](../images/create_new_age_heat_pipe.png) |
 
 ---
 ## Reactor Rod
@@ -10256,9 +10256,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Plates/Gold | ![plates/gold](../images/create_plates/gold.png) |
-| F | Iron Block | ![iron_block](../images/create_iron_block.png) |
-| C | Reactor Casing | ![reactor_casing](../images/create_reactor_casing.png) |
-| G | Reactor Glass | ![reactor_glass](../images/create_reactor_glass.png) |
+| F | Iron Block | ![iron_block](../images/create_industrial_iron_block.png) |
+| C | Reactor Casing | ![reactor_casing](../images/create_andesite_belt_casing.png) |
+| G | Reactor Glass | ![reactor_glass](../images/create_framed_glass.png) |
 
 ---
 ## Redstone Magnet
@@ -10266,8 +10266,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Block | ![redstone_block](../images/create_redstone_block.png) |
-| I | Iron Nugget | ![iron_nugget](../images/create_iron_nugget.png) |
+| # | Redstone Block | ![redstone_block](../images/create_andesite_block.png) |
+| I | Iron Nugget | ![iron_nugget](../images/create_brass_nugget.png) |
 
 ---
 ## Reinforced Motor
@@ -10275,9 +10275,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Diamond | ![diamond](../images/create_diamond.png) |
-| R | Redstone Block | ![redstone_block](../images/create_redstone_block.png) |
-| S | Shaft | ![shaft](../images/create_shaft.png) |
+| d | Diamond | ![diamond](../images/create_new_age_diamond_coil.png) |
+| R | Redstone Block | ![redstone_block](../images/create_andesite_block.png) |
+| S | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 | c | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 | I | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
 
@@ -10287,7 +10287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/create_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/create_framed_glass.png) |
 
 ---
 ## Stirling Engine
@@ -10295,10 +10295,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Shaft | ![shaft](../images/create_shaft.png) |
-| p | Heat Pipe | ![heat_pipe](../images/create_heat_pipe.png) |
-| # | Copper Block | ![copper_block](../images/create_copper_block.png) |
-| . | Iron Nugget | ![iron_nugget](../images/create_iron_nugget.png) |
+| s | Shaft | ![shaft](../images/create_gantry_shaft.png) |
+| p | Heat Pipe | ![heat_pipe](../images/create_new_age_heat_pipe.png) |
+| # | Copper Block | ![copper_block](../images/create_andesite_block.png) |
+| . | Iron Nugget | ![iron_nugget](../images/create_brass_nugget.png) |
 
 ---
 ## {}
@@ -10306,7 +10306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thorium | ![thorium](../images/create_thorium.png) |
+| - | Thorium | ![thorium](../images/create_new_age_radioactive_thorium.png) |
 
 ---
 ## {}
@@ -10337,7 +10337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nightshade Log | ![nightshade_log](../images/create_nightshade_log.png) |
+| - | Nightshade Log | ![nightshade_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -10345,7 +10345,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nightshade Wood | ![nightshade_wood](../images/create_nightshade_wood.png) |
+| - | Nightshade Wood | ![nightshade_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -10370,7 +10370,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Wool | ![wool](../images/create_wool.png) |
+| C | Wool | ![wool](../images/create_0.png) |
 | S | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 
 ---
@@ -10379,7 +10379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Log | ![oak_log](../images/create_oak_log.png) |
+| - | Oak Log | ![oak_log](../images/create_dark_oak_window.png) |
 
 ---
 ## Oak Window
@@ -10387,7 +10387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/create_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/create_dark_oak_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -10404,7 +10404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Wood | ![oak_wood](../images/create_oak_wood.png) |
+| - | Oak Wood | ![oak_wood](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -10412,7 +10412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/create_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/create_powdered_obsidian.png) |
 
 ---
 ## {}
@@ -10420,7 +10420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ochrum | ![ochrum](../images/create_ochrum.png) |
+| - | Ochrum | ![ochrum](../images/create_ochrum_0.png) |
 
 ---
 ## Ochrum
@@ -10452,7 +10452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Onyx Ore | ![onyx_ore](../images/create_onyx_ore.png) |
+| - | Onyx Ore | ![onyx_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -10460,7 +10460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Opal Ore | ![opal_ore](../images/create_opal_ore.png) |
+| - | Opal Ore | ![opal_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -10468,7 +10468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Amaranth | ![orange_amaranth](../images/create_orange_amaranth.png) |
+| - | Orange Amaranth | ![orange_amaranth](../images/create_canvas_orange.png) |
 
 ---
 ## {}
@@ -10476,7 +10476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Concrete Powder | ![orange_concrete_powder](../images/create_orange_concrete_powder.png) |
+| - | Orange Concrete Powder | ![orange_concrete_powder](../images/create_canvas_orange.png) |
 
 ---
 ## {}
@@ -10484,7 +10484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Cosmos | ![orange_cosmos](../images/create_orange_cosmos.png) |
+| - | Orange Cosmos | ![orange_cosmos](../images/create_canvas_orange.png) |
 
 ---
 ## {}
@@ -10492,7 +10492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Daisy | ![orange_daisy](../images/create_orange_daisy.png) |
+| - | Orange Daisy | ![orange_daisy](../images/create_canvas_orange.png) |
 
 ---
 ## {}
@@ -10500,7 +10500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Hibiscus | ![orange_hibiscus](../images/create_orange_hibiscus.png) |
+| - | Orange Hibiscus | ![orange_hibiscus](../images/create_canvas_orange.png) |
 
 ---
 ## {}
@@ -10516,8 +10516,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Wool | ![orange_wool](../images/create_orange_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Orange Wool | ![orange_wool](../images/create_canvas_orange.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Orange Seat
@@ -10526,7 +10526,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Orange | ![dyes/orange](../images/create_dyes/orange.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -10534,7 +10534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Tulip | ![orange_tulip](../images/create_orange_tulip.png) |
+| - | Orange Tulip | ![orange_tulip](../images/create_canvas_orange.png) |
 
 ---
 ## Orange Valve Handle
@@ -10543,7 +10543,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Orange | ![dyes/orange](../images/create_dyes/orange.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## Ornate Iron Window
@@ -10551,7 +10551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Nugget | ![iron_nugget](../images/create_iron_nugget.png) |
+| # | Iron Nugget | ![iron_nugget](../images/create_brass_nugget.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -10568,7 +10568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Osiria Rose | ![osiria_rose](../images/create_osiria_rose.png) |
+| - | Osiria Rose | ![osiria_rose](../images/create_polished_rose_quartz.png) |
 
 ---
 ## {}
@@ -10584,7 +10584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ostrum Ingots | ![ostrum_ingots](../images/create_ostrum_ingots.png) |
+| - | Ostrum Ingots | ![ostrum_ingots](../images/create_0.png) |
 
 ---
 ## Ostrum Ingot
@@ -10592,7 +10592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Ostrum Ore | ![crushed_ostrum_ore](../images/create_crushed_ostrum_ore.png) |
+| item | Crushed Ostrum Ore | ![crushed_ostrum_ore](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -10600,7 +10600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxeye Daisy | ![oxeye_daisy](../images/create_oxeye_daisy.png) |
+| - | Oxeye Daisy | ![oxeye_daisy](../images/create_0.png) |
 
 ---
 ## Oxidized Copper Shingle Slab
@@ -10672,7 +10672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palm Log | ![palm_log](../images/create_palm_log.png) |
+| - | Palm Log | ![palm_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -10680,7 +10680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palm Wood | ![palm_wood](../images/create_palm_wood.png) |
+| - | Palm Wood | ![palm_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -10688,7 +10688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palo Verde Log | ![palo_verde_log](../images/create_palo_verde_log.png) |
+| - | Palo Verde Log | ![palo_verde_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -10696,7 +10696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palo Verde Wood | ![palo_verde_wood](../images/create_palo_verde_wood.png) |
+| - | Palo Verde Wood | ![palo_verde_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -10704,7 +10704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt'}] | ![dirt'}]](../images/create_dirt'}].png) |
+| - | Dirt'}] | ![dirt'}]](../images/create_0.png) |
 
 ---
 ## {}
@@ -10712,7 +10712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peach Leather Flower | ![peach_leather_flower](../images/create_peach_leather_flower.png) |
+| - | Peach Leather Flower | ![peach_leather_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -10720,7 +10720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pearl Ore | ![pearl_ore](../images/create_pearl_ore.png) |
+| - | Pearl Ore | ![pearl_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Peculiar Bell
@@ -10737,7 +10737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peony | ![peony](../images/create_peony.png) |
+| - | Peony | ![peony](../images/create_0.png) |
 
 ---
 ## {}
@@ -10745,7 +10745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peridot Ore | ![peridot_ore](../images/create_peridot_ore.png) |
+| - | Peridot Ore | ![peridot_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -10753,7 +10753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pervaded Netherrack | ![pervaded_netherrack](../images/create_pervaded_netherrack.png) |
+| - | Pervaded Netherrack | ![pervaded_netherrack](../images/create_things_and_misc_zinc_enriched_netherrack.png) |
 
 ---
 ## {}
@@ -10761,7 +10761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Corrock | ![end_corrock](../images/create_end_corrock.png) |
+| - | End Corrock | ![end_corrock](../images/create_encased_chain_drive_end.png) |
 
 ---
 ## {}
@@ -10769,7 +10769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Corrock Block | ![end_corrock_block](../images/create_end_corrock_block.png) |
+| - | End Corrock Block | ![end_corrock_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -10777,7 +10777,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Corrock Crown | ![end_corrock_crown](../images/create_end_corrock_crown.png) |
+| - | End Corrock Crown | ![end_corrock_crown](../images/create_encased_chain_drive_end.png) |
 
 ---
 ## {}
@@ -10785,7 +10785,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Corrock | ![nether_corrock](../images/create_nether_corrock.png) |
+| - | Nether Corrock | ![nether_corrock](../images/create_0.png) |
 
 ---
 ## {}
@@ -10793,7 +10793,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Corrock Block | ![nether_corrock_block](../images/create_nether_corrock_block.png) |
+| - | Nether Corrock Block | ![nether_corrock_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -10801,7 +10801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Corrock Crown | ![nether_corrock_crown](../images/create_nether_corrock_crown.png) |
+| - | Nether Corrock Crown | ![nether_corrock_crown](../images/create_0.png) |
 
 ---
 ## {}
@@ -10809,7 +10809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Overworld Corrock | ![overworld_corrock](../images/create_overworld_corrock.png) |
+| - | Overworld Corrock | ![overworld_corrock](../images/create_0.png) |
 
 ---
 ## {}
@@ -10817,7 +10817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Overworld Corrock Block | ![overworld_corrock_block](../images/create_overworld_corrock_block.png) |
+| - | Overworld Corrock Block | ![overworld_corrock_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -10825,7 +10825,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Overworld Corrock Crown | ![overworld_corrock_crown](../images/create_overworld_corrock_crown.png) |
+| - | Overworld Corrock Crown | ![overworld_corrock_crown](../images/create_0.png) |
 
 ---
 ## {}
@@ -10833,7 +10833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Phosphophyllite Ore | ![phosphophyllite_ore](../images/create_phosphophyllite_ore.png) |
+| - | Phosphophyllite Ore | ![phosphophyllite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -10841,7 +10841,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pine Log | ![pine_log](../images/create_pine_log.png) |
+| - | Pine Log | ![pine_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -10849,7 +10849,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pine Wood | ![pine_wood](../images/create_pine_wood.png) |
+| - | Pine Wood | ![pine_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -10857,7 +10857,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Allium | ![pink_allium](../images/create_pink_allium.png) |
+| - | Pink Allium | ![pink_allium](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10865,7 +10865,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Allium Flower Bush | ![pink_allium_flower_bush](../images/create_pink_allium_flower_bush.png) |
+| - | Pink Allium Flower Bush | ![pink_allium_flower_bush](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10873,7 +10873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Anemone | ![pink_anemone](../images/create_pink_anemone.png) |
+| - | Pink Anemone | ![pink_anemone](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10881,7 +10881,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Clover | ![pink_clover](../images/create_pink_clover.png) |
+| - | Pink Clover | ![pink_clover](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10889,7 +10889,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Concrete Powder | ![pink_concrete_powder](../images/create_pink_concrete_powder.png) |
+| - | Pink Concrete Powder | ![pink_concrete_powder](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10897,7 +10897,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Daffodil | ![pink_daffodil](../images/create_pink_daffodil.png) |
+| - | Pink Daffodil | ![pink_daffodil](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10905,7 +10905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Delphinium | ![pink_delphinium](../images/create_pink_delphinium.png) |
+| - | Pink Delphinium | ![pink_delphinium](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10913,7 +10913,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Hibiscus | ![pink_hibiscus](../images/create_pink_hibiscus.png) |
+| - | Pink Hibiscus | ![pink_hibiscus](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10921,7 +10921,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Moss'}] | ![pink_moss'}]](../images/create_pink_moss'}].png) |
+| - | Pink Moss'}] | ![pink_moss'}]](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -10937,7 +10937,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Searocket | ![pink_searocket](../images/create_pink_searocket.png) |
+| - | Pink Searocket | ![pink_searocket](../images/create_canvas_pink.png) |
 
 ---
 ## Pink Seat
@@ -10945,8 +10945,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Wool | ![pink_wool](../images/create_pink_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Pink Wool | ![pink_wool](../images/create_canvas_pink.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Pink Seat
@@ -10955,7 +10955,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Pink | ![dyes/pink](../images/create_dyes/pink.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -10963,7 +10963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Tulip | ![pink_tulip](../images/create_pink_tulip.png) |
+| - | Pink Tulip | ![pink_tulip](../images/create_canvas_pink.png) |
 
 ---
 ## Pink Valve Handle
@@ -10972,7 +10972,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Pink | ![dyes/pink](../images/create_dyes/pink.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## Piston Extension Pole
@@ -10981,7 +10981,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| P | Planks | ![planks](../images/create_planks.png) |
+| P | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## Placard
@@ -10989,7 +10989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Item Frame | ![item_frame](../images/create_item_frame.png) |
+| - | Item Frame | ![item_frame](../images/create_andesite_funnel_frame.png) |
 | - | Plates/Brass | ![plates/brass](../images/create_plates/brass.png) |
 
 ---
@@ -11006,7 +11006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Podzol'}] | ![podzol'}]](../images/create_podzol'}].png) |
+| - | Podzol'}] | ![podzol'}]](../images/create_0.png) |
 
 ---
 ## {}
@@ -11014,7 +11014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Poise Stem | ![poise_stem](../images/create_poise_stem.png) |
+| - | Poise Stem | ![poise_stem](../images/create_0.png) |
 
 ---
 ## {}
@@ -11022,7 +11022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potato | ![potato](../images/create_potato.png) |
+| - | Potato | ![potato](../images/create_potato_cannon.png) |
 
 ---
 ## Polished Cut Andesite
@@ -11038,7 +11038,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Andesite | ![polished_cut_andesite](../images/create_polished_cut_andesite.png) |
+| X | Polished Cut Andesite | ![polished_cut_andesite](../images/create_andesite_cut_polished.png) |
 
 ---
 ## Polished Cut Andesite Slab
@@ -11054,8 +11054,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Andesite Slab | ![polished_cut_andesite_slab](../images/create_polished_cut_andesite_slab.png) |
-| - | Polished Cut Andesite Slab | ![polished_cut_andesite_slab](../images/create_polished_cut_andesite_slab.png) |
+| - | Polished Cut Andesite Slab | ![polished_cut_andesite_slab](../images/create_andesite_cut_polished.png) |
+| - | Polished Cut Andesite Slab | ![polished_cut_andesite_slab](../images/create_andesite_cut_polished.png) |
 
 ---
 ## Polished Cut Andesite Stairs
@@ -11063,7 +11063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Andesite | ![polished_cut_andesite](../images/create_polished_cut_andesite.png) |
+| X | Polished Cut Andesite | ![polished_cut_andesite](../images/create_andesite_cut_polished.png) |
 
 ---
 ## Polished Cut Andesite Stairs
@@ -11079,7 +11079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Andesite | ![polished_cut_andesite](../images/create_polished_cut_andesite.png) |
+| X | Polished Cut Andesite | ![polished_cut_andesite](../images/create_andesite_cut_polished.png) |
 
 ---
 ## Polished Cut Andesite Wall
@@ -11103,7 +11103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Asurine | ![polished_cut_asurine](../images/create_polished_cut_asurine.png) |
+| X | Polished Cut Asurine | ![polished_cut_asurine](../images/create_asurine_cut_polished.png) |
 
 ---
 ## Polished Cut Asurine Slab
@@ -11119,8 +11119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Asurine Slab | ![polished_cut_asurine_slab](../images/create_polished_cut_asurine_slab.png) |
-| - | Polished Cut Asurine Slab | ![polished_cut_asurine_slab](../images/create_polished_cut_asurine_slab.png) |
+| - | Polished Cut Asurine Slab | ![polished_cut_asurine_slab](../images/create_asurine_cut_polished.png) |
+| - | Polished Cut Asurine Slab | ![polished_cut_asurine_slab](../images/create_asurine_cut_polished.png) |
 
 ---
 ## Polished Cut Asurine Stairs
@@ -11128,7 +11128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Asurine | ![polished_cut_asurine](../images/create_polished_cut_asurine.png) |
+| X | Polished Cut Asurine | ![polished_cut_asurine](../images/create_asurine_cut_polished.png) |
 
 ---
 ## Polished Cut Asurine Stairs
@@ -11144,7 +11144,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Asurine | ![polished_cut_asurine](../images/create_polished_cut_asurine.png) |
+| X | Polished Cut Asurine | ![polished_cut_asurine](../images/create_asurine_cut_polished.png) |
 
 ---
 ## Polished Cut Asurine Wall
@@ -11168,7 +11168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Calcite | ![polished_cut_calcite](../images/create_polished_cut_calcite.png) |
+| X | Polished Cut Calcite | ![polished_cut_calcite](../images/create_calcite_cut_polished.png) |
 
 ---
 ## Polished Cut Calcite Slab
@@ -11184,8 +11184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Calcite Slab | ![polished_cut_calcite_slab](../images/create_polished_cut_calcite_slab.png) |
-| - | Polished Cut Calcite Slab | ![polished_cut_calcite_slab](../images/create_polished_cut_calcite_slab.png) |
+| - | Polished Cut Calcite Slab | ![polished_cut_calcite_slab](../images/create_calcite_cut_polished.png) |
+| - | Polished Cut Calcite Slab | ![polished_cut_calcite_slab](../images/create_calcite_cut_polished.png) |
 
 ---
 ## Polished Cut Calcite Stairs
@@ -11193,7 +11193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Calcite | ![polished_cut_calcite](../images/create_polished_cut_calcite.png) |
+| X | Polished Cut Calcite | ![polished_cut_calcite](../images/create_calcite_cut_polished.png) |
 
 ---
 ## Polished Cut Calcite Stairs
@@ -11209,7 +11209,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Calcite | ![polished_cut_calcite](../images/create_polished_cut_calcite.png) |
+| X | Polished Cut Calcite | ![polished_cut_calcite](../images/create_calcite_cut_polished.png) |
 
 ---
 ## Polished Cut Calcite Wall
@@ -11233,7 +11233,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Crimsite | ![polished_cut_crimsite](../images/create_polished_cut_crimsite.png) |
+| X | Polished Cut Crimsite | ![polished_cut_crimsite](../images/create_crimsite_cut_polished.png) |
 
 ---
 ## Polished Cut Crimsite Slab
@@ -11249,8 +11249,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Crimsite Slab | ![polished_cut_crimsite_slab](../images/create_polished_cut_crimsite_slab.png) |
-| - | Polished Cut Crimsite Slab | ![polished_cut_crimsite_slab](../images/create_polished_cut_crimsite_slab.png) |
+| - | Polished Cut Crimsite Slab | ![polished_cut_crimsite_slab](../images/create_crimsite_cut_polished.png) |
+| - | Polished Cut Crimsite Slab | ![polished_cut_crimsite_slab](../images/create_crimsite_cut_polished.png) |
 
 ---
 ## Polished Cut Crimsite Stairs
@@ -11258,7 +11258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Crimsite | ![polished_cut_crimsite](../images/create_polished_cut_crimsite.png) |
+| X | Polished Cut Crimsite | ![polished_cut_crimsite](../images/create_crimsite_cut_polished.png) |
 
 ---
 ## Polished Cut Crimsite Stairs
@@ -11274,7 +11274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Crimsite | ![polished_cut_crimsite](../images/create_polished_cut_crimsite.png) |
+| X | Polished Cut Crimsite | ![polished_cut_crimsite](../images/create_crimsite_cut_polished.png) |
 
 ---
 ## Polished Cut Crimsite Wall
@@ -11298,7 +11298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Deepslate | ![polished_cut_deepslate](../images/create_polished_cut_deepslate.png) |
+| X | Polished Cut Deepslate | ![polished_cut_deepslate](../images/create_deepslate_cut_polished.png) |
 
 ---
 ## Polished Cut Deepslate Slab
@@ -11314,8 +11314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Deepslate Slab | ![polished_cut_deepslate_slab](../images/create_polished_cut_deepslate_slab.png) |
-| - | Polished Cut Deepslate Slab | ![polished_cut_deepslate_slab](../images/create_polished_cut_deepslate_slab.png) |
+| - | Polished Cut Deepslate Slab | ![polished_cut_deepslate_slab](../images/create_deepslate_cut_polished.png) |
+| - | Polished Cut Deepslate Slab | ![polished_cut_deepslate_slab](../images/create_deepslate_cut_polished.png) |
 
 ---
 ## Polished Cut Deepslate Stairs
@@ -11323,7 +11323,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Deepslate | ![polished_cut_deepslate](../images/create_polished_cut_deepslate.png) |
+| X | Polished Cut Deepslate | ![polished_cut_deepslate](../images/create_deepslate_cut_polished.png) |
 
 ---
 ## Polished Cut Deepslate Stairs
@@ -11339,7 +11339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Deepslate | ![polished_cut_deepslate](../images/create_polished_cut_deepslate.png) |
+| X | Polished Cut Deepslate | ![polished_cut_deepslate](../images/create_deepslate_cut_polished.png) |
 
 ---
 ## Polished Cut Deepslate Wall
@@ -11363,7 +11363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Diorite | ![polished_cut_diorite](../images/create_polished_cut_diorite.png) |
+| X | Polished Cut Diorite | ![polished_cut_diorite](../images/create_diorite_cut_polished.png) |
 
 ---
 ## Polished Cut Diorite Slab
@@ -11379,8 +11379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Diorite Slab | ![polished_cut_diorite_slab](../images/create_polished_cut_diorite_slab.png) |
-| - | Polished Cut Diorite Slab | ![polished_cut_diorite_slab](../images/create_polished_cut_diorite_slab.png) |
+| - | Polished Cut Diorite Slab | ![polished_cut_diorite_slab](../images/create_diorite_cut_polished.png) |
+| - | Polished Cut Diorite Slab | ![polished_cut_diorite_slab](../images/create_diorite_cut_polished.png) |
 
 ---
 ## Polished Cut Diorite Stairs
@@ -11388,7 +11388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Diorite | ![polished_cut_diorite](../images/create_polished_cut_diorite.png) |
+| X | Polished Cut Diorite | ![polished_cut_diorite](../images/create_diorite_cut_polished.png) |
 
 ---
 ## Polished Cut Diorite Stairs
@@ -11404,7 +11404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Diorite | ![polished_cut_diorite](../images/create_polished_cut_diorite.png) |
+| X | Polished Cut Diorite | ![polished_cut_diorite](../images/create_diorite_cut_polished.png) |
 
 ---
 ## Polished Cut Diorite Wall
@@ -11428,7 +11428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Dripstone | ![polished_cut_dripstone](../images/create_polished_cut_dripstone.png) |
+| X | Polished Cut Dripstone | ![polished_cut_dripstone](../images/create_dripstone_cut_polished.png) |
 
 ---
 ## Polished Cut Dripstone Slab
@@ -11444,8 +11444,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Dripstone Slab | ![polished_cut_dripstone_slab](../images/create_polished_cut_dripstone_slab.png) |
-| - | Polished Cut Dripstone Slab | ![polished_cut_dripstone_slab](../images/create_polished_cut_dripstone_slab.png) |
+| - | Polished Cut Dripstone Slab | ![polished_cut_dripstone_slab](../images/create_dripstone_cut_polished.png) |
+| - | Polished Cut Dripstone Slab | ![polished_cut_dripstone_slab](../images/create_dripstone_cut_polished.png) |
 
 ---
 ## Polished Cut Dripstone Stairs
@@ -11453,7 +11453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Dripstone | ![polished_cut_dripstone](../images/create_polished_cut_dripstone.png) |
+| X | Polished Cut Dripstone | ![polished_cut_dripstone](../images/create_dripstone_cut_polished.png) |
 
 ---
 ## Polished Cut Dripstone Stairs
@@ -11469,7 +11469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Dripstone | ![polished_cut_dripstone](../images/create_polished_cut_dripstone.png) |
+| X | Polished Cut Dripstone | ![polished_cut_dripstone](../images/create_dripstone_cut_polished.png) |
 
 ---
 ## Polished Cut Dripstone Wall
@@ -11493,7 +11493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Granite | ![polished_cut_granite](../images/create_polished_cut_granite.png) |
+| X | Polished Cut Granite | ![polished_cut_granite](../images/create_granite_cut_polished.png) |
 
 ---
 ## Polished Cut Granite Slab
@@ -11509,8 +11509,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Granite Slab | ![polished_cut_granite_slab](../images/create_polished_cut_granite_slab.png) |
-| - | Polished Cut Granite Slab | ![polished_cut_granite_slab](../images/create_polished_cut_granite_slab.png) |
+| - | Polished Cut Granite Slab | ![polished_cut_granite_slab](../images/create_granite_cut_polished.png) |
+| - | Polished Cut Granite Slab | ![polished_cut_granite_slab](../images/create_granite_cut_polished.png) |
 
 ---
 ## Polished Cut Granite Stairs
@@ -11518,7 +11518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Granite | ![polished_cut_granite](../images/create_polished_cut_granite.png) |
+| X | Polished Cut Granite | ![polished_cut_granite](../images/create_granite_cut_polished.png) |
 
 ---
 ## Polished Cut Granite Stairs
@@ -11534,7 +11534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Granite | ![polished_cut_granite](../images/create_polished_cut_granite.png) |
+| X | Polished Cut Granite | ![polished_cut_granite](../images/create_granite_cut_polished.png) |
 
 ---
 ## Polished Cut Granite Wall
@@ -11558,7 +11558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Limestone | ![polished_cut_limestone](../images/create_polished_cut_limestone.png) |
+| X | Polished Cut Limestone | ![polished_cut_limestone](../images/create_limestone_cut_polished.png) |
 
 ---
 ## Polished Cut Limestone Slab
@@ -11574,8 +11574,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Limestone Slab | ![polished_cut_limestone_slab](../images/create_polished_cut_limestone_slab.png) |
-| - | Polished Cut Limestone Slab | ![polished_cut_limestone_slab](../images/create_polished_cut_limestone_slab.png) |
+| - | Polished Cut Limestone Slab | ![polished_cut_limestone_slab](../images/create_limestone_cut_polished.png) |
+| - | Polished Cut Limestone Slab | ![polished_cut_limestone_slab](../images/create_limestone_cut_polished.png) |
 
 ---
 ## Polished Cut Limestone Stairs
@@ -11583,7 +11583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Limestone | ![polished_cut_limestone](../images/create_polished_cut_limestone.png) |
+| X | Polished Cut Limestone | ![polished_cut_limestone](../images/create_limestone_cut_polished.png) |
 
 ---
 ## Polished Cut Limestone Stairs
@@ -11599,7 +11599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Limestone | ![polished_cut_limestone](../images/create_polished_cut_limestone.png) |
+| X | Polished Cut Limestone | ![polished_cut_limestone](../images/create_limestone_cut_polished.png) |
 
 ---
 ## Polished Cut Limestone Wall
@@ -11623,7 +11623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Ochrum | ![polished_cut_ochrum](../images/create_polished_cut_ochrum.png) |
+| X | Polished Cut Ochrum | ![polished_cut_ochrum](../images/create_ochrum_cut_polished.png) |
 
 ---
 ## Polished Cut Ochrum Slab
@@ -11639,8 +11639,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Ochrum Slab | ![polished_cut_ochrum_slab](../images/create_polished_cut_ochrum_slab.png) |
-| - | Polished Cut Ochrum Slab | ![polished_cut_ochrum_slab](../images/create_polished_cut_ochrum_slab.png) |
+| - | Polished Cut Ochrum Slab | ![polished_cut_ochrum_slab](../images/create_ochrum_cut_polished.png) |
+| - | Polished Cut Ochrum Slab | ![polished_cut_ochrum_slab](../images/create_ochrum_cut_polished.png) |
 
 ---
 ## Polished Cut Ochrum Stairs
@@ -11648,7 +11648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Ochrum | ![polished_cut_ochrum](../images/create_polished_cut_ochrum.png) |
+| X | Polished Cut Ochrum | ![polished_cut_ochrum](../images/create_ochrum_cut_polished.png) |
 
 ---
 ## Polished Cut Ochrum Stairs
@@ -11664,7 +11664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Ochrum | ![polished_cut_ochrum](../images/create_polished_cut_ochrum.png) |
+| X | Polished Cut Ochrum | ![polished_cut_ochrum](../images/create_ochrum_cut_polished.png) |
 
 ---
 ## Polished Cut Ochrum Wall
@@ -11688,7 +11688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Scorchia | ![polished_cut_scorchia](../images/create_polished_cut_scorchia.png) |
+| X | Polished Cut Scorchia | ![polished_cut_scorchia](../images/create_scorchia_cut_polished.png) |
 
 ---
 ## Polished Cut Scorchia Slab
@@ -11704,8 +11704,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Scorchia Slab | ![polished_cut_scorchia_slab](../images/create_polished_cut_scorchia_slab.png) |
-| - | Polished Cut Scorchia Slab | ![polished_cut_scorchia_slab](../images/create_polished_cut_scorchia_slab.png) |
+| - | Polished Cut Scorchia Slab | ![polished_cut_scorchia_slab](../images/create_scorchia_cut_polished.png) |
+| - | Polished Cut Scorchia Slab | ![polished_cut_scorchia_slab](../images/create_scorchia_cut_polished.png) |
 
 ---
 ## Polished Cut Scorchia Stairs
@@ -11713,7 +11713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Scorchia | ![polished_cut_scorchia](../images/create_polished_cut_scorchia.png) |
+| X | Polished Cut Scorchia | ![polished_cut_scorchia](../images/create_scorchia_cut_polished.png) |
 
 ---
 ## Polished Cut Scorchia Stairs
@@ -11729,7 +11729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Scorchia | ![polished_cut_scorchia](../images/create_polished_cut_scorchia.png) |
+| X | Polished Cut Scorchia | ![polished_cut_scorchia](../images/create_scorchia_cut_polished.png) |
 
 ---
 ## Polished Cut Scorchia Wall
@@ -11753,7 +11753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Scoria | ![polished_cut_scoria](../images/create_polished_cut_scoria.png) |
+| X | Polished Cut Scoria | ![polished_cut_scoria](../images/create_scoria_cut_polished.png) |
 
 ---
 ## Polished Cut Scoria Slab
@@ -11769,8 +11769,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Scoria Slab | ![polished_cut_scoria_slab](../images/create_polished_cut_scoria_slab.png) |
-| - | Polished Cut Scoria Slab | ![polished_cut_scoria_slab](../images/create_polished_cut_scoria_slab.png) |
+| - | Polished Cut Scoria Slab | ![polished_cut_scoria_slab](../images/create_scoria_cut_polished.png) |
+| - | Polished Cut Scoria Slab | ![polished_cut_scoria_slab](../images/create_scoria_cut_polished.png) |
 
 ---
 ## Polished Cut Scoria Stairs
@@ -11778,7 +11778,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Scoria | ![polished_cut_scoria](../images/create_polished_cut_scoria.png) |
+| X | Polished Cut Scoria | ![polished_cut_scoria](../images/create_scoria_cut_polished.png) |
 
 ---
 ## Polished Cut Scoria Stairs
@@ -11794,7 +11794,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Scoria | ![polished_cut_scoria](../images/create_polished_cut_scoria.png) |
+| X | Polished Cut Scoria | ![polished_cut_scoria](../images/create_scoria_cut_polished.png) |
 
 ---
 ## Polished Cut Scoria Wall
@@ -11818,7 +11818,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Tuff | ![polished_cut_tuff](../images/create_polished_cut_tuff.png) |
+| X | Polished Cut Tuff | ![polished_cut_tuff](../images/create_tuff_cut_polished.png) |
 
 ---
 ## Polished Cut Tuff Slab
@@ -11834,8 +11834,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Tuff Slab | ![polished_cut_tuff_slab](../images/create_polished_cut_tuff_slab.png) |
-| - | Polished Cut Tuff Slab | ![polished_cut_tuff_slab](../images/create_polished_cut_tuff_slab.png) |
+| - | Polished Cut Tuff Slab | ![polished_cut_tuff_slab](../images/create_tuff_cut_polished.png) |
+| - | Polished Cut Tuff Slab | ![polished_cut_tuff_slab](../images/create_tuff_cut_polished.png) |
 
 ---
 ## Polished Cut Tuff Stairs
@@ -11843,7 +11843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Tuff | ![polished_cut_tuff](../images/create_polished_cut_tuff.png) |
+| X | Polished Cut Tuff | ![polished_cut_tuff](../images/create_tuff_cut_polished.png) |
 
 ---
 ## Polished Cut Tuff Stairs
@@ -11859,7 +11859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Tuff | ![polished_cut_tuff](../images/create_polished_cut_tuff.png) |
+| X | Polished Cut Tuff | ![polished_cut_tuff](../images/create_tuff_cut_polished.png) |
 
 ---
 ## Polished Cut Tuff Wall
@@ -11883,7 +11883,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Veridium | ![polished_cut_veridium](../images/create_polished_cut_veridium.png) |
+| X | Polished Cut Veridium | ![polished_cut_veridium](../images/create_veridium_cut_polished.png) |
 
 ---
 ## Polished Cut Veridium Slab
@@ -11899,8 +11899,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Cut Veridium Slab | ![polished_cut_veridium_slab](../images/create_polished_cut_veridium_slab.png) |
-| - | Polished Cut Veridium Slab | ![polished_cut_veridium_slab](../images/create_polished_cut_veridium_slab.png) |
+| - | Polished Cut Veridium Slab | ![polished_cut_veridium_slab](../images/create_veridium_cut_polished.png) |
+| - | Polished Cut Veridium Slab | ![polished_cut_veridium_slab](../images/create_veridium_cut_polished.png) |
 
 ---
 ## Polished Cut Veridium Stairs
@@ -11908,7 +11908,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Veridium | ![polished_cut_veridium](../images/create_polished_cut_veridium.png) |
+| X | Polished Cut Veridium | ![polished_cut_veridium](../images/create_veridium_cut_polished.png) |
 
 ---
 ## Polished Cut Veridium Stairs
@@ -11924,7 +11924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Polished Cut Veridium | ![polished_cut_veridium](../images/create_polished_cut_veridium.png) |
+| X | Polished Cut Veridium | ![polished_cut_veridium](../images/create_veridium_cut_polished.png) |
 
 ---
 ## Polished Cut Veridium Wall
@@ -11940,7 +11940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Poppy | ![poppy](../images/create_poppy.png) |
+| - | Poppy | ![poppy](../images/create_0.png) |
 
 ---
 ## Portable Fluid Interface
@@ -11969,7 +11969,7 @@
 | C | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 | L | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | R | Precision Mechanism | ![precision_mechanism](../images/create_precision_mechanism.png) |
-| S | Fluid Pipe | ![fluid_pipe](../images/create_fluid_pipe.png) |
+| S | Fluid Pipe | ![fluid_pipe](../images/create_glass_fluid_pipe.png) |
 
 ---
 ## Powered Latch
@@ -11977,10 +11977,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Lever | ![lever](../images/create_lever.png) |
+| C | Lever | ![lever](../images/create_analog_lever.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
-| S | Stone | ![stone](../images/create_stone.png) |
-| T | Redstone Torch | ![redstone_torch](../images/create_redstone_torch.png) |
+| S | Stone | ![stone](../images/create_0.png) |
+| T | Redstone Torch | ![redstone_torch](../images/create_copper_redstone_plate.png) |
 
 ---
 ## Powered Toggle Latch
@@ -11988,9 +11988,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Lever | ![lever](../images/create_lever.png) |
-| S | Stone | ![stone](../images/create_stone.png) |
-| T | Redstone Torch | ![redstone_torch](../images/create_redstone_torch.png) |
+| C | Lever | ![lever](../images/create_analog_lever.png) |
+| S | Stone | ![stone](../images/create_0.png) |
+| T | Redstone Torch | ![redstone_torch](../images/create_copper_redstone_plate.png) |
 
 ---
 ## {}
@@ -12006,7 +12006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Crystals | ![prismarine_crystals](../images/create_prismarine_crystals.png) |
+| - | Prismarine Crystals | ![prismarine_crystals](../images/create_0.png) |
 
 ---
 ## Propeller
@@ -12023,7 +12023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Protea Flower | ![protea_flower](../images/create_protea_flower.png) |
+| - | Protea Flower | ![protea_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## Pulse Extender
@@ -12033,8 +12033,8 @@
 | :--- | :--- | :--- |
 | C | Plates/Brass | ![plates/brass](../images/create_plates/brass.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
-| S | Stone | ![stone](../images/create_stone.png) |
-| T | Redstone Torch | ![redstone_torch](../images/create_redstone_torch.png) |
+| S | Stone | ![stone](../images/create_0.png) |
+| T | Redstone Torch | ![redstone_torch](../images/create_copper_redstone_plate.png) |
 
 ---
 ## Pulse Repeater
@@ -12044,8 +12044,8 @@
 | :--- | :--- | :--- |
 | C | Plates/Brass | ![plates/brass](../images/create_plates/brass.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
-| S | Stone | ![stone](../images/create_stone.png) |
-| T | Redstone Torch | ![redstone_torch](../images/create_redstone_torch.png) |
+| S | Stone | ![stone](../images/create_0.png) |
+| T | Redstone Torch | ![redstone_torch](../images/create_copper_redstone_plate.png) |
 
 ---
 ## {}
@@ -12053,7 +12053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Amaranth | ![purple_amaranth](../images/create_purple_amaranth.png) |
+| - | Purple Amaranth | ![purple_amaranth](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -12061,7 +12061,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/create_purple_archwood_log.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -12069,7 +12069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Wood | ![purple_archwood_wood](../images/create_purple_archwood_wood.png) |
+| - | Purple Archwood Wood | ![purple_archwood_wood](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -12077,7 +12077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Concrete Powder | ![purple_concrete_powder](../images/create_purple_concrete_powder.png) |
+| - | Purple Concrete Powder | ![purple_concrete_powder](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -12085,7 +12085,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Delphinium | ![purple_delphinium](../images/create_purple_delphinium.png) |
+| - | Purple Delphinium | ![purple_delphinium](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -12093,7 +12093,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Hibiscus | ![purple_hibiscus](../images/create_purple_hibiscus.png) |
+| - | Purple Hibiscus | ![purple_hibiscus](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -12109,7 +12109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Sage | ![purple_sage](../images/create_purple_sage.png) |
+| - | Purple Sage | ![purple_sage](../images/create_canvas_purple.png) |
 
 ---
 ## Purple Seat
@@ -12117,8 +12117,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Wool | ![purple_wool](../images/create_purple_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Purple Wool | ![purple_wool](../images/create_canvas_purple.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Purple Seat
@@ -12127,7 +12127,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Purple | ![dyes/purple](../images/create_dyes/purple.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -12135,7 +12135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Tulip | ![purple_tulip](../images/create_purple_tulip.png) |
+| - | Purple Tulip | ![purple_tulip](../images/create_canvas_purple.png) |
 
 ---
 ## Purple Valve Handle
@@ -12144,7 +12144,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Purple | ![dyes/purple](../images/create_dyes/purple.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -12152,7 +12152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pyrope Ore | ![pyrope_ore](../images/create_pyrope_ore.png) |
+| - | Pyrope Ore | ![pyrope_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -12168,7 +12168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/create_logs.png) |
+| L | Logs | ![logs](../images/create_0.png) |
 | P | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 
 ---
@@ -12186,7 +12186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rainbow Eucalyptus Log | ![rainbow_eucalyptus_log](../images/create_rainbow_eucalyptus_log.png) |
+| - | Rainbow Eucalyptus Log | ![rainbow_eucalyptus_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -12194,7 +12194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rainbow Eucalyptus Wood | ![rainbow_eucalyptus_wood](../images/create_rainbow_eucalyptus_wood.png) |
+| - | Rainbow Eucalyptus Wood | ![rainbow_eucalyptus_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -12218,7 +12218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Calorite Block | ![raw_calorite_block](../images/create_raw_calorite_block.png) |
+| - | Raw Calorite Block | ![raw_calorite_block](../images/create_raw_zinc_block.png) |
 
 ---
 ## {}
@@ -12226,7 +12226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Calorite | ![raw_calorite](../images/create_raw_calorite.png) |
+| - | Raw Calorite | ![raw_calorite](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -12234,7 +12234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Copper | ![raw_copper](../images/create_raw_copper.png) |
+| - | Raw Copper | ![raw_copper](../images/create_crushed_raw_copper.png) |
 
 ---
 ## {}
@@ -12242,7 +12242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Copper Block | ![raw_copper_block](../images/create_raw_copper_block.png) |
+| - | Raw Copper Block | ![raw_copper_block](../images/create_crushed_raw_copper.png) |
 
 ---
 ## {}
@@ -12250,7 +12250,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Desh Block | ![raw_desh_block](../images/create_raw_desh_block.png) |
+| - | Raw Desh Block | ![raw_desh_block](../images/create_raw_zinc_block.png) |
 
 ---
 ## {}
@@ -12258,7 +12258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Desh | ![raw_desh](../images/create_raw_desh.png) |
+| - | Raw Desh | ![raw_desh](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -12266,7 +12266,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Gold | ![raw_gold](../images/create_raw_gold.png) |
+| - | Raw Gold | ![raw_gold](../images/create_crushed_raw_gold.png) |
 
 ---
 ## {}
@@ -12274,7 +12274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Gold Block | ![raw_gold_block](../images/create_raw_gold_block.png) |
+| - | Raw Gold Block | ![raw_gold_block](../images/create_crushed_raw_gold.png) |
 
 ---
 ## {}
@@ -12282,7 +12282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Iron | ![raw_iron](../images/create_raw_iron.png) |
+| - | Raw Iron | ![raw_iron](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -12290,7 +12290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Iron Block | ![raw_iron_block](../images/create_raw_iron_block.png) |
+| - | Raw Iron Block | ![raw_iron_block](../images/create_crushed_raw_iron.png) |
 
 ---
 ## {}
@@ -12346,7 +12346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Ostrum Block | ![raw_ostrum_block](../images/create_raw_ostrum_block.png) |
+| - | Raw Ostrum Block | ![raw_ostrum_block](../images/create_raw_zinc_block.png) |
 
 ---
 ## {}
@@ -12354,7 +12354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Ostrum | ![raw_ostrum](../images/create_raw_ostrum.png) |
+| - | Raw Ostrum | ![raw_ostrum](../images/create_crushed_raw_aluminum.png) |
 
 ---
 ## {}
@@ -12459,7 +12459,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cinder Flour | ![cinder_flour](../images/create_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Redstone Contact
@@ -12467,7 +12467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/create_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/create_0.png) |
 | S | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
 | W | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
 
@@ -12477,7 +12477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Redstone Torch | ![redstone_torch](../images/create_redstone_torch.png) |
+| C | Redstone Torch | ![redstone_torch](../images/create_copper_redstone_plate.png) |
 | S | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 
 ---
@@ -12486,7 +12486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Ore | ![redstone_ore](../images/create_redstone_ore.png) |
+| - | Redstone Ore | ![redstone_ore](../images/create_copper_redstone_plate.png) |
 
 ---
 ## {}
@@ -12494,7 +12494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redwood Log | ![redwood_log](../images/create_redwood_log.png) |
+| - | Redwood Log | ![redwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -12502,7 +12502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redwood Wood | ![redwood_wood](../images/create_redwood_wood.png) |
+| - | Redwood Wood | ![redwood_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -12510,7 +12510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/create_red_archwood_log.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -12518,7 +12518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Wood | ![red_archwood_wood](../images/create_red_archwood_wood.png) |
+| - | Red Archwood Wood | ![red_archwood_wood](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -12526,7 +12526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Arid Sand | ![red_arid_sand](../images/create_red_arid_sand.png) |
+| - | Red Arid Sand | ![red_arid_sand](../images/create_red_sand_paper.png) |
 
 ---
 ## {}
@@ -12534,7 +12534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Concrete Powder | ![red_concrete_powder](../images/create_red_concrete_powder.png) |
+| - | Red Concrete Powder | ![red_concrete_powder](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -12542,7 +12542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Hibiscus | ![red_hibiscus](../images/create_red_hibiscus.png) |
+| - | Red Hibiscus | ![red_hibiscus](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -12550,7 +12550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Lotus Flower | ![red_lotus_flower](../images/create_red_lotus_flower.png) |
+| - | Red Lotus Flower | ![red_lotus_flower](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -12566,7 +12566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Rock | ![red_rock](../images/create_red_rock.png) |
+| - | Red Rock | ![red_rock](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -12574,7 +12574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sand | ![red_sand](../images/create_red_sand.png) |
+| - | Red Sand | ![red_sand](../images/create_red_sand_paper.png) |
 
 ---
 ## Red Sand Paper
@@ -12582,7 +12582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/create_paper.png) |
+| - | Paper | ![paper](../images/create_red_sand_paper.png) |
 | - | Sand/Red | ![sand/red](../images/create_sand/red.png) |
 
 ---
@@ -12591,8 +12591,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Wool | ![red_wool](../images/create_red_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Red Wool | ![red_wool](../images/create_canvas_red.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Red Seat
@@ -12601,7 +12601,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Red | ![dyes/red](../images/create_dyes/red.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -12609,7 +12609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Tulip | ![red_tulip](../images/create_red_tulip.png) |
+| - | Red Tulip | ![red_tulip](../images/create_canvas_red.png) |
 
 ---
 ## Red Valve Handle
@@ -12618,7 +12618,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Red | ![dyes/red](../images/create_dyes/red.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -12626,7 +12626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Richea | ![richea](../images/create_richea.png) |
+| - | Richea | ![richea](../images/create_0.png) |
 
 ---
 ## {}
@@ -12634,7 +12634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | River Log | ![river_log](../images/create_river_log.png) |
+| - | River Log | ![river_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## Rope Pulley
@@ -12643,7 +12643,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| C | Wool | ![wool](../images/create_wool.png) |
+| C | Wool | ![wool](../images/create_0.png) |
 | I | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
 
 ---
@@ -12652,7 +12652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose | ![rose](../images/create_rose.png) |
+| - | Rose | ![rose](../images/create_polished_rose_quartz.png) |
 
 ---
 ## {}
@@ -12660,7 +12660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rosewood Log | ![rosewood_log](../images/create_rosewood_log.png) |
+| - | Rosewood Log | ![rosewood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -12668,7 +12668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose Bush | ![rose_bush](../images/create_rose_bush.png) |
+| - | Rose Bush | ![rose_bush](../images/create_polished_rose_quartz.png) |
 
 ---
 ## {}
@@ -12700,7 +12700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose Quartz Ore | ![rose_quartz_ore](../images/create_rose_quartz_ore.png) |
+| - | Rose Quartz Ore | ![rose_quartz_ore](../images/create_polished_rose_quartz.png) |
 
 ---
 ## Rose Quartz Tiles
@@ -12733,7 +12733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomato | ![tomato](../images/create_tomato.png) |
+| - | Tomato | ![tomato](../images/create_central_kitchen_tomato_sauce_bucket.png) |
 
 ---
 ## {}
@@ -12741,7 +12741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ruby Ore | ![ruby_ore](../images/create_ruby_ore.png) |
+| - | Ruby Ore | ![ruby_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -12749,7 +12749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saddle | ![saddle](../images/create_saddle.png) |
+| - | Saddle | ![saddle](../images/create_0.png) |
 
 ---
 ## Sail Frame
@@ -12757,7 +12757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sail | ![white_sail](../images/create_white_sail.png) |
+| - | White Sail | ![white_sail](../images/create_canvas_white.png) |
 
 ---
 ## {}
@@ -12765,7 +12765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/create_sand.png) |
+| - | Sand | ![sand](../images/create_red_sand_paper.png) |
 
 ---
 ## {}
@@ -12773,7 +12773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone | ![sandstone](../images/create_sandstone.png) |
+| - | Sandstone | ![sandstone](../images/create_0.png) |
 
 ---
 ## Sand Paper
@@ -12781,7 +12781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/create_paper.png) |
+| - | Paper | ![paper](../images/create_red_sand_paper.png) |
 | - | Sand/Colorless | ![sand/colorless](../images/create_sand/colorless.png) |
 
 ---
@@ -12790,7 +12790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sapphire Ore | ![sapphire_ore](../images/create_sapphire_ore.png) |
+| - | Sapphire Ore | ![sapphire_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -12798,7 +12798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Planks | ![acacia_planks](../images/create_acacia_planks.png) |
+| - | Acacia Planks | ![acacia_planks](../images/create_acacia_window.png) |
 
 ---
 ## {}
@@ -12806,7 +12806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Planks | ![birch_planks](../images/create_birch_planks.png) |
+| - | Birch Planks | ![birch_planks](../images/create_birch_window.png) |
 
 ---
 ## {}
@@ -12814,7 +12814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Planks | ![crimson_planks](../images/create_crimson_planks.png) |
+| - | Crimson Planks | ![crimson_planks](../images/create_crimson_window.png) |
 
 ---
 ## {}
@@ -12822,7 +12822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Planks | ![dark_oak_planks](../images/create_dark_oak_planks.png) |
+| - | Dark Oak Planks | ![dark_oak_planks](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -12830,7 +12830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Planks | ![jungle_planks](../images/create_jungle_planks.png) |
+| - | Jungle Planks | ![jungle_planks](../images/create_jungle_window.png) |
 
 ---
 ## {}
@@ -12838,7 +12838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_planks.png) |
+| - | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_window.png) |
 
 ---
 ## {}
@@ -12846,7 +12846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Planks | ![oak_planks](../images/create_oak_planks.png) |
+| - | Oak Planks | ![oak_planks](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -12854,7 +12854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Planks | ![spruce_planks](../images/create_spruce_planks.png) |
+| - | Spruce Planks | ![spruce_planks](../images/create_spruce_window.png) |
 
 ---
 ## {}
@@ -12862,7 +12862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Planks | ![warped_planks](../images/create_warped_planks.png) |
+| - | Warped Planks | ![warped_planks](../images/create_things_and_misc_warped_sail.png) |
 
 ---
 ## {}
@@ -12870,7 +12870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Scalding Monkey Brush | ![scalding_monkey_brush](../images/create_scalding_monkey_brush.png) |
+| - | Scalding Monkey Brush | ![scalding_monkey_brush](../images/create_0.png) |
 
 ---
 ## Schedule
@@ -12879,7 +12879,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Plates/Obsidian | ![plates/obsidian](../images/create_plates/obsidian.png) |
-| - | Paper | ![paper](../images/create_paper.png) |
+| - | Paper | ![paper](../images/create_red_sand_paper.png) |
 
 ---
 ## Schedule
@@ -12895,10 +12895,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dispenser | ![dispenser](../images/create_dispenser.png) |
-| I | Iron Block | ![iron_block](../images/create_iron_block.png) |
-| L | Logs | ![logs](../images/create_logs.png) |
-| S | Smooth Stone | ![smooth_stone](../images/create_smooth_stone.png) |
+| D | Dispenser | ![dispenser](../images/create_0.png) |
+| I | Iron Block | ![iron_block](../images/create_industrial_iron_block.png) |
+| L | Logs | ![logs](../images/create_0.png) |
+| S | Smooth Stone | ![smooth_stone](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## Schematic And Quill
@@ -12907,7 +12907,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Empty Schematic | ![empty_schematic](../images/create_empty_schematic.png) |
-| - | Feathers | ![feathers](../images/create_feathers.png) |
+| - | Feathers | ![feathers](../images/create_0.png) |
 
 ---
 ## Schematic Table
@@ -12915,8 +12915,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Smooth Stone | ![smooth_stone](../images/create_smooth_stone.png) |
-| W | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| S | Smooth Stone | ![smooth_stone](../images/create_smooth_dark_log_top.png) |
+| W | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Scorchia
@@ -12949,7 +12949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Sand | ![soul_sand](../images/create_soul_sand.png) |
+| item | Soul Sand | ![soul_sand](../images/create_blaze_heater_brazier_soul.png) |
 
 ---
 ## Scoria
@@ -12973,7 +12973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Pickle | ![sea_pickle](../images/create_sea_pickle.png) |
+| - | Sea Pickle | ![sea_pickle](../images/create_0.png) |
 
 ---
 ## Secondary Linear Chassis
@@ -12981,7 +12981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Linear Chassis | ![linear_chassis](../images/create_linear_chassis.png) |
+| - | Linear Chassis | ![linear_chassis](../images/create_linear_chassis_end.png) |
 
 ---
 ## Sequenced Gearshift
@@ -12999,7 +12999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barley | ![barley](../images/create_barley.png) |
+| - | Barley | ![barley](../images/create_0.png) |
 
 ---
 ## {}
@@ -13007,7 +13007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oat | ![oat](../images/create_oat.png) |
+| - | Oat | ![oat](../images/create_0.png) |
 
 ---
 ## {}
@@ -13015,7 +13015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rice | ![rice](../images/create_rice.png) |
+| - | Rice | ![rice](../images/create_0.png) |
 
 ---
 ## {}
@@ -13023,7 +13023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rye | ![rye](../images/create_rye.png) |
+| - | Rye | ![rye](../images/create_0.png) |
 
 ---
 ## {}
@@ -13031,7 +13031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shadow Grass'}] | ![shadow_grass'}]](../images/create_shadow_grass'}].png) |
+| - | Shadow Grass'}] | ![shadow_grass'}]](../images/create_shadow_steel.png) |
 
 ---
 ## Shaft
@@ -13063,7 +13063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Silver Vase Flower | ![silver_vase_flower](../images/create_silver_vase_flower.png) |
+| - | Silver Vase Flower | ![silver_vase_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -13071,7 +13071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyris Log | ![skyris_log](../images/create_skyris_log.png) |
+| - | Skyris Log | ![skyris_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -13079,7 +13079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyris Wood | ![skyris_wood](../images/create_skyris_wood.png) |
+| - | Skyris Wood | ![skyris_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -13087,7 +13087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyroot Log | ![skyroot_log](../images/create_skyroot_log.png) |
+| - | Skyroot Log | ![skyroot_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -13095,7 +13095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyroot Wood | ![skyroot_wood](../images/create_skyroot_wood.png) |
+| - | Skyroot Wood | ![skyroot_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -13103,7 +13103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Stone Block | ![sky_stone_block](../images/create_sky_stone_block.png) |
+| - | Sky Stone Block | ![sky_stone_block](../images/create_andesite_block.png) |
 
 ---
 ## Slime Ball
@@ -13128,7 +13128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Andesite Bricks | ![small_andesite_bricks](../images/create_small_andesite_bricks.png) |
+| X | Small Andesite Bricks | ![small_andesite_bricks](../images/create_andesite_cut_small_brick.png) |
 
 ---
 ## Small Andesite Brick Slab
@@ -13144,8 +13144,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Andesite Brick Slab | ![small_andesite_brick_slab](../images/create_small_andesite_brick_slab.png) |
-| - | Small Andesite Brick Slab | ![small_andesite_brick_slab](../images/create_small_andesite_brick_slab.png) |
+| - | Small Andesite Brick Slab | ![small_andesite_brick_slab](../images/create_andesite_cut_small_brick.png) |
+| - | Small Andesite Brick Slab | ![small_andesite_brick_slab](../images/create_andesite_cut_small_brick.png) |
 
 ---
 ## Small Andesite Brick Stairs
@@ -13153,7 +13153,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Andesite Bricks | ![small_andesite_bricks](../images/create_small_andesite_bricks.png) |
+| X | Small Andesite Bricks | ![small_andesite_bricks](../images/create_andesite_cut_small_brick.png) |
 
 ---
 ## Small Andesite Brick Stairs
@@ -13169,7 +13169,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Andesite Bricks | ![small_andesite_bricks](../images/create_small_andesite_bricks.png) |
+| X | Small Andesite Bricks | ![small_andesite_bricks](../images/create_andesite_cut_small_brick.png) |
 
 ---
 ## Small Andesite Brick Wall
@@ -13193,7 +13193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Asurine Bricks | ![small_asurine_bricks](../images/create_small_asurine_bricks.png) |
+| X | Small Asurine Bricks | ![small_asurine_bricks](../images/create_asurine_cut_small_brick.png) |
 
 ---
 ## Small Asurine Brick Slab
@@ -13209,8 +13209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Asurine Brick Slab | ![small_asurine_brick_slab](../images/create_small_asurine_brick_slab.png) |
-| - | Small Asurine Brick Slab | ![small_asurine_brick_slab](../images/create_small_asurine_brick_slab.png) |
+| - | Small Asurine Brick Slab | ![small_asurine_brick_slab](../images/create_asurine_cut_small_brick.png) |
+| - | Small Asurine Brick Slab | ![small_asurine_brick_slab](../images/create_asurine_cut_small_brick.png) |
 
 ---
 ## Small Asurine Brick Stairs
@@ -13218,7 +13218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Asurine Bricks | ![small_asurine_bricks](../images/create_small_asurine_bricks.png) |
+| X | Small Asurine Bricks | ![small_asurine_bricks](../images/create_asurine_cut_small_brick.png) |
 
 ---
 ## Small Asurine Brick Stairs
@@ -13234,7 +13234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Asurine Bricks | ![small_asurine_bricks](../images/create_small_asurine_bricks.png) |
+| X | Small Asurine Bricks | ![small_asurine_bricks](../images/create_asurine_cut_small_brick.png) |
 
 ---
 ## Small Asurine Brick Wall
@@ -13258,7 +13258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Calcite Bricks | ![small_calcite_bricks](../images/create_small_calcite_bricks.png) |
+| X | Small Calcite Bricks | ![small_calcite_bricks](../images/create_calcite_cut_small_brick.png) |
 
 ---
 ## Small Calcite Brick Slab
@@ -13274,8 +13274,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Calcite Brick Slab | ![small_calcite_brick_slab](../images/create_small_calcite_brick_slab.png) |
-| - | Small Calcite Brick Slab | ![small_calcite_brick_slab](../images/create_small_calcite_brick_slab.png) |
+| - | Small Calcite Brick Slab | ![small_calcite_brick_slab](../images/create_calcite_cut_small_brick.png) |
+| - | Small Calcite Brick Slab | ![small_calcite_brick_slab](../images/create_calcite_cut_small_brick.png) |
 
 ---
 ## Small Calcite Brick Stairs
@@ -13283,7 +13283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Calcite Bricks | ![small_calcite_bricks](../images/create_small_calcite_bricks.png) |
+| X | Small Calcite Bricks | ![small_calcite_bricks](../images/create_calcite_cut_small_brick.png) |
 
 ---
 ## Small Calcite Brick Stairs
@@ -13299,7 +13299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Calcite Bricks | ![small_calcite_bricks](../images/create_small_calcite_bricks.png) |
+| X | Small Calcite Bricks | ![small_calcite_bricks](../images/create_calcite_cut_small_brick.png) |
 
 ---
 ## Small Calcite Brick Wall
@@ -13323,7 +13323,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Crimsite Bricks | ![small_crimsite_bricks](../images/create_small_crimsite_bricks.png) |
+| X | Small Crimsite Bricks | ![small_crimsite_bricks](../images/create_crimsite_cut_small_brick.png) |
 
 ---
 ## Small Crimsite Brick Slab
@@ -13339,8 +13339,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Crimsite Brick Slab | ![small_crimsite_brick_slab](../images/create_small_crimsite_brick_slab.png) |
-| - | Small Crimsite Brick Slab | ![small_crimsite_brick_slab](../images/create_small_crimsite_brick_slab.png) |
+| - | Small Crimsite Brick Slab | ![small_crimsite_brick_slab](../images/create_crimsite_cut_small_brick.png) |
+| - | Small Crimsite Brick Slab | ![small_crimsite_brick_slab](../images/create_crimsite_cut_small_brick.png) |
 
 ---
 ## Small Crimsite Brick Stairs
@@ -13348,7 +13348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Crimsite Bricks | ![small_crimsite_bricks](../images/create_small_crimsite_bricks.png) |
+| X | Small Crimsite Bricks | ![small_crimsite_bricks](../images/create_crimsite_cut_small_brick.png) |
 
 ---
 ## Small Crimsite Brick Stairs
@@ -13364,7 +13364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Crimsite Bricks | ![small_crimsite_bricks](../images/create_small_crimsite_bricks.png) |
+| X | Small Crimsite Bricks | ![small_crimsite_bricks](../images/create_crimsite_cut_small_brick.png) |
 
 ---
 ## Small Crimsite Brick Wall
@@ -13388,7 +13388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Deepslate Bricks | ![small_deepslate_bricks](../images/create_small_deepslate_bricks.png) |
+| X | Small Deepslate Bricks | ![small_deepslate_bricks](../images/create_deepslate_cut_small_brick.png) |
 
 ---
 ## Small Deepslate Brick Slab
@@ -13404,8 +13404,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Deepslate Brick Slab | ![small_deepslate_brick_slab](../images/create_small_deepslate_brick_slab.png) |
-| - | Small Deepslate Brick Slab | ![small_deepslate_brick_slab](../images/create_small_deepslate_brick_slab.png) |
+| - | Small Deepslate Brick Slab | ![small_deepslate_brick_slab](../images/create_deepslate_cut_small_brick.png) |
+| - | Small Deepslate Brick Slab | ![small_deepslate_brick_slab](../images/create_deepslate_cut_small_brick.png) |
 
 ---
 ## Small Deepslate Brick Stairs
@@ -13413,7 +13413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Deepslate Bricks | ![small_deepslate_bricks](../images/create_small_deepslate_bricks.png) |
+| X | Small Deepslate Bricks | ![small_deepslate_bricks](../images/create_deepslate_cut_small_brick.png) |
 
 ---
 ## Small Deepslate Brick Stairs
@@ -13429,7 +13429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Deepslate Bricks | ![small_deepslate_bricks](../images/create_small_deepslate_bricks.png) |
+| X | Small Deepslate Bricks | ![small_deepslate_bricks](../images/create_deepslate_cut_small_brick.png) |
 
 ---
 ## Small Deepslate Brick Wall
@@ -13453,7 +13453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Diorite Bricks | ![small_diorite_bricks](../images/create_small_diorite_bricks.png) |
+| X | Small Diorite Bricks | ![small_diorite_bricks](../images/create_diorite_cut_small_brick.png) |
 
 ---
 ## Small Diorite Brick Slab
@@ -13469,8 +13469,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Diorite Brick Slab | ![small_diorite_brick_slab](../images/create_small_diorite_brick_slab.png) |
-| - | Small Diorite Brick Slab | ![small_diorite_brick_slab](../images/create_small_diorite_brick_slab.png) |
+| - | Small Diorite Brick Slab | ![small_diorite_brick_slab](../images/create_diorite_cut_small_brick.png) |
+| - | Small Diorite Brick Slab | ![small_diorite_brick_slab](../images/create_diorite_cut_small_brick.png) |
 
 ---
 ## Small Diorite Brick Stairs
@@ -13478,7 +13478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Diorite Bricks | ![small_diorite_bricks](../images/create_small_diorite_bricks.png) |
+| X | Small Diorite Bricks | ![small_diorite_bricks](../images/create_diorite_cut_small_brick.png) |
 
 ---
 ## Small Diorite Brick Stairs
@@ -13494,7 +13494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Diorite Bricks | ![small_diorite_bricks](../images/create_small_diorite_bricks.png) |
+| X | Small Diorite Bricks | ![small_diorite_bricks](../images/create_diorite_cut_small_brick.png) |
 
 ---
 ## Small Diorite Brick Wall
@@ -13518,7 +13518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Dripstone Bricks | ![small_dripstone_bricks](../images/create_small_dripstone_bricks.png) |
+| X | Small Dripstone Bricks | ![small_dripstone_bricks](../images/create_dripstone_cut_small_brick.png) |
 
 ---
 ## Small Dripstone Brick Slab
@@ -13534,8 +13534,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Dripstone Brick Slab | ![small_dripstone_brick_slab](../images/create_small_dripstone_brick_slab.png) |
-| - | Small Dripstone Brick Slab | ![small_dripstone_brick_slab](../images/create_small_dripstone_brick_slab.png) |
+| - | Small Dripstone Brick Slab | ![small_dripstone_brick_slab](../images/create_dripstone_cut_small_brick.png) |
+| - | Small Dripstone Brick Slab | ![small_dripstone_brick_slab](../images/create_dripstone_cut_small_brick.png) |
 
 ---
 ## Small Dripstone Brick Stairs
@@ -13543,7 +13543,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Dripstone Bricks | ![small_dripstone_bricks](../images/create_small_dripstone_bricks.png) |
+| X | Small Dripstone Bricks | ![small_dripstone_bricks](../images/create_dripstone_cut_small_brick.png) |
 
 ---
 ## Small Dripstone Brick Stairs
@@ -13559,7 +13559,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Dripstone Bricks | ![small_dripstone_bricks](../images/create_small_dripstone_bricks.png) |
+| X | Small Dripstone Bricks | ![small_dripstone_bricks](../images/create_dripstone_cut_small_brick.png) |
 
 ---
 ## Small Dripstone Brick Wall
@@ -13583,7 +13583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Granite Bricks | ![small_granite_bricks](../images/create_small_granite_bricks.png) |
+| X | Small Granite Bricks | ![small_granite_bricks](../images/create_granite_cut_small_brick.png) |
 
 ---
 ## Small Granite Brick Slab
@@ -13599,8 +13599,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Granite Brick Slab | ![small_granite_brick_slab](../images/create_small_granite_brick_slab.png) |
-| - | Small Granite Brick Slab | ![small_granite_brick_slab](../images/create_small_granite_brick_slab.png) |
+| - | Small Granite Brick Slab | ![small_granite_brick_slab](../images/create_granite_cut_small_brick.png) |
+| - | Small Granite Brick Slab | ![small_granite_brick_slab](../images/create_granite_cut_small_brick.png) |
 
 ---
 ## Small Granite Brick Stairs
@@ -13608,7 +13608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Granite Bricks | ![small_granite_bricks](../images/create_small_granite_bricks.png) |
+| X | Small Granite Bricks | ![small_granite_bricks](../images/create_granite_cut_small_brick.png) |
 
 ---
 ## Small Granite Brick Stairs
@@ -13624,7 +13624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Granite Bricks | ![small_granite_bricks](../images/create_small_granite_bricks.png) |
+| X | Small Granite Bricks | ![small_granite_bricks](../images/create_granite_cut_small_brick.png) |
 
 ---
 ## Small Granite Brick Wall
@@ -13648,7 +13648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Limestone Bricks | ![small_limestone_bricks](../images/create_small_limestone_bricks.png) |
+| X | Small Limestone Bricks | ![small_limestone_bricks](../images/create_limestone_cut_small_brick.png) |
 
 ---
 ## Small Limestone Brick Slab
@@ -13664,8 +13664,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Limestone Brick Slab | ![small_limestone_brick_slab](../images/create_small_limestone_brick_slab.png) |
-| - | Small Limestone Brick Slab | ![small_limestone_brick_slab](../images/create_small_limestone_brick_slab.png) |
+| - | Small Limestone Brick Slab | ![small_limestone_brick_slab](../images/create_limestone_cut_small_brick.png) |
+| - | Small Limestone Brick Slab | ![small_limestone_brick_slab](../images/create_limestone_cut_small_brick.png) |
 
 ---
 ## Small Limestone Brick Stairs
@@ -13673,7 +13673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Limestone Bricks | ![small_limestone_bricks](../images/create_small_limestone_bricks.png) |
+| X | Small Limestone Bricks | ![small_limestone_bricks](../images/create_limestone_cut_small_brick.png) |
 
 ---
 ## Small Limestone Brick Stairs
@@ -13689,7 +13689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Limestone Bricks | ![small_limestone_bricks](../images/create_small_limestone_bricks.png) |
+| X | Small Limestone Bricks | ![small_limestone_bricks](../images/create_limestone_cut_small_brick.png) |
 
 ---
 ## Small Limestone Brick Wall
@@ -13713,7 +13713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Ochrum Bricks | ![small_ochrum_bricks](../images/create_small_ochrum_bricks.png) |
+| X | Small Ochrum Bricks | ![small_ochrum_bricks](../images/create_ochrum_cut_small_brick.png) |
 
 ---
 ## Small Ochrum Brick Slab
@@ -13729,8 +13729,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Ochrum Brick Slab | ![small_ochrum_brick_slab](../images/create_small_ochrum_brick_slab.png) |
-| - | Small Ochrum Brick Slab | ![small_ochrum_brick_slab](../images/create_small_ochrum_brick_slab.png) |
+| - | Small Ochrum Brick Slab | ![small_ochrum_brick_slab](../images/create_ochrum_cut_small_brick.png) |
+| - | Small Ochrum Brick Slab | ![small_ochrum_brick_slab](../images/create_ochrum_cut_small_brick.png) |
 
 ---
 ## Small Ochrum Brick Stairs
@@ -13738,7 +13738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Ochrum Bricks | ![small_ochrum_bricks](../images/create_small_ochrum_bricks.png) |
+| X | Small Ochrum Bricks | ![small_ochrum_bricks](../images/create_ochrum_cut_small_brick.png) |
 
 ---
 ## Small Ochrum Brick Stairs
@@ -13754,7 +13754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Ochrum Bricks | ![small_ochrum_bricks](../images/create_small_ochrum_bricks.png) |
+| X | Small Ochrum Bricks | ![small_ochrum_bricks](../images/create_ochrum_cut_small_brick.png) |
 
 ---
 ## Small Ochrum Brick Wall
@@ -13794,7 +13794,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Scorchia Bricks | ![small_scorchia_bricks](../images/create_small_scorchia_bricks.png) |
+| X | Small Scorchia Bricks | ![small_scorchia_bricks](../images/create_scorchia_cut_small_brick.png) |
 
 ---
 ## Small Scorchia Brick Slab
@@ -13810,8 +13810,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Scorchia Brick Slab | ![small_scorchia_brick_slab](../images/create_small_scorchia_brick_slab.png) |
-| - | Small Scorchia Brick Slab | ![small_scorchia_brick_slab](../images/create_small_scorchia_brick_slab.png) |
+| - | Small Scorchia Brick Slab | ![small_scorchia_brick_slab](../images/create_scorchia_cut_small_brick.png) |
+| - | Small Scorchia Brick Slab | ![small_scorchia_brick_slab](../images/create_scorchia_cut_small_brick.png) |
 
 ---
 ## Small Scorchia Brick Stairs
@@ -13819,7 +13819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Scorchia Bricks | ![small_scorchia_bricks](../images/create_small_scorchia_bricks.png) |
+| X | Small Scorchia Bricks | ![small_scorchia_bricks](../images/create_scorchia_cut_small_brick.png) |
 
 ---
 ## Small Scorchia Brick Stairs
@@ -13835,7 +13835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Scorchia Bricks | ![small_scorchia_bricks](../images/create_small_scorchia_bricks.png) |
+| X | Small Scorchia Bricks | ![small_scorchia_bricks](../images/create_scorchia_cut_small_brick.png) |
 
 ---
 ## Small Scorchia Brick Wall
@@ -13859,7 +13859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Scoria Bricks | ![small_scoria_bricks](../images/create_small_scoria_bricks.png) |
+| X | Small Scoria Bricks | ![small_scoria_bricks](../images/create_scoria_cut_small_brick.png) |
 
 ---
 ## Small Scoria Brick Slab
@@ -13875,8 +13875,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Scoria Brick Slab | ![small_scoria_brick_slab](../images/create_small_scoria_brick_slab.png) |
-| - | Small Scoria Brick Slab | ![small_scoria_brick_slab](../images/create_small_scoria_brick_slab.png) |
+| - | Small Scoria Brick Slab | ![small_scoria_brick_slab](../images/create_scoria_cut_small_brick.png) |
+| - | Small Scoria Brick Slab | ![small_scoria_brick_slab](../images/create_scoria_cut_small_brick.png) |
 
 ---
 ## Small Scoria Brick Stairs
@@ -13884,7 +13884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Scoria Bricks | ![small_scoria_bricks](../images/create_small_scoria_bricks.png) |
+| X | Small Scoria Bricks | ![small_scoria_bricks](../images/create_scoria_cut_small_brick.png) |
 
 ---
 ## Small Scoria Brick Stairs
@@ -13900,7 +13900,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Scoria Bricks | ![small_scoria_bricks](../images/create_small_scoria_bricks.png) |
+| X | Small Scoria Bricks | ![small_scoria_bricks](../images/create_scoria_cut_small_brick.png) |
 
 ---
 ## Small Scoria Brick Wall
@@ -13924,7 +13924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Tuff Bricks | ![small_tuff_bricks](../images/create_small_tuff_bricks.png) |
+| X | Small Tuff Bricks | ![small_tuff_bricks](../images/create_tuff_cut_small_brick.png) |
 
 ---
 ## Small Tuff Brick Slab
@@ -13940,8 +13940,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Tuff Brick Slab | ![small_tuff_brick_slab](../images/create_small_tuff_brick_slab.png) |
-| - | Small Tuff Brick Slab | ![small_tuff_brick_slab](../images/create_small_tuff_brick_slab.png) |
+| - | Small Tuff Brick Slab | ![small_tuff_brick_slab](../images/create_tuff_cut_small_brick.png) |
+| - | Small Tuff Brick Slab | ![small_tuff_brick_slab](../images/create_tuff_cut_small_brick.png) |
 
 ---
 ## Small Tuff Brick Stairs
@@ -13949,7 +13949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Tuff Bricks | ![small_tuff_bricks](../images/create_small_tuff_bricks.png) |
+| X | Small Tuff Bricks | ![small_tuff_bricks](../images/create_tuff_cut_small_brick.png) |
 
 ---
 ## Small Tuff Brick Stairs
@@ -13965,7 +13965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Tuff Bricks | ![small_tuff_bricks](../images/create_small_tuff_bricks.png) |
+| X | Small Tuff Bricks | ![small_tuff_bricks](../images/create_tuff_cut_small_brick.png) |
 
 ---
 ## Small Tuff Brick Wall
@@ -13989,7 +13989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Veridium Bricks | ![small_veridium_bricks](../images/create_small_veridium_bricks.png) |
+| X | Small Veridium Bricks | ![small_veridium_bricks](../images/create_veridium_cut_small_brick.png) |
 
 ---
 ## Small Veridium Brick Slab
@@ -14005,8 +14005,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Veridium Brick Slab | ![small_veridium_brick_slab](../images/create_small_veridium_brick_slab.png) |
-| - | Small Veridium Brick Slab | ![small_veridium_brick_slab](../images/create_small_veridium_brick_slab.png) |
+| - | Small Veridium Brick Slab | ![small_veridium_brick_slab](../images/create_veridium_cut_small_brick.png) |
+| - | Small Veridium Brick Slab | ![small_veridium_brick_slab](../images/create_veridium_cut_small_brick.png) |
 
 ---
 ## Small Veridium Brick Stairs
@@ -14014,7 +14014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Veridium Bricks | ![small_veridium_bricks](../images/create_small_veridium_bricks.png) |
+| X | Small Veridium Bricks | ![small_veridium_bricks](../images/create_veridium_cut_small_brick.png) |
 
 ---
 ## Small Veridium Brick Stairs
@@ -14030,7 +14030,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Small Veridium Bricks | ![small_veridium_bricks](../images/create_small_veridium_bricks.png) |
+| X | Small Veridium Bricks | ![small_veridium_bricks](../images/create_veridium_cut_small_brick.png) |
 
 ---
 ## Small Veridium Brick Wall
@@ -14058,7 +14058,7 @@
 | :--- | :--- | :--- |
 | I | Plates/Brass | ![plates/brass](../images/create_plates/brass.png) |
 | P | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
-| S | Fluid Pipe | ![fluid_pipe](../images/create_fluid_pipe.png) |
+| S | Fluid Pipe | ![fluid_pipe](../images/create_glass_fluid_pipe.png) |
 
 ---
 ## {}
@@ -14066,7 +14066,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Snowdrops | ![snowdrops](../images/create_snowdrops.png) |
+| - | Snowdrops | ![snowdrops](../images/create_0.png) |
 
 ---
 ## {}
@@ -14074,7 +14074,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sodalite Ore | ![sodalite_ore](../images/create_sodalite_ore.png) |
+| - | Sodalite Ore | ![sodalite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -14082,7 +14082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sorting Log | ![sorting_log](../images/create_sorting_log.png) |
+| - | Sorting Log | ![sorting_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14090,7 +14090,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sorting Wood | ![sorting_wood](../images/create_sorting_wood.png) |
+| - | Sorting Wood | ![sorting_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14098,7 +14098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Campfire | ![campfire](../images/create_campfire.png) |
+| - | Campfire | ![campfire](../images/create_0.png) |
 
 ---
 ## {}
@@ -14106,7 +14106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lantern | ![lantern](../images/create_lantern.png) |
+| - | Lantern | ![lantern](../images/create_0.png) |
 
 ---
 ## {}
@@ -14114,7 +14114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Sand | ![soul_sand](../images/create_soul_sand.png) |
+| - | Soul Sand | ![soul_sand](../images/create_blaze_heater_brazier_soul.png) |
 
 ---
 ## {}
@@ -14122,7 +14122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/create_dirt.png) |
+| - | Dirt | ![dirt](../images/create_0.png) |
 
 ---
 ## {}
@@ -14130,7 +14130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Torch | ![torch](../images/create_torch.png) |
+| - | Torch | ![torch](../images/create_0.png) |
 
 ---
 ## Speedometer
@@ -14139,7 +14139,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| C | Compass | ![compass](../images/create_compass.png) |
+| C | Compass | ![compass](../images/create_0.png) |
 
 ---
 ## Speedometer
@@ -14147,7 +14147,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stressometer | ![stressometer](../images/create_stressometer.png) |
+| - | Stressometer | ![stressometer](../images/create_0.png) |
 
 ---
 ## {}
@@ -14155,7 +14155,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spinel Ore | ![spinel_ore](../images/create_spinel_ore.png) |
+| - | Spinel Ore | ![spinel_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Spout
@@ -14163,7 +14163,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| P | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 | T | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
 
 ---
@@ -14172,7 +14172,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Log | ![spruce_log](../images/create_spruce_log.png) |
+| - | Spruce Log | ![spruce_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## Spruce Window
@@ -14180,7 +14180,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/create_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/create_spruce_window.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -14197,7 +14197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Wood | ![spruce_wood](../images/create_spruce_wood.png) |
+| - | Spruce Wood | ![spruce_wood](../images/create_spruce_window.png) |
 
 ---
 ## {}
@@ -14205,7 +14205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stained Glass | ![stained_glass](../images/create_stained_glass.png) |
+| - | Stained Glass | ![stained_glass](../images/create_framed_glass.png) |
 
 ---
 ## {}
@@ -14213,7 +14213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stained Glass Panes | ![stained_glass_panes](../images/create_stained_glass_panes.png) |
+| - | Stained Glass Panes | ![stained_glass_panes](../images/create_framed_glass.png) |
 
 ---
 ## {}
@@ -14221,7 +14221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Starlit Log | ![starlit_log](../images/create_starlit_log.png) |
+| - | Starlit Log | ![starlit_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14229,7 +14229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Starlit Wood | ![starlit_wood](../images/create_starlit_wood.png) |
+| - | Starlit Wood | ![starlit_wood](../images/create_0.png) |
 
 ---
 ## Steam Engine
@@ -14238,7 +14238,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| C | Copper Block | ![copper_block](../images/create_copper_block.png) |
+| C | Copper Block | ![copper_block](../images/create_andesite_block.png) |
 | P | Plates/Gold | ![plates/gold](../images/create_plates/gold.png) |
 
 ---
@@ -14256,7 +14256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Ingots | ![steel_ingots](../images/create_steel_ingots.png) |
+| - | Steel Ingots | ![steel_ingots](../images/create_new_age_heater_steel.png) |
 
 ---
 ## Sticker
@@ -14264,10 +14264,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/create_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/create_0.png) |
 | I | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/create_dusts/redstone.png) |
-| S | Slimeballs | ![slimeballs](../images/create_slimeballs.png) |
+| S | Slimeballs | ![slimeballs](../images/create_0.png) |
 
 ---
 ## Sticky Mechanical Piston
@@ -14275,8 +14275,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mechanical Piston | ![mechanical_piston](../images/create_mechanical_piston.png) |
-| S | Slimeballs | ![slimeballs](../images/create_slimeballs.png) |
+| P | Mechanical Piston | ![mechanical_piston](../images/create_andesite_casing_piston.png) |
+| S | Slimeballs | ![slimeballs](../images/create_0.png) |
 
 ---
 ## Stockpile Switch
@@ -14285,7 +14285,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
-| I | Comparator | ![comparator](../images/create_comparator.png) |
+| I | Comparator | ![comparator](../images/create_0.png) |
 | R | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
 
 ---
@@ -14294,7 +14294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Speedometer | ![speedometer](../images/create_speedometer.png) |
+| - | Speedometer | ![speedometer](../images/create_0.png) |
 
 ---
 ## {}
@@ -14302,7 +14302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Acacia Log | ![stripped_acacia_log](../images/create_stripped_acacia_log.png) |
+| - | Stripped Acacia Log | ![stripped_acacia_log](../images/create_acacia_window.png) |
 
 ---
 ## {}
@@ -14310,7 +14310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Acacia Wood | ![stripped_acacia_wood](../images/create_stripped_acacia_wood.png) |
+| - | Stripped Acacia Wood | ![stripped_acacia_wood](../images/create_acacia_window.png) |
 
 ---
 ## {}
@@ -14318,7 +14318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Aspen Log | ![stripped_aspen_log](../images/create_stripped_aspen_log.png) |
+| - | Stripped Aspen Log | ![stripped_aspen_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14326,7 +14326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Aspen Wood | ![stripped_aspen_wood](../images/create_stripped_aspen_wood.png) |
+| - | Stripped Aspen Wood | ![stripped_aspen_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14334,7 +14334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Azalea Log | ![stripped_azalea_log](../images/create_stripped_azalea_log.png) |
+| - | Stripped Azalea Log | ![stripped_azalea_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14342,7 +14342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Azalea Wood | ![stripped_azalea_wood](../images/create_stripped_azalea_wood.png) |
+| - | Stripped Azalea Wood | ![stripped_azalea_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14350,7 +14350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Baobab Log | ![stripped_baobab_log](../images/create_stripped_baobab_log.png) |
+| - | Stripped Baobab Log | ![stripped_baobab_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14358,7 +14358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Baobab Wood | ![stripped_baobab_wood](../images/create_stripped_baobab_wood.png) |
+| - | Stripped Baobab Wood | ![stripped_baobab_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14366,7 +14366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Birch Log | ![stripped_birch_log](../images/create_stripped_birch_log.png) |
+| - | Stripped Birch Log | ![stripped_birch_log](../images/create_birch_window.png) |
 
 ---
 ## {}
@@ -14374,7 +14374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Birch Wood | ![stripped_birch_wood](../images/create_stripped_birch_wood.png) |
+| - | Stripped Birch Wood | ![stripped_birch_wood](../images/create_birch_window.png) |
 
 ---
 ## {}
@@ -14382,7 +14382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Bloodshroom Log | ![stripped_bloodshroom_log](../images/create_stripped_bloodshroom_log.png) |
+| - | Stripped Bloodshroom Log | ![stripped_bloodshroom_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14390,7 +14390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Bloodshroom Wood | ![stripped_bloodshroom_wood](../images/create_stripped_bloodshroom_wood.png) |
+| - | Stripped Bloodshroom Wood | ![stripped_bloodshroom_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14398,7 +14398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Blossom Log | ![stripped_blossom_log](../images/create_stripped_blossom_log.png) |
+| - | Stripped Blossom Log | ![stripped_blossom_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14406,7 +14406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Blossom Wood | ![stripped_blossom_wood](../images/create_stripped_blossom_wood.png) |
+| - | Stripped Blossom Wood | ![stripped_blossom_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14414,7 +14414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Bluebright Log | ![stripped_bluebright_log](../images/create_stripped_bluebright_log.png) |
+| - | Stripped Bluebright Log | ![stripped_bluebright_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14422,7 +14422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Bluebright Wood | ![stripped_bluebright_wood](../images/create_stripped_bluebright_wood.png) |
+| - | Stripped Bluebright Wood | ![stripped_bluebright_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14430,7 +14430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Blue Archwood Log | ![stripped_blue_archwood_log](../images/create_stripped_blue_archwood_log.png) |
+| - | Stripped Blue Archwood Log | ![stripped_blue_archwood_log](../images/create_blue.png) |
 
 ---
 ## {}
@@ -14438,7 +14438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Blue Archwood Wood | ![stripped_blue_archwood_wood](../images/create_stripped_blue_archwood_wood.png) |
+| - | Stripped Blue Archwood Wood | ![stripped_blue_archwood_wood](../images/create_blue.png) |
 
 ---
 ## {}
@@ -14446,7 +14446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Blue Enchanted Log | ![stripped_blue_enchanted_log](../images/create_stripped_blue_enchanted_log.png) |
+| - | Stripped Blue Enchanted Log | ![stripped_blue_enchanted_log](../images/create_blue.png) |
 
 ---
 ## {}
@@ -14454,7 +14454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Blue Enchanted Wood | ![stripped_blue_enchanted_wood](../images/create_stripped_blue_enchanted_wood.png) |
+| - | Stripped Blue Enchanted Wood | ![stripped_blue_enchanted_wood](../images/create_blue.png) |
 
 ---
 ## {}
@@ -14462,7 +14462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Bulbis Stem | ![stripped_bulbis_stem](../images/create_stripped_bulbis_stem.png) |
+| - | Stripped Bulbis Stem | ![stripped_bulbis_stem](../images/create_0.png) |
 
 ---
 ## {}
@@ -14470,7 +14470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Bulbis Wood | ![stripped_bulbis_wood](../images/create_stripped_bulbis_wood.png) |
+| - | Stripped Bulbis Wood | ![stripped_bulbis_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14478,7 +14478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Canopy Log | ![stripped_canopy_log](../images/create_stripped_canopy_log.png) |
+| - | Stripped Canopy Log | ![stripped_canopy_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14486,7 +14486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Canopy Wood | ![stripped_canopy_wood](../images/create_stripped_canopy_wood.png) |
+| - | Stripped Canopy Wood | ![stripped_canopy_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14494,7 +14494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cherrywood | ![stripped_cherrywood](../images/create_stripped_cherrywood.png) |
+| - | Stripped Cherrywood | ![stripped_cherrywood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14502,7 +14502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cherrywood Log | ![stripped_cherrywood_log](../images/create_stripped_cherrywood_log.png) |
+| - | Stripped Cherrywood Log | ![stripped_cherrywood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14510,7 +14510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cherry Log | ![stripped_cherry_log](../images/create_stripped_cherry_log.png) |
+| - | Stripped Cherry Log | ![stripped_cherry_log](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -14518,7 +14518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cherry Wood | ![stripped_cherry_wood](../images/create_stripped_cherry_wood.png) |
+| - | Stripped Cherry Wood | ![stripped_cherry_wood](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -14526,7 +14526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cika Log | ![stripped_cika_log](../images/create_stripped_cika_log.png) |
+| - | Stripped Cika Log | ![stripped_cika_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14534,7 +14534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cika Wood | ![stripped_cika_wood](../images/create_stripped_cika_wood.png) |
+| - | Stripped Cika Wood | ![stripped_cika_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14542,7 +14542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Coconut Log | ![stripped_coconut_log](../images/create_stripped_coconut_log.png) |
+| - | Stripped Coconut Log | ![stripped_coconut_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14550,7 +14550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Coconut Wood | ![stripped_coconut_wood](../images/create_stripped_coconut_wood.png) |
+| - | Stripped Coconut Wood | ![stripped_coconut_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14558,7 +14558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cottonwood Log | ![stripped_cottonwood_log](../images/create_stripped_cottonwood_log.png) |
+| - | Stripped Cottonwood Log | ![stripped_cottonwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14566,7 +14566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Crimson Hyphae | ![stripped_crimson_hyphae](../images/create_stripped_crimson_hyphae.png) |
+| - | Stripped Crimson Hyphae | ![stripped_crimson_hyphae](../images/create_crimson_window.png) |
 
 ---
 ## {}
@@ -14574,7 +14574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Crimson Stem | ![stripped_crimson_stem](../images/create_stripped_crimson_stem.png) |
+| - | Stripped Crimson Stem | ![stripped_crimson_stem](../images/create_crimson_window.png) |
 
 ---
 ## {}
@@ -14582,7 +14582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cypress Log | ![stripped_cypress_log](../images/create_stripped_cypress_log.png) |
+| - | Stripped Cypress Log | ![stripped_cypress_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14590,7 +14590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Cypress Wood | ![stripped_cypress_wood](../images/create_stripped_cypress_wood.png) |
+| - | Stripped Cypress Wood | ![stripped_cypress_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14598,7 +14598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Darkwood Log | ![stripped_darkwood_log](../images/create_stripped_darkwood_log.png) |
+| - | Stripped Darkwood Log | ![stripped_darkwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14606,7 +14606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dark Log | ![stripped_dark_log](../images/create_stripped_dark_log.png) |
+| - | Stripped Dark Log | ![stripped_dark_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14614,7 +14614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/create_stripped_dark_oak_log.png) |
+| - | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -14622,7 +14622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dark Oak Wood | ![stripped_dark_oak_wood](../images/create_stripped_dark_oak_wood.png) |
+| - | Stripped Dark Oak Wood | ![stripped_dark_oak_wood](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -14630,7 +14630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dark Wood | ![stripped_dark_wood](../images/create_stripped_dark_wood.png) |
+| - | Stripped Dark Wood | ![stripped_dark_wood](../images/create_dark_metal_block.png) |
 
 ---
 ## {}
@@ -14638,7 +14638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dead Log | ![stripped_dead_log](../images/create_stripped_dead_log.png) |
+| - | Stripped Dead Log | ![stripped_dead_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14646,7 +14646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dead Wood | ![stripped_dead_wood](../images/create_stripped_dead_wood.png) |
+| - | Stripped Dead Wood | ![stripped_dead_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14654,7 +14654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dreamwood | ![stripped_dreamwood](../images/create_stripped_dreamwood.png) |
+| - | Stripped Dreamwood | ![stripped_dreamwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14662,7 +14662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dreamwood Log | ![stripped_dreamwood_log](../images/create_stripped_dreamwood_log.png) |
+| - | Stripped Dreamwood Log | ![stripped_dreamwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14670,7 +14670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Driftwood Log | ![stripped_driftwood_log](../images/create_stripped_driftwood_log.png) |
+| - | Stripped Driftwood Log | ![stripped_driftwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14678,7 +14678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dusk Log | ![stripped_dusk_log](../images/create_stripped_dusk_log.png) |
+| - | Stripped Dusk Log | ![stripped_dusk_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14686,7 +14686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dusk Wood | ![stripped_dusk_wood](../images/create_stripped_dusk_wood.png) |
+| - | Stripped Dusk Wood | ![stripped_dusk_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14694,7 +14694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Ebony Log | ![stripped_ebony_log](../images/create_stripped_ebony_log.png) |
+| - | Stripped Ebony Log | ![stripped_ebony_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14702,7 +14702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Ebony Wood | ![stripped_ebony_wood](../images/create_stripped_ebony_wood.png) |
+| - | Stripped Ebony Wood | ![stripped_ebony_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14710,7 +14710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Edified Log | ![stripped_edified_log](../images/create_stripped_edified_log.png) |
+| - | Stripped Edified Log | ![stripped_edified_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14718,7 +14718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Edified Wood | ![stripped_edified_wood](../images/create_stripped_edified_wood.png) |
+| - | Stripped Edified Wood | ![stripped_edified_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14726,7 +14726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Elder Log | ![stripped_elder_log](../images/create_stripped_elder_log.png) |
+| - | Stripped Elder Log | ![stripped_elder_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14734,7 +14734,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Ether Log | ![stripped_ether_log](../images/create_stripped_ether_log.png) |
+| - | Stripped Ether Log | ![stripped_ether_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14742,7 +14742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Ether Wood | ![stripped_ether_wood](../images/create_stripped_ether_wood.png) |
+| - | Stripped Ether Wood | ![stripped_ether_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14750,7 +14750,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Fir Log | ![stripped_fir_log](../images/create_stripped_fir_log.png) |
+| - | Stripped Fir Log | ![stripped_fir_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14758,7 +14758,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Fir Wood | ![stripped_fir_wood](../images/create_stripped_fir_wood.png) |
+| - | Stripped Fir Wood | ![stripped_fir_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14766,7 +14766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Frostbright Log | ![stripped_frostbright_log](../images/create_stripped_frostbright_log.png) |
+| - | Stripped Frostbright Log | ![stripped_frostbright_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14774,7 +14774,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Frostbright Wood | ![stripped_frostbright_wood](../images/create_stripped_frostbright_wood.png) |
+| - | Stripped Frostbright Wood | ![stripped_frostbright_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14782,7 +14782,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Glacian Log | ![stripped_glacian_log](../images/create_stripped_glacian_log.png) |
+| - | Stripped Glacian Log | ![stripped_glacian_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14790,7 +14790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Greenheart Log | ![stripped_greenheart_log](../images/create_stripped_greenheart_log.png) |
+| - | Stripped Greenheart Log | ![stripped_greenheart_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14798,7 +14798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Greenheart Wood | ![stripped_greenheart_wood](../images/create_stripped_greenheart_wood.png) |
+| - | Stripped Greenheart Wood | ![stripped_greenheart_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14806,7 +14806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Green Archwood Log | ![stripped_green_archwood_log](../images/create_stripped_green_archwood_log.png) |
+| - | Stripped Green Archwood Log | ![stripped_green_archwood_log](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -14814,7 +14814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Green Archwood Wood | ![stripped_green_archwood_wood](../images/create_stripped_green_archwood_wood.png) |
+| - | Stripped Green Archwood Wood | ![stripped_green_archwood_wood](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -14822,7 +14822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Green Enchanted Log | ![stripped_green_enchanted_log](../images/create_stripped_green_enchanted_log.png) |
+| - | Stripped Green Enchanted Log | ![stripped_green_enchanted_log](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -14830,7 +14830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Green Enchanted Wood | ![stripped_green_enchanted_wood](../images/create_stripped_green_enchanted_wood.png) |
+| - | Stripped Green Enchanted Wood | ![stripped_green_enchanted_wood](../images/create_canvas_green.png) |
 
 ---
 ## {}
@@ -14838,7 +14838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Grimwood Log | ![stripped_grimwood_log](../images/create_stripped_grimwood_log.png) |
+| - | Stripped Grimwood Log | ![stripped_grimwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14846,7 +14846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Hellbark Log | ![stripped_hellbark_log](../images/create_stripped_hellbark_log.png) |
+| - | Stripped Hellbark Log | ![stripped_hellbark_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14854,7 +14854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Hellbark Wood | ![stripped_hellbark_wood](../images/create_stripped_hellbark_wood.png) |
+| - | Stripped Hellbark Wood | ![stripped_hellbark_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14862,7 +14862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Holly Log | ![stripped_holly_log](../images/create_stripped_holly_log.png) |
+| - | Stripped Holly Log | ![stripped_holly_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14870,7 +14870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Holly Wood | ![stripped_holly_wood](../images/create_stripped_holly_wood.png) |
+| - | Stripped Holly Wood | ![stripped_holly_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14878,7 +14878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Jacaranda Log | ![stripped_jacaranda_log](../images/create_stripped_jacaranda_log.png) |
+| - | Stripped Jacaranda Log | ![stripped_jacaranda_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14886,7 +14886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Jacaranda Wood | ![stripped_jacaranda_wood](../images/create_stripped_jacaranda_wood.png) |
+| - | Stripped Jacaranda Wood | ![stripped_jacaranda_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14894,7 +14894,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Jungle Log | ![stripped_jungle_log](../images/create_stripped_jungle_log.png) |
+| - | Stripped Jungle Log | ![stripped_jungle_log](../images/create_jungle_window.png) |
 
 ---
 ## {}
@@ -14902,7 +14902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Jungle Wood | ![stripped_jungle_wood](../images/create_stripped_jungle_wood.png) |
+| - | Stripped Jungle Wood | ![stripped_jungle_wood](../images/create_jungle_window.png) |
 
 ---
 ## {}
@@ -14910,7 +14910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Juniper Log | ![stripped_juniper_log](../images/create_stripped_juniper_log.png) |
+| - | Stripped Juniper Log | ![stripped_juniper_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14918,7 +14918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Kousa Log | ![stripped_kousa_log](../images/create_stripped_kousa_log.png) |
+| - | Stripped Kousa Log | ![stripped_kousa_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14926,7 +14926,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Lament Log | ![stripped_lament_log](../images/create_stripped_lament_log.png) |
+| - | Stripped Lament Log | ![stripped_lament_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14934,7 +14934,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Lament Wood | ![stripped_lament_wood](../images/create_stripped_lament_wood.png) |
+| - | Stripped Lament Wood | ![stripped_lament_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14942,7 +14942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Livingwood | ![stripped_livingwood](../images/create_stripped_livingwood.png) |
+| - | Stripped Livingwood | ![stripped_livingwood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14950,7 +14950,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Livingwood Log | ![stripped_livingwood_log](../images/create_stripped_livingwood_log.png) |
+| - | Stripped Livingwood Log | ![stripped_livingwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14958,7 +14958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Lunar Log | ![stripped_lunar_log](../images/create_stripped_lunar_log.png) |
+| - | Stripped Lunar Log | ![stripped_lunar_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14966,7 +14966,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Lunar Wood | ![stripped_lunar_wood](../images/create_stripped_lunar_wood.png) |
+| - | Stripped Lunar Wood | ![stripped_lunar_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14974,7 +14974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Magic Log | ![stripped_magic_log](../images/create_stripped_magic_log.png) |
+| - | Stripped Magic Log | ![stripped_magic_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14982,7 +14982,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Magic Wood | ![stripped_magic_wood](../images/create_stripped_magic_wood.png) |
+| - | Stripped Magic Wood | ![stripped_magic_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -14990,7 +14990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mahogany Log | ![stripped_mahogany_log](../images/create_stripped_mahogany_log.png) |
+| - | Stripped Mahogany Log | ![stripped_mahogany_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -14998,7 +14998,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mahogany Wood | ![stripped_mahogany_wood](../images/create_stripped_mahogany_wood.png) |
+| - | Stripped Mahogany Wood | ![stripped_mahogany_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15006,7 +15006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mangrove Log | ![stripped_mangrove_log](../images/create_stripped_mangrove_log.png) |
+| - | Stripped Mangrove Log | ![stripped_mangrove_log](../images/create_mangrove_window.png) |
 
 ---
 ## {}
@@ -15014,7 +15014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mangrove Wood | ![stripped_mangrove_wood](../images/create_stripped_mangrove_wood.png) |
+| - | Stripped Mangrove Wood | ![stripped_mangrove_wood](../images/create_mangrove_window.png) |
 
 ---
 ## {}
@@ -15022,7 +15022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Maple Log | ![stripped_maple_log](../images/create_stripped_maple_log.png) |
+| - | Stripped Maple Log | ![stripped_maple_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15030,7 +15030,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Maple Wood | ![stripped_maple_wood](../images/create_stripped_maple_wood.png) |
+| - | Stripped Maple Wood | ![stripped_maple_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15038,7 +15038,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mining Log | ![stripped_mining_log](../images/create_stripped_mining_log.png) |
+| - | Stripped Mining Log | ![stripped_mining_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15046,7 +15046,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mining Wood | ![stripped_mining_wood](../images/create_stripped_mining_wood.png) |
+| - | Stripped Mining Wood | ![stripped_mining_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15054,7 +15054,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mysterywood | ![stripped_mysterywood](../images/create_stripped_mysterywood.png) |
+| - | Stripped Mysterywood | ![stripped_mysterywood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15062,7 +15062,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Mysterywood Log | ![stripped_mysterywood_log](../images/create_stripped_mysterywood_log.png) |
+| - | Stripped Mysterywood Log | ![stripped_mysterywood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15070,7 +15070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Netherwood Log | ![stripped_netherwood_log](../images/create_stripped_netherwood_log.png) |
+| - | Stripped Netherwood Log | ![stripped_netherwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15078,7 +15078,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Netherwood Wood | ![stripped_netherwood_wood](../images/create_stripped_netherwood_wood.png) |
+| - | Stripped Netherwood Wood | ![stripped_netherwood_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15086,7 +15086,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Nightshade Log | ![stripped_nightshade_log](../images/create_stripped_nightshade_log.png) |
+| - | Stripped Nightshade Log | ![stripped_nightshade_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15094,7 +15094,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Nightshade Wood | ![stripped_nightshade_wood](../images/create_stripped_nightshade_wood.png) |
+| - | Stripped Nightshade Wood | ![stripped_nightshade_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15102,7 +15102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Oak Log | ![stripped_oak_log](../images/create_stripped_oak_log.png) |
+| - | Stripped Oak Log | ![stripped_oak_log](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -15110,7 +15110,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Oak Wood | ![stripped_oak_wood](../images/create_stripped_oak_wood.png) |
+| - | Stripped Oak Wood | ![stripped_oak_wood](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -15118,7 +15118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Palm Log | ![stripped_palm_log](../images/create_stripped_palm_log.png) |
+| - | Stripped Palm Log | ![stripped_palm_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15126,7 +15126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Palm Wood | ![stripped_palm_wood](../images/create_stripped_palm_wood.png) |
+| - | Stripped Palm Wood | ![stripped_palm_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15134,7 +15134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Pine Log | ![stripped_pine_log](../images/create_stripped_pine_log.png) |
+| - | Stripped Pine Log | ![stripped_pine_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15142,7 +15142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Pine Wood | ![stripped_pine_wood](../images/create_stripped_pine_wood.png) |
+| - | Stripped Pine Wood | ![stripped_pine_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15150,7 +15150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Poise Stem | ![stripped_poise_stem](../images/create_stripped_poise_stem.png) |
+| - | Stripped Poise Stem | ![stripped_poise_stem](../images/create_0.png) |
 
 ---
 ## {}
@@ -15158,7 +15158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Purple Archwood Log | ![stripped_purple_archwood_log](../images/create_stripped_purple_archwood_log.png) |
+| - | Stripped Purple Archwood Log | ![stripped_purple_archwood_log](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -15166,7 +15166,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Purple Archwood Wood | ![stripped_purple_archwood_wood](../images/create_stripped_purple_archwood_wood.png) |
+| - | Stripped Purple Archwood Wood | ![stripped_purple_archwood_wood](../images/create_canvas_purple.png) |
 
 ---
 ## {}
@@ -15174,7 +15174,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Rainbow Eucalyptus Log | ![stripped_rainbow_eucalyptus_log](../images/create_stripped_rainbow_eucalyptus_log.png) |
+| - | Stripped Rainbow Eucalyptus Log | ![stripped_rainbow_eucalyptus_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15182,7 +15182,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Rainbow Eucalyptus Wood | ![stripped_rainbow_eucalyptus_wood](../images/create_stripped_rainbow_eucalyptus_wood.png) |
+| - | Stripped Rainbow Eucalyptus Wood | ![stripped_rainbow_eucalyptus_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15190,7 +15190,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Redwood Log | ![stripped_redwood_log](../images/create_stripped_redwood_log.png) |
+| - | Stripped Redwood Log | ![stripped_redwood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15198,7 +15198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Redwood Wood | ![stripped_redwood_wood](../images/create_stripped_redwood_wood.png) |
+| - | Stripped Redwood Wood | ![stripped_redwood_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15206,7 +15206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Red Archwood Log | ![stripped_red_archwood_log](../images/create_stripped_red_archwood_log.png) |
+| - | Stripped Red Archwood Log | ![stripped_red_archwood_log](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -15214,7 +15214,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Red Archwood Wood | ![stripped_red_archwood_wood](../images/create_stripped_red_archwood_wood.png) |
+| - | Stripped Red Archwood Wood | ![stripped_red_archwood_wood](../images/create_canvas_red.png) |
 
 ---
 ## {}
@@ -15222,7 +15222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped River Log | ![stripped_river_log](../images/create_stripped_river_log.png) |
+| - | Stripped River Log | ![stripped_river_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15230,7 +15230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Rosewood Log | ![stripped_rosewood_log](../images/create_stripped_rosewood_log.png) |
+| - | Stripped Rosewood Log | ![stripped_rosewood_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15238,7 +15238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Skyris Log | ![stripped_skyris_log](../images/create_stripped_skyris_log.png) |
+| - | Stripped Skyris Log | ![stripped_skyris_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15246,7 +15246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Skyris Wood | ![stripped_skyris_wood](../images/create_stripped_skyris_wood.png) |
+| - | Stripped Skyris Wood | ![stripped_skyris_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15254,7 +15254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Skyroot Log | ![stripped_skyroot_log](../images/create_stripped_skyroot_log.png) |
+| - | Stripped Skyroot Log | ![stripped_skyroot_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15262,7 +15262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Skyroot Wood | ![stripped_skyroot_wood](../images/create_stripped_skyroot_wood.png) |
+| - | Stripped Skyroot Wood | ![stripped_skyroot_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15270,7 +15270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Sorting Log | ![stripped_sorting_log](../images/create_stripped_sorting_log.png) |
+| - | Stripped Sorting Log | ![stripped_sorting_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15278,7 +15278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Sorting Wood | ![stripped_sorting_wood](../images/create_stripped_sorting_wood.png) |
+| - | Stripped Sorting Wood | ![stripped_sorting_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15286,7 +15286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Spruce Log | ![stripped_spruce_log](../images/create_stripped_spruce_log.png) |
+| - | Stripped Spruce Log | ![stripped_spruce_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15294,7 +15294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Spruce Wood | ![stripped_spruce_wood](../images/create_stripped_spruce_wood.png) |
+| - | Stripped Spruce Wood | ![stripped_spruce_wood](../images/create_spruce_window.png) |
 
 ---
 ## {}
@@ -15302,7 +15302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Starlit Log | ![stripped_starlit_log](../images/create_stripped_starlit_log.png) |
+| - | Stripped Starlit Log | ![stripped_starlit_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15310,7 +15310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Starlit Wood | ![stripped_starlit_wood](../images/create_stripped_starlit_wood.png) |
+| - | Stripped Starlit Wood | ![stripped_starlit_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15318,7 +15318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Time Log | ![stripped_time_log](../images/create_stripped_time_log.png) |
+| - | Stripped Time Log | ![stripped_time_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15326,7 +15326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Time Wood | ![stripped_time_wood](../images/create_stripped_time_wood.png) |
+| - | Stripped Time Wood | ![stripped_time_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15334,7 +15334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Transformation Log | ![stripped_transformation_log](../images/create_stripped_transformation_log.png) |
+| - | Stripped Transformation Log | ![stripped_transformation_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15342,7 +15342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Transformation Wood | ![stripped_transformation_wood](../images/create_stripped_transformation_wood.png) |
+| - | Stripped Transformation Wood | ![stripped_transformation_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15350,7 +15350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Twilight Oak Log | ![stripped_twilight_oak_log](../images/create_stripped_twilight_oak_log.png) |
+| - | Stripped Twilight Oak Log | ![stripped_twilight_oak_log](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -15358,7 +15358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Twilight Oak Wood | ![stripped_twilight_oak_wood](../images/create_stripped_twilight_oak_wood.png) |
+| - | Stripped Twilight Oak Wood | ![stripped_twilight_oak_wood](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -15366,7 +15366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Twisted Log | ![stripped_twisted_log](../images/create_stripped_twisted_log.png) |
+| - | Stripped Twisted Log | ![stripped_twisted_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15374,7 +15374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Twisted Wood | ![stripped_twisted_wood](../images/create_stripped_twisted_wood.png) |
+| - | Stripped Twisted Wood | ![stripped_twisted_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15382,7 +15382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Umbran Log | ![stripped_umbran_log](../images/create_stripped_umbran_log.png) |
+| - | Stripped Umbran Log | ![stripped_umbran_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15390,7 +15390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Umbran Wood | ![stripped_umbran_wood](../images/create_stripped_umbran_wood.png) |
+| - | Stripped Umbran Wood | ![stripped_umbran_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15398,7 +15398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Walnut Log | ![stripped_walnut_log](../images/create_stripped_walnut_log.png) |
+| - | Stripped Walnut Log | ![stripped_walnut_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15406,7 +15406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Walnut Wood | ![stripped_walnut_wood](../images/create_stripped_walnut_wood.png) |
+| - | Stripped Walnut Wood | ![stripped_walnut_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15414,7 +15414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Warped Hyphae | ![stripped_warped_hyphae](../images/create_stripped_warped_hyphae.png) |
+| - | Stripped Warped Hyphae | ![stripped_warped_hyphae](../images/create_things_and_misc_warped_sail.png) |
 
 ---
 ## {}
@@ -15422,7 +15422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Warped Stem | ![stripped_warped_stem](../images/create_stripped_warped_stem.png) |
+| - | Stripped Warped Stem | ![stripped_warped_stem](../images/create_things_and_misc_warped_sail.png) |
 
 ---
 ## {}
@@ -15430,7 +15430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Willow Log | ![stripped_willow_log](../images/create_stripped_willow_log.png) |
+| - | Stripped Willow Log | ![stripped_willow_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15438,7 +15438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Willow Wood | ![stripped_willow_wood](../images/create_stripped_willow_wood.png) |
+| - | Stripped Willow Wood | ![stripped_willow_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15446,7 +15446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Witch Hazel Log | ![stripped_witch_hazel_log](../images/create_stripped_witch_hazel_log.png) |
+| - | Stripped Witch Hazel Log | ![stripped_witch_hazel_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15454,7 +15454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Witch Hazel Wood | ![stripped_witch_hazel_wood](../images/create_stripped_witch_hazel_wood.png) |
+| - | Stripped Witch Hazel Wood | ![stripped_witch_hazel_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15462,7 +15462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Yucca Log | ![stripped_yucca_log](../images/create_stripped_yucca_log.png) |
+| - | Stripped Yucca Log | ![stripped_yucca_log](../images/create_central_kitchen_yucca_cake_slice.png) |
 
 ---
 ## {}
@@ -15470,7 +15470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Zelkova Log | ![stripped_zelkova_log](../images/create_stripped_zelkova_log.png) |
+| - | Stripped Zelkova Log | ![stripped_zelkova_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -15478,7 +15478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Zelkova Wood | ![stripped_zelkova_wood](../images/create_stripped_zelkova_wood.png) |
+| - | Stripped Zelkova Wood | ![stripped_zelkova_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -15486,7 +15486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strophar Caps | ![strophar_caps](../images/create_strophar_caps.png) |
+| - | Strophar Caps | ![strophar_caps](../images/create_0.png) |
 
 ---
 ## {}
@@ -15502,7 +15502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar Cane | ![sugar_cane](../images/create_sugar_cane.png) |
+| - | Sugar Cane | ![sugar_cane](../images/create_0.png) |
 
 ---
 ## {}
@@ -15518,7 +15518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sunflower | ![sunflower](../images/create_sunflower.png) |
+| - | Sunflower | ![sunflower](../images/create_0.png) |
 
 ---
 ## {}
@@ -15526,7 +15526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sunstone Ore | ![sunstone_ore](../images/create_sunstone_ore.png) |
+| - | Sunstone Ore | ![sunstone_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## Super Glue
@@ -15534,7 +15534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Slimeballs | ![slimeballs](../images/create_slimeballs.png) |
+| A | Slimeballs | ![slimeballs](../images/create_0.png) |
 | N | Nuggets/Iron | ![nuggets/iron](../images/create_nuggets/iron.png) |
 | S | Plates/Iron | ![plates/iron](../images/create_plates/iron.png) |
 
@@ -15544,8 +15544,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/create_bread.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Bread | ![bread](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -15553,7 +15553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tall Allium | ![tall_allium](../images/create_tall_allium.png) |
+| - | Tall Allium | ![tall_allium](../images/create_0.png) |
 
 ---
 ## {}
@@ -15561,7 +15561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tall Grass | ![tall_grass](../images/create_tall_grass.png) |
+| - | Tall Grass | ![tall_grass](../images/create_0.png) |
 
 ---
 ## {}
@@ -15569,7 +15569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tall Pink Allium | ![tall_pink_allium](../images/create_tall_pink_allium.png) |
+| - | Tall Pink Allium | ![tall_pink_allium](../images/create_canvas_pink.png) |
 
 ---
 ## {}
@@ -15577,7 +15577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tanzanite Ore | ![tanzanite_ore](../images/create_tanzanite_ore.png) |
+| - | Tanzanite Ore | ![tanzanite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -15599,7 +15599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tektite Ore | ![tektite_ore](../images/create_tektite_ore.png) |
+| - | Tektite Ore | ![tektite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -15607,7 +15607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terracotta | ![terracotta](../images/create_terracotta.png) |
+| - | Terracotta | ![terracotta](../images/create_0.png) |
 
 ---
 ## Acacia Sail
@@ -15617,7 +15617,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Acacia Planks | ![acacia_planks](../images/create_acacia_planks.png) |
+| W | Acacia Planks | ![acacia_planks](../images/create_acacia_window.png) |
 
 ---
 ## Bamboo Sail
@@ -15626,7 +15626,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| S | Bamboo | ![bamboo](../images/create_bamboo.png) |
+| S | Bamboo | ![bamboo](../images/create_things_and_misc_bamboo_sail.png) |
 
 ---
 ## Birch Sail
@@ -15636,7 +15636,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Birch Planks | ![birch_planks](../images/create_birch_planks.png) |
+| W | Birch Planks | ![birch_planks](../images/create_birch_window.png) |
 
 ---
 ## Blaze Ballon
@@ -15644,8 +15644,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | White Sail | ![white_sail](../images/create_white_sail.png) |
-| 1 | Blaze Burner | ![blaze_burner](../images/create_blaze_burner.png) |
+| 0 | White Sail | ![white_sail](../images/create_canvas_white.png) |
+| 1 | Blaze Burner | ![blaze_burner](../images/create_blaze_burner_flame.png) |
 
 ---
 ## Brass Bricks
@@ -15661,9 +15661,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 1 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 2 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
+| 0 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 1 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 2 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## Brass Brick Slab
@@ -15671,7 +15671,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
+| item | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## Brass Brick Stairs
@@ -15679,12 +15679,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 3 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 4 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 6 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 7 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
-| 8 | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
+| 0 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 3 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 4 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 6 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 7 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
+| 8 | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## Brass Brick Stairs
@@ -15692,7 +15692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brass Bricks | ![brass_bricks](../images/create_brass_bricks.png) |
+| item | Brass Bricks | ![brass_bricks](../images/create_things_and_misc_brass_bricks.png) |
 
 ---
 ## Brass Knife
@@ -15701,7 +15701,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Brass Ingot | ![brass_ingot](../images/create_brass_ingot.png) |
-| 2 | Stick | ![stick](../images/create_stick.png) |
+| 2 | Stick | ![stick](../images/create_0.png) |
 
 ---
 ## Brass Speaker
@@ -15711,7 +15711,7 @@
 | :--- | :--- | :--- |
 | 1 | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
 | 3 | Filter | ![filter](../images/create_filter.png) |
-| 4 | Vibration Mechanism | ![vibration_mechanism](../images/create_vibration_mechanism.png) |
+| 4 | Vibration Mechanism | ![vibration_mechanism](../images/create_things_and_misc_vibration_mechanism.png) |
 | 5 | Filter | ![filter](../images/create_filter.png) |
 | 7 | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
 
@@ -15721,7 +15721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sticky Launcher | ![sticky_launcher](../images/create_sticky_launcher.png) |
+| - | Sticky Launcher | ![sticky_launcher](../images/create_linear_chassis_end_sticky.png) |
 | - | Brass Block | ![brass_block](../images/create_brass_block.png) |
 
 ---
@@ -15738,7 +15738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
+| item | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
 
 ---
 ## Brass Tiles Slab
@@ -15746,9 +15746,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 1 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 2 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
+| 0 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 1 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 2 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
 
 ---
 ## Brass Tiles Stair
@@ -15756,12 +15756,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 3 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 4 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 6 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 7 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
-| 8 | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
+| 0 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 3 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 4 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 6 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 7 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
+| 8 | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
 
 ---
 ## Brass Tiles Stair
@@ -15769,7 +15769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brass Tiles | ![brass_tiles](../images/create_brass_tiles.png) |
+| item | Brass Tiles | ![brass_tiles](../images/create_things_and_misc_brass_tiles.png) |
 
 ---
 ## Blaze Balloon Fire
@@ -15777,11 +15777,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Blaze Burner | ![blaze_burner](../images/create_blaze_burner.png) |
-| L | Metal Girder | ![metal_girder](../images/create_metal_girder.png) |
-| R | Iron Ingot | ![iron_ingot](../images/create_iron_ingot.png) |
-| S | White Sail | ![white_sail](../images/create_white_sail.png) |
-| K | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
+| A | Blaze Burner | ![blaze_burner](../images/create_blaze_burner_flame.png) |
+| L | Metal Girder | ![metal_girder](../images/create_bracket_metal.png) |
+| R | Iron Ingot | ![iron_ingot](../images/create_brass_ingot.png) |
+| S | White Sail | ![white_sail](../images/create_canvas_white.png) |
+| K | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
 
 ---
 ## Card Press
@@ -15789,11 +15789,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Stone | ![stone](../images/create_stone.png) |
+| 1 | Stone | ![stone](../images/create_0.png) |
 | 0 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
 | 2 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
 | 3 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
-| 4 | Mechanical Press | ![mechanical_press](../images/create_mechanical_press.png) |
+| 4 | Mechanical Press | ![mechanical_press](../images/create_mechanical_press_bottom.png) |
 | 5 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
 | 6 | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 | 7 | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
@@ -15806,7 +15806,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Copper Sheet | ![copper_sheet](../images/create_copper_sheet.png) |
-| - | Paper | ![paper](../images/create_paper.png) |
+| - | Paper | ![paper](../images/create_red_sand_paper.png) |
 
 ---
 ## Card Reader
@@ -15817,11 +15817,11 @@
 | 0 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
 | 1 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
 | 2 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
-| 3 | Stone | ![stone](../images/create_stone.png) |
-| 4 | Redstone | ![redstone](../images/create_redstone.png) |
-| 5 | Stone | ![stone](../images/create_stone.png) |
+| 3 | Stone | ![stone](../images/create_0.png) |
+| 4 | Redstone | ![redstone](../images/create_copper_redstone_plate.png) |
+| 5 | Stone | ![stone](../images/create_0.png) |
 | 6 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
-| 7 | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| 7 | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 | 8 | Brass Sheet | ![brass_sheet](../images/create_brass_sheet.png) |
 
 ---
@@ -15832,7 +15832,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Cherry Planks | ![cherry_planks](../images/create_cherry_planks.png) |
+| W | Cherry Planks | ![cherry_planks](../images/create_central_kitchen_cherry_pie_bottom.png) |
 
 ---
 ## {}
@@ -15840,8 +15840,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spout Gun | ![spout_gun](../images/create_spout_gun.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Spout Gun | ![spout_gun](../images/create_things_and_misc_spout_gun.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Chorus Sail
@@ -15851,7 +15851,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Chorus Nest Planks | ![chorus_nest_planks](../images/create_chorus_nest_planks.png) |
+| W | Chorus Nest Planks | ![chorus_nest_planks](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## Copper Knife
@@ -15860,7 +15860,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
-| 2 | Stick | ![stick](../images/create_stick.png) |
+| 2 | Stick | ![stick](../images/create_0.png) |
 
 ---
 ## Deleted Mod Element
@@ -15869,7 +15869,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
-| 1 | String | ![string](../images/create_string.png) |
+| 1 | String | ![string](../images/create_0.png) |
 | 2 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 | 3 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 | 5 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
@@ -15883,7 +15883,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Sticker | ![sticker](../images/create_sticker.png) |
-| - | Copper Block | ![copper_block](../images/create_copper_block.png) |
+| - | Copper Block | ![copper_block](../images/create_andesite_block.png) |
 
 ---
 ## Crimson Sail
@@ -15893,7 +15893,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Crimson Planks | ![crimson_planks](../images/create_crimson_planks.png) |
+| W | Crimson Planks | ![crimson_planks](../images/create_crimson_window.png) |
 
 ---
 ## {}
@@ -15901,7 +15901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Block | ![magma_block](../images/create_magma_block.png) |
+| - | Magma Block | ![magma_block](../images/create_things_and_misc_magma_cream_block.png) |
 
 ---
 ## Dark Oak Sail
@@ -15911,7 +15911,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/create_dark_oak_planks.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -15919,8 +15919,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bone Meal | ![bone_meal](../images/create_bone_meal.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Bone Meal | ![bone_meal](../images/create_0.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -15937,7 +15937,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Iron Sheet | ![iron_sheet](../images/create_iron_sheet.png) |
-| 2 | Iron Nugget | ![iron_nugget](../images/create_iron_nugget.png) |
+| 2 | Iron Nugget | ![iron_nugget](../images/create_brass_nugget.png) |
 
 ---
 ## {}
@@ -15945,8 +15945,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glue Packaging | ![glue_packaging](../images/create_glue_packaging.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Glue Packaging | ![glue_packaging](../images/create_super_glue.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Green Sing
@@ -16010,8 +16010,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spout Gun | ![spout_gun](../images/create_spout_gun.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Spout Gun | ![spout_gun](../images/create_things_and_misc_spout_gun.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Jaboticaba Sail
@@ -16021,7 +16021,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Jaboticaba Planks | ![jaboticaba_planks](../images/create_jaboticaba_planks.png) |
+| W | Jaboticaba Planks | ![jaboticaba_planks](../images/create_things_and_misc_jaboticaba_sail.png) |
 
 ---
 ## Jungle Sail
@@ -16031,7 +16031,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Jungle Planks | ![jungle_planks](../images/create_jungle_planks.png) |
+| W | Jungle Planks | ![jungle_planks](../images/create_jungle_window.png) |
 
 ---
 ## {}
@@ -16039,8 +16039,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spout Gun | ![spout_gun](../images/create_spout_gun.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Spout Gun | ![spout_gun](../images/create_things_and_misc_spout_gun.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## {}
@@ -16048,8 +16048,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crushed Magma | ![crushed_magma](../images/create_crushed_magma.png) |
-| - | Slime Ball | ![slime_ball](../images/create_slime_ball.png) |
+| - | Crushed Magma | ![crushed_magma](../images/create_things_and_misc_crushed_magma.png) |
+| - | Slime Ball | ![slime_ball](../images/create_things_and_misc_slime_bucket.png) |
 
 ---
 ## Magnifying Glass
@@ -16057,9 +16057,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 2 | Amethyst Shard | ![amethyst_shard](../images/create_amethyst_shard.png) |
+| 2 | Amethyst Shard | ![amethyst_shard](../images/create_0.png) |
 | 4 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
-| 6 | Stick | ![stick](../images/create_stick.png) |
+| 6 | Stick | ![stick](../images/create_0.png) |
 
 ---
 ## Mangrove Sail
@@ -16069,7 +16069,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_planks.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_window.png) |
 
 ---
 ## Mangrove Sail
@@ -16079,7 +16079,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_planks.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/create_mangrove_window.png) |
 
 ---
 ## {}
@@ -16087,7 +16087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Experience Sheet | ![experience_sheet](../images/create_experience_sheet.png) |
+| item | Experience Sheet | ![experience_sheet](../images/create_things_and_misc_experience_sheet.png) |
 
 ---
 ## Neon Tube
@@ -16095,9 +16095,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Glass | ![glass](../images/create_glass.png) |
+| 0 | Glass | ![glass](../images/create_framed_glass.png) |
 | 1 | Electron Tube | ![electron_tube](../images/create_electron_tube.png) |
-| 2 | Glass | ![glass](../images/create_glass.png) |
+| 2 | Glass | ![glass](../images/create_framed_glass.png) |
 
 ---
 ## Netherite Portable Whistle
@@ -16112,7 +16112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_wooden_trapdoors.png) |
+| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_bracket_plate_wooden.png) |
 | - | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
 
 ---
@@ -16121,7 +16121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_wooden_trapdoors.png) |
+| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_bracket_plate_wooden.png) |
 | - | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
 
 ---
@@ -16130,7 +16130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_wooden_trapdoors.png) |
+| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_bracket_plate_wooden.png) |
 | - | Brass Casing | ![brass_casing](../images/create_brass_casing.png) |
 
 ---
@@ -16141,7 +16141,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Oak Planks | ![oak_planks](../images/create_oak_planks.png) |
+| W | Oak Planks | ![oak_planks](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -16150,7 +16150,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Blaze Cake Base | ![blaze_cake_base](../images/create_blaze_cake_base.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Portable Whistle
@@ -16161,7 +16161,7 @@
 | 1 | Golden Sheet | ![golden_sheet](../images/create_golden_sheet.png) |
 | 2 | Golden Sheet | ![golden_sheet](../images/create_golden_sheet.png) |
 | 3 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
-| 4 | Gold Ingot | ![gold_ingot](../images/create_gold_ingot.png) |
+| 4 | Gold Ingot | ![gold_ingot](../images/create_brass_ingot.png) |
 
 ---
 ## Powdered Obsidian Block
@@ -16187,7 +16187,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Ramboutan Planks | ![ramboutan_planks](../images/create_ramboutan_planks.png) |
+| W | Ramboutan Planks | ![ramboutan_planks](../images/create_things_and_misc_ramboutan_sail.png) |
 
 ---
 ## Radar
@@ -16196,10 +16196,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| 1 | Display Board | ![display_board](../images/create_display_board.png) |
+| 1 | Display Board | ![display_board](../images/create_display_link.png) |
 | 2 | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | 3 | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| 4 | Vibration Mechanism | ![vibration_mechanism](../images/create_vibration_mechanism.png) |
+| 4 | Vibration Mechanism | ![vibration_mechanism](../images/create_things_and_misc_vibration_mechanism.png) |
 | 5 | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | 6 | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | 7 | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
@@ -16275,10 +16275,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
-| 1 | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
-| 2 | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
-| 4 | Smooth Stone | ![smooth_stone](../images/create_smooth_stone.png) |
+| 0 | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
+| 1 | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
+| 2 | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
+| 4 | Smooth Stone | ![smooth_stone](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -16286,7 +16286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/create_slime_ball.png) |
+| - | Slime Ball | ![slime_ball](../images/create_things_and_misc_slime_bucket.png) |
 
 ---
 ## Sticky Boots Boots
@@ -16296,8 +16296,8 @@
 | :--- | :--- | :--- |
 | 0 | Sticker | ![sticker](../images/create_sticker.png) |
 | 2 | Sticker | ![sticker](../images/create_sticker.png) |
-| 3 | Slime Block | ![slime_block](../images/create_slime_block.png) |
-| 5 | Slime Block | ![slime_block](../images/create_slime_block.png) |
+| 3 | Slime Block | ![slime_block](../images/create_andesite_block.png) |
+| 5 | Slime Block | ![slime_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -16305,7 +16305,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Bucket | ![slime_bucket](../images/create_slime_bucket.png) |
+| - | Slime Bucket | ![slime_bucket](../images/create_things_and_misc_slime_bucket.png) |
 
 ---
 ## {}
@@ -16313,8 +16313,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spout Gun | ![spout_gun](../images/create_spout_gun.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Spout Gun | ![spout_gun](../images/create_things_and_misc_spout_gun.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Spout Gun
@@ -16323,7 +16323,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Fluid Tank | ![fluid_tank](../images/create_fluid_tank.png) |
-| L | Fluid Pipe | ![fluid_pipe](../images/create_fluid_pipe.png) |
+| L | Fluid Pipe | ![fluid_pipe](../images/create_glass_fluid_pipe.png) |
 | R | Precision Mechanism | ![precision_mechanism](../images/create_precision_mechanism.png) |
 | S | Spout | ![spout](../images/create_spout.png) |
 | K | Copper Sheet | ![copper_sheet](../images/create_copper_sheet.png) |
@@ -16334,7 +16334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dried Kelp | ![dried_kelp](../images/create_dried_kelp.png) |
+| 0 | Dried Kelp | ![dried_kelp](../images/create_0.png) |
 | 1 | Copper Ingot | ![copper_ingot](../images/create_copper_ingot.png) |
 
 ---
@@ -16343,10 +16343,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Sprinkler Head | ![sprinkler_head](../images/create_sprinkler_head.png) |
-| 3 | Sprinkler Head | ![sprinkler_head](../images/create_sprinkler_head.png) |
+| 1 | Sprinkler Head | ![sprinkler_head](../images/create_things_and_misc_sprinkler_head.png) |
+| 3 | Sprinkler Head | ![sprinkler_head](../images/create_things_and_misc_sprinkler_head.png) |
 | 4 | Propeller | ![propeller](../images/create_propeller.png) |
-| 5 | Sprinkler Head | ![sprinkler_head](../images/create_sprinkler_head.png) |
+| 5 | Sprinkler Head | ![sprinkler_head](../images/create_things_and_misc_sprinkler_head.png) |
 | 6 | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
 | 7 | Fluid Tank | ![fluid_tank](../images/create_fluid_tank.png) |
 | 8 | Copper Casing | ![copper_casing](../images/create_copper_casing.png) |
@@ -16359,7 +16359,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Spruce Planks | ![spruce_planks](../images/create_spruce_planks.png) |
+| W | Spruce Planks | ![spruce_planks](../images/create_spruce_window.png) |
 
 ---
 ## Sturdy Sheet Block
@@ -16375,9 +16375,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 1 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 2 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
+| 0 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 1 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 2 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
 
 ---
 ## Sturdy Sheet Slab
@@ -16385,7 +16385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
+| item | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
 
 ---
 ## Sturdy Sheet Slab Stairs
@@ -16393,12 +16393,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 3 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 4 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 6 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 7 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 8 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
+| 0 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 3 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 4 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 6 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 7 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 8 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
 
 ---
 ## Sturdy Sheet Slab Stairs
@@ -16406,7 +16406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
+| item | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
 
 ---
 ## {}
@@ -16414,8 +16414,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/create_paper.png) |
-| - | Shears | ![shears](../images/create_shears.png) |
+| - | Paper | ![paper](../images/create_red_sand_paper.png) |
+| - | Shears | ![shears](../images/create_0.png) |
 
 ---
 ## Train Sing 2
@@ -16431,8 +16431,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
-| 1 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_sturdy_sheet_block.png) |
+| 0 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
+| 1 | Sturdy Sheet Block | ![sturdy_sheet_block](../images/create_things_and_misc_sturdy_sheet_block.png) |
 
 ---
 ## Train Sing
@@ -16473,9 +16473,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Andesite Casing | ![andesite_casing](../images/create_andesite_casing.png) |
-| 3 | Metal Girder | ![metal_girder](../images/create_metal_girder.png) |
+| 3 | Metal Girder | ![metal_girder](../images/create_bracket_metal.png) |
 | 4 | Track | ![track](../images/create_track.png) |
-| 5 | Metal Girder | ![metal_girder](../images/create_metal_girder.png) |
+| 5 | Metal Girder | ![metal_girder](../images/create_bracket_metal.png) |
 
 ---
 ## {}
@@ -16483,7 +16483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rose Quartz Sheet | ![rose_quartz_sheet](../images/create_rose_quartz_sheet.png) |
+| item | Rose Quartz Sheet | ![rose_quartz_sheet](../images/create_things_and_misc_rose_quartz_sheet.png) |
 
 ---
 ## Warped Sail
@@ -16493,7 +16493,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Warped Planks | ![warped_planks](../images/create_warped_planks.png) |
+| W | Warped Planks | ![warped_planks](../images/create_things_and_misc_warped_sail.png) |
 
 ---
 ## {}
@@ -16501,8 +16501,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spout Gun | ![spout_gun](../images/create_spout_gun.png) |
-| - | Unknown | ![unknown](../images/create_unknown.png) |
+| - | Spout Gun | ![spout_gun](../images/create_things_and_misc_spout_gun.png) |
+| - | Unknown | ![unknown](../images/create_0.png) |
 
 ---
 ## Train Sing Yellow 1
@@ -16551,7 +16551,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Zinc Ingot | ![zinc_ingot](../images/create_zinc_ingot.png) |
-| 2 | Stick | ![stick](../images/create_stick.png) |
+| 2 | Stick | ![stick](../images/create_0.png) |
 
 ---
 ## Tiled Glass
@@ -16575,7 +16575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Time Log | ![time_log](../images/create_time_log.png) |
+| - | Time Log | ![time_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -16583,7 +16583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Time Wood | ![time_wood](../images/create_time_wood.png) |
+| - | Time Wood | ![time_wood](../images/create_0.png) |
 
 ---
 ## Tin Ingot
@@ -16614,7 +16614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Topaz Ore | ![topaz_ore](../images/create_topaz_ore.png) |
+| - | Topaz Ore | ![topaz_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -16622,7 +16622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Torch Ginger | ![torch_ginger](../images/create_torch_ginger.png) |
+| - | Torch Ginger | ![torch_ginger](../images/create_0.png) |
 
 ---
 ## {}
@@ -16630,7 +16630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Sleepers | ![sleepers](../images/create_sleepers.png) |
+| tag | Sleepers | ![sleepers](../images/create_0.png) |
 
 ---
 ## Track Observer
@@ -16639,7 +16639,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
-| - | Wooden Pressure Plates | ![wooden_pressure_plates](../images/create_wooden_pressure_plates.png) |
+| - | Wooden Pressure Plates | ![wooden_pressure_plates](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Track Observer
@@ -16648,7 +16648,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
-| - | Light Weighted Pressure Plate'}] | ![light_weighted_pressure_plate'}]](../images/create_light_weighted_pressure_plate'}].png) |
+| - | Light Weighted Pressure Plate'}] | ![light_weighted_pressure_plate'}]](../images/create_canvas_light_blue.png) |
 
 ---
 ## Track Signal
@@ -16666,7 +16666,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
-| - | Compass | ![compass](../images/create_compass.png) |
+| - | Compass | ![compass](../images/create_0.png) |
 
 ---
 ## Train Door
@@ -16674,7 +16674,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Doors | ![wooden_doors](../images/create_wooden_doors.png) |
+| - | Wooden Doors | ![wooden_doors](../images/create_bracket_plate_wooden.png) |
 | - | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
 
 ---
@@ -16683,7 +16683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_wooden_trapdoors.png) |
+| - | Wooden Trapdoors | ![wooden_trapdoors](../images/create_bracket_plate_wooden.png) |
 | - | Railway Casing | ![railway_casing](../images/create_railway_casing.png) |
 
 ---
@@ -16692,7 +16692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Transformation Log | ![transformation_log](../images/create_transformation_log.png) |
+| - | Transformation Log | ![transformation_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -16700,7 +16700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Transformation Wood | ![transformation_wood](../images/create_transformation_wood.png) |
+| - | Transformation Wood | ![transformation_wood](../images/create_0.png) |
 
 ---
 ## Tree Fertilizer
@@ -16708,10 +16708,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Flowers | ![small_flowers](../images/create_small_flowers.png) |
-| - | Small Flowers | ![small_flowers](../images/create_small_flowers.png) |
-| - | Fire Coral'}] | ![fire_coral'}]](../images/create_fire_coral'}].png) |
-| - | Bone Meal | ![bone_meal](../images/create_bone_meal.png) |
+| - | Small Flowers | ![small_flowers](../images/create_andesite_cut_small_brick.png) |
+| - | Small Flowers | ![small_flowers](../images/create_andesite_cut_small_brick.png) |
+| - | Fire Coral'}] | ![fire_coral'}]](../images/create_0.png) |
+| - | Bone Meal | ![bone_meal](../images/create_0.png) |
 
 ---
 ## {}
@@ -16719,7 +16719,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tuff | ![tuff](../images/create_tuff.png) |
+| - | Tuff | ![tuff](../images/create_tuff_cut.png) |
 
 ---
 ## Tuff
@@ -16751,8 +16751,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
-| S | Shaft | ![shaft](../images/create_shaft.png) |
+| P | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
+| S | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 
 ---
 ## {}
@@ -16760,7 +16760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Turquoise Ore | ![turquoise_ore](../images/create_turquoise_ore.png) |
+| - | Turquoise Ore | ![turquoise_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -16768,7 +16768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Twilight Oak Log | ![twilight_oak_log](../images/create_twilight_oak_log.png) |
+| - | Twilight Oak Log | ![twilight_oak_log](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -16776,7 +16776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Twilight Oak Wood | ![twilight_oak_wood](../images/create_twilight_oak_wood.png) |
+| - | Twilight Oak Wood | ![twilight_oak_wood](../images/create_dark_oak_window.png) |
 
 ---
 ## {}
@@ -16784,7 +16784,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Twisted Log | ![twisted_log](../images/create_twisted_log.png) |
+| - | Twisted Log | ![twisted_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -16792,7 +16792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Twisted Wood | ![twisted_wood](../images/create_twisted_wood.png) |
+| - | Twisted Wood | ![twisted_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -16800,7 +16800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Umbran Log | ![umbran_log](../images/create_umbran_log.png) |
+| - | Umbran Log | ![umbran_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -16808,7 +16808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Umbran Wood | ![umbran_wood](../images/create_umbran_wood.png) |
+| - | Umbran Wood | ![umbran_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -16824,7 +16824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Venus Calorite Ore | ![venus_calorite_ore](../images/create_venus_calorite_ore.png) |
+| - | Venus Calorite Ore | ![venus_calorite_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -16832,7 +16832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Venus Coal Ore | ![venus_coal_ore](../images/create_venus_coal_ore.png) |
+| - | Venus Coal Ore | ![venus_coal_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---
 ## {}
@@ -16840,7 +16840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Venus Gold Ore | ![venus_gold_ore](../images/create_venus_gold_ore.png) |
+| - | Venus Gold Ore | ![venus_gold_ore](../images/create_crushed_raw_gold.png) |
 
 ---
 ## {}
@@ -16848,7 +16848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Venus Sandstone | ![venus_sandstone](../images/create_venus_sandstone.png) |
+| - | Venus Sandstone | ![venus_sandstone](../images/create_0.png) |
 
 ---
 ## {}
@@ -16856,7 +16856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Veridium | ![veridium](../images/create_veridium.png) |
+| - | Veridium | ![veridium](../images/create_veridium_0.png) |
 
 ---
 ## Veridium
@@ -16912,7 +16912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Violet | ![violet](../images/create_violet.png) |
+| - | Violet | ![violet](../images/create_0.png) |
 
 ---
 ## {}
@@ -16920,7 +16920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Violet Leather Flower | ![violet_leather_flower](../images/create_violet_leather_flower.png) |
+| - | Violet Leather Flower | ![violet_leather_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -16928,7 +16928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Walnut Log | ![walnut_log](../images/create_walnut_log.png) |
+| - | Walnut Log | ![walnut_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -16936,7 +16936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Walnut Wood | ![walnut_wood](../images/create_walnut_wood.png) |
+| - | Walnut Wood | ![walnut_wood](../images/create_0.png) |
 
 ---
 ## Wand Of Symmetry
@@ -16945,9 +16945,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Ingots/Brass | ![ingots/brass](../images/create_ingots/brass.png) |
-| E | Ender Pearls | ![ender_pearls](../images/create_ender_pearls.png) |
-| G | Glass | ![glass](../images/create_glass.png) |
-| O | Obsidian | ![obsidian](../images/create_obsidian.png) |
+| E | Ender Pearls | ![ender_pearls](../images/create_0.png) |
+| G | Glass | ![glass](../images/create_framed_glass.png) |
+| O | Obsidian | ![obsidian](../images/create_powdered_obsidian.png) |
 | P | Precision Mechanism | ![precision_mechanism](../images/create_precision_mechanism.png) |
 
 ---
@@ -16956,7 +16956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warm Monkey Brush | ![warm_monkey_brush](../images/create_warm_monkey_brush.png) |
+| - | Warm Monkey Brush | ![warm_monkey_brush](../images/create_0.png) |
 
 ---
 ## {}
@@ -16964,7 +16964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom | ![brown_mushroom](../images/create_brown_mushroom.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/create_brown.png) |
 
 ---
 ## {}
@@ -16972,7 +16972,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Hyphae | ![warped_hyphae](../images/create_warped_hyphae.png) |
+| - | Warped Hyphae | ![warped_hyphae](../images/create_things_and_misc_warped_sail.png) |
 
 ---
 ## {}
@@ -16980,7 +16980,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Stem | ![warped_stem](../images/create_warped_stem.png) |
+| - | Warped Stem | ![warped_stem](../images/create_things_and_misc_warped_sail.png) |
 
 ---
 ## Warped Window
@@ -16988,7 +16988,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/create_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/create_things_and_misc_warped_sail.png) |
 | X | Glass/Colorless | ![glass/colorless](../images/create_glass/colorless.png) |
 
 ---
@@ -17005,8 +17005,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Shaft | ![shaft](../images/create_shaft.png) |
-| S | Planks | ![planks](../images/create_planks.png) |
+| C | Shaft | ![shaft](../images/create_gantry_shaft.png) |
+| S | Planks | ![planks](../images/create_0.png) |
 
 ---
 ## {}
@@ -17014,8 +17014,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Block | ![copper_block](../images/create_copper_block.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Copper Block | ![copper_block](../images/create_andesite_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17024,7 +17024,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Copper Shingles | ![copper_shingles](../images/create_copper_shingles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Copper Shingles
@@ -17033,7 +17033,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Copper Shingles | ![copper_shingles](../images/create_copper_shingles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17041,8 +17041,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Shingle Slab | ![copper_shingle_slab](../images/create_copper_shingle_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Copper Shingle Slab | ![copper_shingle_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Copper Shingle Slab
@@ -17050,8 +17050,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Shingle Slab | ![copper_shingle_slab](../images/create_copper_shingle_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Copper Shingle Slab | ![copper_shingle_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17059,8 +17059,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Shingle Stairs | ![copper_shingle_stairs](../images/create_copper_shingle_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Copper Shingle Stairs | ![copper_shingle_stairs](../images/create_copper_backtank.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Copper Shingle Stairs
@@ -17068,8 +17068,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Shingle Stairs | ![copper_shingle_stairs](../images/create_copper_shingle_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Copper Shingle Stairs | ![copper_shingle_stairs](../images/create_copper_backtank.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17078,7 +17078,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Copper Tiles | ![copper_tiles](../images/create_copper_tiles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Copper Tiles
@@ -17087,7 +17087,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Copper Tiles | ![copper_tiles](../images/create_copper_tiles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17095,8 +17095,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Tile Slab | ![copper_tile_slab](../images/create_copper_tile_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Copper Tile Slab | ![copper_tile_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Copper Tile Slab
@@ -17104,8 +17104,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Tile Slab | ![copper_tile_slab](../images/create_copper_tile_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Copper Tile Slab | ![copper_tile_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17113,8 +17113,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Tile Stairs | ![copper_tile_stairs](../images/create_copper_tile_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Copper Tile Stairs | ![copper_tile_stairs](../images/create_copper_backtank.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Copper Tile Stairs
@@ -17122,8 +17122,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Tile Stairs | ![copper_tile_stairs](../images/create_copper_tile_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Copper Tile Stairs | ![copper_tile_stairs](../images/create_copper_backtank.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17131,8 +17131,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper | ![cut_copper](../images/create_cut_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Cut Copper | ![cut_copper](../images/create_andesite_cut.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17140,8 +17140,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Slab | ![cut_copper_slab](../images/create_cut_copper_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Cut Copper Slab | ![cut_copper_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17149,8 +17149,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Stairs | ![cut_copper_stairs](../images/create_cut_copper_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Cut Copper Stairs | ![cut_copper_stairs](../images/create_andesite_cut.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17158,8 +17158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper | ![exposed_copper](../images/create_exposed_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Copper | ![exposed_copper](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17168,7 +17168,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Exposed Copper Shingles | ![exposed_copper_shingles](../images/create_exposed_copper_shingles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Exposed Copper Shingles
@@ -17177,7 +17177,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Exposed Copper Shingles | ![exposed_copper_shingles](../images/create_exposed_copper_shingles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17185,8 +17185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Shingle Slab | ![exposed_copper_shingle_slab](../images/create_exposed_copper_shingle_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Copper Shingle Slab | ![exposed_copper_shingle_slab](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Exposed Copper Shingle Slab
@@ -17194,8 +17194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Shingle Slab | ![exposed_copper_shingle_slab](../images/create_exposed_copper_shingle_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Exposed Copper Shingle Slab | ![exposed_copper_shingle_slab](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17203,8 +17203,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Shingle Stairs | ![exposed_copper_shingle_stairs](../images/create_exposed_copper_shingle_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Copper Shingle Stairs | ![exposed_copper_shingle_stairs](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Exposed Copper Shingle Stairs
@@ -17212,8 +17212,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Shingle Stairs | ![exposed_copper_shingle_stairs](../images/create_exposed_copper_shingle_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Exposed Copper Shingle Stairs | ![exposed_copper_shingle_stairs](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17222,7 +17222,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Exposed Copper Tiles | ![exposed_copper_tiles](../images/create_exposed_copper_tiles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Exposed Copper Tiles
@@ -17231,7 +17231,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Exposed Copper Tiles | ![exposed_copper_tiles](../images/create_exposed_copper_tiles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17239,8 +17239,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Tile Slab | ![exposed_copper_tile_slab](../images/create_exposed_copper_tile_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Copper Tile Slab | ![exposed_copper_tile_slab](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Exposed Copper Tile Slab
@@ -17248,8 +17248,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Tile Slab | ![exposed_copper_tile_slab](../images/create_exposed_copper_tile_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Exposed Copper Tile Slab | ![exposed_copper_tile_slab](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17257,8 +17257,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Tile Stairs | ![exposed_copper_tile_stairs](../images/create_exposed_copper_tile_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Copper Tile Stairs | ![exposed_copper_tile_stairs](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Exposed Copper Tile Stairs
@@ -17266,8 +17266,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Tile Stairs | ![exposed_copper_tile_stairs](../images/create_exposed_copper_tile_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Exposed Copper Tile Stairs | ![exposed_copper_tile_stairs](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17275,8 +17275,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper | ![exposed_cut_copper](../images/create_exposed_cut_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Cut Copper | ![exposed_cut_copper](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17284,8 +17284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/create_exposed_cut_copper_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17293,8 +17293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper Stairs | ![exposed_cut_copper_stairs](../images/create_exposed_cut_copper_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Exposed Cut Copper Stairs | ![exposed_cut_copper_stairs](../images/create_exposed_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17302,8 +17302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper | ![oxidized_copper](../images/create_oxidized_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Copper | ![oxidized_copper](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17312,7 +17312,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Oxidized Copper Shingles | ![oxidized_copper_shingles](../images/create_oxidized_copper_shingles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Oxidized Copper Shingles
@@ -17321,7 +17321,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Oxidized Copper Shingles | ![oxidized_copper_shingles](../images/create_oxidized_copper_shingles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17329,8 +17329,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Shingle Slab | ![oxidized_copper_shingle_slab](../images/create_oxidized_copper_shingle_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Copper Shingle Slab | ![oxidized_copper_shingle_slab](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Oxidized Copper Shingle Slab
@@ -17338,8 +17338,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Shingle Slab | ![oxidized_copper_shingle_slab](../images/create_oxidized_copper_shingle_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Oxidized Copper Shingle Slab | ![oxidized_copper_shingle_slab](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17347,8 +17347,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Shingle Stairs | ![oxidized_copper_shingle_stairs](../images/create_oxidized_copper_shingle_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Copper Shingle Stairs | ![oxidized_copper_shingle_stairs](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Oxidized Copper Shingle Stairs
@@ -17356,8 +17356,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Shingle Stairs | ![oxidized_copper_shingle_stairs](../images/create_oxidized_copper_shingle_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Oxidized Copper Shingle Stairs | ![oxidized_copper_shingle_stairs](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17366,7 +17366,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Oxidized Copper Tiles | ![oxidized_copper_tiles](../images/create_oxidized_copper_tiles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Oxidized Copper Tiles
@@ -17375,7 +17375,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Oxidized Copper Tiles | ![oxidized_copper_tiles](../images/create_oxidized_copper_tiles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17383,8 +17383,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Tile Slab | ![oxidized_copper_tile_slab](../images/create_oxidized_copper_tile_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Copper Tile Slab | ![oxidized_copper_tile_slab](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Oxidized Copper Tile Slab
@@ -17392,8 +17392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Tile Slab | ![oxidized_copper_tile_slab](../images/create_oxidized_copper_tile_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Oxidized Copper Tile Slab | ![oxidized_copper_tile_slab](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17401,8 +17401,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Tile Stairs | ![oxidized_copper_tile_stairs](../images/create_oxidized_copper_tile_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Copper Tile Stairs | ![oxidized_copper_tile_stairs](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Oxidized Copper Tile Stairs
@@ -17410,8 +17410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Tile Stairs | ![oxidized_copper_tile_stairs](../images/create_oxidized_copper_tile_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Oxidized Copper Tile Stairs | ![oxidized_copper_tile_stairs](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17419,8 +17419,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper | ![oxidized_cut_copper](../images/create_oxidized_cut_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Cut Copper | ![oxidized_cut_copper](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17428,8 +17428,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/create_oxidized_cut_copper_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17437,8 +17437,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper Stairs | ![oxidized_cut_copper_stairs](../images/create_oxidized_cut_copper_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Oxidized Cut Copper Stairs | ![oxidized_cut_copper_stairs](../images/create_oxidized_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17446,8 +17446,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper | ![weathered_copper](../images/create_weathered_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Copper | ![weathered_copper](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17456,7 +17456,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Weathered Copper Shingles | ![weathered_copper_shingles](../images/create_weathered_copper_shingles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Weathered Copper Shingles
@@ -17465,7 +17465,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Weathered Copper Shingles | ![weathered_copper_shingles](../images/create_weathered_copper_shingles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17473,8 +17473,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Shingle Slab | ![weathered_copper_shingle_slab](../images/create_weathered_copper_shingle_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Copper Shingle Slab | ![weathered_copper_shingle_slab](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Weathered Copper Shingle Slab
@@ -17482,8 +17482,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Shingle Slab | ![weathered_copper_shingle_slab](../images/create_weathered_copper_shingle_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Weathered Copper Shingle Slab | ![weathered_copper_shingle_slab](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17491,8 +17491,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Shingle Stairs | ![weathered_copper_shingle_stairs](../images/create_weathered_copper_shingle_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Copper Shingle Stairs | ![weathered_copper_shingle_stairs](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Weathered Copper Shingle Stairs
@@ -17500,8 +17500,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Shingle Stairs | ![weathered_copper_shingle_stairs](../images/create_weathered_copper_shingle_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Weathered Copper Shingle Stairs | ![weathered_copper_shingle_stairs](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17510,7 +17510,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Weathered Copper Tiles | ![weathered_copper_tiles](../images/create_weathered_copper_tiles.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Weathered Copper Tiles
@@ -17519,7 +17519,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Weathered Copper Tiles | ![weathered_copper_tiles](../images/create_weathered_copper_tiles.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17527,8 +17527,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Tile Slab | ![weathered_copper_tile_slab](../images/create_weathered_copper_tile_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Copper Tile Slab | ![weathered_copper_tile_slab](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Weathered Copper Tile Slab
@@ -17536,8 +17536,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Tile Slab | ![weathered_copper_tile_slab](../images/create_weathered_copper_tile_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Weathered Copper Tile Slab | ![weathered_copper_tile_slab](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17545,8 +17545,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Tile Stairs | ![weathered_copper_tile_stairs](../images/create_weathered_copper_tile_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Copper Tile Stairs | ![weathered_copper_tile_stairs](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Waxed Weathered Copper Tile Stairs
@@ -17554,8 +17554,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Tile Stairs | ![weathered_copper_tile_stairs](../images/create_weathered_copper_tile_stairs.png) |
-| - | Honeycomb | ![honeycomb](../images/create_honeycomb.png) |
+| - | Weathered Copper Tile Stairs | ![weathered_copper_tile_stairs](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb | ![honeycomb](../images/create_0.png) |
 
 ---
 ## {}
@@ -17563,8 +17563,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper | ![weathered_cut_copper](../images/create_weathered_cut_copper.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Cut Copper | ![weathered_cut_copper](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17572,8 +17572,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/create_weathered_cut_copper_slab.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/create_andesite_cut_slab.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## {}
@@ -17581,8 +17581,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper Stairs | ![weathered_cut_copper_stairs](../images/create_weathered_cut_copper_stairs.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/create_honeycomb_block.png) |
+| - | Weathered Cut Copper Stairs | ![weathered_cut_copper_stairs](../images/create_weathered_copper_roof_top.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/create_andesite_block.png) |
 
 ---
 ## Weathered Copper Shingle Slab
@@ -17655,7 +17655,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Plates/Gold | ![plates/gold](../images/create_plates/gold.png) |
-| D | Depot | ![depot](../images/create_depot.png) |
+| D | Depot | ![depot](../images/create_depot_side.png) |
 | I | Cogwheel | ![cogwheel](../images/create_cogwheel.png) |
 
 ---
@@ -17664,7 +17664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat | ![wheat](../images/create_wheat.png) |
+| - | Wheat | ![wheat](../images/create_wheat_flour.png) |
 
 ---
 ## {}
@@ -17689,7 +17689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Anemone | ![white_anemone](../images/create_white_anemone.png) |
+| - | White Anemone | ![white_anemone](../images/create_canvas_white.png) |
 
 ---
 ## {}
@@ -17697,7 +17697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Clover | ![white_clover](../images/create_white_clover.png) |
+| - | White Clover | ![white_clover](../images/create_canvas_white.png) |
 
 ---
 ## {}
@@ -17705,7 +17705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Concrete Powder | ![white_concrete_powder](../images/create_white_concrete_powder.png) |
+| - | White Concrete Powder | ![white_concrete_powder](../images/create_canvas_white.png) |
 
 ---
 ## {}
@@ -17713,7 +17713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Delphinium | ![white_delphinium](../images/create_white_delphinium.png) |
+| - | White Delphinium | ![white_delphinium](../images/create_canvas_white.png) |
 
 ---
 ## {}
@@ -17721,7 +17721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Lotus Flower | ![white_lotus_flower](../images/create_white_lotus_flower.png) |
+| - | White Lotus Flower | ![white_lotus_flower](../images/create_canvas_white.png) |
 
 ---
 ## {}
@@ -17737,7 +17737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Puffball Cap | ![white_puffball_cap](../images/create_white_puffball_cap.png) |
+| - | White Puffball Cap | ![white_puffball_cap](../images/create_andesite_cut_cap.png) |
 
 ---
 ## {}
@@ -17745,7 +17745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sage | ![white_sage](../images/create_white_sage.png) |
+| - | White Sage | ![white_sage](../images/create_canvas_white.png) |
 
 ---
 ## White Sail
@@ -17755,7 +17755,7 @@
 | :--- | :--- | :--- |
 | A | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
-| W | Wool | ![wool](../images/create_wool.png) |
+| W | Wool | ![wool](../images/create_0.png) |
 
 ---
 ## White Sail
@@ -17763,7 +17763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sail Frame | ![sail_frame](../images/create_sail_frame.png) |
+| - | Sail Frame | ![sail_frame](../images/create_andesite_funnel_frame.png) |
 
 ---
 ## {}
@@ -17771,7 +17771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Searocket | ![white_searocket](../images/create_white_searocket.png) |
+| - | White Searocket | ![white_searocket](../images/create_canvas_white.png) |
 
 ---
 ## White Seat
@@ -17779,8 +17779,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Wool | ![white_wool](../images/create_white_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | White Wool | ![white_wool](../images/create_canvas_white.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## White Seat
@@ -17789,7 +17789,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/White | ![dyes/white](../images/create_dyes/white.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -17797,7 +17797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Tulip | ![white_tulip](../images/create_white_tulip.png) |
+| - | White Tulip | ![white_tulip](../images/create_canvas_white.png) |
 
 ---
 ## White Valve Handle
@@ -17806,7 +17806,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/White | ![dyes/white](../images/create_dyes/white.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -17814,7 +17814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wildflower | ![wildflower](../images/create_wildflower.png) |
+| - | Wildflower | ![wildflower](../images/create_0.png) |
 
 ---
 ## {}
@@ -17822,7 +17822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Willow Log | ![willow_log](../images/create_willow_log.png) |
+| - | Willow Log | ![willow_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -17830,7 +17830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Willow Wood | ![willow_wood](../images/create_willow_wood.png) |
+| - | Willow Wood | ![willow_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -17838,7 +17838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wilted Lily | ![wilted_lily](../images/create_wilted_lily.png) |
+| - | Wilted Lily | ![wilted_lily](../images/create_0.png) |
 
 ---
 ## Windmill Bearing
@@ -17846,9 +17846,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
-| C | Stone | ![stone](../images/create_stone.png) |
-| I | Shaft | ![shaft](../images/create_shaft.png) |
+| B | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
+| C | Stone | ![stone](../images/create_0.png) |
+| I | Shaft | ![shaft](../images/create_gantry_shaft.png) |
 
 ---
 ## {}
@@ -17856,7 +17856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Winter Cyclamen | ![winter_cyclamen](../images/create_winter_cyclamen.png) |
+| - | Winter Cyclamen | ![winter_cyclamen](../images/create_0.png) |
 
 ---
 ## {}
@@ -17864,7 +17864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Winter Rose | ![winter_rose](../images/create_winter_rose.png) |
+| - | Winter Rose | ![winter_rose](../images/create_polished_rose_quartz.png) |
 
 ---
 ## {}
@@ -17872,7 +17872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Winter Scilla | ![winter_scilla](../images/create_winter_scilla.png) |
+| - | Winter Scilla | ![winter_scilla](../images/create_0.png) |
 
 ---
 ## {}
@@ -17880,7 +17880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Witch Hazel Log | ![witch_hazel_log](../images/create_witch_hazel_log.png) |
+| - | Witch Hazel Log | ![witch_hazel_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -17888,7 +17888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Witch Hazel Wood | ![witch_hazel_wood](../images/create_witch_hazel_wood.png) |
+| - | Witch Hazel Wood | ![witch_hazel_wood](../images/create_0.png) |
 
 ---
 ## {}
@@ -17896,7 +17896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wither Rose | ![wither_rose](../images/create_wither_rose.png) |
+| - | Wither Rose | ![wither_rose](../images/create_polished_rose_quartz.png) |
 
 ---
 ## Wooden Bracket
@@ -17905,7 +17905,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Andesite Alloy | ![andesite_alloy](../images/create_andesite_alloy.png) |
-| P | Planks | ![planks](../images/create_planks.png) |
+| P | Planks | ![planks](../images/create_0.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/create_rods/wooden.png) |
 
 ---
@@ -17914,7 +17914,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wool | ![wool](../images/create_wool.png) |
+| - | Wool | ![wool](../images/create_0.png) |
 
 ---
 ## Wrench
@@ -17932,7 +17932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/create_yellow_concrete_powder.png) |
+| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/create_canvas_yellow.png) |
 
 ---
 ## {}
@@ -17940,7 +17940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Daffodil | ![yellow_daffodil](../images/create_yellow_daffodil.png) |
+| - | Yellow Daffodil | ![yellow_daffodil](../images/create_canvas_yellow.png) |
 
 ---
 ## {}
@@ -17948,7 +17948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Diamond Ore | ![yellow_diamond_ore](../images/create_yellow_diamond_ore.png) |
+| - | Yellow Diamond Ore | ![yellow_diamond_ore](../images/create_canvas_yellow.png) |
 
 ---
 ## {}
@@ -17956,7 +17956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Hibiscus | ![yellow_hibiscus](../images/create_yellow_hibiscus.png) |
+| - | Yellow Hibiscus | ![yellow_hibiscus](../images/create_canvas_yellow.png) |
 
 ---
 ## {}
@@ -17972,8 +17972,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Wool | ![yellow_wool](../images/create_yellow_wool.png) |
-| - | Wooden Slabs | ![wooden_slabs](../images/create_wooden_slabs.png) |
+| - | Yellow Wool | ![yellow_wool](../images/create_canvas_yellow.png) |
+| - | Wooden Slabs | ![wooden_slabs](../images/create_bracket_plate_wooden.png) |
 
 ---
 ## Yellow Seat
@@ -17982,7 +17982,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Yellow | ![dyes/yellow](../images/create_dyes/yellow.png) |
-| - | Seats | ![seats](../images/create_seats.png) |
+| - | Seats | ![seats](../images/create_0.png) |
 
 ---
 ## {}
@@ -17990,7 +17990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Tulip | ![yellow_tulip](../images/create_yellow_tulip.png) |
+| - | Yellow Tulip | ![yellow_tulip](../images/create_canvas_yellow.png) |
 
 ---
 ## Yellow Valve Handle
@@ -17999,7 +17999,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dyes/Yellow | ![dyes/yellow](../images/create_dyes/yellow.png) |
-| - | Valve Handles | ![valve_handles](../images/create_valve_handles.png) |
+| - | Valve Handles | ![valve_handles](../images/create_fluid_valve.png) |
 
 ---
 ## {}
@@ -18007,7 +18007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Flower | ![yucca_flower](../images/create_yucca_flower.png) |
+| - | Yucca Flower | ![yucca_flower](../images/create_central_kitchen_incomplete_chorus_flower_pie.png) |
 
 ---
 ## {}
@@ -18015,7 +18015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Log | ![yucca_log](../images/create_yucca_log.png) |
+| - | Yucca Log | ![yucca_log](../images/create_central_kitchen_yucca_cake_slice.png) |
 
 ---
 ## {}
@@ -18023,7 +18023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zelkova Log | ![zelkova_log](../images/create_zelkova_log.png) |
+| - | Zelkova Log | ![zelkova_log](../images/create_smooth_dark_log_top.png) |
 
 ---
 ## {}
@@ -18031,7 +18031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zelkova Wood | ![zelkova_wood](../images/create_zelkova_wood.png) |
+| - | Zelkova Wood | ![zelkova_wood](../images/create_0.png) |
 
 ---
 ## Zinc Block
@@ -18103,6 +18103,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zircon Ore | ![zircon_ore](../images/create_zircon_ore.png) |
+| - | Zircon Ore | ![zircon_ore](../images/create_deepslate_zinc_ore.png) |
 
 ---

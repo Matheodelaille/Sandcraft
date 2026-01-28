@@ -7,13 +7,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 
 ---
@@ -22,13 +22,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -37,13 +37,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -52,13 +52,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -67,13 +67,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -106,10 +106,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Glass Bottle | ![glass_bottle](../images/mysticalagriculture_glass_bottle.png) |
-| G | Gravel | ![gravel](../images/mysticalagriculture_gravel.png) |
-| D | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
-| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_clay_ball.png) |
+| I | Glass Bottle | ![glass_bottle](../images/mysticalagriculture_soul_glass.png) |
+| G | Gravel | ![gravel](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| D | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
+| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Aluminum Essence
@@ -124,7 +124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Aluminum Essence | ![aluminum_essence](../images/mysticalagriculture_aluminum_essence.png) |
+| E | Aluminum Essence | ![aluminum_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Amethyst Essence
@@ -193,7 +193,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Stone Essence | ![stone_essence](../images/mysticalagriculture_stone_essence.png) |
-| F | Zinc Essence | ![zinc_essence](../images/mysticalagriculture_zinc_essence.png) |
+| F | Zinc Essence | ![zinc_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Attack Aoe I Augment
@@ -201,13 +201,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -216,13 +216,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -231,13 +231,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -558,7 +558,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Soulstone | ![soulstone](../images/mysticalagriculture_soulstone.png) |
-| C | Orange Wool | ![orange_wool](../images/mysticalagriculture_orange_wool.png) |
+| C | Orange Wool | ![orange_wool](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/mysticalagriculture_ingots/gold.png) |
 
 ---
@@ -568,7 +568,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Soulstone | ![soulstone](../images/mysticalagriculture_soulstone.png) |
-| C | Orange Wool | ![orange_wool](../images/mysticalagriculture_orange_wool.png) |
+| C | Orange Wool | ![orange_wool](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/mysticalagriculture_ingots/gold.png) |
 
 ---
@@ -608,7 +608,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/mysticalagriculture_ingots/iron.png) |
 | S | Soulium Ingot | ![soulium_ingot](../images/mysticalagriculture_soulium_ingot.png) |
-| H | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| H | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | B | Machine Frame | ![machine_frame](../images/mysticalagriculture_machine_frame.png) |
 
 ---
@@ -685,7 +685,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Soul Dust | ![soul_dust](../images/mysticalagriculture_soul_dust.png) |
-| B | Bone Block | ![bone_block](../images/mysticalagriculture_bone_block.png) |
+| B | Bone Block | ![bone_block](../images/mysticalagriculture_awakened_supremium_block.png) |
 
 ---
 ## Blaze Essence
@@ -799,7 +799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Brass Essence | ![brass_essence](../images/mysticalagriculture_brass_essence.png) |
+| E | Brass Essence | ![brass_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Bronze Essence
@@ -892,7 +892,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Certus Quartz Essence | ![certus_quartz_essence](../images/mysticalagriculture_certus_quartz_essence.png) |
-| M | Certus Quartz Crystal | ![certus_quartz_crystal](../images/mysticalagriculture_certus_quartz_crystal.png) |
+| M | Certus Quartz Crystal | ![certus_quartz_crystal](../images/mysticalagriculture_certus_quartz_essence.png) |
 
 ---
 ## Carrot
@@ -955,7 +955,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Chrome Essence | ![chrome_essence](../images/mysticalagriculture_chrome_essence.png) |
+| E | Chrome Essence | ![chrome_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Clay Ball
@@ -963,7 +963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Water Essence | ![water_essence](../images/mysticalagriculture_water_essence.png) |
+| E | Water Essence | ![water_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | F | Dirt Essence | ![dirt_essence](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
@@ -1077,10 +1077,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Brain Coral Block | ![brain_coral_block](../images/mysticalagriculture_brain_coral_block.png) |
-| O | Tube Coral Block | ![tube_coral_block](../images/mysticalagriculture_tube_coral_block.png) |
-| P | Fire Coral Block | ![fire_coral_block](../images/mysticalagriculture_fire_coral_block.png) |
-| L | Horn Coral Block | ![horn_coral_block](../images/mysticalagriculture_horn_coral_block.png) |
+| C | Brain Coral Block | ![brain_coral_block](../images/mysticalagriculture_awakened_supremium_block.png) |
+| O | Tube Coral Block | ![tube_coral_block](../images/mysticalagriculture_awakened_supremium_block.png) |
+| P | Fire Coral Block | ![fire_coral_block](../images/mysticalagriculture_awakened_supremium_block.png) |
+| L | Horn Coral Block | ![horn_coral_block](../images/mysticalagriculture_awakened_supremium_block.png) |
 
 ---
 ## Cow Essence
@@ -1264,7 +1264,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Stone Essence | ![stone_essence](../images/mysticalagriculture_stone_essence.png) |
-| A | Water Essence | ![water_essence](../images/mysticalagriculture_water_essence.png) |
+| A | Water Essence | ![water_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Dye Essence
@@ -1297,10 +1297,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Grass | ![grass](../images/mysticalagriculture_grass.png) |
-| G | Gravel | ![gravel](../images/mysticalagriculture_gravel.png) |
-| D | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
-| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_clay_ball.png) |
+| I | Grass | ![grass](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| G | Gravel | ![gravel](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| D | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
+| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## {}
@@ -1397,9 +1397,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | End Stone | ![end_stone](../images/mysticalagriculture_end_stone.png) |
-| C | Chorus Fruit | ![chorus_fruit](../images/mysticalagriculture_chorus_fruit.png) |
-| P | Purpur Block | ![purpur_block](../images/mysticalagriculture_purpur_block.png) |
+| S | End Stone | ![end_stone](../images/mysticalagriculture_end_agglomeratio.png) |
+| C | Chorus Fruit | ![chorus_fruit](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| P | Purpur Block | ![purpur_block](../images/mysticalagriculture_awakened_supremium_block.png) |
 
 ---
 ## End Stone
@@ -1448,7 +1448,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/mysticalagriculture_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/mysticalagriculture_soul_glass.png) |
 | - | Experience Droplet | ![experience_droplet](../images/mysticalagriculture_experience_droplet.png) |
 
 ---
@@ -1474,8 +1474,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagriculture_unknown.png) |
-| - | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
+| - | Unknown | ![unknown](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| - | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
 ## {}
@@ -1504,10 +1504,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Lava Bucket | ![lava_bucket](../images/mysticalagriculture_lava_bucket.png) |
-| G | Gravel | ![gravel](../images/mysticalagriculture_gravel.png) |
-| D | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
-| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_clay_ball.png) |
+| I | Lava Bucket | ![lava_bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| G | Gravel | ![gravel](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| D | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
+| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Fire Coral
@@ -1542,13 +1542,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -1564,13 +1564,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_agglomeratio.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_agglomeratio.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_agglomeratio.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_agglomeratio.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -1580,7 +1580,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Stone Essence | ![stone_essence](../images/mysticalagriculture_stone_essence.png) |
-| F | Fire Essence | ![fire_essence](../images/mysticalagriculture_fire_essence.png) |
+| F | Fire Essence | ![fire_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Fluix Essence
@@ -1707,7 +1707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Graphite Essence | ![graphite_essence](../images/mysticalagriculture_graphite_essence.png) |
+| E | Graphite Essence | ![graphite_essence](../images/mysticalagriculture_hop_graphite_essence.png) |
 
 ---
 ## Grass Block
@@ -1765,7 +1765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/mysticalagriculture_book.png) |
+| - | Book | ![book](../images/mysticalagriculture_guide_book.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 
 ---
@@ -1783,7 +1783,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/mysticalagriculture_ingots/iron.png) |
 | S | Soulium Ingot | ![soulium_ingot](../images/mysticalagriculture_soulium_ingot.png) |
-| H | Diamond Scythes | ![diamond_scythes](../images/mysticalagriculture_diamond_scythes.png) |
+| H | Diamond Scythes | ![diamond_scythes](../images/mysticalagriculture_diamond_essence.png) |
 | B | Machine Frame | ![machine_frame](../images/mysticalagriculture_machine_frame.png) |
 
 ---
@@ -1792,13 +1792,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 
 ---
@@ -1807,13 +1807,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -1822,13 +1822,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -1837,13 +1837,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -1852,13 +1852,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -1870,7 +1870,7 @@
 | E | Diamond Essence | ![diamond_essence](../images/mysticalagriculture_diamond_essence.png) |
 | F | Prismarine Essence | ![prismarine_essence](../images/mysticalagriculture_prismarine_essence.png) |
 | G | Squid Essence | ![squid_essence](../images/mysticalagriculture_squid_essence.png) |
-| S | Nautilus Shell | ![nautilus_shell](../images/mysticalagriculture_nautilus_shell.png) |
+| S | Nautilus Shell | ![nautilus_shell](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Hepatizon Essence
@@ -1908,8 +1908,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Honey Bottle | ![honey_bottle](../images/mysticalagriculture_honey_bottle.png) |
-| C | Honeycomb | ![honeycomb](../images/mysticalagriculture_honeycomb.png) |
+| B | Honey Bottle | ![honey_bottle](../images/mysticalagriculture_honey_agglomeratio.png) |
+| C | Honeycomb | ![honeycomb](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Honey Bottle
@@ -1918,7 +1918,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Honey Essence | ![honey_essence](../images/mysticalagriculture_honey_essence.png) |
-| B | Glass Bottle | ![glass_bottle](../images/mysticalagriculture_glass_bottle.png) |
+| B | Glass Bottle | ![glass_bottle](../images/mysticalagriculture_soul_glass.png) |
 
 ---
 ## Hop Graphite Essence
@@ -2057,7 +2057,7 @@
 | :--- | :--- | :--- |
 | G | Imperium Gemstone | ![imperium_gemstone](../images/mysticalagriculture_imperium_gemstone.png) |
 | I | Imperium Ingot | ![imperium_ingot](../images/mysticalagriculture_imperium_ingot.png) |
-| S | Tertium Crossbow | ![tertium_crossbow](../images/mysticalagriculture_tertium_crossbow.png) |
+| S | Tertium Crossbow | ![tertium_crossbow](../images/mysticalagriculture_tertium_crossbow_arrow.png) |
 
 ---
 ## Imperium Essence
@@ -2066,7 +2066,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_crystals.png) |
+| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_altar_bottom.png) |
 
 ---
 ## Tertium Essence
@@ -2083,7 +2083,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Farmland | ![farmland](../images/mysticalagriculture_farmland.png) |
+| - | Farmland | ![farmland](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Imperium Farmland
@@ -2091,9 +2091,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagriculture_unknown.png) |
+| - | Unknown | ![unknown](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
+| - | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
 ## Imperium Fishing Rod
@@ -2113,7 +2113,7 @@
 | :--- | :--- | :--- |
 | E | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 | I | Imperium Ingot | ![imperium_ingot](../images/mysticalagriculture_imperium_ingot.png) |
-| F | Tertium Furnace | ![tertium_furnace](../images/mysticalagriculture_tertium_furnace.png) |
+| F | Tertium Furnace | ![tertium_furnace](../images/mysticalagriculture_tertium_furnace_front.png) |
 | B | Imperium Block | ![imperium_block](../images/mysticalagriculture_imperium_block.png) |
 
 ---
@@ -2149,7 +2149,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 | D | Imperium Gemstone | ![imperium_gemstone](../images/mysticalagriculture_imperium_gemstone.png) |
 
 ---
@@ -2242,7 +2242,7 @@
 | :--- | :--- | :--- |
 | E | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 | I | Imperium Ingot | ![imperium_ingot](../images/mysticalagriculture_imperium_ingot.png) |
-| F | Tertium Reprocessor | ![tertium_reprocessor](../images/mysticalagriculture_tertium_reprocessor.png) |
+| F | Tertium Reprocessor | ![tertium_reprocessor](../images/mysticalagriculture_tertium_reprocessor_front.png) |
 | B | Imperium Block | ![imperium_block](../images/mysticalagriculture_imperium_block.png) |
 
 ---
@@ -2331,7 +2331,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Axe | ![diamond_axe](../images/mysticalagriculture_diamond_axe.png) |
+| S | Diamond Axe | ![diamond_axe](../images/mysticalagriculture_awakened_supremium_axe.png) |
 
 ---
 ## Inferium Block
@@ -2357,7 +2357,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Boots | ![diamond_boots](../images/mysticalagriculture_diamond_boots.png) |
+| S | Diamond Boots | ![diamond_boots](../images/mysticalagriculture_awakened_supremium_boots.png) |
 
 ---
 ## Inferium Bow
@@ -2367,7 +2367,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Bow | ![bow](../images/mysticalagriculture_bow.png) |
+| S | Bow | ![bow](../images/mysticalagriculture_awakened_supremium_bow.png) |
 
 ---
 ## Inferium Chestplate
@@ -2377,7 +2377,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Chestplate | ![diamond_chestplate](../images/mysticalagriculture_diamond_chestplate.png) |
+| S | Diamond Chestplate | ![diamond_chestplate](../images/mysticalagriculture_awakened_supremium_chestplate.png) |
 
 ---
 ## Inferium Crossbow
@@ -2387,7 +2387,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Crossbow | ![crossbow](../images/mysticalagriculture_crossbow.png) |
+| S | Crossbow | ![crossbow](../images/mysticalagriculture_awakened_supremium_crossbow_arrow.png) |
 
 ---
 ## Inferium Essence
@@ -2404,7 +2404,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Farmland | ![farmland](../images/mysticalagriculture_farmland.png) |
+| - | Farmland | ![farmland](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Inferium Farmland
@@ -2412,9 +2412,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagriculture_unknown.png) |
+| - | Unknown | ![unknown](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
+| - | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
 ## Inferium Fishing Rod
@@ -2424,7 +2424,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Fishing Rod | ![fishing_rod](../images/mysticalagriculture_fishing_rod.png) |
+| S | Fishing Rod | ![fishing_rod](../images/mysticalagriculture_awakened_supremium_fishing_rod.png) |
 
 ---
 ## Inferium Furnace
@@ -2434,7 +2434,7 @@
 | :--- | :--- | :--- |
 | E | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| F | Furnace | ![furnace](../images/mysticalagriculture_furnace.png) |
+| F | Furnace | ![furnace](../images/mysticalagriculture_awakened_supremium_furnace_front.png) |
 | B | Inferium Block | ![inferium_block](../images/mysticalagriculture_inferium_block.png) |
 
 ---
@@ -2470,7 +2470,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 | D | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 
 ---
@@ -2481,7 +2481,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Helmet | ![diamond_helmet](../images/mysticalagriculture_diamond_helmet.png) |
+| S | Diamond Helmet | ![diamond_helmet](../images/mysticalagriculture_awakened_supremium_helmet.png) |
 
 ---
 ## Inferium Hoe
@@ -2491,7 +2491,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| S | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 
 ---
 ## Inferium Ingot
@@ -2543,7 +2543,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Leggings | ![diamond_leggings](../images/mysticalagriculture_diamond_leggings.png) |
+| S | Diamond Leggings | ![diamond_leggings](../images/mysticalagriculture_awakened_supremium_leggings.png) |
 
 ---
 ## Inferium Pickaxe
@@ -2553,7 +2553,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| S | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 
 ---
 ## Inferium Reprocessor
@@ -2563,7 +2563,7 @@
 | :--- | :--- | :--- |
 | E | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| F | Basic Reprocessor | ![basic_reprocessor](../images/mysticalagriculture_basic_reprocessor.png) |
+| F | Basic Reprocessor | ![basic_reprocessor](../images/mysticalagriculture_basic_reprocessor_front.png) |
 | B | Inferium Block | ![inferium_block](../images/mysticalagriculture_inferium_block.png) |
 
 ---
@@ -2574,7 +2574,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Scythes | ![diamond_scythes](../images/mysticalagriculture_diamond_scythes.png) |
+| S | Diamond Scythes | ![diamond_scythes](../images/mysticalagriculture_diamond_essence.png) |
 
 ---
 ## Inferium Seeds
@@ -2583,7 +2583,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| S | Wheat Seeds | ![wheat_seeds](../images/mysticalagriculture_wheat_seeds.png) |
+| S | Wheat Seeds | ![wheat_seeds](../images/mysticalagriculture_amethyst_bronze_seeds.png) |
 
 ---
 ## Inferium Shears
@@ -2593,7 +2593,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Shears | ![shears](../images/mysticalagriculture_shears.png) |
+| S | Shears | ![shears](../images/mysticalagriculture_awakened_supremium_shears.png) |
 
 ---
 ## Inferium Shovel
@@ -2603,7 +2603,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| S | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 
 ---
 ## Inferium Sickle
@@ -2613,7 +2613,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Sickles | ![diamond_sickles](../images/mysticalagriculture_diamond_sickles.png) |
+| S | Diamond Sickles | ![diamond_sickles](../images/mysticalagriculture_diamond_essence.png) |
 
 ---
 ## Inferium Sword
@@ -2623,7 +2623,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Gemstone | ![inferium_gemstone](../images/mysticalagriculture_inferium_gemstone.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| S | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 
 ---
 ## Inferium Upgrade
@@ -2643,7 +2643,7 @@
 | :--- | :--- | :--- |
 | G | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
 | I | Inferium Ingot | ![inferium_ingot](../images/mysticalagriculture_inferium_ingot.png) |
-| S | Watering Cans | ![watering_cans](../images/mysticalagriculture_watering_cans.png) |
+| S | Watering Cans | ![watering_cans](../images/mysticalagriculture_awakened_supremium_watering_can.png) |
 | F | Mystical Fertilizer | ![mystical_fertilizer](../images/mysticalagriculture_mystical_fertilizer.png) |
 
 ---
@@ -2652,8 +2652,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
-| C | Red Wool | ![red_wool](../images/mysticalagriculture_red_wool.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
+| C | Red Wool | ![red_wool](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/mysticalagriculture_ingots/gold.png) |
 
 ---
@@ -2672,8 +2672,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
-| C | Red Wool | ![red_wool](../images/mysticalagriculture_red_wool.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
+| C | Red Wool | ![red_wool](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/mysticalagriculture_ingots/gold.png) |
 
 ---
@@ -2711,7 +2711,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Iridium Essence | ![iridium_essence](../images/mysticalagriculture_iridium_essence.png) |
+| E | Iridium Essence | ![iridium_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Iron Essence
@@ -2749,13 +2749,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -2764,13 +2764,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -2779,13 +2779,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_foot.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/mysticalagriculture_rabbit_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -2812,7 +2812,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Nature Essence | ![nature_essence](../images/mysticalagriculture_nature_essence.png) |
-| W | Water Essence | ![water_essence](../images/mysticalagriculture_water_essence.png) |
+| W | Water Essence | ![water_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Knightmetal Essence
@@ -2842,8 +2842,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Fire Essence | ![fire_essence](../images/mysticalagriculture_fire_essence.png) |
-| B | Bucket | ![bucket](../images/mysticalagriculture_bucket.png) |
+| E | Fire Essence | ![fire_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| B | Bucket | ![bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Lead Essence
@@ -2962,7 +2962,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/mysticalagriculture_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/mysticalagriculture_dusts/redstone.png) |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 
 ---
 ## Magenta Dye
@@ -3100,7 +3100,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Cow Essence | ![cow_essence](../images/mysticalagriculture_cow_essence.png) |
-| B | Bucket | ![bucket](../images/mysticalagriculture_bucket.png) |
+| B | Bucket | ![bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Mining Aoe I Augment
@@ -3108,13 +3108,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -3123,13 +3123,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_iron_pickaxe.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -3138,13 +3138,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -3153,13 +3153,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_diamond_pickaxe.png) |
+| - | Diamond Pickaxe | ![diamond_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -3170,11 +3170,11 @@
 | :--- | :--- | :--- |
 | - | Ingots/Gold | ![ingots/gold](../images/mysticalagriculture_ingots/gold.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Golden Pickaxe | ![golden_pickaxe](../images/mysticalagriculture_golden_pickaxe.png) |
+| - | Golden Pickaxe | ![golden_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/mysticalagriculture_ingots/gold.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Golden Pickaxe | ![golden_pickaxe](../images/mysticalagriculture_golden_pickaxe.png) |
+| - | Golden Pickaxe | ![golden_pickaxe](../images/mysticalagriculture_awakened_supremium_pickaxe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -3190,7 +3190,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Mithril Essence | ![mithril_essence](../images/mysticalagriculture_mithril_essence.png) |
+| E | Mithril Essence | ![mithril_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Mud
@@ -3199,7 +3199,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Dirt Essence | ![dirt_essence](../images/mysticalagriculture_dirt_essence.png) |
-| W | Water Essence | ![water_essence](../images/mysticalagriculture_water_essence.png) |
+| W | Water Essence | ![water_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Music Disc 11
@@ -3366,7 +3366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bone Meal | ![bone_meal](../images/mysticalagriculture_bone_meal.png) |
+| # | Bone Meal | ![bone_meal](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | % | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 | X | Gems/Diamond | ![gems/diamond](../images/mysticalagriculture_gems/diamond.png) |
 
@@ -3393,10 +3393,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cyan Mystical Flower | ![cyan_mystical_flower](../images/mysticalagriculture_cyan_mystical_flower.png) |
-| O | Orange Mystical Flower | ![orange_mystical_flower](../images/mysticalagriculture_orange_mystical_flower.png) |
-| P | Pink Mystical Flower | ![pink_mystical_flower](../images/mysticalagriculture_pink_mystical_flower.png) |
-| R | Red Mystical Flower | ![red_mystical_flower](../images/mysticalagriculture_red_mystical_flower.png) |
+| C | Cyan Mystical Flower | ![cyan_mystical_flower](../images/mysticalagriculture_mystical_flower_agglomeratio.png) |
+| O | Orange Mystical Flower | ![orange_mystical_flower](../images/mysticalagriculture_mystical_flower_agglomeratio.png) |
+| P | Pink Mystical Flower | ![pink_mystical_flower](../images/mysticalagriculture_mystical_flower_agglomeratio.png) |
+| R | Red Mystical Flower | ![red_mystical_flower](../images/mysticalagriculture_mystical_flower_agglomeratio.png) |
 
 ---
 ## Nature Essence
@@ -3411,10 +3411,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pumpkin | ![pumpkin](../images/mysticalagriculture_pumpkin.png) |
-| O | Potato | ![potato](../images/mysticalagriculture_potato.png) |
-| C | Cactus | ![cactus](../images/mysticalagriculture_cactus.png) |
-| S | Sugar Cane | ![sugar_cane](../images/mysticalagriculture_sugar_cane.png) |
+| P | Pumpkin | ![pumpkin](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| O | Potato | ![potato](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| C | Cactus | ![cactus](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| S | Sugar Cane | ![sugar_cane](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Nautilus Shell
@@ -3461,10 +3461,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Netherrack | ![netherrack](../images/mysticalagriculture_netherrack.png) |
-| S | Soul Sand | ![soul_sand](../images/mysticalagriculture_soul_sand.png) |
-| B | Nether Bricks | ![nether_bricks](../images/mysticalagriculture_nether_bricks.png) |
-| W | Nether Wart | ![nether_wart](../images/mysticalagriculture_nether_wart.png) |
+| N | Netherrack | ![netherrack](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| S | Soul Sand | ![soul_sand](../images/mysticalagriculture_soul_dust.png) |
+| B | Nether Bricks | ![nether_bricks](../images/mysticalagriculture_nether_agglomeratio.png) |
+| W | Nether Wart | ![nether_wart](../images/mysticalagriculture_nether_agglomeratio.png) |
 
 ---
 ## Nether Bricks
@@ -3525,13 +3525,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_golden_carrot.png) |
+| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_golden_carrot.png) |
+| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_golden_carrot.png) |
+| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_golden_carrot.png) |
+| - | Golden Carrot | ![golden_carrot](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -3564,11 +3564,11 @@
 | :--- | :--- | :--- |
 | - | Gems/Diamond | ![gems/diamond](../images/mysticalagriculture_gems/diamond.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Wool | ![wool](../images/mysticalagriculture_wool.png) |
+| - | Wool | ![wool](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/mysticalagriculture_gems/diamond.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Wool | ![wool](../images/mysticalagriculture_wool.png) |
+| - | Wool | ![wool](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -3664,13 +3664,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
 
 ---
@@ -3679,13 +3679,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_iron_shovel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -3694,13 +3694,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -3709,13 +3709,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_diamond_shovel.png) |
+| - | Diamond Shovel | ![diamond_shovel](../images/mysticalagriculture_awakened_supremium_shovel.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -3786,7 +3786,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Potato | ![potato](../images/mysticalagriculture_potato.png) |
+| P | Potato | ![potato](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | E | Nature Essence | ![nature_essence](../images/mysticalagriculture_nature_essence.png) |
 
 ---
@@ -3795,13 +3795,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -3832,8 +3832,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/mysticalagriculture_prismarine_crystals.png) |
-| S | Prismarine Shard | ![prismarine_shard](../images/mysticalagriculture_prismarine_shard.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/mysticalagriculture_prismarine_agglomeratio.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/mysticalagriculture_prismarine_agglomeratio.png) |
 
 ---
 ## Prismarine Crystals
@@ -3940,7 +3940,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Prosperity Shard | ![prosperity_shard](../images/mysticalagriculture_prosperity_shard.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/mysticalagriculture_wheat_seeds.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/mysticalagriculture_amethyst_bronze_seeds.png) |
 
 ---
 ## Prosperity Shard
@@ -4023,7 +4023,7 @@
 | :--- | :--- | :--- |
 | G | Prudentium Gemstone | ![prudentium_gemstone](../images/mysticalagriculture_prudentium_gemstone.png) |
 | I | Prudentium Ingot | ![prudentium_ingot](../images/mysticalagriculture_prudentium_ingot.png) |
-| S | Inferium Crossbow | ![inferium_crossbow](../images/mysticalagriculture_inferium_crossbow.png) |
+| S | Inferium Crossbow | ![inferium_crossbow](../images/mysticalagriculture_inferium_crossbow_arrow.png) |
 
 ---
 ## Prudentium Essence
@@ -4032,7 +4032,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Inferium Essence | ![inferium_essence](../images/mysticalagriculture_inferium_essence.png) |
-| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_crystals.png) |
+| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_altar_bottom.png) |
 
 ---
 ## Inferium Essence
@@ -4049,7 +4049,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Farmland | ![farmland](../images/mysticalagriculture_farmland.png) |
+| - | Farmland | ![farmland](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Prudentium Farmland
@@ -4057,9 +4057,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagriculture_unknown.png) |
+| - | Unknown | ![unknown](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
+| - | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
 ## Prudentium Fishing Rod
@@ -4079,7 +4079,7 @@
 | :--- | :--- | :--- |
 | E | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 | I | Prudentium Ingot | ![prudentium_ingot](../images/mysticalagriculture_prudentium_ingot.png) |
-| F | Inferium Furnace | ![inferium_furnace](../images/mysticalagriculture_inferium_furnace.png) |
+| F | Inferium Furnace | ![inferium_furnace](../images/mysticalagriculture_inferium_furnace_front.png) |
 | B | Prudentium Block | ![prudentium_block](../images/mysticalagriculture_prudentium_block.png) |
 
 ---
@@ -4115,7 +4115,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 | D | Prudentium Gemstone | ![prudentium_gemstone](../images/mysticalagriculture_prudentium_gemstone.png) |
 
 ---
@@ -4208,7 +4208,7 @@
 | :--- | :--- | :--- |
 | E | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 | I | Prudentium Ingot | ![prudentium_ingot](../images/mysticalagriculture_prudentium_ingot.png) |
-| F | Inferium Reprocessor | ![inferium_reprocessor](../images/mysticalagriculture_inferium_reprocessor.png) |
+| F | Inferium Reprocessor | ![inferium_reprocessor](../images/mysticalagriculture_inferium_reprocessor_front.png) |
 | B | Prudentium Block | ![prudentium_block](../images/mysticalagriculture_prudentium_block.png) |
 
 ---
@@ -4418,7 +4418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Fire Essence | ![fire_essence](../images/mysticalagriculture_fire_essence.png) |
+| E | Fire Essence | ![fire_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | F | Dirt Essence | ![dirt_essence](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
@@ -4514,7 +4514,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Fire Essence | ![fire_essence](../images/mysticalagriculture_fire_essence.png) |
+| E | Fire Essence | ![fire_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | F | Dirt Essence | ![dirt_essence](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
@@ -4567,7 +4567,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Certus Quartz Essence | ![certus_quartz_essence](../images/mysticalagriculture_certus_quartz_essence.png) |
-| M | Silicon | ![silicon](../images/mysticalagriculture_silicon.png) |
+| M | Silicon | ![silicon](../images/mysticalagriculture_silicon_essence.png) |
 
 ---
 ## Silver Essence
@@ -4666,7 +4666,7 @@
 | :--- | :--- | :--- |
 | D | Soulium Dust | ![soulium_dust](../images/mysticalagriculture_soulium_dust.png) |
 | I | Soulium Ingot | ![soulium_ingot](../images/mysticalagriculture_soulium_ingot.png) |
-| S | Golden Sword | ![golden_sword](../images/mysticalagriculture_golden_sword.png) |
+| S | Golden Sword | ![golden_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 
 ---
 ## Soulium Dust
@@ -5004,7 +5004,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Soul Dust | ![soul_dust](../images/mysticalagriculture_soul_dust.png) |
-| G | Glass | ![glass](../images/mysticalagriculture_glass.png) |
+| G | Glass | ![glass](../images/mysticalagriculture_soul_glass.png) |
 
 ---
 ## Soul Jar
@@ -5029,7 +5029,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Nether Essence | ![nether_essence](../images/mysticalagriculture_nether_essence.png) |
-| F | Fire Essence | ![fire_essence](../images/mysticalagriculture_fire_essence.png) |
+| F | Fire Essence | ![fire_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Soul Soil
@@ -5038,7 +5038,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Nether Essence | ![nether_essence](../images/mysticalagriculture_nether_essence.png) |
-| F | Earth Essence | ![earth_essence](../images/mysticalagriculture_earth_essence.png) |
+| F | Earth Essence | ![earth_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Speed I Augment
@@ -5046,13 +5046,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -5061,13 +5061,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -5076,13 +5076,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Sugar | ![sugar](../images/mysticalagriculture_sugar.png) |
+| - | Sugar | ![sugar](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -5173,7 +5173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Steel Essence | ![steel_essence](../images/mysticalagriculture_steel_essence.png) |
+| E | Steel Essence | ![steel_essence](../images/mysticalagriculture_energized_steel_essence.png) |
 
 ---
 ## Step Assist Augment
@@ -5181,13 +5181,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stairs | ![stairs](../images/mysticalagriculture_stairs.png) |
+| - | Stairs | ![stairs](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Stairs | ![stairs](../images/mysticalagriculture_stairs.png) |
+| - | Stairs | ![stairs](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Stairs | ![stairs](../images/mysticalagriculture_stairs.png) |
+| - | Stairs | ![stairs](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Stairs | ![stairs](../images/mysticalagriculture_stairs.png) |
+| - | Stairs | ![stairs](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -5205,11 +5205,11 @@
 | :--- | :--- | :--- |
 | - | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/mysticalagriculture_storage_blocks/quartz.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 | - | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/mysticalagriculture_storage_blocks/quartz.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -5220,11 +5220,11 @@
 | :--- | :--- | :--- |
 | - | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/mysticalagriculture_storage_blocks/quartz.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 | - | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/mysticalagriculture_storage_blocks/quartz.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_iron_sword.png) |
+| - | Iron Sword | ![iron_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -5235,11 +5235,11 @@
 | :--- | :--- | :--- |
 | - | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/mysticalagriculture_storage_blocks/quartz.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 | - | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/mysticalagriculture_storage_blocks/quartz.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_diamond_sword.png) |
+| - | Diamond Sword | ![diamond_sword](../images/mysticalagriculture_awakened_supremium_sword.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -5337,7 +5337,7 @@
 | :--- | :--- | :--- |
 | G | Supremium Gemstone | ![supremium_gemstone](../images/mysticalagriculture_supremium_gemstone.png) |
 | I | Supremium Ingot | ![supremium_ingot](../images/mysticalagriculture_supremium_ingot.png) |
-| S | Imperium Crossbow | ![imperium_crossbow](../images/mysticalagriculture_imperium_crossbow.png) |
+| S | Imperium Crossbow | ![imperium_crossbow](../images/mysticalagriculture_imperium_crossbow_arrow.png) |
 
 ---
 ## Supremium Essence
@@ -5346,7 +5346,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_crystals.png) |
+| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_altar_bottom.png) |
 
 ---
 ## Imperium Essence
@@ -5363,7 +5363,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Farmland | ![farmland](../images/mysticalagriculture_farmland.png) |
+| - | Farmland | ![farmland](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Supremium Farmland
@@ -5371,9 +5371,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagriculture_unknown.png) |
+| - | Unknown | ![unknown](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
+| - | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
 ## Supremium Fishing Rod
@@ -5393,7 +5393,7 @@
 | :--- | :--- | :--- |
 | E | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 | I | Supremium Ingot | ![supremium_ingot](../images/mysticalagriculture_supremium_ingot.png) |
-| F | Imperium Furnace | ![imperium_furnace](../images/mysticalagriculture_imperium_furnace.png) |
+| F | Imperium Furnace | ![imperium_furnace](../images/mysticalagriculture_imperium_furnace_front.png) |
 | B | Supremium Block | ![supremium_block](../images/mysticalagriculture_supremium_block.png) |
 
 ---
@@ -5429,7 +5429,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 | D | Supremium Gemstone | ![supremium_gemstone](../images/mysticalagriculture_supremium_gemstone.png) |
 
 ---
@@ -5522,7 +5522,7 @@
 | :--- | :--- | :--- |
 | E | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 | I | Supremium Ingot | ![supremium_ingot](../images/mysticalagriculture_supremium_ingot.png) |
-| F | Imperium Reprocessor | ![imperium_reprocessor](../images/mysticalagriculture_imperium_reprocessor.png) |
+| F | Imperium Reprocessor | ![imperium_reprocessor](../images/mysticalagriculture_imperium_reprocessor_front.png) |
 | B | Supremium Block | ![supremium_block](../images/mysticalagriculture_supremium_block.png) |
 
 ---
@@ -5684,7 +5684,7 @@
 | :--- | :--- | :--- |
 | G | Tertium Gemstone | ![tertium_gemstone](../images/mysticalagriculture_tertium_gemstone.png) |
 | I | Tertium Ingot | ![tertium_ingot](../images/mysticalagriculture_tertium_ingot.png) |
-| S | Prudentium Crossbow | ![prudentium_crossbow](../images/mysticalagriculture_prudentium_crossbow.png) |
+| S | Prudentium Crossbow | ![prudentium_crossbow](../images/mysticalagriculture_prudentium_crossbow_arrow.png) |
 
 ---
 ## Tertium Essence
@@ -5693,7 +5693,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_crystals.png) |
+| X | Infusion Crystals | ![infusion_crystals](../images/mysticalagriculture_infusion_altar_bottom.png) |
 
 ---
 ## Prudentium Essence
@@ -5710,7 +5710,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Farmland | ![farmland](../images/mysticalagriculture_farmland.png) |
+| - | Farmland | ![farmland](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Tertium Farmland
@@ -5718,9 +5718,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagriculture_unknown.png) |
+| - | Unknown | ![unknown](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
+| - | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
 
 ---
 ## Tertium Fishing Rod
@@ -5740,7 +5740,7 @@
 | :--- | :--- | :--- |
 | E | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 | I | Tertium Ingot | ![tertium_ingot](../images/mysticalagriculture_tertium_ingot.png) |
-| F | Prudentium Furnace | ![prudentium_furnace](../images/mysticalagriculture_prudentium_furnace.png) |
+| F | Prudentium Furnace | ![prudentium_furnace](../images/mysticalagriculture_prudentium_furnace_front.png) |
 | B | Tertium Block | ![tertium_block](../images/mysticalagriculture_tertium_block.png) |
 
 ---
@@ -5776,7 +5776,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 | D | Tertium Gemstone | ![tertium_gemstone](../images/mysticalagriculture_tertium_gemstone.png) |
 
 ---
@@ -5869,7 +5869,7 @@
 | :--- | :--- | :--- |
 | E | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 | I | Tertium Ingot | ![tertium_ingot](../images/mysticalagriculture_tertium_ingot.png) |
-| F | Prudentium Reprocessor | ![prudentium_reprocessor](../images/mysticalagriculture_prudentium_reprocessor.png) |
+| F | Prudentium Reprocessor | ![prudentium_reprocessor](../images/mysticalagriculture_prudentium_reprocessor_front.png) |
 | B | Tertium Block | ![tertium_block](../images/mysticalagriculture_tertium_block.png) |
 
 ---
@@ -5949,13 +5949,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -5964,13 +5964,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_iron_hoe.png) |
+| - | Iron Hoe | ![iron_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Tertium Essence | ![tertium_essence](../images/mysticalagriculture_tertium_essence.png) |
 
 ---
@@ -5979,13 +5979,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Imperium Essence | ![imperium_essence](../images/mysticalagriculture_imperium_essence.png) |
 
 ---
@@ -5994,13 +5994,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_diamond_hoe.png) |
+| - | Diamond Hoe | ![diamond_hoe](../images/mysticalagriculture_awakened_supremium_hoe.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -6016,7 +6016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/mysticalagriculture_stone.png) |
+| S | Stone | ![stone](../images/mysticalagriculture_sky_stone_essence.png) |
 | D | Soulium Dust | ![soulium_dust](../images/mysticalagriculture_soulium_dust.png) |
 
 ---
@@ -6040,7 +6040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Titanium Essence | ![titanium_essence](../images/mysticalagriculture_titanium_essence.png) |
+| E | Titanium Essence | ![titanium_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## {}
@@ -6083,7 +6083,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Stone Essence | ![stone_essence](../images/mysticalagriculture_stone_essence.png) |
-| A | Fire Essence | ![fire_essence](../images/mysticalagriculture_fire_essence.png) |
+| A | Fire Essence | ![fire_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Tungsten Essence
@@ -6098,7 +6098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Tungsten Essence | ![tungsten_essence](../images/mysticalagriculture_tungsten_essence.png) |
+| E | Tungsten Essence | ![tungsten_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Turtle Essence
@@ -6146,7 +6146,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Uranium Essence | ![uranium_essence](../images/mysticalagriculture_uranium_essence.png) |
+| E | Uranium Essence | ![uranium_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Veridium
@@ -6206,8 +6206,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/mysticalagriculture_ingots/iron.png) |
-| W | Bowl | ![bowl](../images/mysticalagriculture_bowl.png) |
-| B | Bone Meal | ![bone_meal](../images/mysticalagriculture_bone_meal.png) |
+| W | Bowl | ![bowl](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| B | Bone Meal | ![bone_meal](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Water Agglomeratio
@@ -6215,10 +6215,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Water Bucket | ![water_bucket](../images/mysticalagriculture_water_bucket.png) |
-| G | Gravel | ![gravel](../images/mysticalagriculture_gravel.png) |
-| D | Dirt | ![dirt](../images/mysticalagriculture_dirt.png) |
-| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_clay_ball.png) |
+| I | Water Bucket | ![water_bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| G | Gravel | ![gravel](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| D | Dirt | ![dirt](../images/mysticalagriculture_dirt_essence.png) |
+| C | Clay Ball | ![clay_ball](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Water Breathing Augment
@@ -6226,13 +6226,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_pufferfish.png) |
+| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_pufferfish.png) |
+| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_pufferfish.png) |
+| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
-| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_pufferfish.png) |
+| - | Pufferfish | ![pufferfish](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 | - | Prudentium Essence | ![prudentium_essence](../images/mysticalagriculture_prudentium_essence.png) |
 
 ---
@@ -6241,8 +6241,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Water Essence | ![water_essence](../images/mysticalagriculture_water_essence.png) |
-| B | Bucket | ![bucket](../images/mysticalagriculture_bucket.png) |
+| E | Water Essence | ![water_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
+| B | Bucket | ![bucket](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Wheat
@@ -6308,13 +6308,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_agglomeratio.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/mysticalagriculture_wither_skeleton_essence.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
-| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/mysticalagriculture_nether_agglomeratio.png) |
 | - | Supremium Essence | ![supremium_essence](../images/mysticalagriculture_supremium_essence.png) |
 
 ---
@@ -6389,7 +6389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Zinc Essence | ![zinc_essence](../images/mysticalagriculture_zinc_essence.png) |
+| E | Zinc Essence | ![zinc_essence](../images/mysticalagriculture_amethyst_bronze_essence.png) |
 
 ---
 ## Zombie Essence

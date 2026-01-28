@@ -14,7 +14,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Leaves | ![acacia_leaves](../images/immersive_acacia_leaves.png) |
+| # | Acacia Leaves | ![acacia_leaves](../images/immersive_weathering_heavy_acacia_leaves.png) |
 
 ---
 ## {}
@@ -29,8 +29,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Bark | ![acacia_bark](../images/immersive_acacia_bark.png) |
-| - | Stripped Acacia Log | ![stripped_acacia_log](../images/immersive_stripped_acacia_log.png) |
+| - | Acacia Bark | ![acacia_bark](../images/immersive_weathering_acacia_bark.png) |
+| - | Stripped Acacia Log | ![stripped_acacia_log](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Acacia Wood
@@ -38,8 +38,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Bark | ![acacia_bark](../images/immersive_acacia_bark.png) |
-| - | Acacia Log | ![acacia_log](../images/immersive_acacia_log.png) |
+| - | Acacia Bark | ![acacia_bark](../images/immersive_weathering_acacia_bark.png) |
+| - | Acacia Log | ![acacia_log](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Acacia Wood
@@ -47,8 +47,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Bark | ![acacia_bark](../images/immersive_acacia_bark.png) |
-| - | Stripped Acacia Wood | ![stripped_acacia_wood](../images/immersive_stripped_acacia_wood.png) |
+| - | Acacia Bark | ![acacia_bark](../images/immersive_weathering_acacia_bark.png) |
+| - | Stripped Acacia Wood | ![stripped_acacia_wood](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Ash Block
@@ -56,7 +56,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ash Layer Block | ![ash_layer_block](../images/immersive_ash_layer_block.png) |
+| # | Ash Layer Block | ![ash_layer_block](../images/immersive_weathering_ash.png) |
 
 ---
 ## Ash Layer Block
@@ -64,7 +64,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ash Block | ![ash_block](../images/immersive_ash_block.png) |
+| # | Ash Block | ![ash_block](../images/immersive_weathering_ash.png) |
 
 ---
 ## {}
@@ -79,7 +79,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Azalea Flowers | ![azalea_flowers](../images/immersive_azalea_flowers.png) |
+| # | Azalea Flowers | ![azalea_flowers](../images/immersive_weathering_azalea_flowers.png) |
 
 ---
 ## Azalea Leaf Pile
@@ -87,7 +87,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Azalea Leaves | ![azalea_leaves](../images/immersive_azalea_leaves.png) |
+| # | Azalea Leaves | ![azalea_leaves](../images/immersive_weathering_heavy_azalea_leaves.png) |
 
 ---
 ## {}
@@ -109,7 +109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Leaves | ![birch_leaves](../images/immersive_birch_leaves.png) |
+| # | Birch Leaves | ![birch_leaves](../images/immersive_weathering_heavy_birch_leaves.png) |
 
 ---
 ## {}
@@ -124,8 +124,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Bark | ![birch_bark](../images/immersive_birch_bark.png) |
-| - | Stripped Birch Log | ![stripped_birch_log](../images/immersive_stripped_birch_log.png) |
+| - | Birch Bark | ![birch_bark](../images/immersive_weathering_birch_bark.png) |
+| - | Stripped Birch Log | ![stripped_birch_log](../images/immersive_weathering_birch_bark.png) |
 
 ---
 ## Birch Wood
@@ -133,8 +133,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Bark | ![birch_bark](../images/immersive_birch_bark.png) |
-| - | Birch Log | ![birch_log](../images/immersive_birch_log.png) |
+| - | Birch Bark | ![birch_bark](../images/immersive_weathering_birch_bark.png) |
+| - | Birch Log | ![birch_log](../images/immersive_weathering_birch_bark.png) |
 
 ---
 ## Birch Wood
@@ -142,8 +142,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Bark | ![birch_bark](../images/immersive_birch_bark.png) |
-| - | Stripped Birch Wood | ![stripped_birch_wood](../images/immersive_stripped_birch_wood.png) |
+| - | Birch Bark | ![birch_bark](../images/immersive_weathering_birch_bark.png) |
+| - | Stripped Birch Wood | ![stripped_birch_wood](../images/immersive_weathering_birch_bark.png) |
 
 ---
 ## {}
@@ -165,7 +165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blackstone Brick | ![blackstone_brick](../images/immersive_blackstone_brick.png) |
+| S | Blackstone Brick | ![blackstone_brick](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Blackstone Brick
@@ -173,7 +173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone | ![polished_blackstone](../images/immersive_polished_blackstone.png) |
+| item | Polished Blackstone | ![polished_blackstone](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Black Dye
@@ -181,7 +181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soot | ![soot](../images/immersive_soot.png) |
+| - | Soot | ![soot](../images/immersive_weathering_soot.png) |
 
 ---
 ## Brain Coral Block
@@ -189,7 +189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coral | ![brain_coral](../images/immersive_brain_coral.png) |
+| # | Brain Coral | ![brain_coral](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -211,7 +211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/immersive_bricks.png) |
+| item | Bricks | ![bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Bubble Coral Block
@@ -219,7 +219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coral | ![bubble_coral](../images/immersive_bubble_coral.png) |
+| # | Bubble Coral | ![bubble_coral](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Candle
@@ -227,8 +227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/immersive_string.png) |
-| # | Tallow | ![tallow](../images/immersive_tallow.png) |
+| S | String | ![string](../images/immersive_weathering_acacia_bark.png) |
+| # | Tallow | ![tallow](../images/immersive_weathering_tallow.png) |
 
 ---
 ## Charred Fence
@@ -236,7 +236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Flammable Fences | ![flammable_fences](../images/immersive_flammable_fences.png) |
+| tag | Flammable Fences | ![flammable_fences](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Charred Fence Gate
@@ -244,7 +244,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Flammable Fence Gates | ![flammable_fence_gates](../images/immersive_flammable_fence_gates.png) |
+| tag | Flammable Fence Gates | ![flammable_fence_gates](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Charred Planks
@@ -252,7 +252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Flammable Planks | ![flammable_planks](../images/immersive_flammable_planks.png) |
+| tag | Flammable Planks | ![flammable_planks](../images/immersive_weathering_charred_planks.png) |
 
 ---
 ## Charred Slab
@@ -260,7 +260,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Flammable Slabs | ![flammable_slabs](../images/immersive_flammable_slabs.png) |
+| tag | Flammable Slabs | ![flammable_slabs](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Charred Stairs
@@ -268,7 +268,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Flammable Stairs | ![flammable_stairs](../images/immersive_flammable_stairs.png) |
+| tag | Flammable Stairs | ![flammable_stairs](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Chiseled Prismarine Bricks
@@ -276,7 +276,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Prismarine Brick Slab | ![prismarine_brick_slab](../images/immersive_prismarine_brick_slab.png) |
+| S | Prismarine Brick Slab | ![prismarine_brick_slab](../images/immersive_weathering_prismarine_brick.png) |
 
 ---
 ## Chiseled Prismarine Bricks
@@ -284,7 +284,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/immersive_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Cracked Bricks
@@ -292,7 +292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/immersive_bricks.png) |
+| item | Bricks | ![bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Cracked Brick Slab
@@ -300,7 +300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| # | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Brick Slab
@@ -308,7 +308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brick Slab | ![brick_slab](../images/immersive_brick_slab.png) |
+| item | Brick Slab | ![brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Brick Slab
@@ -316,7 +316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| item | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Brick Stairs
@@ -324,7 +324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| # | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Brick Stairs
@@ -332,7 +332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brick Stairs | ![brick_stairs](../images/immersive_brick_stairs.png) |
+| item | Brick Stairs | ![brick_stairs](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Brick Stairs
@@ -340,7 +340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| item | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Brick Vertical Slab
@@ -348,7 +348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Brick Slab | ![cracked_brick_slab](../images/immersive_cracked_brick_slab.png) |
+| # | Cracked Brick Slab | ![cracked_brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Brick Vertical Slab
@@ -356,7 +356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| item | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Brick Slab
@@ -364,7 +364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Brick Vertical Slab | ![cracked_brick_vertical_slab](../images/immersive_cracked_brick_vertical_slab.png) |
+| - | Cracked Brick Vertical Slab | ![cracked_brick_vertical_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Brick Wall
@@ -372,7 +372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| # | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Brick Wall
@@ -380,7 +380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brick Wall | ![brick_wall](../images/immersive_brick_wall.png) |
+| item | Brick Wall | ![brick_wall](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Brick Wall
@@ -388,7 +388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Bricks | ![cracked_bricks](../images/immersive_cracked_bricks.png) |
+| item | Cracked Bricks | ![cracked_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Slab
@@ -396,7 +396,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| # | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Slab
@@ -404,7 +404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Brick Slab | ![deepslate_brick_slab](../images/immersive_deepslate_brick_slab.png) |
+| item | Deepslate Brick Slab | ![deepslate_brick_slab](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Cracked Deepslate Brick Slab
@@ -412,7 +412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Stairs
@@ -420,7 +420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| # | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Stairs
@@ -428,7 +428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Brick Stairs | ![deepslate_brick_stairs](../images/immersive_deepslate_brick_stairs.png) |
+| item | Deepslate Brick Stairs | ![deepslate_brick_stairs](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Cracked Deepslate Brick Stairs
@@ -436,7 +436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Vertical Slab
@@ -444,7 +444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Brick Slab | ![cracked_deepslate_brick_slab](../images/immersive_cracked_deepslate_brick_slab.png) |
+| # | Cracked Deepslate Brick Slab | ![cracked_deepslate_brick_slab](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Cracked Deepslate Brick Vertical Slab
@@ -452,7 +452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Slab
@@ -460,7 +460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Deepslate Brick Vertical Slab | ![cracked_deepslate_brick_vertical_slab](../images/immersive_cracked_deepslate_brick_vertical_slab.png) |
+| - | Cracked Deepslate Brick Vertical Slab | ![cracked_deepslate_brick_vertical_slab](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Cracked Deepslate Brick Wall
@@ -468,7 +468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| # | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Brick Wall
@@ -476,7 +476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Brick Wall | ![deepslate_brick_wall](../images/immersive_deepslate_brick_wall.png) |
+| item | Deepslate Brick Wall | ![deepslate_brick_wall](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Cracked Deepslate Brick Wall
@@ -484,7 +484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_cracked_deepslate_bricks.png) |
+| item | Cracked Deepslate Bricks | ![cracked_deepslate_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Slab
@@ -492,7 +492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| # | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Slab
@@ -500,7 +500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Tile Slab | ![deepslate_tile_slab](../images/immersive_deepslate_tile_slab.png) |
+| item | Deepslate Tile Slab | ![deepslate_tile_slab](../images/immersive_weathering_deepslate_tile.png) |
 
 ---
 ## Cracked Deepslate Tile Slab
@@ -508,7 +508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Stairs
@@ -516,7 +516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| # | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Stairs
@@ -524,7 +524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Tile Stairs | ![deepslate_tile_stairs](../images/immersive_deepslate_tile_stairs.png) |
+| item | Deepslate Tile Stairs | ![deepslate_tile_stairs](../images/immersive_weathering_deepslate_tile.png) |
 
 ---
 ## Cracked Deepslate Tile Stairs
@@ -532,7 +532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Vertical Slab
@@ -540,7 +540,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Tile Slab | ![cracked_deepslate_tile_slab](../images/immersive_cracked_deepslate_tile_slab.png) |
+| # | Cracked Deepslate Tile Slab | ![cracked_deepslate_tile_slab](../images/immersive_weathering_deepslate_tile.png) |
 
 ---
 ## Cracked Deepslate Tile Vertical Slab
@@ -548,7 +548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Slab
@@ -556,7 +556,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Deepslate Tile Vertical Slab | ![cracked_deepslate_tile_vertical_slab](../images/immersive_cracked_deepslate_tile_vertical_slab.png) |
+| - | Cracked Deepslate Tile Vertical Slab | ![cracked_deepslate_tile_vertical_slab](../images/immersive_weathering_deepslate_tile.png) |
 
 ---
 ## Cracked Deepslate Tile Wall
@@ -564,7 +564,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| # | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Deepslate Tile Wall
@@ -572,7 +572,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Tile Wall | ![deepslate_tile_wall](../images/immersive_deepslate_tile_wall.png) |
+| item | Deepslate Tile Wall | ![deepslate_tile_wall](../images/immersive_weathering_deepslate_tile.png) |
 
 ---
 ## Cracked Deepslate Tile Wall
@@ -580,7 +580,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_cracked_deepslate_tiles.png) |
+| item | Cracked Deepslate Tiles | ![cracked_deepslate_tiles](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked End Stone Bricks
@@ -588,7 +588,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Bricks | ![end_stone_bricks](../images/immersive_end_stone_bricks.png) |
+| item | End Stone Bricks | ![end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Slab
@@ -596,7 +596,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| # | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Slab
@@ -604,7 +604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Brick Slab | ![end_stone_brick_slab](../images/immersive_end_stone_brick_slab.png) |
+| item | End Stone Brick Slab | ![end_stone_brick_slab](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Cracked End Stone Brick Slab
@@ -612,7 +612,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Stairs
@@ -620,7 +620,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| # | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Stairs
@@ -628,7 +628,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Brick Stairs | ![end_stone_brick_stairs](../images/immersive_end_stone_brick_stairs.png) |
+| item | End Stone Brick Stairs | ![end_stone_brick_stairs](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Cracked End Stone Brick Stairs
@@ -636,7 +636,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Vertical Slab
@@ -644,7 +644,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked End Stone Brick Slab | ![cracked_end_stone_brick_slab](../images/immersive_cracked_end_stone_brick_slab.png) |
+| # | Cracked End Stone Brick Slab | ![cracked_end_stone_brick_slab](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Vertical Slab
@@ -652,7 +652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Slab
@@ -660,7 +660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked End Stone Brick Vertical Slab | ![cracked_end_stone_brick_vertical_slab](../images/immersive_cracked_end_stone_brick_vertical_slab.png) |
+| - | Cracked End Stone Brick Vertical Slab | ![cracked_end_stone_brick_vertical_slab](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Wall
@@ -668,7 +668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| # | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked End Stone Brick Wall
@@ -676,7 +676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Brick Wall | ![end_stone_brick_wall](../images/immersive_end_stone_brick_wall.png) |
+| item | End Stone Brick Wall | ![end_stone_brick_wall](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Cracked End Stone Brick Wall
@@ -684,7 +684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_cracked_end_stone_bricks.png) |
+| item | Cracked End Stone Bricks | ![cracked_end_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Mud
@@ -692,7 +692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Clay | ![clay](../images/immersive_clay.png) |
+| item | Clay | ![clay](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Cracked Nether Brick Slab
@@ -700,7 +700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| # | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Nether Brick Slab
@@ -708,7 +708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Brick Slab | ![nether_brick_slab](../images/immersive_nether_brick_slab.png) |
+| item | Nether Brick Slab | ![nether_brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Nether Brick Slab
@@ -716,7 +716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Nether Brick Stairs
@@ -724,7 +724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| # | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Nether Brick Stairs
@@ -732,7 +732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Brick Stairs | ![nether_brick_stairs](../images/immersive_nether_brick_stairs.png) |
+| item | Nether Brick Stairs | ![nether_brick_stairs](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Nether Brick Stairs
@@ -740,7 +740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Nether Brick Vertical Slab
@@ -748,7 +748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Nether Brick Slab | ![cracked_nether_brick_slab](../images/immersive_cracked_nether_brick_slab.png) |
+| # | Cracked Nether Brick Slab | ![cracked_nether_brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Nether Brick Vertical Slab
@@ -756,7 +756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Nether Brick Slab
@@ -764,7 +764,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Nether Brick Vertical Slab | ![cracked_nether_brick_vertical_slab](../images/immersive_cracked_nether_brick_vertical_slab.png) |
+| - | Cracked Nether Brick Vertical Slab | ![cracked_nether_brick_vertical_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Nether Brick Wall
@@ -772,7 +772,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| # | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Nether Brick Wall
@@ -780,7 +780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Brick Wall | ![nether_brick_wall](../images/immersive_nether_brick_wall.png) |
+| item | Nether Brick Wall | ![nether_brick_wall](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Nether Brick Wall
@@ -788,7 +788,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_cracked_nether_bricks.png) |
+| item | Cracked Nether Bricks | ![cracked_nether_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Slab
@@ -796,7 +796,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Slab
@@ -804,7 +804,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone Brick Slab | ![polished_blackstone_brick_slab](../images/immersive_polished_blackstone_brick_slab.png) |
+| item | Polished Blackstone Brick Slab | ![polished_blackstone_brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Slab
@@ -812,7 +812,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Stairs
@@ -820,7 +820,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Stairs
@@ -828,7 +828,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone Brick Stairs | ![polished_blackstone_brick_stairs](../images/immersive_polished_blackstone_brick_stairs.png) |
+| item | Polished Blackstone Brick Stairs | ![polished_blackstone_brick_stairs](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Stairs
@@ -836,7 +836,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Vertical Slab
@@ -844,7 +844,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Polished Blackstone Brick Slab | ![cracked_polished_blackstone_brick_slab](../images/immersive_cracked_polished_blackstone_brick_slab.png) |
+| # | Cracked Polished Blackstone Brick Slab | ![cracked_polished_blackstone_brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Vertical Slab
@@ -852,7 +852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Slab
@@ -860,7 +860,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Polished Blackstone Brick Vertical Slab | ![cracked_polished_blackstone_brick_vertical_slab](../images/immersive_cracked_polished_blackstone_brick_vertical_slab.png) |
+| - | Cracked Polished Blackstone Brick Vertical Slab | ![cracked_polished_blackstone_brick_vertical_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Wall
@@ -868,7 +868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Wall
@@ -876,7 +876,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Blackstone Brick Wall | ![polished_blackstone_brick_wall](../images/immersive_polished_blackstone_brick_wall.png) |
+| item | Polished Blackstone Brick Wall | ![polished_blackstone_brick_wall](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Cracked Polished Blackstone Brick Wall
@@ -884,7 +884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_cracked_polished_blackstone_bricks.png) |
+| item | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/immersive_weathering_cracked_bricks.png) |
 
 ---
 ## Cracked Prismarine Bricks
@@ -892,7 +892,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/immersive_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Slab
@@ -900,7 +900,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| # | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Slab
@@ -908,7 +908,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Brick Slab | ![prismarine_brick_slab](../images/immersive_prismarine_brick_slab.png) |
+| item | Prismarine Brick Slab | ![prismarine_brick_slab](../images/immersive_weathering_prismarine_brick.png) |
 
 ---
 ## Cracked Prismarine Brick Slab
@@ -916,7 +916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Stairs
@@ -924,7 +924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| # | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Stairs
@@ -932,7 +932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Brick Stairs | ![prismarine_brick_stairs](../images/immersive_prismarine_brick_stairs.png) |
+| item | Prismarine Brick Stairs | ![prismarine_brick_stairs](../images/immersive_weathering_prismarine_brick.png) |
 
 ---
 ## Cracked Prismarine Brick Stairs
@@ -940,7 +940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Vertical Slab
@@ -948,7 +948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Prismarine Brick Slab | ![cracked_prismarine_brick_slab](../images/immersive_cracked_prismarine_brick_slab.png) |
+| # | Cracked Prismarine Brick Slab | ![cracked_prismarine_brick_slab](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Vertical Slab
@@ -956,7 +956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Slab
@@ -964,7 +964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Prismarine Brick Vertical Slab | ![cracked_prismarine_brick_vertical_slab](../images/immersive_cracked_prismarine_brick_vertical_slab.png) |
+| - | Cracked Prismarine Brick Vertical Slab | ![cracked_prismarine_brick_vertical_slab](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Wall
@@ -972,7 +972,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| # | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Prismarine Brick Wall
@@ -980,7 +980,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Brick Wall | ![prismarine_brick_wall](../images/immersive_prismarine_brick_wall.png) |
+| item | Prismarine Brick Wall | ![prismarine_brick_wall](../images/immersive_weathering_prismarine_brick.png) |
 
 ---
 ## Cracked Prismarine Brick Wall
@@ -988,7 +988,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_cracked_prismarine_bricks.png) |
+| item | Cracked Prismarine Bricks | ![cracked_prismarine_bricks](../images/immersive_weathering_cracked_prismarine_bricks.png) |
 
 ---
 ## Cracked Stone Brick Slab
@@ -996,7 +996,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| # | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Slab
@@ -1004,7 +1004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Brick Slab | ![stone_brick_slab](../images/immersive_stone_brick_slab.png) |
+| item | Stone Brick Slab | ![stone_brick_slab](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Cracked Stone Brick Slab
@@ -1012,7 +1012,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Stairs
@@ -1020,7 +1020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| # | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Stairs
@@ -1028,7 +1028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Brick Stairs | ![stone_brick_stairs](../images/immersive_stone_brick_stairs.png) |
+| item | Stone Brick Stairs | ![stone_brick_stairs](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Cracked Stone Brick Stairs
@@ -1036,7 +1036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Vertical Slab
@@ -1044,7 +1044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Stone Brick Slab | ![cracked_stone_brick_slab](../images/immersive_cracked_stone_brick_slab.png) |
+| # | Cracked Stone Brick Slab | ![cracked_stone_brick_slab](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Vertical Slab
@@ -1052,7 +1052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Slab
@@ -1060,7 +1060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cracked Stone Brick Vertical Slab | ![cracked_stone_brick_vertical_slab](../images/immersive_cracked_stone_brick_vertical_slab.png) |
+| - | Cracked Stone Brick Vertical Slab | ![cracked_stone_brick_vertical_slab](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Wall
@@ -1068,7 +1068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| # | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Cracked Stone Brick Wall
@@ -1076,7 +1076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Brick Wall | ![stone_brick_wall](../images/immersive_stone_brick_wall.png) |
+| item | Stone Brick Wall | ![stone_brick_wall](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Cracked Stone Brick Wall
@@ -1084,7 +1084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_cracked_stone_bricks.png) |
+| item | Cracked Stone Bricks | ![cracked_stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Crimson Hyphae
@@ -1092,8 +1092,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Scales | ![crimson_scales](../images/immersive_crimson_scales.png) |
-| - | Crimson Stem | ![crimson_stem](../images/immersive_crimson_stem.png) |
+| - | Crimson Scales | ![crimson_scales](../images/immersive_weathering_crimson_scales.png) |
+| - | Crimson Stem | ![crimson_stem](../images/immersive_weathering_crimson_scales.png) |
 
 ---
 ## Crimson Hyphae
@@ -1101,8 +1101,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Scales | ![crimson_scales](../images/immersive_crimson_scales.png) |
-| - | Stripped Crimson Hyphae | ![stripped_crimson_hyphae](../images/immersive_stripped_crimson_hyphae.png) |
+| - | Crimson Scales | ![crimson_scales](../images/immersive_weathering_crimson_scales.png) |
+| - | Stripped Crimson Hyphae | ![stripped_crimson_hyphae](../images/immersive_weathering_crimson_scales.png) |
 
 ---
 ## {}
@@ -1117,8 +1117,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Scales | ![crimson_scales](../images/immersive_crimson_scales.png) |
-| - | Stripped Crimson Stem | ![stripped_crimson_stem](../images/immersive_stripped_crimson_stem.png) |
+| - | Crimson Scales | ![crimson_scales](../images/immersive_weathering_crimson_scales.png) |
+| - | Stripped Crimson Stem | ![stripped_crimson_stem](../images/immersive_weathering_crimson_scales.png) |
 
 ---
 ## Cryosol
@@ -1126,8 +1126,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost | ![permafrost](../images/immersive_permafrost.png) |
-| D | Dirt | ![dirt](../images/immersive_dirt.png) |
+| # | Permafrost | ![permafrost](../images/immersive_weathering_permafrost.png) |
+| D | Dirt | ![dirt](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Cut Iron
@@ -1135,7 +1135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| # | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Cut Iron
@@ -1143,7 +1143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Cut Iron Slab
@@ -1151,7 +1151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Iron | ![cut_iron](../images/immersive_cut_iron.png) |
+| # | Cut Iron | ![cut_iron](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Cut Iron Slab
@@ -1159,7 +1159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Iron | ![cut_iron](../images/immersive_cut_iron.png) |
+| item | Cut Iron | ![cut_iron](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Cut Iron Slab
@@ -1167,7 +1167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Cut Iron Stairs
@@ -1175,7 +1175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Iron | ![cut_iron](../images/immersive_cut_iron.png) |
+| # | Cut Iron | ![cut_iron](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Cut Iron Stairs
@@ -1183,7 +1183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Iron | ![cut_iron](../images/immersive_cut_iron.png) |
+| item | Cut Iron | ![cut_iron](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Cut Iron Stairs
@@ -1191,7 +1191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Cut Iron Vertical Slab
@@ -1199,7 +1199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Iron Slab | ![cut_iron_slab](../images/immersive_cut_iron_slab.png) |
+| # | Cut Iron Slab | ![cut_iron_slab](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Cut Iron Vertical Slab
@@ -1207,7 +1207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cut Iron | ![cut_iron](../images/immersive_cut_iron.png) |
+| item | Cut Iron | ![cut_iron](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Cut Iron Vertical Slab
@@ -1215,7 +1215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Cut Iron Slab
@@ -1223,7 +1223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Iron Vertical Slab | ![cut_iron_vertical_slab](../images/immersive_cut_iron_vertical_slab.png) |
+| - | Cut Iron Vertical Slab | ![cut_iron_vertical_slab](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## {}
@@ -1238,7 +1238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Leaves | ![dark_oak_leaves](../images/immersive_dark_oak_leaves.png) |
+| # | Dark Oak Leaves | ![dark_oak_leaves](../images/immersive_weathering_dark_oak_branch_leaves.png) |
 
 ---
 ## {}
@@ -1253,8 +1253,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Bark | ![dark_oak_bark](../images/immersive_dark_oak_bark.png) |
-| - | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/immersive_stripped_dark_oak_log.png) |
+| - | Dark Oak Bark | ![dark_oak_bark](../images/immersive_weathering_dark_oak_bark.png) |
+| - | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/immersive_weathering_dark_oak_bark.png) |
 
 ---
 ## Dark Oak Wood
@@ -1262,8 +1262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Bark | ![dark_oak_bark](../images/immersive_dark_oak_bark.png) |
-| - | Dark Oak Log | ![dark_oak_log](../images/immersive_dark_oak_log.png) |
+| - | Dark Oak Bark | ![dark_oak_bark](../images/immersive_weathering_dark_oak_bark.png) |
+| - | Dark Oak Log | ![dark_oak_log](../images/immersive_weathering_dark_oak_bark.png) |
 
 ---
 ## Dark Oak Wood
@@ -1271,8 +1271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Bark | ![dark_oak_bark](../images/immersive_dark_oak_bark.png) |
-| - | Stripped Dark Oak Wood | ![stripped_dark_oak_wood](../images/immersive_stripped_dark_oak_wood.png) |
+| - | Dark Oak Bark | ![dark_oak_bark](../images/immersive_weathering_dark_oak_bark.png) |
+| - | Stripped Dark Oak Wood | ![stripped_dark_oak_wood](../images/immersive_weathering_dark_oak_bark.png) |
 
 ---
 ## Dark Prismarine Wall
@@ -1280,7 +1280,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Prismarine | ![dark_prismarine](../images/immersive_dark_prismarine.png) |
+| S | Dark Prismarine | ![dark_prismarine](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Dark Prismarine Wall
@@ -1288,7 +1288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/immersive_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## {}
@@ -1310,7 +1310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Deepslate Brick | ![deepslate_brick](../images/immersive_deepslate_brick.png) |
+| S | Deepslate Brick | ![deepslate_brick](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Deepslate Brick
@@ -1318,7 +1318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobbled Deepslate | ![cobbled_deepslate](../images/immersive_cobbled_deepslate.png) |
+| item | Cobbled Deepslate | ![cobbled_deepslate](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Deepslate Brick
@@ -1326,7 +1326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/immersive_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## {}
@@ -1348,7 +1348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Deepslate Tile | ![deepslate_tile](../images/immersive_deepslate_tile.png) |
+| S | Deepslate Tile | ![deepslate_tile](../images/immersive_weathering_deepslate_tile.png) |
 
 ---
 ## Deepslate Tile
@@ -1356,7 +1356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobbled Deepslate | ![cobbled_deepslate](../images/immersive_cobbled_deepslate.png) |
+| item | Cobbled Deepslate | ![cobbled_deepslate](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## Deepslate Tile
@@ -1364,7 +1364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/immersive_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/immersive_weathering_deepslate_brick.png) |
 
 ---
 ## {}
@@ -1386,7 +1386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | End Stone Brick | ![end_stone_brick](../images/immersive_end_stone_brick.png) |
+| S | End Stone Brick | ![end_stone_brick](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## End Stone Brick
@@ -1394,7 +1394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone | ![end_stone](../images/immersive_end_stone.png) |
+| item | End Stone | ![end_stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Exposed Cut Iron
@@ -1402,7 +1402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| # | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Cut Iron
@@ -1410,7 +1410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Cut Iron Slab
@@ -1418,7 +1418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_exposed_cut_iron.png) |
+| # | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Exposed Cut Iron Slab
@@ -1426,7 +1426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_exposed_cut_iron.png) |
+| item | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Exposed Cut Iron Slab
@@ -1434,7 +1434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Cut Iron Stairs
@@ -1442,7 +1442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_exposed_cut_iron.png) |
+| # | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Exposed Cut Iron Stairs
@@ -1450,7 +1450,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_exposed_cut_iron.png) |
+| item | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Exposed Cut Iron Stairs
@@ -1458,7 +1458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Cut Iron Vertical Slab
@@ -1466,7 +1466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Cut Iron Slab | ![exposed_cut_iron_slab](../images/immersive_exposed_cut_iron_slab.png) |
+| # | Exposed Cut Iron Slab | ![exposed_cut_iron_slab](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Exposed Cut Iron Vertical Slab
@@ -1474,7 +1474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_exposed_cut_iron.png) |
+| item | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Exposed Cut Iron Vertical Slab
@@ -1482,7 +1482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Cut Iron Slab
@@ -1490,7 +1490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Iron Vertical Slab | ![exposed_cut_iron_vertical_slab](../images/immersive_exposed_cut_iron_vertical_slab.png) |
+| - | Exposed Cut Iron Vertical Slab | ![exposed_cut_iron_vertical_slab](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## {}
@@ -1505,7 +1505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| # | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Plate Iron Slab
@@ -1513,7 +1513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Plate Iron Stairs
@@ -1521,7 +1521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| # | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Plate Iron Stairs
@@ -1529,7 +1529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Plate Iron Vertical Slab
@@ -1537,7 +1537,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Exposed Plate Iron Slab | ![exposed_plate_iron_slab](../images/immersive_exposed_plate_iron_slab.png) |
+| # | Exposed Plate Iron Slab | ![exposed_plate_iron_slab](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Plate Iron Vertical Slab
@@ -1545,7 +1545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
+| item | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Exposed Plate Iron Slab
@@ -1553,7 +1553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Plate Iron Vertical Slab | ![exposed_plate_iron_vertical_slab](../images/immersive_exposed_plate_iron_vertical_slab.png) |
+| - | Exposed Plate Iron Vertical Slab | ![exposed_plate_iron_vertical_slab](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Fire Coral Block
@@ -1561,7 +1561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coral | ![fire_coral](../images/immersive_fire_coral.png) |
+| # | Fire Coral | ![fire_coral](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Flowering Azalea
@@ -1569,8 +1569,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Flowers | ![azalea_flowers](../images/immersive_azalea_flowers.png) |
-| - | Azalea | ![azalea](../images/immersive_azalea.png) |
+| - | Azalea Flowers | ![azalea_flowers](../images/immersive_weathering_azalea_flowers.png) |
+| - | Azalea | ![azalea](../images/immersive_weathering_azalea_flowers.png) |
 
 ---
 ## Flowering Azalea Leaf Pile
@@ -1578,7 +1578,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/immersive_flowering_azalea_leaves.png) |
+| # | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/immersive_weathering_heavy_flowering_azalea_leaves.png) |
 
 ---
 ## Flowering Azalea Leaf Pile
@@ -1586,8 +1586,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Flowers | ![azalea_flowers](../images/immersive_azalea_flowers.png) |
-| - | Azalea Leaf Pile | ![azalea_leaf_pile](../images/immersive_azalea_leaf_pile.png) |
+| - | Azalea Flowers | ![azalea_flowers](../images/immersive_weathering_azalea_flowers.png) |
+| - | Azalea Leaf Pile | ![azalea_leaf_pile](../images/immersive_weathering_azalea_flowers.png) |
 
 ---
 ## Flowering Azalea Leaves
@@ -1595,8 +1595,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azalea Flowers | ![azalea_flowers](../images/immersive_azalea_flowers.png) |
-| - | Azalea Leaves | ![azalea_leaves](../images/immersive_azalea_leaves.png) |
+| - | Azalea Flowers | ![azalea_flowers](../images/immersive_weathering_azalea_flowers.png) |
+| - | Azalea Leaves | ![azalea_leaves](../images/immersive_weathering_heavy_azalea_leaves.png) |
 
 ---
 ## Flower Crown
@@ -1604,7 +1604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Azalea Flowers | ![azalea_flowers](../images/immersive_azalea_flowers.png) |
+| # | Azalea Flowers | ![azalea_flowers](../images/immersive_weathering_azalea_flowers.png) |
 
 ---
 ## Fluvisol
@@ -1612,8 +1612,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silt | ![silt](../images/immersive_silt.png) |
-| D | Dirt | ![dirt](../images/immersive_dirt.png) |
+| # | Silt | ![silt](../images/immersive_weathering_silt.png) |
+| D | Dirt | ![dirt](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Frosty Glass
@@ -1621,8 +1621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frost | ![frost](../images/immersive_frost.png) |
-| - | Glass | ![glass](../images/immersive_glass.png) |
+| - | Frost | ![frost](../images/immersive_weathering_frost.png) |
+| - | Glass | ![glass](../images/immersive_weathering_frosty_glass.png) |
 
 ---
 ## Frosty Glass Pane
@@ -1630,8 +1630,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frost | ![frost](../images/immersive_frost.png) |
-| - | Glass Pane | ![glass_pane](../images/immersive_glass_pane.png) |
+| - | Frost | ![frost](../images/immersive_weathering_frost.png) |
+| - | Glass Pane | ![glass_pane](../images/immersive_weathering_frosty_glass.png) |
 
 ---
 ## Frosty Glass Pane
@@ -1639,7 +1639,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Frosty Glass | ![frosty_glass](../images/immersive_frosty_glass.png) |
+| # | Frosty Glass | ![frosty_glass](../images/immersive_weathering_frosty_glass.png) |
 
 ---
 ## Frosty Grass
@@ -1647,8 +1647,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frost | ![frost](../images/immersive_frost.png) |
-| - | Grass | ![grass](../images/immersive_grass.png) |
+| - | Frost | ![frost](../images/immersive_weathering_frost.png) |
+| - | Grass | ![grass](../images/immersive_weathering_frosty_grass.png) |
 
 ---
 ## Glass
@@ -1656,7 +1656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Vitrified Sand | ![vitrified_sand](../images/immersive_vitrified_sand.png) |
+| item | Vitrified Sand | ![vitrified_sand](../images/immersive_weathering_vitrified_sand.png) |
 
 ---
 ## Golden Moss Clump
@@ -1664,8 +1664,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
-| I | Gold Ingot | ![gold_ingot](../images/immersive_gold_ingot.png) |
+| # | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
+| I | Gold Ingot | ![gold_ingot](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Green Dye
@@ -1673,7 +1673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| item | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## {}
@@ -1688,7 +1688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coral | ![horn_coral](../images/immersive_horn_coral.png) |
+| # | Horn Coral | ![horn_coral](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Ice Sickle
@@ -1696,8 +1696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Icicle | ![icicle](../images/immersive_icicle.png) |
-| I | Stick | ![stick](../images/immersive_stick.png) |
+| # | Icicle | ![icicle](../images/immersive_weathering_icicle.png) |
+| I | Stick | ![stick](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -1712,7 +1712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Clean Iron Smelting | ![clean_iron_smelting](../images/immersive_clean_iron_smelting.png) |
+| tag | Clean Iron Smelting | ![clean_iron_smelting](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1720,7 +1720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Clean Iron Smelting | ![clean_iron_smelting](../images/immersive_clean_iron_smelting.png) |
+| tag | Clean Iron Smelting | ![clean_iron_smelting](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1728,7 +1728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Exposed Iron Smelting | ![exposed_iron_smelting](../images/immersive_exposed_iron_smelting.png) |
+| tag | Exposed Iron Smelting | ![exposed_iron_smelting](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1736,7 +1736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Exposed Iron Smelting | ![exposed_iron_smelting](../images/immersive_exposed_iron_smelting.png) |
+| tag | Exposed Iron Smelting | ![exposed_iron_smelting](../images/immersive_weathering_exposed_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1744,7 +1744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Rusted Iron Smelting | ![rusted_iron_smelting](../images/immersive_rusted_iron_smelting.png) |
+| tag | Rusted Iron Smelting | ![rusted_iron_smelting](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1752,7 +1752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Rusted Iron Smelting | ![rusted_iron_smelting](../images/immersive_rusted_iron_smelting.png) |
+| tag | Rusted Iron Smelting | ![rusted_iron_smelting](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1760,7 +1760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Weathered Iron Smelting | ![weathered_iron_smelting](../images/immersive_weathered_iron_smelting.png) |
+| tag | Weathered Iron Smelting | ![weathered_iron_smelting](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Iron Ingot
@@ -1768,7 +1768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Weathered Iron Smelting | ![weathered_iron_smelting](../images/immersive_weathered_iron_smelting.png) |
+| tag | Weathered Iron Smelting | ![weathered_iron_smelting](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## {}
@@ -1783,7 +1783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Bars | ![iron_bars](../images/immersive_iron_bars.png) |
+| item | Iron Bars | ![iron_bars](../images/immersive_weathering_exposed_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1791,7 +1791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Bars | ![iron_bars](../images/immersive_iron_bars.png) |
+| item | Iron Bars | ![iron_bars](../images/immersive_weathering_exposed_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1799,7 +1799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Iron Bars | ![exposed_iron_bars](../images/immersive_exposed_iron_bars.png) |
+| item | Exposed Iron Bars | ![exposed_iron_bars](../images/immersive_weathering_exposed_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1807,7 +1807,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Exposed Iron Bars | ![exposed_iron_bars](../images/immersive_exposed_iron_bars.png) |
+| item | Exposed Iron Bars | ![exposed_iron_bars](../images/immersive_weathering_exposed_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1815,7 +1815,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Iron Bars | ![rusted_iron_bars](../images/immersive_rusted_iron_bars.png) |
+| item | Rusted Iron Bars | ![rusted_iron_bars](../images/immersive_weathering_rusted_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1823,7 +1823,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Iron Bars | ![rusted_iron_bars](../images/immersive_rusted_iron_bars.png) |
+| item | Rusted Iron Bars | ![rusted_iron_bars](../images/immersive_weathering_rusted_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1831,7 +1831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Iron Bars | ![weathered_iron_bars](../images/immersive_weathered_iron_bars.png) |
+| item | Weathered Iron Bars | ![weathered_iron_bars](../images/immersive_weathering_waxed_weathered_iron_bars.png) |
 
 ---
 ## Iron Nugget
@@ -1839,7 +1839,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Iron Bars | ![weathered_iron_bars](../images/immersive_weathered_iron_bars.png) |
+| item | Weathered Iron Bars | ![weathered_iron_bars](../images/immersive_weathering_waxed_weathered_iron_bars.png) |
 
 ---
 ## {}
@@ -1854,7 +1854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Leaves | ![jungle_leaves](../images/immersive_jungle_leaves.png) |
+| # | Jungle Leaves | ![jungle_leaves](../images/immersive_weathering_heavy_jungle_leaves.png) |
 
 ---
 ## {}
@@ -1869,8 +1869,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Bark | ![jungle_bark](../images/immersive_jungle_bark.png) |
-| - | Stripped Jungle Log | ![stripped_jungle_log](../images/immersive_stripped_jungle_log.png) |
+| - | Jungle Bark | ![jungle_bark](../images/immersive_weathering_jungle_bark.png) |
+| - | Stripped Jungle Log | ![stripped_jungle_log](../images/immersive_weathering_charred_log.png) |
 
 ---
 ## Jungle Wood
@@ -1878,8 +1878,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Bark | ![jungle_bark](../images/immersive_jungle_bark.png) |
-| - | Jungle Log | ![jungle_log](../images/immersive_jungle_log.png) |
+| - | Jungle Bark | ![jungle_bark](../images/immersive_weathering_jungle_bark.png) |
+| - | Jungle Log | ![jungle_log](../images/immersive_weathering_charred_log.png) |
 
 ---
 ## Jungle Wood
@@ -1887,8 +1887,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Bark | ![jungle_bark](../images/immersive_jungle_bark.png) |
-| - | Stripped Jungle Wood | ![stripped_jungle_wood](../images/immersive_stripped_jungle_wood.png) |
+| - | Jungle Bark | ![jungle_bark](../images/immersive_weathering_jungle_bark.png) |
+| - | Stripped Jungle Wood | ![stripped_jungle_wood](../images/immersive_weathering_heavy_jungle_leaves.png) |
 
 ---
 ## Mangrove Leaf Pile
@@ -1896,7 +1896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Leaves | ![mangrove_leaves](../images/immersive_mangrove_leaves.png) |
+| # | Mangrove Leaves | ![mangrove_leaves](../images/immersive_weathering_heavy_mangrove_leaves.png) |
 
 ---
 ## {}
@@ -1911,8 +1911,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bricks | ![bricks](../images/immersive_bricks.png) |
-| - | Moss Block | ![moss_block](../images/immersive_moss_block.png) |
+| - | Bricks | ![bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
+| - | Moss Block | ![moss_block](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Bricks
@@ -1920,8 +1920,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bricks | ![bricks](../images/immersive_bricks.png) |
-| - | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| - | Bricks | ![bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
+| - | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Bricks
@@ -1929,8 +1929,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bricks | ![bricks](../images/immersive_bricks.png) |
-| - | Vine | ![vine](../images/immersive_vine.png) |
+| - | Bricks | ![bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
+| - | Vine | ![vine](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Mossy Brick Slab
@@ -1938,7 +1938,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| S | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Brick Slab
@@ -1946,7 +1946,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| item | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Brick Stairs
@@ -1954,7 +1954,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| S | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Brick Stairs
@@ -1962,7 +1962,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| item | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Brick Vertical Slab
@@ -1970,7 +1970,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Brick Slab | ![mossy_brick_slab](../images/immersive_mossy_brick_slab.png) |
+| # | Mossy Brick Slab | ![mossy_brick_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Mossy Brick Vertical Slab
@@ -1978,7 +1978,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| item | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Brick Slab
@@ -1986,7 +1986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Brick Vertical Slab | ![mossy_brick_vertical_slab](../images/immersive_mossy_brick_vertical_slab.png) |
+| - | Mossy Brick Vertical Slab | ![mossy_brick_vertical_slab](../images/immersive_weathering_blackstone_brick.png) |
 
 ---
 ## Mossy Brick Wall
@@ -1994,7 +1994,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| S | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Brick Wall
@@ -2002,7 +2002,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Bricks | ![mossy_bricks](../images/immersive_mossy_bricks.png) |
+| item | Mossy Bricks | ![mossy_bricks](../images/immersive_weathering_mossy_bricks.png) |
 
 ---
 ## Mossy Chiseled Stone Bricks
@@ -2010,8 +2010,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/immersive_chiseled_stone_bricks.png) |
-| - | Moss Block | ![moss_block](../images/immersive_moss_block.png) |
+| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
+| - | Moss Block | ![moss_block](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Chiseled Stone Bricks
@@ -2019,8 +2019,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/immersive_chiseled_stone_bricks.png) |
-| - | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
+| - | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Chiseled Stone Bricks
@@ -2028,8 +2028,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/immersive_chiseled_stone_bricks.png) |
-| - | Vine | ![vine](../images/immersive_vine.png) |
+| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
+| - | Vine | ![vine](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Mossy Cobblestone
@@ -2037,8 +2037,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/immersive_cobblestone.png) |
-| - | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| - | Cobblestone | ![cobblestone](../images/immersive_weathering_sandy_cobblestone_0.png) |
+| - | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## {}
@@ -2053,8 +2053,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/immersive_stone_bricks.png) |
-| - | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| - | Stone Bricks | ![stone_bricks](../images/immersive_weathering_cracked_end_stone_bricks.png) |
+| - | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Stone
@@ -2062,8 +2062,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/immersive_stone.png) |
-| - | Moss Block | ![moss_block](../images/immersive_moss_block.png) |
+| - | Stone | ![stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
+| - | Moss Block | ![moss_block](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Stone
@@ -2071,8 +2071,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/immersive_stone.png) |
-| - | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| - | Stone | ![stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
+| - | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mossy Stone
@@ -2080,8 +2080,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/immersive_stone.png) |
-| - | Vine | ![vine](../images/immersive_vine.png) |
+| - | Stone | ![stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
+| - | Vine | ![vine](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Mossy Stone Slab
@@ -2089,7 +2089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| S | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Slab
@@ -2097,7 +2097,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| item | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Stairs
@@ -2105,7 +2105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| S | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Stairs
@@ -2113,7 +2113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| item | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Vertical Slab
@@ -2121,7 +2121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Stone Slab | ![mossy_stone_slab](../images/immersive_mossy_stone_slab.png) |
+| # | Mossy Stone Slab | ![mossy_stone_slab](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Vertical Slab
@@ -2129,7 +2129,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| item | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Slab
@@ -2137,7 +2137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Stone Vertical Slab | ![mossy_stone_vertical_slab](../images/immersive_mossy_stone_vertical_slab.png) |
+| - | Mossy Stone Vertical Slab | ![mossy_stone_vertical_slab](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Wall
@@ -2145,7 +2145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| S | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## Mossy Stone Wall
@@ -2153,7 +2153,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Stone | ![mossy_stone](../images/immersive_mossy_stone.png) |
+| item | Mossy Stone | ![mossy_stone](../images/immersive_weathering_mossy_chiseled_stone_bricks.png) |
 
 ---
 ## {}
@@ -2168,7 +2168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| S | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## {}
@@ -2183,7 +2183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moss Block | ![moss_block](../images/immersive_moss_block.png) |
+| - | Moss Block | ![moss_block](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## Mulch Block
@@ -2191,12 +2191,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/immersive_dirt.png) |
-| - | Bone Meal | ![bone_meal](../images/immersive_bone_meal.png) |
-| - | Bark | ![bark](../images/immersive_bark.png) |
-| - | Bark | ![bark](../images/immersive_bark.png) |
-| - | Ash Layer Block | ![ash_layer_block](../images/immersive_ash_layer_block.png) |
-| - | Moss Clump | ![moss_clump](../images/immersive_moss_clump.png) |
+| - | Dirt | ![dirt](../images/immersive_weathering_acacia_bark.png) |
+| - | Bone Meal | ![bone_meal](../images/immersive_weathering_acacia_bark.png) |
+| - | Bark | ![bark](../images/immersive_weathering_acacia_bark.png) |
+| - | Bark | ![bark](../images/immersive_weathering_acacia_bark.png) |
+| - | Ash Layer Block | ![ash_layer_block](../images/immersive_weathering_ash.png) |
+| - | Moss Clump | ![moss_clump](../images/immersive_weathering_golden_moss_clump.png) |
 
 ---
 ## {}
@@ -2218,7 +2218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/immersive_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Nulch Block
@@ -2226,12 +2226,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/immersive_netherrack.png) |
-| - | Magma Cream | ![magma_cream](../images/immersive_magma_cream.png) |
-| - | Scales | ![scales](../images/immersive_scales.png) |
-| - | Scales | ![scales](../images/immersive_scales.png) |
-| - | Ash Layer Block | ![ash_layer_block](../images/immersive_ash_layer_block.png) |
-| - | Nether Wart | ![nether_wart](../images/immersive_nether_wart.png) |
+| - | Netherrack | ![netherrack](../images/immersive_weathering_acacia_bark.png) |
+| - | Magma Cream | ![magma_cream](../images/immersive_weathering_acacia_bark.png) |
+| - | Scales | ![scales](../images/immersive_weathering_crimson_scales.png) |
+| - | Scales | ![scales](../images/immersive_weathering_crimson_scales.png) |
+| - | Ash Layer Block | ![ash_layer_block](../images/immersive_weathering_ash.png) |
+| - | Nether Wart | ![nether_wart](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -2246,7 +2246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Leaves | ![oak_leaves](../images/immersive_oak_leaves.png) |
+| # | Oak Leaves | ![oak_leaves](../images/immersive_weathering_dark_oak_branch_leaves.png) |
 
 ---
 ## {}
@@ -2261,8 +2261,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Bark | ![oak_bark](../images/immersive_oak_bark.png) |
-| - | Stripped Oak Log | ![stripped_oak_log](../images/immersive_stripped_oak_log.png) |
+| - | Oak Bark | ![oak_bark](../images/immersive_weathering_dark_oak_bark.png) |
+| - | Stripped Oak Log | ![stripped_oak_log](../images/immersive_weathering_charred_log.png) |
 
 ---
 ## Oak Wood
@@ -2270,8 +2270,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Bark | ![oak_bark](../images/immersive_oak_bark.png) |
-| - | Oak Log | ![oak_log](../images/immersive_oak_log.png) |
+| - | Oak Bark | ![oak_bark](../images/immersive_weathering_dark_oak_bark.png) |
+| - | Oak Log | ![oak_log](../images/immersive_weathering_charred_log.png) |
 
 ---
 ## Oak Wood
@@ -2279,8 +2279,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Bark | ![oak_bark](../images/immersive_oak_bark.png) |
-| - | Stripped Oak Wood | ![stripped_oak_wood](../images/immersive_stripped_oak_wood.png) |
+| - | Oak Bark | ![oak_bark](../images/immersive_weathering_dark_oak_bark.png) |
+| - | Stripped Oak Wood | ![stripped_oak_wood](../images/immersive_weathering_dark_oak_bark.png) |
 
 ---
 ## Paper
@@ -2288,9 +2288,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Bark | ![birch_bark](../images/immersive_birch_bark.png) |
-| - | Birch Bark | ![birch_bark](../images/immersive_birch_bark.png) |
-| - | Birch Bark | ![birch_bark](../images/immersive_birch_bark.png) |
+| - | Birch Bark | ![birch_bark](../images/immersive_weathering_birch_bark.png) |
+| - | Birch Bark | ![birch_bark](../images/immersive_weathering_birch_bark.png) |
+| - | Birch Bark | ![birch_bark](../images/immersive_weathering_birch_bark.png) |
 
 ---
 ## Permafrost
@@ -2298,10 +2298,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Packed Ice | ![packed_ice](../images/immersive_packed_ice.png) |
-| - | Packed Ice | ![packed_ice](../images/immersive_packed_ice.png) |
-| - | Dirt | ![dirt](../images/immersive_dirt.png) |
-| - | Dirt | ![dirt](../images/immersive_dirt.png) |
+| - | Packed Ice | ![packed_ice](../images/immersive_weathering_ice_sickle.png) |
+| - | Packed Ice | ![packed_ice](../images/immersive_weathering_ice_sickle.png) |
+| - | Dirt | ![dirt](../images/immersive_weathering_acacia_bark.png) |
+| - | Dirt | ![dirt](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Plate Iron
@@ -2309,7 +2309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Block | ![iron_block](../images/immersive_iron_block.png) |
+| # | Iron Block | ![iron_block](../images/immersive_weathering_cut_iron.png) |
 
 ---
 ## Plate Iron Slab
@@ -2317,7 +2317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| # | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Plate Iron Slab
@@ -2325,7 +2325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Plate Iron Stairs
@@ -2333,7 +2333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| # | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Plate Iron Stairs
@@ -2341,7 +2341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Plate Iron Vertical Slab
@@ -2349,7 +2349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Plate Iron Slab | ![plate_iron_slab](../images/immersive_plate_iron_slab.png) |
+| # | Plate Iron Slab | ![plate_iron_slab](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Plate Iron Vertical Slab
@@ -2357,7 +2357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
+| item | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## Plate Iron Slab
@@ -2365,7 +2365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plate Iron Vertical Slab | ![plate_iron_vertical_slab](../images/immersive_plate_iron_vertical_slab.png) |
+| - | Plate Iron Vertical Slab | ![plate_iron_vertical_slab](../images/immersive_weathering_exposed_plate_iron.png) |
 
 ---
 ## {}
@@ -2394,7 +2394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Prismarine Brick | ![prismarine_brick](../images/immersive_prismarine_brick.png) |
+| S | Prismarine Brick | ![prismarine_brick](../images/immersive_weathering_prismarine_brick.png) |
 
 ---
 ## Prismarine Brick
@@ -2402,7 +2402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine | ![prismarine](../images/immersive_prismarine.png) |
+| item | Prismarine | ![prismarine](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Prismarine Brick Wall
@@ -2410,7 +2410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Prismarine Bricks | ![prismarine_bricks](../images/immersive_prismarine_bricks.png) |
+| S | Prismarine Bricks | ![prismarine_bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Prismarine Brick Wall
@@ -2418,7 +2418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/immersive_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/immersive_weathering_chiseled_prismarine_bricks.png) |
 
 ---
 ## Red Sand
@@ -2426,7 +2426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Sand Layer Block | ![red_sand_layer_block](../images/immersive_red_sand_layer_block.png) |
+| # | Red Sand Layer Block | ![red_sand_layer_block](../images/immersive_weathering_red_sand.png) |
 
 ---
 ## Red Sand Layer Block
@@ -2434,7 +2434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Sand | ![red_sand](../images/immersive_red_sand.png) |
+| # | Red Sand | ![red_sand](../images/immersive_weathering_red_sand.png) |
 
 ---
 ## Rusted Cut Iron
@@ -2442,7 +2442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| # | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Cut Iron
@@ -2450,7 +2450,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Cut Iron Slab
@@ -2458,7 +2458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_rusted_cut_iron.png) |
+| # | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Rusted Cut Iron Slab
@@ -2466,7 +2466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_rusted_cut_iron.png) |
+| item | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Rusted Cut Iron Slab
@@ -2474,7 +2474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Cut Iron Stairs
@@ -2482,7 +2482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_rusted_cut_iron.png) |
+| # | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Rusted Cut Iron Stairs
@@ -2490,7 +2490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_rusted_cut_iron.png) |
+| item | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Rusted Cut Iron Stairs
@@ -2498,7 +2498,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Cut Iron Vertical Slab
@@ -2506,7 +2506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Cut Iron Slab | ![rusted_cut_iron_slab](../images/immersive_rusted_cut_iron_slab.png) |
+| # | Rusted Cut Iron Slab | ![rusted_cut_iron_slab](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Rusted Cut Iron Vertical Slab
@@ -2514,7 +2514,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_rusted_cut_iron.png) |
+| item | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## Rusted Cut Iron Vertical Slab
@@ -2522,7 +2522,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Cut Iron Slab
@@ -2530,7 +2530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Cut Iron Vertical Slab | ![rusted_cut_iron_vertical_slab](../images/immersive_rusted_cut_iron_vertical_slab.png) |
+| - | Rusted Cut Iron Vertical Slab | ![rusted_cut_iron_vertical_slab](../images/immersive_weathering_rusted_cut_iron.png) |
 
 ---
 ## {}
@@ -2545,7 +2545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| # | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Plate Iron Slab
@@ -2553,7 +2553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Plate Iron Stairs
@@ -2561,7 +2561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| # | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Plate Iron Stairs
@@ -2569,7 +2569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Plate Iron Vertical Slab
@@ -2577,7 +2577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rusted Plate Iron Slab | ![rusted_plate_iron_slab](../images/immersive_rusted_plate_iron_slab.png) |
+| # | Rusted Plate Iron Slab | ![rusted_plate_iron_slab](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Plate Iron Vertical Slab
@@ -2585,7 +2585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
+| item | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## Rusted Plate Iron Slab
@@ -2593,7 +2593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Plate Iron Vertical Slab | ![rusted_plate_iron_vertical_slab](../images/immersive_rusted_plate_iron_vertical_slab.png) |
+| - | Rusted Plate Iron Vertical Slab | ![rusted_plate_iron_vertical_slab](../images/immersive_weathering_rusted_plate_iron.png) |
 
 ---
 ## {}
@@ -2608,7 +2608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sand Layer Block | ![sand_layer_block](../images/immersive_sand_layer_block.png) |
+| # | Sand Layer Block | ![sand_layer_block](../images/immersive_weathering_mulch_block.png) |
 
 ---
 ## Sand Layer Block
@@ -2616,7 +2616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sand | ![sand](../images/immersive_sand.png) |
+| # | Sand | ![sand](../images/immersive_weathering_red_sand.png) |
 
 ---
 ## {}
@@ -2631,7 +2631,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Snow Block | ![snow_block](../images/immersive_snow_block.png) |
+| # | Snow Block | ![snow_block](../images/immersive_weathering_rooted_grass_block_snow.png) |
 
 ---
 ## Snow Brick Slab
@@ -2639,7 +2639,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Snow Bricks | ![snow_bricks](../images/immersive_snow_bricks.png) |
+| # | Snow Bricks | ![snow_bricks](../images/immersive_weathering_snow_bricks.png) |
 
 ---
 ## Snow Brick Stairs
@@ -2647,7 +2647,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Snow Bricks | ![snow_bricks](../images/immersive_snow_bricks.png) |
+| # | Snow Bricks | ![snow_bricks](../images/immersive_weathering_snow_bricks.png) |
 
 ---
 ## Snow Brick Wall
@@ -2655,7 +2655,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Snow Bricks | ![snow_bricks](../images/immersive_snow_bricks.png) |
+| # | Snow Bricks | ![snow_bricks](../images/immersive_weathering_snow_bricks.png) |
 
 ---
 ## {}
@@ -2677,7 +2677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Leaves | ![spruce_leaves](../images/immersive_spruce_leaves.png) |
+| # | Spruce Leaves | ![spruce_leaves](../images/immersive_weathering_heavy_spruce_leaves.png) |
 
 ---
 ## {}
@@ -2692,8 +2692,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Bark | ![spruce_bark](../images/immersive_spruce_bark.png) |
-| - | Stripped Spruce Log | ![stripped_spruce_log](../images/immersive_stripped_spruce_log.png) |
+| - | Spruce Bark | ![spruce_bark](../images/immersive_weathering_spruce_bark.png) |
+| - | Stripped Spruce Log | ![stripped_spruce_log](../images/immersive_weathering_charred_log.png) |
 
 ---
 ## Spruce Wood
@@ -2701,8 +2701,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Bark | ![spruce_bark](../images/immersive_spruce_bark.png) |
-| - | Spruce Log | ![spruce_log](../images/immersive_spruce_log.png) |
+| - | Spruce Bark | ![spruce_bark](../images/immersive_weathering_spruce_bark.png) |
+| - | Spruce Log | ![spruce_log](../images/immersive_weathering_charred_log.png) |
 
 ---
 ## Spruce Wood
@@ -2710,8 +2710,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Bark | ![spruce_bark](../images/immersive_spruce_bark.png) |
-| - | Stripped Spruce Wood | ![stripped_spruce_wood](../images/immersive_stripped_spruce_wood.png) |
+| - | Spruce Bark | ![spruce_bark](../images/immersive_weathering_spruce_bark.png) |
+| - | Stripped Spruce Wood | ![stripped_spruce_wood](../images/immersive_weathering_heavy_spruce_leaves.png) |
 
 ---
 ## {}
@@ -2733,7 +2733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone Brick | ![stone_brick](../images/immersive_stone_brick.png) |
+| S | Stone Brick | ![stone_brick](../images/immersive_weathering_end_stone_brick.png) |
 
 ---
 ## Stone Brick
@@ -2741,7 +2741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/immersive_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/immersive_weathering_sandy_cobblestone_0.png) |
 
 ---
 ## Stone Brick
@@ -2749,7 +2749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/immersive_stone.png) |
+| item | Stone | ![stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Stone Wall
@@ -2757,7 +2757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/immersive_stone.png) |
+| S | Stone | ![stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Stone Wall
@@ -2765,7 +2765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/immersive_stone.png) |
+| item | Stone | ![stone](../images/immersive_weathering_cracked_end_stone_bricks.png) |
 
 ---
 ## Thin Ice
@@ -2773,7 +2773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ice | ![ice](../images/immersive_ice.png) |
+| # | Ice | ![ice](../images/immersive_weathering_ice_sickle.png) |
 
 ---
 ## Tube Coral Block
@@ -2781,7 +2781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coral | ![tube_coral](../images/immersive_tube_coral.png) |
+| # | Tube Coral | ![tube_coral](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Tuff
@@ -2789,7 +2789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ash Block | ![ash_block](../images/immersive_ash_block.png) |
+| # | Ash Block | ![ash_block](../images/immersive_weathering_ash.png) |
 
 ---
 ## Vertisol
@@ -2797,8 +2797,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Mud | ![cracked_mud](../images/immersive_cracked_mud.png) |
-| D | Dirt | ![dirt](../images/immersive_dirt.png) |
+| # | Cracked Mud | ![cracked_mud](../images/immersive_weathering_cracked_mud_bottom.png) |
+| D | Dirt | ![dirt](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -2813,7 +2813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sand | ![sand](../images/immersive_sand.png) |
+| item | Sand | ![sand](../images/immersive_weathering_red_sand.png) |
 
 ---
 ## Warped Hyphae
@@ -2821,8 +2821,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Scales | ![warped_scales](../images/immersive_warped_scales.png) |
-| - | Warped Stem | ![warped_stem](../images/immersive_warped_stem.png) |
+| - | Warped Scales | ![warped_scales](../images/immersive_weathering_warped_scales.png) |
+| - | Warped Stem | ![warped_stem](../images/immersive_weathering_warped_scales.png) |
 
 ---
 ## Warped Hyphae
@@ -2830,8 +2830,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Scales | ![warped_scales](../images/immersive_warped_scales.png) |
-| - | Stripped Warped Hyphae | ![stripped_warped_hyphae](../images/immersive_stripped_warped_hyphae.png) |
+| - | Warped Scales | ![warped_scales](../images/immersive_weathering_warped_scales.png) |
+| - | Stripped Warped Hyphae | ![stripped_warped_hyphae](../images/immersive_weathering_warped_scales.png) |
 
 ---
 ## {}
@@ -2846,8 +2846,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Scales | ![warped_scales](../images/immersive_warped_scales.png) |
-| - | Stripped Warped Stem | ![stripped_warped_stem](../images/immersive_stripped_warped_stem.png) |
+| - | Warped Scales | ![warped_scales](../images/immersive_weathering_warped_scales.png) |
+| - | Stripped Warped Stem | ![stripped_warped_stem](../images/immersive_weathering_warped_scales.png) |
 
 ---
 ## Waxed Cut Iron
@@ -2855,7 +2855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| # | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Cut Iron
@@ -2863,8 +2863,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Iron | ![cut_iron](../images/immersive_cut_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Cut Iron | ![cut_iron](../images/immersive_weathering_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Cut Iron
@@ -2872,7 +2872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Cut Iron Slab
@@ -2880,7 +2880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_waxed_cut_iron.png) |
+| # | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Cut Iron Slab
@@ -2888,8 +2888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Iron Slab | ![cut_iron_slab](../images/immersive_cut_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Cut Iron Slab | ![cut_iron_slab](../images/immersive_weathering_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Cut Iron Slab
@@ -2897,7 +2897,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_waxed_cut_iron.png) |
+| item | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Cut Iron Slab
@@ -2905,7 +2905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Cut Iron Stairs
@@ -2913,7 +2913,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_waxed_cut_iron.png) |
+| # | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Cut Iron Stairs
@@ -2921,8 +2921,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Iron Stairs | ![cut_iron_stairs](../images/immersive_cut_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Cut Iron Stairs | ![cut_iron_stairs](../images/immersive_weathering_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Cut Iron Stairs
@@ -2930,7 +2930,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_waxed_cut_iron.png) |
+| item | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Cut Iron Stairs
@@ -2938,7 +2938,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Cut Iron Vertical Slab
@@ -2946,7 +2946,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Cut Iron Slab | ![waxed_cut_iron_slab](../images/immersive_waxed_cut_iron_slab.png) |
+| # | Waxed Cut Iron Slab | ![waxed_cut_iron_slab](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Cut Iron Vertical Slab
@@ -2954,8 +2954,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Iron Vertical Slab | ![cut_iron_vertical_slab](../images/immersive_cut_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Cut Iron Vertical Slab | ![cut_iron_vertical_slab](../images/immersive_weathering_cut_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Cut Iron Vertical Slab
@@ -2963,7 +2963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_waxed_cut_iron.png) |
+| item | Waxed Cut Iron | ![waxed_cut_iron](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Cut Iron Vertical Slab
@@ -2971,7 +2971,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Cut Iron Slab
@@ -2979,7 +2979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Cut Iron Vertical Slab | ![waxed_cut_iron_vertical_slab](../images/immersive_waxed_cut_iron_vertical_slab.png) |
+| - | Waxed Cut Iron Vertical Slab | ![waxed_cut_iron_vertical_slab](../images/immersive_weathering_waxed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron
@@ -2987,7 +2987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| # | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron
@@ -2995,8 +2995,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_exposed_cut_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Cut Iron | ![exposed_cut_iron](../images/immersive_weathering_exposed_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Cut Iron
@@ -3004,7 +3004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Slab
@@ -3012,7 +3012,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_waxed_exposed_cut_iron.png) |
+| # | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Slab
@@ -3020,8 +3020,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Iron Slab | ![exposed_cut_iron_slab](../images/immersive_exposed_cut_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Cut Iron Slab | ![exposed_cut_iron_slab](../images/immersive_weathering_exposed_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Cut Iron Slab
@@ -3029,7 +3029,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_waxed_exposed_cut_iron.png) |
+| item | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Slab
@@ -3037,7 +3037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Stairs
@@ -3045,7 +3045,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_waxed_exposed_cut_iron.png) |
+| # | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Stairs
@@ -3053,8 +3053,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Iron Stairs | ![exposed_cut_iron_stairs](../images/immersive_exposed_cut_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Cut Iron Stairs | ![exposed_cut_iron_stairs](../images/immersive_weathering_exposed_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Cut Iron Stairs
@@ -3062,7 +3062,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_waxed_exposed_cut_iron.png) |
+| item | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Stairs
@@ -3070,7 +3070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Vertical Slab
@@ -3078,7 +3078,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Cut Iron Slab | ![waxed_exposed_cut_iron_slab](../images/immersive_waxed_exposed_cut_iron_slab.png) |
+| # | Waxed Exposed Cut Iron Slab | ![waxed_exposed_cut_iron_slab](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Vertical Slab
@@ -3086,8 +3086,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Iron Vertical Slab | ![exposed_cut_iron_vertical_slab](../images/immersive_exposed_cut_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Exposed Cut Iron Vertical Slab | ![exposed_cut_iron_vertical_slab](../images/immersive_weathering_exposed_cut_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Cut Iron Vertical Slab
@@ -3095,7 +3095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_waxed_exposed_cut_iron.png) |
+| item | Waxed Exposed Cut Iron | ![waxed_exposed_cut_iron](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Vertical Slab
@@ -3103,7 +3103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Cut Iron Slab
@@ -3111,7 +3111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Exposed Cut Iron Vertical Slab | ![waxed_exposed_cut_iron_vertical_slab](../images/immersive_waxed_exposed_cut_iron_vertical_slab.png) |
+| - | Waxed Exposed Cut Iron Vertical Slab | ![waxed_exposed_cut_iron_vertical_slab](../images/immersive_weathering_waxed_exposed_cut_iron.png) |
 
 ---
 ## Waxed Exposed Iron Bars
@@ -3119,8 +3119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Iron Bars | ![exposed_iron_bars](../images/immersive_exposed_iron_bars.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Iron Bars | ![exposed_iron_bars](../images/immersive_weathering_exposed_iron_bars.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Iron Door
@@ -3128,8 +3128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Iron Door | ![exposed_iron_door](../images/immersive_exposed_iron_door.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Iron Door | ![exposed_iron_door](../images/immersive_weathering_exposed_iron_door.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Iron Trapdoor
@@ -3137,8 +3137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Iron Trapdoor | ![exposed_iron_trapdoor](../images/immersive_exposed_iron_trapdoor.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Iron Trapdoor | ![exposed_iron_trapdoor](../images/immersive_weathering_exposed_iron_trapdoor.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -3153,8 +3153,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_exposed_plate_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Plate Iron | ![exposed_plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Plate Iron Slab
@@ -3162,7 +3162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| # | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Plate Iron Slab
@@ -3170,8 +3170,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Plate Iron Slab | ![exposed_plate_iron_slab](../images/immersive_exposed_plate_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Plate Iron Slab | ![exposed_plate_iron_slab](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Plate Iron Slab
@@ -3179,7 +3179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Plate Iron Stairs
@@ -3187,7 +3187,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| # | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Plate Iron Stairs
@@ -3195,8 +3195,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Plate Iron Stairs | ![exposed_plate_iron_stairs](../images/immersive_exposed_plate_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Exposed Plate Iron Stairs | ![exposed_plate_iron_stairs](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Plate Iron Stairs
@@ -3204,7 +3204,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Plate Iron Vertical Slab
@@ -3212,7 +3212,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Exposed Plate Iron Slab | ![waxed_exposed_plate_iron_slab](../images/immersive_waxed_exposed_plate_iron_slab.png) |
+| # | Waxed Exposed Plate Iron Slab | ![waxed_exposed_plate_iron_slab](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Plate Iron Vertical Slab
@@ -3220,8 +3220,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Plate Iron Vertical Slab | ![exposed_plate_iron_vertical_slab](../images/immersive_exposed_plate_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Exposed Plate Iron Vertical Slab | ![exposed_plate_iron_vertical_slab](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Exposed Plate Iron Vertical Slab
@@ -3229,7 +3229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_waxed_exposed_plate_iron.png) |
+| item | Waxed Exposed Plate Iron | ![waxed_exposed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Exposed Plate Iron Slab
@@ -3237,7 +3237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Exposed Plate Iron Vertical Slab | ![waxed_exposed_plate_iron_vertical_slab](../images/immersive_waxed_exposed_plate_iron_vertical_slab.png) |
+| - | Waxed Exposed Plate Iron Vertical Slab | ![waxed_exposed_plate_iron_vertical_slab](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Iron Bars
@@ -3245,8 +3245,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Bars | ![iron_bars](../images/immersive_iron_bars.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Iron Bars | ![iron_bars](../images/immersive_weathering_exposed_iron_bars.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Iron Door
@@ -3254,8 +3254,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Door | ![iron_door](../images/immersive_iron_door.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Iron Door | ![iron_door](../images/immersive_weathering_exposed_iron_door.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Iron Trapdoor
@@ -3263,8 +3263,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Trapdoor | ![iron_trapdoor](../images/immersive_iron_trapdoor.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Iron Trapdoor | ![iron_trapdoor](../images/immersive_weathering_exposed_iron_trapdoor.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -3279,8 +3279,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plate Iron | ![plate_iron](../images/immersive_plate_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Plate Iron | ![plate_iron](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Plate Iron Slab
@@ -3288,7 +3288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| # | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Plate Iron Slab
@@ -3296,8 +3296,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plate Iron Slab | ![plate_iron_slab](../images/immersive_plate_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Plate Iron Slab | ![plate_iron_slab](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Plate Iron Slab
@@ -3305,7 +3305,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Plate Iron Stairs
@@ -3313,7 +3313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| # | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Plate Iron Stairs
@@ -3321,8 +3321,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plate Iron Stairs | ![plate_iron_stairs](../images/immersive_plate_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Plate Iron Stairs | ![plate_iron_stairs](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Plate Iron Stairs
@@ -3330,7 +3330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Plate Iron Vertical Slab
@@ -3338,7 +3338,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Plate Iron Slab | ![waxed_plate_iron_slab](../images/immersive_waxed_plate_iron_slab.png) |
+| # | Waxed Plate Iron Slab | ![waxed_plate_iron_slab](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Plate Iron Vertical Slab
@@ -3346,8 +3346,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plate Iron Vertical Slab | ![plate_iron_vertical_slab](../images/immersive_plate_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Plate Iron Vertical Slab | ![plate_iron_vertical_slab](../images/immersive_weathering_exposed_plate_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Plate Iron Vertical Slab
@@ -3355,7 +3355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_waxed_plate_iron.png) |
+| item | Waxed Plate Iron | ![waxed_plate_iron](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Plate Iron Slab
@@ -3363,7 +3363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Plate Iron Vertical Slab | ![waxed_plate_iron_vertical_slab](../images/immersive_waxed_plate_iron_vertical_slab.png) |
+| - | Waxed Plate Iron Vertical Slab | ![waxed_plate_iron_vertical_slab](../images/immersive_weathering_waxed_exposed_plate_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron
@@ -3371,7 +3371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| # | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron
@@ -3379,8 +3379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_rusted_cut_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Cut Iron | ![rusted_cut_iron](../images/immersive_weathering_rusted_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Cut Iron
@@ -3388,7 +3388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Slab
@@ -3396,7 +3396,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_waxed_rusted_cut_iron.png) |
+| # | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Slab
@@ -3404,8 +3404,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Cut Iron Slab | ![rusted_cut_iron_slab](../images/immersive_rusted_cut_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Cut Iron Slab | ![rusted_cut_iron_slab](../images/immersive_weathering_rusted_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Cut Iron Slab
@@ -3413,7 +3413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_waxed_rusted_cut_iron.png) |
+| item | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Slab
@@ -3421,7 +3421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Stairs
@@ -3429,7 +3429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_waxed_rusted_cut_iron.png) |
+| # | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Stairs
@@ -3437,8 +3437,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Cut Iron Stairs | ![rusted_cut_iron_stairs](../images/immersive_rusted_cut_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Cut Iron Stairs | ![rusted_cut_iron_stairs](../images/immersive_weathering_rusted_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Cut Iron Stairs
@@ -3446,7 +3446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_waxed_rusted_cut_iron.png) |
+| item | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Stairs
@@ -3454,7 +3454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Vertical Slab
@@ -3462,7 +3462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Cut Iron Slab | ![waxed_rusted_cut_iron_slab](../images/immersive_waxed_rusted_cut_iron_slab.png) |
+| # | Waxed Rusted Cut Iron Slab | ![waxed_rusted_cut_iron_slab](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Vertical Slab
@@ -3470,8 +3470,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Cut Iron Vertical Slab | ![rusted_cut_iron_vertical_slab](../images/immersive_rusted_cut_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Rusted Cut Iron Vertical Slab | ![rusted_cut_iron_vertical_slab](../images/immersive_weathering_rusted_cut_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Cut Iron Vertical Slab
@@ -3479,7 +3479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_waxed_rusted_cut_iron.png) |
+| item | Waxed Rusted Cut Iron | ![waxed_rusted_cut_iron](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Slab
@@ -3487,7 +3487,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Cut Iron Slab
@@ -3495,7 +3495,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Rusted Cut Iron Vertical Slab | ![waxed_rusted_cut_iron_vertical_slab](../images/immersive_waxed_rusted_cut_iron_vertical_slab.png) |
+| - | Waxed Rusted Cut Iron Vertical Slab | ![waxed_rusted_cut_iron_vertical_slab](../images/immersive_weathering_waxed_rusted_cut_iron.png) |
 
 ---
 ## Waxed Rusted Iron Bars
@@ -3503,8 +3503,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Iron Bars | ![rusted_iron_bars](../images/immersive_rusted_iron_bars.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Iron Bars | ![rusted_iron_bars](../images/immersive_weathering_rusted_iron_bars.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Iron Door
@@ -3512,8 +3512,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Iron Door | ![rusted_iron_door](../images/immersive_rusted_iron_door.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Iron Door | ![rusted_iron_door](../images/immersive_weathering_rusted_iron_door.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Iron Trapdoor
@@ -3521,8 +3521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Iron Trapdoor | ![rusted_iron_trapdoor](../images/immersive_rusted_iron_trapdoor.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Iron Trapdoor | ![rusted_iron_trapdoor](../images/immersive_weathering_rusted_iron_trapdoor.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -3537,8 +3537,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_rusted_plate_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Plate Iron | ![rusted_plate_iron](../images/immersive_weathering_rusted_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Plate Iron Slab
@@ -3546,7 +3546,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| # | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Plate Iron Slab
@@ -3554,8 +3554,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Plate Iron Slab | ![rusted_plate_iron_slab](../images/immersive_rusted_plate_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Plate Iron Slab | ![rusted_plate_iron_slab](../images/immersive_weathering_rusted_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Plate Iron Slab
@@ -3563,7 +3563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Plate Iron Stairs
@@ -3571,7 +3571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| # | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Plate Iron Stairs
@@ -3579,8 +3579,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Plate Iron Stairs | ![rusted_plate_iron_stairs](../images/immersive_rusted_plate_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Rusted Plate Iron Stairs | ![rusted_plate_iron_stairs](../images/immersive_weathering_rusted_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Plate Iron Stairs
@@ -3588,7 +3588,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Plate Iron Vertical Slab
@@ -3596,7 +3596,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Rusted Plate Iron Slab | ![waxed_rusted_plate_iron_slab](../images/immersive_waxed_rusted_plate_iron_slab.png) |
+| # | Waxed Rusted Plate Iron Slab | ![waxed_rusted_plate_iron_slab](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Plate Iron Vertical Slab
@@ -3604,8 +3604,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rusted Plate Iron Vertical Slab | ![rusted_plate_iron_vertical_slab](../images/immersive_rusted_plate_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Rusted Plate Iron Vertical Slab | ![rusted_plate_iron_vertical_slab](../images/immersive_weathering_rusted_plate_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Rusted Plate Iron Vertical Slab
@@ -3613,7 +3613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_waxed_rusted_plate_iron.png) |
+| item | Waxed Rusted Plate Iron | ![waxed_rusted_plate_iron](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Rusted Plate Iron Slab
@@ -3621,7 +3621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Rusted Plate Iron Vertical Slab | ![waxed_rusted_plate_iron_vertical_slab](../images/immersive_waxed_rusted_plate_iron_vertical_slab.png) |
+| - | Waxed Rusted Plate Iron Vertical Slab | ![waxed_rusted_plate_iron_vertical_slab](../images/immersive_weathering_waxed_rusted_plate_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron
@@ -3629,7 +3629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| # | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron
@@ -3637,8 +3637,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathered_cut_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Cut Iron
@@ -3646,7 +3646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Slab
@@ -3654,7 +3654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_waxed_weathered_cut_iron.png) |
+| # | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Slab
@@ -3662,8 +3662,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Iron Slab | ![weathered_cut_iron_slab](../images/immersive_weathered_cut_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Cut Iron Slab | ![weathered_cut_iron_slab](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Cut Iron Slab
@@ -3671,7 +3671,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_waxed_weathered_cut_iron.png) |
+| item | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Slab
@@ -3679,7 +3679,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Stairs
@@ -3687,7 +3687,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_waxed_weathered_cut_iron.png) |
+| # | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Stairs
@@ -3695,8 +3695,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Iron Stairs | ![weathered_cut_iron_stairs](../images/immersive_weathered_cut_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Cut Iron Stairs | ![weathered_cut_iron_stairs](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Cut Iron Stairs
@@ -3704,7 +3704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_waxed_weathered_cut_iron.png) |
+| item | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Stairs
@@ -3712,7 +3712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Vertical Slab
@@ -3720,7 +3720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Cut Iron Slab | ![waxed_weathered_cut_iron_slab](../images/immersive_waxed_weathered_cut_iron_slab.png) |
+| # | Waxed Weathered Cut Iron Slab | ![waxed_weathered_cut_iron_slab](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Vertical Slab
@@ -3728,8 +3728,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Iron Vertical Slab | ![weathered_cut_iron_vertical_slab](../images/immersive_weathered_cut_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Weathered Cut Iron Vertical Slab | ![weathered_cut_iron_vertical_slab](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Cut Iron Vertical Slab
@@ -3737,7 +3737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_waxed_weathered_cut_iron.png) |
+| item | Waxed Weathered Cut Iron | ![waxed_weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Vertical Slab
@@ -3745,7 +3745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Cut Iron Slab
@@ -3753,7 +3753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Weathered Cut Iron Vertical Slab | ![waxed_weathered_cut_iron_vertical_slab](../images/immersive_waxed_weathered_cut_iron_vertical_slab.png) |
+| - | Waxed Weathered Cut Iron Vertical Slab | ![waxed_weathered_cut_iron_vertical_slab](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Waxed Weathered Iron Bars
@@ -3761,8 +3761,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Iron Bars | ![weathered_iron_bars](../images/immersive_weathered_iron_bars.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Iron Bars | ![weathered_iron_bars](../images/immersive_weathering_waxed_weathered_iron_bars.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Iron Door
@@ -3770,8 +3770,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Iron Door | ![weathered_iron_door](../images/immersive_weathered_iron_door.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Iron Door | ![weathered_iron_door](../images/immersive_weathering_waxed_weathered_iron_door.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Iron Trapdoor
@@ -3779,8 +3779,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Iron Trapdoor | ![weathered_iron_trapdoor](../images/immersive_weathered_iron_trapdoor.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Iron Trapdoor | ![weathered_iron_trapdoor](../images/immersive_weathering_waxed_weathered_iron_trapdoor_side.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## {}
@@ -3795,8 +3795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Plate Iron Slab
@@ -3804,7 +3804,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| # | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Plate Iron Slab
@@ -3812,8 +3812,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Plate Iron Slab | ![weathered_plate_iron_slab](../images/immersive_weathered_plate_iron_slab.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Plate Iron Slab | ![weathered_plate_iron_slab](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Plate Iron Slab
@@ -3821,7 +3821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Plate Iron Stairs
@@ -3829,7 +3829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| # | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Plate Iron Stairs
@@ -3837,8 +3837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Plate Iron Stairs | ![weathered_plate_iron_stairs](../images/immersive_weathered_plate_iron_stairs.png) |
-| - | Wax | ![wax](../images/immersive_wax.png) |
+| - | Weathered Plate Iron Stairs | ![weathered_plate_iron_stairs](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
+| - | Wax | ![wax](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Plate Iron Stairs
@@ -3846,7 +3846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Plate Iron Vertical Slab
@@ -3854,7 +3854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Waxed Weathered Plate Iron Slab | ![waxed_weathered_plate_iron_slab](../images/immersive_waxed_weathered_plate_iron_slab.png) |
+| # | Waxed Weathered Plate Iron Slab | ![waxed_weathered_plate_iron_slab](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Plate Iron Vertical Slab
@@ -3862,8 +3862,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Plate Iron Vertical Slab | ![weathered_plate_iron_vertical_slab](../images/immersive_weathered_plate_iron_vertical_slab.png) |
-| - | Honeycomb | ![honeycomb](../images/immersive_honeycomb.png) |
+| - | Weathered Plate Iron Vertical Slab | ![weathered_plate_iron_vertical_slab](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
+| - | Honeycomb | ![honeycomb](../images/immersive_weathering_acacia_bark.png) |
 
 ---
 ## Waxed Weathered Plate Iron Vertical Slab
@@ -3871,7 +3871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_waxed_weathered_plate_iron.png) |
+| item | Waxed Weathered Plate Iron | ![waxed_weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Waxed Weathered Plate Iron Slab
@@ -3879,7 +3879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waxed Weathered Plate Iron Vertical Slab | ![waxed_weathered_plate_iron_vertical_slab](../images/immersive_waxed_weathered_plate_iron_vertical_slab.png) |
+| - | Waxed Weathered Plate Iron Vertical Slab | ![waxed_weathered_plate_iron_vertical_slab](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Cut Iron
@@ -3887,7 +3887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| # | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Cut Iron
@@ -3895,7 +3895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Cut Iron Slab
@@ -3903,7 +3903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathered_cut_iron.png) |
+| # | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Weathered Cut Iron Slab
@@ -3911,7 +3911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathered_cut_iron.png) |
+| item | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Weathered Cut Iron Slab
@@ -3919,7 +3919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Cut Iron Stairs
@@ -3927,7 +3927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathered_cut_iron.png) |
+| # | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Weathered Cut Iron Stairs
@@ -3935,7 +3935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathered_cut_iron.png) |
+| item | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Weathered Cut Iron Stairs
@@ -3943,7 +3943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Cut Iron Vertical Slab
@@ -3951,7 +3951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Cut Iron Slab | ![weathered_cut_iron_slab](../images/immersive_weathered_cut_iron_slab.png) |
+| # | Weathered Cut Iron Slab | ![weathered_cut_iron_slab](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Weathered Cut Iron Vertical Slab
@@ -3959,7 +3959,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathered_cut_iron.png) |
+| item | Weathered Cut Iron | ![weathered_cut_iron](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## Weathered Cut Iron Vertical Slab
@@ -3967,7 +3967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Cut Iron Slab
@@ -3975,7 +3975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Iron Vertical Slab | ![weathered_cut_iron_vertical_slab](../images/immersive_weathered_cut_iron_vertical_slab.png) |
+| - | Weathered Cut Iron Vertical Slab | ![weathered_cut_iron_vertical_slab](../images/immersive_weathering_waxed_weathered_cut_iron.png) |
 
 ---
 ## {}
@@ -3990,7 +3990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| # | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Plate Iron Slab
@@ -3998,7 +3998,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Plate Iron Stairs
@@ -4006,7 +4006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| # | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Plate Iron Stairs
@@ -4014,7 +4014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Plate Iron Vertical Slab
@@ -4022,7 +4022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Weathered Plate Iron Slab | ![weathered_plate_iron_slab](../images/immersive_weathered_plate_iron_slab.png) |
+| # | Weathered Plate Iron Slab | ![weathered_plate_iron_slab](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Plate Iron Vertical Slab
@@ -4030,7 +4030,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathered_plate_iron.png) |
+| item | Weathered Plate Iron | ![weathered_plate_iron](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---
 ## Weathered Plate Iron Slab
@@ -4038,6 +4038,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Plate Iron Vertical Slab | ![weathered_plate_iron_vertical_slab](../images/immersive_weathered_plate_iron_vertical_slab.png) |
+| - | Weathered Plate Iron Vertical Slab | ![weathered_plate_iron_vertical_slab](../images/immersive_weathering_waxed_weathered_plate_iron.png) |
 
 ---

@@ -8,8 +8,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| H | Dragon Heart | ![dragon_heart](../images/mysticalagradditions_dragon_heart.png) |
-| W | Awakened Draconium Block | ![awakened_draconium_block](../images/mysticalagradditions_awakened_draconium_block.png) |
+| H | Dragon Heart | ![dragon_heart](../images/mysticalagradditions_dragon_egg_chunk.png) |
+| W | Awakened Draconium Block | ![awakened_draconium_block](../images/mysticalagradditions_awakened_draconium_crux.png) |
 | D | Storage Blocks/Diamond | ![storage_blocks/diamond](../images/mysticalagradditions_storage_blocks/diamond.png) |
 
 ---
@@ -26,10 +26,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Awakened Supremium Gemstone | ![awakened_supremium_gemstone](../images/mysticalagradditions_awakened_supremium_gemstone.png) |
-| - | Awakened Supremium Ingot | ![awakened_supremium_ingot](../images/mysticalagradditions_awakened_supremium_ingot.png) |
-| - | Awakened Supremium Gemstone | ![awakened_supremium_gemstone](../images/mysticalagradditions_awakened_supremium_gemstone.png) |
-| - | Awakened Supremium Ingot | ![awakened_supremium_ingot](../images/mysticalagradditions_awakened_supremium_ingot.png) |
+| - | Awakened Supremium Gemstone | ![awakened_supremium_gemstone](../images/mysticalagradditions_awakened_supremium_paxel.png) |
+| - | Awakened Supremium Ingot | ![awakened_supremium_ingot](../images/mysticalagradditions_awakened_supremium_paxel.png) |
+| - | Awakened Supremium Gemstone | ![awakened_supremium_gemstone](../images/mysticalagradditions_awakened_supremium_paxel.png) |
+| - | Awakened Supremium Ingot | ![awakened_supremium_ingot](../images/mysticalagradditions_awakened_supremium_paxel.png) |
 
 ---
 ## {}
@@ -37,7 +37,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tertium Ingot Block | ![tertium_ingot_block](../images/mysticalagradditions_tertium_ingot_block.png) |
+| item | Tertium Ingot Block | ![tertium_ingot_block](../images/mysticalagradditions_insanium_ingot_block.png) |
 
 ---
 ## Dragon Egg
@@ -74,7 +74,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Dragon Egg Essence | ![dragon_egg_essence](../images/mysticalagradditions_dragon_egg_essence.png) |
-| S | Blank Skull | ![blank_skull](../images/mysticalagradditions_blank_skull.png) |
+| S | Blank Skull | ![blank_skull](../images/mysticalagradditions_awakened_draconium_crux.png) |
 
 ---
 ## Inferium Essence
@@ -82,7 +82,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Inferium Ore | ![end_inferium_ore](../images/mysticalagradditions_end_inferium_ore.png) |
+| item | End Inferium Ore | ![end_inferium_ore](../images/mysticalagradditions_inferium_apple.png) |
 
 ---
 ## Prosperity Shard
@@ -90,7 +90,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Prosperity Ore | ![end_prosperity_ore](../images/mysticalagradditions_end_prosperity_ore.png) |
+| item | End Prosperity Ore | ![end_prosperity_ore](../images/mysticalagradditions_awakened_draconium_crux.png) |
 
 ---
 ## Life Essence
@@ -107,8 +107,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| H | Terrasteel Block | ![terrasteel_block](../images/mysticalagradditions_terrasteel_block.png) |
-| W | Gaia Ingot | ![gaia_ingot](../images/mysticalagradditions_gaia_ingot.png) |
+| H | Terrasteel Block | ![terrasteel_block](../images/mysticalagradditions_imperium_coal_block.png) |
+| W | Gaia Ingot | ![gaia_ingot](../images/mysticalagradditions_gaia_spirit_crux.png) |
 | D | Storage Blocks/Diamond | ![storage_blocks/diamond](../images/mysticalagradditions_storage_blocks/diamond.png) |
 
 ---
@@ -124,8 +124,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_golden_apple.png) |
-| E | Imperium Essence | ![imperium_essence](../images/mysticalagradditions_imperium_essence.png) |
+| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_imperium_apple.png) |
+| E | Imperium Essence | ![imperium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Imperium Coal
@@ -133,9 +133,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/mysticalagradditions_coal.png) |
-| - | Imperium Essence | ![imperium_essence](../images/mysticalagradditions_imperium_essence.png) |
-| - | Imperium Essence | ![imperium_essence](../images/mysticalagradditions_imperium_essence.png) |
+| - | Coal | ![coal](../images/mysticalagradditions_imperium_coal.png) |
+| - | Imperium Essence | ![imperium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
+| - | Imperium Essence | ![imperium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Imperium Coal Block
@@ -159,9 +159,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Imperium Axe | ![imperium_axe](../images/mysticalagradditions_imperium_axe.png) |
-| B | Imperium Pickaxe | ![imperium_pickaxe](../images/mysticalagradditions_imperium_pickaxe.png) |
-| C | Imperium Shovel | ![imperium_shovel](../images/mysticalagradditions_imperium_shovel.png) |
+| A | Imperium Axe | ![imperium_axe](../images/mysticalagradditions_imperium_apple.png) |
+| B | Imperium Pickaxe | ![imperium_pickaxe](../images/mysticalagradditions_imperium_apple.png) |
+| C | Imperium Shovel | ![imperium_shovel](../images/mysticalagradditions_imperium_apple.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/mysticalagradditions_rods/wooden.png) |
 
 ---
@@ -177,8 +177,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_golden_apple.png) |
-| E | Inferium Essence | ![inferium_essence](../images/mysticalagradditions_inferium_essence.png) |
+| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_imperium_apple.png) |
+| E | Inferium Essence | ![inferium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Inferium Coal
@@ -186,9 +186,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/mysticalagradditions_coal.png) |
-| - | Inferium Essence | ![inferium_essence](../images/mysticalagradditions_inferium_essence.png) |
-| - | Inferium Essence | ![inferium_essence](../images/mysticalagradditions_inferium_essence.png) |
+| - | Coal | ![coal](../images/mysticalagradditions_imperium_coal.png) |
+| - | Inferium Essence | ![inferium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
+| - | Inferium Essence | ![inferium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Inferium Coal Block
@@ -212,9 +212,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Inferium Axe | ![inferium_axe](../images/mysticalagradditions_inferium_axe.png) |
-| B | Inferium Pickaxe | ![inferium_pickaxe](../images/mysticalagradditions_inferium_pickaxe.png) |
-| C | Inferium Shovel | ![inferium_shovel](../images/mysticalagradditions_inferium_shovel.png) |
+| A | Inferium Axe | ![inferium_axe](../images/mysticalagradditions_inferium_apple.png) |
+| B | Inferium Pickaxe | ![inferium_pickaxe](../images/mysticalagradditions_inferium_apple.png) |
+| C | Inferium Shovel | ![inferium_shovel](../images/mysticalagradditions_inferium_apple.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/mysticalagradditions_rods/wooden.png) |
 
 ---
@@ -223,7 +223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tertium Ingot | ![tertium_ingot](../images/mysticalagradditions_tertium_ingot.png) |
+| item | Tertium Ingot | ![tertium_ingot](../images/mysticalagradditions_insanium_ingot.png) |
 
 ---
 ## Tertium Ingot
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_golden_apple.png) |
+| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_imperium_apple.png) |
 | E | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 
 ---
@@ -262,8 +262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Supremium Block | ![supremium_block](../images/mysticalagradditions_supremium_block.png) |
-| C | Master Infusion Crystal | ![master_infusion_crystal](../images/mysticalagradditions_master_infusion_crystal.png) |
+| E | Supremium Block | ![supremium_block](../images/mysticalagradditions_supremium_coal_block.png) |
+| C | Master Infusion Crystal | ![master_infusion_crystal](../images/mysticalagradditions_nitro_crystal_crux.png) |
 
 ---
 ## Insanium Essence
@@ -279,7 +279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/mysticalagradditions_coal.png) |
+| - | Coal | ![coal](../images/mysticalagradditions_imperium_coal.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 
@@ -305,8 +305,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_supremium_essence.png) |
-| C | Infusion Crystals | ![infusion_crystals](../images/mysticalagradditions_infusion_crystals.png) |
+| E | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
+| C | Infusion Crystals | ![infusion_crystals](../images/mysticalagradditions_awakened_draconium_crux.png) |
 
 ---
 ## Supremium Essence
@@ -323,7 +323,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| - | Farmland | ![farmland](../images/mysticalagradditions_farmland.png) |
+| - | Farmland | ![farmland](../images/mysticalagradditions_awakened_draconium_crux.png) |
 
 ---
 ## Insanium Farmland
@@ -331,9 +331,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/mysticalagradditions_unknown.png) |
+| - | Unknown | ![unknown](../images/mysticalagradditions_awakened_draconium_crux.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| - | Dirt | ![dirt](../images/mysticalagradditions_dirt.png) |
+| - | Dirt | ![dirt](../images/mysticalagradditions_awakened_draconium_crux.png) |
 
 ---
 ## Insanium Gemstone
@@ -341,7 +341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prosperity Gemstone | ![prosperity_gemstone](../images/mysticalagradditions_prosperity_gemstone.png) |
+| - | Prosperity Gemstone | ![prosperity_gemstone](../images/mysticalagradditions_insanium_gemstone.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 
@@ -367,7 +367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prosperity Ingot | ![prosperity_ingot](../images/mysticalagradditions_prosperity_ingot.png) |
+| - | Prosperity Ingot | ![prosperity_ingot](../images/mysticalagradditions_insanium_ingot.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 | - | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
 
@@ -409,7 +409,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Inferium Ore | ![nether_inferium_ore](../images/mysticalagradditions_nether_inferium_ore.png) |
+| item | Nether Inferium Ore | ![nether_inferium_ore](../images/mysticalagradditions_inferium_apple.png) |
 
 ---
 ## Prosperity Shard
@@ -417,7 +417,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Prosperity Ore | ![nether_prosperity_ore](../images/mysticalagradditions_nether_prosperity_ore.png) |
+| item | Nether Prosperity Ore | ![nether_prosperity_ore](../images/mysticalagradditions_nether_star_crux.png) |
 
 ---
 ## Nether Star
@@ -436,7 +436,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| S | Nether Star | ![nether_star](../images/mysticalagradditions_nether_star.png) |
+| S | Nether Star | ![nether_star](../images/mysticalagradditions_nether_star_crux.png) |
 | W | Withering Soul | ![withering_soul](../images/mysticalagradditions_withering_soul.png) |
 | D | Storage Blocks/Diamond | ![storage_blocks/diamond](../images/mysticalagradditions_storage_blocks/diamond.png) |
 
@@ -455,7 +455,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| W | Neutronium Ingot | ![neutronium_ingot](../images/mysticalagradditions_neutronium_ingot.png) |
+| W | Neutronium Ingot | ![neutronium_ingot](../images/mysticalagradditions_insanium_ingot.png) |
 | D | Storage Blocks/Diamond | ![storage_blocks/diamond](../images/mysticalagradditions_storage_blocks/diamond.png) |
 
 ---
@@ -473,7 +473,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Nitro Crystal Essence | ![nitro_crystal_essence](../images/mysticalagradditions_nitro_crystal_essence.png) |
-| S | Nether Star | ![nether_star](../images/mysticalagradditions_nether_star.png) |
+| S | Nether Star | ![nether_star](../images/mysticalagradditions_nether_star_crux.png) |
 
 ---
 ## Nitro Crystal Crux
@@ -482,9 +482,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Insanium Essence | ![insanium_essence](../images/mysticalagradditions_insanium_essence.png) |
-| C | Crystal Nitro | ![crystal_nitro](../images/mysticalagradditions_crystal_nitro.png) |
+| C | Crystal Nitro | ![crystal_nitro](../images/mysticalagradditions_nitro_crystal_crux.png) |
 | D | Storage Blocks/Diamond | ![storage_blocks/diamond](../images/mysticalagradditions_storage_blocks/diamond.png) |
-| F | Capacitor Nitro | ![capacitor_nitro](../images/mysticalagradditions_capacitor_nitro.png) |
+| F | Capacitor Nitro | ![capacitor_nitro](../images/mysticalagradditions_nitro_crystal_crux.png) |
 
 ---
 ## {}
@@ -492,7 +492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tertium Nugget | ![tertium_nugget](../images/mysticalagradditions_tertium_nugget.png) |
+| item | Tertium Nugget | ![tertium_nugget](../images/mysticalagradditions_insanium_nugget.png) |
 
 ---
 ## Tertium Nugget
@@ -521,8 +521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_golden_apple.png) |
-| E | Prudentium Essence | ![prudentium_essence](../images/mysticalagradditions_prudentium_essence.png) |
+| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_imperium_apple.png) |
+| E | Prudentium Essence | ![prudentium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Prudentium Coal
@@ -530,9 +530,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/mysticalagradditions_coal.png) |
-| - | Prudentium Essence | ![prudentium_essence](../images/mysticalagradditions_prudentium_essence.png) |
-| - | Prudentium Essence | ![prudentium_essence](../images/mysticalagradditions_prudentium_essence.png) |
+| - | Coal | ![coal](../images/mysticalagradditions_imperium_coal.png) |
+| - | Prudentium Essence | ![prudentium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
+| - | Prudentium Essence | ![prudentium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Prudentium Coal Block
@@ -556,9 +556,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Prudentium Axe | ![prudentium_axe](../images/mysticalagradditions_prudentium_axe.png) |
-| B | Prudentium Pickaxe | ![prudentium_pickaxe](../images/mysticalagradditions_prudentium_pickaxe.png) |
-| C | Prudentium Shovel | ![prudentium_shovel](../images/mysticalagradditions_prudentium_shovel.png) |
+| A | Prudentium Axe | ![prudentium_axe](../images/mysticalagradditions_prudentium_apple.png) |
+| B | Prudentium Pickaxe | ![prudentium_pickaxe](../images/mysticalagradditions_prudentium_apple.png) |
+| C | Prudentium Shovel | ![prudentium_shovel](../images/mysticalagradditions_prudentium_apple.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/mysticalagradditions_rods/wooden.png) |
 
 ---
@@ -581,8 +581,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_golden_apple.png) |
-| E | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_supremium_essence.png) |
+| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_imperium_apple.png) |
+| E | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Supremium Coal
@@ -590,9 +590,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/mysticalagradditions_coal.png) |
-| - | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_supremium_essence.png) |
-| - | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_supremium_essence.png) |
+| - | Coal | ![coal](../images/mysticalagradditions_imperium_coal.png) |
+| - | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
+| - | Supremium Essence | ![supremium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Supremium Coal Block
@@ -616,9 +616,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Supremium Axe | ![supremium_axe](../images/mysticalagradditions_supremium_axe.png) |
-| B | Supremium Pickaxe | ![supremium_pickaxe](../images/mysticalagradditions_supremium_pickaxe.png) |
-| C | Supremium Shovel | ![supremium_shovel](../images/mysticalagradditions_supremium_shovel.png) |
+| A | Supremium Axe | ![supremium_axe](../images/mysticalagradditions_awakened_supremium_paxel.png) |
+| B | Supremium Pickaxe | ![supremium_pickaxe](../images/mysticalagradditions_awakened_supremium_paxel.png) |
+| C | Supremium Shovel | ![supremium_shovel](../images/mysticalagradditions_awakened_supremium_paxel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/mysticalagradditions_rods/wooden.png) |
 
 ---
@@ -634,8 +634,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_golden_apple.png) |
-| E | Tertium Essence | ![tertium_essence](../images/mysticalagradditions_tertium_essence.png) |
+| A | Golden Apple | ![golden_apple](../images/mysticalagradditions_imperium_apple.png) |
+| E | Tertium Essence | ![tertium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Tertium Coal
@@ -643,9 +643,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/mysticalagradditions_coal.png) |
-| - | Tertium Essence | ![tertium_essence](../images/mysticalagradditions_tertium_essence.png) |
-| - | Tertium Essence | ![tertium_essence](../images/mysticalagradditions_tertium_essence.png) |
+| - | Coal | ![coal](../images/mysticalagradditions_imperium_coal.png) |
+| - | Tertium Essence | ![tertium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
+| - | Tertium Essence | ![tertium_essence](../images/mysticalagradditions_awakened_draconium_essence.png) |
 
 ---
 ## Tertium Coal Block
@@ -669,9 +669,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Tertium Axe | ![tertium_axe](../images/mysticalagradditions_tertium_axe.png) |
-| B | Tertium Pickaxe | ![tertium_pickaxe](../images/mysticalagradditions_tertium_pickaxe.png) |
-| C | Tertium Shovel | ![tertium_shovel](../images/mysticalagradditions_tertium_shovel.png) |
+| A | Tertium Axe | ![tertium_axe](../images/mysticalagradditions_tertium_apple.png) |
+| B | Tertium Pickaxe | ![tertium_pickaxe](../images/mysticalagradditions_tertium_apple.png) |
+| C | Tertium Shovel | ![tertium_shovel](../images/mysticalagradditions_tertium_apple.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/mysticalagradditions_rods/wooden.png) |
 
 ---

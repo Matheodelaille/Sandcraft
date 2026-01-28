@@ -14,7 +14,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -23,8 +23,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwdoors_acacia_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Acacia Barn Door
@@ -32,8 +32,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Acacia Barn Glass Door
@@ -41,8 +41,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Acacia Beach Door
@@ -50,7 +50,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -59,7 +59,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -68,7 +68,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -77,7 +77,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -86,8 +86,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Acacia Japanese2 Door
@@ -95,8 +95,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwdoors_acacia_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Acacia Japanese Door
@@ -104,8 +104,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Acacia Modern Door
@@ -113,8 +113,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Acacia Mystic Door
@@ -122,7 +122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -131,7 +131,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -140,7 +140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -149,8 +149,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Acacia Stable Head Door
@@ -166,7 +166,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -175,7 +175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -184,8 +184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_planks.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwdoors_acacia_slab.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## {}
@@ -200,8 +200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Bamboo Barn Door
@@ -209,8 +209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Bamboo Barn Glass Door
@@ -218,8 +218,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Bamboo Beach Door
@@ -227,7 +227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -236,7 +236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -254,7 +254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -263,8 +263,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Bamboo Japanese2 Door
@@ -272,8 +272,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Bamboo Japanese Door
@@ -281,8 +281,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Bamboo Modern Door
@@ -290,8 +290,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Bamboo Mystic Door
@@ -299,7 +299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -308,7 +308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -317,7 +317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -326,8 +326,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Bamboo Stable Head Door
@@ -343,7 +343,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -352,7 +352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -361,7 +361,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -370,8 +370,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
-| B | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
+| B | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## {}
@@ -386,7 +386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -395,8 +395,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwdoors_birch_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Birch Log | ![birch_log](../images/mcwdoors_bamboo_log.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Birch Barn Door
@@ -404,8 +404,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Birch Barn Glass Door
@@ -413,8 +413,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Birch Beach Door
@@ -422,7 +422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -431,7 +431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -440,7 +440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -449,7 +449,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -458,8 +458,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Birch Japanese2 Door
@@ -467,8 +467,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwdoors_birch_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Birch Japanese Door
@@ -476,8 +476,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Birch Modern Door
@@ -485,8 +485,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Birch Mystic Door
@@ -494,7 +494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -503,7 +503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -512,8 +512,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Birch Stable Head Door
@@ -529,7 +529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -538,7 +538,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -547,7 +547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -556,8 +556,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_planks.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwdoors_birch_slab.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwdoors_birch_bamboo_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwdoors_birch_bamboo_door.png) |
 
 ---
 ## {}
@@ -572,7 +572,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -581,8 +581,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Crimson Barn Glass Door
@@ -590,8 +590,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Crimson Beach Door
@@ -599,7 +599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -608,7 +608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -617,7 +617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -626,7 +626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -635,8 +635,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Crimson Japanese2 Door
@@ -644,8 +644,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwdoors_crimson_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Crimson Japanese Door
@@ -653,8 +653,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Crimson Modern Door
@@ -662,8 +662,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Crimson Mystic Door
@@ -671,7 +671,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -680,7 +680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -689,7 +689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -698,8 +698,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Crimson Stable Head Door
@@ -715,8 +715,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwdoors_crimson_stem.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwdoors_crimson_stem_glass_door.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Crimson Swamp Door
@@ -724,7 +724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -733,7 +733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -742,7 +742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -751,8 +751,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_planks.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwdoors_crimson_slab.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwdoors_crimson_bamboo_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwdoors_crimson_bamboo_door.png) |
 
 ---
 ## {}
@@ -767,7 +767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -776,8 +776,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwdoors_dark_oak_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Dark Oak Barn Door
@@ -785,8 +785,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Dark Oak Barn Glass Door
@@ -794,8 +794,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Dark Oak Beach Door
@@ -803,7 +803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -812,7 +812,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -821,7 +821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -830,8 +830,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Dark Oak Japanese2 Door
@@ -839,8 +839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwdoors_dark_oak_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Dark Oak Japanese Door
@@ -848,8 +848,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Dark Oak Modern Door
@@ -857,8 +857,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Dark Oak Mystic Door
@@ -866,7 +866,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -875,7 +875,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -884,7 +884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -893,8 +893,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Dark Oak Stable Head Door
@@ -910,7 +910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -919,7 +919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -928,7 +928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -937,8 +937,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_planks.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwdoors_dark_oak_slab.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwdoors_dark_oak_bamboo_door.png) |
 
 ---
 ## Garage Black Door
@@ -946,8 +946,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Black Dye | ![black_dye](../images/mcwdoors_black_dye.png) |
-| B | Garage White Door | ![garage_white_door](../images/mcwdoors_garage_white_door.png) |
+| A | Black Dye | ![black_dye](../images/mcwdoors_garage_black_door_bottom.png) |
+| B | Garage White Door | ![garage_white_door](../images/mcwdoors_garage_white_door_bottom.png) |
 
 ---
 ## Garage Gray Door
@@ -955,8 +955,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Gray Dye | ![gray_dye](../images/mcwdoors_gray_dye.png) |
-| B | Garage White Door | ![garage_white_door](../images/mcwdoors_garage_white_door.png) |
+| A | Gray Dye | ![gray_dye](../images/mcwdoors_garage_gray_door_bottom.png) |
+| B | Garage White Door | ![garage_white_door](../images/mcwdoors_garage_white_door_bottom.png) |
 
 ---
 ## Garage Silver Door
@@ -964,8 +964,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Light Gray Dye | ![light_gray_dye](../images/mcwdoors_light_gray_dye.png) |
-| B | Garage White Door | ![garage_white_door](../images/mcwdoors_garage_white_door.png) |
+| A | Light Gray Dye | ![light_gray_dye](../images/mcwdoors_garage_gray_door_bottom.png) |
+| B | Garage White Door | ![garage_white_door](../images/mcwdoors_garage_white_door_bottom.png) |
 
 ---
 ## Garage White Door
@@ -973,8 +973,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Glass | ![glass](../images/mcwdoors_glass.png) |
-| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
+| A | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Iron Portcullis
@@ -982,8 +982,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
-| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Jail Door
@@ -991,7 +991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## {}
@@ -1006,7 +1006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -1015,8 +1015,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwdoors_jungle_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwdoors_bamboo_log.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Jungle Barn Door
@@ -1024,8 +1024,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Jungle Barn Glass Door
@@ -1033,8 +1033,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Jungle Classic Door
@@ -1042,7 +1042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -1051,7 +1051,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -1060,7 +1060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -1069,8 +1069,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Jungle Japanese2 Door
@@ -1078,8 +1078,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwdoors_jungle_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Jungle Japanese Door
@@ -1087,8 +1087,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Jungle Modern Door
@@ -1096,8 +1096,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Jungle Mystic Door
@@ -1105,7 +1105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -1114,7 +1114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -1123,7 +1123,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -1132,8 +1132,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Jungle Stable Head Door
@@ -1149,7 +1149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -1158,7 +1158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -1167,7 +1167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -1176,8 +1176,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_jungle_planks.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwdoors_jungle_slab.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwdoors_japanese_jungle_lower.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwdoors_japanese_jungle_lower.png) |
 
 ---
 ## {}
@@ -1192,7 +1192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -1201,8 +1201,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwdoors_mangrove_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwdoors_bamboo_log.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Mangrove Barn Door
@@ -1210,8 +1210,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Mangrove Barn Glass Door
@@ -1219,8 +1219,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Mangrove Beach Door
@@ -1228,7 +1228,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -1237,7 +1237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -1246,7 +1246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -1255,7 +1255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -1264,8 +1264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Mangrove Japanese2 Door
@@ -1273,8 +1273,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwdoors_mangrove_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Mangrove Japanese Door
@@ -1282,8 +1282,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Mangrove Modern Door
@@ -1291,8 +1291,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Mangrove Mystic Door
@@ -1300,7 +1300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -1309,7 +1309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -1318,7 +1318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -1327,8 +1327,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Mangrove Stable Head Door
@@ -1344,7 +1344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -1353,7 +1353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -1362,8 +1362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_mangrove_planks.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwdoors_mangrove_slab.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwdoors_japanese_mangrove_lower.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwdoors_japanese_mangrove_lower.png) |
 
 ---
 ## {}
@@ -1378,8 +1378,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_nugget.png) |
-| A | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
+| B | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_portcullis_door_bottom.png) |
+| A | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Metal Hospital Door
@@ -1387,9 +1387,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_nugget.png) |
-| A | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
-| C | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| B | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_portcullis_door_bottom.png) |
+| A | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
+| C | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Metal Reinforced Door
@@ -1397,7 +1397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_nugget.png) |
+| A | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 | B | Metal Door | ![metal_door](../images/mcwdoors_metal_door.png) |
 
 ---
@@ -1407,7 +1407,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Metal Windowed Door | ![metal_windowed_door](../images/mcwdoors_metal_windowed_door.png) |
-| A | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_nugget.png) |
+| A | Iron Nugget | ![iron_nugget](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Metal Windowed Door
@@ -1415,7 +1415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 | A | Metal Door | ![metal_door](../images/mcwdoors_metal_door.png) |
 
 ---
@@ -1431,7 +1431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -1440,8 +1440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwdoors_oak_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Oak Log | ![oak_log](../images/mcwdoors_bamboo_log.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Oak Barn Door
@@ -1449,8 +1449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Oak Barn Glass Door
@@ -1458,8 +1458,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Oak Beach Door
@@ -1467,7 +1467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -1476,7 +1476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -1485,7 +1485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -1494,8 +1494,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Oak Japanese2 Door
@@ -1503,8 +1503,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwdoors_oak_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Oak Japanese Door
@@ -1512,8 +1512,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Oak Modern Door
@@ -1521,8 +1521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Oak Mystic Door
@@ -1530,7 +1530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -1539,7 +1539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -1548,7 +1548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -1557,8 +1557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Oak Stable Head Door
@@ -1574,7 +1574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -1583,7 +1583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -1592,7 +1592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -1601,8 +1601,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwdoors_oak_planks.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwdoors_oak_slab.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwdoors_dark_oak_bamboo_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwdoors_dark_oak_bamboo_door.png) |
 
 ---
 ## Print Acacia
@@ -1610,8 +1610,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Acacia Door | ![acacia_door](../images/mcwdoors_acacia_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Acacia Door | ![acacia_door](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Print Bamboo
@@ -1619,8 +1619,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Bamboo | ![bamboo](../images/mcwdoors_bamboo.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Bamboo | ![bamboo](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Print Birch
@@ -1628,8 +1628,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Birch Door | ![birch_door](../images/mcwdoors_birch_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Birch Door | ![birch_door](../images/mcwdoors_birch_bamboo_door.png) |
 
 ---
 ## Print Dark Oak
@@ -1637,8 +1637,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Dark Oak Door | ![dark_oak_door](../images/mcwdoors_dark_oak_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Dark Oak Door | ![dark_oak_door](../images/mcwdoors_dark_oak_bamboo_door.png) |
 
 ---
 ## Print Jungle
@@ -1646,8 +1646,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Jungle Door | ![jungle_door](../images/mcwdoors_jungle_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Jungle Door | ![jungle_door](../images/mcwdoors_jungle_bamboo_door.png) |
 
 ---
 ## Print Mystic
@@ -1655,8 +1655,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Warped Door | ![warped_door](../images/mcwdoors_warped_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Warped Door | ![warped_door](../images/mcwdoors_warped_bamboo_door.png) |
 
 ---
 ## Print Nether
@@ -1664,8 +1664,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Crimson Door | ![crimson_door](../images/mcwdoors_crimson_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Crimson Door | ![crimson_door](../images/mcwdoors_crimson_bamboo_door.png) |
 
 ---
 ## Print Oak
@@ -1673,8 +1673,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Oak Door | ![oak_door](../images/mcwdoors_oak_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Oak Door | ![oak_door](../images/mcwdoors_dark_oak_bamboo_door.png) |
 
 ---
 ## Print Spruce
@@ -1682,8 +1682,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Spruce Door | ![spruce_door](../images/mcwdoors_spruce_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Spruce Door | ![spruce_door](../images/mcwdoors_spruce_bamboo_door.png) |
 
 ---
 ## Print Swamp
@@ -1691,8 +1691,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Mangrove Door | ![mangrove_door](../images/mcwdoors_mangrove_door.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Mangrove Door | ![mangrove_door](../images/mcwdoors_mangrove_bamboo_door.png) |
 
 ---
 ## Print Waffle
@@ -1700,8 +1700,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwdoors_paper.png) |
-| B | Pink Tulip | ![pink_tulip](../images/mcwdoors_pink_tulip.png) |
+| A | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
+| B | Pink Tulip | ![pink_tulip](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Sliding Glass Door
@@ -1709,8 +1709,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
-| A | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
+| A | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## {}
@@ -1725,7 +1725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -1734,8 +1734,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwdoors_spruce_log.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwdoors_bamboo_log.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Spruce Barn Door
@@ -1743,8 +1743,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Spruce Barn Glass Door
@@ -1752,8 +1752,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Spruce Beach Door
@@ -1761,7 +1761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -1770,7 +1770,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -1779,7 +1779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -1788,8 +1788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Spruce Japanese2 Door
@@ -1797,8 +1797,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwdoors_spruce_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Spruce Japanese Door
@@ -1806,8 +1806,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Spruce Modern Door
@@ -1815,8 +1815,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Spruce Mystic Door
@@ -1824,7 +1824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -1833,7 +1833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -1842,7 +1842,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -1851,8 +1851,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Spruce Stable Head Door
@@ -1868,7 +1868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -1877,7 +1877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -1886,7 +1886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -1895,8 +1895,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_spruce_planks.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwdoors_spruce_slab.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwdoors_japanese_spruce_lower.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwdoors_japanese_spruce_lower.png) |
 
 ---
 ## Store Door
@@ -1904,8 +1904,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
-| A | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
+| A | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## {}
@@ -1920,7 +1920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwdoors_print_bamboo.png) |
 
 ---
@@ -1929,8 +1929,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Stick | ![stick](../images/mcwdoors_stick.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Stick | ![stick](../images/mcwdoors_acacia_bamboo_door.png) |
 
 ---
 ## Warped Barn Glass Door
@@ -1938,8 +1938,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Warped Beach Door
@@ -1947,7 +1947,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Jungle | ![print_jungle](../images/mcwdoors_print_jungle.png) |
 
 ---
@@ -1956,7 +1956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Oak | ![print_oak](../images/mcwdoors_print_oak.png) |
 
 ---
@@ -1965,7 +1965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Spruce | ![print_spruce](../images/mcwdoors_print_spruce.png) |
 
 ---
@@ -1974,7 +1974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Dark Oak | ![print_dark_oak](../images/mcwdoors_print_dark_oak.png) |
 
 ---
@@ -1983,8 +1983,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Warped Japanese2 Door
@@ -1992,8 +1992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwdoors_warped_slab.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Warped Japanese Door
@@ -2001,8 +2001,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Paper | ![paper](../images/mcwdoors_paper.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Paper | ![paper](../images/mcwdoors_acacia_paper_door.png) |
 
 ---
 ## Warped Modern Door
@@ -2010,8 +2010,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwdoors_glass_pane.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Warped Paper Door
@@ -2019,7 +2019,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwdoors_print_mystic.png) |
 
 ---
@@ -2028,7 +2028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Nether | ![print_nether](../images/mcwdoors_print_nether.png) |
 
 ---
@@ -2037,7 +2037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Birch | ![print_birch](../images/mcwdoors_print_birch.png) |
 
 ---
@@ -2046,8 +2046,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_bars.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---
 ## Warped Stable Head Door
@@ -2063,8 +2063,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwdoors_warped_stem.png) |
-| B | Glass | ![glass](../images/mcwdoors_glass.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwdoors_warped_stem_glass_door.png) |
+| B | Glass | ![glass](../images/mcwdoors_acacia_bark_glass_door.png) |
 
 ---
 ## Warped Swamp Door
@@ -2072,7 +2072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwdoors_print_swamp.png) |
 
 ---
@@ -2081,7 +2081,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Acacia | ![print_acacia](../images/mcwdoors_print_acacia.png) |
 
 ---
@@ -2090,7 +2090,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
 | B | Print Waffle | ![print_waffle](../images/mcwdoors_print_waffle.png) |
 
 ---
@@ -2099,8 +2099,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwdoors_warped_planks.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwdoors_warped_slab.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwdoors_japanese_warped_lower.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwdoors_japanese_warped_lower.png) |
 
 ---
 ## Wooden Portcullis
@@ -2108,7 +2108,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Wooden Fences | ![wooden_fences](../images/mcwdoors_wooden_fences.png) |
-| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_ingot.png) |
+| A | Wooden Fences | ![wooden_fences](../images/mcwdoors_wooden_portcullis_door_bottom.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mcwdoors_iron_portcullis_door_bottom.png) |
 
 ---

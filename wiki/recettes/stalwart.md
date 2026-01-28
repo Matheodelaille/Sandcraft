@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Awful Crystal | ![awful_crystal](../images/stalwart_awful_crystal.png) |
-| 1 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Awful Crystal | ![awful_crystal](../images/stalwart_dungeons_awful_crystal.png) |
+| 1 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Chiseled End Stone Bricks
@@ -16,10 +16,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_end_stone_bricks.png) |
-| 1 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_end_stone_bricks.png) |
-| 2 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_end_stone_bricks.png) |
-| 3 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_end_stone_bricks.png) |
+| 0 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 1 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 3 | End Stone Bricks | ![end_stone_bricks](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
 
 ---
 ## Chorundum Armor Chestplate
@@ -27,15 +27,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 4 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 5 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 6 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 7 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 8 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 4 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 5 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 6 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 7 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 8 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
 
 ---
 ## Chorundum Armor Boots
@@ -43,11 +43,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 5 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 5 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
 
 ---
 ## Chorundum Armor Helmet
@@ -55,12 +55,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 4 | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| 5 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 4 | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| 5 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
 
 ---
 ## Chorundum Armor Leggings
@@ -68,14 +68,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 4 | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| 5 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 6 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 8 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 4 | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| 5 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 6 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 8 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
 
 ---
 ## Chorundum Axe
@@ -83,11 +83,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Chorundum Hoe
@@ -95,10 +95,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Chorundum
@@ -106,7 +106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chorundum Ore | ![chorundum_ore](../images/stalwart_chorundum_ore.png) |
+| item | Chorundum Ore | ![chorundum_ore](../images/stalwart_dungeons_chorundum_ore.png) |
 
 ---
 ## Chorundum Pickaxe
@@ -114,11 +114,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Chorundum Shield
@@ -126,13 +126,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 2 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 3 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 4 | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| 5 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 7 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 2 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 3 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 4 | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| 5 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 7 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
 
 ---
 ## Chorundum Shovel
@@ -140,9 +140,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Stick | ![stick](../images/stalwart_stick.png) |
-| 2 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 2 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Chorundum Sword
@@ -150,9 +150,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 1 | Chorundum | ![chorundum](../images/stalwart_chorundum.png) |
-| 2 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 1 | Chorundum | ![chorundum](../images/stalwart_dungeons_chorundum_axe.png) |
+| 2 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Cracked Endstone Bricks
@@ -160,7 +160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Bricks | ![end_stone_bricks](../images/stalwart_end_stone_bricks.png) |
+| item | End Stone Bricks | ![end_stone_bricks](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
 
 ---
 ## Diamond Hammer
@@ -168,13 +168,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Diamond | ![diamond](../images/stalwart_diamond.png) |
-| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_smooth_stone.png) |
-| 2 | Diamond | ![diamond](../images/stalwart_diamond.png) |
-| 3 | Diamond | ![diamond](../images/stalwart_diamond.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Diamond | ![diamond](../images/stalwart_diamond.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Diamond | ![diamond](../images/stalwart_dungeons_diamond_hammer.png) |
+| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | Diamond | ![diamond](../images/stalwart_dungeons_diamond_hammer.png) |
+| 3 | Diamond | ![diamond](../images/stalwart_dungeons_diamond_hammer.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Diamond | ![diamond](../images/stalwart_dungeons_diamond_hammer.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Golden Hammer
@@ -182,13 +182,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Gold Ingot | ![gold_ingot](../images/stalwart_gold_ingot.png) |
-| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_smooth_stone.png) |
-| 2 | Gold Ingot | ![gold_ingot](../images/stalwart_gold_ingot.png) |
-| 3 | Gold Ingot | ![gold_ingot](../images/stalwart_gold_ingot.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Gold Ingot | ![gold_ingot](../images/stalwart_gold_ingot.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Gold Ingot | ![gold_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | Gold Ingot | ![gold_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Gold Ingot | ![gold_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Gold Ingot | ![gold_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Igniter
@@ -196,8 +196,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 1 | Ancient Fire | ![ancient_fire](../images/stalwart_ancient_fire.png) |
+| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 1 | Ancient Fire | ![ancient_fire](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Iron Hammer
@@ -205,13 +205,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Ingot | ![iron_ingot](../images/stalwart_iron_ingot.png) |
-| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_smooth_stone.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/stalwart_iron_ingot.png) |
-| 3 | Iron Ingot | ![iron_ingot](../images/stalwart_iron_ingot.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Iron Ingot | ![iron_ingot](../images/stalwart_iron_ingot.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/stalwart_dungeons_iron_hammer.png) |
+| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/stalwart_dungeons_iron_hammer.png) |
+| 3 | Iron Ingot | ![iron_ingot](../images/stalwart_dungeons_iron_hammer.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Iron Ingot | ![iron_ingot](../images/stalwart_dungeons_iron_hammer.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Netherite Hammer
@@ -226,10 +226,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/stalwart_netherrack.png) |
-| - | Nether Brick | ![nether_brick](../images/stalwart_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/stalwart_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/stalwart_nether_brick.png) |
+| - | Netherrack | ![netherrack](../images/stalwart_dungeons_bricks_netherrack.png) |
+| - | Nether Brick | ![nether_brick](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| - | Nether Brick | ![nether_brick](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| - | Nether Brick | ![nether_brick](../images/stalwart_dungeons_cracked_nether_bricks.png) |
 
 ---
 ## Nether Bricks And Netherrack Slab
@@ -237,9 +237,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 1 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 2 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
+| 0 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 1 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 2 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
 
 ---
 ## Nether Bricks And Netherrack Stairs
@@ -247,12 +247,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 3 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 4 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 6 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 7 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
-| 8 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_nether_bricks_and_netherrack.png) |
+| 0 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 3 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 4 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 6 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 7 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
+| 8 | Nether Bricks And Netherrack | ![nether_bricks_and_netherrack](../images/stalwart_dungeons_nether_bricks_and_netherrack_side.png) |
 
 ---
 ## Nether Bricks And Soul Sand
@@ -260,10 +260,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Sand | ![soul_sand](../images/stalwart_soul_sand.png) |
-| - | Nether Brick | ![nether_brick](../images/stalwart_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/stalwart_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/stalwart_nether_brick.png) |
+| - | Soul Sand | ![soul_sand](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| - | Nether Brick | ![nether_brick](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| - | Nether Brick | ![nether_brick](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| - | Nether Brick | ![nether_brick](../images/stalwart_dungeons_cracked_nether_bricks.png) |
 
 ---
 ## Nether Bricks And Soul Sand Slab
@@ -271,9 +271,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 1 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 2 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
+| 0 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 1 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 2 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
 
 ---
 ## Nether Bricks And Soul Sand Stairs
@@ -281,12 +281,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 3 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 4 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 6 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 7 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
-| 8 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_nether_bricks_and_soul_sand.png) |
+| 0 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 3 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 4 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 6 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 7 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
+| 8 | Nether Bricks And Soul Sand | ![nether_bricks_and_soul_sand](../images/stalwart_dungeons_nether_bricks_and_soul_sand_side.png) |
 
 ---
 ## Nether Hammer
@@ -294,15 +294,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 1 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 2 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 3 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 4 | Ancient Fire | ![ancient_fire](../images/stalwart_ancient_fire.png) |
-| 5 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 6 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 7 | Stone Hammer | ![stone_hammer](../images/stalwart_stone_hammer.png) |
-| 8 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
+| 0 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 1 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 2 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 3 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 4 | Ancient Fire | ![ancient_fire](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 6 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 7 | Stone Hammer | ![stone_hammer](../images/stalwart_dungeons_stone_hammer.png) |
+| 8 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
 
 ---
 ## Purpur Bricks And Endstone
@@ -310,8 +310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| - | End Stone | ![end_stone](../images/stalwart_end_stone.png) |
+| - | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| - | End Stone | ![end_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
 
 ---
 ## Purpur Bricks And Endstone
@@ -319,8 +319,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purpur Slab | ![purpur_slab](../images/stalwart_purpur_slab.png) |
-| - | End Stone | ![end_stone](../images/stalwart_end_stone.png) |
+| - | Purpur Slab | ![purpur_slab](../images/stalwart_dungeons_purpur_bricks.png) |
+| - | End Stone | ![end_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
 
 ---
 ## Purpur Bricks And Endstone Slab
@@ -328,9 +328,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 1 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 2 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
+| 0 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 1 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 2 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
 
 ---
 ## Purpur Bricks And Endstone Slab
@@ -338,7 +338,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
+| item | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
 
 ---
 ## Purpur Bricks And Endstone Stairs
@@ -346,12 +346,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 3 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 4 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 6 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 7 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
-| 8 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
+| 0 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 3 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 4 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 6 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 7 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
+| 8 | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
 
 ---
 ## Purpur Bricks And Endstone Stairs
@@ -359,7 +359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_purpur_bricks_and_endstone.png) |
+| item | Purpur Bricks And Endstone | ![purpur_bricks_and_endstone](../images/stalwart_dungeons_bricks_endstone.png) |
 
 ---
 ## Purpur Bricks
@@ -367,10 +367,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Block | ![purpur_block](../images/stalwart_purpur_block.png) |
-| 1 | Purpur Block | ![purpur_block](../images/stalwart_purpur_block.png) |
-| 2 | Purpur Block | ![purpur_block](../images/stalwart_purpur_block.png) |
-| 3 | Purpur Block | ![purpur_block](../images/stalwart_purpur_block.png) |
+| 0 | Purpur Block | ![purpur_block](../images/stalwart_dungeons_purpur_bricks.png) |
+| 1 | Purpur Block | ![purpur_block](../images/stalwart_dungeons_purpur_bricks.png) |
+| 2 | Purpur Block | ![purpur_block](../images/stalwart_dungeons_purpur_bricks.png) |
+| 3 | Purpur Block | ![purpur_block](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Purpur Bricks Slab
@@ -378,9 +378,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 1 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 2 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 1 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 2 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Purpur Bricks Slab
@@ -388,7 +388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| item | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Purpur Bricks Stairs
@@ -396,12 +396,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 3 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 4 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 6 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 7 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 8 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 3 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 4 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 6 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 7 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 8 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Purpur Bricks Stairs
@@ -409,7 +409,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| item | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Purpur Bricks Wall
@@ -417,12 +417,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 1 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 2 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 3 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 4 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 5 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 1 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 2 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 3 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 4 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 5 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Purpur Bricks Wall
@@ -430,7 +430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| item | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Pusher
@@ -438,11 +438,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
-| 3 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
-| 4 | Piston | ![piston](../images/stalwart_piston.png) |
-| 5 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
-| 7 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
+| 1 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
+| 3 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
+| 4 | Piston | ![piston](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
+| 7 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
 
 ---
 ## Soul Bricks
@@ -450,10 +450,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Sand | ![soul_sand](../images/stalwart_soul_sand.png) |
-| 1 | Soul Sand | ![soul_sand](../images/stalwart_soul_sand.png) |
-| 2 | Soul Sand | ![soul_sand](../images/stalwart_soul_sand.png) |
-| 3 | Soul Sand | ![soul_sand](../images/stalwart_soul_sand.png) |
+| 0 | Soul Sand | ![soul_sand](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 1 | Soul Sand | ![soul_sand](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 2 | Soul Sand | ![soul_sand](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 3 | Soul Sand | ![soul_sand](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Bricks Slab
@@ -461,9 +461,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 1 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 2 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
+| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 1 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 2 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Bricks Slab
@@ -471,7 +471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
+| item | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Bricks Stairs
@@ -479,12 +479,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 3 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 4 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 6 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 7 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 8 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
+| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 3 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 4 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 6 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 7 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 8 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Bricks Stairs
@@ -492,7 +492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
+| item | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Bricks Wall
@@ -500,12 +500,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 1 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 2 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 3 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 4 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
-| 5 | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
+| 0 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 1 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 2 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 3 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 4 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 5 | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Bricks Wall
@@ -513,7 +513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Bricks | ![soul_bricks](../images/stalwart_soul_bricks.png) |
+| item | Soul Bricks | ![soul_bricks](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Tiles
@@ -521,10 +521,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Soil | ![soul_soil](../images/stalwart_soul_soil.png) |
-| 1 | Soul Soil | ![soul_soil](../images/stalwart_soul_soil.png) |
-| 2 | Soul Soil | ![soul_soil](../images/stalwart_soul_soil.png) |
-| 3 | Soul Soil | ![soul_soil](../images/stalwart_soul_soil.png) |
+| 0 | Soul Soil | ![soul_soil](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 1 | Soul Soil | ![soul_soil](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 2 | Soul Soil | ![soul_soil](../images/stalwart_dungeons_bricks_soul_sand.png) |
+| 3 | Soul Soil | ![soul_soil](../images/stalwart_dungeons_bricks_soul_sand.png) |
 
 ---
 ## Soul Tiles Slab
@@ -532,9 +532,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
-| 1 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
-| 2 | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
+| 0 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
+| 1 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
+| 2 | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
 
 ---
 ## Soul Tiles Slab
@@ -542,7 +542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Tiles | ![soul_tiles](../images/stalwart_soul_tiles.png) |
+| item | Soul Tiles | ![soul_tiles](../images/stalwart_dungeons_soul_tiles_face.png) |
 
 ---
 ## Spore Vaporizer
@@ -550,15 +550,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 1 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 2 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 3 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 4 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 5 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 6 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 7 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
-| 8 | Spore Bottle | ![spore_bottle](../images/stalwart_spore_bottle.png) |
+| 0 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 1 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 2 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 3 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 4 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 5 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 6 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 7 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
+| 8 | Spore Bottle | ![spore_bottle](../images/stalwart_dungeons_spore_bottle.png) |
 
 ---
 ## Stone Hammer
@@ -566,13 +566,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Cobblestone | ![cobblestone](../images/stalwart_cobblestone.png) |
-| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_smooth_stone.png) |
-| 2 | Cobblestone | ![cobblestone](../images/stalwart_cobblestone.png) |
-| 3 | Cobblestone | ![cobblestone](../images/stalwart_cobblestone.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Cobblestone | ![cobblestone](../images/stalwart_cobblestone.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Cobblestone | ![cobblestone](../images/stalwart_dungeons_ancient_fire.png) |
+| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | Cobblestone | ![cobblestone](../images/stalwart_dungeons_ancient_fire.png) |
+| 3 | Cobblestone | ![cobblestone](../images/stalwart_dungeons_ancient_fire.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Cobblestone | ![cobblestone](../images/stalwart_dungeons_ancient_fire.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Teleporter Pearl
@@ -580,8 +580,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| - | Ender Pearl | ![ender_pearl](../images/stalwart_ender_pearl.png) |
+| - | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| - | Ender Pearl | ![ender_pearl](../images/stalwart_dungeons_teleporter_pearl.png) |
 
 ---
 ## Teleporter
@@ -589,15 +589,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 1 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 2 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 3 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 4 | Void Crystal | ![void_crystal](../images/stalwart_void_crystal.png) |
-| 5 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 6 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 7 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
-| 8 | Purpur Bricks | ![purpur_bricks](../images/stalwart_purpur_bricks.png) |
+| 0 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 1 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 2 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 3 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 4 | Void Crystal | ![void_crystal](../images/stalwart_dungeons_void_crystal.png) |
+| 5 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 6 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 7 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
+| 8 | Purpur Bricks | ![purpur_bricks](../images/stalwart_dungeons_purpur_bricks.png) |
 
 ---
 ## Transient Block Close
@@ -605,8 +605,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Bricks | ![nether_bricks](../images/stalwart_nether_bricks.png) |
-| 1 | Ancient Fire | ![ancient_fire](../images/stalwart_ancient_fire.png) |
+| 0 | Nether Bricks | ![nether_bricks](../images/stalwart_dungeons_cracked_nether_bricks.png) |
+| 1 | Ancient Fire | ![ancient_fire](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Axe
@@ -614,11 +614,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 3 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Boots
@@ -626,10 +626,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 3 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 5 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 5 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
 
 ---
 ## Tungsten Chestplate
@@ -637,14 +637,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 3 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 4 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 5 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 6 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 7 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 8 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 4 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 5 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 6 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 7 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 8 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
 
 ---
 ## Tungsten Hammer
@@ -652,13 +652,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_smooth_stone.png) |
-| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Helmet
@@ -666,11 +666,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
 
 ---
 ## Tungsten Hoe
@@ -678,10 +678,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 3 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 3 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Ingot
@@ -689,7 +689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Tungsten | ![raw_tungsten](../images/stalwart_raw_tungsten.png) |
+| item | Raw Tungsten | ![raw_tungsten](../images/stalwart_dungeons_raw_tungsten.png) |
 
 ---
 ## Tungsten Ingot
@@ -697,7 +697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Tungsten | ![raw_tungsten](../images/stalwart_raw_tungsten.png) |
+| item | Raw Tungsten | ![raw_tungsten](../images/stalwart_dungeons_raw_tungsten.png) |
 
 ---
 ## Tungsten Ingot
@@ -705,7 +705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tungsten Ore | ![tungsten_ore](../images/stalwart_tungsten_ore.png) |
+| item | Tungsten Ore | ![tungsten_ore](../images/stalwart_dungeons_tungsten_ore.png) |
 
 ---
 ## Tungsten Ingot
@@ -713,7 +713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tungsten Ore | ![tungsten_ore](../images/stalwart_tungsten_ore.png) |
+| item | Tungsten Ore | ![tungsten_ore](../images/stalwart_dungeons_tungsten_ore.png) |
 
 ---
 ## Tungsten Leggings
@@ -721,13 +721,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 2 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 6 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 8 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
+| 0 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 2 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 6 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 8 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
 
 ---
 ## Tungsten Pickaxe
@@ -735,11 +735,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 2 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Shovel
@@ -747,9 +747,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Stick | ![stick](../images/stalwart_stick.png) |
-| 2 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 2 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Sword
@@ -757,9 +757,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 2 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 1 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 2 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---
 ## Tungsten Shield
@@ -767,13 +767,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 1 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 2 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
-| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 4 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_tungsten_ingot.png) |
-| 7 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_blaze_armor_scrap.png) |
+| 0 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 1 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 2 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
+| 3 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 4 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 5 | Tungsten Ingot | ![tungsten_ingot](../images/stalwart_dungeons_tungsten_ingot.png) |
+| 7 | Blaze Armor Scrap | ![blaze_armor_scrap](../images/stalwart_dungeons_armor_scrap.png) |
 
 ---
 ## Warted Tungsten Boots
@@ -816,12 +816,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Planks | ![planks](../images/stalwart_planks.png) |
-| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_smooth_stone.png) |
-| 2 | Planks | ![planks](../images/stalwart_planks.png) |
-| 3 | Planks | ![planks](../images/stalwart_planks.png) |
-| 4 | Stick | ![stick](../images/stalwart_stick.png) |
-| 5 | Planks | ![planks](../images/stalwart_planks.png) |
-| 7 | Stick | ![stick](../images/stalwart_stick.png) |
+| 0 | Planks | ![planks](../images/stalwart_dungeons_ancient_fire.png) |
+| 1 | Smooth Stone | ![smooth_stone](../images/stalwart_dungeons_cracked_end_stone_bricks.png) |
+| 2 | Planks | ![planks](../images/stalwart_dungeons_ancient_fire.png) |
+| 3 | Planks | ![planks](../images/stalwart_dungeons_ancient_fire.png) |
+| 4 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
+| 5 | Planks | ![planks](../images/stalwart_dungeons_ancient_fire.png) |
+| 7 | Stick | ![stick](../images/stalwart_dungeons_ancient_fire.png) |
 
 ---

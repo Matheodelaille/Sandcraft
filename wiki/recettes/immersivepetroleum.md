@@ -21,10 +21,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Water | ![water](../images/immersivepetroleum_water.png) |
+| B | Water | ![water](../images/immersivepetroleum_asphalt.png) |
 | C | Bitumen | ![bitumen](../images/immersivepetroleum_bitumen.png) |
-| G | Gravel | ![gravel](../images/immersivepetroleum_gravel.png) |
-| S | Sand | ![sand](../images/immersivepetroleum_sand.png) |
+| G | Gravel | ![gravel](../images/immersivepetroleum_asphalt.png) |
+| S | Sand | ![sand](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## Asphalt
@@ -32,7 +32,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Asphalt Slab | ![asphalt_slab](../images/immersivepetroleum_asphalt_slab.png) |
+| S | Asphalt Slab | ![asphalt_slab](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## Asphalt Slab
@@ -56,9 +56,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/immersivepetroleum_glass.png) |
-| P | Fluid Pipe | ![fluid_pipe](../images/immersivepetroleum_fluid_pipe.png) |
-| T | Treated Wood | ![treated_wood](../images/immersivepetroleum_treated_wood.png) |
+| G | Glass | ![glass](../images/immersivepetroleum_asphalt.png) |
+| P | Fluid Pipe | ![fluid_pipe](../images/immersivepetroleum_well_pipe_top.png) |
+| T | Treated Wood | ![treated_wood](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## Candle
@@ -66,7 +66,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | String | ![string](../images/immersivepetroleum_string.png) |
+| s | String | ![string](../images/immersivepetroleum_asphalt.png) |
 | w | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -84,7 +84,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper | ![cut_copper](../images/immersivepetroleum_cut_copper.png) |
+| - | Cut Copper | ![cut_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -93,7 +93,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Slab | ![cut_copper_slab](../images/immersivepetroleum_cut_copper_slab.png) |
+| - | Cut Copper Slab | ![cut_copper_slab](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -102,7 +102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Stairs | ![cut_copper_stairs](../images/immersivepetroleum_cut_copper_stairs.png) |
+| - | Cut Copper Stairs | ![cut_copper_stairs](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -125,7 +125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Fabric Hemp | ![fabric_hemp](../images/immersivepetroleum_fabric_hemp.png) |
+| f | Fabric Hemp | ![fabric_hemp](../images/immersivepetroleum_asphalt.png) |
 | w | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -141,7 +141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper | ![exposed_copper](../images/immersivepetroleum_exposed_copper.png) |
+| - | Exposed Copper | ![exposed_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -150,7 +150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper | ![exposed_cut_copper](../images/immersivepetroleum_exposed_cut_copper.png) |
+| - | Exposed Cut Copper | ![exposed_cut_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -159,7 +159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/immersivepetroleum_exposed_cut_copper_slab.png) |
+| - | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -168,7 +168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Cut Copper Stairs | ![exposed_cut_copper_stairs](../images/immersivepetroleum_exposed_cut_copper_stairs.png) |
+| - | Exposed Cut Copper Stairs | ![exposed_cut_copper_stairs](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -177,11 +177,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Fluid Placer | ![fluid_placer](../images/immersivepetroleum_fluid_placer.png) |
-| C | Component Steel | ![component_steel](../images/immersivepetroleum_component_steel.png) |
-| F | Flint And Steel | ![flint_and_steel](../images/immersivepetroleum_flint_and_steel.png) |
+| A | Fluid Placer | ![fluid_placer](../images/immersivepetroleum_asphalt.png) |
+| C | Component Steel | ![component_steel](../images/immersivepetroleum_asphalt.png) |
+| F | Flint And Steel | ![flint_and_steel](../images/immersivepetroleum_asphalt.png) |
 | I | Plates/Iron | ![plates/iron](../images/immersivepetroleum_plates/iron.png) |
-| P | Fluid Pipe | ![fluid_pipe](../images/immersivepetroleum_fluid_pipe.png) |
+| P | Fluid Pipe | ![fluid_pipe](../images/immersivepetroleum_well_pipe_top.png) |
 
 ---
 ## {}
@@ -217,7 +217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Capacitor Lv | ![capacitor_lv](../images/immersivepetroleum_capacitor_lv.png) |
+| C | Capacitor Lv | ![capacitor_lv](../images/immersivepetroleum_asphalt.png) |
 | G | Generator | ![generator](../images/immersivepetroleum_generator.png) |
 | P | Plates/Iron | ![plates/iron](../images/immersivepetroleum_plates/iron.png) |
 
@@ -255,7 +255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Fabric Hemp | ![fabric_hemp](../images/immersivepetroleum_fabric_hemp.png) |
+| F | Fabric Hemp | ![fabric_hemp](../images/immersivepetroleum_asphalt.png) |
 | M | Gasoline Bottle | ![gasoline_bottle](../images/immersivepetroleum_gasoline_bottle.png) |
 
 ---
@@ -265,7 +265,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | M | Gasoline Bottle | ![gasoline_bottle](../images/immersivepetroleum_gasoline_bottle.png) |
-| W | Wool | ![wool](../images/immersivepetroleum_wool.png) |
+| W | Wool | ![wool](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## Napalm'}
@@ -294,7 +294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/immersivepetroleum_bucket.png) |
+| B | Bucket | ![bucket](../images/immersivepetroleum_asphalt.png) |
 | P | Plates/Iron | ![plates/iron](../images/immersivepetroleum_plates/iron.png) |
 | R | Dyes/Red | ![dyes/red](../images/immersivepetroleum_dyes/red.png) |
 
@@ -304,7 +304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper | ![oxidized_copper](../images/immersivepetroleum_oxidized_copper.png) |
+| - | Oxidized Copper | ![oxidized_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -313,7 +313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper | ![oxidized_cut_copper](../images/immersivepetroleum_oxidized_cut_copper.png) |
+| - | Oxidized Cut Copper | ![oxidized_cut_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -322,7 +322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/immersivepetroleum_oxidized_cut_copper_slab.png) |
+| - | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -331,7 +331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Cut Copper Stairs | ![oxidized_cut_copper_stairs](../images/immersivepetroleum_oxidized_cut_copper_stairs.png) |
+| - | Oxidized Cut Copper Stairs | ![oxidized_cut_copper_stairs](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -378,7 +378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coal Petcoke | ![coal_petcoke](../images/immersivepetroleum_coal_petcoke.png) |
+| c | Coal Petcoke | ![coal_petcoke](../images/immersivepetroleum_petcoke.png) |
 
 ---
 ## Creosote'}
@@ -394,9 +394,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/immersivepetroleum_ingots/iron.png) |
-| L | Lantern | ![lantern](../images/immersivepetroleum_lantern.png) |
-| S | Glass | ![glass](../images/immersivepetroleum_glass.png) |
-| W | Treated Wood | ![treated_wood](../images/immersivepetroleum_treated_wood.png) |
+| L | Lantern | ![lantern](../images/immersivepetroleum_asphalt.png) |
+| S | Glass | ![glass](../images/immersivepetroleum_asphalt.png) |
+| W | Treated Wood | ![treated_wood](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ##  2000}
@@ -411,11 +411,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gunpart Barrel | ![gunpart_barrel](../images/immersivepetroleum_gunpart_barrel.png) |
-| H | Gunpart Hammer | ![gunpart_hammer](../images/immersivepetroleum_gunpart_hammer.png) |
-| L | Light Engineering | ![light_engineering](../images/immersivepetroleum_light_engineering.png) |
-| M | Component Iron | ![component_iron](../images/immersivepetroleum_component_iron.png) |
-| S | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersivepetroleum_steel_scaffolding_standard.png) |
+| B | Gunpart Barrel | ![gunpart_barrel](../images/immersivepetroleum_asphalt.png) |
+| H | Gunpart Hammer | ![gunpart_hammer](../images/immersivepetroleum_asphalt.png) |
+| L | Light Engineering | ![light_engineering](../images/immersivepetroleum_asphalt.png) |
+| M | Component Iron | ![component_iron](../images/immersivepetroleum_asphalt.png) |
+| S | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## Speedboat
@@ -423,9 +423,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Light Engineering | ![light_engineering](../images/immersivepetroleum_light_engineering.png) |
-| M | Component Iron | ![component_iron](../images/immersivepetroleum_component_iron.png) |
-| P | Treated Wood | ![treated_wood](../images/immersivepetroleum_treated_wood.png) |
+| E | Light Engineering | ![light_engineering](../images/immersivepetroleum_asphalt.png) |
+| M | Component Iron | ![component_iron](../images/immersivepetroleum_asphalt.png) |
+| P | Treated Wood | ![treated_wood](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## {}
@@ -448,8 +448,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Plates/Iron | ![plates/iron](../images/immersivepetroleum_plates/iron.png) |
-| o | Lubricant | ![lubricant](../images/immersivepetroleum_lubricant.png) |
-| p | Fluid Pipe | ![fluid_pipe](../images/immersivepetroleum_fluid_pipe.png) |
+| o | Lubricant | ![lubricant](../images/immersivepetroleum_lubricant_cracked_flow.png) |
+| p | Fluid Pipe | ![fluid_pipe](../images/immersivepetroleum_well_pipe_top.png) |
 
 ---
 ## Upgrade Icebreaker
@@ -467,7 +467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Treated Wood | ![treated_wood](../images/immersivepetroleum_treated_wood.png) |
+| P | Treated Wood | ![treated_wood](../images/immersivepetroleum_asphalt.png) |
 | S | Rods/Treated Wood | ![rods/treated_wood](../images/immersivepetroleum_rods/treated_wood.png) |
 
 ---
@@ -495,7 +495,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Plates/Iron | ![plates/iron](../images/immersivepetroleum_plates/iron.png) |
-| T | Metal Barrel | ![metal_barrel](../images/immersivepetroleum_metal_barrel.png) |
+| T | Metal Barrel | ![metal_barrel](../images/immersivepetroleum_asphalt.png) |
 
 ---
 ## Waxed Weathered Copper
@@ -503,7 +503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper | ![weathered_copper](../images/immersivepetroleum_weathered_copper.png) |
+| - | Weathered Copper | ![weathered_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -512,7 +512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper | ![weathered_cut_copper](../images/immersivepetroleum_weathered_cut_copper.png) |
+| - | Weathered Cut Copper | ![weathered_cut_copper](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -521,7 +521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/immersivepetroleum_weathered_cut_copper_slab.png) |
+| - | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---
@@ -530,7 +530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Cut Copper Stairs | ![weathered_cut_copper_stairs](../images/immersivepetroleum_weathered_cut_copper_stairs.png) |
+| - | Weathered Cut Copper Stairs | ![weathered_cut_copper_stairs](../images/immersivepetroleum_asphalt.png) |
 | - | Wax/Paraffin | ![wax/paraffin](../images/immersivepetroleum_wax/paraffin.png) |
 
 ---

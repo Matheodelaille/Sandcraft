@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Onion | ![onion](../images/alexsdelight_onion.png) |
-| - | Raw Pasta | ![raw_pasta](../images/alexsdelight_raw_pasta.png) |
-| - | Acacia Blossom | ![acacia_blossom](../images/alexsdelight_acacia_blossom.png) |
+| - | Onion | ![onion](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Raw Pasta | ![raw_pasta](../images/alexsdelight_kangaroo_pasta.png) |
+| - | Acacia Blossom | ![acacia_blossom](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Barbecue Stick
@@ -17,12 +17,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomato | ![tomato](../images/alexsdelight_tomato.png) |
-| - | Onion | ![onion](../images/alexsdelight_onion.png) |
-| - | Singular Cooked Moose Rib | ![singular_cooked_moose_rib](../images/alexsdelight_singular_cooked_moose_rib.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/alexsdelight_cooked_chicken.png) |
-| - | Stick | ![stick](../images/alexsdelight_stick.png) |
-| - | Stick | ![stick](../images/alexsdelight_stick.png) |
+| - | Tomato | ![tomato](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Onion | ![onion](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Singular Cooked Moose Rib | ![singular_cooked_moose_rib](../images/alexsdelight_cooked_loose_moose_ribs.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/alexsdelight_cooked_bison.png) |
+| - | Stick | ![stick](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Stick | ![stick](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Bison Burger
@@ -30,11 +30,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salad Ingredients | ![salad_ingredients](../images/alexsdelight_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/alexsdelight_maggot_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/alexsdelight_crops/tomato.png) |
 | - | Bison Patty | ![bison_patty](../images/alexsdelight_bison_patty.png) |
-| - | Beetroot | ![beetroot](../images/alexsdelight_beetroot.png) |
-| - | Bread | ![bread](../images/alexsdelight_bread.png) |
+| - | Beetroot | ![beetroot](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Bread | ![bread](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Cooked Bison
@@ -139,9 +139,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooked Bunfungus | ![cooked_bunfungus](../images/alexsdelight_cooked_bunfungus.png) |
-| - | Red Mushroom Colony | ![red_mushroom_colony](../images/alexsdelight_red_mushroom_colony.png) |
-| - | Red Mushroom Colony | ![red_mushroom_colony](../images/alexsdelight_red_mushroom_colony.png) |
-| - | Bread | ![bread](../images/alexsdelight_bread.png) |
+| - | Red Mushroom Colony | ![red_mushroom_colony](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Red Mushroom Colony | ![red_mushroom_colony](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Bread | ![bread](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Cooked Bunfungus
@@ -189,7 +189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Centipede Leg | ![centipede_leg](../images/alexsdelight_centipede_leg.png) |
+| item | Centipede Leg | ![centipede_leg](../images/alexsdelight_cooked_centipede_leg.png) |
 
 ---
 ## Cooked Centipede Leg
@@ -197,7 +197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Centipede Leg | ![centipede_leg](../images/alexsdelight_centipede_leg.png) |
+| item | Centipede Leg | ![centipede_leg](../images/alexsdelight_cooked_centipede_leg.png) |
 
 ---
 ## Cooked Centipede Leg
@@ -205,7 +205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Centipede Leg | ![centipede_leg](../images/alexsdelight_centipede_leg.png) |
+| item | Centipede Leg | ![centipede_leg](../images/alexsdelight_cooked_centipede_leg.png) |
 
 ---
 ## Gongylidia Bruschetta
@@ -213,11 +213,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salad Ingredients | ![salad_ingredients](../images/alexsdelight_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/alexsdelight_maggot_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/alexsdelight_crops/tomato.png) |
-| - | Gongylidia | ![gongylidia](../images/alexsdelight_gongylidia.png) |
-| - | Bread | ![bread](../images/alexsdelight_bread.png) |
-| - | Fish Oil | ![fish_oil](../images/alexsdelight_fish_oil.png) |
+| - | Gongylidia | ![gongylidia](../images/alexsdelight_gongylidia_bruschetta.png) |
+| - | Bread | ![bread](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Fish Oil | ![fish_oil](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Kangaroo Pasta
@@ -225,9 +225,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Kangaroo | ![cooked_kangaroo](../images/alexsdelight_cooked_kangaroo.png) |
-| - | Raw Pasta | ![raw_pasta](../images/alexsdelight_raw_pasta.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/alexsdelight_tomato_sauce.png) |
+| - | Cooked Kangaroo | ![cooked_kangaroo](../images/alexsdelight_cooked_kangaroo_shank.png) |
+| - | Raw Pasta | ![raw_pasta](../images/alexsdelight_kangaroo_pasta.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ##  2}]
@@ -235,7 +235,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kangaroo Meat | ![kangaroo_meat](../images/alexsdelight_kangaroo_meat.png) |
+| - | Kangaroo Meat | ![kangaroo_meat](../images/alexsdelight_cooked_kangaroo_shank.png) |
 
 ---
 ## Cooked Kangaroo Shank
@@ -267,9 +267,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Kangaroo | ![cooked_kangaroo](../images/alexsdelight_cooked_kangaroo.png) |
-| - | Carrot | ![carrot](../images/alexsdelight_carrot.png) |
-| - | Beetroot | ![beetroot](../images/alexsdelight_beetroot.png) |
+| - | Cooked Kangaroo | ![cooked_kangaroo](../images/alexsdelight_cooked_kangaroo_shank.png) |
+| - | Carrot | ![carrot](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Beetroot | ![beetroot](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Lobster Pasta
@@ -277,9 +277,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lobster Tail | ![lobster_tail](../images/alexsdelight_lobster_tail.png) |
-| - | Raw Pasta | ![raw_pasta](../images/alexsdelight_raw_pasta.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/alexsdelight_tomato_sauce.png) |
+| - | Lobster Tail | ![lobster_tail](../images/alexsdelight_lobster_pasta.png) |
+| - | Raw Pasta | ![raw_pasta](../images/alexsdelight_kangaroo_pasta.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ##  2}]
@@ -287,7 +287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moose Ribs | ![moose_ribs](../images/alexsdelight_moose_ribs.png) |
+| - | Moose Ribs | ![moose_ribs](../images/alexsdelight_cooked_loose_moose_ribs.png) |
 
 ---
 ## Maggot Salad
@@ -295,12 +295,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maggot | ![maggot](../images/alexsdelight_maggot.png) |
+| - | Maggot | ![maggot](../images/alexsdelight_maggot_salad.png) |
 | - | Salad Ingredients/Cabbage | ![salad_ingredients/cabbage](../images/alexsdelight_salad_ingredients/cabbage.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/alexsdelight_crops/tomato.png) |
 | - | Crops/Onion | ![crops/onion](../images/alexsdelight_crops/onion.png) |
-| - | Beetroot | ![beetroot](../images/alexsdelight_beetroot.png) |
-| - | Bowl | ![bowl](../images/alexsdelight_bowl.png) |
+| - | Beetroot | ![beetroot](../images/alexsdelight_acacia_blossom_soup.png) |
+| - | Bowl | ![bowl](../images/alexsdelight_acacia_blossom_soup.png) |
 
 ---
 ## Maggot Salad
@@ -308,8 +308,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maggot | ![maggot](../images/alexsdelight_maggot.png) |
-| - | Mixed Salad | ![mixed_salad](../images/alexsdelight_mixed_salad.png) |
+| - | Maggot | ![maggot](../images/alexsdelight_maggot_salad.png) |
+| - | Mixed Salad | ![mixed_salad](../images/alexsdelight_maggot_salad.png) |
 
 ---
 ##  2}]
@@ -317,7 +317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Catfish | ![raw_catfish](../images/alexsdelight_raw_catfish.png) |
+| - | Raw Catfish | ![raw_catfish](../images/alexsdelight_raw_catfish_slice.png) |
 
 ---
 ## Cooked Loose Moose Rib

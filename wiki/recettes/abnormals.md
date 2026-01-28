@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Wheat | ![wheat](../images/abnormals_wheat.png) |
-| # | Cherries | ![cherries](../images/abnormals_cherries.png) |
+| w | Wheat | ![wheat](../images/abnormals_delight_chocolate_cake_slice.png) |
+| # | Cherries | ![cherries](../images/abnormals_delight_chocolate_cake_slice.png) |
 
 ---
 ## Maple Cookie
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Wheat | ![wheat](../images/abnormals_wheat.png) |
-| # | Syrup Bottle | ![syrup_bottle](../images/abnormals_syrup_bottle.png) |
+| w | Wheat | ![wheat](../images/abnormals_delight_chocolate_cake_slice.png) |
+| # | Syrup Bottle | ![syrup_bottle](../images/abnormals_delight_chocolate_cake_slice.png) |
 
 ---
 ## Mulberry Cookie
@@ -25,7 +25,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Wheat | ![wheat](../images/abnormals_wheat.png) |
-| # | Mulberry | ![mulberry](../images/abnormals_mulberry.png) |
+| w | Wheat | ![wheat](../images/abnormals_delight_chocolate_cake_slice.png) |
+| # | Mulberry | ![mulberry](../images/abnormals_delight_chocolate_cake_slice.png) |
 
 ---

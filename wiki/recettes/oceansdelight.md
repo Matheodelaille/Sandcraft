@@ -158,8 +158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Seagrass | ![seagrass](../images/oceansdelight_seagrass.png) |
-| - | Bowl | ![bowl](../images/oceansdelight_bowl.png) |
+| - | Seagrass | ![seagrass](../images/oceansdelight_seagrass_salad.png) |
+| - | Bowl | ![bowl](../images/oceansdelight_bowl_of_guardian_soup.png) |
 
 ---
 ## {}
@@ -174,12 +174,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kelp | ![kelp](../images/oceansdelight_kelp.png) |
+| - | Kelp | ![kelp](../images/oceansdelight_honey_fried_kelp.png) |
 | - | Crops/Onion | ![crops/onion](../images/oceansdelight_crops/onion.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/oceansdelight_crops/tomato.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/oceansdelight_brown_mushroom.png) |
-| - | Cod | ![cod](../images/oceansdelight_cod.png) |
-| - | Rope | ![rope](../images/oceansdelight_rope.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/oceansdelight_baked_tentacle_on_a_stick.png) |
+| - | Cod | ![cod](../images/oceansdelight_cooked_stuffed_cod.png) |
+| - | Rope | ![rope](../images/oceansdelight_baked_tentacle_on_a_stick.png) |
 
 ---
 ## {}
@@ -194,7 +194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick | ![stick](../images/oceansdelight_stick.png) |
+| - | Stick | ![stick](../images/oceansdelight_baked_tentacle_on_a_stick.png) |
 | - | Tentacles | ![tentacles](../images/oceansdelight_tentacles.png) |
 
 ---

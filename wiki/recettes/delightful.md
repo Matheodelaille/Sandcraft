@@ -1358,7 +1358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar Cane | ![sugar_cane](../images/delightful_sugar_cane.png) |
+| - | Sugar Cane | ![sugar_cane](../images/delightful_acorn.png) |
 
 ---
 ## {}

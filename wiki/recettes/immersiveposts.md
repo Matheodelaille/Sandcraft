@@ -152,7 +152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stone Bricks | ![stone_bricks](../images/immersiveposts_stone_bricks.png) |
-| w | Cobblestone | ![cobblestone](../images/immersiveposts_cobblestone.png) |
+| s | Stone Bricks | ![stone_bricks](../images/immersiveposts_postbase.png) |
+| w | Cobblestone | ![cobblestone](../images/immersiveposts_postbase.png) |
 
 ---

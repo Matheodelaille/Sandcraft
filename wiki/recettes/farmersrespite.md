@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/farmersrespite_apple.png) |
-| - | Sugar | ![sugar](../images/farmersrespite_sugar.png) |
+| - | Apple | ![apple](../images/farmersrespite_black_cod.png) |
+| - | Sugar | ![sugar](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Black Cod
@@ -18,9 +18,9 @@
 | :--- | :--- | :--- |
 | - | Cooked Fishes/Cod | ![cooked_fishes/cod](../images/farmersrespite_cooked_fishes/cod.png) |
 | - | Black Tea Leaves | ![black_tea_leaves](../images/farmersrespite_black_tea_leaves.png) |
-| - | Bowl | ![bowl](../images/farmersrespite_bowl.png) |
+| - | Bowl | ![bowl](../images/farmersrespite_black_cod.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/farmersrespite_crops/cabbage.png) |
-| - | Cooked Rice | ![cooked_rice](../images/farmersrespite_cooked_rice.png) |
+| - | Cooked Rice | ![cooked_rice](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Black Tea
@@ -37,7 +37,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Tea Leaves Sack | ![black_tea_leaves_sack](../images/farmersrespite_black_tea_leaves_sack.png) |
+| - | Black Tea Leaves Sack | ![black_tea_leaves_sack](../images/farmersrespite_black_tea_leaves.png) |
 
 ---
 ## Black Tea Leaves Sack
@@ -53,12 +53,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blaze Powder | ![blaze_powder](../images/farmersrespite_blaze_powder.png) |
-| - | Blaze Powder | ![blaze_powder](../images/farmersrespite_blaze_powder.png) |
-| - | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart.png) |
-| - | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart.png) |
+| - | Blaze Powder | ![blaze_powder](../images/farmersrespite_black_cod.png) |
+| - | Blaze Powder | ![blaze_powder](../images/farmersrespite_black_cod.png) |
+| - | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart_sourdough.png) |
+| - | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart_sourdough.png) |
 | - | Coffee Beans | ![coffee_beans](../images/farmersrespite_coffee_beans.png) |
-| - | Raw Beef | ![raw_beef](../images/farmersrespite_raw_beef.png) |
+| - | Raw Beef | ![raw_beef](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Coffee
@@ -75,7 +75,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee Beans Sack | ![coffee_beans_sack](../images/farmersrespite_coffee_beans_sack.png) |
+| - | Coffee Beans Sack | ![coffee_beans_sack](../images/farmersrespite_coffee_beans.png) |
 
 ---
 ## Coffee Beans Sack
@@ -121,8 +121,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dandelion | ![dandelion](../images/farmersrespite_dandelion.png) |
-| - | Tea Leaves | ![tea_leaves](../images/farmersrespite_tea_leaves.png) |
+| - | Dandelion | ![dandelion](../images/farmersrespite_dandelion_tea.png) |
+| - | Tea Leaves | ![tea_leaves](../images/farmersrespite_black_tea_leaves.png) |
 
 ---
 ## Gamblers Tea
@@ -131,7 +131,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Coffee Berries | ![coffee_berries](../images/farmersrespite_coffee_berries.png) |
-| - | Glow Berries | ![glow_berries](../images/farmersrespite_glow_berries.png) |
+| - | Glow Berries | ![glow_berries](../images/farmersrespite_coffee_berries.png) |
 
 ---
 ## Green Tea
@@ -149,7 +149,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Green Tea Leaves | ![green_tea_leaves](../images/farmersrespite_green_tea_leaves.png) |
-| w | Wheat | ![wheat](../images/farmersrespite_wheat.png) |
+| w | Wheat | ![wheat](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Green Tea Leaves
@@ -157,7 +157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Tea Leaves Sack | ![green_tea_leaves_sack](../images/farmersrespite_green_tea_leaves_sack.png) |
+| - | Green Tea Leaves Sack | ![green_tea_leaves_sack](../images/farmersrespite_green_tea_leaves.png) |
 
 ---
 ## Green Tea Leaves Sack
@@ -173,8 +173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cocoa Beans | ![cocoa_beans](../images/farmersrespite_cocoa_beans.png) |
-| - | Sugar | ![sugar](../images/farmersrespite_sugar.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/farmersrespite_coffee_beans.png) |
+| - | Sugar | ![sugar](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Kettle
@@ -182,10 +182,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/farmersrespite_bucket.png) |
-| b | Copper Ingot | ![copper_ingot](../images/farmersrespite_copper_ingot.png) |
-| l | Leather | ![leather](../images/farmersrespite_leather.png) |
-| s | Stick | ![stick](../images/farmersrespite_stick.png) |
+| B | Bucket | ![bucket](../images/farmersrespite_black_cod.png) |
+| b | Copper Ingot | ![copper_ingot](../images/farmersrespite_black_cod.png) |
+| l | Leather | ![leather](../images/farmersrespite_black_cod.png) |
+| s | Stick | ![stick](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Apple Cider
@@ -193,8 +193,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple Cider | ![apple_cider](../images/farmersrespite_apple_cider.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Apple Cider | ![apple_cider](../images/farmersrespite_black_cod.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Black Tea
@@ -203,7 +203,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Black Tea | ![black_tea](../images/farmersrespite_black_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Coffee
@@ -212,7 +212,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Coffee | ![coffee](../images/farmersrespite_coffee.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Dandelion Tea
@@ -221,7 +221,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dandelion Tea | ![dandelion_tea](../images/farmersrespite_dandelion_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Gamblers Tea
@@ -230,7 +230,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gamblers Tea | ![gamblers_tea](../images/farmersrespite_gamblers_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Green Tea
@@ -239,7 +239,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Green Tea | ![green_tea](../images/farmersrespite_green_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Purulent Tea
@@ -248,7 +248,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Purulent Tea | ![purulent_tea](../images/farmersrespite_purulent_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Rose Hip Tea
@@ -257,7 +257,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Hip Tea | ![rose_hip_tea](../images/farmersrespite_rose_hip_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Long Yellow Tea
@@ -266,7 +266,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Yellow Tea | ![yellow_tea](../images/farmersrespite_yellow_tea.png) |
-| - | Milk | ![milk](../images/farmersrespite_milk.png) |
+| - | Milk | ![milk](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Melon Juice
@@ -274,8 +274,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon Slice | ![melon_slice](../images/farmersrespite_melon_slice.png) |
-| - | Sugar | ![sugar](../images/farmersrespite_sugar.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersrespite_coffee_cake_slice.png) |
+| - | Sugar | ![sugar](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Nether Wart Sourdough
@@ -283,9 +283,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Brown Mushroom | ![brown_mushroom](../images/farmersrespite_brown_mushroom.png) |
-| n | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart.png) |
-| r | Red Mushroom | ![red_mushroom](../images/farmersrespite_red_mushroom.png) |
+| b | Brown Mushroom | ![brown_mushroom](../images/farmersrespite_tea_bush_plant_lower_brown.png) |
+| n | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart_sourdough.png) |
+| r | Red Mushroom | ![red_mushroom](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Purulent Tea
@@ -293,8 +293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart.png) |
-| - | Fermented Spider Eye | ![fermented_spider_eye](../images/farmersrespite_fermented_spider_eye.png) |
+| - | Nether Wart | ![nether_wart](../images/farmersrespite_nether_wart_sourdough.png) |
+| - | Fermented Spider Eye | ![fermented_spider_eye](../images/farmersrespite_black_cod.png) |
 
 ---
 ## Rose Hips'}]
@@ -302,7 +302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose Bush | ![rose_bush](../images/farmersrespite_rose_bush.png) |
+| - | Rose Bush | ![rose_bush](../images/farmersrespite_coffee_bush_leaves.png) |
 
 ---
 ## Rose Hip Pie Slice'}]
@@ -335,8 +335,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple Cider | ![apple_cider](../images/farmersrespite_apple_cider.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Apple Cider | ![apple_cider](../images/farmersrespite_black_cod.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Black Tea
@@ -345,7 +345,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Black Tea | ![black_tea](../images/farmersrespite_black_tea.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Coffee
@@ -354,7 +354,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Coffee | ![coffee](../images/farmersrespite_coffee.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Gamblers Tea
@@ -363,7 +363,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gamblers Tea | ![gamblers_tea](../images/farmersrespite_gamblers_tea.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Green Tea
@@ -372,7 +372,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Green Tea | ![green_tea](../images/farmersrespite_green_tea.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Hot Cocoa
@@ -380,8 +380,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hot Cocoa | ![hot_cocoa](../images/farmersrespite_hot_cocoa.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Hot Cocoa | ![hot_cocoa](../images/farmersrespite_black_cod.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Melon Juice
@@ -389,8 +389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon Juice | ![melon_juice](../images/farmersrespite_melon_juice.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Melon Juice | ![melon_juice](../images/farmersrespite_black_cod.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Purulent Tea
@@ -399,7 +399,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Purulent Tea | ![purulent_tea](../images/farmersrespite_purulent_tea.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Rose Hip Tea
@@ -408,7 +408,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Hip Tea | ![rose_hip_tea](../images/farmersrespite_rose_hip_tea.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Strong Yellow Tea
@@ -417,7 +417,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Yellow Tea | ![yellow_tea](../images/farmersrespite_yellow_tea.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersrespite_empty_container_slot_bottle.png) |
 
 ---
 ## Tea Curry
@@ -427,7 +427,7 @@
 | :--- | :--- | :--- |
 | - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/farmersrespite_yellow_tea_leaves.png) |
 | - | Yellow Tea Leaves | ![yellow_tea_leaves](../images/farmersrespite_yellow_tea_leaves.png) |
-| - | Raw Chicken | ![raw_chicken](../images/farmersrespite_raw_chicken.png) |
+| - | Raw Chicken | ![raw_chicken](../images/farmersrespite_black_cod.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/farmersrespite_crops/cabbage.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersrespite_crops/onion.png) |
 | - | Crops/Rice | ![crops/rice](../images/farmersrespite_crops/rice.png) |
@@ -447,7 +447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Tea Leaves Sack | ![yellow_tea_leaves_sack](../images/farmersrespite_yellow_tea_leaves_sack.png) |
+| - | Yellow Tea Leaves Sack | ![yellow_tea_leaves_sack](../images/farmersrespite_yellow_tea_leaves.png) |
 
 ---
 ## Yellow Tea Leaves Sack

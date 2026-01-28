@@ -7,11 +7,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
-| 3 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
-| 4 | Amethyst Shard | ![amethyst_shard](../images/aquamirae_amethyst_shard.png) |
-| 5 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
-| 7 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 1 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
+| 3 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
+| 4 | Amethyst Shard | ![amethyst_shard](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
+| 7 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 
 ---
 ## Abyssal Boots
@@ -21,8 +21,8 @@
 | :--- | :--- | :--- |
 | 0 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 3 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
-| 5 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 3 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Abyssal Brigantine
@@ -33,11 +33,11 @@
 | 0 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 3 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 4 | Astral Dust | ![astral_dust](../images/aquamirae_astral_dust.png) |
+| 4 | Astral Dust | ![astral_dust](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 6 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 6 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 7 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 8 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 8 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Abyssal Heaume
@@ -48,8 +48,8 @@
 | 0 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 1 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 3 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
-| 5 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 3 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Abyssal Leggings
@@ -57,9 +57,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 0 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 1 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 2 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 2 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 3 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 6 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
@@ -74,7 +74,7 @@
 | 0 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 3 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 4 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 4 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
@@ -153,15 +153,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 0 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 | 1 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 2 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 2 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 3 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 4 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
+| 4 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 6 | Stick | ![stick](../images/aquamirae_stick.png) |
+| 6 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
 | 7 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 8 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 8 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 
 ---
 ## {}
@@ -190,12 +190,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 1 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 3 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
-| 4 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 3 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
+| 4 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Fin | ![fin](../images/aquamirae_fin.png) |
-| 6 | Stick | ![stick](../images/aquamirae_stick.png) |
+| 6 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
 | 7 | Fin | ![fin](../images/aquamirae_fin.png) |
 | 8 | Fin | ![fin](../images/aquamirae_fin.png) |
 
@@ -228,8 +228,8 @@
 | 0 | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
 | 1 | Esca | ![esca](../images/aquamirae_esca.png) |
 | 2 | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
-| 4 | Stick | ![stick](../images/aquamirae_stick.png) |
-| 7 | Stick | ![stick](../images/aquamirae_stick.png) |
+| 4 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
+| 7 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Maze Rose
@@ -238,12 +238,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 1 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 1 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 3 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
-| 5 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 3 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 6 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 7 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 7 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 8 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
@@ -259,15 +259,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 1 | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 3 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 3 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 4 | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
-| 5 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 5 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 7 | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
-| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## {}
@@ -283,11 +283,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 2 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 3 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 4 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 4 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 6 | Stick | ![stick](../images/aquamirae_stick.png) |
+| 6 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
 | 7 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 
 ---
@@ -297,12 +297,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 1 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 1 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 3 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
-| 5 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 3 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 6 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 7 | Diamond | ![diamond](../images/aquamirae_diamond.png) |
+| 7 | Diamond | ![diamond](../images/aquamirae_abyssal_amethyst.png) |
 | 8 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 
 ---
@@ -311,12 +311,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ink Sac | ![ink_sac](../images/aquamirae_ink_sac.png) |
-| - | Sea Pickle | ![sea_pickle](../images/aquamirae_sea_pickle.png) |
-| - | Nautilus Shell | ![nautilus_shell](../images/aquamirae_nautilus_shell.png) |
-| - | Tropical Fish | ![tropical_fish](../images/aquamirae_tropical_fish.png) |
-| - | Enchanted Golden Apple | ![enchanted_golden_apple](../images/aquamirae_enchanted_golden_apple.png) |
-| - | Pufferfish | ![pufferfish](../images/aquamirae_pufferfish.png) |
+| - | Ink Sac | ![ink_sac](../images/aquamirae_abyssal_amethyst.png) |
+| - | Sea Pickle | ![sea_pickle](../images/aquamirae_dead_sea_scroll.png) |
+| - | Nautilus Shell | ![nautilus_shell](../images/aquamirae_shell_horn.png) |
+| - | Tropical Fish | ![tropical_fish](../images/aquamirae_abyssal_amethyst.png) |
+| - | Enchanted Golden Apple | ![enchanted_golden_apple](../images/aquamirae_golden_moth_in_a_jar.png) |
+| - | Pufferfish | ![pufferfish](../images/aquamirae_abyssal_amethyst.png) |
 | - | Sea Stew | ![sea_stew](../images/aquamirae_sea_stew.png) |
 
 ---
@@ -326,9 +326,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 2 | Sharp Bones | ![sharp_bones](../images/aquamirae_sharp_bones.png) |
-| 3 | Leather | ![leather](../images/aquamirae_leather.png) |
+| 3 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
 | 4 | Sharp Bones | ![sharp_bones](../images/aquamirae_sharp_bones.png) |
-| 6 | Stick | ![stick](../images/aquamirae_stick.png) |
+| 6 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Sea Casserole
@@ -336,13 +336,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Sweet Berries | ![sweet_berries](../images/aquamirae_sweet_berries.png) |
+| 1 | Sweet Berries | ![sweet_berries](../images/aquamirae_sweet_lance.png) |
 | 3 | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
-| 4 | Wheat | ![wheat](../images/aquamirae_wheat.png) |
+| 4 | Wheat | ![wheat](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Esca | ![esca](../images/aquamirae_esca.png) |
-| 6 | Egg | ![egg](../images/aquamirae_egg.png) |
-| 7 | Milk Bucket | ![milk_bucket](../images/aquamirae_milk_bucket.png) |
-| 8 | Egg | ![egg](../images/aquamirae_egg.png) |
+| 6 | Egg | ![egg](../images/aquamirae_abyssal_amethyst.png) |
+| 7 | Milk Bucket | ![milk_bucket](../images/aquamirae_spinefish_bucket.png) |
+| 8 | Egg | ![egg](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Sea Stew
@@ -350,13 +350,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/aquamirae_baked_potato.png) |
+| - | Baked Potato | ![baked_potato](../images/aquamirae_abyssal_amethyst.png) |
 | - | Esca | ![esca](../images/aquamirae_esca.png) |
 | - | Cooked Spinefish | ![cooked_spinefish](../images/aquamirae_cooked_spinefish.png) |
 | - | Oxygelium | ![oxygelium](../images/aquamirae_oxygelium.png) |
 | - | Fin | ![fin](../images/aquamirae_fin.png) |
-| - | Pufferfish | ![pufferfish](../images/aquamirae_pufferfish.png) |
-| - | Bowl | ![bowl](../images/aquamirae_bowl.png) |
+| - | Pufferfish | ![pufferfish](../images/aquamirae_abyssal_amethyst.png) |
+| - | Bowl | ![bowl](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## {}
@@ -395,8 +395,8 @@
 | :--- | :--- | :--- |
 | 0 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 | 2 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 3 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 5 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 3 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 6 | Fin | ![fin](../images/aquamirae_fin.png) |
 | 8 | Fin | ![fin](../images/aquamirae_fin.png) |
 
@@ -409,11 +409,11 @@
 | 0 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 | 2 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 | 3 | Fin | ![fin](../images/aquamirae_fin.png) |
-| 4 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 4 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Fin | ![fin](../images/aquamirae_fin.png) |
-| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 7 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
-| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 7 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
+| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Terrible Helmet
@@ -424,10 +424,10 @@
 | 0 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 | 2 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 | 3 | Fin | ![fin](../images/aquamirae_fin.png) |
-| 4 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 4 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Fin | ![fin](../images/aquamirae_fin.png) |
-| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Terrible Leggings
@@ -436,12 +436,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 0 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 1 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 1 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
 | 3 | Fin | ![fin](../images/aquamirae_fin.png) |
 | 5 | Fin | ![fin](../images/aquamirae_fin.png) |
-| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 6 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 8 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Terrible Sword
@@ -449,13 +449,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 1 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 | 2 | Anglers Fang | ![anglers_fang](../images/aquamirae_anglers_fang.png) |
-| 3 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
-| 4 | Ender Eye | ![ender_eye](../images/aquamirae_ender_eye.png) |
-| 5 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
-| 6 | Stick | ![stick](../images/aquamirae_stick.png) |
-| 7 | Iron Ingot | ![iron_ingot](../images/aquamirae_iron_ingot.png) |
+| 3 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 4 | Ender Eye | ![ender_eye](../images/aquamirae_abyssal_amethyst.png) |
+| 5 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
+| 6 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
+| 7 | Iron Ingot | ![iron_ingot](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Three Bolt Boots
@@ -463,8 +463,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Block | ![iron_block](../images/aquamirae_iron_block.png) |
-| 2 | Leather | ![leather](../images/aquamirae_leather.png) |
+| 1 | Iron Block | ![iron_block](../images/aquamirae_abyssal_amethyst.png) |
+| 2 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## {}
@@ -479,8 +479,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Iron Block | ![iron_block](../images/aquamirae_iron_block.png) |
-| 2 | Leather | ![leather](../images/aquamirae_leather.png) |
+| 1 | Iron Block | ![iron_block](../images/aquamirae_abyssal_amethyst.png) |
+| 2 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Three Bolt Suit
@@ -488,15 +488,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Block | ![iron_block](../images/aquamirae_iron_block.png) |
-| 1 | Iron Block | ![iron_block](../images/aquamirae_iron_block.png) |
-| 2 | Iron Block | ![iron_block](../images/aquamirae_iron_block.png) |
+| 0 | Iron Block | ![iron_block](../images/aquamirae_abyssal_amethyst.png) |
+| 1 | Iron Block | ![iron_block](../images/aquamirae_abyssal_amethyst.png) |
+| 2 | Iron Block | ![iron_block](../images/aquamirae_abyssal_amethyst.png) |
 | 3 | Oxygen Tank | ![oxygen_tank](../images/aquamirae_oxygen_tank.png) |
-| 4 | Leather | ![leather](../images/aquamirae_leather.png) |
+| 4 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Oxygen Tank | ![oxygen_tank](../images/aquamirae_oxygen_tank.png) |
-| 6 | Leather | ![leather](../images/aquamirae_leather.png) |
-| 7 | Leather | ![leather](../images/aquamirae_leather.png) |
-| 8 | Leather | ![leather](../images/aquamirae_leather.png) |
+| 6 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
+| 7 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
+| 8 | Leather | ![leather](../images/aquamirae_abyssal_amethyst.png) |
 
 ---
 ## Treasure Pouch
@@ -507,7 +507,7 @@
 | - | Pirate Pouch | ![pirate_pouch](../images/aquamirae_pirate_pouch.png) |
 | - | Pirate Pouch | ![pirate_pouch](../images/aquamirae_pirate_pouch.png) |
 | - | Pirate Pouch | ![pirate_pouch](../images/aquamirae_pirate_pouch.png) |
-| - | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| - | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 | - | Pirate Pouch | ![pirate_pouch](../images/aquamirae_pirate_pouch.png) |
 | - | Pirate Pouch | ![pirate_pouch](../images/aquamirae_pirate_pouch.png) |
 
@@ -517,15 +517,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 0 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 | 1 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
 | 2 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 3 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
-| 4 | Stick | ![stick](../images/aquamirae_stick.png) |
+| 3 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 4 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
 | 5 | Abyssal Amethyst | ![abyssal_amethyst](../images/aquamirae_abyssal_amethyst.png) |
-| 6 | Stick | ![stick](../images/aquamirae_stick.png) |
-| 7 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_netherite_ingot.png) |
-| 8 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_ship_graveyard_echo.png) |
+| 6 | Stick | ![stick](../images/aquamirae_abyssal_amethyst.png) |
+| 7 | Netherite Ingot | ![netherite_ingot](../images/aquamirae_abyssal_amethyst.png) |
+| 8 | Ship Graveyard Echo | ![ship_graveyard_echo](../images/aquamirae_echo.png) |
 
 ---
 ## {}

@@ -14,8 +14,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Lower Roof
@@ -23,8 +23,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -39,8 +39,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Planks Lower Roof
@@ -48,8 +48,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Planks Roof
@@ -57,8 +57,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Planks Steep Roof
@@ -66,8 +66,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Planks Top Roof
@@ -75,8 +75,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Planks Upper Lower Roof
@@ -84,8 +84,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Planks Upper Steep Roof
@@ -93,8 +93,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_acacia_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Roof
@@ -102,8 +102,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Steep Roof
@@ -111,8 +111,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Top Roof
@@ -120,8 +120,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Upper Lower Roof
@@ -129,8 +129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Acacia Upper Steep Roof
@@ -138,8 +138,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Log | ![acacia_log](../images/mcwroofs_acacia_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -154,7 +154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Andesite Lower Roof
@@ -162,7 +162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Andesite Roof
@@ -170,7 +170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Andesite Steep Roof
@@ -178,7 +178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Andesite Top Roof
@@ -186,7 +186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Andesite Upper Lower Roof
@@ -194,7 +194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Andesite Upper Steep Roof
@@ -202,7 +202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwroofs_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -217,7 +217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Lower Roof
@@ -225,7 +225,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Roof
@@ -233,7 +233,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Roof Block
@@ -241,7 +241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Roof Slab
@@ -249,7 +249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Steep Roof
@@ -257,7 +257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Top Roof
@@ -265,7 +265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Upper Lower Roof
@@ -273,7 +273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Base Upper Steep Roof
@@ -281,7 +281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terracotta | ![terracotta](../images/mcwroofs_terracotta.png) |
+| item | Terracotta | ![terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -296,8 +296,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Lower Roof
@@ -305,8 +305,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -321,8 +321,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Planks Lower Roof
@@ -330,8 +330,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Planks Roof
@@ -339,8 +339,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Planks Steep Roof
@@ -348,8 +348,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Planks Top Roof
@@ -357,8 +357,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Planks Upper Lower Roof
@@ -366,8 +366,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Planks Upper Steep Roof
@@ -375,8 +375,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/mcwroofs_birch_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Roof
@@ -384,8 +384,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Steep Roof
@@ -393,8 +393,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Top Roof
@@ -402,8 +402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Upper Lower Roof
@@ -411,8 +411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Birch Upper Steep Roof
@@ -420,8 +420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Log | ![birch_log](../images/mcwroofs_birch_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Birch Log | ![birch_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Attic Roof
@@ -429,7 +429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Lower Roof
@@ -437,7 +437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Roof
@@ -445,7 +445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Steep Roof
@@ -453,7 +453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Top Roof
@@ -461,7 +461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Upper Lower Roof
@@ -469,7 +469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blackstone Upper Steep Roof
@@ -477,7 +477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwroofs_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Black Attic Roof
@@ -485,7 +485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Attic Roof
@@ -493,7 +493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Lower Roof
@@ -501,7 +501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Roof
@@ -509,7 +509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Steep Roof
@@ -517,7 +517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Top Roof
@@ -525,7 +525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Upper Lower Roof
@@ -533,7 +533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Concrete Upper Steep Roof
@@ -541,7 +541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_concrete.png) |
+| item | Black Concrete | ![black_concrete](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Lower Roof
@@ -549,7 +549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Roof
@@ -557,7 +557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Roof Block
@@ -565,7 +565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Roof Slab
@@ -573,7 +573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Steep Roof
@@ -581,7 +581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Striped Awning
@@ -589,8 +589,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Black Carpet | ![black_carpet](../images/mcwroofs_black_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Black Carpet | ![black_carpet](../images/mcwroofs_black_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Black Terracotta Attic Roof
@@ -598,7 +598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Terracotta Lower Roof
@@ -606,7 +606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Terracotta Roof
@@ -614,7 +614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Terracotta Steep Roof
@@ -622,7 +622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Terracotta Top Roof
@@ -630,7 +630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Terracotta Upper Lower Roof
@@ -638,7 +638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Terracotta Upper Steep Roof
@@ -646,7 +646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Top Roof
@@ -654,7 +654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Upper Lower Roof
@@ -662,7 +662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Black Upper Steep Roof
@@ -670,7 +670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_terracotta.png) |
+| item | Black Terracotta | ![black_terracotta](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Blue Concrete Attic Roof
@@ -678,7 +678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Concrete Lower Roof
@@ -686,7 +686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Concrete Roof
@@ -694,7 +694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Concrete Steep Roof
@@ -702,7 +702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Concrete Top Roof
@@ -710,7 +710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Concrete Upper Lower Roof
@@ -718,7 +718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Concrete Upper Steep Roof
@@ -726,7 +726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_blue_concrete.png) |
+| item | Blue Concrete | ![blue_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Striped Awning
@@ -734,8 +734,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blue Carpet | ![blue_carpet](../images/mcwroofs_blue_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Blue Carpet | ![blue_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Blue Terracotta Attic Roof
@@ -743,7 +743,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Terracotta Lower Roof
@@ -751,7 +751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Terracotta Roof
@@ -759,7 +759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Terracotta Steep Roof
@@ -767,7 +767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Terracotta Top Roof
@@ -775,7 +775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Terracotta Upper Lower Roof
@@ -783,7 +783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Blue Terracotta Upper Steep Roof
@@ -791,7 +791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_blue_terracotta.png) |
+| item | Blue Terracotta | ![blue_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -806,7 +806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Bricks Lower Roof
@@ -814,7 +814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Bricks Roof
@@ -822,7 +822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Bricks Steep Roof
@@ -830,7 +830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Bricks Top Roof
@@ -838,7 +838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Bricks Upper Lower Roof
@@ -846,7 +846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Bricks Upper Steep Roof
@@ -854,7 +854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bricks | ![bricks](../images/mcwroofs_bricks.png) |
+| item | Bricks | ![bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Attic Roof
@@ -862,7 +862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Lower Roof
@@ -870,7 +870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Roof
@@ -878,7 +878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Steep Roof
@@ -886,7 +886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Top Roof
@@ -894,7 +894,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Upper Lower Roof
@@ -902,7 +902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Concrete Upper Steep Roof
@@ -910,7 +910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_brown_concrete.png) |
+| item | Brown Concrete | ![brown_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Striped Awning
@@ -918,8 +918,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Brown Carpet | ![brown_carpet](../images/mcwroofs_brown_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Brown Carpet | ![brown_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Brown Terracotta Attic Roof
@@ -927,7 +927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Terracotta Lower Roof
@@ -935,7 +935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Terracotta Roof
@@ -943,7 +943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Terracotta Steep Roof
@@ -951,7 +951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Terracotta Top Roof
@@ -959,7 +959,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Terracotta Upper Lower Roof
@@ -967,7 +967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Brown Terracotta Upper Steep Roof
@@ -975,7 +975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_brown_terracotta.png) |
+| item | Brown Terracotta | ![brown_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -990,7 +990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cobblestone Lower Roof
@@ -998,7 +998,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cobblestone Roof
@@ -1006,7 +1006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cobblestone Steep Roof
@@ -1014,7 +1014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cobblestone Top Roof
@@ -1022,7 +1022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cobblestone Upper Lower Roof
@@ -1030,7 +1030,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cobblestone Upper Steep Roof
@@ -1038,7 +1038,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/mcwroofs_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -1060,8 +1060,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Lower Roof
@@ -1069,8 +1069,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -1085,8 +1085,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Planks Lower Roof
@@ -1094,8 +1094,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Planks Roof
@@ -1103,8 +1103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Planks Steep Roof
@@ -1112,8 +1112,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Planks Top Roof
@@ -1121,8 +1121,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Planks Upper Lower Roof
@@ -1130,8 +1130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Planks Upper Steep Roof
@@ -1139,8 +1139,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_crimson_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Roof
@@ -1148,8 +1148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Steep Roof
@@ -1157,8 +1157,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Top Roof
@@ -1166,8 +1166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Upper Lower Roof
@@ -1175,8 +1175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Crimson Upper Steep Roof
@@ -1184,8 +1184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_crimson_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Attic Roof
@@ -1193,7 +1193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Lower Roof
@@ -1201,7 +1201,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Roof
@@ -1209,7 +1209,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Steep Roof
@@ -1217,7 +1217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Top Roof
@@ -1225,7 +1225,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Upper Lower Roof
@@ -1233,7 +1233,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Concrete Upper Steep Roof
@@ -1241,7 +1241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_cyan_concrete.png) |
+| item | Cyan Concrete | ![cyan_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Striped Awning
@@ -1249,8 +1249,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Cyan Carpet | ![cyan_carpet](../images/mcwroofs_cyan_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Cyan Carpet | ![cyan_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Cyan Terracotta Attic Roof
@@ -1258,7 +1258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Terracotta Lower Roof
@@ -1266,7 +1266,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Terracotta Roof
@@ -1274,7 +1274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Terracotta Steep Roof
@@ -1282,7 +1282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Terracotta Top Roof
@@ -1290,7 +1290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Terracotta Upper Lower Roof
@@ -1298,7 +1298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Cyan Terracotta Upper Steep Roof
@@ -1306,7 +1306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_cyan_terracotta.png) |
+| item | Cyan Terracotta | ![cyan_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -1321,8 +1321,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Lower Roof
@@ -1330,8 +1330,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -1346,8 +1346,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Planks Lower Roof
@@ -1355,8 +1355,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Planks Roof
@@ -1364,8 +1364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Planks Steep Roof
@@ -1373,8 +1373,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Planks Top Roof
@@ -1382,8 +1382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Planks Upper Lower Roof
@@ -1391,8 +1391,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Planks Upper Steep Roof
@@ -1400,8 +1400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Roof
@@ -1409,8 +1409,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Steep Roof
@@ -1418,8 +1418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Top Roof
@@ -1427,8 +1427,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Upper Lower Roof
@@ -1436,8 +1436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Oak Upper Steep Roof
@@ -1445,8 +1445,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_dark_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Attic Roof
@@ -1454,7 +1454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Lower Roof
@@ -1462,7 +1462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Roof
@@ -1470,7 +1470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Steep Roof
@@ -1478,7 +1478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Top Roof
@@ -1486,7 +1486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Upper Lower Roof
@@ -1494,7 +1494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Dark Prismarine Upper Steep Roof
@@ -1502,7 +1502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_dark_prismarine.png) |
+| item | Dark Prismarine | ![dark_prismarine](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Attic Roof
@@ -1510,7 +1510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Lower Roof
@@ -1518,7 +1518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Roof
@@ -1526,7 +1526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Steep Roof
@@ -1534,7 +1534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Top Roof
@@ -1542,7 +1542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Upper Lower Roof
@@ -1550,7 +1550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Deepslate Upper Steep Roof
@@ -1558,7 +1558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate | ![deepslate](../images/mcwroofs_deepslate.png) |
+| item | Deepslate | ![deepslate](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -1573,7 +1573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Diorite Lower Roof
@@ -1581,7 +1581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Diorite Roof
@@ -1589,7 +1589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Diorite Steep Roof
@@ -1597,7 +1597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Diorite Top Roof
@@ -1605,7 +1605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Diorite Upper Lower Roof
@@ -1613,7 +1613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Diorite Upper Steep Roof
@@ -1621,7 +1621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwroofs_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -1636,7 +1636,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Granite Lower Roof
@@ -1644,7 +1644,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Granite Roof
@@ -1652,7 +1652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Granite Steep Roof
@@ -1660,7 +1660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Granite Top Roof
@@ -1668,7 +1668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Granite Upper Lower Roof
@@ -1676,7 +1676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Granite Upper Steep Roof
@@ -1684,7 +1684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwroofs_granite.png) |
+| item | Granite | ![granite](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gray Attic Roof
@@ -1692,7 +1692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Attic Roof
@@ -1700,7 +1700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Lower Roof
@@ -1708,7 +1708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Roof
@@ -1716,7 +1716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Steep Roof
@@ -1724,7 +1724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Top Roof
@@ -1732,7 +1732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Upper Lower Roof
@@ -1740,7 +1740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Concrete Upper Steep Roof
@@ -1748,7 +1748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_concrete.png) |
+| item | Gray Concrete | ![gray_concrete](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Lower Roof
@@ -1756,7 +1756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Roof
@@ -1764,7 +1764,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Roof Block
@@ -1772,7 +1772,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Roof Slab
@@ -1780,7 +1780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Steep Roof
@@ -1788,7 +1788,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Striped Awning
@@ -1796,8 +1796,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gray Carpet | ![gray_carpet](../images/mcwroofs_gray_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Gray Carpet | ![gray_carpet](../images/mcwroofs_gray_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Gray Terracotta Attic Roof
@@ -1805,7 +1805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Terracotta Lower Roof
@@ -1813,7 +1813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Terracotta Roof
@@ -1821,7 +1821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Terracotta Steep Roof
@@ -1829,7 +1829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Terracotta Top Roof
@@ -1837,7 +1837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Terracotta Upper Lower Roof
@@ -1845,7 +1845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Terracotta Upper Steep Roof
@@ -1853,7 +1853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Top Roof
@@ -1861,7 +1861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Upper Lower Roof
@@ -1869,7 +1869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gray Upper Steep Roof
@@ -1877,7 +1877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_terracotta.png) |
+| item | Gray Terracotta | ![gray_terracotta](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Green Concrete Attic Roof
@@ -1885,7 +1885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Concrete Lower Roof
@@ -1893,7 +1893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Concrete Roof
@@ -1901,7 +1901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Concrete Steep Roof
@@ -1909,7 +1909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Concrete Top Roof
@@ -1917,7 +1917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Concrete Upper Lower Roof
@@ -1925,7 +1925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Concrete Upper Steep Roof
@@ -1933,7 +1933,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Concrete | ![green_concrete](../images/mcwroofs_green_concrete.png) |
+| item | Green Concrete | ![green_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Striped Awning
@@ -1941,8 +1941,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Green Carpet | ![green_carpet](../images/mcwroofs_green_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Green Carpet | ![green_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Green Terracotta Attic Roof
@@ -1950,7 +1950,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Terracotta Lower Roof
@@ -1958,7 +1958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Terracotta Roof
@@ -1966,7 +1966,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Terracotta Steep Roof
@@ -1974,7 +1974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Terracotta Top Roof
@@ -1982,7 +1982,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Terracotta Upper Lower Roof
@@ -1990,7 +1990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Green Terracotta Upper Steep Roof
@@ -1998,7 +1998,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_green_terracotta.png) |
+| item | Green Terracotta | ![green_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Rain Gutter
@@ -2006,7 +2006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Nugget | ![iron_nugget](../images/mcwroofs_iron_nugget.png) |
+| A | Iron Nugget | ![iron_nugget](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -2029,8 +2029,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Black Dye | ![black_dye](../images/mcwroofs_black_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Black Dye | ![black_dye](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Gutter Base Blue
@@ -2038,8 +2038,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Blue Dye | ![blue_dye](../images/mcwroofs_blue_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Blue Dye | ![blue_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Brown
@@ -2047,8 +2047,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Brown Dye | ![brown_dye](../images/mcwroofs_brown_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Brown Dye | ![brown_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Cyan
@@ -2056,8 +2056,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Cyan Dye | ![cyan_dye](../images/mcwroofs_cyan_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Cyan Dye | ![cyan_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Gray
@@ -2065,8 +2065,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Gray Dye | ![gray_dye](../images/mcwroofs_gray_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Gray Dye | ![gray_dye](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gutter Base Green
@@ -2074,8 +2074,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Green Dye | ![green_dye](../images/mcwroofs_green_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Green Dye | ![green_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Light Blue
@@ -2083,8 +2083,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Light Blue Dye | ![light_blue_dye](../images/mcwroofs_light_blue_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Light Blue Dye | ![light_blue_dye](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Gutter Base Light Gray
@@ -2092,8 +2092,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Light Gray Dye | ![light_gray_dye](../images/mcwroofs_light_gray_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Light Gray Dye | ![light_gray_dye](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Gutter Base Lime
@@ -2101,8 +2101,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Lime Dye | ![lime_dye](../images/mcwroofs_lime_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Lime Dye | ![lime_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Magenta
@@ -2110,8 +2110,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Magenta Dye | ![magenta_dye](../images/mcwroofs_magenta_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Magenta Dye | ![magenta_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Orange
@@ -2119,8 +2119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Orange Dye | ![orange_dye](../images/mcwroofs_orange_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Orange Dye | ![orange_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Pink
@@ -2128,8 +2128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Pink Dye | ![pink_dye](../images/mcwroofs_pink_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Pink Dye | ![pink_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Purple
@@ -2137,8 +2137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Purple Dye | ![purple_dye](../images/mcwroofs_purple_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Purple Dye | ![purple_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base Red
@@ -2146,8 +2146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Red Dye | ![red_dye](../images/mcwroofs_red_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Red Dye | ![red_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Base White
@@ -2155,8 +2155,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | White Dye | ![white_dye](../images/mcwroofs_white_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | White Dye | ![white_dye](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Gutter Base Yellow
@@ -2164,8 +2164,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Base | ![gutter_base](../images/mcwroofs_gutter_base.png) |
-| A | Yellow Dye | ![yellow_dye](../images/mcwroofs_yellow_dye.png) |
+| B | Gutter Base | ![gutter_base](../images/mcwroofs_base_roof.png) |
+| A | Yellow Dye | ![yellow_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle
@@ -2181,8 +2181,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Black Dye | ![black_dye](../images/mcwroofs_black_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Black Dye | ![black_dye](../images/mcwroofs_black_roof.png) |
 
 ---
 ## Gutter Middle Blue
@@ -2190,8 +2190,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Blue Dye | ![blue_dye](../images/mcwroofs_blue_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Blue Dye | ![blue_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Brown
@@ -2199,8 +2199,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Brown Dye | ![brown_dye](../images/mcwroofs_brown_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Brown Dye | ![brown_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Cyan
@@ -2208,8 +2208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Cyan Dye | ![cyan_dye](../images/mcwroofs_cyan_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Cyan Dye | ![cyan_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Gray
@@ -2217,8 +2217,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Gray Dye | ![gray_dye](../images/mcwroofs_gray_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Gray Dye | ![gray_dye](../images/mcwroofs_gray_roof.png) |
 
 ---
 ## Gutter Middle Green
@@ -2226,8 +2226,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Green Dye | ![green_dye](../images/mcwroofs_green_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Green Dye | ![green_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Light Blue
@@ -2235,8 +2235,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Light Blue Dye | ![light_blue_dye](../images/mcwroofs_light_blue_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Light Blue Dye | ![light_blue_dye](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Gutter Middle Light Gray
@@ -2244,8 +2244,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Light Gray Dye | ![light_gray_dye](../images/mcwroofs_light_gray_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Light Gray Dye | ![light_gray_dye](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Gutter Middle Lime
@@ -2253,8 +2253,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Lime Dye | ![lime_dye](../images/mcwroofs_lime_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Lime Dye | ![lime_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Magenta
@@ -2262,8 +2262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Magenta Dye | ![magenta_dye](../images/mcwroofs_magenta_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Magenta Dye | ![magenta_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Orange
@@ -2271,8 +2271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Orange Dye | ![orange_dye](../images/mcwroofs_orange_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Orange Dye | ![orange_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Pink
@@ -2280,8 +2280,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Pink Dye | ![pink_dye](../images/mcwroofs_pink_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Pink Dye | ![pink_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Purple
@@ -2289,8 +2289,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Purple Dye | ![purple_dye](../images/mcwroofs_purple_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Purple Dye | ![purple_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle Red
@@ -2298,8 +2298,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Red Dye | ![red_dye](../images/mcwroofs_red_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Red Dye | ![red_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Gutter Middle White
@@ -2307,8 +2307,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | White Dye | ![white_dye](../images/mcwroofs_white_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | White Dye | ![white_dye](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Gutter Middle Yellow
@@ -2316,8 +2316,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_gutter_middle.png) |
-| A | Yellow Dye | ![yellow_dye](../images/mcwroofs_yellow_dye.png) |
+| B | Gutter Middle | ![gutter_middle](../images/mcwroofs_rain_gutter.png) |
+| A | Yellow Dye | ![yellow_dye](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -2332,8 +2332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Lower Roof
@@ -2341,8 +2341,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -2357,8 +2357,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Planks Lower Roof
@@ -2366,8 +2366,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Planks Roof
@@ -2375,8 +2375,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Planks Steep Roof
@@ -2384,8 +2384,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Planks Top Roof
@@ -2393,8 +2393,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Planks Upper Lower Roof
@@ -2402,8 +2402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Planks Upper Steep Roof
@@ -2411,8 +2411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_jungle_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Roof
@@ -2420,8 +2420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Steep Roof
@@ -2429,8 +2429,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Top Roof
@@ -2438,8 +2438,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Upper Lower Roof
@@ -2447,8 +2447,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Jungle Upper Steep Roof
@@ -2456,8 +2456,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Log | ![jungle_log](../images/mcwroofs_jungle_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Light Blue Concrete Attic Roof
@@ -2465,7 +2465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Concrete Lower Roof
@@ -2473,7 +2473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Concrete Roof
@@ -2481,7 +2481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Concrete Steep Roof
@@ -2489,7 +2489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Concrete Top Roof
@@ -2497,7 +2497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Concrete Upper Lower Roof
@@ -2505,7 +2505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Concrete Upper Steep Roof
@@ -2513,7 +2513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_blue_concrete.png) |
+| item | Light Blue Concrete | ![light_blue_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Striped Awning
@@ -2521,8 +2521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Light Blue Carpet | ![light_blue_carpet](../images/mcwroofs_light_blue_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Light Blue Carpet | ![light_blue_carpet](../images/mcwroofs_light_gray_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Light Blue Terracotta Attic Roof
@@ -2530,7 +2530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Terracotta Lower Roof
@@ -2538,7 +2538,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Terracotta Roof
@@ -2546,7 +2546,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Terracotta Steep Roof
@@ -2554,7 +2554,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Terracotta Top Roof
@@ -2562,7 +2562,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Terracotta Upper Lower Roof
@@ -2570,7 +2570,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Blue Terracotta Upper Steep Roof
@@ -2578,7 +2578,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_blue_terracotta.png) |
+| item | Light Blue Terracotta | ![light_blue_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Attic Roof
@@ -2586,7 +2586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Attic Roof
@@ -2594,7 +2594,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Lower Roof
@@ -2602,7 +2602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Roof
@@ -2610,7 +2610,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Steep Roof
@@ -2618,7 +2618,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Top Roof
@@ -2626,7 +2626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Upper Lower Roof
@@ -2634,7 +2634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Concrete Upper Steep Roof
@@ -2642,7 +2642,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_concrete.png) |
+| item | Light Gray Concrete | ![light_gray_concrete](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Lower Roof
@@ -2650,7 +2650,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Roof
@@ -2658,7 +2658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Roof Block
@@ -2666,7 +2666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Roof Slab
@@ -2674,7 +2674,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Steep Roof
@@ -2682,7 +2682,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Striped Awning
@@ -2690,8 +2690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Light Gray Carpet | ![light_gray_carpet](../images/mcwroofs_light_gray_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Light Gray Carpet | ![light_gray_carpet](../images/mcwroofs_light_gray_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Light Gray Terracotta Attic Roof
@@ -2699,7 +2699,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Terracotta Lower Roof
@@ -2707,7 +2707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Terracotta Roof
@@ -2715,7 +2715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Terracotta Steep Roof
@@ -2723,7 +2723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Terracotta Top Roof
@@ -2731,7 +2731,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Terracotta Upper Lower Roof
@@ -2739,7 +2739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Terracotta Upper Steep Roof
@@ -2747,7 +2747,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Top Roof
@@ -2755,7 +2755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Upper Lower Roof
@@ -2763,7 +2763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Light Gray Upper Steep Roof
@@ -2771,7 +2771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_terracotta.png) |
+| item | Light Gray Terracotta | ![light_gray_terracotta](../images/mcwroofs_light_gray_roof.png) |
 
 ---
 ## Lime Concrete Attic Roof
@@ -2779,7 +2779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Concrete Lower Roof
@@ -2787,7 +2787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Concrete Roof
@@ -2795,7 +2795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Concrete Steep Roof
@@ -2803,7 +2803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Concrete Top Roof
@@ -2811,7 +2811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Concrete Upper Lower Roof
@@ -2819,7 +2819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Concrete Upper Steep Roof
@@ -2827,7 +2827,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_lime_concrete.png) |
+| item | Lime Concrete | ![lime_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Striped Awning
@@ -2835,8 +2835,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Lime Carpet | ![lime_carpet](../images/mcwroofs_lime_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Lime Carpet | ![lime_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Lime Terracotta Attic Roof
@@ -2844,7 +2844,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Terracotta Lower Roof
@@ -2852,7 +2852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Terracotta Roof
@@ -2860,7 +2860,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Terracotta Steep Roof
@@ -2868,7 +2868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Terracotta Top Roof
@@ -2876,7 +2876,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Terracotta Upper Lower Roof
@@ -2884,7 +2884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Lime Terracotta Upper Steep Roof
@@ -2892,7 +2892,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_lime_terracotta.png) |
+| item | Lime Terracotta | ![lime_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Attic Roof
@@ -2900,7 +2900,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Lower Roof
@@ -2908,7 +2908,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Roof
@@ -2916,7 +2916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Steep Roof
@@ -2924,7 +2924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Top Roof
@@ -2932,7 +2932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Upper Lower Roof
@@ -2940,7 +2940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Concrete Upper Steep Roof
@@ -2948,7 +2948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_magenta_concrete.png) |
+| item | Magenta Concrete | ![magenta_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Striped Awning
@@ -2956,8 +2956,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Magenta Carpet | ![magenta_carpet](../images/mcwroofs_magenta_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Magenta Carpet | ![magenta_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Magenta Terracotta Attic Roof
@@ -2965,7 +2965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Terracotta Lower Roof
@@ -2973,7 +2973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Terracotta Roof
@@ -2981,7 +2981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Terracotta Steep Roof
@@ -2989,7 +2989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Terracotta Top Roof
@@ -2997,7 +2997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Terracotta Upper Lower Roof
@@ -3005,7 +3005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Magenta Terracotta Upper Steep Roof
@@ -3013,7 +3013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_magenta_terracotta.png) |
+| item | Magenta Terracotta | ![magenta_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3028,8 +3028,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Lower Roof
@@ -3037,8 +3037,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3053,8 +3053,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Planks Lower Roof
@@ -3062,8 +3062,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Planks Roof
@@ -3071,8 +3071,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Planks Steep Roof
@@ -3080,8 +3080,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Planks Top Roof
@@ -3089,8 +3089,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Planks Upper Lower Roof
@@ -3098,8 +3098,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Planks Upper Steep Roof
@@ -3107,8 +3107,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_mangrove_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Roof
@@ -3116,8 +3116,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Steep Roof
@@ -3125,8 +3125,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Top Roof
@@ -3134,8 +3134,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Upper Lower Roof
@@ -3143,8 +3143,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mangrove Upper Steep Roof
@@ -3152,8 +3152,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_mangrove_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3168,7 +3168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mud Brick Lower Roof
@@ -3176,7 +3176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mud Brick Roof
@@ -3184,7 +3184,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mud Brick Steep Roof
@@ -3192,7 +3192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mud Brick Top Roof
@@ -3200,7 +3200,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mud Brick Upper Lower Roof
@@ -3208,7 +3208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Mud Brick Upper Steep Roof
@@ -3216,7 +3216,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3231,7 +3231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Nether Bricks Lower Roof
@@ -3239,7 +3239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Nether Bricks Roof
@@ -3247,7 +3247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Nether Bricks Steep Roof
@@ -3255,7 +3255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Nether Bricks Top Roof
@@ -3263,7 +3263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Nether Bricks Upper Lower Roof
@@ -3271,7 +3271,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Nether Bricks Upper Steep Roof
@@ -3279,7 +3279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3294,8 +3294,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Lower Roof
@@ -3303,8 +3303,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3319,8 +3319,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Planks Lower Roof
@@ -3328,8 +3328,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Planks Roof
@@ -3337,8 +3337,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Planks Steep Roof
@@ -3346,8 +3346,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Planks Top Roof
@@ -3355,8 +3355,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Planks Upper Lower Roof
@@ -3364,8 +3364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Planks Upper Steep Roof
@@ -3373,8 +3373,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/mcwroofs_oak_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Roof
@@ -3382,8 +3382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Steep Roof
@@ -3391,8 +3391,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Top Roof
@@ -3400,8 +3400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Upper Lower Roof
@@ -3409,8 +3409,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Oak Upper Steep Roof
@@ -3418,8 +3418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Log | ![oak_log](../images/mcwroofs_oak_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Oak Log | ![oak_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Attic Roof
@@ -3427,7 +3427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Lower Roof
@@ -3435,7 +3435,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Roof
@@ -3443,7 +3443,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Steep Roof
@@ -3451,7 +3451,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Top Roof
@@ -3459,7 +3459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Upper Lower Roof
@@ -3467,7 +3467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Concrete Upper Steep Roof
@@ -3475,7 +3475,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_orange_concrete.png) |
+| item | Orange Concrete | ![orange_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Striped Awning
@@ -3483,8 +3483,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Orange Carpet | ![orange_carpet](../images/mcwroofs_orange_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Orange Carpet | ![orange_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Orange Terracotta Attic Roof
@@ -3492,7 +3492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Terracotta Lower Roof
@@ -3500,7 +3500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Terracotta Roof
@@ -3508,7 +3508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Terracotta Steep Roof
@@ -3516,7 +3516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Terracotta Top Roof
@@ -3524,7 +3524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Terracotta Upper Lower Roof
@@ -3532,7 +3532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Orange Terracotta Upper Steep Roof
@@ -3540,7 +3540,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_orange_terracotta.png) |
+| item | Orange Terracotta | ![orange_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Attic Roof
@@ -3548,7 +3548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Lower Roof
@@ -3556,7 +3556,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Roof
@@ -3564,7 +3564,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Steep Roof
@@ -3572,7 +3572,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Top Roof
@@ -3580,7 +3580,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Upper Lower Roof
@@ -3588,7 +3588,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Concrete Upper Steep Roof
@@ -3596,7 +3596,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_pink_concrete.png) |
+| item | Pink Concrete | ![pink_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Striped Awning
@@ -3604,8 +3604,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Pink Carpet | ![pink_carpet](../images/mcwroofs_pink_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Pink Carpet | ![pink_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Pink Terracotta Attic Roof
@@ -3613,7 +3613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Terracotta Lower Roof
@@ -3621,7 +3621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Terracotta Roof
@@ -3629,7 +3629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Terracotta Steep Roof
@@ -3637,7 +3637,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Terracotta Top Roof
@@ -3645,7 +3645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Terracotta Upper Lower Roof
@@ -3653,7 +3653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Pink Terracotta Upper Steep Roof
@@ -3661,7 +3661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_pink_terracotta.png) |
+| item | Pink Terracotta | ![pink_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3676,7 +3676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Prismarine Brick Lower Roof
@@ -3684,7 +3684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Prismarine Brick Roof
@@ -3692,7 +3692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Prismarine Brick Steep Roof
@@ -3700,7 +3700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Prismarine Brick Top Roof
@@ -3708,7 +3708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Prismarine Brick Upper Lower Roof
@@ -3716,7 +3716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Prismarine Brick Upper Steep Roof
@@ -3724,7 +3724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_prismarine_bricks.png) |
+| item | Prismarine Bricks | ![prismarine_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Attic Roof
@@ -3732,7 +3732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Lower Roof
@@ -3740,7 +3740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Roof
@@ -3748,7 +3748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Steep Roof
@@ -3756,7 +3756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Top Roof
@@ -3764,7 +3764,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Upper Lower Roof
@@ -3772,7 +3772,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Concrete Upper Steep Roof
@@ -3780,7 +3780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_purple_concrete.png) |
+| item | Purple Concrete | ![purple_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Striped Awning
@@ -3788,8 +3788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Purple Carpet | ![purple_carpet](../images/mcwroofs_purple_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Purple Carpet | ![purple_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Purple Terracotta Attic Roof
@@ -3797,7 +3797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Terracotta Lower Roof
@@ -3805,7 +3805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Terracotta Roof
@@ -3813,7 +3813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Terracotta Steep Roof
@@ -3821,7 +3821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Terracotta Top Roof
@@ -3829,7 +3829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Terracotta Upper Lower Roof
@@ -3837,7 +3837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Purple Terracotta Upper Steep Roof
@@ -3845,7 +3845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_purple_terracotta.png) |
+| item | Purple Terracotta | ![purple_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Attic Roof
@@ -3853,7 +3853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Lower Roof
@@ -3861,7 +3861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Roof
@@ -3869,7 +3869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Steep Roof
@@ -3877,7 +3877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Top Roof
@@ -3885,7 +3885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Upper Lower Roof
@@ -3893,7 +3893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Concrete Upper Steep Roof
@@ -3901,7 +3901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Concrete | ![red_concrete](../images/mcwroofs_red_concrete.png) |
+| item | Red Concrete | ![red_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3916,7 +3916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Nether Bricks Lower Roof
@@ -3924,7 +3924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Nether Bricks Roof
@@ -3932,7 +3932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Nether Bricks Steep Roof
@@ -3940,7 +3940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Nether Bricks Top Roof
@@ -3948,7 +3948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Nether Bricks Upper Lower Roof
@@ -3956,7 +3956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Nether Bricks Upper Steep Roof
@@ -3964,7 +3964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -3979,7 +3979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Sandstone Lower Roof
@@ -3987,7 +3987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Sandstone Roof
@@ -3995,7 +3995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Sandstone Steep Roof
@@ -4003,7 +4003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Sandstone Top Roof
@@ -4011,7 +4011,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Sandstone Upper Lower Roof
@@ -4019,7 +4019,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Sandstone Upper Steep Roof
@@ -4027,7 +4027,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Striped Awning
@@ -4035,8 +4035,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Red Carpet | ![red_carpet](../images/mcwroofs_red_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Red Carpet | ![red_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Red Terracotta Attic Roof
@@ -4044,7 +4044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Terracotta Lower Roof
@@ -4052,7 +4052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Terracotta Roof
@@ -4060,7 +4060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Terracotta Steep Roof
@@ -4068,7 +4068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Terracotta Top Roof
@@ -4076,7 +4076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Terracotta Upper Lower Roof
@@ -4084,7 +4084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Red Terracotta Upper Steep Roof
@@ -4092,7 +4092,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_red_terracotta.png) |
+| item | Red Terracotta | ![red_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Roofing Hammer
@@ -4100,9 +4100,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
-| N | Iron Nugget | ![iron_nugget](../images/mcwroofs_iron_nugget.png) |
-| I | Iron Ingot | ![iron_ingot](../images/mcwroofs_iron_ingot.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwroofs_base_roof.png) |
+| I | Iron Ingot | ![iron_ingot](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4117,7 +4117,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Sandstone Lower Roof
@@ -4125,7 +4125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Sandstone Roof
@@ -4133,7 +4133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Sandstone Steep Roof
@@ -4141,7 +4141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Sandstone Top Roof
@@ -4149,7 +4149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Sandstone Upper Lower Roof
@@ -4157,7 +4157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Sandstone Upper Steep Roof
@@ -4165,7 +4165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwroofs_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4180,8 +4180,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Lower Roof
@@ -4189,8 +4189,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4205,8 +4205,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Planks Lower Roof
@@ -4214,8 +4214,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Planks Roof
@@ -4223,8 +4223,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Planks Steep Roof
@@ -4232,8 +4232,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Planks Top Roof
@@ -4241,8 +4241,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Planks Upper Lower Roof
@@ -4250,8 +4250,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Planks Upper Steep Roof
@@ -4259,8 +4259,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_spruce_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Roof
@@ -4268,8 +4268,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Steep Roof
@@ -4277,8 +4277,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Top Roof
@@ -4286,8 +4286,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Upper Lower Roof
@@ -4295,8 +4295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Spruce Upper Steep Roof
@@ -4304,8 +4304,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Log | ![spruce_log](../images/mcwroofs_spruce_log.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4320,7 +4320,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4335,7 +4335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Bricks Lower Roof
@@ -4343,7 +4343,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Bricks Roof
@@ -4351,7 +4351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Bricks Steep Roof
@@ -4359,7 +4359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Bricks Top Roof
@@ -4367,7 +4367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Bricks Upper Lower Roof
@@ -4375,7 +4375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Bricks Upper Steep Roof
@@ -4383,7 +4383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Lower Roof
@@ -4391,7 +4391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Roof
@@ -4399,7 +4399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Steep Roof
@@ -4407,7 +4407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Top Roof
@@ -4415,7 +4415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Upper Lower Roof
@@ -4423,7 +4423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Stone Upper Steep Roof
@@ -4431,7 +4431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/mcwroofs_stone.png) |
+| item | Stone | ![stone](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4453,8 +4453,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Thatch Lower Roof
@@ -4462,8 +4462,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Thatch Roof
@@ -4471,8 +4471,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Thatch Steep Roof
@@ -4480,8 +4480,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Thatch Top Roof
@@ -4489,8 +4489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Thatch Upper Lower Roof
@@ -4498,8 +4498,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Thatch Upper Steep Roof
@@ -4507,8 +4507,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Hay Block | ![hay_block](../images/mcwroofs_hay_block.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Hay Block | ![hay_block](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4523,8 +4523,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Lower Roof
@@ -4532,8 +4532,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## {}
@@ -4548,8 +4548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| G | Glass | ![glass](../images/mcwroofs_glass.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| G | Glass | ![glass](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Planks Lower Roof
@@ -4557,8 +4557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Planks Roof
@@ -4566,8 +4566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Planks Steep Roof
@@ -4575,8 +4575,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Planks Top Roof
@@ -4584,8 +4584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Planks Upper Lower Roof
@@ -4593,8 +4593,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Planks Upper Steep Roof
@@ -4602,8 +4602,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/mcwroofs_warped_planks.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Roof
@@ -4611,8 +4611,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Steep Roof
@@ -4620,8 +4620,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Top Roof
@@ -4629,8 +4629,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Upper Lower Roof
@@ -4638,8 +4638,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Warped Upper Steep Roof
@@ -4647,8 +4647,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Stem | ![warped_stem](../images/mcwroofs_warped_stem.png) |
-| S | Stick | ![stick](../images/mcwroofs_stick.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwroofs_base_roof.png) |
+| S | Stick | ![stick](../images/mcwroofs_base_roof.png) |
 
 ---
 ## White Attic Roof
@@ -4656,7 +4656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Attic Roof
@@ -4664,7 +4664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Lower Roof
@@ -4672,7 +4672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Roof
@@ -4680,7 +4680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Steep Roof
@@ -4688,7 +4688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Top Roof
@@ -4696,7 +4696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Upper Lower Roof
@@ -4704,7 +4704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Concrete Upper Steep Roof
@@ -4712,7 +4712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Concrete | ![white_concrete](../images/mcwroofs_white_concrete.png) |
+| item | White Concrete | ![white_concrete](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Lower Roof
@@ -4720,7 +4720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Roof
@@ -4728,7 +4728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Roof Block
@@ -4736,7 +4736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Roof Slab
@@ -4744,7 +4744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Steep Roof
@@ -4752,7 +4752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Attic Roof
@@ -4760,7 +4760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Lower Roof
@@ -4768,7 +4768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Roof
@@ -4776,7 +4776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Steep Roof
@@ -4784,7 +4784,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Top Roof
@@ -4792,7 +4792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Upper Lower Roof
@@ -4800,7 +4800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Terracotta Upper Steep Roof
@@ -4808,7 +4808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Top Roof
@@ -4816,7 +4816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Upper Lower Roof
@@ -4824,7 +4824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## White Upper Steep Roof
@@ -4832,7 +4832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_terracotta.png) |
+| item | White Terracotta | ![white_terracotta](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Yellow Concrete Attic Roof
@@ -4840,7 +4840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Concrete Lower Roof
@@ -4848,7 +4848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Concrete Roof
@@ -4856,7 +4856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Concrete Steep Roof
@@ -4864,7 +4864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Concrete Top Roof
@@ -4872,7 +4872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Concrete Upper Lower Roof
@@ -4880,7 +4880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Concrete Upper Steep Roof
@@ -4888,7 +4888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_yellow_concrete.png) |
+| item | Yellow Concrete | ![yellow_concrete](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Striped Awning
@@ -4896,8 +4896,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Yellow Carpet | ![yellow_carpet](../images/mcwroofs_yellow_carpet.png) |
-| A | White Carpet | ![white_carpet](../images/mcwroofs_white_carpet.png) |
+| B | Yellow Carpet | ![yellow_carpet](../images/mcwroofs_base_roof.png) |
+| A | White Carpet | ![white_carpet](../images/mcwroofs_white_roof.png) |
 
 ---
 ## Yellow Terracotta Attic Roof
@@ -4905,7 +4905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Terracotta Lower Roof
@@ -4913,7 +4913,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Terracotta Roof
@@ -4921,7 +4921,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Terracotta Steep Roof
@@ -4929,7 +4929,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Terracotta Top Roof
@@ -4937,7 +4937,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Terracotta Upper Lower Roof
@@ -4945,7 +4945,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---
 ## Yellow Terracotta Upper Steep Roof
@@ -4953,6 +4953,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_yellow_terracotta.png) |
+| item | Yellow Terracotta | ![yellow_terracotta](../images/mcwroofs_base_roof.png) |
 
 ---

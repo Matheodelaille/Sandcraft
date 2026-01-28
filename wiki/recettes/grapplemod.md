@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 2 | Gold Ingot | ![gold_ingot](../images/grapplemod_gold_ingot.png) |
-| 4 | String | ![string](../images/grapplemod_string.png) |
+| 2 | Gold Ingot | ![gold_ingot](../images/grapplemod_baseupgradeitem.png) |
+| 4 | String | ![string](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Block Grapple Modifier
@@ -17,7 +17,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 2 | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| 4 | Anvil | ![anvil](../images/grapplemod_anvil.png) |
+| 4 | Anvil | ![anvil](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Grapplinghook
@@ -63,8 +63,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/grapplemod_iron_pickaxe.png) |
-| - | Lead | ![lead](../images/grapplemod_lead.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/grapplemod_baseupgradeitem.png) |
+| - | Lead | ![lead](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Launcheritem
@@ -72,8 +72,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/grapplemod_ender_pearl.png) |
-| - | Piston | ![piston](../images/grapplemod_piston.png) |
+| - | Ender Pearl | ![ender_pearl](../images/grapplemod_baseupgradeitem.png) |
+| - | Piston | ![piston](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Limitsupgradeitem
@@ -82,7 +82,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Nether Star | ![nether_star](../images/grapplemod_nether_star.png) |
+| - | Nether Star | ![nether_star](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Grapplinghook
@@ -101,7 +101,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Compass | ![compass](../images/grapplemod_compass.png) |
+| - | Compass | ![compass](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Grapplinghook
@@ -119,7 +119,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Piston | ![piston](../images/grapplemod_piston.png) |
+| - | Piston | ![piston](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Repeller
@@ -127,8 +127,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 2 | Iron Ingot | ![iron_ingot](../images/grapplemod_iron_ingot.png) |
-| 4 | Compass | ![compass](../images/grapplemod_compass.png) |
+| 2 | Iron Ingot | ![iron_ingot](../images/grapplemod_baseupgradeitem.png) |
+| 4 | Compass | ![compass](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Grapplinghook
@@ -157,7 +157,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Firework Rocket | ![firework_rocket](../images/grapplemod_firework_rocket.png) |
+| - | Firework Rocket | ![firework_rocket](../images/grapplemod_rocket.png) |
 
 ---
 ## Ropeupgradeitem
@@ -166,7 +166,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Lead | ![lead](../images/grapplemod_lead.png) |
+| - | Lead | ![lead](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Grapplinghook
@@ -176,7 +176,7 @@
 | :--- | :--- | :--- |
 | - | Grapplinghook | ![grapplinghook](../images/grapplemod_grapplinghook.png) |
 | - | Motorupgradeitem | ![motorupgradeitem](../images/grapplemod_motorupgradeitem.png) |
-| - | Redstone | ![redstone](../images/grapplemod_redstone.png) |
+| - | Redstone | ![redstone](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Staffupgradeitem
@@ -194,8 +194,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Leather Boots | ![leather_boots](../images/grapplemod_leather_boots.png) |
-| - | Feather | ![feather](../images/grapplemod_feather.png) |
+| - | Leather Boots | ![leather_boots](../images/grapplemod_baseupgradeitem.png) |
+| - | Feather | ![feather](../images/grapplemod_baseupgradeitem.png) |
 
 ---
 ## Throwupgradeitem
@@ -204,6 +204,6 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Baseupgradeitem | ![baseupgradeitem](../images/grapplemod_baseupgradeitem.png) |
-| - | Bow | ![bow](../images/grapplemod_bow.png) |
+| - | Bow | ![bow](../images/grapplemod_baseupgradeitem.png) |
 
 ---

@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 2 | Velociraptor Talon | ![velociraptor_talon](../images/dinomight_velociraptor_talon.png) |
-| 4 | Red Wool | ![red_wool](../images/dinomight_red_wool.png) |
-| 6 | Stick | ![stick](../images/dinomight_stick.png) |
+| 2 | Velociraptor Talon | ![velociraptor_talon](../images/dinomight_mod_raptor_talon_spear.png) |
+| 4 | Red Wool | ![red_wool](../images/dinomight_mod_raptor_talon_spear.png) |
+| 6 | Stick | ![stick](../images/dinomight_mod_raptor_talon_spear.png) |
 
 ---

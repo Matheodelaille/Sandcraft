@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Acacia Chest Boat | ![acacia_chest_boat](../images/smallships_acacia_chest_boat.png) |
+| b | Acacia Chest Boat | ![acacia_chest_boat](../images/smallships_acacia_brigg.png) |
 
 ---
 ## Acacia Cog
@@ -18,8 +18,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Acacia Boat | ![acacia_boat](../images/smallships_acacia_boat.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Acacia Boat | ![acacia_boat](../images/smallships_acacia_brigg.png) |
 
 ---
 ## Acacia Drakkar
@@ -28,10 +28,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Acacia Boat | ![acacia_boat](../images/smallships_acacia_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Acacia Boat | ![acacia_boat](../images/smallships_acacia_brigg.png) |
 
 ---
 ## Acacia Cog
@@ -40,9 +40,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Acacia Boat | ![acacia_boat](../images/smallships_acacia_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Acacia Boat | ![acacia_boat](../images/smallships_acacia_brigg.png) |
 
 ---
 ## Birch Brigg
@@ -50,9 +50,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Birch Chest Boat | ![birch_chest_boat](../images/smallships_birch_chest_boat.png) |
+| b | Birch Chest Boat | ![birch_chest_boat](../images/smallships_birch_brigg.png) |
 
 ---
 ## Birch Cog
@@ -60,9 +60,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Birch Boat | ![birch_boat](../images/smallships_birch_boat.png) |
+| b | Birch Boat | ![birch_boat](../images/smallships_birch_brigg.png) |
 
 ---
 ## Birch Drakkar
@@ -71,10 +71,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Birch Boat | ![birch_boat](../images/smallships_birch_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Birch Boat | ![birch_boat](../images/smallships_birch_brigg.png) |
 
 ---
 ## Birch Galley
@@ -83,9 +83,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Birch Boat | ![birch_boat](../images/smallships_birch_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Birch Boat | ![birch_boat](../images/smallships_birch_brigg.png) |
 
 ---
 ## Cannon
@@ -93,9 +93,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/smallships_logs.png) |
-| S | String | ![string](../images/smallships_string.png) |
-| I | Iron Block | ![iron_block](../images/smallships_iron_block.png) |
+| L | Logs | ![logs](../images/smallships_acacia_brigg.png) |
+| S | String | ![string](../images/smallships_acacia_brigg.png) |
+| I | Iron Block | ![iron_block](../images/smallships_cannon_iron.png) |
 
 ---
 ## Cannon Ball
@@ -103,8 +103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Nugget | ![iron_nugget](../images/smallships_iron_nugget.png) |
-| G | Gunpowder | ![gunpowder](../images/smallships_gunpowder.png) |
+| # | Iron Nugget | ![iron_nugget](../images/smallships_cannon_iron.png) |
+| G | Gunpowder | ![gunpowder](../images/smallships_acacia_brigg.png) |
 
 ---
 ## Dark Oak Brigg
@@ -112,9 +112,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Dark Oak Chest Boat | ![dark_oak_chest_boat](../images/smallships_dark_oak_chest_boat.png) |
+| b | Dark Oak Chest Boat | ![dark_oak_chest_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Dark Oak Cog
@@ -123,8 +123,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Dark Oak Boat | ![dark_oak_boat](../images/smallships_dark_oak_boat.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Dark Oak Boat | ![dark_oak_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Dark Oak Drakkar
@@ -133,10 +133,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Dark Oak Boat | ![dark_oak_boat](../images/smallships_dark_oak_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Dark Oak Boat | ![dark_oak_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Dark Oak Galley
@@ -145,9 +145,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Dark Oak Boat | ![dark_oak_boat](../images/smallships_dark_oak_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Dark Oak Boat | ![dark_oak_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Jungle Brigg
@@ -155,9 +155,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Jungle Chest Boat | ![jungle_chest_boat](../images/smallships_jungle_chest_boat.png) |
+| b | Jungle Chest Boat | ![jungle_chest_boat](../images/smallships_jungle_brigg.png) |
 
 ---
 ## Jungle Cog
@@ -166,8 +166,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Jungle Boat | ![jungle_boat](../images/smallships_jungle_boat.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Jungle Boat | ![jungle_boat](../images/smallships_jungle_brigg.png) |
 
 ---
 ## Jungle Drakkar
@@ -176,10 +176,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Jungle Boat | ![jungle_boat](../images/smallships_jungle_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Jungle Boat | ![jungle_boat](../images/smallships_jungle_brigg.png) |
 
 ---
 ## Jungle Galley
@@ -188,9 +188,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Jungle Boat | ![jungle_boat](../images/smallships_jungle_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Jungle Boat | ![jungle_boat](../images/smallships_jungle_brigg.png) |
 
 ---
 ## Mangrove Brigg
@@ -198,9 +198,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Mangrove Chest Boat | ![mangrove_chest_boat](../images/smallships_mangrove_chest_boat.png) |
+| b | Mangrove Chest Boat | ![mangrove_chest_boat](../images/smallships_mangrove_brigg.png) |
 
 ---
 ## Mangrove Cog
@@ -209,8 +209,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Mangrove Boat | ![mangrove_boat](../images/smallships_mangrove_boat.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Mangrove Boat | ![mangrove_boat](../images/smallships_mangrove_brigg.png) |
 
 ---
 ## Mangrove Drakkar
@@ -219,10 +219,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Mangrove Boat | ![mangrove_boat](../images/smallships_mangrove_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Mangrove Boat | ![mangrove_boat](../images/smallships_mangrove_brigg.png) |
 
 ---
 ## Mangrove Galley
@@ -231,9 +231,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Mangrove Boat | ![mangrove_boat](../images/smallships_mangrove_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Mangrove Boat | ![mangrove_boat](../images/smallships_mangrove_brigg.png) |
 
 ---
 ## Oak Brigg
@@ -241,9 +241,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Oak Chest Boat | ![oak_chest_boat](../images/smallships_oak_chest_boat.png) |
+| b | Oak Chest Boat | ![oak_chest_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Oak Cog
@@ -252,8 +252,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Oak Boat | ![oak_boat](../images/smallships_oak_boat.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Oak Boat | ![oak_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Oak Drakkar
@@ -262,10 +262,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Oak Boat | ![oak_boat](../images/smallships_oak_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Oak Boat | ![oak_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Oak Galley
@@ -274,9 +274,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Oak Boat | ![oak_boat](../images/smallships_oak_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Oak Boat | ![oak_boat](../images/smallships_dark_oak_brigg.png) |
 
 ---
 ## Sail
@@ -284,9 +284,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Logs | ![logs](../images/smallships_logs.png) |
-| x | Wool | ![wool](../images/smallships_wool.png) |
-| s | Lead | ![lead](../images/smallships_lead.png) |
+| I | Logs | ![logs](../images/smallships_acacia_brigg.png) |
+| x | Wool | ![wool](../images/smallships_acacia_brigg.png) |
+| s | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 
 ---
 ## Spruce Brigg
@@ -294,9 +294,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lead | ![lead](../images/smallships_lead.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| b | Spruce Chest Boat | ![spruce_chest_boat](../images/smallships_spruce_chest_boat.png) |
+| b | Spruce Chest Boat | ![spruce_chest_boat](../images/smallships_spruce_brigg.png) |
 
 ---
 ## Spruce Cog
@@ -305,8 +305,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Spruce Boat | ![spruce_boat](../images/smallships_spruce_boat.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Spruce Boat | ![spruce_boat](../images/smallships_spruce_brigg.png) |
 
 ---
 ## Spruce Drakkar
@@ -315,10 +315,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | y | Sail | ![sail](../images/smallships_sail.png) |
-| x | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| s | String | ![string](../images/smallships_string.png) |
-| b | Spruce Boat | ![spruce_boat](../images/smallships_spruce_boat.png) |
+| x | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| s | String | ![string](../images/smallships_acacia_brigg.png) |
+| b | Spruce Boat | ![spruce_boat](../images/smallships_spruce_brigg.png) |
 
 ---
 ## Spruce Galley
@@ -327,8 +327,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Sail | ![sail](../images/smallships_sail.png) |
-| c | Chest | ![chest](../images/smallships_chest.png) |
-| l | Lead | ![lead](../images/smallships_lead.png) |
-| b | Spruce Boat | ![spruce_boat](../images/smallships_spruce_boat.png) |
+| c | Chest | ![chest](../images/smallships_acacia_brigg.png) |
+| l | Lead | ![lead](../images/smallships_acacia_brigg.png) |
+| b | Spruce Boat | ![spruce_boat](../images/smallships_spruce_brigg.png) |
 
 ---

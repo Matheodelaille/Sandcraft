@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Avocado Crate | ![avocado_crate](../images/culturaldelights_avocado_crate.png) |
+| - | Avocado Crate | ![avocado_crate](../images/culturaldelights_avocado_crate_side.png) |
 
 ---
 ## Avocado Crate
@@ -39,9 +39,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Avocados | ![avocados](../images/culturaldelights_avocados.png) |
-| - | Avocados | ![avocados](../images/culturaldelights_avocados.png) |
-| - | Bread | ![bread](../images/culturaldelights_bread.png) |
+| - | Avocados | ![avocados](../images/culturaldelights_avocado.png) |
+| - | Avocados | ![avocados](../images/culturaldelights_avocado.png) |
+| - | Bread | ![bread](../images/culturaldelights_avocado.png) |
 
 ---
 ## Tree Bark'}]
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Avocado Wood | ![avocado_wood](../images/culturaldelights_avocado_wood.png) |
+| - | Avocado Wood | ![avocado_wood](../images/culturaldelights_avocado.png) |
 
 ---
 ## Beef Burrito
@@ -58,9 +58,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tortilla | ![tortilla](../images/culturaldelights_tortilla.png) |
-| - | Cooked Beef | ![cooked_beef](../images/culturaldelights_cooked_beef.png) |
-| - | Avocados | ![avocados](../images/culturaldelights_avocados.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
+| - | Cooked Beef | ![cooked_beef](../images/culturaldelights_beef_burrito.png) |
+| - | Avocados | ![avocados](../images/culturaldelights_avocado.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
 
 ---
 ## Calamari Roll
@@ -68,8 +68,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_dried_kelp.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
+| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_avocado.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
 | - | Raw Calamari | ![raw_calamari](../images/culturaldelights_raw_calamari.png) |
 | - | Raw Calamari | ![raw_calamari](../images/culturaldelights_raw_calamari.png) |
 
@@ -79,10 +79,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dried Kelp | ![dried_kelp](../images/culturaldelights_dried_kelp.png) |
-| @ | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| ? | Cooked Chicken | ![cooked_chicken](../images/culturaldelights_cooked_chicken.png) |
-| ! | Beetroot | ![beetroot](../images/culturaldelights_beetroot.png) |
+| # | Dried Kelp | ![dried_kelp](../images/culturaldelights_avocado.png) |
+| @ | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| ? | Cooked Chicken | ![cooked_chicken](../images/culturaldelights_chicken_roll.png) |
+| ! | Beetroot | ![beetroot](../images/culturaldelights_avocado.png) |
 
 ---
 ##  3}]
@@ -99,10 +99,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tortilla | ![tortilla](../images/culturaldelights_tortilla.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/culturaldelights_cooked_chicken.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/culturaldelights_chicken_roll.png) |
 | - | Crops/Onion | ![crops/onion](../images/culturaldelights_crops/onion.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/culturaldelights_tomato_sauce.png) |
-| - | Cucumbers | ![cucumbers](../images/culturaldelights_cucumbers.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/culturaldelights_smoked_tomato.png) |
+| - | Cucumbers | ![cucumbers](../images/culturaldelights_cucumbers_stage0.png) |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
 
 ---
@@ -183,7 +183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Corn Cob Crate | ![corn_cob_crate](../images/culturaldelights_corn_cob_crate.png) |
+| - | Corn Cob Crate | ![corn_cob_crate](../images/culturaldelights_corn_cob_crate_side.png) |
 
 ---
 ## Corn Cob Crate
@@ -199,7 +199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Water Bucket | ![water_bucket](../images/culturaldelights_water_bucket.png) |
+| - | Water Bucket | ![water_bucket](../images/culturaldelights_avocado.png) |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
@@ -220,7 +220,7 @@
 | :--- | :--- | :--- |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
-| - | Milk | ![milk](../images/culturaldelights_milk.png) |
+| - | Milk | ![milk](../images/culturaldelights_avocado.png) |
 
 ---
 ## Cucumber
@@ -228,7 +228,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cucumber Crate | ![cucumber_crate](../images/culturaldelights_cucumber_crate.png) |
+| - | Cucumber Crate | ![cucumber_crate](../images/culturaldelights_cucumber_crate_side.png) |
 
 ---
 ## Cucumber Crate
@@ -276,7 +276,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggplant Crate | ![eggplant_crate](../images/culturaldelights_eggplant_crate.png) |
+| - | Eggplant Crate | ![eggplant_crate](../images/culturaldelights_eggplant_crate_side.png) |
 
 ---
 ## Eggplant Burger
@@ -284,9 +284,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/culturaldelights_bread.png) |
-| - | Smoked Regular Eggplants | ![smoked_regular_eggplants](../images/culturaldelights_smoked_regular_eggplants.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/culturaldelights_salad_ingredients.png) |
+| - | Bread | ![bread](../images/culturaldelights_avocado.png) |
+| - | Smoked Regular Eggplants | ![smoked_regular_eggplants](../images/culturaldelights_eggplants_stage0.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/culturaldelights_hearty_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/culturaldelights_crops/tomato.png) |
 
 ---
@@ -303,11 +303,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_dried_kelp.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_eggs.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_eggs.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_eggs.png) |
+| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_avocado.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_calamari.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_calamari.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_calamari.png) |
 
 ---
 ## Elote
@@ -316,7 +316,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
-| - | Milk | ![milk](../images/culturaldelights_milk.png) |
+| - | Milk | ![milk](../images/culturaldelights_avocado.png) |
 
 ---
 ## Empanada
@@ -326,7 +326,7 @@
 | :--- | :--- | :--- |
 | - | Corn Dough | ![corn_dough](../images/culturaldelights_corn_dough.png) |
 | - | Corn Dough | ![corn_dough](../images/culturaldelights_corn_dough.png) |
-| - | Avocados | ![avocados](../images/culturaldelights_avocados.png) |
+| - | Avocados | ![avocados](../images/culturaldelights_avocado.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/culturaldelights_crops/tomato.png) |
 | - | Crops/Onion | ![crops/onion](../images/culturaldelights_crops/onion.png) |
 
@@ -343,7 +343,7 @@
 | - | Tropical Roll | ![tropical_roll](../images/culturaldelights_tropical_roll.png) |
 | - | Tropical Roll | ![tropical_roll](../images/culturaldelights_tropical_roll.png) |
 | - | Pufferfish Roll | ![pufferfish_roll](../images/culturaldelights_pufferfish_roll.png) |
-| - | Bowl | ![bowl](../images/culturaldelights_bowl.png) |
+| - | Bowl | ![bowl](../images/culturaldelights_avocado.png) |
 | - | Pufferfish Roll | ![pufferfish_roll](../images/culturaldelights_pufferfish_roll.png) |
 
 ---
@@ -353,9 +353,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tortilla | ![tortilla](../images/culturaldelights_tortilla.png) |
-| - | Cooked Fishes | ![cooked_fishes](../images/culturaldelights_cooked_fishes.png) |
+| - | Cooked Fishes | ![cooked_fishes](../images/culturaldelights_cooked_calamari.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/culturaldelights_crops/tomato.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/culturaldelights_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/culturaldelights_hearty_salad.png) |
 
 ---
 ## Fried Eggplant Pasta
@@ -363,9 +363,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Regular Eggplants | ![regular_eggplants](../images/culturaldelights_regular_eggplants.png) |
-| - | Raw Pasta | ![raw_pasta](../images/culturaldelights_raw_pasta.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/culturaldelights_tomato_sauce.png) |
+| - | Regular Eggplants | ![regular_eggplants](../images/culturaldelights_eggplants_stage0.png) |
+| - | Raw Pasta | ![raw_pasta](../images/culturaldelights_fried_eggplant_pasta.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/culturaldelights_smoked_tomato.png) |
 
 ---
 ## Hearty Salad
@@ -374,10 +374,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Tomato | ![crops/tomato](../images/culturaldelights_crops/tomato.png) |
-| - | Avocados | ![avocados](../images/culturaldelights_avocados.png) |
+| - | Avocados | ![avocados](../images/culturaldelights_avocado.png) |
 | - | Crops/Corn | ![crops/corn](../images/culturaldelights_crops/corn.png) |
 | - | Cucumber | ![cucumber](../images/culturaldelights_cucumber.png) |
-| - | Bowl | ![bowl](../images/culturaldelights_bowl.png) |
+| - | Bowl | ![bowl](../images/culturaldelights_avocado.png) |
 
 ---
 ## Jungle Planks
@@ -385,7 +385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Avocado Logs | ![avocado_logs](../images/culturaldelights_avocado_logs.png) |
+| - | Avocado Logs | ![avocado_logs](../images/culturaldelights_avocado.png) |
 
 ---
 ## Midori Roll
@@ -393,10 +393,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dried Kelp | ![dried_kelp](../images/culturaldelights_dried_kelp.png) |
-| @ | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| ? | Avocados | ![avocados](../images/culturaldelights_avocados.png) |
-| ! | Cucumbers | ![cucumbers](../images/culturaldelights_cucumbers.png) |
+| # | Dried Kelp | ![dried_kelp](../images/culturaldelights_avocado.png) |
+| @ | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| ? | Avocados | ![avocados](../images/culturaldelights_avocado.png) |
+| ! | Cucumbers | ![cucumbers](../images/culturaldelights_cucumbers_stage0.png) |
 
 ---
 ##  3}]
@@ -412,10 +412,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/culturaldelights_bread.png) |
-| - | Cooked Mutton | ![cooked_mutton](../images/culturaldelights_cooked_mutton.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_eggs.png) |
-| - | Beetroot | ![beetroot](../images/culturaldelights_beetroot.png) |
+| - | Bread | ![bread](../images/culturaldelights_avocado.png) |
+| - | Cooked Mutton | ![cooked_mutton](../images/culturaldelights_cooked_calamari.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/culturaldelights_cooked_calamari.png) |
+| - | Beetroot | ![beetroot](../images/culturaldelights_avocado.png) |
 
 ---
 ## Pickle
@@ -423,7 +423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pickle Crate | ![pickle_crate](../images/culturaldelights_pickle_crate.png) |
+| - | Pickle Crate | ![pickle_crate](../images/culturaldelights_pickle_crate_side.png) |
 
 ---
 ## Pickle Crate
@@ -464,9 +464,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tortilla | ![tortilla](../images/culturaldelights_tortilla.png) |
-| - | Cooked Pork | ![cooked_pork](../images/culturaldelights_cooked_pork.png) |
-| - | Apple | ![apple](../images/culturaldelights_apple.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/culturaldelights_salad_ingredients.png) |
+| - | Cooked Pork | ![cooked_pork](../images/culturaldelights_cooked_calamari.png) |
+| - | Apple | ![apple](../images/culturaldelights_avocado.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/culturaldelights_hearty_salad.png) |
 
 ---
 ## Pufferfish Roll
@@ -474,9 +474,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| - | Pufferfish | ![pufferfish](../images/culturaldelights_pufferfish.png) |
-| - | Pufferfish | ![pufferfish](../images/culturaldelights_pufferfish.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| - | Pufferfish | ![pufferfish](../images/culturaldelights_pufferfish_roll.png) |
+| - | Pufferfish | ![pufferfish](../images/culturaldelights_pufferfish_roll.png) |
 
 ---
 ##  0.5}]
@@ -500,9 +500,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat | ![wheat](../images/culturaldelights_wheat.png) |
-| - | Wheat | ![wheat](../images/culturaldelights_wheat.png) |
-| - | Egg | ![egg](../images/culturaldelights_egg.png) |
+| - | Wheat | ![wheat](../images/culturaldelights_avocado.png) |
+| - | Wheat | ![wheat](../images/culturaldelights_avocado.png) |
+| - | Egg | ![egg](../images/culturaldelights_egg_roll.png) |
 
 ---
 ## Rice Ball
@@ -510,10 +510,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_dried_kelp.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| - | Sweet Berries | ![sweet_berries](../images/culturaldelights_sweet_berries.png) |
+| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_avocado.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| - | Sweet Berries | ![sweet_berries](../images/culturaldelights_avocado.png) |
 | - | Raw Fishes/Salmon | ![raw_fishes/salmon](../images/culturaldelights_raw_fishes/salmon.png) |
 
 ---
@@ -538,7 +538,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tomato | ![tomato](../images/culturaldelights_tomato.png) |
+| item | Tomato | ![tomato](../images/culturaldelights_smoked_tomato.png) |
 
 ---
 ## Smoked White Eggplant
@@ -554,12 +554,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blaze Powder | ![blaze_powder](../images/culturaldelights_blaze_powder.png) |
-| - | Tomato Sauce | ![tomato_sauce](../images/culturaldelights_tomato_sauce.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
+| - | Blaze Powder | ![blaze_powder](../images/culturaldelights_avocado.png) |
+| - | Tomato Sauce | ![tomato_sauce](../images/culturaldelights_smoked_tomato.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
 | - | Crops/Onion | ![crops/onion](../images/culturaldelights_crops/onion.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/culturaldelights_cooked_chicken.png) |
-| - | Milk | ![milk](../images/culturaldelights_milk.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/culturaldelights_chicken_roll.png) |
+| - | Milk | ![milk](../images/culturaldelights_avocado.png) |
 
 ---
 ## Tortilla
@@ -599,10 +599,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_dried_kelp.png) |
-| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_rice.png) |
-| - | Tropical Fish | ![tropical_fish](../images/culturaldelights_tropical_fish.png) |
-| - | Tropical Fish | ![tropical_fish](../images/culturaldelights_tropical_fish.png) |
+| - | Dried Kelp | ![dried_kelp](../images/culturaldelights_avocado.png) |
+| - | Cooked Rice | ![cooked_rice](../images/culturaldelights_cooked_calamari.png) |
+| - | Tropical Fish | ![tropical_fish](../images/culturaldelights_fish_taco.png) |
+| - | Tropical Fish | ![tropical_fish](../images/culturaldelights_fish_taco.png) |
 
 ---
 ## White Eggplant
@@ -610,7 +610,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Eggplant Crate | ![white_eggplant_crate](../images/culturaldelights_white_eggplant_crate.png) |
+| - | White Eggplant Crate | ![white_eggplant_crate](../images/culturaldelights_white_eggplant_crate_side.png) |
 
 ---
 ## White Eggplant Crate

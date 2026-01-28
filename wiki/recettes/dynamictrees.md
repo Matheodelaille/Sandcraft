@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bucket | ![bucket](../images/dynamictrees_bucket.png) |
-| S | Dirt | ![dirt](../images/dynamictrees_dirt.png) |
+| P | Bucket | ![bucket](../images/dynamictrees_dirt_bucket.png) |
+| S | Dirt | ![dirt](../images/dynamictrees_dirt_bucket.png) |
 
 ---

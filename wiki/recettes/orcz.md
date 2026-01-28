@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orchorn | ![orchorn](../images/orcz_orchorn.png) |
+| 0 | Orchorn | ![orchorn](../images/orcz_bedroll.png) |
 
 ---
 ## Ironscrap
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Scrapblock | ![scrapblock](../images/orcz_scrapblock.png) |
+| - | Scrapblock | ![scrapblock](../images/orcz_bedroll.png) |
 
 ---
 ## Bone 1Deco
@@ -23,7 +23,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bone 1 | ![bone_1](../images/orcz_bone_1.png) |
+| - | Bone 1 | ![bone_1](../images/orcz_bone.png) |
 
 ---
 ## Bone 1
@@ -31,9 +31,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Planks | ![planks](../images/orcz_planks.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Planks | ![planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Bone 2Deco
@@ -41,7 +41,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Bone 2 | ![bone_2](../images/orcz_bone_2.png) |
+| 0 | Bone 2 | ![bone_2](../images/orcz_bone.png) |
 
 ---
 ## Bone 2
@@ -49,12 +49,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 3 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 5 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 6 | Planks | ![planks](../images/orcz_planks.png) |
-| 8 | Planks | ![planks](../images/orcz_planks.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 3 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 5 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 6 | Planks | ![planks](../images/orcz_orc_planks.png) |
+| 8 | Planks | ![planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Iron Ingot
@@ -62,8 +62,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| - | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
+| - | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| - | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
 
 ---
 ## Great Jungle Armour Chestplate
@@ -112,11 +112,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orcshroom | ![orcshroom](../images/orcz_orcshroom.png) |
-| - | Blue Orcshroom | ![blue_orcshroom](../images/orcz_blue_orcshroom.png) |
-| - | Orcamanita | ![orcamanita](../images/orcz_orcamanita.png) |
-| - | Orcagaric | ![orcagaric](../images/orcz_orcagaric.png) |
-| - | Bowl | ![bowl](../images/orcz_bowl.png) |
+| - | Orcshroom | ![orcshroom](../images/orcz_bedroll.png) |
+| - | Blue Orcshroom | ![blue_orcshroom](../images/orcz_orc_symbol_blue.png) |
+| - | Orcamanita | ![orcamanita](../images/orcz_bedroll.png) |
+| - | Orcagaric | ![orcagaric](../images/orcz_bedroll.png) |
+| - | Bowl | ![bowl](../images/orcz_bedroll.png) |
 
 ---
 ## Nether Wart
@@ -124,7 +124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orceye | ![orceye](../images/orcz_orceye.png) |
+| - | Orceye | ![orceye](../images/orcz_bedroll.png) |
 
 ---
 ## Heavyorchammer
@@ -132,13 +132,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 2 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 3 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 4 | Stick | ![stick](../images/orcz_stick.png) |
-| 5 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 7 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 2 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 3 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 4 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 5 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 7 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Steel Paxel
@@ -146,11 +146,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orc Steelpickaxe | ![orc_steelpickaxe](../images/orcz_orc_steelpickaxe.png) |
-| - | Orcsteelshovel | ![orcsteelshovel](../images/orcz_orcsteelshovel.png) |
-| - | Orc Steel Axe | ![orc_steel_axe](../images/orcz_orc_steel_axe.png) |
-| - | Orc Steel Hoe | ![orc_steel_hoe](../images/orcz_orc_steel_hoe.png) |
-| - | Orc Steel Sword | ![orc_steel_sword](../images/orcz_orc_steel_sword.png) |
+| - | Orc Steelpickaxe | ![orc_steelpickaxe](../images/orcz_orc_dust.png) |
+| - | Orcsteelshovel | ![orcsteelshovel](../images/orcz_bedroll.png) |
+| - | Orc Steel Axe | ![orc_steel_axe](../images/orcz_orc_sword_steel.png) |
+| - | Orc Steel Hoe | ![orc_steel_hoe](../images/orcz_orc_sword_steel.png) |
+| - | Orc Steel Sword | ![orc_steel_sword](../images/orcz_orc_sword_steel.png) |
 
 ---
 ## Orcsteelshovel
@@ -158,9 +158,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 1 | Stick | ![stick](../images/orcz_stick.png) |
-| 2 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 1 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 2 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Steel Paxel
@@ -168,11 +168,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 2 | Stick | ![stick](../images/orcz_stick.png) |
-| 3 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 4 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 2 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 3 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 4 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Steelpickaxe
@@ -180,11 +180,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 2 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 4 | Stick | ![stick](../images/orcz_stick.png) |
-| 7 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 2 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 4 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 7 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orcsteelpowder
@@ -192,11 +192,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Ingot | ![iron_ingot](../images/orcz_iron_ingot.png) |
-| 1 | Coal | ![coal](../images/orcz_coal.png) |
-| 2 | Coal | ![coal](../images/orcz_coal.png) |
-| 3 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 4 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
+| 0 | Iron Ingot | ![iron_ingot](../images/orcz_iron_scrap.png) |
+| 1 | Coal | ![coal](../images/orcz_bedroll.png) |
+| 2 | Coal | ![coal](../images/orcz_bedroll.png) |
+| 3 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 4 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Steel
@@ -204,7 +204,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orcsteelpowder | ![orcsteelpowder](../images/orcz_orcsteelpowder.png) |
+| item | Orcsteelpowder | ![orcsteelpowder](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Steel Sword
@@ -212,15 +212,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Squigs Claws | ![squigs_claws](../images/orcz_squigs_claws.png) |
-| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 2 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 3 | Ender Pearl | ![ender_pearl](../images/orcz_ender_pearl.png) |
-| 4 | Orceye | ![orceye](../images/orcz_orceye.png) |
-| 5 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 6 | Orcteeth Tool Sword | ![orcteeth_tool_sword](../images/orcz_orcteeth_tool_sword.png) |
-| 7 | Ender Pearl | ![ender_pearl](../images/orcz_ender_pearl.png) |
-| 8 | Squigs Claws | ![squigs_claws](../images/orcz_squigs_claws.png) |
+| 0 | Squigs Claws | ![squigs_claws](../images/orcz_bedroll.png) |
+| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 2 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 3 | Ender Pearl | ![ender_pearl](../images/orcz_bedroll.png) |
+| 4 | Orceye | ![orceye](../images/orcz_bedroll.png) |
+| 5 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 6 | Orcteeth Tool Sword | ![orcteeth_tool_sword](../images/orcz_orcteeth_armor_body_two.png) |
+| 7 | Ender Pearl | ![ender_pearl](../images/orcz_bedroll.png) |
+| 8 | Squigs Claws | ![squigs_claws](../images/orcz_bedroll.png) |
 
 ---
 ## Orcsymbolblue
@@ -228,8 +228,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcsymbol | ![orcsymbol](../images/orcz_orcsymbol.png) |
-| 1 | Blue Dye | ![blue_dye](../images/orcz_blue_dye.png) |
+| 0 | Orcsymbol | ![orcsymbol](../images/orcz_bedroll.png) |
+| 1 | Blue Dye | ![blue_dye](../images/orcz_orc_symbol_blue.png) |
 
 ---
 ## Orcsymbol
@@ -237,7 +237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oak Log | ![oak_log](../images/orcz_oak_log.png) |
+| item | Oak Log | ![oak_log](../images/orcz_dark_oak_palisade.png) |
 
 ---
 ## Orcsymbolred
@@ -245,8 +245,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orcsymbol | ![orcsymbol](../images/orcz_orcsymbol.png) |
-| - | Red Dye | ![red_dye](../images/orcz_red_dye.png) |
+| - | Orcsymbol | ![orcsymbol](../images/orcz_bedroll.png) |
+| - | Red Dye | ![red_dye](../images/orcz_bedroll.png) |
 
 ---
 ## Orcteeth Armor Armor Helmet
@@ -254,11 +254,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orchorn | ![orchorn](../images/orcz_orchorn.png) |
-| 1 | Leather | ![leather](../images/orcz_leather.png) |
-| 2 | Orchorn | ![orchorn](../images/orcz_orchorn.png) |
-| 3 | Leather | ![leather](../images/orcz_leather.png) |
-| 5 | Leather | ![leather](../images/orcz_leather.png) |
+| 0 | Orchorn | ![orchorn](../images/orcz_bedroll.png) |
+| 1 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 2 | Orchorn | ![orchorn](../images/orcz_bedroll.png) |
+| 3 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 5 | Leather | ![leather](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Steel Hoe
@@ -266,10 +266,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_steel.png) |
-| 3 | Stick | ![stick](../images/orcz_stick.png) |
-| 5 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 1 | Orc Steel | ![orc_steel](../images/orcz_orc_sword_steel.png) |
+| 3 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 5 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orcteethpaxel
@@ -277,11 +277,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orcteeth Tool Pickaxe | ![orcteeth_tool_pickaxe](../images/orcz_orcteeth_tool_pickaxe.png) |
-| - | Orcteeth Tool Shovel | ![orcteeth_tool_shovel](../images/orcz_orcteeth_tool_shovel.png) |
-| - | Orcteeth Tool Axe | ![orcteeth_tool_axe](../images/orcz_orcteeth_tool_axe.png) |
-| - | Orcteeth Tool Hoe | ![orcteeth_tool_hoe](../images/orcz_orcteeth_tool_hoe.png) |
-| - | Orcteeth Tool Sword | ![orcteeth_tool_sword](../images/orcz_orcteeth_tool_sword.png) |
+| - | Orcteeth Tool Pickaxe | ![orcteeth_tool_pickaxe](../images/orcz_orcteeth_armor_body_two.png) |
+| - | Orcteeth Tool Shovel | ![orcteeth_tool_shovel](../images/orcz_orcteeth_armor_body_two.png) |
+| - | Orcteeth Tool Axe | ![orcteeth_tool_axe](../images/orcz_orcteeth_armor_body_two.png) |
+| - | Orcteeth Tool Hoe | ![orcteeth_tool_hoe](../images/orcz_orcteeth_armor_body_two.png) |
+| - | Orcteeth Tool Sword | ![orcteeth_tool_sword](../images/orcz_orcteeth_armor_body_two.png) |
 
 ---
 ## Bone
@@ -289,7 +289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
+| - | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
 
 ---
 ## Orcteeth Armor Armor Chestplate
@@ -297,14 +297,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 3 | Leather | ![leather](../images/orcz_leather.png) |
-| 4 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 5 | Leather | ![leather](../images/orcz_leather.png) |
-| 6 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 7 | Leather | ![leather](../images/orcz_leather.png) |
-| 8 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 3 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 4 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 5 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 6 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 7 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 8 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
 
 ---
 ## Orcteeth Armor Armor Boots
@@ -312,10 +312,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 3 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 5 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 3 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 5 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
 
 ---
 ## Orcteeth Armor Armor Leggings
@@ -323,13 +323,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Leather | ![leather](../images/orcz_leather.png) |
-| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 3 | Leather | ![leather](../images/orcz_leather.png) |
-| 5 | Leather | ![leather](../images/orcz_leather.png) |
-| 6 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 8 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 3 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 5 | Leather | ![leather](../images/orcz_bedroll.png) |
+| 6 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 8 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
 
 ---
 ## Orcteeth Tool Axe
@@ -337,11 +337,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 3 | Stick | ![stick](../images/orcz_stick.png) |
-| 5 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 3 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 5 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orcteeth Tool Hoe
@@ -349,10 +349,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 3 | Stick | ![stick](../images/orcz_stick.png) |
-| 5 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 3 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 5 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orcteeth Tool Pickaxe
@@ -360,11 +360,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 4 | Stick | ![stick](../images/orcz_stick.png) |
-| 7 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 4 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 7 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orcteeth Tool Shovel
@@ -372,9 +372,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Stick | ![stick](../images/orcz_stick.png) |
-| 2 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 2 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orcteeth Tool Sword
@@ -382,9 +382,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth.png) |
-| 2 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 1 | Orcteeth | ![orcteeth](../images/orcz_orcteeth_armor_body_two.png) |
+| 2 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Skullwandorc
@@ -392,9 +392,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Squig Eye | ![squig_eye](../images/orcz_squig_eye.png) |
-| 1 | Orcskull | ![orcskull](../images/orcz_orcskull.png) |
-| 2 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Squig Eye | ![squig_eye](../images/orcz_eye_2.png) |
+| 1 | Orcskull | ![orcskull](../images/orcz_bedroll.png) |
+| 2 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Wood Button
@@ -402,7 +402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
+| - | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Orc Wood Fence Gate
@@ -410,12 +410,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Stick | ![stick](../images/orcz_stick.png) |
-| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 2 | Stick | ![stick](../images/orcz_stick.png) |
-| 3 | Stick | ![stick](../images/orcz_stick.png) |
-| 4 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 5 | Stick | ![stick](../images/orcz_stick.png) |
+| 0 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 2 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 3 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 4 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 5 | Stick | ![stick](../images/orcz_bedroll.png) |
 
 ---
 ## Orc Wood Fence
@@ -423,12 +423,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 1 | Stick | ![stick](../images/orcz_stick.png) |
-| 2 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 3 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 4 | Stick | ![stick](../images/orcz_stick.png) |
-| 5 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
+| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 1 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 2 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 3 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 4 | Stick | ![stick](../images/orcz_bedroll.png) |
+| 5 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Orc Wood Planks
@@ -436,7 +436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_wood_log.png) |
+| - | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_log_side.png) |
 
 ---
 ## Orc Wood Pressure Plate
@@ -444,8 +444,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
+| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Orc Wood Slab
@@ -453,9 +453,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 2 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
+| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 2 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Orc Wood Stairs
@@ -463,12 +463,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 3 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 4 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 6 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 7 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 8 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
+| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 3 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 4 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 6 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 7 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 8 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Stick
@@ -476,8 +476,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
-| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_wood_planks.png) |
+| 0 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
+| 1 | Orc Wood Planks | ![orc_wood_planks](../images/orcz_orc_planks.png) |
 
 ---
 ## Orc Wood Wood
@@ -485,10 +485,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_wood_log.png) |
-| 1 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_wood_log.png) |
-| 2 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_wood_log.png) |
-| 3 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_wood_log.png) |
+| 0 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_log_side.png) |
+| 1 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_log_side.png) |
+| 2 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_log_side.png) |
+| 3 | Orc Wood Log | ![orc_wood_log](../images/orcz_orc_log_side.png) |
 
 ---
 ## Palisadedarkoak
@@ -496,12 +496,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_log.png) |
-| 1 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_log.png) |
-| 2 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_log.png) |
-| 3 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_log.png) |
-| 4 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_log.png) |
-| 5 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_log.png) |
+| 0 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_palisade.png) |
+| 1 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_palisade.png) |
+| 2 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_palisade.png) |
+| 3 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_palisade.png) |
+| 4 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_palisade.png) |
+| 5 | Dark Oak Log | ![dark_oak_log](../images/orcz_dark_oak_palisade.png) |
 
 ---
 ## Pallisade
@@ -509,12 +509,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Spruce Log | ![spruce_log](../images/orcz_spruce_log.png) |
-| 1 | Spruce Log | ![spruce_log](../images/orcz_spruce_log.png) |
-| 2 | Spruce Log | ![spruce_log](../images/orcz_spruce_log.png) |
-| 3 | Spruce Log | ![spruce_log](../images/orcz_spruce_log.png) |
-| 4 | Spruce Log | ![spruce_log](../images/orcz_spruce_log.png) |
-| 5 | Spruce Log | ![spruce_log](../images/orcz_spruce_log.png) |
+| 0 | Spruce Log | ![spruce_log](../images/orcz_orc_log_side.png) |
+| 1 | Spruce Log | ![spruce_log](../images/orcz_orc_log_side.png) |
+| 2 | Spruce Log | ![spruce_log](../images/orcz_orc_log_side.png) |
+| 3 | Spruce Log | ![spruce_log](../images/orcz_orc_log_side.png) |
+| 4 | Spruce Log | ![spruce_log](../images/orcz_orc_log_side.png) |
+| 5 | Spruce Log | ![spruce_log](../images/orcz_orc_log_side.png) |
 
 ---
 ## Scrapplatewall
@@ -522,12 +522,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 1 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 2 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 3 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 4 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 5 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
+| 0 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 1 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 2 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 3 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 4 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 5 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
 
 ---
 ## Scrapblock
@@ -535,15 +535,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 1 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 2 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 3 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 4 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 5 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 6 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 7 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
-| 8 | Ironscrap | ![ironscrap](../images/orcz_ironscrap.png) |
+| 0 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 1 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 2 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 3 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 4 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 5 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 6 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 7 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
+| 8 | Ironscrap | ![ironscrap](../images/orcz_bedroll.png) |
 
 ---
 ## Bone
@@ -551,7 +551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Squigs Claws | ![squigs_claws](../images/orcz_squigs_claws.png) |
+| - | Squigs Claws | ![squigs_claws](../images/orcz_bedroll.png) |
 
 ---
 ## Nether Wart
@@ -559,7 +559,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Squig Eye | ![squig_eye](../images/orcz_squig_eye.png) |
+| - | Squig Eye | ![squig_eye](../images/orcz_eye_2.png) |
 
 ---
 ## Nether Wart
@@ -567,6 +567,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Squig Eye | ![squig_eye](../images/orcz_squig_eye.png) |
+| - | Squig Eye | ![squig_eye](../images/orcz_eye_2.png) |
 
 ---

@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | G | Nuggets/Gold | ![nuggets/gold](../images/fairylights_nuggets/gold.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/fairylights_ingots/iron.png) |
-| T | Torch | ![torch](../images/fairylights_torch.png) |
+| T | Torch | ![torch](../images/fairylights_candle_lantern.png) |
 
 ---
 ## {}
@@ -59,7 +59,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vine | ![vine](../images/fairylights_vine.png) |
+| - | Vine | ![vine](../images/fairylights_candle_lantern.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/fairylights_ingots/iron.png) |
 
 ---
@@ -105,7 +105,7 @@
 | :--- | :--- | :--- |
 | G | Glass Panes/Colorless | ![glass_panes/colorless](../images/fairylights_glass_panes/colorless.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/fairylights_ingots/iron.png) |
-| T | Torch | ![torch](../images/fairylights_torch.png) |
+| T | Torch | ![torch](../images/fairylights_candle_lantern.png) |
 
 ---
 ## {}
@@ -120,11 +120,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/fairylights_string.png) |
-| B | Ink Sac | ![ink_sac](../images/fairylights_ink_sac.png) |
-| F | Feathers | ![feathers](../images/fairylights_feathers.png) |
+| - | String | ![string](../images/fairylights_candle_lantern.png) |
+| B | Ink Sac | ![ink_sac](../images/fairylights_candle_lantern.png) |
+| F | Feathers | ![feathers](../images/fairylights_candle_lantern.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/fairylights_ingots/iron.png) |
-| P | Paper | ![paper](../images/fairylights_paper.png) |
+| P | Paper | ![paper](../images/fairylights_paper_lantern_0.png) |
 
 ---
 ## {}
@@ -155,8 +155,8 @@
 | :--- | :--- | :--- |
 | G | Glass Panes/Colorless | ![glass_panes/colorless](../images/fairylights_glass_panes/colorless.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/fairylights_ingots/iron.png) |
-| S | Stick | ![stick](../images/fairylights_stick.png) |
-| T | Torch | ![torch](../images/fairylights_torch.png) |
+| S | Stick | ![stick](../images/fairylights_candle_lantern.png) |
+| T | Torch | ![torch](../images/fairylights_candle_lantern.png) |
 
 ---
 ## {}

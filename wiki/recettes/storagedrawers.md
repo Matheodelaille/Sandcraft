@@ -14,7 +14,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Acacia Planks | ![acacia_planks](../images/storagedrawers_acacia_planks.png) |
+| / | Acacia Planks | ![acacia_planks](../images/storagedrawers_drawers_acacia_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -23,7 +23,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Acacia Planks | ![acacia_planks](../images/storagedrawers_acacia_planks.png) |
+| / | Acacia Planks | ![acacia_planks](../images/storagedrawers_drawers_acacia_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -32,7 +32,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Acacia Planks | ![acacia_planks](../images/storagedrawers_acacia_planks.png) |
+| / | Acacia Planks | ![acacia_planks](../images/storagedrawers_drawers_acacia_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -41,7 +41,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Acacia Slab | ![acacia_slab](../images/storagedrawers_acacia_slab.png) |
+| / | Acacia Slab | ![acacia_slab](../images/storagedrawers_drawers_acacia_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -50,7 +50,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Acacia Slab | ![acacia_slab](../images/storagedrawers_acacia_slab.png) |
+| / | Acacia Slab | ![acacia_slab](../images/storagedrawers_drawers_acacia_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -59,7 +59,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Acacia Slab | ![acacia_slab](../images/storagedrawers_acacia_slab.png) |
+| / | Acacia Slab | ![acacia_slab](../images/storagedrawers_drawers_acacia_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -69,7 +69,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Acacia Planks | ![acacia_planks](../images/storagedrawers_acacia_planks.png) |
+| X | Acacia Planks | ![acacia_planks](../images/storagedrawers_drawers_acacia_front_1.png) |
 
 ---
 ## {}
@@ -91,7 +91,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Birch Planks | ![birch_planks](../images/storagedrawers_birch_planks.png) |
+| / | Birch Planks | ![birch_planks](../images/storagedrawers_drawers_birch_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -100,7 +100,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Birch Planks | ![birch_planks](../images/storagedrawers_birch_planks.png) |
+| / | Birch Planks | ![birch_planks](../images/storagedrawers_drawers_birch_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -109,7 +109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Birch Planks | ![birch_planks](../images/storagedrawers_birch_planks.png) |
+| / | Birch Planks | ![birch_planks](../images/storagedrawers_drawers_birch_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -118,7 +118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Birch Slab | ![birch_slab](../images/storagedrawers_birch_slab.png) |
+| / | Birch Slab | ![birch_slab](../images/storagedrawers_drawers_birch_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -127,7 +127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Birch Slab | ![birch_slab](../images/storagedrawers_birch_slab.png) |
+| / | Birch Slab | ![birch_slab](../images/storagedrawers_drawers_birch_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -136,7 +136,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Birch Slab | ![birch_slab](../images/storagedrawers_birch_slab.png) |
+| / | Birch Slab | ![birch_slab](../images/storagedrawers_drawers_birch_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -146,7 +146,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Birch Planks | ![birch_planks](../images/storagedrawers_birch_planks.png) |
+| X | Birch Planks | ![birch_planks](../images/storagedrawers_drawers_birch_front_1.png) |
 
 ---
 ## {}
@@ -161,9 +161,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/storagedrawers_stone.png) |
-| T | Piston | ![piston](../images/storagedrawers_piston.png) |
-| X | Drawers | ![drawers](../images/storagedrawers_drawers.png) |
+| # | Stone | ![stone](../images/storagedrawers_base_default.png) |
+| T | Piston | ![piston](../images/storagedrawers_base_default.png) |
+| X | Drawers | ![drawers](../images/storagedrawers_drawers_acacia_front_1.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/storagedrawers_ingots/iron.png) |
 
 ---
@@ -173,7 +173,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Drawer Key | ![drawer_key](../images/storagedrawers_drawer_key.png) |
-| - | Ender Eye | ![ender_eye](../images/storagedrawers_ender_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/storagedrawers_base_default.png) |
 
 ---
 ## Controller
@@ -181,9 +181,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/storagedrawers_stone.png) |
-| C | Comparator | ![comparator](../images/storagedrawers_comparator.png) |
-| X | Drawers | ![drawers](../images/storagedrawers_drawers.png) |
+| # | Stone | ![stone](../images/storagedrawers_base_default.png) |
+| C | Comparator | ![comparator](../images/storagedrawers_base_default.png) |
+| X | Drawers | ![drawers](../images/storagedrawers_drawers_acacia_front_1.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/storagedrawers_gems/diamond.png) |
 
 ---
@@ -192,9 +192,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/storagedrawers_stone.png) |
-| C | Comparator | ![comparator](../images/storagedrawers_comparator.png) |
-| X | Drawers | ![drawers](../images/storagedrawers_drawers.png) |
+| # | Stone | ![stone](../images/storagedrawers_base_default.png) |
+| C | Comparator | ![comparator](../images/storagedrawers_base_default.png) |
+| X | Drawers | ![drawers](../images/storagedrawers_drawers_acacia_front_1.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/storagedrawers_ingots/gold.png) |
 
 ---
@@ -220,7 +220,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Crimson Planks | ![crimson_planks](../images/storagedrawers_crimson_planks.png) |
+| / | Crimson Planks | ![crimson_planks](../images/storagedrawers_drawers_crimson_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -229,7 +229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Crimson Planks | ![crimson_planks](../images/storagedrawers_crimson_planks.png) |
+| / | Crimson Planks | ![crimson_planks](../images/storagedrawers_drawers_crimson_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -238,7 +238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Crimson Planks | ![crimson_planks](../images/storagedrawers_crimson_planks.png) |
+| / | Crimson Planks | ![crimson_planks](../images/storagedrawers_drawers_crimson_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -247,7 +247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Crimson Slab | ![crimson_slab](../images/storagedrawers_crimson_slab.png) |
+| / | Crimson Slab | ![crimson_slab](../images/storagedrawers_drawers_crimson_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -256,7 +256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Crimson Slab | ![crimson_slab](../images/storagedrawers_crimson_slab.png) |
+| / | Crimson Slab | ![crimson_slab](../images/storagedrawers_drawers_crimson_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -265,7 +265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Crimson Slab | ![crimson_slab](../images/storagedrawers_crimson_slab.png) |
+| / | Crimson Slab | ![crimson_slab](../images/storagedrawers_drawers_crimson_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -275,7 +275,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Crimson Planks | ![crimson_planks](../images/storagedrawers_crimson_planks.png) |
+| X | Crimson Planks | ![crimson_planks](../images/storagedrawers_drawers_crimson_front_1.png) |
 
 ---
 ## {}
@@ -290,7 +290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_dark_oak_planks.png) |
+| / | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -299,7 +299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_dark_oak_planks.png) |
+| / | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -308,7 +308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_dark_oak_planks.png) |
+| / | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -317,7 +317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Dark Oak Slab | ![dark_oak_slab](../images/storagedrawers_dark_oak_slab.png) |
+| / | Dark Oak Slab | ![dark_oak_slab](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -326,7 +326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Dark Oak Slab | ![dark_oak_slab](../images/storagedrawers_dark_oak_slab.png) |
+| / | Dark Oak Slab | ![dark_oak_slab](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -335,7 +335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Dark Oak Slab | ![dark_oak_slab](../images/storagedrawers_dark_oak_slab.png) |
+| / | Dark Oak Slab | ![dark_oak_slab](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -345,7 +345,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_dark_oak_planks.png) |
+| X | Dark Oak Planks | ![dark_oak_planks](../images/storagedrawers_drawers_dark_oak_front_1.png) |
 
 ---
 ## Diamond Storage Upgrade
@@ -384,7 +384,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Upgrade Template | ![upgrade_template](../images/storagedrawers_upgrade_template.png) |
-| - | Repeater | ![repeater](../images/storagedrawers_repeater.png) |
+| - | Repeater | ![repeater](../images/storagedrawers_base_default.png) |
 
 ---
 ## Gold Storage Upgrade
@@ -429,7 +429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Jungle Planks | ![jungle_planks](../images/storagedrawers_jungle_planks.png) |
+| / | Jungle Planks | ![jungle_planks](../images/storagedrawers_drawers_jungle_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -438,7 +438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Jungle Planks | ![jungle_planks](../images/storagedrawers_jungle_planks.png) |
+| / | Jungle Planks | ![jungle_planks](../images/storagedrawers_drawers_jungle_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -447,7 +447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Jungle Planks | ![jungle_planks](../images/storagedrawers_jungle_planks.png) |
+| / | Jungle Planks | ![jungle_planks](../images/storagedrawers_drawers_jungle_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -456,7 +456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Jungle Slab | ![jungle_slab](../images/storagedrawers_jungle_slab.png) |
+| / | Jungle Slab | ![jungle_slab](../images/storagedrawers_drawers_jungle_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -465,7 +465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Jungle Slab | ![jungle_slab](../images/storagedrawers_jungle_slab.png) |
+| / | Jungle Slab | ![jungle_slab](../images/storagedrawers_drawers_jungle_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -474,7 +474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Jungle Slab | ![jungle_slab](../images/storagedrawers_jungle_slab.png) |
+| / | Jungle Slab | ![jungle_slab](../images/storagedrawers_drawers_jungle_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -484,7 +484,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Jungle Planks | ![jungle_planks](../images/storagedrawers_jungle_planks.png) |
+| X | Jungle Planks | ![jungle_planks](../images/storagedrawers_drawers_jungle_front_1.png) |
 
 ---
 ## Keybutton Concealment
@@ -492,8 +492,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shroud Key | ![shroud_key](../images/storagedrawers_shroud_key.png) |
-| - | Stone Button | ![stone_button](../images/storagedrawers_stone_button.png) |
+| - | Shroud Key | ![shroud_key](../images/storagedrawers_button_face_shroud_key.png) |
+| - | Stone Button | ![stone_button](../images/storagedrawers_button_drawer_key.png) |
 
 ---
 ## Keybutton Drawer
@@ -502,7 +502,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Drawer Key | ![drawer_key](../images/storagedrawers_drawer_key.png) |
-| - | Stone Button | ![stone_button](../images/storagedrawers_stone_button.png) |
+| - | Stone Button | ![stone_button](../images/storagedrawers_button_drawer_key.png) |
 
 ---
 ## Keybutton Quantify
@@ -510,8 +510,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quantify Key | ![quantify_key](../images/storagedrawers_quantify_key.png) |
-| - | Stone Button | ![stone_button](../images/storagedrawers_stone_button.png) |
+| - | Quantify Key | ![quantify_key](../images/storagedrawers_button_face_quantify_key.png) |
+| - | Stone Button | ![stone_button](../images/storagedrawers_button_drawer_key.png) |
 
 ---
 ## {}
@@ -533,7 +533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_mangrove_planks.png) |
+| / | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_drawers_mangrove_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -542,7 +542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_mangrove_planks.png) |
+| / | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_drawers_mangrove_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -551,7 +551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_mangrove_planks.png) |
+| / | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_drawers_mangrove_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -560,7 +560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Mangrove Slab | ![mangrove_slab](../images/storagedrawers_mangrove_slab.png) |
+| / | Mangrove Slab | ![mangrove_slab](../images/storagedrawers_drawers_mangrove_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -569,7 +569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Mangrove Slab | ![mangrove_slab](../images/storagedrawers_mangrove_slab.png) |
+| / | Mangrove Slab | ![mangrove_slab](../images/storagedrawers_drawers_mangrove_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -578,7 +578,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Mangrove Slab | ![mangrove_slab](../images/storagedrawers_mangrove_slab.png) |
+| / | Mangrove Slab | ![mangrove_slab](../images/storagedrawers_drawers_mangrove_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -588,7 +588,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_mangrove_planks.png) |
+| X | Mangrove Planks | ![mangrove_planks](../images/storagedrawers_drawers_mangrove_front_1.png) |
 
 ---
 ## Max Redstone Upgrade
@@ -623,7 +623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Oak Planks | ![oak_planks](../images/storagedrawers_oak_planks.png) |
+| / | Oak Planks | ![oak_planks](../images/storagedrawers_base_oak.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -632,7 +632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Oak Planks | ![oak_planks](../images/storagedrawers_oak_planks.png) |
+| / | Oak Planks | ![oak_planks](../images/storagedrawers_base_oak.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -641,7 +641,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Oak Planks | ![oak_planks](../images/storagedrawers_oak_planks.png) |
+| / | Oak Planks | ![oak_planks](../images/storagedrawers_base_oak.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -650,7 +650,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Oak Slab | ![oak_slab](../images/storagedrawers_oak_slab.png) |
+| / | Oak Slab | ![oak_slab](../images/storagedrawers_base_oak.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -659,7 +659,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Oak Slab | ![oak_slab](../images/storagedrawers_oak_slab.png) |
+| / | Oak Slab | ![oak_slab](../images/storagedrawers_base_oak.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -668,7 +668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Oak Slab | ![oak_slab](../images/storagedrawers_oak_slab.png) |
+| / | Oak Slab | ![oak_slab](../images/storagedrawers_base_oak.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -678,7 +678,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Oak Planks | ![oak_planks](../images/storagedrawers_oak_planks.png) |
+| X | Oak Planks | ![oak_planks](../images/storagedrawers_base_oak.png) |
 
 ---
 ## Obsidian Storage Upgrade
@@ -687,7 +687,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| # | Obsidian | ![obsidian](../images/storagedrawers_obsidian.png) |
+| # | Obsidian | ![obsidian](../images/storagedrawers_overlay_obsidian.png) |
 | X | Upgrade Template | ![upgrade_template](../images/storagedrawers_upgrade_template.png) |
 
 ---
@@ -697,7 +697,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| # | Flint | ![flint](../images/storagedrawers_flint.png) |
+| # | Flint | ![flint](../images/storagedrawers_upgrade_flint.png) |
 | X | Upgrade Template | ![upgrade_template](../images/storagedrawers_upgrade_template.png) |
 
 ---
@@ -707,7 +707,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Drawer Key | ![drawer_key](../images/storagedrawers_drawer_key.png) |
-| - | Writable Book | ![writable_book](../images/storagedrawers_writable_book.png) |
+| - | Writable Book | ![writable_book](../images/storagedrawers_base_default.png) |
 
 ---
 ## Redstone Upgrade
@@ -732,7 +732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Spruce Planks | ![spruce_planks](../images/storagedrawers_spruce_planks.png) |
+| / | Spruce Planks | ![spruce_planks](../images/storagedrawers_drawers_spruce_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -741,7 +741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Spruce Planks | ![spruce_planks](../images/storagedrawers_spruce_planks.png) |
+| / | Spruce Planks | ![spruce_planks](../images/storagedrawers_drawers_spruce_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -750,7 +750,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Spruce Planks | ![spruce_planks](../images/storagedrawers_spruce_planks.png) |
+| / | Spruce Planks | ![spruce_planks](../images/storagedrawers_drawers_spruce_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -759,7 +759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Spruce Slab | ![spruce_slab](../images/storagedrawers_spruce_slab.png) |
+| / | Spruce Slab | ![spruce_slab](../images/storagedrawers_drawers_spruce_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -768,7 +768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Spruce Slab | ![spruce_slab](../images/storagedrawers_spruce_slab.png) |
+| / | Spruce Slab | ![spruce_slab](../images/storagedrawers_drawers_spruce_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -777,7 +777,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Spruce Slab | ![spruce_slab](../images/storagedrawers_spruce_slab.png) |
+| / | Spruce Slab | ![spruce_slab](../images/storagedrawers_drawers_spruce_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -787,7 +787,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Spruce Planks | ![spruce_planks](../images/storagedrawers_spruce_planks.png) |
+| X | Spruce Planks | ![spruce_planks](../images/storagedrawers_drawers_spruce_front_1.png) |
 
 ---
 ## Upgrade Template
@@ -796,7 +796,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Drawers | ![drawers](../images/storagedrawers_drawers.png) |
+| X | Drawers | ![drawers](../images/storagedrawers_drawers_acacia_front_1.png) |
 
 ---
 ## Void Upgrade
@@ -804,7 +804,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Obsidian | ![obsidian](../images/storagedrawers_obsidian.png) |
+| # | Obsidian | ![obsidian](../images/storagedrawers_overlay_obsidian.png) |
 | X | Upgrade Template | ![upgrade_template](../images/storagedrawers_upgrade_template.png) |
 
 ---
@@ -820,7 +820,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Warped Planks | ![warped_planks](../images/storagedrawers_warped_planks.png) |
+| / | Warped Planks | ![warped_planks](../images/storagedrawers_drawers_warped_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -829,7 +829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Warped Planks | ![warped_planks](../images/storagedrawers_warped_planks.png) |
+| / | Warped Planks | ![warped_planks](../images/storagedrawers_drawers_warped_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -838,7 +838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Warped Planks | ![warped_planks](../images/storagedrawers_warped_planks.png) |
+| / | Warped Planks | ![warped_planks](../images/storagedrawers_drawers_warped_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -847,7 +847,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Warped Slab | ![warped_slab](../images/storagedrawers_warped_slab.png) |
+| / | Warped Slab | ![warped_slab](../images/storagedrawers_drawers_warped_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -856,7 +856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Warped Slab | ![warped_slab](../images/storagedrawers_warped_slab.png) |
+| / | Warped Slab | ![warped_slab](../images/storagedrawers_drawers_warped_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -865,7 +865,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Warped Slab | ![warped_slab](../images/storagedrawers_warped_slab.png) |
+| / | Warped Slab | ![warped_slab](../images/storagedrawers_drawers_warped_front_1.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/storagedrawers_chests/wooden.png) |
 
 ---
@@ -875,6 +875,6 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | / | Rods/Wooden | ![rods/wooden](../images/storagedrawers_rods/wooden.png) |
-| X | Warped Planks | ![warped_planks](../images/storagedrawers_warped_planks.png) |
+| X | Warped Planks | ![warped_planks](../images/storagedrawers_drawers_warped_front_1.png) |
 
 ---

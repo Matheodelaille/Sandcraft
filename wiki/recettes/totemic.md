@@ -23,7 +23,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/totemic_stick.png) |
+| # | Stick | ![stick](../images/totemic_baykok_bow.png) |
 | W | Cedar Planks | ![cedar_planks](../images/totemic_cedar_planks.png) |
 
 ---
@@ -32,7 +32,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/totemic_stick.png) |
+| # | Stick | ![stick](../images/totemic_baykok_bow.png) |
 | W | Cedar Planks | ![cedar_planks](../images/totemic_cedar_planks.png) |
 
 ---
@@ -41,7 +41,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cedar Logs | ![cedar_logs](../images/totemic_cedar_logs.png) |
+| - | Cedar Logs | ![cedar_logs](../images/totemic_cedar_door.png) |
 
 ---
 ## Cedar Pressure Plate
@@ -58,7 +58,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Cedar Planks | ![cedar_planks](../images/totemic_cedar_planks.png) |
-| X | Stick | ![stick](../images/totemic_stick.png) |
+| X | Stick | ![stick](../images/totemic_baykok_bow.png) |
 
 ---
 ## Cedar Slab
@@ -98,9 +98,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Leather | ![leather](../images/totemic_leather.png) |
-| L | Logs That Burn | ![logs_that_burn](../images/totemic_logs_that_burn.png) |
-| W | Wool | ![wool](../images/totemic_wool.png) |
+| E | Leather | ![leather](../images/totemic_baykok_bow.png) |
+| L | Logs That Burn | ![logs_that_burn](../images/totemic_baykok_bow.png) |
+| W | Wool | ![wool](../images/totemic_baykok_bow.png) |
 
 ---
 ## Eagle Bone Whistle
@@ -110,7 +110,7 @@
 | :--- | :--- | :--- |
 | B | Eagle Bone | ![eagle_bone](../images/totemic_eagle_bone.png) |
 | F | Eagle Feather | ![eagle_feather](../images/totemic_eagle_feather.png) |
-| S | String | ![string](../images/totemic_string.png) |
+| S | String | ![string](../images/totemic_baykok_bow.png) |
 
 ---
 ## Flute
@@ -118,7 +118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leaves | ![leaves](../images/totemic_leaves.png) |
+| L | Leaves | ![leaves](../images/totemic_cedar_leaves.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/totemic_rods/wooden.png) |
 
 ---
@@ -136,7 +136,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Iron Bells | ![iron_bells](../images/totemic_iron_bells.png) |
-| H | Leather | ![leather](../images/totemic_leather.png) |
+| H | Leather | ![leather](../images/totemic_baykok_bow.png) |
 | L | Cedar Leaves | ![cedar_leaves](../images/totemic_cedar_leaves.png) |
 
 ---
@@ -156,7 +156,7 @@
 | D | Gems/Diamond | ![gems/diamond](../images/totemic_gems/diamond.png) |
 | H | Buffalo Hide | ![buffalo_hide](../images/totemic_buffalo_hide.png) |
 | P | Cedar Planks | ![cedar_planks](../images/totemic_cedar_planks.png) |
-| S | String | ![string](../images/totemic_string.png) |
+| S | String | ![string](../images/totemic_baykok_bow.png) |
 | T | Buffalo Tooth | ![buffalo_tooth](../images/totemic_buffalo_tooth.png) |
 
 ---
@@ -167,7 +167,7 @@
 | :--- | :--- | :--- |
 | B | Buffalo Tooth | ![buffalo_tooth](../images/totemic_buffalo_tooth.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/totemic_rods/wooden.png) |
-| W | Logs That Burn | ![logs_that_burn](../images/totemic_logs_that_burn.png) |
+| W | Logs That Burn | ![logs_that_burn](../images/totemic_baykok_bow.png) |
 
 ---
 ## Stripped Cedar Wood
@@ -193,7 +193,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/totemic_rods/wooden.png) |
-| W | Wool | ![wool](../images/totemic_wool.png) |
+| W | Wool | ![wool](../images/totemic_baykok_bow.png) |
 
 ---
 ## Totemic Staff
@@ -201,7 +201,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leaves | ![leaves](../images/totemic_leaves.png) |
+| L | Leaves | ![leaves](../images/totemic_cedar_leaves.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/totemic_rods/wooden.png) |
 
 ---
@@ -218,8 +218,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/totemic_rods/wooden.png) |
-| T | Torch | ![torch](../images/totemic_torch.png) |
-| W | Logs That Burn | ![logs_that_burn](../images/totemic_logs_that_burn.png) |
+| T | Torch | ![torch](../images/totemic_totem_torch.png) |
+| W | Logs That Burn | ![logs_that_burn](../images/totemic_baykok_bow.png) |
 
 ---
 ## Totem Whittling Knife
@@ -227,7 +227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/totemic_flint.png) |
+| F | Flint | ![flint](../images/totemic_baykok_bow.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/totemic_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/totemic_rods/wooden.png) |
 
@@ -238,7 +238,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Ingots/Copper | ![ingots/copper](../images/totemic_ingots/copper.png) |
-| S | String | ![string](../images/totemic_string.png) |
-| W | Cedar Logs | ![cedar_logs](../images/totemic_cedar_logs.png) |
+| S | String | ![string](../images/totemic_baykok_bow.png) |
+| W | Cedar Logs | ![cedar_logs](../images/totemic_cedar_door.png) |
 
 ---

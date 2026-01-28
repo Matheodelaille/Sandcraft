@@ -15,8 +15,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo | ![bamboo](../images/naturalist_bamboo.png) |
-| S | String | ![string](../images/naturalist_string.png) |
+| # | Bamboo | ![bamboo](../images/naturalist_alligator_egg.png) |
+| S | String | ![string](../images/naturalist_alligator_egg.png) |
 
 ---
 ## Cake
@@ -24,9 +24,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk Bucket | ![milk_bucket](../images/naturalist_milk_bucket.png) |
-| B | Sugar | ![sugar](../images/naturalist_sugar.png) |
-| C | Wheat | ![wheat](../images/naturalist_wheat.png) |
+| A | Milk Bucket | ![milk_bucket](../images/naturalist_lower_bucket.png) |
+| B | Sugar | ![sugar](../images/naturalist_alligator_egg.png) |
+| C | Wheat | ![wheat](../images/naturalist_alligator_egg.png) |
 | E | Duck Egg | ![duck_egg](../images/naturalist_duck_egg.png) |
 
 ---
@@ -131,7 +131,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs | ![eggs](../images/naturalist_eggs.png) |
+| tag | Eggs | ![eggs](../images/naturalist_snail_eggs.png) |
 
 ---
 ## Cooked Egg
@@ -139,7 +139,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs | ![eggs](../images/naturalist_eggs.png) |
+| tag | Eggs | ![eggs](../images/naturalist_snail_eggs.png) |
 
 ---
 ## Cooked Egg
@@ -147,7 +147,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs | ![eggs](../images/naturalist_eggs.png) |
+| tag | Eggs | ![eggs](../images/naturalist_snail_eggs.png) |
 
 ---
 ## Cooked Lizard Tail
@@ -239,7 +239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shellstone Slab | ![shellstone_slab](../images/naturalist_shellstone_slab.png) |
+| # | Shellstone Slab | ![shellstone_slab](../images/naturalist_cut_shellstone.png) |
 
 ---
 ## Cut Shellstone Slab
@@ -295,7 +295,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glow Berries | ![glow_berries](../images/naturalist_glow_berries.png) |
+| item | Glow Berries | ![glow_berries](../images/naturalist_glow_goop.png) |
 
 ---
 ## Glow Goop
@@ -303,7 +303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glow Berries | ![glow_berries](../images/naturalist_glow_berries.png) |
+| item | Glow Berries | ![glow_berries](../images/naturalist_glow_goop.png) |
 
 ---
 ## Glow Goop
@@ -311,7 +311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glow Berries | ![glow_berries](../images/naturalist_glow_berries.png) |
+| item | Glow Berries | ![glow_berries](../images/naturalist_glow_goop.png) |
 
 ---
 ## {}
@@ -382,8 +382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin | ![pumpkin](../images/naturalist_pumpkin.png) |
-| - | Sugar | ![sugar](../images/naturalist_sugar.png) |
+| - | Pumpkin | ![pumpkin](../images/naturalist_alligator_egg.png) |
+| - | Sugar | ![sugar](../images/naturalist_alligator_egg.png) |
 | - | Duck Egg | ![duck_egg](../images/naturalist_duck_egg.png) |
 
 ---
@@ -392,7 +392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Calcite | ![calcite](../images/naturalist_calcite.png) |
+| C | Calcite | ![calcite](../images/naturalist_alligator_egg.png) |
 | S | Snail Shell | ![snail_shell](../images/naturalist_snail_shell.png) |
 
 ---
@@ -590,7 +590,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Glow Goop | ![glow_goop](../images/naturalist_glow_goop.png) |
-| A | Arrow | ![arrow](../images/naturalist_arrow.png) |
+| A | Arrow | ![arrow](../images/naturalist_alligator_egg.png) |
 
 ---
 ## String
@@ -607,7 +607,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Bear Fur | ![bear_fur](../images/naturalist_bear_fur.png) |
-| W | Wool | ![wool](../images/naturalist_wool.png) |
+| W | Wool | ![wool](../images/naturalist_alligator_egg.png) |
 
 ---
 ## Verdant Froglass Pane

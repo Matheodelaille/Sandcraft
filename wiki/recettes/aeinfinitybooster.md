@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Eye | ![ender_eye](../images/aeinfinitybooster_ender_eye.png) |
-| N | Nether Star | ![nether_star](../images/aeinfinitybooster_nether_star.png) |
+| E | Ender Eye | ![ender_eye](../images/aeinfinitybooster_dimension_card.png) |
+| N | Nether Star | ![nether_star](../images/aeinfinitybooster_dimension_card.png) |
 | R | Infinity Card | ![infinity_card](../images/aeinfinitybooster_infinity_card.png) |
 
 ---
@@ -17,9 +17,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Eye | ![ender_eye](../images/aeinfinitybooster_ender_eye.png) |
-| N | Netherite Ingot | ![netherite_ingot](../images/aeinfinitybooster_netherite_ingot.png) |
-| R | Wireless Booster | ![wireless_booster](../images/aeinfinitybooster_wireless_booster.png) |
-| S | Nether Star | ![nether_star](../images/aeinfinitybooster_nether_star.png) |
+| E | Ender Eye | ![ender_eye](../images/aeinfinitybooster_dimension_card.png) |
+| N | Netherite Ingot | ![netherite_ingot](../images/aeinfinitybooster_dimension_card.png) |
+| R | Wireless Booster | ![wireless_booster](../images/aeinfinitybooster_dimension_card.png) |
+| S | Nether Star | ![nether_star](../images/aeinfinitybooster_dimension_card.png) |
 
 ---

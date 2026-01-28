@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
+| c | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Chorus Fruit
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Crate | ![chorus_crate](../images/endersdelight_chorus_crate.png) |
+| - | Chorus Crate | ![chorus_crate](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Chorus Juice
@@ -23,9 +23,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
-| - | Sugar | ![sugar](../images/endersdelight_sugar.png) |
-| - | Glass Bottle | ![glass_bottle](../images/endersdelight_glass_bottle.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Sugar | ![sugar](../images/endersdelight_chorus_crate_side.png) |
+| - | Glass Bottle | ![glass_bottle](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Chorus Pie
@@ -33,10 +33,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wheat | ![wheat](../images/endersdelight_wheat.png) |
-| a | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
-| x | Sugar | ![sugar](../images/endersdelight_sugar.png) |
-| O | Pie Crust | ![pie_crust](../images/endersdelight_pie_crust.png) |
+| # | Wheat | ![wheat](../images/endersdelight_chorus_crate_side.png) |
+| a | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| x | Sugar | ![sugar](../images/endersdelight_chorus_crate_side.png) |
+| O | Pie Crust | ![pie_crust](../images/endersdelight_chorus_pie.png) |
 
 ---
 ##  4}]
@@ -52,8 +52,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
-| - | Chorus Flower | ![chorus_flower](../images/endersdelight_chorus_flower.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Chorus Flower | ![chorus_flower](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Crawling Sandwich
@@ -61,10 +61,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shulker Loot | ![shulker_loot](../images/endersdelight_shulker_loot.png) |
+| - | Shulker Loot | ![shulker_loot](../images/endersdelight_shulker_bowl.png) |
 | - | Mite Crust | ![mite_crust](../images/endersdelight_mite_crust.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
-| - | Bread | ![bread](../images/endersdelight_bread.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Bread | ![bread](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Crispy Skewer
@@ -73,9 +73,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Mite Crust | ![mite_crust](../images/endersdelight_mite_crust.png) |
-| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/endersdelight_popped_chorus_fruit.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
-| - | Stick | ![stick](../images/endersdelight_stick.png) |
+| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Stick | ![stick](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Endermite Stew
@@ -83,7 +83,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_loot.png) |
+| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_sight.png) |
 | - | Mite Crust | ![mite_crust](../images/endersdelight_mite_crust.png) |
 
 ---
@@ -93,9 +93,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Enderman Sight | ![enderman_sight](../images/endersdelight_enderman_sight.png) |
-| - | Shulker Loot | ![shulker_loot](../images/endersdelight_shulker_loot.png) |
-| - | Chorus Flower | ![chorus_flower](../images/endersdelight_chorus_flower.png) |
-| - | Rice | ![rice](../images/endersdelight_rice.png) |
+| - | Shulker Loot | ![shulker_loot](../images/endersdelight_shulker_bowl.png) |
+| - | Chorus Flower | ![chorus_flower](../images/endersdelight_chorus_crate_side.png) |
+| - | Rice | ![rice](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ##  2}]
@@ -103,7 +103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/endersdelight_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/endersdelight_ender_paella.png) |
 
 ---
 ## Endstone Stove
@@ -111,10 +111,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Obsidian | ![obsidian](../images/endersdelight_obsidian.png) |
-| e | End Stone Bricks | ![end_stone_bricks](../images/endersdelight_end_stone_bricks.png) |
-| s | Campfire | ![campfire](../images/endersdelight_campfire.png) |
-| d | Dragon Breath | ![dragon_breath](../images/endersdelight_dragon_breath.png) |
+| o | Obsidian | ![obsidian](../images/endersdelight_chorus_crate_side.png) |
+| e | End Stone Bricks | ![end_stone_bricks](../images/endersdelight_chorus_crate_side.png) |
+| s | Campfire | ![campfire](../images/endersdelight_chorus_crate_side.png) |
+| d | Dragon Breath | ![dragon_breath](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Pearl Pasta
@@ -122,8 +122,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_loot.png) |
-| - | Pasta | ![pasta](../images/endersdelight_pasta.png) |
+| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_sight.png) |
+| - | Pasta | ![pasta](../images/endersdelight_pearl_pasta.png) |
 | - | Chorus Juice | ![chorus_juice](../images/endersdelight_chorus_juice.png) |
 
 ---
@@ -132,7 +132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shulker Shell | ![shulker_shell](../images/endersdelight_shulker_shell.png) |
+| - | Shulker Shell | ![shulker_shell](../images/endersdelight_shulker_bowl.png) |
 
 ---
 ##  2}]
@@ -156,10 +156,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Eye | ![ender_eye](../images/endersdelight_ender_eye.png) |
-| - | Wheat | ![wheat](../images/endersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/endersdelight_wheat.png) |
-| - | Sugar | ![sugar](../images/endersdelight_sugar.png) |
+| - | Ender Eye | ![ender_eye](../images/endersdelight_ender_paella.png) |
+| - | Wheat | ![wheat](../images/endersdelight_chorus_crate_side.png) |
+| - | Wheat | ![wheat](../images/endersdelight_chorus_crate_side.png) |
+| - | Sugar | ![sugar](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Stuffed Shulker
@@ -168,10 +168,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Shulker Mollusk | ![shulker_mollusk](../images/endersdelight_shulker_mollusk.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_fruit.png) |
-| - | Rice | ![rice](../images/endersdelight_rice.png) |
-| - | Tomato | ![tomato](../images/endersdelight_tomato.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/endersdelight_brown_mushroom.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Rice | ![rice](../images/endersdelight_chorus_crate_side.png) |
+| - | Tomato | ![tomato](../images/endersdelight_chorus_crate_side.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/endersdelight_chorus_crate_side.png) |
 
 ---
 ## Twisted Cereal
@@ -180,9 +180,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Enderman Sight | ![enderman_sight](../images/endersdelight_enderman_sight.png) |
-| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_loot.png) |
-| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/endersdelight_popped_chorus_fruit.png) |
-| - | Milk Bottle | ![milk_bottle](../images/endersdelight_milk_bottle.png) |
+| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_sight.png) |
+| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Milk Bottle | ![milk_bottle](../images/endersdelight_chorus_crate_side.png) |
 | - | Shulker Bowl | ![shulker_bowl](../images/endersdelight_shulker_bowl.png) |
 
 ---
@@ -192,10 +192,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Enderman Sight | ![enderman_sight](../images/endersdelight_enderman_sight.png) |
-| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_loot.png) |
-| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/endersdelight_popped_chorus_fruit.png) |
-| - | Milk Bottle | ![milk_bottle](../images/endersdelight_milk_bottle.png) |
-| - | Bowl | ![bowl](../images/endersdelight_bowl.png) |
+| - | Enderman Loot | ![enderman_loot](../images/endersdelight_enderman_sight.png) |
+| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/endersdelight_chorus_crate_side.png) |
+| - | Milk Bottle | ![milk_bottle](../images/endersdelight_chorus_crate_side.png) |
+| - | Bowl | ![bowl](../images/endersdelight_shulker_bowl.png) |
 
 ---
 ## Uncanny Cookies
@@ -204,7 +204,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Mite Crust | ![mite_crust](../images/endersdelight_mite_crust.png) |
-| - | Wheat | ![wheat](../images/endersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/endersdelight_wheat.png) |
+| - | Wheat | ![wheat](../images/endersdelight_chorus_crate_side.png) |
+| - | Wheat | ![wheat](../images/endersdelight_chorus_crate_side.png) |
 
 ---

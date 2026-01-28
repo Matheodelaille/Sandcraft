@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Dye | ![pink_dye](../images/plushies_pink_dye.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| P | Pink Wool | ![pink_wool](../images/plushies_pink_wool.png) |
+| # | Pink Dye | ![pink_dye](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| P | Pink Wool | ![pink_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Bee
@@ -17,9 +17,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Honeycomb | ![honeycomb](../images/plushies_honeycomb.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| Y | Yellow Wool | ![yellow_wool](../images/plushies_yellow_wool.png) |
+| # | Honeycomb | ![honeycomb](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| Y | Yellow Wool | ![yellow_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Cat
@@ -27,10 +27,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/plushies_yellow_wool.png) |
-| B | Brown Wool | ![brown_wool](../images/plushies_brown_wool.png) |
-| S | String | ![string](../images/plushies_string.png) |
-| L | Light Gray Wool | ![light_gray_wool](../images/plushies_light_gray_wool.png) |
+| # | Yellow Wool | ![yellow_wool](../images/plushies_axolotl.png) |
+| B | Brown Wool | ![brown_wool](../images/plushies_axolotl.png) |
+| S | String | ![string](../images/plushies_axolotl.png) |
+| L | Light Gray Wool | ![light_gray_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Cow
@@ -38,9 +38,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| B | Brown Wool | ![brown_wool](../images/plushies_brown_wool.png) |
-| L | Leather | ![leather](../images/plushies_leather.png) |
+| # | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| B | Brown Wool | ![brown_wool](../images/plushies_axolotl.png) |
+| L | Leather | ![leather](../images/plushies_axolotl.png) |
 
 ---
 ## Dolphin
@@ -48,9 +48,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/plushies_cyan_wool.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| S | Seagrass | ![seagrass](../images/plushies_seagrass.png) |
+| # | Cyan Wool | ![cyan_wool](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| S | Seagrass | ![seagrass](../images/plushies_axolotl.png) |
 
 ---
 ## Dragon
@@ -58,8 +58,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragon Head | ![dragon_head](../images/plushies_dragon_head.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
+| # | Dragon Head | ![dragon_head](../images/plushies_dragon.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Enderman
@@ -67,8 +67,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/plushies_magenta_wool.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
+| # | Magenta Wool | ![magenta_wool](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Frog
@@ -76,10 +76,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| O | Orange Wool | ![orange_wool](../images/plushies_orange_wool.png) |
-| L | Lily Pad | ![lily_pad](../images/plushies_lily_pad.png) |
-| S | Slime Ball | ![slime_ball](../images/plushies_slime_ball.png) |
+| # | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| O | Orange Wool | ![orange_wool](../images/plushies_axolotl.png) |
+| L | Lily Pad | ![lily_pad](../images/plushies_axolotl.png) |
+| S | Slime Ball | ![slime_ball](../images/plushies_slime.png) |
 
 ---
 ## Goat
@@ -87,9 +87,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Stick | ![stick](../images/plushies_stick.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| W | White Wool | ![white_wool](../images/plushies_white_wool.png) |
+| / | Stick | ![stick](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| W | White Wool | ![white_wool](../images/plushies_white_fox.png) |
 
 ---
 ## Llama
@@ -97,10 +97,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lead | ![lead](../images/plushies_lead.png) |
-| R | Red Carpet | ![red_carpet](../images/plushies_red_carpet.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| Y | Yellow Wool | ![yellow_wool](../images/plushies_yellow_wool.png) |
+| # | Lead | ![lead](../images/plushies_axolotl.png) |
+| R | Red Carpet | ![red_carpet](../images/plushies_red_fox.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| Y | Yellow Wool | ![yellow_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Magma Cube
@@ -108,8 +108,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magma Cream | ![magma_cream](../images/plushies_magma_cream.png) |
-| M | Magma Block | ![magma_block](../images/plushies_magma_block.png) |
+| # | Magma Cream | ![magma_cream](../images/plushies_magma_cube.png) |
+| M | Magma Block | ![magma_block](../images/plushies_magma_cube.png) |
 
 ---
 ## Mooshroom
@@ -117,10 +117,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| R | Red Wool | ![red_wool](../images/plushies_red_wool.png) |
-| L | Leather | ![leather](../images/plushies_leather.png) |
-| X | Red Mushroom | ![red_mushroom](../images/plushies_red_mushroom.png) |
+| # | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| R | Red Wool | ![red_wool](../images/plushies_red_fox.png) |
+| L | Leather | ![leather](../images/plushies_axolotl.png) |
+| X | Red Mushroom | ![red_mushroom](../images/plushies_red_fox.png) |
 
 ---
 ## Panda
@@ -128,9 +128,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo | ![bamboo](../images/plushies_bamboo.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| W | White Wool | ![white_wool](../images/plushies_white_wool.png) |
+| # | Bamboo | ![bamboo](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| W | White Wool | ![white_wool](../images/plushies_white_fox.png) |
 
 ---
 ## Parrot
@@ -138,9 +138,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| L | Light Gray Wool | ![light_gray_wool](../images/plushies_light_gray_wool.png) |
-| R | Red Wool | ![red_wool](../images/plushies_red_wool.png) |
+| # | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| L | Light Gray Wool | ![light_gray_wool](../images/plushies_axolotl.png) |
+| R | Red Wool | ![red_wool](../images/plushies_red_fox.png) |
 
 ---
 ## Red Fox
@@ -148,8 +148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/plushies_orange_wool.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
+| # | Orange Wool | ![orange_wool](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Sheep
@@ -157,9 +157,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/plushies_white_wool.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| P | Pink Wool | ![pink_wool](../images/plushies_pink_wool.png) |
+| # | White Wool | ![white_wool](../images/plushies_white_fox.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| P | Pink Wool | ![pink_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Slime
@@ -167,8 +167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Slime Ball | ![slime_ball](../images/plushies_slime_ball.png) |
-| G | Green Wool | ![green_wool](../images/plushies_green_wool.png) |
+| # | Slime Ball | ![slime_ball](../images/plushies_slime.png) |
+| G | Green Wool | ![green_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Snow Golem
@@ -176,9 +176,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Carved Pumpkin | ![carved_pumpkin](../images/plushies_carved_pumpkin.png) |
-| / | Stick | ![stick](../images/plushies_stick.png) |
-| W | White Wool | ![white_wool](../images/plushies_white_wool.png) |
+| # | Carved Pumpkin | ![carved_pumpkin](../images/plushies_snow_golem_pumpkin.png) |
+| / | Stick | ![stick](../images/plushies_axolotl.png) |
+| W | White Wool | ![white_wool](../images/plushies_white_fox.png) |
 
 ---
 ## Turtle
@@ -186,9 +186,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute | ![scute](../images/plushies_scute.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| G | Green Wool | ![green_wool](../images/plushies_green_wool.png) |
+| # | Scute | ![scute](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| G | Green Wool | ![green_wool](../images/plushies_axolotl.png) |
 
 ---
 ## Warden
@@ -196,10 +196,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/plushies_cyan_wool.png) |
-| E | Ender Eye | ![ender_eye](../images/plushies_ender_eye.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
-| D | Deepslate | ![deepslate](../images/plushies_deepslate.png) |
+| # | Cyan Wool | ![cyan_wool](../images/plushies_axolotl.png) |
+| E | Ender Eye | ![ender_eye](../images/plushies_axolotl.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
+| D | Deepslate | ![deepslate](../images/plushies_axolotl.png) |
 
 ---
 ## White Fox
@@ -207,7 +207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/plushies_white_wool.png) |
-| B | Black Wool | ![black_wool](../images/plushies_black_wool.png) |
+| # | White Wool | ![white_wool](../images/plushies_white_fox.png) |
+| B | Black Wool | ![black_wool](../images/plushies_axolotl.png) |
 
 ---

@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Trapped Chest | ![trapped_chest](../images/goodall_trapped_chest.png) |
-| @ | Scaffolding | ![scaffolding](../images/goodall_scaffolding.png) |
+| # | Trapped Chest | ![trapped_chest](../images/goodall_animal_crate_end.png) |
+| @ | Scaffolding | ![scaffolding](../images/goodall_animal_crate_end.png) |
 
 ---
 ## Ant Box
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Trapped Chest | ![trapped_chest](../images/goodall_trapped_chest.png) |
-| @ | Coarse Dirt | ![coarse_dirt](../images/goodall_coarse_dirt.png) |
+| # | Trapped Chest | ![trapped_chest](../images/goodall_animal_crate_end.png) |
+| @ | Coarse Dirt | ![coarse_dirt](../images/goodall_animal_crate_end.png) |
 
 ---
 ## Cooked Venison

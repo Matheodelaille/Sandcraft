@@ -16,7 +16,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amaranth Block | ![amaranth_block](../images/thermal_amaranth_block.png) |
+| - | Amaranth Block | ![amaranth_block](../images/thermal_amaranth_block_end.png) |
 
 ---
 ## Apatite
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barley Block | ![barley_block](../images/thermal_barley_block.png) |
+| - | Barley Block | ![barley_block](../images/thermal_barley_block_end.png) |
 
 ---
 ## Bell Pepper Block
@@ -66,7 +66,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bell Pepper Block | ![bell_pepper_block](../images/thermal_bell_pepper_block.png) |
+| - | Bell Pepper Block | ![bell_pepper_block](../images/thermal_bell_pepper_block_bottom.png) |
 
 ---
 ## Black Concrete'}]
@@ -74,8 +74,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Concrete Powder | ![black_concrete_powder](../images/thermal_black_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Black Concrete Powder | ![black_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Blue Concrete'}]
@@ -83,8 +83,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Concrete Powder | ![blue_concrete_powder](../images/thermal_blue_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Blue Concrete Powder | ![blue_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Brown Concrete'}]
@@ -92,8 +92,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Concrete Powder | ![brown_concrete_powder](../images/thermal_brown_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Brown Concrete Powder | ![brown_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -101,8 +101,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blaze Cake Base | ![blaze_cake_base](../images/thermal_blaze_cake_base.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Blaze Cake Base | ![blaze_cake_base](../images/thermal_carrot_cake.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -110,8 +110,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -119,8 +119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/thermal_sweet_berries.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Sweet Berries | ![sweet_berries](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Glowstone Dust'}]
@@ -128,8 +128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cinder Flour | ![cinder_flour](../images/thermal_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Cinder Flour | ![cinder_flour](../images/thermal_flour.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Gunpowder'}]
@@ -137,8 +137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cinder Flour | ![cinder_flour](../images/thermal_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Cinder Flour | ![cinder_flour](../images/thermal_flour.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Honeyed Apple'}]
@@ -146,8 +146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/thermal_apple.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Apple | ![apple](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Redstone'}]
@@ -155,8 +155,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cinder Flour | ![cinder_flour](../images/thermal_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Cinder Flour | ![cinder_flour](../images/thermal_flour.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Sweet Roll'}]
@@ -164,8 +164,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/thermal_bread.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Bread | ![bread](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Cyan Concrete'}]
@@ -173,8 +173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/thermal_cyan_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Aquamarine Concrete'}]
@@ -182,8 +182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aquamarine Concrete Powder | ![aquamarine_concrete_powder](../images/thermal_aquamarine_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Aquamarine Concrete Powder | ![aquamarine_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Bubblegum Concrete'}]
@@ -191,8 +191,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bubblegum Concrete Powder | ![bubblegum_concrete_powder](../images/thermal_bubblegum_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Bubblegum Concrete Powder | ![bubblegum_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Cherenkov Concrete'}]
@@ -200,8 +200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherenkov Concrete Powder | ![cherenkov_concrete_powder](../images/thermal_cherenkov_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Cherenkov Concrete Powder | ![cherenkov_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Fluorescent Concrete'}]
@@ -209,8 +209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluorescent Concrete Powder | ![fluorescent_concrete_powder](../images/thermal_fluorescent_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Fluorescent Concrete Powder | ![fluorescent_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Lavender Concrete'}]
@@ -218,8 +218,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lavender Concrete Powder | ![lavender_concrete_powder](../images/thermal_lavender_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Lavender Concrete Powder | ![lavender_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Maroon Concrete'}]
@@ -227,8 +227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maroon Concrete Powder | ![maroon_concrete_powder](../images/thermal_maroon_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Maroon Concrete Powder | ![maroon_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Mint Concrete'}]
@@ -236,8 +236,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mint Concrete Powder | ![mint_concrete_powder](../images/thermal_mint_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Mint Concrete Powder | ![mint_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Peach Concrete'}]
@@ -245,8 +245,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peach Concrete Powder | ![peach_concrete_powder](../images/thermal_peach_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Peach Concrete Powder | ![peach_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Persimmon Concrete'}]
@@ -254,8 +254,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Persimmon Concrete Powder | ![persimmon_concrete_powder](../images/thermal_persimmon_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Persimmon Concrete Powder | ![persimmon_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Experience Bottle'}]
@@ -263,8 +263,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -272,8 +272,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Gray Concrete'}]
@@ -281,8 +281,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Concrete Powder | ![gray_concrete_powder](../images/thermal_gray_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Gray Concrete Powder | ![gray_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Green Concrete'}]
@@ -290,8 +290,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Concrete Powder | ![green_concrete_powder](../images/thermal_green_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Green Concrete Powder | ![green_concrete_powder](../images/thermal_green_bean.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Honey Bottle'}]
@@ -299,8 +299,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Light Blue Concrete'}]
@@ -308,8 +308,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/thermal_light_blue_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Light Gray Concrete'}]
@@ -317,8 +317,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/thermal_light_gray_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Lime Concrete'}]
@@ -326,8 +326,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Concrete Powder | ![lime_concrete_powder](../images/thermal_lime_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Lime Concrete Powder | ![lime_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Magenta Concrete'}]
@@ -335,8 +335,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/thermal_magenta_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Mossy Cobblestone'}]
@@ -344,8 +344,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/thermal_cobblestone.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Cobblestone | ![cobblestone](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Mossy Stone Bricks'}]
@@ -353,8 +353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/thermal_stone_bricks.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Stone Bricks | ![stone_bricks](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Mud'}]
@@ -362,8 +362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/thermal_dirt.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Dirt | ![dirt](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Orange Concrete'}]
@@ -371,8 +371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Concrete Powder | ![orange_concrete_powder](../images/thermal_orange_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Orange Concrete Powder | ![orange_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Pink Concrete'}]
@@ -380,8 +380,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Concrete Powder | ![pink_concrete_powder](../images/thermal_pink_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Pink Concrete Powder | ![pink_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Purple Concrete'}]
@@ -389,8 +389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Concrete Powder | ![purple_concrete_powder](../images/thermal_purple_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Purple Concrete Powder | ![purple_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Red Concrete'}]
@@ -398,8 +398,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Concrete Powder | ![red_concrete_powder](../images/thermal_red_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Red Concrete Powder | ![red_concrete_powder](../images/thermal_oil_red_sand.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Flux Gem'}]
@@ -408,7 +408,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Diamond | ![gems/diamond](../images/thermal_gems/diamond.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Syrup Bottle'}]
@@ -416,8 +416,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Lavawood'}]
@@ -425,8 +425,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Planks | ![planks](../images/thermal_planks.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Planks | ![planks](../images/thermal_rubberwood_planks.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Water'}}]
@@ -434,8 +434,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## White Concrete'}]
@@ -443,8 +443,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Concrete Powder | ![white_concrete_powder](../images/thermal_white_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | White Concrete Powder | ![white_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Yellow Concrete'}]
@@ -452,8 +452,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/thermal_yellow_concrete_powder.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ## Bronze Block
@@ -494,7 +494,7 @@
 | - | Ingots/Copper'}] | ![ingots/copper'}]](../images/thermal_ingots/copper'}].png) |
 | - | Ingots/Copper'}] | ![ingots/copper'}]](../images/thermal_ingots/copper'}].png) |
 | - | Ingots/Tin'}] | ![ingots/tin'}]](../images/thermal_ingots/tin'}].png) |
-| - | Fire Charge | ![fire_charge](../images/thermal_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/thermal_fire_tnt_minecart.png) |
 
 ---
 ## Bronze Ingot
@@ -543,11 +543,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk Bucket | ![milk_bucket](../images/thermal_milk_bucket.png) |
-| B | Sugar | ![sugar](../images/thermal_sugar.png) |
-| C | Wheat | ![wheat](../images/thermal_wheat.png) |
+| A | Milk Bucket | ![milk_bucket](../images/thermal_amaranth.png) |
+| B | Sugar | ![sugar](../images/thermal_amaranth.png) |
+| C | Wheat | ![wheat](../images/thermal_amaranth.png) |
 | D | Crops/Carrot | ![crops/carrot](../images/thermal_crops/carrot.png) |
-| E | Egg | ![egg](../images/thermal_egg.png) |
+| E | Egg | ![egg](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -555,7 +555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Allium | ![allium](../images/thermal_allium.png) |
+| item | Allium | ![allium](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -563,7 +563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Azure Bluet | ![azure_bluet](../images/thermal_azure_bluet.png) |
+| item | Azure Bluet | ![azure_bluet](../images/thermal_amaranth.png) |
 
 ---
 ## Black Dye'}]
@@ -571,7 +571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Rockwool | ![black_rockwool](../images/thermal_black_rockwool.png) |
+| item | Black Rockwool | ![black_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Black Dye'}]
@@ -579,7 +579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Black Wool | ![black_wool](../images/thermal_black_wool.png) |
+| item | Black Wool | ![black_wool](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -587,7 +587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Orchid | ![blue_orchid](../images/thermal_blue_orchid.png) |
+| item | Blue Orchid | ![blue_orchid](../images/thermal_amaranth.png) |
 
 ---
 ## Blue Dye'}]
@@ -595,7 +595,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Rockwool | ![blue_rockwool](../images/thermal_blue_rockwool.png) |
+| item | Blue Rockwool | ![blue_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Blue Dye'}]
@@ -603,7 +603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Wool | ![blue_wool](../images/thermal_blue_wool.png) |
+| item | Blue Wool | ![blue_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Tin Dust'}]
@@ -612,7 +612,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | tag | Dusts/Bronze | ![dusts/bronze](../images/thermal_dusts/bronze.png) |
-| count | 4 | ![4](../images/thermal_4.png) |
+| count | 4 | ![4](../images/thermal_amaranth_4.png) |
 
 ---
 ## Brown Dye'}]
@@ -620,7 +620,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Rockwool | ![brown_rockwool](../images/thermal_brown_rockwool.png) |
+| item | Brown Rockwool | ![brown_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Brown Dye'}]
@@ -628,7 +628,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Wool | ![brown_wool](../images/thermal_brown_wool.png) |
+| item | Brown Wool | ![brown_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Nickel Dust'}]
@@ -637,7 +637,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | tag | Dusts/Constantan | ![dusts/constantan](../images/thermal_dusts/constantan.png) |
-| count | 2 | ![2](../images/thermal_2.png) |
+| count | 2 | ![2](../images/thermal_amaranth_2.png) |
 
 ---
 ##  3}]
@@ -645,7 +645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cornflower | ![cornflower](../images/thermal_cornflower.png) |
+| item | Cornflower | ![cornflower](../images/thermal_amaranth.png) |
 
 ---
 ##  0.5}]
@@ -653,7 +653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Copper | ![crushed_raw_copper](../images/thermal_crushed_raw_copper.png) |
+| item | Crushed Raw Copper | ![crushed_raw_copper](../images/thermal_copper_block.png) |
 
 ---
 ##  0.5}]
@@ -661,7 +661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Gold | ![crushed_raw_gold](../images/thermal_crushed_raw_gold.png) |
+| item | Crushed Raw Gold | ![crushed_raw_gold](../images/thermal_raw_lead.png) |
 
 ---
 ##  0.12}]
@@ -669,7 +669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Iron | ![crushed_raw_iron](../images/thermal_crushed_raw_iron.png) |
+| item | Crushed Raw Iron | ![crushed_raw_iron](../images/thermal_raw_lead.png) |
 
 ---
 ##  0.25}]
@@ -677,7 +677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Lead | ![crushed_raw_lead](../images/thermal_crushed_raw_lead.png) |
+| item | Crushed Raw Lead | ![crushed_raw_lead](../images/thermal_raw_lead.png) |
 
 ---
 ##  0.25}]
@@ -685,7 +685,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Nickel | ![crushed_raw_nickel](../images/thermal_crushed_raw_nickel.png) |
+| item | Crushed Raw Nickel | ![crushed_raw_nickel](../images/thermal_raw_nickel.png) |
 
 ---
 ##  0.25}]
@@ -693,7 +693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Silver | ![crushed_raw_silver](../images/thermal_crushed_raw_silver.png) |
+| item | Crushed Raw Silver | ![crushed_raw_silver](../images/thermal_raw_silver.png) |
 
 ---
 ##  0.12}]
@@ -701,7 +701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Tin | ![crushed_raw_tin](../images/thermal_crushed_raw_tin.png) |
+| item | Crushed Raw Tin | ![crushed_raw_tin](../images/thermal_raw_tin.png) |
 
 ---
 ##  0.25}]
@@ -709,7 +709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Zinc | ![crushed_raw_zinc](../images/thermal_crushed_raw_zinc.png) |
+| item | Crushed Raw Zinc | ![crushed_raw_zinc](../images/thermal_raw_lead.png) |
 
 ---
 ##  9}]
@@ -717,7 +717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Aluminum | ![crushed_raw_aluminum](../images/thermal_crushed_raw_aluminum.png) |
+| item | Crushed Raw Aluminum | ![crushed_raw_aluminum](../images/thermal_raw_lead.png) |
 
 ---
 ##  9}]
@@ -725,7 +725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Uranium | ![crushed_raw_uranium](../images/thermal_crushed_raw_uranium.png) |
+| item | Crushed Raw Uranium | ![crushed_raw_uranium](../images/thermal_raw_lead.png) |
 
 ---
 ## Cyan Dye'}]
@@ -733,7 +733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Rockwool | ![cyan_rockwool](../images/thermal_cyan_rockwool.png) |
+| item | Cyan Rockwool | ![cyan_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Cyan Dye'}]
@@ -741,7 +741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyan Wool | ![cyan_wool](../images/thermal_cyan_wool.png) |
+| item | Cyan Wool | ![cyan_wool](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -749,7 +749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dandelion | ![dandelion](../images/thermal_dandelion.png) |
+| item | Dandelion | ![dandelion](../images/thermal_amaranth.png) |
 
 ---
 ## Silver Dust'}]
@@ -758,7 +758,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | tag | Dusts/Electrum | ![dusts/electrum](../images/thermal_dusts/electrum.png) |
-| count | 2 | ![2](../images/thermal_2.png) |
+| count | 2 | ![2](../images/thermal_amaranth_2.png) |
 
 ---
 ##  250}]
@@ -766,7 +766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
+| item | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -790,7 +790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Rockwool | ![gray_rockwool](../images/thermal_gray_rockwool.png) |
+| item | Gray Rockwool | ![gray_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Gray Dye'}]
@@ -798,7 +798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gray Wool | ![gray_wool](../images/thermal_gray_wool.png) |
+| item | Gray Wool | ![gray_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Green Dye'}]
@@ -806,7 +806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Rockwool | ![green_rockwool](../images/thermal_green_rockwool.png) |
+| item | Green Rockwool | ![green_rockwool](../images/thermal_green_bean.png) |
 
 ---
 ## Green Dye'}]
@@ -814,7 +814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Wool | ![green_wool](../images/thermal_green_wool.png) |
+| item | Green Wool | ![green_wool](../images/thermal_green_bean.png) |
 
 ---
 ##  1.5}]
@@ -830,7 +830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Honeycomb | ![honeycomb](../images/thermal_honeycomb.png) |
+| item | Honeycomb | ![honeycomb](../images/thermal_amaranth.png) |
 
 ---
 ##  250}]
@@ -838,7 +838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Honey Bottle | ![honey_bottle](../images/thermal_honey_bottle.png) |
+| item | Honey Bottle | ![honey_bottle](../images/thermal_amaranth.png) |
 
 ---
 ## Nickel Dust'}]
@@ -847,7 +847,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | tag | Dusts/Invar | ![dusts/invar](../images/thermal_dusts/invar.png) |
-| count | 3 | ![3](../images/thermal_3.png) |
+| count | 3 | ![3](../images/thermal_amaranth_3.png) |
 
 ---
 ## Light Blue Dye'}]
@@ -855,7 +855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Rockwool | ![light_blue_rockwool](../images/thermal_light_blue_rockwool.png) |
+| item | Light Blue Rockwool | ![light_blue_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Light Blue Dye'}]
@@ -863,7 +863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Blue Wool | ![light_blue_wool](../images/thermal_light_blue_wool.png) |
+| item | Light Blue Wool | ![light_blue_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Light Gray Dye'}]
@@ -871,7 +871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Rockwool | ![light_gray_rockwool](../images/thermal_light_gray_rockwool.png) |
+| item | Light Gray Rockwool | ![light_gray_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Light Gray Dye'}]
@@ -879,7 +879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Gray Wool | ![light_gray_wool](../images/thermal_light_gray_wool.png) |
+| item | Light Gray Wool | ![light_gray_wool](../images/thermal_amaranth.png) |
 
 ---
 ##  6}]
@@ -887,7 +887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lilac | ![lilac](../images/thermal_lilac.png) |
+| item | Lilac | ![lilac](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -895,7 +895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lily Of The Valley | ![lily_of_the_valley](../images/thermal_lily_of_the_valley.png) |
+| item | Lily Of The Valley | ![lily_of_the_valley](../images/thermal_amaranth.png) |
 
 ---
 ## Lime Dye'}]
@@ -903,7 +903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Rockwool | ![lime_rockwool](../images/thermal_lime_rockwool.png) |
+| item | Lime Rockwool | ![lime_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Lime Dye'}]
@@ -911,7 +911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lime Wool | ![lime_wool](../images/thermal_lime_wool.png) |
+| item | Lime Wool | ![lime_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Magenta Dye'}]
@@ -919,7 +919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Rockwool | ![magenta_rockwool](../images/thermal_magenta_rockwool.png) |
+| item | Magenta Rockwool | ![magenta_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Magenta Dye'}]
@@ -927,7 +927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magenta Wool | ![magenta_wool](../images/thermal_magenta_wool.png) |
+| item | Magenta Wool | ![magenta_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Blaze Powder'}]
@@ -935,7 +935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magma Cream | ![magma_cream](../images/thermal_magma_cream.png) |
+| item | Magma Cream | ![magma_cream](../images/thermal_amaranth.png) |
 
 ---
 ## Mangrove Roots'}]
@@ -943,7 +943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Muddy Mangrove Roots | ![muddy_mangrove_roots](../images/thermal_muddy_mangrove_roots.png) |
+| item | Muddy Mangrove Roots | ![muddy_mangrove_roots](../images/thermal_amaranth.png) |
 
 ---
 ##  100}]
@@ -967,7 +967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Rockwool | ![orange_rockwool](../images/thermal_orange_rockwool.png) |
+| item | Orange Rockwool | ![orange_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -975,7 +975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Tulip | ![orange_tulip](../images/thermal_orange_tulip.png) |
+| item | Orange Tulip | ![orange_tulip](../images/thermal_amaranth.png) |
 
 ---
 ## Orange Dye'}]
@@ -983,7 +983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Wool | ![orange_wool](../images/thermal_orange_wool.png) |
+| item | Orange Wool | ![orange_wool](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -991,7 +991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oxeye Daisy | ![oxeye_daisy](../images/thermal_oxeye_daisy.png) |
+| item | Oxeye Daisy | ![oxeye_daisy](../images/thermal_amaranth.png) |
 
 ---
 ##  6}]
@@ -999,7 +999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peony | ![peony](../images/thermal_peony.png) |
+| item | Peony | ![peony](../images/thermal_amaranth.png) |
 
 ---
 ## Pink Dye'}]
@@ -1007,7 +1007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Rockwool | ![pink_rockwool](../images/thermal_pink_rockwool.png) |
+| item | Pink Rockwool | ![pink_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -1015,7 +1015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Tulip | ![pink_tulip](../images/thermal_pink_tulip.png) |
+| item | Pink Tulip | ![pink_tulip](../images/thermal_amaranth.png) |
 
 ---
 ## Pink Dye'}]
@@ -1023,7 +1023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Wool | ![pink_wool](../images/thermal_pink_wool.png) |
+| item | Pink Wool | ![pink_wool](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -1031,7 +1031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Poppy | ![poppy](../images/thermal_poppy.png) |
+| item | Poppy | ![poppy](../images/thermal_amaranth.png) |
 
 ---
 ## Purple Dye'}]
@@ -1039,7 +1039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Rockwool | ![purple_rockwool](../images/thermal_purple_rockwool.png) |
+| item | Purple Rockwool | ![purple_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Purple Dye'}]
@@ -1047,7 +1047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Wool | ![purple_wool](../images/thermal_purple_wool.png) |
+| item | Purple Wool | ![purple_wool](../images/thermal_amaranth.png) |
 
 ---
 ##  1.5}]
@@ -1063,7 +1063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Rockwool | ![red_rockwool](../images/thermal_red_rockwool.png) |
+| item | Red Rockwool | ![red_rockwool](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  3}]
@@ -1071,7 +1071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Tulip | ![red_tulip](../images/thermal_red_tulip.png) |
+| item | Red Tulip | ![red_tulip](../images/thermal_oil_red_sand.png) |
 
 ---
 ## Red Dye'}]
@@ -1079,7 +1079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Wool | ![red_wool](../images/thermal_red_wool.png) |
+| item | Red Wool | ![red_wool](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  6}]
@@ -1087,7 +1087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rose Bush | ![rose_bush](../images/thermal_rose_bush.png) |
+| item | Rose Bush | ![rose_bush](../images/thermal_rose_gold_block.png) |
 
 ---
 ##  1.5}]
@@ -1103,7 +1103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunflower | ![sunflower](../images/thermal_sunflower.png) |
+| item | Sunflower | ![sunflower](../images/thermal_amaranth.png) |
 
 ---
 ##  250}]
@@ -1111,7 +1111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Syrup Bottle | ![syrup_bottle](../images/thermal_syrup_bottle.png) |
+| item | Syrup Bottle | ![syrup_bottle](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -1119,7 +1119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Tulip | ![white_tulip](../images/thermal_white_tulip.png) |
+| item | White Tulip | ![white_tulip](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -1127,7 +1127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wither Rose | ![wither_rose](../images/thermal_wither_rose.png) |
+| item | Wither Rose | ![wither_rose](../images/thermal_rose_gold_block.png) |
 
 ---
 ## Yellow Dye'}]
@@ -1135,7 +1135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Rockwool | ![yellow_rockwool](../images/thermal_yellow_rockwool.png) |
+| item | Yellow Rockwool | ![yellow_rockwool](../images/thermal_amaranth.png) |
 
 ---
 ## Yellow Dye'}]
@@ -1143,7 +1143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Wool | ![yellow_wool](../images/thermal_yellow_wool.png) |
+| item | Yellow Wool | ![yellow_wool](../images/thermal_amaranth.png) |
 
 ---
 ## Cheese Wedge
@@ -1159,7 +1159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/thermal_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/thermal_amaranth.png) |
 | - | Crops/Sadiroot | ![crops/sadiroot](../images/thermal_crops/sadiroot.png) |
 
 ---
@@ -1169,7 +1169,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Plates/Bronze | ![plates/bronze](../images/thermal_plates/bronze.png) |
-| X | Magma Cream | ![magma_cream](../images/thermal_magma_cream.png) |
+| X | Magma Cream | ![magma_cream](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -1177,7 +1177,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -1185,8 +1185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ball Cast | ![chiller_ball_cast](../images/thermal_chiller_ball_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ball Cast | ![chiller_ball_cast](../images/thermal_amaranth.png) |
 
 ---
 ## Glowstone'}]
@@ -1194,8 +1194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Glowstone | ![glowstone](../images/thermal_glowstone.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Glowstone | ![glowstone](../images/thermal_glowstone_mushroom_0.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## Honey Block'}]
@@ -1203,8 +1203,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Honey | ![honey](../images/thermal_honey.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Honey | ![honey](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## Chiller Ingot Cast
@@ -1213,7 +1213,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Plates/Bronze | ![plates/bronze](../images/thermal_plates/bronze.png) |
-| X | Nether Brick | ![nether_brick](../images/thermal_nether_brick.png) |
+| X | Nether Brick | ![nether_brick](../images/thermal_amaranth.png) |
 
 ---
 ## Obsidian'}]
@@ -1221,8 +1221,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Lava | ![lava](../images/thermal_lava.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Lava | ![lava](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## Redstone Block'}]
@@ -1230,8 +1230,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Redstone | ![redstone](../images/thermal_redstone.png) |
-| amount | 900 | ![900](../images/thermal_900.png) |
+| fluid | Redstone | ![redstone](../images/thermal_redstone_mushroom_0.png) |
+| amount | 900 | ![900](../images/thermal_amaranth.png) |
 
 ---
 ## Chiller Rod Cast
@@ -1240,7 +1240,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Plates/Bronze | ![plates/bronze](../images/thermal_plates/bronze.png) |
-| X | Blaze Rod | ![blaze_rod](../images/thermal_blaze_rod.png) |
+| X | Blaze Rod | ![blaze_rod](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -1248,8 +1248,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1257,8 +1257,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1266,8 +1266,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1275,8 +1275,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1284,8 +1284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1293,8 +1293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1302,8 +1302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1311,8 +1311,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1320,8 +1320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ## Stick Aluminum'}]
@@ -1329,8 +1329,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Rod Cast | ![chiller_rod_cast](../images/thermal_chiller_rod_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Rod Cast | ![chiller_rod_cast](../images/thermal_amaranth.png) |
 
 ---
 ## Stick Iron'}]
@@ -1338,8 +1338,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Rod Cast | ![chiller_rod_cast](../images/thermal_chiller_rod_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Rod Cast | ![chiller_rod_cast](../images/thermal_amaranth.png) |
 
 ---
 ## Stick Steel'}]
@@ -1347,8 +1347,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Rod Cast | ![chiller_rod_cast](../images/thermal_chiller_rod_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Rod Cast | ![chiller_rod_cast](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -1356,8 +1356,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1365,8 +1365,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1374,8 +1374,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1383,8 +1383,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1392,8 +1392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1401,8 +1401,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1410,8 +1410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1419,8 +1419,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1428,8 +1428,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1437,8 +1437,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1446,8 +1446,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1455,8 +1455,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1464,8 +1464,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1473,8 +1473,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1482,8 +1482,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -1491,8 +1491,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_chiller_ingot_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ingot Cast | ![chiller_ingot_cast](../images/thermal_bronze_ingot.png) |
 
 ---
 ## Ice'}]
@@ -1500,8 +1500,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Water | ![water](../images/thermal_water.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Water | ![water](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -1509,8 +1509,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Chiller Ball Cast | ![chiller_ball_cast](../images/thermal_chiller_ball_cast.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Chiller Ball Cast | ![chiller_ball_cast](../images/thermal_amaranth.png) |
 
 ---
 ## Chocolate Cake
@@ -1518,11 +1518,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk Bucket | ![milk_bucket](../images/thermal_milk_bucket.png) |
-| B | Cocoa Beans | ![cocoa_beans](../images/thermal_cocoa_beans.png) |
-| C | Wheat | ![wheat](../images/thermal_wheat.png) |
+| A | Milk Bucket | ![milk_bucket](../images/thermal_amaranth.png) |
+| B | Cocoa Beans | ![cocoa_beans](../images/thermal_amaranth.png) |
+| C | Wheat | ![wheat](../images/thermal_amaranth.png) |
 | D | Crops/Strawberry | ![crops/strawberry](../images/thermal_crops/strawberry.png) |
-| E | Egg | ![egg](../images/thermal_egg.png) |
+| E | Egg | ![egg](../images/thermal_amaranth.png) |
 
 ---
 ## Cinnabar
@@ -1555,7 +1555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee Block | ![coffee_block](../images/thermal_coffee_block.png) |
+| - | Coffee Block | ![coffee_block](../images/thermal_coffee_block_bottom.png) |
 
 ---
 ## {}
@@ -1563,8 +1563,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Biodiesel | ![biodiesel](../images/thermal_biodiesel.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Biodiesel | ![biodiesel](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -1572,8 +1572,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Diesel | ![diesel](../images/thermal_diesel.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Diesel | ![diesel](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -1581,8 +1581,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Gasoline | ![gasoline](../images/thermal_gasoline.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Gasoline | ![gasoline](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## Constantan Block
@@ -1619,7 +1619,7 @@
 | :--- | :--- | :--- |
 | - | Ingots/Copper'}] | ![ingots/copper'}]](../images/thermal_ingots/copper'}].png) |
 | - | Ingots/Nickel'}] | ![ingots/nickel'}]](../images/thermal_ingots/nickel'}].png) |
-| - | Fire Charge | ![fire_charge](../images/thermal_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/thermal_fire_tnt_minecart.png) |
 
 ---
 ## Constantan Ingot
@@ -1716,7 +1716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/thermal_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/thermal_amaranth.png) |
 
 ---
 ## Cooked Mushroom
@@ -1724,7 +1724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/thermal_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/thermal_amaranth.png) |
 
 ---
 ## Cooked Mushroom
@@ -1732,7 +1732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/thermal_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/thermal_amaranth.png) |
 
 ---
 ## Corn Block
@@ -1749,7 +1749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Corn Block | ![corn_block](../images/thermal_corn_block.png) |
+| - | Corn Block | ![corn_block](../images/thermal_corn_block_bottom.png) |
 
 ---
 ## Crossover Rail
@@ -1757,8 +1757,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Stick | ![stick](../images/thermal_stick.png) |
-| X | Rail | ![rail](../images/thermal_rail.png) |
+| I | Stick | ![stick](../images/thermal_amaranth.png) |
+| X | Rail | ![rail](../images/thermal_crossover_rail.png) |
 
 ---
 ##  1000}]
@@ -1766,7 +1766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobblestone | ![cobblestone](../images/thermal_cobblestone.png) |
+| item | Cobblestone | ![cobblestone](../images/thermal_amaranth.png) |
 
 ---
 ##  250}]
@@ -1774,7 +1774,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Ender Pearls | ![ender_pearls](../images/thermal_ender_pearls.png) |
+| tag | Ender Pearls | ![ender_pearls](../images/thermal_ender_tnt_minecart.png) |
 
 ---
 ##  1000}]
@@ -1782,7 +1782,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glowstone | ![glowstone](../images/thermal_glowstone.png) |
+| item | Glowstone | ![glowstone](../images/thermal_glowstone_mushroom_0.png) |
 
 ---
 ##  250}]
@@ -1798,7 +1798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Honey Block | ![honey_block](../images/thermal_honey_block.png) |
+| item | Honey Block | ![honey_block](../images/thermal_amaranth_block_end.png) |
 
 ---
 ##  1000}]
@@ -1806,7 +1806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ice | ![ice](../images/thermal_ice.png) |
+| item | Ice | ![ice](../images/thermal_ice_tnt_minecart.png) |
 
 ---
 ##  1000}]
@@ -1814,7 +1814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magma Block | ![magma_block](../images/thermal_magma_block.png) |
+| item | Magma Block | ![magma_block](../images/thermal_amaranth_block_end.png) |
 
 ---
 ##  1000}]
@@ -1822,7 +1822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherrack | ![netherrack](../images/thermal_netherrack.png) |
+| item | Netherrack | ![netherrack](../images/thermal_sulfur_ore_netherrack.png) |
 
 ---
 ##  1000}]
@@ -1830,7 +1830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian | ![obsidian](../images/thermal_obsidian.png) |
+| item | Obsidian | ![obsidian](../images/thermal_amaranth.png) |
 
 ---
 ##  900}]
@@ -1854,7 +1854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Snowball | ![snowball](../images/thermal_snowball.png) |
+| item | Snowball | ![snowball](../images/thermal_amaranth.png) |
 
 ---
 ##  500}]
@@ -1862,7 +1862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Snow Block | ![snow_block](../images/thermal_snow_block.png) |
+| item | Snow Block | ![snow_block](../images/thermal_amaranth_block_end.png) |
 
 ---
 ##  1000}]
@@ -1870,7 +1870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/thermal_stone.png) |
+| item | Stone | ![stone](../images/thermal_amaranth.png) |
 
 ---
 ## Amethyst Cluster'}]
@@ -1878,8 +1878,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Amethyst Shard | ![amethyst_shard](../images/thermal_amethyst_shard.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Amethyst Shard | ![amethyst_shard](../images/thermal_amaranth.png) |
 
 ---
 ## Apatite'}]
@@ -1887,7 +1887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Apatite | ![dusts/apatite](../images/thermal_dusts/apatite.png) |
 
 ---
@@ -1896,7 +1896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Cinnabar | ![dusts/cinnabar](../images/thermal_dusts/cinnabar.png) |
 
 ---
@@ -1905,7 +1905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Diamond | ![dusts/diamond](../images/thermal_dusts/diamond.png) |
 
 ---
@@ -1914,7 +1914,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Emerald | ![dusts/emerald](../images/thermal_dusts/emerald.png) |
 
 ---
@@ -1923,7 +1923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Lapis | ![dusts/lapis](../images/thermal_dusts/lapis.png) |
 
 ---
@@ -1932,8 +1932,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Dust Fluorite | ![dust_fluorite](../images/thermal_dust_fluorite.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Dust Fluorite | ![dust_fluorite](../images/thermal_bronze_dust.png) |
 
 ---
 ## Niter'}]
@@ -1941,7 +1941,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Niter | ![dusts/niter](../images/thermal_dusts/niter.png) |
 
 ---
@@ -1950,7 +1950,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Quartz | ![dusts/quartz](../images/thermal_dusts/quartz.png) |
 
 ---
@@ -1959,7 +1959,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Sulfur | ![dusts/sulfur](../images/thermal_dusts/sulfur.png) |
 
 ---
@@ -1968,7 +1968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Bronze | ![gears/bronze](../images/thermal_gears/bronze.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -1980,11 +1980,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Silver | ![gears/silver](../images/thermal_gears/silver.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
-| Y | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
+| Y | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
 
 ---
 ## Dynamo Gourmand
@@ -1992,7 +1992,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Copper | ![gears/copper](../images/thermal_gears/copper.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -2004,7 +2004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Gold | ![gears/gold](../images/thermal_gears/gold.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -2016,7 +2016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Invar | ![gears/invar](../images/thermal_gears/invar.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -2028,7 +2028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Tin | ![gears/tin](../images/thermal_gears/tin.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -2040,11 +2040,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| C | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | G | Gears/Iron | ![gears/iron](../images/thermal_gears/iron.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
-| Y | Stone | ![stone](../images/thermal_stone.png) |
+| Y | Stone | ![stone](../images/thermal_amaranth.png) |
 
 ---
 ## Earth Tnt Minecart
@@ -2052,8 +2052,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Earth Tnt | ![earth_tnt](../images/thermal_earth_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Earth Tnt | ![earth_tnt](../images/thermal_earth_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## Eggplant Block
@@ -2070,7 +2070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggplant Block | ![eggplant_block](../images/thermal_eggplant_block.png) |
+| - | Eggplant Block | ![eggplant_block](../images/thermal_eggplant_block_bottom.png) |
 
 ---
 ## Electrum Block
@@ -2107,7 +2107,7 @@
 | :--- | :--- | :--- |
 | - | Ingots/Gold'}] | ![ingots/gold'}]](../images/thermal_ingots/gold'}].png) |
 | - | Ingots/Silver'}] | ![ingots/silver'}]](../images/thermal_ingots/silver'}].png) |
-| - | Fire Charge | ![fire_charge](../images/thermal_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/thermal_fire_tnt_minecart.png) |
 
 ---
 ## Electrum Ingot
@@ -2156,8 +2156,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Ender Tnt | ![ender_tnt](../images/thermal_ender_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Ender Tnt | ![ender_tnt](../images/thermal_ender_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## Energy Duct
@@ -2165,7 +2165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/thermal_glass.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
 | L | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
 
@@ -2175,7 +2175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/thermal_glass.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
 | I | Ingots/Electrum | ![ingots/electrum](../images/thermal_ingots/electrum.png) |
 | N | Nuggets/Lead | ![nuggets/lead](../images/thermal_nuggets/lead.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -2186,8 +2186,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Minecart | ![minecart](../images/thermal_minecart.png) |
-| F | Energy Cell Frame | ![energy_cell_frame](../images/thermal_energy_cell_frame.png) |
+| C | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
+| F | Energy Cell Frame | ![energy_cell_frame](../images/thermal_energy_duct.png) |
 | I | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
 | R | Storage Blocks/Redstone | ![storage_blocks/redstone](../images/thermal_storage_blocks/redstone.png) |
 
@@ -2197,10 +2197,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/thermal_glass.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | N | Nuggets/Tin | ![nuggets/tin](../images/thermal_nuggets/tin.png) |
-| P | Paper | ![paper](../images/thermal_paper.png) |
+| P | Paper | ![paper](../images/thermal_amaranth.png) |
 
 ---
 ## Fire Tnt Minecart
@@ -2208,8 +2208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Fire Tnt | ![fire_tnt](../images/thermal_fire_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Fire Tnt | ![fire_tnt](../images/thermal_fire_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## Flax Block
@@ -2226,7 +2226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flax Block | ![flax_block](../images/thermal_flax_block.png) |
+| - | Flax Block | ![flax_block](../images/thermal_flax_block_end.png) |
 
 ---
 ## Fluid Duct
@@ -2252,10 +2252,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Minecart | ![minecart](../images/thermal_minecart.png) |
-| F | Fluid Cell Frame | ![fluid_cell_frame](../images/thermal_fluid_cell_frame.png) |
+| C | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
+| F | Fluid Cell Frame | ![fluid_cell_frame](../images/thermal_fluid_duct.png) |
 | I | Ingots/Bronze | ![ingots/bronze](../images/thermal_ingots/bronze.png) |
-| R | Cured Rubber | ![cured_rubber](../images/thermal_cured_rubber.png) |
+| R | Cured Rubber | ![cured_rubber](../images/thermal_amaranth.png) |
 
 ---
 ## Fluid Reservoir
@@ -2263,11 +2263,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/thermal_bucket.png) |
+| B | Bucket | ![bucket](../images/thermal_amaranth.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
-| G | Glass | ![glass](../images/thermal_glass.png) |
-| P | Redstone Servo | ![redstone_servo](../images/thermal_redstone_servo.png) |
-| R | Cured Rubber | ![cured_rubber](../images/thermal_cured_rubber.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
+| P | Redstone Servo | ![redstone_servo](../images/thermal_redstone_mushroom_0.png) |
+| R | Cured Rubber | ![cured_rubber](../images/thermal_amaranth.png) |
 
 ---
 ## Flux Capacitor
@@ -2276,7 +2276,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
 
 ---
@@ -2288,8 +2288,8 @@
 | C | Gears/Gold | ![gears/gold](../images/thermal_gears/gold.png) |
 | G | Gears/Tin | ![gears/tin](../images/thermal_gears/tin.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Drill Head | ![drill_head](../images/thermal_drill_head.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Drill Head | ![drill_head](../images/thermal_flux_drill.png) |
 
 ---
 ## Flux Magnet
@@ -2299,7 +2299,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | L | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
 
 ---
@@ -2311,8 +2311,8 @@
 | C | Gears/Gold | ![gears/gold](../images/thermal_gears/gold.png) |
 | G | Gears/Tin | ![gears/tin](../images/thermal_gears/tin.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Saw Blade | ![saw_blade](../images/thermal_saw_blade.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Saw Blade | ![saw_blade](../images/thermal_flux_saw.png) |
 
 ---
 ## Frost Melon
@@ -2336,8 +2336,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rotten Flesh | ![rotten_flesh](../images/thermal_rotten_flesh.png) |
-| count | 4 | ![4](../images/thermal_4.png) |
+| item | Rotten Flesh | ![rotten_flesh](../images/thermal_amaranth.png) |
+| count | 4 | ![4](../images/thermal_amaranth_4.png) |
 
 ---
 ## Glowstone Dust
@@ -2353,10 +2353,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Mushroom | ![red_mushroom](../images/thermal_red_mushroom.png) |
+| - | Red Mushroom | ![red_mushroom](../images/thermal_cooked_mushroom.png) |
 | - | Dusts/Glowstone | ![dusts/glowstone](../images/thermal_dusts/glowstone.png) |
-| - | Phytogro | ![phytogro](../images/thermal_phytogro.png) |
-| - | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
+| - | Phytogro | ![phytogro](../images/thermal_amaranth.png) |
+| - | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
 
 ---
 ## Glowstone Tnt Minecart
@@ -2364,8 +2364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Glowstone Tnt | ![glowstone_tnt](../images/thermal_glowstone_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Glowstone Tnt | ![glowstone_tnt](../images/thermal_glowstone_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## {}
@@ -2373,7 +2373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bell Pepper Block | ![bell_pepper_block](../images/thermal_bell_pepper_block.png) |
+| item | Bell Pepper Block | ![bell_pepper_block](../images/thermal_bell_pepper_block_bottom.png) |
 
 ---
 ## {}
@@ -2389,7 +2389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Corn Block | ![corn_block](../images/thermal_corn_block.png) |
+| item | Corn Block | ![corn_block](../images/thermal_corn_block_bottom.png) |
 
 ---
 ## {}
@@ -2397,7 +2397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Eggplant Block | ![eggplant_block](../images/thermal_eggplant_block.png) |
+| item | Eggplant Block | ![eggplant_block](../images/thermal_eggplant_block_bottom.png) |
 
 ---
 ## {}
@@ -2405,7 +2405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Frost Melon | ![frost_melon](../images/thermal_frost_melon.png) |
+| item | Frost Melon | ![frost_melon](../images/thermal_frost_melon_seeds.png) |
 
 ---
 ## {}
@@ -2413,7 +2413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Green Bean Block | ![green_bean_block](../images/thermal_green_bean_block.png) |
+| item | Green Bean Block | ![green_bean_block](../images/thermal_green_bean_block_bottom.png) |
 
 ---
 ## {}
@@ -2421,7 +2421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Onion Block | ![onion_block](../images/thermal_onion_block.png) |
+| item | Onion Block | ![onion_block](../images/thermal_onion_block_bottom.png) |
 
 ---
 ## {}
@@ -2429,7 +2429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peanut Block | ![peanut_block](../images/thermal_peanut_block.png) |
+| item | Peanut Block | ![peanut_block](../images/thermal_peanut_block_bottom.png) |
 
 ---
 ## {}
@@ -2437,7 +2437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Radish Block | ![radish_block](../images/thermal_radish_block.png) |
+| item | Radish Block | ![radish_block](../images/thermal_radish_block_bottom.png) |
 
 ---
 ## {}
@@ -2453,7 +2453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spinach Block | ![spinach_block](../images/thermal_spinach_block.png) |
+| item | Spinach Block | ![spinach_block](../images/thermal_spinach_block_bottom.png) |
 
 ---
 ## {}
@@ -2461,7 +2461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Strawberry Block | ![strawberry_block](../images/thermal_strawberry_block.png) |
+| item | Strawberry Block | ![strawberry_block](../images/thermal_strawberry_block_bottom.png) |
 
 ---
 ## {}
@@ -2469,7 +2469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tomato Block | ![tomato_block](../images/thermal_tomato_block.png) |
+| item | Tomato Block | ![tomato_block](../images/thermal_tomato_block_bottom.png) |
 
 ---
 ## Green Bean Block
@@ -2486,7 +2486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Bean Block | ![green_bean_block](../images/thermal_green_bean_block.png) |
+| - | Green Bean Block | ![green_bean_block](../images/thermal_green_bean_block_bottom.png) |
 
 ---
 ## Green Bean Pie
@@ -2494,9 +2494,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Egg | ![egg](../images/thermal_egg.png) |
+| E | Egg | ![egg](../images/thermal_amaranth.png) |
 | G | Crops/Green Bean | ![crops/green_bean](../images/thermal_crops/green_bean.png) |
-| M | Brown Mushroom | ![brown_mushroom](../images/thermal_brown_mushroom.png) |
+| M | Brown Mushroom | ![brown_mushroom](../images/thermal_cooked_mushroom.png) |
 | O | Crops/Onion | ![crops/onion](../images/thermal_crops/onion.png) |
 | W | Crops/Wheat | ![crops/wheat](../images/thermal_crops/wheat.png) |
 
@@ -2514,10 +2514,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom | ![brown_mushroom](../images/thermal_brown_mushroom.png) |
-| - | Gunpowder | ![gunpowder](../images/thermal_gunpowder.png) |
-| - | Phytogro | ![phytogro](../images/thermal_phytogro.png) |
-| - | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/thermal_cooked_mushroom.png) |
+| - | Gunpowder | ![gunpowder](../images/thermal_gunpowder_mushroom_0.png) |
+| - | Phytogro | ![phytogro](../images/thermal_amaranth.png) |
+| - | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
 
 ---
 ## Hearty Stew
@@ -2531,7 +2531,7 @@
 | - | Crops/Onion | ![crops/onion](../images/thermal_crops/onion.png) |
 | - | Crops/Radish | ![crops/radish](../images/thermal_crops/radish.png) |
 | - | Tomato Sauce | ![tomato_sauce](../images/thermal_tomato_sauce.png) |
-| - | Bowl | ![bowl](../images/thermal_bowl.png) |
+| - | Bowl | ![bowl](../images/thermal_amaranth.png) |
 
 ---
 ## Hops Block
@@ -2548,7 +2548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hops Block | ![hops_block](../images/thermal_hops_block.png) |
+| - | Hops Block | ![hops_block](../images/thermal_hops_block_bottom.png) |
 
 ---
 ## Ice Tnt Minecart
@@ -2556,8 +2556,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Ice Tnt | ![ice_tnt](../images/thermal_ice_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Ice Tnt | ![ice_tnt](../images/thermal_ice_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ##  1.1}]
@@ -2565,7 +2565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acacia Sapling | ![acacia_sapling](../images/thermal_acacia_sapling.png) |
+| item | Acacia Sapling | ![acacia_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2573,7 +2573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Allium | ![allium](../images/thermal_allium.png) |
+| item | Allium | ![allium](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2589,7 +2589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Azalea | ![azalea](../images/thermal_azalea.png) |
+| item | Azalea | ![azalea](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2597,7 +2597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Azure Bluet | ![azure_bluet](../images/thermal_azure_bluet.png) |
+| item | Azure Bluet | ![azure_bluet](../images/thermal_amaranth.png) |
 
 ---
 ##  3.0}]
@@ -2605,7 +2605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bamboo | ![bamboo](../images/thermal_bamboo.png) |
+| item | Bamboo | ![bamboo](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2621,7 +2621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Beetroot Seeds | ![beetroot_seeds](../images/thermal_beetroot_seeds.png) |
+| item | Beetroot Seeds | ![beetroot_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ##  1.1}]
@@ -2637,7 +2637,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Birch Sapling | ![birch_sapling](../images/thermal_birch_sapling.png) |
+| item | Birch Sapling | ![birch_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2645,7 +2645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Orchid | ![blue_orchid](../images/thermal_blue_orchid.png) |
+| item | Blue Orchid | ![blue_orchid](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2653,7 +2653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Hydrangea | ![blue_hydrangea](../images/thermal_blue_hydrangea.png) |
+| item | Blue Hydrangea | ![blue_hydrangea](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2661,7 +2661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Burning Blossom | ![burning_blossom](../images/thermal_burning_blossom.png) |
+| item | Burning Blossom | ![burning_blossom](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2669,7 +2669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dead Sapling | ![dead_sapling](../images/thermal_dead_sapling.png) |
+| item | Dead Sapling | ![dead_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2677,7 +2677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fir Sapling | ![fir_sapling](../images/thermal_fir_sapling.png) |
+| item | Fir Sapling | ![fir_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2685,7 +2685,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flowering Oak Sapling | ![flowering_oak_sapling](../images/thermal_flowering_oak_sapling.png) |
+| item | Flowering Oak Sapling | ![flowering_oak_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2693,7 +2693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glowflower | ![glowflower](../images/thermal_glowflower.png) |
+| item | Glowflower | ![glowflower](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2701,7 +2701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glowshroom | ![glowshroom](../images/thermal_glowshroom.png) |
+| item | Glowshroom | ![glowshroom](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2709,7 +2709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Goldenrod | ![goldenrod](../images/thermal_goldenrod.png) |
+| item | Goldenrod | ![goldenrod](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2717,7 +2717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Hellbark Sapling | ![hellbark_sapling](../images/thermal_hellbark_sapling.png) |
+| item | Hellbark Sapling | ![hellbark_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2725,7 +2725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Jacaranda Sapling | ![jacaranda_sapling](../images/thermal_jacaranda_sapling.png) |
+| item | Jacaranda Sapling | ![jacaranda_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2733,7 +2733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lavender | ![lavender](../images/thermal_lavender.png) |
+| item | Lavender | ![lavender](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2741,7 +2741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Magic Sapling | ![magic_sapling](../images/thermal_magic_sapling.png) |
+| item | Magic Sapling | ![magic_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2749,7 +2749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mahogany Sapling | ![mahogany_sapling](../images/thermal_mahogany_sapling.png) |
+| item | Mahogany Sapling | ![mahogany_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2757,7 +2757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Autumn Sapling | ![orange_autumn_sapling](../images/thermal_orange_autumn_sapling.png) |
+| item | Orange Autumn Sapling | ![orange_autumn_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2765,7 +2765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Cosmos | ![orange_cosmos](../images/thermal_orange_cosmos.png) |
+| item | Orange Cosmos | ![orange_cosmos](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2773,7 +2773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Origin Sapling | ![origin_sapling](../images/thermal_origin_sapling.png) |
+| item | Origin Sapling | ![origin_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2781,7 +2781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Palm Sapling | ![palm_sapling](../images/thermal_palm_sapling.png) |
+| item | Palm Sapling | ![palm_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2789,7 +2789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Cherry Sapling | ![pink_cherry_sapling](../images/thermal_pink_cherry_sapling.png) |
+| item | Pink Cherry Sapling | ![pink_cherry_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2797,7 +2797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Daffodil | ![pink_daffodil](../images/thermal_pink_daffodil.png) |
+| item | Pink Daffodil | ![pink_daffodil](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2805,7 +2805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Hibiscus | ![pink_hibiscus](../images/thermal_pink_hibiscus.png) |
+| item | Pink Hibiscus | ![pink_hibiscus](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2813,7 +2813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rainbow Birch Sapling | ![rainbow_birch_sapling](../images/thermal_rainbow_birch_sapling.png) |
+| item | Rainbow Birch Sapling | ![rainbow_birch_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -2821,7 +2821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Redwood Sapling | ![redwood_sapling](../images/thermal_redwood_sapling.png) |
+| item | Redwood Sapling | ![redwood_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2829,7 +2829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rose | ![rose](../images/thermal_rose.png) |
+| item | Rose | ![rose](../images/thermal_rose_gold_block.png) |
 
 ---
 ##  2.0}]
@@ -2837,7 +2837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Toadstool | ![toadstool](../images/thermal_toadstool.png) |
+| item | Toadstool | ![toadstool](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2845,7 +2845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Umbran Sapling | ![umbran_sapling](../images/thermal_umbran_sapling.png) |
+| item | Umbran Sapling | ![umbran_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2853,7 +2853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Violet | ![violet](../images/thermal_violet.png) |
+| item | Violet | ![violet](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2861,7 +2861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Cherry Sapling | ![white_cherry_sapling](../images/thermal_white_cherry_sapling.png) |
+| item | White Cherry Sapling | ![white_cherry_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2869,7 +2869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wildflower | ![wildflower](../images/thermal_wildflower.png) |
+| item | Wildflower | ![wildflower](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2877,7 +2877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Willow Sapling | ![willow_sapling](../images/thermal_willow_sapling.png) |
+| item | Willow Sapling | ![willow_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2885,7 +2885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wilted Lily | ![wilted_lily](../images/thermal_wilted_lily.png) |
+| item | Wilted Lily | ![wilted_lily](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2893,7 +2893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Autumn Sapling | ![yellow_autumn_sapling](../images/thermal_yellow_autumn_sapling.png) |
+| item | Yellow Autumn Sapling | ![yellow_autumn_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -2901,7 +2901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coral | ![brain_coral](../images/thermal_brain_coral.png) |
+| item | Brain Coral | ![brain_coral](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2909,7 +2909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coral Fan | ![brain_coral_fan](../images/thermal_brain_coral_fan.png) |
+| item | Brain Coral Fan | ![brain_coral_fan](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2917,7 +2917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brown Mushroom | ![brown_mushroom](../images/thermal_brown_mushroom.png) |
+| item | Brown Mushroom | ![brown_mushroom](../images/thermal_cooked_mushroom.png) |
 
 ---
 ##  2.0}]
@@ -2925,7 +2925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coral | ![bubble_coral](../images/thermal_bubble_coral.png) |
+| item | Bubble Coral | ![bubble_coral](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2933,7 +2933,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coral Fan | ![bubble_coral_fan](../images/thermal_bubble_coral_fan.png) |
+| item | Bubble Coral Fan | ![bubble_coral_fan](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -2941,7 +2941,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cactus | ![cactus](../images/thermal_cactus.png) |
+| item | Cactus | ![cactus](../images/thermal_amaranth.png) |
 
 ---
 ##  2.5}]
@@ -2949,7 +2949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Carrot | ![carrot](../images/thermal_carrot.png) |
+| item | Carrot | ![carrot](../images/thermal_carrot_cake.png) |
 
 ---
 ## {}
@@ -2957,7 +2957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Meal | ![bone_meal](../images/thermal_bone_meal.png) |
+| item | Bone Meal | ![bone_meal](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -2965,7 +2965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Compost | ![compost](../images/thermal_compost.png) |
+| item | Compost | ![compost](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -2973,7 +2973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tree Fertilizer | ![tree_fertilizer](../images/thermal_tree_fertilizer.png) |
+| item | Tree Fertilizer | ![tree_fertilizer](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -2981,7 +2981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Phytogro | ![phytogro](../images/thermal_phytogro.png) |
+| item | Phytogro | ![phytogro](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -2989,7 +2989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chorus Flower | ![chorus_flower](../images/thermal_chorus_flower.png) |
+| item | Chorus Flower | ![chorus_flower](../images/thermal_amaranth.png) |
 
 ---
 ##  2.5}]
@@ -2997,7 +2997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cocoa Beans | ![cocoa_beans](../images/thermal_cocoa_beans.png) |
+| item | Cocoa Beans | ![cocoa_beans](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -3013,7 +3013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cornflower | ![cornflower](../images/thermal_cornflower.png) |
+| item | Cornflower | ![cornflower](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -3021,7 +3021,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dandelion | ![dandelion](../images/thermal_dandelion.png) |
+| item | Dandelion | ![dandelion](../images/thermal_amaranth.png) |
 
 ---
 ##  0.5}]
@@ -3029,7 +3029,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Oak Sapling | ![dark_oak_sapling](../images/thermal_dark_oak_sapling.png) |
+| item | Dark Oak Sapling | ![dark_oak_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -3045,7 +3045,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cabbage Seeds | ![cabbage_seeds](../images/thermal_cabbage_seeds.png) |
+| item | Cabbage Seeds | ![cabbage_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ##  2.5}]
@@ -3077,7 +3077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coral | ![fire_coral](../images/thermal_fire_coral.png) |
+| item | Fire Coral | ![fire_coral](../images/thermal_fire_tnt_minecart.png) |
 
 ---
 ##  2.0}]
@@ -3085,7 +3085,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coral Fan | ![fire_coral_fan](../images/thermal_fire_coral_fan.png) |
+| item | Fire Coral Fan | ![fire_coral_fan](../images/thermal_fire_tnt_minecart.png) |
 
 ---
 ##  1.1}]
@@ -3101,7 +3101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flowering Azalea | ![flowering_azalea](../images/thermal_flowering_azalea.png) |
+| item | Flowering Azalea | ![flowering_azalea](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -3125,7 +3125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glow Berries | ![glow_berries](../images/thermal_glow_berries.png) |
+| item | Glow Berries | ![glow_berries](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -3133,7 +3133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glow Lichen | ![glow_lichen](../images/thermal_glow_lichen.png) |
+| item | Glow Lichen | ![glow_lichen](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -3157,7 +3157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coral | ![horn_coral](../images/thermal_horn_coral.png) |
+| item | Horn Coral | ![horn_coral](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -3165,7 +3165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coral Fan | ![horn_coral_fan](../images/thermal_horn_coral_fan.png) |
+| item | Horn Coral Fan | ![horn_coral_fan](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -3173,7 +3173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seed | ![seed](../images/thermal_seed.png) |
+| item | Seed | ![seed](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -3181,7 +3181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Jungle Sapling | ![jungle_sapling](../images/thermal_jungle_sapling.png) |
+| item | Jungle Sapling | ![jungle_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  2.0}]
@@ -3189,7 +3189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelp | ![kelp](../images/thermal_kelp.png) |
+| item | Kelp | ![kelp](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -3197,7 +3197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lilac | ![lilac](../images/thermal_lilac.png) |
+| item | Lilac | ![lilac](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -3205,7 +3205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lily Of The Valley | ![lily_of_the_valley](../images/thermal_lily_of_the_valley.png) |
+| item | Lily Of The Valley | ![lily_of_the_valley](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -3213,7 +3213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lily Pad | ![lily_pad](../images/thermal_lily_pad.png) |
+| item | Lily Pad | ![lily_pad](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -3221,7 +3221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mangrove Propagule | ![mangrove_propagule](../images/thermal_mangrove_propagule.png) |
+| item | Mangrove Propagule | ![mangrove_propagule](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -3229,7 +3229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Melon Seeds | ![melon_seeds](../images/thermal_melon_seeds.png) |
+| item | Melon Seeds | ![melon_seeds](../images/thermal_frost_melon_seeds.png) |
 
 ---
 ##  2.0}]
@@ -3237,7 +3237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Block | ![moss_block](../images/thermal_moss_block.png) |
+| item | Moss Block | ![moss_block](../images/thermal_amaranth_block_end.png) |
 
 ---
 ##  2.0}]
@@ -3245,7 +3245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Carpet | ![moss_carpet](../images/thermal_moss_carpet.png) |
+| item | Moss Carpet | ![moss_carpet](../images/thermal_amaranth.png) |
 
 ---
 ## Air Seeds'}]
@@ -3253,7 +3253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Air Seeds | ![air_seeds](../images/thermal_air_seeds.png) |
+| item | Air Seeds | ![air_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Aluminum Seeds'}]
@@ -3261,7 +3261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Aluminum Seeds | ![aluminum_seeds](../images/thermal_aluminum_seeds.png) |
+| item | Aluminum Seeds | ![aluminum_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Amethyst Bronze Seeds'}]
@@ -3269,7 +3269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Bronze Seeds | ![amethyst_bronze_seeds](../images/thermal_amethyst_bronze_seeds.png) |
+| item | Amethyst Bronze Seeds | ![amethyst_bronze_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Amethyst Seeds'}]
@@ -3277,7 +3277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Seeds | ![amethyst_seeds](../images/thermal_amethyst_seeds.png) |
+| item | Amethyst Seeds | ![amethyst_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Apatite Seeds'}]
@@ -3285,7 +3285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Apatite Seeds | ![apatite_seeds](../images/thermal_apatite_seeds.png) |
+| item | Apatite Seeds | ![apatite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Aquamarine Seeds'}]
@@ -3293,7 +3293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Aquamarine Seeds | ![aquamarine_seeds](../images/thermal_aquamarine_seeds.png) |
+| item | Aquamarine Seeds | ![aquamarine_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Basalt Seeds'}]
@@ -3301,7 +3301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt Seeds | ![basalt_seeds](../images/thermal_basalt_seeds.png) |
+| item | Basalt Seeds | ![basalt_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Basalz Seeds'}]
@@ -3309,7 +3309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalz Seeds | ![basalz_seeds](../images/thermal_basalz_seeds.png) |
+| item | Basalz Seeds | ![basalz_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Blaze Seeds'}]
@@ -3317,7 +3317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Seeds | ![blaze_seeds](../images/thermal_blaze_seeds.png) |
+| item | Blaze Seeds | ![blaze_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Blazing Crystal Seeds'}]
@@ -3325,7 +3325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blazing Crystal Seeds | ![blazing_crystal_seeds](../images/thermal_blazing_crystal_seeds.png) |
+| item | Blazing Crystal Seeds | ![blazing_crystal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Blitz Seeds'}]
@@ -3333,7 +3333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blitz Seeds | ![blitz_seeds](../images/thermal_blitz_seeds.png) |
+| item | Blitz Seeds | ![blitz_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Blizz Seeds'}]
@@ -3341,7 +3341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blizz Seeds | ![blizz_seeds](../images/thermal_blizz_seeds.png) |
+| item | Blizz Seeds | ![blizz_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Brass Seeds'}]
@@ -3349,7 +3349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brass Seeds | ![brass_seeds](../images/thermal_brass_seeds.png) |
+| item | Brass Seeds | ![brass_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Bronze Seeds'}]
@@ -3357,7 +3357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bronze Seeds | ![bronze_seeds](../images/thermal_bronze_seeds.png) |
+| item | Bronze Seeds | ![bronze_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Certus Quartz Seeds'}]
@@ -3365,7 +3365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Certus Quartz Seeds | ![certus_quartz_seeds](../images/thermal_certus_quartz_seeds.png) |
+| item | Certus Quartz Seeds | ![certus_quartz_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Chicken Seeds'}]
@@ -3373,7 +3373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chicken Seeds | ![chicken_seeds](../images/thermal_chicken_seeds.png) |
+| item | Chicken Seeds | ![chicken_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Chrome Seeds'}]
@@ -3381,7 +3381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chrome Seeds | ![chrome_seeds](../images/thermal_chrome_seeds.png) |
+| item | Chrome Seeds | ![chrome_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Coal Seeds'}]
@@ -3389,7 +3389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coal Seeds | ![coal_seeds](../images/thermal_coal_seeds.png) |
+| item | Coal Seeds | ![coal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Cobalt Seeds'}]
@@ -3397,7 +3397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cobalt Seeds | ![cobalt_seeds](../images/thermal_cobalt_seeds.png) |
+| item | Cobalt Seeds | ![cobalt_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Compressed Iron Seeds'}]
@@ -3405,7 +3405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Compressed Iron Seeds | ![compressed_iron_seeds](../images/thermal_compressed_iron_seeds.png) |
+| item | Compressed Iron Seeds | ![compressed_iron_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Constantan Seeds'}]
@@ -3413,7 +3413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Constantan Seeds | ![constantan_seeds](../images/thermal_constantan_seeds.png) |
+| item | Constantan Seeds | ![constantan_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Copper Seeds'}]
@@ -3421,7 +3421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Copper Seeds | ![copper_seeds](../images/thermal_copper_seeds.png) |
+| item | Copper Seeds | ![copper_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Coral Seeds'}]
@@ -3429,7 +3429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coral Seeds | ![coral_seeds](../images/thermal_coral_seeds.png) |
+| item | Coral Seeds | ![coral_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Cow Seeds'}]
@@ -3437,7 +3437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cow Seeds | ![cow_seeds](../images/thermal_cow_seeds.png) |
+| item | Cow Seeds | ![cow_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Creeper Seeds'}]
@@ -3445,7 +3445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Creeper Seeds | ![creeper_seeds](../images/thermal_creeper_seeds.png) |
+| item | Creeper Seeds | ![creeper_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Cyanite Seeds'}]
@@ -3453,7 +3453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cyanite Seeds | ![cyanite_seeds](../images/thermal_cyanite_seeds.png) |
+| item | Cyanite Seeds | ![cyanite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Deepslate Seeds'}]
@@ -3461,7 +3461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Seeds | ![deepslate_seeds](../images/thermal_deepslate_seeds.png) |
+| item | Deepslate Seeds | ![deepslate_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Diamond Seeds'}]
@@ -3469,7 +3469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diamond Seeds | ![diamond_seeds](../images/thermal_diamond_seeds.png) |
+| item | Diamond Seeds | ![diamond_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Dirt Seeds'}]
@@ -3477,7 +3477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt Seeds | ![dirt_seeds](../images/thermal_dirt_seeds.png) |
+| item | Dirt Seeds | ![dirt_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Draconium Seeds'}]
@@ -3485,7 +3485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Draconium Seeds | ![draconium_seeds](../images/thermal_draconium_seeds.png) |
+| item | Draconium Seeds | ![draconium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Dye Seeds'}]
@@ -3493,7 +3493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dye Seeds | ![dye_seeds](../images/thermal_dye_seeds.png) |
+| item | Dye Seeds | ![dye_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Earth Seeds'}]
@@ -3501,7 +3501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Earth Seeds | ![earth_seeds](../images/thermal_earth_seeds.png) |
+| item | Earth Seeds | ![earth_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Electrum Seeds'}]
@@ -3509,7 +3509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Electrum Seeds | ![electrum_seeds](../images/thermal_electrum_seeds.png) |
+| item | Electrum Seeds | ![electrum_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Elementium Seeds'}]
@@ -3517,7 +3517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elementium Seeds | ![elementium_seeds](../images/thermal_elementium_seeds.png) |
+| item | Elementium Seeds | ![elementium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Emerald Seeds'}]
@@ -3525,7 +3525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Emerald Seeds | ![emerald_seeds](../images/thermal_emerald_seeds.png) |
+| item | Emerald Seeds | ![emerald_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Enderium Seeds'}]
@@ -3533,7 +3533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Enderium Seeds | ![enderium_seeds](../images/thermal_enderium_seeds.png) |
+| item | Enderium Seeds | ![enderium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Enderman Seeds'}]
@@ -3541,7 +3541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Enderman Seeds | ![enderman_seeds](../images/thermal_enderman_seeds.png) |
+| item | Enderman Seeds | ![enderman_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## End Seeds'}]
@@ -3549,7 +3549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Seeds | ![end_seeds](../images/thermal_end_seeds.png) |
+| item | End Seeds | ![end_seeds](../images/thermal_amaranth_block_end.png) |
 
 ---
 ## Energized Steel Seeds'}]
@@ -3557,7 +3557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Energized Steel Seeds | ![energized_steel_seeds](../images/thermal_energized_steel_seeds.png) |
+| item | Energized Steel Seeds | ![energized_steel_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Experience Seeds'}]
@@ -3565,7 +3565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Experience Seeds | ![experience_seeds](../images/thermal_experience_seeds.png) |
+| item | Experience Seeds | ![experience_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Fiery Ingot Seeds'}]
@@ -3573,7 +3573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fiery Ingot Seeds | ![fiery_ingot_seeds](../images/thermal_fiery_ingot_seeds.png) |
+| item | Fiery Ingot Seeds | ![fiery_ingot_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Fire Seeds'}]
@@ -3581,7 +3581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Seeds | ![fire_seeds](../images/thermal_fire_seeds.png) |
+| item | Fire Seeds | ![fire_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Fish Seeds'}]
@@ -3589,7 +3589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fish Seeds | ![fish_seeds](../images/thermal_fish_seeds.png) |
+| item | Fish Seeds | ![fish_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Fluix Seeds'}]
@@ -3597,7 +3597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fluix Seeds | ![fluix_seeds](../images/thermal_fluix_seeds.png) |
+| item | Fluix Seeds | ![fluix_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Fluorite Seeds'}]
@@ -3605,7 +3605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fluorite Seeds | ![fluorite_seeds](../images/thermal_fluorite_seeds.png) |
+| item | Fluorite Seeds | ![fluorite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Ghast Seeds'}]
@@ -3613,7 +3613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ghast Seeds | ![ghast_seeds](../images/thermal_ghast_seeds.png) |
+| item | Ghast Seeds | ![ghast_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Glowstone Seeds'}]
@@ -3621,7 +3621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glowstone Seeds | ![glowstone_seeds](../images/thermal_glowstone_seeds.png) |
+| item | Glowstone Seeds | ![glowstone_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Gold Seeds'}]
@@ -3629,7 +3629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gold Seeds | ![gold_seeds](../images/thermal_gold_seeds.png) |
+| item | Gold Seeds | ![gold_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Graphite Seeds'}]
@@ -3637,7 +3637,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Graphite Seeds | ![graphite_seeds](../images/thermal_graphite_seeds.png) |
+| item | Graphite Seeds | ![graphite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Hepatizon Seeds'}]
@@ -3645,7 +3645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Hepatizon Seeds | ![hepatizon_seeds](../images/thermal_hepatizon_seeds.png) |
+| item | Hepatizon Seeds | ![hepatizon_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Honey Seeds'}]
@@ -3653,7 +3653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Honey Seeds | ![honey_seeds](../images/thermal_honey_seeds.png) |
+| item | Honey Seeds | ![honey_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Hop Graphite Seeds'}]
@@ -3661,7 +3661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Hop Graphite Seeds | ![hop_graphite_seeds](../images/thermal_hop_graphite_seeds.png) |
+| item | Hop Graphite Seeds | ![hop_graphite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Ice Seeds'}]
@@ -3669,7 +3669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ice Seeds | ![ice_seeds](../images/thermal_ice_seeds.png) |
+| item | Ice Seeds | ![ice_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Inferium Seeds'}]
@@ -3677,7 +3677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Inferium Seeds | ![inferium_seeds](../images/thermal_inferium_seeds.png) |
+| item | Inferium Seeds | ![inferium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Invar Seeds'}]
@@ -3685,7 +3685,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Invar Seeds | ![invar_seeds](../images/thermal_invar_seeds.png) |
+| item | Invar Seeds | ![invar_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Iridium Seeds'}]
@@ -3693,7 +3693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iridium Seeds | ![iridium_seeds](../images/thermal_iridium_seeds.png) |
+| item | Iridium Seeds | ![iridium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Ironwood Seeds'}]
@@ -3701,7 +3701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ironwood Seeds | ![ironwood_seeds](../images/thermal_ironwood_seeds.png) |
+| item | Ironwood Seeds | ![ironwood_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Iron Seeds'}]
@@ -3709,7 +3709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Seeds | ![iron_seeds](../images/thermal_iron_seeds.png) |
+| item | Iron Seeds | ![iron_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Knightmetal Seeds'}]
@@ -3717,7 +3717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Knightmetal Seeds | ![knightmetal_seeds](../images/thermal_knightmetal_seeds.png) |
+| item | Knightmetal Seeds | ![knightmetal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Lapis Lazuli Seeds'}]
@@ -3725,7 +3725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lapis Lazuli Seeds | ![lapis_lazuli_seeds](../images/thermal_lapis_lazuli_seeds.png) |
+| item | Lapis Lazuli Seeds | ![lapis_lazuli_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Lead Seeds'}]
@@ -3733,7 +3733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lead Seeds | ![lead_seeds](../images/thermal_lead_seeds.png) |
+| item | Lead Seeds | ![lead_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Limestone Seeds'}]
@@ -3741,7 +3741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Limestone Seeds | ![limestone_seeds](../images/thermal_limestone_seeds.png) |
+| item | Limestone Seeds | ![limestone_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Lumium Seeds'}]
@@ -3749,7 +3749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lumium Seeds | ![lumium_seeds](../images/thermal_lumium_seeds.png) |
+| item | Lumium Seeds | ![lumium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Manasteel Seeds'}]
@@ -3757,7 +3757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Manasteel Seeds | ![manasteel_seeds](../images/thermal_manasteel_seeds.png) |
+| item | Manasteel Seeds | ![manasteel_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Manyullyn Seeds'}]
@@ -3765,7 +3765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Manyullyn Seeds | ![manyullyn_seeds](../images/thermal_manyullyn_seeds.png) |
+| item | Manyullyn Seeds | ![manyullyn_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Marble Seeds'}]
@@ -3773,7 +3773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Marble Seeds | ![marble_seeds](../images/thermal_marble_seeds.png) |
+| item | Marble Seeds | ![marble_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Menril Seeds'}]
@@ -3781,7 +3781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Menril Seeds | ![menril_seeds](../images/thermal_menril_seeds.png) |
+| item | Menril Seeds | ![menril_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Mithril Seeds'}]
@@ -3789,7 +3789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mithril Seeds | ![mithril_seeds](../images/thermal_mithril_seeds.png) |
+| item | Mithril Seeds | ![mithril_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Mystical Flower Seeds'}]
@@ -3797,7 +3797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mystical Flower Seeds | ![mystical_flower_seeds](../images/thermal_mystical_flower_seeds.png) |
+| item | Mystical Flower Seeds | ![mystical_flower_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Nature Seeds'}]
@@ -3805,7 +3805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nature Seeds | ![nature_seeds](../images/thermal_nature_seeds.png) |
+| item | Nature Seeds | ![nature_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Netherite Seeds'}]
@@ -3813,7 +3813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherite Seeds | ![netherite_seeds](../images/thermal_netherite_seeds.png) |
+| item | Netherite Seeds | ![netherite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Nether Quartz Seeds'}]
@@ -3821,7 +3821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Quartz Seeds | ![nether_quartz_seeds](../images/thermal_nether_quartz_seeds.png) |
+| item | Nether Quartz Seeds | ![nether_quartz_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Nether Seeds'}]
@@ -3829,7 +3829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Seeds | ![nether_seeds](../images/thermal_nether_seeds.png) |
+| item | Nether Seeds | ![nether_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Nickel Seeds'}]
@@ -3837,7 +3837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nickel Seeds | ![nickel_seeds](../images/thermal_nickel_seeds.png) |
+| item | Nickel Seeds | ![nickel_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Niotic Crystal Seeds'}]
@@ -3845,7 +3845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Niotic Crystal Seeds | ![niotic_crystal_seeds](../images/thermal_niotic_crystal_seeds.png) |
+| item | Niotic Crystal Seeds | ![niotic_crystal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Obsidian Seeds'}]
@@ -3853,7 +3853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian Seeds | ![obsidian_seeds](../images/thermal_obsidian_seeds.png) |
+| item | Obsidian Seeds | ![obsidian_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Osmium Seeds'}]
@@ -3861,7 +3861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Osmium Seeds | ![osmium_seeds](../images/thermal_osmium_seeds.png) |
+| item | Osmium Seeds | ![osmium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Pig Iron Seeds'}]
@@ -3869,7 +3869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pig Iron Seeds | ![pig_iron_seeds](../images/thermal_pig_iron_seeds.png) |
+| item | Pig Iron Seeds | ![pig_iron_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Pig Seeds'}]
@@ -3877,7 +3877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pig Seeds | ![pig_seeds](../images/thermal_pig_seeds.png) |
+| item | Pig Seeds | ![pig_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Platinum Seeds'}]
@@ -3885,7 +3885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Platinum Seeds | ![platinum_seeds](../images/thermal_platinum_seeds.png) |
+| item | Platinum Seeds | ![platinum_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Prismarine Seeds'}]
@@ -3893,7 +3893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Seeds | ![prismarine_seeds](../images/thermal_prismarine_seeds.png) |
+| item | Prismarine Seeds | ![prismarine_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Quartz Enriched Iron Seeds'}]
@@ -3901,7 +3901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Enriched Iron Seeds | ![quartz_enriched_iron_seeds](../images/thermal_quartz_enriched_iron_seeds.png) |
+| item | Quartz Enriched Iron Seeds | ![quartz_enriched_iron_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Queens Slime Seeds'}]
@@ -3909,7 +3909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Queens Slime Seeds | ![queens_slime_seeds](../images/thermal_queens_slime_seeds.png) |
+| item | Queens Slime Seeds | ![queens_slime_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Rabbit Seeds'}]
@@ -3917,7 +3917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rabbit Seeds | ![rabbit_seeds](../images/thermal_rabbit_seeds.png) |
+| item | Rabbit Seeds | ![rabbit_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Redstone Seeds'}]
@@ -3925,7 +3925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Redstone Seeds | ![redstone_seeds](../images/thermal_redstone_seeds.png) |
+| item | Redstone Seeds | ![redstone_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Refined Glowstone Seeds'}]
@@ -3933,7 +3933,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Refined Glowstone Seeds | ![refined_glowstone_seeds](../images/thermal_refined_glowstone_seeds.png) |
+| item | Refined Glowstone Seeds | ![refined_glowstone_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Refined Obsidian Seeds'}]
@@ -3941,7 +3941,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Refined Obsidian Seeds | ![refined_obsidian_seeds](../images/thermal_refined_obsidian_seeds.png) |
+| item | Refined Obsidian Seeds | ![refined_obsidian_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Rock Crystal Seeds'}]
@@ -3949,7 +3949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rock Crystal Seeds | ![rock_crystal_seeds](../images/thermal_rock_crystal_seeds.png) |
+| item | Rock Crystal Seeds | ![rock_crystal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Rose Gold Seeds'}]
@@ -3957,7 +3957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rose Gold Seeds | ![rose_gold_seeds](../images/thermal_rose_gold_seeds.png) |
+| item | Rose Gold Seeds | ![rose_gold_seeds](../images/thermal_rose_gold_block.png) |
 
 ---
 ## Rubber Seeds'}]
@@ -3965,7 +3965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rubber Seeds | ![rubber_seeds](../images/thermal_rubber_seeds.png) |
+| item | Rubber Seeds | ![rubber_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Ruby Seeds'}]
@@ -3973,7 +3973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ruby Seeds | ![ruby_seeds](../images/thermal_ruby_seeds.png) |
+| item | Ruby Seeds | ![ruby_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Saltpeter Seeds'}]
@@ -3981,7 +3981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saltpeter Seeds | ![saltpeter_seeds](../images/thermal_saltpeter_seeds.png) |
+| item | Saltpeter Seeds | ![saltpeter_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Sapphire Seeds'}]
@@ -3989,7 +3989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sapphire Seeds | ![sapphire_seeds](../images/thermal_sapphire_seeds.png) |
+| item | Sapphire Seeds | ![sapphire_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Sheep Seeds'}]
@@ -3997,7 +3997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sheep Seeds | ![sheep_seeds](../images/thermal_sheep_seeds.png) |
+| item | Sheep Seeds | ![sheep_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Signalum Seeds'}]
@@ -4005,7 +4005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Signalum Seeds | ![signalum_seeds](../images/thermal_signalum_seeds.png) |
+| item | Signalum Seeds | ![signalum_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Silicon Seeds'}]
@@ -4013,7 +4013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silicon Seeds | ![silicon_seeds](../images/thermal_silicon_seeds.png) |
+| item | Silicon Seeds | ![silicon_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Silver Seeds'}]
@@ -4021,7 +4021,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silver Seeds | ![silver_seeds](../images/thermal_silver_seeds.png) |
+| item | Silver Seeds | ![silver_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Skeleton Seeds'}]
@@ -4029,7 +4029,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Skeleton Seeds | ![skeleton_seeds](../images/thermal_skeleton_seeds.png) |
+| item | Skeleton Seeds | ![skeleton_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Sky Stone Seeds'}]
@@ -4037,7 +4037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Stone Seeds | ![sky_stone_seeds](../images/thermal_sky_stone_seeds.png) |
+| item | Sky Stone Seeds | ![sky_stone_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Slimesteel Seeds'}]
@@ -4045,7 +4045,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Slimesteel Seeds | ![slimesteel_seeds](../images/thermal_slimesteel_seeds.png) |
+| item | Slimesteel Seeds | ![slimesteel_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Slime Seeds'}]
@@ -4053,7 +4053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Slime Seeds | ![slime_seeds](../images/thermal_slime_seeds.png) |
+| item | Slime Seeds | ![slime_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Spider Seeds'}]
@@ -4061,7 +4061,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spider Seeds | ![spider_seeds](../images/thermal_spider_seeds.png) |
+| item | Spider Seeds | ![spider_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Spirited Crystal Seeds'}]
@@ -4069,7 +4069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spirited Crystal Seeds | ![spirited_crystal_seeds](../images/thermal_spirited_crystal_seeds.png) |
+| item | Spirited Crystal Seeds | ![spirited_crystal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Squid Seeds'}]
@@ -4077,7 +4077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Squid Seeds | ![squid_seeds](../images/thermal_squid_seeds.png) |
+| item | Squid Seeds | ![squid_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Starmetal Seeds'}]
@@ -4085,7 +4085,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Starmetal Seeds | ![starmetal_seeds](../images/thermal_starmetal_seeds.png) |
+| item | Starmetal Seeds | ![starmetal_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Steeleaf Seeds'}]
@@ -4093,7 +4093,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Steeleaf Seeds | ![steeleaf_seeds](../images/thermal_steeleaf_seeds.png) |
+| item | Steeleaf Seeds | ![steeleaf_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Steel Seeds'}]
@@ -4101,7 +4101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Steel Seeds | ![steel_seeds](../images/thermal_steel_seeds.png) |
+| item | Steel Seeds | ![steel_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Stone Seeds'}]
@@ -4109,7 +4109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Seeds | ![stone_seeds](../images/thermal_stone_seeds.png) |
+| item | Stone Seeds | ![stone_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Sulfur Seeds'}]
@@ -4117,7 +4117,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sulfur Seeds | ![sulfur_seeds](../images/thermal_sulfur_seeds.png) |
+| item | Sulfur Seeds | ![sulfur_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Terrasteel Seeds'}]
@@ -4125,7 +4125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Terrasteel Seeds | ![terrasteel_seeds](../images/thermal_terrasteel_seeds.png) |
+| item | Terrasteel Seeds | ![terrasteel_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Tinkers Bronze Seeds'}]
@@ -4133,7 +4133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tinkers Bronze Seeds | ![tinkers_bronze_seeds](../images/thermal_tinkers_bronze_seeds.png) |
+| item | Tinkers Bronze Seeds | ![tinkers_bronze_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Tin Seeds'}]
@@ -4141,7 +4141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tin Seeds | ![tin_seeds](../images/thermal_tin_seeds.png) |
+| item | Tin Seeds | ![tin_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Titanium Seeds'}]
@@ -4149,7 +4149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Titanium Seeds | ![titanium_seeds](../images/thermal_titanium_seeds.png) |
+| item | Titanium Seeds | ![titanium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Tungsten Seeds'}]
@@ -4157,7 +4157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tungsten Seeds | ![tungsten_seeds](../images/thermal_tungsten_seeds.png) |
+| item | Tungsten Seeds | ![tungsten_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Turtle Seeds'}]
@@ -4165,7 +4165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Turtle Seeds | ![turtle_seeds](../images/thermal_turtle_seeds.png) |
+| item | Turtle Seeds | ![turtle_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Uraninite Seeds'}]
@@ -4173,7 +4173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Uraninite Seeds | ![uraninite_seeds](../images/thermal_uraninite_seeds.png) |
+| item | Uraninite Seeds | ![uraninite_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Uranium Seeds'}]
@@ -4181,7 +4181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Uranium Seeds | ![uranium_seeds](../images/thermal_uranium_seeds.png) |
+| item | Uranium Seeds | ![uranium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Water Seeds'}]
@@ -4189,7 +4189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Water Seeds | ![water_seeds](../images/thermal_water_seeds.png) |
+| item | Water Seeds | ![water_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Wither Skeleton Seeds'}]
@@ -4197,7 +4197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wither Skeleton Seeds | ![wither_skeleton_seeds](../images/thermal_wither_skeleton_seeds.png) |
+| item | Wither Skeleton Seeds | ![wither_skeleton_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Wood Seeds'}]
@@ -4205,7 +4205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wood Seeds | ![wood_seeds](../images/thermal_wood_seeds.png) |
+| item | Wood Seeds | ![wood_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Yellorium Seeds'}]
@@ -4213,7 +4213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellorium Seeds | ![yellorium_seeds](../images/thermal_yellorium_seeds.png) |
+| item | Yellorium Seeds | ![yellorium_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Zinc Seeds'}]
@@ -4221,7 +4221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Zinc Seeds | ![zinc_seeds](../images/thermal_zinc_seeds.png) |
+| item | Zinc Seeds | ![zinc_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ## Zombie Seeds'}]
@@ -4229,7 +4229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Zombie Seeds | ![zombie_seeds](../images/thermal_zombie_seeds.png) |
+| item | Zombie Seeds | ![zombie_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ##  2.0}]
@@ -4237,7 +4237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Wart | ![nether_wart](../images/thermal_nether_wart.png) |
+| item | Nether Wart | ![nether_wart](../images/thermal_amaranth.png) |
 
 ---
 ##  0.5}]
@@ -4245,7 +4245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oak Sapling | ![oak_sapling](../images/thermal_oak_sapling.png) |
+| item | Oak Sapling | ![oak_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4261,7 +4261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Tulip | ![orange_tulip](../images/thermal_orange_tulip.png) |
+| item | Orange Tulip | ![orange_tulip](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4269,7 +4269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oxeye Daisy | ![oxeye_daisy](../images/thermal_oxeye_daisy.png) |
+| item | Oxeye Daisy | ![oxeye_daisy](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -4285,7 +4285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peony | ![peony](../images/thermal_peony.png) |
+| item | Peony | ![peony](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4293,7 +4293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Tulip | ![pink_tulip](../images/thermal_pink_tulip.png) |
+| item | Pink Tulip | ![pink_tulip](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4301,7 +4301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Poppy | ![poppy](../images/thermal_poppy.png) |
+| item | Poppy | ![poppy](../images/thermal_amaranth.png) |
 
 ---
 ##  0.05}]
@@ -4309,7 +4309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Potato | ![potato](../images/thermal_potato.png) |
+| item | Potato | ![potato](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -4317,7 +4317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pumpkin Seeds | ![pumpkin_seeds](../images/thermal_pumpkin_seeds.png) |
+| item | Pumpkin Seeds | ![pumpkin_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ##  1.25}]
@@ -4325,7 +4325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Azalea | ![azalea](../images/thermal_azalea.png) |
+| item | Azalea | ![azalea](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -4333,7 +4333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Blossom Sapling | ![blue_blossom_sapling](../images/thermal_blue_blossom_sapling.png) |
+| item | Blue Blossom Sapling | ![blue_blossom_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.25}]
@@ -4341,7 +4341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flowering Azalea | ![flowering_azalea](../images/thermal_flowering_azalea.png) |
+| item | Flowering Azalea | ![flowering_azalea](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -4349,7 +4349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lavender Blossom Sapling | ![lavender_blossom_sapling](../images/thermal_lavender_blossom_sapling.png) |
+| item | Lavender Blossom Sapling | ![lavender_blossom_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4357,7 +4357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Orange Blossom Sapling | ![orange_blossom_sapling](../images/thermal_orange_blossom_sapling.png) |
+| item | Orange Blossom Sapling | ![orange_blossom_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4365,7 +4365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pink Blossom Sapling | ![pink_blossom_sapling](../images/thermal_pink_blossom_sapling.png) |
+| item | Pink Blossom Sapling | ![pink_blossom_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4373,7 +4373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Blossom Sapling | ![red_blossom_sapling](../images/thermal_red_blossom_sapling.png) |
+| item | Red Blossom Sapling | ![red_blossom_sapling](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  1.1}]
@@ -4381,7 +4381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Yellow Blossom Sapling | ![yellow_blossom_sapling](../images/thermal_yellow_blossom_sapling.png) |
+| item | Yellow Blossom Sapling | ![yellow_blossom_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4405,7 +4405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Mushroom | ![red_mushroom](../images/thermal_red_mushroom.png) |
+| item | Red Mushroom | ![red_mushroom](../images/thermal_cooked_mushroom.png) |
 
 ---
 ##  2.0}]
@@ -4413,7 +4413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Tulip | ![red_tulip](../images/thermal_red_tulip.png) |
+| item | Red Tulip | ![red_tulip](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  1.1}]
@@ -4429,7 +4429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rose Bush | ![rose_bush](../images/thermal_rose_bush.png) |
+| item | Rose Bush | ![rose_bush](../images/thermal_rose_gold_block.png) |
 
 ---
 ##  1.1}]
@@ -4445,7 +4445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sea Pickle | ![sea_pickle](../images/thermal_sea_pickle.png) |
+| item | Sea Pickle | ![sea_pickle](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4469,7 +4469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spruce Sapling | ![spruce_sapling](../images/thermal_spruce_sapling.png) |
+| item | Spruce Sapling | ![spruce_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4485,7 +4485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sugar Cane | ![sugar_cane](../images/thermal_sugar_cane.png) |
+| item | Sugar Cane | ![sugar_cane](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4493,7 +4493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunflower | ![sunflower](../images/thermal_sunflower.png) |
+| item | Sunflower | ![sunflower](../images/thermal_amaranth.png) |
 
 ---
 ##  2.5}]
@@ -4501,7 +4501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sweet Berries | ![sweet_berries](../images/thermal_sweet_berries.png) |
+| item | Sweet Berries | ![sweet_berries](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -4509,7 +4509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blood Slime Sapling | ![blood_slime_sapling](../images/thermal_blood_slime_sapling.png) |
+| item | Blood Slime Sapling | ![blood_slime_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4517,7 +4517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Earth Slime Sapling | ![earth_slime_sapling](../images/thermal_earth_slime_sapling.png) |
+| item | Earth Slime Sapling | ![earth_slime_sapling](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ##  1.1}]
@@ -4525,7 +4525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ender Slime Sapling | ![ender_slime_sapling](../images/thermal_ender_slime_sapling.png) |
+| item | Ender Slime Sapling | ![ender_slime_sapling](../images/thermal_ender_tnt_minecart.png) |
 
 ---
 ##  1.1}]
@@ -4533,7 +4533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime Sapling | ![sky_slime_sapling](../images/thermal_sky_slime_sapling.png) |
+| item | Sky Slime Sapling | ![sky_slime_sapling](../images/thermal_rubberwood_sapling.png) |
 
 ---
 ##  1.1}]
@@ -4549,7 +4549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coral | ![tube_coral](../images/thermal_tube_coral.png) |
+| item | Tube Coral | ![tube_coral](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4557,7 +4557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coral Fan | ![tube_coral_fan](../images/thermal_tube_coral_fan.png) |
+| item | Tube Coral Fan | ![tube_coral_fan](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4565,7 +4565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Twisting Vines | ![twisting_vines](../images/thermal_twisting_vines.png) |
+| item | Twisting Vines | ![twisting_vines](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4573,7 +4573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Vine | ![vine](../images/thermal_vine.png) |
+| item | Vine | ![vine](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4581,7 +4581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Weeping Vines | ![weeping_vines](../images/thermal_weeping_vines.png) |
+| item | Weeping Vines | ![weeping_vines](../images/thermal_amaranth.png) |
 
 ---
 ##  1.1}]
@@ -4589,7 +4589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wheat Seeds | ![wheat_seeds](../images/thermal_wheat_seeds.png) |
+| item | Wheat Seeds | ![wheat_seeds](../images/thermal_amaranth_seeds.png) |
 
 ---
 ##  2.0}]
@@ -4597,7 +4597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | White Tulip | ![white_tulip](../images/thermal_white_tulip.png) |
+| item | White Tulip | ![white_tulip](../images/thermal_amaranth.png) |
 
 ---
 ##  2.0}]
@@ -4605,7 +4605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wither Rose | ![wither_rose](../images/thermal_wither_rose.png) |
+| item | Wither Rose | ![wither_rose](../images/thermal_rose_gold_block.png) |
 
 ---
 ## Invar Block
@@ -4644,7 +4644,7 @@
 | - | Ingots/Iron'}] | ![ingots/iron'}]](../images/thermal_ingots/iron'}].png) |
 | - | Ingots/Iron'}] | ![ingots/iron'}]](../images/thermal_ingots/iron'}].png) |
 | - | Ingots/Nickel'}] | ![ingots/nickel'}]](../images/thermal_ingots/nickel'}].png) |
-| - | Fire Charge | ![fire_charge](../images/thermal_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/thermal_fire_tnt_minecart.png) |
 
 ---
 ## Invar Ingot
@@ -4695,7 +4695,7 @@
 | :--- | :--- | :--- |
 | C | Ingots/Signalum | ![ingots/signalum](../images/thermal_ingots/signalum.png) |
 | I | Ingots/Tin | ![ingots/tin](../images/thermal_ingots/tin.png) |
-| P | Planks | ![planks](../images/thermal_planks.png) |
+| P | Planks | ![planks](../images/thermal_rubberwood_planks.png) |
 | Q | Gems/Quartz | ![gems/quartz](../images/thermal_gems/quartz.png) |
 
 ---
@@ -4704,8 +4704,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/thermal_glass.png) |
-| P | Planks | ![planks](../images/thermal_planks.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
+| P | Planks | ![planks](../images/thermal_rubberwood_planks.png) |
 
 ---
 ## Jelly
@@ -4834,8 +4834,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Lightning Tnt | ![lightning_tnt](../images/thermal_lightning_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Lightning Tnt | ![lightning_tnt](../images/thermal_lightning_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## Lumium Activator Rail
@@ -4844,7 +4844,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| X | Activator Rail | ![activator_rail](../images/thermal_activator_rail.png) |
+| X | Activator Rail | ![activator_rail](../images/thermal_lumium_activator_rail.png) |
 
 ---
 ## Lumium Crossover Rail
@@ -4852,7 +4852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Stick | ![stick](../images/thermal_stick.png) |
+| I | Stick | ![stick](../images/thermal_amaranth.png) |
 | X | Lumium Rail | ![lumium_rail](../images/thermal_lumium_rail.png) |
 
 ---
@@ -4862,7 +4862,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| X | Detector Rail | ![detector_rail](../images/thermal_detector_rail.png) |
+| X | Detector Rail | ![detector_rail](../images/thermal_lumium_detector_rail.png) |
 
 ---
 ## Lumium Powered Rail
@@ -4871,7 +4871,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| X | Powered Rail | ![powered_rail](../images/thermal_powered_rail.png) |
+| X | Powered Rail | ![powered_rail](../images/thermal_lumium_powered_rail.png) |
 
 ---
 ## Lumium Rail
@@ -4880,7 +4880,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| X | Rail | ![rail](../images/thermal_rail.png) |
+| X | Rail | ![rail](../images/thermal_crossover_rail.png) |
 
 ---
 ## Machine Bottler
@@ -4888,11 +4888,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Copper | ![gears/copper](../images/thermal_gears/copper.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Bucket | ![bucket](../images/thermal_bucket.png) |
-| Y | Glass | ![glass](../images/thermal_glass.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Bucket | ![bucket](../images/thermal_amaranth.png) |
+| Y | Glass | ![glass](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Brewer
@@ -4900,11 +4900,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Constantan | ![gears/constantan](../images/thermal_gears/constantan.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Brewing Stand | ![brewing_stand](../images/thermal_brewing_stand.png) |
-| Y | Glass | ![glass](../images/thermal_glass.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Brewing Stand | ![brewing_stand](../images/thermal_amaranth.png) |
+| Y | Glass | ![glass](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Centrifuge
@@ -4912,10 +4912,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Constantan | ![gears/constantan](../images/thermal_gears/constantan.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Compass | ![compass](../images/thermal_compass.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Compass | ![compass](../images/thermal_amaranth.png) |
 | Y | Ingots/Tin | ![ingots/tin](../images/thermal_ingots/tin.png) |
 
 ---
@@ -4924,11 +4924,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Invar | ![gears/invar](../images/thermal_gears/invar.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Glass | ![glass](../images/thermal_glass.png) |
-| Y | Packed Ice | ![packed_ice](../images/thermal_packed_ice.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Glass | ![glass](../images/thermal_amaranth.png) |
+| Y | Packed Ice | ![packed_ice](../images/thermal_ice_tnt_minecart.png) |
 
 ---
 ## Machine Crafter
@@ -4936,10 +4936,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Copper | ![gears/copper](../images/thermal_gears/copper.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Crafting Table | ![crafting_table](../images/thermal_crafting_table.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Crafting Table | ![crafting_table](../images/thermal_amaranth.png) |
 | Y | Ingots/Tin | ![ingots/tin](../images/thermal_ingots/tin.png) |
 
 ---
@@ -4948,11 +4948,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Invar | ![gears/invar](../images/thermal_gears/invar.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Glass | ![glass](../images/thermal_glass.png) |
-| Y | Nether Bricks | ![nether_bricks](../images/thermal_nether_bricks.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Glass | ![glass](../images/thermal_amaranth.png) |
+| Y | Nether Bricks | ![nether_bricks](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Crystallizer
@@ -4960,9 +4960,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Constantan | ![gears/constantan](../images/thermal_gears/constantan.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | X | Glass/Hardened | ![glass/hardened](../images/thermal_glass/hardened.png) |
 | Y | Plates/Signalum | ![plates/signalum](../images/thermal_plates/signalum.png) |
 
@@ -4972,11 +4972,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Copper | ![gears/copper](../images/thermal_gears/copper.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
-| Y | Bricks | ![bricks](../images/thermal_bricks.png) |
+| Y | Bricks | ![bricks](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Insolator
@@ -4984,11 +4984,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Lumium | ![gears/lumium](../images/thermal_gears/lumium.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Dirt | ![dirt](../images/thermal_dirt.png) |
-| Y | Glass | ![glass](../images/thermal_glass.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Dirt | ![dirt](../images/thermal_amaranth.png) |
+| Y | Glass | ![glass](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Press
@@ -4996,9 +4996,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Constantan | ![gears/constantan](../images/thermal_gears/constantan.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
 | X | Storage Blocks/Iron | ![storage_blocks/iron](../images/thermal_storage_blocks/iron.png) |
 | Y | Ingots/Bronze | ![ingots/bronze](../images/thermal_ingots/bronze.png) |
 
@@ -5008,11 +5008,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Copper | ![gears/copper](../images/thermal_gears/copper.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Piston | ![piston](../images/thermal_piston.png) |
-| Y | Flint | ![flint](../images/thermal_flint.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Piston | ![piston](../images/thermal_amaranth.png) |
+| Y | Flint | ![flint](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Pyrolyzer
@@ -5020,11 +5020,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Constantan | ![gears/constantan](../images/thermal_gears/constantan.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Blaze Rod | ![blaze_rod](../images/thermal_blaze_rod.png) |
-| Y | Nether Bricks | ![nether_bricks](../images/thermal_nether_bricks.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Blaze Rod | ![blaze_rod](../images/thermal_amaranth.png) |
+| Y | Nether Bricks | ![nether_bricks](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Refinery
@@ -5032,10 +5032,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Invar | ![gears/invar](../images/thermal_gears/invar.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Glass | ![glass](../images/thermal_glass.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Glass | ![glass](../images/thermal_amaranth.png) |
 | Y | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
 
 ---
@@ -5044,11 +5044,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Copper | ![gears/copper](../images/thermal_gears/copper.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Saw Blade | ![saw_blade](../images/thermal_saw_blade.png) |
-| Y | Stone | ![stone](../images/thermal_stone.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Saw Blade | ![saw_blade](../images/thermal_flux_saw.png) |
+| Y | Stone | ![stone](../images/thermal_amaranth.png) |
 
 ---
 ## Machine Smelter
@@ -5056,11 +5056,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Machine Frame | ![machine_frame](../images/thermal_machine_frame.png) |
+| C | Machine Frame | ![machine_frame](../images/thermal_amaranth.png) |
 | I | Gears/Invar | ![gears/invar](../images/thermal_gears/invar.png) |
-| P | Rf Coil | ![rf_coil](../images/thermal_rf_coil.png) |
-| X | Blast Furnace | ![blast_furnace](../images/thermal_blast_furnace.png) |
-| Y | Sand | ![sand](../images/thermal_sand.png) |
+| P | Rf Coil | ![rf_coil](../images/thermal_amaranth.png) |
+| X | Blast Furnace | ![blast_furnace](../images/thermal_amaranth.png) |
+| Y | Sand | ![sand](../images/thermal_oil_red_sand.png) |
 
 ---
 ## {}
@@ -5068,8 +5068,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Blazing Blood | ![blazing_blood](../images/thermal_blazing_blood.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Blazing Blood | ![blazing_blood](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## Nickel Block
@@ -5200,8 +5200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Nuke Tnt | ![nuke_tnt](../images/thermal_nuke_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Nuke Tnt | ![nuke_tnt](../images/thermal_nuke_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## {}
@@ -5298,7 +5298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Onion Block | ![onion_block](../images/thermal_onion_block.png) |
+| - | Onion Block | ![onion_block](../images/thermal_onion_block_bottom.png) |
 
 ---
 ## Pbj Sandwich
@@ -5306,7 +5306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/thermal_bread.png) |
+| - | Bread | ![bread](../images/thermal_amaranth.png) |
 | - | Peanut Butter | ![peanut_butter](../images/thermal_peanut_butter.png) |
 | - | Jelly | ![jelly](../images/thermal_jelly.png) |
 
@@ -5339,7 +5339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peanut Block | ![peanut_block](../images/thermal_peanut_block.png) |
+| - | Peanut Block | ![peanut_block](../images/thermal_peanut_block_bottom.png) |
 
 ---
 ## Phytosoil
@@ -5347,9 +5347,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Charcoal | ![charcoal](../images/thermal_charcoal.png) |
-| P | Phytogro | ![phytogro](../images/thermal_phytogro.png) |
-| X | Dirt | ![dirt](../images/thermal_dirt.png) |
+| C | Charcoal | ![charcoal](../images/thermal_amaranth.png) |
+| P | Phytogro | ![phytogro](../images/thermal_amaranth.png) |
+| X | Dirt | ![dirt](../images/thermal_amaranth.png) |
 
 ---
 ## Phyto Tnt Minecart
@@ -5357,8 +5357,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Phyto Tnt | ![phyto_tnt](../images/thermal_phyto_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Phyto Tnt | ![phyto_tnt](../images/thermal_phyto_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## Potion Cake
@@ -5366,11 +5366,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk Bucket | ![milk_bucket](../images/thermal_milk_bucket.png) |
-| B | Sugar | ![sugar](../images/thermal_sugar.png) |
+| A | Milk Bucket | ![milk_bucket](../images/thermal_amaranth.png) |
+| B | Sugar | ![sugar](../images/thermal_amaranth.png) |
 | C | Crops/Amaranth | ![crops/amaranth](../images/thermal_crops/amaranth.png) |
-| D | Potion | ![potion](../images/thermal_potion.png) |
-| E | Egg | ![egg](../images/thermal_egg.png) |
+| D | Potion | ![potion](../images/thermal_potion_cake.png) |
+| E | Egg | ![egg](../images/thermal_amaranth.png) |
 
 ---
 ## Potion Infuser
@@ -5378,10 +5378,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
+| B | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
 | G | Gears/Silver | ![gears/silver](../images/thermal_gears/silver.png) |
-| R | Cured Rubber | ![cured_rubber](../images/thermal_cured_rubber.png) |
+| R | Cured Rubber | ![cured_rubber](../images/thermal_amaranth.png) |
 
 ---
 ## Potion Quiver
@@ -5389,11 +5389,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Glass Bottle | ![glass_bottle](../images/thermal_glass_bottle.png) |
+| B | Glass Bottle | ![glass_bottle](../images/thermal_amaranth.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
 | G | Gears/Silver | ![gears/silver](../images/thermal_gears/silver.png) |
-| R | Cured Rubber | ![cured_rubber](../images/thermal_cured_rubber.png) |
-| S | String | ![string](../images/thermal_string.png) |
+| R | Cured Rubber | ![cured_rubber](../images/thermal_amaranth.png) |
+| S | String | ![string](../images/thermal_amaranth.png) |
 
 ---
 ## Amaranth Block'}]
@@ -5402,7 +5402,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Amaranth | ![amaranth](../images/thermal_amaranth.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5410,8 +5410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amaranth Block | ![amaranth_block](../images/thermal_amaranth_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Amaranth Block | ![amaranth_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Amethyst Block'}]
@@ -5419,8 +5419,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Shard | ![amethyst_shard](../images/thermal_amethyst_shard.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Amethyst Shard | ![amethyst_shard](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -5428,8 +5428,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Block | ![amethyst_block](../images/thermal_amethyst_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Amethyst Block | ![amethyst_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Apatite Block'}]
@@ -5438,7 +5438,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Apatite | ![gems/apatite](../images/thermal_gems/apatite.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5446,8 +5446,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apatite Block | ![apatite_block](../images/thermal_apatite_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Apatite Block | ![apatite_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Apple Block'}]
@@ -5455,8 +5455,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/thermal_apple.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Apple | ![apple](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5464,8 +5464,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple Block | ![apple_block](../images/thermal_apple_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Apple Block | ![apple_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bamboo Block'}]
@@ -5473,8 +5473,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bamboo | ![bamboo](../images/thermal_bamboo.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Bamboo | ![bamboo](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5482,8 +5482,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bamboo Block | ![bamboo_block](../images/thermal_bamboo_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Bamboo Block | ![bamboo_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Barley Block'}]
@@ -5492,7 +5492,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Barley | ![barley](../images/thermal_barley.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5500,8 +5500,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barley Block | ![barley_block](../images/thermal_barley_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Barley Block | ![barley_block](../images/thermal_barley_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Beetroot Block'}]
@@ -5509,8 +5509,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beetroot | ![beetroot](../images/thermal_beetroot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Beetroot | ![beetroot](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5518,8 +5518,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beetroot Block | ![beetroot_block](../images/thermal_beetroot_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Beetroot Block | ![beetroot_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bell Pepper Block'}]
@@ -5528,7 +5528,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bell Pepper | ![bell_pepper](../images/thermal_bell_pepper.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5536,8 +5536,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bell Pepper Block | ![bell_pepper_block](../images/thermal_bell_pepper_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Bell Pepper Block | ![bell_pepper_block](../images/thermal_bell_pepper_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bitumen Block'}]
@@ -5545,8 +5545,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bitumen | ![bitumen](../images/thermal_bitumen.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Bitumen | ![bitumen](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5554,8 +5554,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bitumen Block | ![bitumen_block](../images/thermal_bitumen_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Bitumen Block | ![bitumen_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Blue Ice'}]
@@ -5563,8 +5563,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Packed Ice | ![packed_ice](../images/thermal_packed_ice.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Packed Ice | ![packed_ice](../images/thermal_ice_tnt_minecart.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5572,8 +5572,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Ice | ![blue_ice](../images/thermal_blue_ice.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Blue Ice | ![blue_ice](../images/thermal_ice_tnt_minecart.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bricks'}]
@@ -5581,8 +5581,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brick | ![brick](../images/thermal_brick.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Brick | ![brick](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -5590,8 +5590,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bricks | ![bricks](../images/thermal_bricks.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Bricks | ![bricks](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -5600,7 +5600,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Bronze | ![ingots/bronze](../images/thermal_ingots/bronze.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Bronze Gear'}]
@@ -5609,7 +5609,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Bronze | ![ingots/bronze](../images/thermal_ingots/bronze.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Bronze Plate'}]
@@ -5626,7 +5626,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Bronze | ![nuggets/bronze](../images/thermal_nuggets/bronze.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bronze Coin'}]
@@ -5635,7 +5635,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Bronze | ![nuggets/bronze](../images/thermal_nuggets/bronze.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -5644,7 +5644,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bronze Ingot | ![bronze_ingot](../images/thermal_bronze_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bronze Block'}]
@@ -5653,7 +5653,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Bronze | ![ingots/bronze](../images/thermal_ingots/bronze.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5662,7 +5662,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bronze Block | ![bronze_block](../images/thermal_bronze_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Calorite Plate'}]
@@ -5678,8 +5678,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carrot | ![carrot](../images/thermal_carrot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Carrot | ![carrot](../images/thermal_carrot_cake.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5687,8 +5687,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carrot Block | ![carrot_block](../images/thermal_carrot_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Carrot Block | ![carrot_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Charcoal Block'}]
@@ -5696,8 +5696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charcoal | ![charcoal](../images/thermal_charcoal.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Charcoal | ![charcoal](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5705,8 +5705,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charcoal Block | ![charcoal_block](../images/thermal_charcoal_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Charcoal Block | ![charcoal_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Cinnabar Block'}]
@@ -5715,7 +5715,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Cinnabar | ![gems/cinnabar](../images/thermal_gems/cinnabar.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5723,8 +5723,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cinnabar Block | ![cinnabar_block](../images/thermal_cinnabar_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Cinnabar Block | ![cinnabar_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Clay'}]
@@ -5732,8 +5732,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay Ball | ![clay_ball](../images/thermal_clay_ball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Clay Ball | ![clay_ball](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -5741,8 +5741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay | ![clay](../images/thermal_clay.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Clay | ![clay](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Coal Coke Block'}]
@@ -5750,8 +5750,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal Coke | ![coal_coke](../images/thermal_coal_coke.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Coal Coke | ![coal_coke](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5759,8 +5759,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal Coke Block | ![coal_coke_block](../images/thermal_coal_coke_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Coal Coke Block | ![coal_coke_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Coal Block'}]
@@ -5768,8 +5768,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/thermal_coal.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Coal | ![coal](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5777,8 +5777,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal Block | ![coal_block](../images/thermal_coal_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Coal Block | ![coal_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Coffee Block'}]
@@ -5787,7 +5787,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Coffee | ![coffee](../images/thermal_coffee.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5795,8 +5795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee Block | ![coffee_block](../images/thermal_coffee_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Coffee Block | ![coffee_block](../images/thermal_coffee_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Press Coin Die
@@ -5814,7 +5814,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Constantan | ![ingots/constantan](../images/thermal_ingots/constantan.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Constantan Gear'}]
@@ -5823,7 +5823,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Constantan | ![ingots/constantan](../images/thermal_ingots/constantan.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Constantan Plate'}]
@@ -5840,7 +5840,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Constantan | ![nuggets/constantan](../images/thermal_nuggets/constantan.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Constantan Coin'}]
@@ -5849,7 +5849,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Constantan | ![nuggets/constantan](../images/thermal_nuggets/constantan.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -5858,7 +5858,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Constantan Ingot | ![constantan_ingot](../images/thermal_constantan_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Constantan Block'}]
@@ -5867,7 +5867,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Constantan | ![ingots/constantan](../images/thermal_ingots/constantan.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5876,7 +5876,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Constantan Block | ![constantan_block](../images/thermal_constantan_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -5885,7 +5885,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Copper Gear'}]
@@ -5894,7 +5894,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Copper Plate'}]
@@ -5911,7 +5911,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Copper | ![nuggets/copper](../images/thermal_nuggets/copper.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Copper Coin'}]
@@ -5920,7 +5920,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Copper | ![nuggets/copper](../images/thermal_nuggets/copper.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -5928,8 +5928,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Ingot | ![copper_ingot](../images/thermal_copper_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Copper Ingot | ![copper_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Copper Block'}]
@@ -5938,7 +5938,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5947,7 +5947,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Copper Block | ![copper_block](../images/thermal_copper_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Corn Block'}]
@@ -5956,7 +5956,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Corn | ![corn](../images/thermal_corn.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5964,8 +5964,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Corn Block | ![corn_block](../images/thermal_corn_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Corn Block | ![corn_block](../images/thermal_corn_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Brass Ingot'}]
@@ -5973,8 +5973,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brass Nugget | ![brass_nugget](../images/thermal_brass_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Brass Nugget | ![brass_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -5982,8 +5982,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brass Ingot | ![brass_ingot](../images/thermal_brass_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Brass Ingot | ![brass_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Brass Block'}]
@@ -5991,8 +5991,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brass Ingot | ![brass_ingot](../images/thermal_brass_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Brass Ingot | ![brass_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6000,8 +6000,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brass Block | ![brass_block](../images/thermal_brass_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Brass Block | ![brass_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Zinc Block'}]
@@ -6009,8 +6009,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Zinc | ![raw_zinc](../images/thermal_raw_zinc.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Raw Zinc | ![raw_zinc](../images/thermal_raw_lead.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6018,8 +6018,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Zinc Block | ![raw_zinc_block](../images/thermal_raw_zinc_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Raw Zinc Block | ![raw_zinc_block](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Zinc Ingot'}]
@@ -6027,8 +6027,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zinc Nugget | ![zinc_nugget](../images/thermal_zinc_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Zinc Nugget | ![zinc_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6036,8 +6036,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zinc Ingot | ![zinc_ingot](../images/thermal_zinc_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Zinc Ingot | ![zinc_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Zinc Block'}]
@@ -6045,8 +6045,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zinc Ingot | ![zinc_ingot](../images/thermal_zinc_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Zinc Ingot | ![zinc_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6054,8 +6054,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zinc Block | ![zinc_block](../images/thermal_zinc_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Zinc Block | ![zinc_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Cured Rubber Block'}]
@@ -6063,8 +6063,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cured Rubber | ![cured_rubber](../images/thermal_cured_rubber.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Cured Rubber | ![cured_rubber](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -6072,8 +6072,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cured Rubber Block | ![cured_rubber_block](../images/thermal_cured_rubber_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Cured Rubber Block | ![cured_rubber_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  50}]
@@ -6081,7 +6081,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dandelion | ![dandelion](../images/thermal_dandelion.png) |
+| - | Dandelion | ![dandelion](../images/thermal_amaranth.png) |
 
 ---
 ## Desh Plate'}]
@@ -6098,7 +6098,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Diamond | ![gems/diamond](../images/thermal_gems/diamond.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6106,8 +6106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Block | ![diamond_block](../images/thermal_diamond_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Diamond Block | ![diamond_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Dried Kelp Block'}]
@@ -6115,8 +6115,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Kelp | ![dried_kelp](../images/thermal_dried_kelp.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Dried Kelp | ![dried_kelp](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6124,8 +6124,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dried Kelp Block | ![dried_kelp_block](../images/thermal_dried_kelp_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Dried Kelp Block | ![dried_kelp_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Eggplant Block'}]
@@ -6134,7 +6134,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Eggplant | ![eggplant](../images/thermal_eggplant.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6142,8 +6142,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggplant Block | ![eggplant_block](../images/thermal_eggplant_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Eggplant Block | ![eggplant_block](../images/thermal_eggplant_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -6152,7 +6152,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Electrum | ![ingots/electrum](../images/thermal_ingots/electrum.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Electrum Gear'}]
@@ -6161,7 +6161,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Electrum | ![ingots/electrum](../images/thermal_ingots/electrum.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Electrum Plate'}]
@@ -6178,7 +6178,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Electrum | ![nuggets/electrum](../images/thermal_nuggets/electrum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Electrum Coin'}]
@@ -6187,7 +6187,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Electrum | ![nuggets/electrum](../images/thermal_nuggets/electrum.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6196,7 +6196,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Electrum Ingot | ![electrum_ingot](../images/thermal_electrum_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Electrum Block'}]
@@ -6205,7 +6205,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Electrum | ![ingots/electrum](../images/thermal_ingots/electrum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6214,7 +6214,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Electrum Block | ![electrum_block](../images/thermal_electrum_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Emerald Block'}]
@@ -6223,7 +6223,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Emerald | ![gems/emerald](../images/thermal_gems/emerald.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6231,8 +6231,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Emerald Block | ![emerald_block](../images/thermal_emerald_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Emerald Block | ![emerald_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -6241,7 +6241,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Enderium | ![ingots/enderium](../images/thermal_ingots/enderium.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Enderium Gear'}]
@@ -6250,7 +6250,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Enderium | ![ingots/enderium](../images/thermal_ingots/enderium.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Enderium Plate'}]
@@ -6267,7 +6267,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Enderium | ![nuggets/enderium](../images/thermal_nuggets/enderium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Enderium Coin'}]
@@ -6276,7 +6276,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Enderium | ![nuggets/enderium](../images/thermal_nuggets/enderium.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6284,8 +6284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Enderium Ingot | ![enderium_ingot](../images/thermal_enderium_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Enderium Ingot | ![enderium_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Enderium Block'}]
@@ -6294,7 +6294,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Enderium | ![ingots/enderium](../images/thermal_ingots/enderium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6302,8 +6302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Enderium Block | ![enderium_block](../images/thermal_enderium_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Enderium Block | ![enderium_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Flax Block'}]
@@ -6312,7 +6312,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Flax | ![flax](../images/thermal_flax.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6320,8 +6320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flax Block | ![flax_block](../images/thermal_flax_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Flax Block | ![flax_block](../images/thermal_flax_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Frost Melon'}]
@@ -6330,7 +6330,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Frost Melon Slice | ![frost_melon_slice](../images/thermal_frost_melon_slice.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6338,8 +6338,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frost Melon | ![frost_melon](../images/thermal_frost_melon.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Frost Melon | ![frost_melon](../images/thermal_frost_melon_seeds.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Press Gear Die
@@ -6357,7 +6357,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Gold | ![ingots/gold](../images/thermal_ingots/gold.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Gold Gear'}]
@@ -6366,7 +6366,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Gold | ![ingots/gold](../images/thermal_ingots/gold.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Gold Plate'}]
@@ -6383,7 +6383,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Gold | ![nuggets/gold](../images/thermal_nuggets/gold.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Gold Coin'}]
@@ -6392,7 +6392,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Gold | ![nuggets/gold](../images/thermal_nuggets/gold.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6400,8 +6400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Ingot | ![gold_ingot](../images/thermal_gold_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Gold Ingot | ![gold_ingot](../images/thermal_rose_gold_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Gold Block'}]
@@ -6410,7 +6410,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Gold | ![ingots/gold](../images/thermal_ingots/gold.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6418,8 +6418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Block | ![gold_block](../images/thermal_gold_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Gold Block | ![gold_block](../images/thermal_rose_gold_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Green Bean Block'}]
@@ -6428,7 +6428,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Green Bean | ![green_bean](../images/thermal_green_bean.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6436,8 +6436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Bean Block | ![green_bean_block](../images/thermal_green_bean_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Green Bean Block | ![green_bean_block](../images/thermal_green_bean_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Gunpowder Block'}]
@@ -6445,8 +6445,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gunpowder | ![gunpowder](../images/thermal_gunpowder.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Gunpowder | ![gunpowder](../images/thermal_gunpowder_mushroom_0.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6454,8 +6454,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gunpowder Block | ![gunpowder_block](../images/thermal_gunpowder_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Gunpowder Block | ![gunpowder_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Honeycomb Block'}]
@@ -6463,8 +6463,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeycomb | ![honeycomb](../images/thermal_honeycomb.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Honeycomb | ![honeycomb](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -6472,8 +6472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeycomb Block | ![honeycomb_block](../images/thermal_honeycomb_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Hops Block'}]
@@ -6482,7 +6482,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Hops | ![hops](../images/thermal_hops.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6490,8 +6490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hops Block | ![hops_block](../images/thermal_hops_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Hops Block | ![hops_block](../images/thermal_hops_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Plate Aluminum'}]
@@ -6499,7 +6499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ingot Aluminum | ![ingot_aluminum](../images/thermal_ingot_aluminum.png) |
+| item | Ingot Aluminum | ![ingot_aluminum](../images/thermal_bronze_ingot.png) |
 
 ---
 ## Ingot Aluminum'}]
@@ -6507,8 +6507,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Aluminum | ![nugget_aluminum](../images/thermal_nugget_aluminum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nugget Aluminum | ![nugget_aluminum](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6516,8 +6516,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Aluminum | ![ingot_aluminum](../images/thermal_ingot_aluminum.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ingot Aluminum | ![ingot_aluminum](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Storage Aluminum'}]
@@ -6525,8 +6525,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Aluminum | ![ingot_aluminum](../images/thermal_ingot_aluminum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ingot Aluminum | ![ingot_aluminum](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6534,8 +6534,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Storage Aluminum | ![storage_aluminum](../images/thermal_storage_aluminum.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Storage Aluminum | ![storage_aluminum](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  120}]
@@ -6543,7 +6543,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Seed | ![seed](../images/thermal_seed.png) |
+| - | Seed | ![seed](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Block Aluminum'}]
@@ -6551,8 +6551,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Aluminum | ![raw_aluminum](../images/thermal_raw_aluminum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Raw Aluminum | ![raw_aluminum](../images/thermal_raw_lead.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6560,8 +6560,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Aluminum | ![raw_block_aluminum](../images/thermal_raw_block_aluminum.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Raw Block Aluminum | ![raw_block_aluminum](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Block Uranium'}]
@@ -6569,8 +6569,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Uranium | ![raw_uranium](../images/thermal_raw_uranium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Raw Uranium | ![raw_uranium](../images/thermal_raw_lead.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6578,8 +6578,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Uranium | ![raw_block_uranium](../images/thermal_raw_block_uranium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Raw Block Uranium | ![raw_block_uranium](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Plate Steel'}]
@@ -6587,7 +6587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ingot Steel | ![ingot_steel](../images/thermal_ingot_steel.png) |
+| item | Ingot Steel | ![ingot_steel](../images/thermal_steel_ingot.png) |
 
 ---
 ## Plate Uranium'}]
@@ -6595,7 +6595,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ingot Uranium | ![ingot_uranium](../images/thermal_ingot_uranium.png) |
+| item | Ingot Uranium | ![ingot_uranium](../images/thermal_uranium_ingot.png) |
 
 ---
 ## Ingot Uranium'}]
@@ -6603,8 +6603,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Uranium | ![nugget_uranium](../images/thermal_nugget_uranium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nugget Uranium | ![nugget_uranium](../images/thermal_uranium_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6612,8 +6612,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Uranium | ![ingot_uranium](../images/thermal_ingot_uranium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ingot Uranium | ![ingot_uranium](../images/thermal_uranium_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Storage Uranium'}]
@@ -6621,8 +6621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Uranium | ![ingot_uranium](../images/thermal_ingot_uranium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ingot Uranium | ![ingot_uranium](../images/thermal_uranium_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6630,8 +6630,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Storage Uranium | ![storage_uranium](../images/thermal_storage_uranium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Storage Uranium | ![storage_uranium](../images/thermal_uranium_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -6640,7 +6640,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Invar | ![ingots/invar](../images/thermal_ingots/invar.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Invar Gear'}]
@@ -6649,7 +6649,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Invar | ![ingots/invar](../images/thermal_ingots/invar.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Invar Plate'}]
@@ -6666,7 +6666,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Invar | ![nuggets/invar](../images/thermal_nuggets/invar.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Invar Coin'}]
@@ -6675,7 +6675,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Invar | ![nuggets/invar](../images/thermal_nuggets/invar.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6684,7 +6684,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Invar Ingot | ![invar_ingot](../images/thermal_invar_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Invar Block'}]
@@ -6693,7 +6693,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Invar | ![ingots/invar](../images/thermal_ingots/invar.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6702,7 +6702,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Invar Block | ![invar_block](../images/thermal_invar_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -6711,7 +6711,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Iron Gear'}]
@@ -6720,7 +6720,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Iron Plate'}]
@@ -6737,7 +6737,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Iron | ![nuggets/iron](../images/thermal_nuggets/iron.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Iron Coin'}]
@@ -6746,7 +6746,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Iron | ![nuggets/iron](../images/thermal_nuggets/iron.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6754,8 +6754,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/thermal_iron_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Iron Ingot | ![iron_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Iron Block'}]
@@ -6764,7 +6764,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6772,8 +6772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Block | ![iron_block](../images/thermal_iron_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Iron Block | ![iron_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Lapis Block'}]
@@ -6782,7 +6782,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Lapis | ![gems/lapis](../images/thermal_gems/lapis.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6790,8 +6790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapis Block | ![lapis_block](../images/thermal_lapis_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Lapis Block | ![lapis_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -6800,7 +6800,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Lead Gear'}]
@@ -6809,7 +6809,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Lead Plate'}]
@@ -6826,7 +6826,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Lead | ![nuggets/lead](../images/thermal_nuggets/lead.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Lead Coin'}]
@@ -6835,7 +6835,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Lead | ![nuggets/lead](../images/thermal_nuggets/lead.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6844,7 +6844,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lead Ingot | ![lead_ingot](../images/thermal_lead_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Lead Block'}]
@@ -6853,7 +6853,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lead | ![ingots/lead](../images/thermal_ingots/lead.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6862,7 +6862,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lead Block | ![lead_block](../images/thermal_lead_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -6871,7 +6871,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Lumium Gear'}]
@@ -6880,7 +6880,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Lumium Plate'}]
@@ -6897,7 +6897,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Lumium | ![nuggets/lumium](../images/thermal_nuggets/lumium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Lumium Coin'}]
@@ -6906,7 +6906,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Lumium | ![nuggets/lumium](../images/thermal_nuggets/lumium.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -6914,8 +6914,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lumium Ingot | ![lumium_ingot](../images/thermal_lumium_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Lumium Ingot | ![lumium_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Lumium Block'}]
@@ -6924,7 +6924,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lumium | ![ingots/lumium](../images/thermal_ingots/lumium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6932,8 +6932,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lumium Block | ![lumium_block](../images/thermal_lumium_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Lumium Block | ![lumium_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Magma Block'}]
@@ -6941,8 +6941,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Cream | ![magma_cream](../images/thermal_magma_cream.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Magma Cream | ![magma_cream](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -6950,8 +6950,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Block | ![magma_block](../images/thermal_magma_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Magma Block | ![magma_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Fluorite'}]
@@ -6959,8 +6959,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluorite Gem | ![fluorite_gem](../images/thermal_fluorite_gem.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Fluorite Gem | ![fluorite_gem](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6968,8 +6968,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Fluorite | ![block_fluorite](../images/thermal_block_fluorite.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Fluorite | ![block_fluorite](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ingot Osmium'}]
@@ -6977,8 +6977,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Osmium | ![nugget_osmium](../images/thermal_nugget_osmium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nugget Osmium | ![nugget_osmium](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -6986,8 +6986,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Osmium | ![ingot_osmium](../images/thermal_ingot_osmium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ingot Osmium | ![ingot_osmium](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Osmium'}]
@@ -6995,8 +6995,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Osmium | ![ingot_osmium](../images/thermal_ingot_osmium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ingot Osmium | ![ingot_osmium](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7004,8 +7004,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Osmium | ![block_osmium](../images/thermal_block_osmium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Osmium | ![block_osmium](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Raw Osmium'}]
@@ -7013,8 +7013,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Osmium | ![raw_osmium](../images/thermal_raw_osmium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Raw Osmium | ![raw_osmium](../images/thermal_raw_lead.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7022,8 +7022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Raw Osmium | ![block_raw_osmium](../images/thermal_block_raw_osmium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Raw Osmium | ![block_raw_osmium](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Raw Uranium'}]
@@ -7031,8 +7031,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Uranium | ![raw_uranium](../images/thermal_raw_uranium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Raw Uranium | ![raw_uranium](../images/thermal_raw_lead.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7040,8 +7040,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Raw Uranium | ![block_raw_uranium](../images/thermal_block_raw_uranium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Raw Uranium | ![block_raw_uranium](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ingot Refined Glowstone'}]
@@ -7049,8 +7049,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Refined Glowstone | ![nugget_refined_glowstone](../images/thermal_nugget_refined_glowstone.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nugget Refined Glowstone | ![nugget_refined_glowstone](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7058,8 +7058,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Refined Glowstone | ![ingot_refined_glowstone](../images/thermal_ingot_refined_glowstone.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ingot Refined Glowstone | ![ingot_refined_glowstone](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Refined Glowstone'}]
@@ -7067,8 +7067,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Refined Glowstone | ![ingot_refined_glowstone](../images/thermal_ingot_refined_glowstone.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ingot Refined Glowstone | ![ingot_refined_glowstone](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7076,8 +7076,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Refined Glowstone | ![block_refined_glowstone](../images/thermal_block_refined_glowstone.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Refined Glowstone | ![block_refined_glowstone](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ingot Refined Obsidian'}]
@@ -7085,8 +7085,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Refined Obsidian | ![nugget_refined_obsidian](../images/thermal_nugget_refined_obsidian.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nugget Refined Obsidian | ![nugget_refined_obsidian](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7094,8 +7094,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Refined Obsidian | ![ingot_refined_obsidian](../images/thermal_ingot_refined_obsidian.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ingot Refined Obsidian | ![ingot_refined_obsidian](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Refined Obsidian'}]
@@ -7103,8 +7103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Refined Obsidian | ![ingot_refined_obsidian](../images/thermal_ingot_refined_obsidian.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ingot Refined Obsidian | ![ingot_refined_obsidian](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7112,8 +7112,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Refined Obsidian | ![block_refined_obsidian](../images/thermal_block_refined_obsidian.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Refined Obsidian | ![block_refined_obsidian](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Salt'}]
@@ -7121,8 +7121,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salt | ![salt](../images/thermal_salt.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Salt | ![salt](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7130,8 +7130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Salt | ![block_salt](../images/thermal_block_salt.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Salt | ![block_salt](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ingot Uranium'}]
@@ -7139,8 +7139,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Uranium | ![nugget_uranium](../images/thermal_nugget_uranium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nugget Uranium | ![nugget_uranium](../images/thermal_uranium_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7148,8 +7148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Uranium | ![ingot_uranium](../images/thermal_ingot_uranium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ingot Uranium | ![ingot_uranium](../images/thermal_uranium_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Block Uranium'}]
@@ -7157,8 +7157,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Uranium | ![ingot_uranium](../images/thermal_ingot_uranium.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ingot Uranium | ![ingot_uranium](../images/thermal_uranium_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7166,8 +7166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Uranium | ![block_uranium](../images/thermal_block_uranium.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Block Uranium | ![block_uranium](../images/thermal_uranium_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Melon'}]
@@ -7175,8 +7175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon Slice | ![melon_slice](../images/thermal_melon_slice.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Melon Slice | ![melon_slice](../images/thermal_frost_melon_slice.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7184,8 +7184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon | ![melon](../images/thermal_melon.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Melon | ![melon](../images/thermal_frost_melon_seeds.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -7194,7 +7194,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Netherite | ![ingots/netherite](../images/thermal_ingots/netherite.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Netherite Gear'}]
@@ -7203,7 +7203,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Netherite | ![ingots/netherite](../images/thermal_ingots/netherite.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Netherite Plate'}]
@@ -7220,7 +7220,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Netherite | ![nuggets/netherite](../images/thermal_nuggets/netherite.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7228,8 +7228,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Ingot | ![netherite_ingot](../images/thermal_netherite_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Netherite Ingot | ![netherite_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Netherite Block'}]
@@ -7238,7 +7238,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Netherite | ![ingots/netherite](../images/thermal_ingots/netherite.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7246,8 +7246,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Block | ![netherite_block](../images/thermal_netherite_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Netherite Block | ![netherite_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Nether Bricks'}]
@@ -7255,8 +7255,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Brick | ![nether_brick](../images/thermal_nether_brick.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Nether Brick | ![nether_brick](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7264,8 +7264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Bricks | ![nether_bricks](../images/thermal_nether_bricks.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Nether Bricks | ![nether_bricks](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Nether Wart Block'}]
@@ -7273,8 +7273,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/thermal_nether_wart.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nether Wart | ![nether_wart](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7282,8 +7282,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart Block | ![nether_wart_block](../images/thermal_nether_wart_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Nether Wart Block | ![nether_wart_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -7292,7 +7292,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Nickel | ![ingots/nickel](../images/thermal_ingots/nickel.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Nickel Gear'}]
@@ -7301,7 +7301,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Nickel | ![ingots/nickel](../images/thermal_ingots/nickel.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Nickel Plate'}]
@@ -7318,7 +7318,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Nickel | ![nuggets/nickel](../images/thermal_nuggets/nickel.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Nickel Coin'}]
@@ -7327,7 +7327,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Nickel | ![nuggets/nickel](../images/thermal_nuggets/nickel.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -7336,7 +7336,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nickel Ingot | ![nickel_ingot](../images/thermal_nickel_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Nickel Block'}]
@@ -7345,7 +7345,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Nickel | ![ingots/nickel](../images/thermal_ingots/nickel.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7354,7 +7354,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nickel Block | ![nickel_block](../images/thermal_nickel_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Niter Block'}]
@@ -7363,7 +7363,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Niter | ![gems/niter](../images/thermal_gems/niter.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7371,8 +7371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Niter Block | ![niter_block](../images/thermal_niter_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Niter Block | ![niter_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Onion Block'}]
@@ -7381,7 +7381,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Onion | ![onion](../images/thermal_onion.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7389,8 +7389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Onion Block | ![onion_block](../images/thermal_onion_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Onion Block | ![onion_block](../images/thermal_onion_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ostrum Plate'}]
@@ -7406,8 +7406,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice | ![ice](../images/thermal_ice.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ice | ![ice](../images/thermal_ice_tnt_minecart.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7415,8 +7415,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Packed Ice | ![packed_ice](../images/thermal_packed_ice.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Packed Ice | ![packed_ice](../images/thermal_ice_tnt_minecart.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Press Packing 2X2 Die
@@ -7426,7 +7426,7 @@
 | :--- | :--- | :--- |
 | C | Plates/Constantan | ![plates/constantan](../images/thermal_plates/constantan.png) |
 | I | Plates/Invar | ![plates/invar](../images/thermal_plates/invar.png) |
-| X | Planks | ![planks](../images/thermal_planks.png) |
+| X | Planks | ![planks](../images/thermal_rubberwood_planks.png) |
 
 ---
 ## Press Packing 3X3 Die
@@ -7436,7 +7436,7 @@
 | :--- | :--- | :--- |
 | C | Plates/Constantan | ![plates/constantan](../images/thermal_plates/constantan.png) |
 | I | Plates/Invar | ![plates/invar](../images/thermal_plates/invar.png) |
-| X | Planks | ![planks](../images/thermal_planks.png) |
+| X | Planks | ![planks](../images/thermal_rubberwood_planks.png) |
 
 ---
 ## Peanut Butter'}]
@@ -7454,7 +7454,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Peanut | ![peanut](../images/thermal_peanut.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7462,8 +7462,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peanut Block | ![peanut_block](../images/thermal_peanut_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Peanut Block | ![peanut_block](../images/thermal_peanut_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Potato Block'}]
@@ -7471,8 +7471,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potato | ![potato](../images/thermal_potato.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Potato | ![potato](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7480,8 +7480,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potato Block | ![potato_block](../images/thermal_potato_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Potato Block | ![potato_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Prismarine Bricks'}]
@@ -7489,8 +7489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_shard.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_activator_rail.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7498,8 +7498,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Bricks | ![prismarine_bricks](../images/thermal_prismarine_bricks.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Prismarine Bricks | ![prismarine_bricks](../images/thermal_prismarine_activator_rail.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Prismarine'}]
@@ -7507,8 +7507,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_shard.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_activator_rail.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7516,8 +7516,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine | ![prismarine](../images/thermal_prismarine.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Prismarine | ![prismarine](../images/thermal_prismarine_activator_rail.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bonded Leather'}]
@@ -7525,8 +7525,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather | ![leather](../images/thermal_leather.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Leather | ![leather](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7534,8 +7534,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bonded Leather | ![bonded_leather](../images/thermal_bonded_leather.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Bonded Leather | ![bonded_leather](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Bonded Rabbit Hide'}]
@@ -7543,8 +7543,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rabbit Hide | ![rabbit_hide](../images/thermal_rabbit_hide.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Rabbit Hide | ![rabbit_hide](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7552,8 +7552,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bonded Rabbit Hide | ![bonded_rabbit_hide](../images/thermal_bonded_rabbit_hide.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Bonded Rabbit Hide | ![bonded_rabbit_hide](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Chorus Fruit Block'}]
@@ -7561,8 +7561,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/thermal_chorus_fruit.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7570,8 +7570,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit Block | ![chorus_fruit_block](../images/thermal_chorus_fruit_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Chorus Fruit Block | ![chorus_fruit_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Cocoa Beans Sack'}]
@@ -7579,8 +7579,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cocoa Beans | ![cocoa_beans](../images/thermal_cocoa_beans.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7588,8 +7588,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cocoa Beans Sack | ![cocoa_beans_sack](../images/thermal_cocoa_beans_sack.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Cocoa Beans Sack | ![cocoa_beans_sack](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Golden Apple Crate'}]
@@ -7597,8 +7597,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple | ![golden_apple](../images/thermal_golden_apple.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Golden Apple | ![golden_apple](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7606,8 +7606,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Apple Crate | ![golden_apple_crate](../images/thermal_golden_apple_crate.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Golden Apple Crate | ![golden_apple_crate](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Nether Wart Block'}]
@@ -7615,8 +7615,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/thermal_nether_wart.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Nether Wart | ![nether_wart](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ## Nether Wart Sack'}]
@@ -7624,8 +7624,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/thermal_nether_wart.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Nether Wart | ![nether_wart](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7633,8 +7633,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart Sack | ![nether_wart_sack](../images/thermal_nether_wart_sack.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Nether Wart Sack | ![nether_wart_sack](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7642,8 +7642,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart Block | ![nether_wart_block](../images/thermal_nether_wart_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Nether Wart Block | ![nether_wart_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Stick Block'}]
@@ -7651,8 +7651,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick | ![stick](../images/thermal_stick.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Stick | ![stick](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7660,8 +7660,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick Block | ![stick_block](../images/thermal_stick_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Stick Block | ![stick_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Berry Sack'}]
@@ -7669,8 +7669,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/thermal_sweet_berries.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Sweet Berries | ![sweet_berries](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7678,8 +7678,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Berry Sack | ![berry_sack](../images/thermal_berry_sack.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Berry Sack | ![berry_sack](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Quartz Block'}]
@@ -7688,7 +7688,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Quartz | ![gems/quartz](../images/thermal_gems/quartz.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7696,8 +7696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Block | ![quartz_block](../images/thermal_quartz_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Quartz Block | ![quartz_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Radish Block'}]
@@ -7706,7 +7706,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Radish | ![radish](../images/thermal_radish.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7714,8 +7714,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Radish Block | ![radish_block](../images/thermal_radish_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Radish Block | ![radish_block](../images/thermal_radish_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Copper Block'}]
@@ -7724,7 +7724,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Copper | ![raw_materials/copper](../images/thermal_raw_materials/copper.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7732,8 +7732,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Copper Block | ![raw_copper_block](../images/thermal_raw_copper_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Raw Copper Block | ![raw_copper_block](../images/thermal_copper_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Gold Block'}]
@@ -7742,7 +7742,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Gold | ![raw_materials/gold](../images/thermal_raw_materials/gold.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7750,8 +7750,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Gold Block | ![raw_gold_block](../images/thermal_raw_gold_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Raw Gold Block | ![raw_gold_block](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Iron Block'}]
@@ -7760,7 +7760,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Iron | ![raw_materials/iron](../images/thermal_raw_materials/iron.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7768,8 +7768,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Iron Block | ![raw_iron_block](../images/thermal_raw_iron_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Raw Iron Block | ![raw_iron_block](../images/thermal_raw_lead_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Lead Block'}]
@@ -7778,7 +7778,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Lead | ![raw_materials/lead](../images/thermal_raw_materials/lead.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7787,7 +7787,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Lead Block | ![raw_lead_block](../images/thermal_raw_lead_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Nickel Block'}]
@@ -7796,7 +7796,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Nickel | ![raw_materials/nickel](../images/thermal_raw_materials/nickel.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7805,7 +7805,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Nickel Block | ![raw_nickel_block](../images/thermal_raw_nickel_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Silver Block'}]
@@ -7814,7 +7814,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Silver | ![raw_materials/silver](../images/thermal_raw_materials/silver.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7823,7 +7823,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Silver Block | ![raw_silver_block](../images/thermal_raw_silver_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Raw Tin Block'}]
@@ -7832,7 +7832,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Materials/Tin | ![raw_materials/tin](../images/thermal_raw_materials/tin.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7841,7 +7841,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Tin Block | ![raw_tin_block](../images/thermal_raw_tin_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Redstone Block'}]
@@ -7850,7 +7850,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7858,8 +7858,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Block | ![redstone_block](../images/thermal_redstone_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Redstone Block | ![redstone_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Red Sandstone'}]
@@ -7867,8 +7867,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sand | ![red_sand](../images/thermal_red_sand.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Red Sand | ![red_sand](../images/thermal_oil_red_sand.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7876,8 +7876,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sandstone | ![red_sandstone](../images/thermal_red_sandstone.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Red Sandstone | ![red_sandstone](../images/thermal_oil_red_sand.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rice Block'}]
@@ -7886,7 +7886,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rice | ![rice](../images/thermal_rice.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7894,8 +7894,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rice Block | ![rice_block](../images/thermal_rice_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Rice Block | ![rice_block](../images/thermal_rice_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rich Slag Block'}]
@@ -7903,8 +7903,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rich Slag | ![rich_slag](../images/thermal_rich_slag.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Rich Slag | ![rich_slag](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -7912,8 +7912,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rich Slag Block | ![rich_slag_block](../images/thermal_rich_slag_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Rich Slag Block | ![rich_slag_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -7922,7 +7922,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Rose Gold | ![ingots/rose_gold](../images/thermal_ingots/rose_gold.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Rose Gold Gear'}]
@@ -7931,7 +7931,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Rose Gold | ![ingots/rose_gold](../images/thermal_ingots/rose_gold.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Rose Gold Plate'}]
@@ -7948,7 +7948,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Rose Gold | ![nuggets/rose_gold](../images/thermal_nuggets/rose_gold.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rose Gold Coin'}]
@@ -7957,7 +7957,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Rose Gold | ![nuggets/rose_gold](../images/thermal_nuggets/rose_gold.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -7966,7 +7966,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Gold Ingot | ![rose_gold_ingot](../images/thermal_rose_gold_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rose Gold Block'}]
@@ -7975,7 +7975,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Rose Gold | ![ingots/rose_gold](../images/thermal_ingots/rose_gold.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -7984,7 +7984,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Gold Block | ![rose_gold_block](../images/thermal_rose_gold_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rosin Block'}]
@@ -7992,8 +7992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rosin | ![rosin](../images/thermal_rosin.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Rosin | ![rosin](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8001,8 +8001,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rosin Block | ![rosin_block](../images/thermal_rosin_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Rosin Block | ![rosin_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Flux Gem Block'}]
@@ -8010,8 +8010,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flux Gem | ![flux_gem](../images/thermal_flux_gem.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Flux Gem | ![flux_gem](../images/thermal_flux_capacitor.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8019,8 +8019,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flux Gem Block | ![flux_gem_block](../images/thermal_flux_gem_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Flux Gem Block | ![flux_gem_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Flux Gear'}]
@@ -8028,8 +8028,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flux Ingot | ![flux_ingot](../images/thermal_flux_ingot.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Flux Ingot | ![flux_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Flux Metal Block'}]
@@ -8037,8 +8037,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flux Ingot | ![flux_ingot](../images/thermal_flux_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Flux Ingot | ![flux_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8046,8 +8046,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flux Metal Block | ![flux_metal_block](../images/thermal_flux_metal_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Flux Metal Block | ![flux_metal_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rubber Block'}]
@@ -8055,8 +8055,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rubber | ![rubber](../images/thermal_rubber.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Rubber | ![rubber](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8064,8 +8064,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rubber Block | ![rubber_block](../images/thermal_rubber_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Rubber Block | ![rubber_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sadiroot Block'}]
@@ -8074,7 +8074,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Sadiroot | ![sadiroot](../images/thermal_sadiroot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8082,8 +8082,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sadiroot Block | ![sadiroot_block](../images/thermal_sadiroot_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sadiroot Block | ![sadiroot_block](../images/thermal_sadiroot_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sandstone'}]
@@ -8091,8 +8091,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/thermal_sand.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Sand | ![sand](../images/thermal_oil_red_sand.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8100,8 +8100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone | ![sandstone](../images/thermal_sandstone.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sandstone | ![sandstone](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sawdust Block'}]
@@ -8109,8 +8109,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sawdust | ![sawdust](../images/thermal_sawdust.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Sawdust | ![sawdust](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8118,8 +8118,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sawdust Block | ![sawdust_block](../images/thermal_sawdust_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sawdust Block | ![sawdust_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -8128,7 +8128,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Signalum | ![ingots/signalum](../images/thermal_ingots/signalum.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Signalum Gear'}]
@@ -8137,7 +8137,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Signalum | ![ingots/signalum](../images/thermal_ingots/signalum.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Signalum Plate'}]
@@ -8154,7 +8154,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Signalum | ![nuggets/signalum](../images/thermal_nuggets/signalum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Signalum Coin'}]
@@ -8163,7 +8163,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Signalum | ![nuggets/signalum](../images/thermal_nuggets/signalum.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -8171,8 +8171,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Signalum Ingot | ![signalum_ingot](../images/thermal_signalum_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Signalum Ingot | ![signalum_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Signalum Block'}]
@@ -8181,7 +8181,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Signalum | ![ingots/signalum](../images/thermal_ingots/signalum.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8189,8 +8189,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Signalum Block | ![signalum_block](../images/thermal_signalum_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Signalum Block | ![signalum_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -8199,7 +8199,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Silver | ![ingots/silver](../images/thermal_ingots/silver.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Silver Gear'}]
@@ -8208,7 +8208,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Silver | ![ingots/silver](../images/thermal_ingots/silver.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Silver Plate'}]
@@ -8225,7 +8225,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Silver | ![nuggets/silver](../images/thermal_nuggets/silver.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Silver Coin'}]
@@ -8234,7 +8234,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Silver | ![nuggets/silver](../images/thermal_nuggets/silver.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -8243,7 +8243,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Silver Ingot | ![silver_ingot](../images/thermal_silver_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Silver Block'}]
@@ -8252,7 +8252,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Silver | ![ingots/silver](../images/thermal_ingots/silver.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8261,7 +8261,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Silver Block | ![silver_block](../images/thermal_silver_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Slag Block'}]
@@ -8269,8 +8269,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slag | ![slag](../images/thermal_slag.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Slag | ![slag](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8278,8 +8278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slag Block | ![slag_block](../images/thermal_slag_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Slag Block | ![slag_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Slime Block'}]
@@ -8287,8 +8287,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/thermal_slime_ball.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Slime Ball | ![slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8296,8 +8296,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Block | ![slime_block](../images/thermal_slime_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Slime Block | ![slime_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Snow Block'}]
@@ -8305,8 +8305,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Snowball | ![snowball](../images/thermal_snowball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Snowball | ![snowball](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8314,8 +8314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Snow Block | ![snow_block](../images/thermal_snow_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Snow Block | ![snow_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Spinach Block'}]
@@ -8324,7 +8324,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Spinach | ![spinach](../images/thermal_spinach.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8332,8 +8332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spinach Block | ![spinach_block](../images/thermal_spinach_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Spinach Block | ![spinach_block](../images/thermal_spinach_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -8342,7 +8342,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Steel | ![ingots/steel](../images/thermal_ingots/steel.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Steel Gear'}]
@@ -8351,7 +8351,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Steel | ![ingots/steel](../images/thermal_ingots/steel.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Steel Plate'}]
@@ -8368,7 +8368,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Steel | ![nuggets/steel](../images/thermal_nuggets/steel.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Steel Coin'}]
@@ -8377,7 +8377,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Steel | ![nuggets/steel](../images/thermal_nuggets/steel.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -8386,7 +8386,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Steel Ingot | ![steel_ingot](../images/thermal_steel_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Steel Block'}]
@@ -8395,7 +8395,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Steel | ![ingots/steel](../images/thermal_ingots/steel.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8404,7 +8404,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Steel Block | ![steel_block](../images/thermal_steel_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Jelly'}]
@@ -8422,7 +8422,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Strawberry | ![strawberry](../images/thermal_strawberry.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8430,8 +8430,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strawberry Block | ![strawberry_block](../images/thermal_strawberry_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Strawberry Block | ![strawberry_block](../images/thermal_strawberry_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## White Wool'}]
@@ -8439,8 +8439,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/thermal_string.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | String | ![string](../images/thermal_amaranth.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sugar Cane Block'}]
@@ -8448,8 +8448,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar Cane | ![sugar_cane](../images/thermal_sugar_cane.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Sugar Cane | ![sugar_cane](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8457,8 +8457,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar Cane Block | ![sugar_cane_block](../images/thermal_sugar_cane_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sugar Cane Block | ![sugar_cane_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sulfur Block'}]
@@ -8467,7 +8467,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Sulfur | ![gems/sulfur](../images/thermal_gems/sulfur.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8475,8 +8475,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sulfur Block | ![sulfur_block](../images/thermal_sulfur_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sulfur Block | ![sulfur_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Tar Block'}]
@@ -8484,8 +8484,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tar | ![tar](../images/thermal_tar.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Tar | ![tar](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8493,8 +8493,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tar Block | ![tar_block](../images/thermal_tar_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Tar Block | ![tar_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Amethyst Bronze Ingot'}]
@@ -8502,8 +8502,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Bronze Nugget | ![amethyst_bronze_nugget](../images/thermal_amethyst_bronze_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Amethyst Bronze Nugget | ![amethyst_bronze_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8511,8 +8511,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Bronze Ingot | ![amethyst_bronze_ingot](../images/thermal_amethyst_bronze_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Amethyst Bronze Ingot | ![amethyst_bronze_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Amethyst Bronze Block'}]
@@ -8520,8 +8520,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Bronze Ingot | ![amethyst_bronze_ingot](../images/thermal_amethyst_bronze_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Amethyst Bronze Ingot | ![amethyst_bronze_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8529,8 +8529,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Bronze Block | ![amethyst_bronze_block](../images/thermal_amethyst_bronze_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Amethyst Bronze Block | ![amethyst_bronze_block](../images/thermal_bronze_block.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Blood Congealed Slime'}]
@@ -8538,8 +8538,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime Ball | ![blood_slime_ball](../images/thermal_blood_slime_ball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Blood Slime Ball | ![blood_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8547,8 +8547,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Congealed Slime | ![blood_congealed_slime](../images/thermal_blood_congealed_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Blood Congealed Slime | ![blood_congealed_slime](../images/thermal_slime_mushroom_0.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Blood Slime'}]
@@ -8556,8 +8556,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime Ball | ![blood_slime_ball](../images/thermal_blood_slime_ball.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Blood Slime Ball | ![blood_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8565,8 +8565,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime | ![blood_slime](../images/thermal_blood_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Blood Slime | ![blood_slime](../images/thermal_slime_mushroom_0.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Cobalt Ingot'}]
@@ -8574,8 +8574,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Nugget | ![cobalt_nugget](../images/thermal_cobalt_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Cobalt Nugget | ![cobalt_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8583,8 +8583,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_cobalt_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Cobalt Block'}]
@@ -8592,8 +8592,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_cobalt_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8601,8 +8601,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Block | ![cobalt_block](../images/thermal_cobalt_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Cobalt Block | ![cobalt_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Earth Congealed Slime'}]
@@ -8610,8 +8610,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/thermal_slime_ball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Slime Ball | ![slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8619,8 +8619,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Earth Congealed Slime | ![earth_congealed_slime](../images/thermal_earth_congealed_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Earth Congealed Slime | ![earth_congealed_slime](../images/thermal_earth_tnt_minecart.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ender Congealed Slime'}]
@@ -8628,8 +8628,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime Ball | ![ender_slime_ball](../images/thermal_ender_slime_ball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Ender Slime Ball | ![ender_slime_ball](../images/thermal_ender_tnt_minecart.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8637,8 +8637,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Congealed Slime | ![ender_congealed_slime](../images/thermal_ender_congealed_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ender Congealed Slime | ![ender_congealed_slime](../images/thermal_ender_tnt_minecart.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ender Slime'}]
@@ -8646,8 +8646,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime Ball | ![ender_slime_ball](../images/thermal_ender_slime_ball.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ender Slime Ball | ![ender_slime_ball](../images/thermal_ender_tnt_minecart.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8655,8 +8655,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime | ![ender_slime](../images/thermal_ender_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ender Slime | ![ender_slime](../images/thermal_ender_tnt_minecart.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Hepatizon Ingot'}]
@@ -8664,8 +8664,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hepatizon Nugget | ![hepatizon_nugget](../images/thermal_hepatizon_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Hepatizon Nugget | ![hepatizon_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8673,8 +8673,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hepatizon Ingot | ![hepatizon_ingot](../images/thermal_hepatizon_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Hepatizon Ingot | ![hepatizon_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Hepatizon Block'}]
@@ -8682,8 +8682,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hepatizon Ingot | ![hepatizon_ingot](../images/thermal_hepatizon_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Hepatizon Ingot | ![hepatizon_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8691,8 +8691,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hepatizon Block | ![hepatizon_block](../images/thermal_hepatizon_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Hepatizon Block | ![hepatizon_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ichor Congealed Slime'}]
@@ -8700,8 +8700,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ichor Slime Ball | ![ichor_slime_ball](../images/thermal_ichor_slime_ball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Ichor Slime Ball | ![ichor_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8709,8 +8709,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ichor Congealed Slime | ![ichor_congealed_slime](../images/thermal_ichor_congealed_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ichor Congealed Slime | ![ichor_congealed_slime](../images/thermal_slime_mushroom_0.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Ichor Slime'}]
@@ -8718,8 +8718,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ichor Slime Ball | ![ichor_slime_ball](../images/thermal_ichor_slime_ball.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Ichor Slime Ball | ![ichor_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8727,8 +8727,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ichor Slime | ![ichor_slime](../images/thermal_ichor_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Ichor Slime | ![ichor_slime](../images/thermal_slime_mushroom_0.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Manyullyn Ingot'}]
@@ -8736,8 +8736,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manyullyn Nugget | ![manyullyn_nugget](../images/thermal_manyullyn_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Manyullyn Nugget | ![manyullyn_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8745,8 +8745,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manyullyn Ingot | ![manyullyn_ingot](../images/thermal_manyullyn_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Manyullyn Ingot | ![manyullyn_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Manyullyn Block'}]
@@ -8754,8 +8754,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manyullyn Ingot | ![manyullyn_ingot](../images/thermal_manyullyn_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Manyullyn Ingot | ![manyullyn_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8763,8 +8763,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manyullyn Block | ![manyullyn_block](../images/thermal_manyullyn_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Manyullyn Block | ![manyullyn_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Pig Iron Ingot'}]
@@ -8772,8 +8772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pig Iron Nugget | ![pig_iron_nugget](../images/thermal_pig_iron_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Pig Iron Nugget | ![pig_iron_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8781,8 +8781,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pig Iron Ingot | ![pig_iron_ingot](../images/thermal_pig_iron_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Pig Iron Ingot | ![pig_iron_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Pig Iron Block'}]
@@ -8790,8 +8790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pig Iron Ingot | ![pig_iron_ingot](../images/thermal_pig_iron_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Pig Iron Ingot | ![pig_iron_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8799,8 +8799,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pig Iron Block | ![pig_iron_block](../images/thermal_pig_iron_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Pig Iron Block | ![pig_iron_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Queens Slime Ingot'}]
@@ -8808,8 +8808,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Queens Slime Nugget | ![queens_slime_nugget](../images/thermal_queens_slime_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Queens Slime Nugget | ![queens_slime_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8817,8 +8817,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Queens Slime Ingot | ![queens_slime_ingot](../images/thermal_queens_slime_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Queens Slime Ingot | ![queens_slime_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Queens Slime Block'}]
@@ -8826,8 +8826,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Queens Slime Ingot | ![queens_slime_ingot](../images/thermal_queens_slime_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Queens Slime Ingot | ![queens_slime_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8835,8 +8835,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Queens Slime Block | ![queens_slime_block](../images/thermal_queens_slime_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Queens Slime Block | ![queens_slime_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rose Gold Ingot'}]
@@ -8845,7 +8845,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Gold Nugget | ![rose_gold_nugget](../images/thermal_rose_gold_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8854,7 +8854,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Gold Ingot | ![rose_gold_ingot](../images/thermal_rose_gold_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Rose Gold Block'}]
@@ -8863,7 +8863,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Gold Ingot | ![rose_gold_ingot](../images/thermal_rose_gold_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8872,7 +8872,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rose Gold Block | ![rose_gold_block](../images/thermal_rose_gold_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sky Congealed Slime'}]
@@ -8880,8 +8880,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime Ball | ![sky_slime_ball](../images/thermal_sky_slime_ball.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Sky Slime Ball | ![sky_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -8889,8 +8889,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Congealed Slime | ![sky_congealed_slime](../images/thermal_sky_congealed_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sky Congealed Slime | ![sky_congealed_slime](../images/thermal_slime_mushroom_0.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Sky Slime'}]
@@ -8898,8 +8898,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime Ball | ![sky_slime_ball](../images/thermal_sky_slime_ball.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Sky Slime Ball | ![sky_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8907,8 +8907,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime | ![sky_slime](../images/thermal_sky_slime.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Sky Slime | ![sky_slime](../images/thermal_slime_mushroom_0.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Slimesteel Ingot'}]
@@ -8916,8 +8916,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimesteel Nugget | ![slimesteel_nugget](../images/thermal_slimesteel_nugget.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Slimesteel Nugget | ![slimesteel_nugget](../images/thermal_bronze_nugget.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8925,8 +8925,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimesteel Ingot | ![slimesteel_ingot](../images/thermal_slimesteel_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Slimesteel Ingot | ![slimesteel_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Slimesteel Block'}]
@@ -8934,8 +8934,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimesteel Ingot | ![slimesteel_ingot](../images/thermal_slimesteel_ingot.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Slimesteel Ingot | ![slimesteel_ingot](../images/thermal_bronze_ingot.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8943,8 +8943,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimesteel Block | ![slimesteel_block](../images/thermal_slimesteel_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Slimesteel Block | ![slimesteel_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Tea Block'}]
@@ -8953,7 +8953,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tea | ![tea](../images/thermal_tea.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -8961,8 +8961,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tea Block | ![tea_block](../images/thermal_tea_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Tea Block | ![tea_block](../images/thermal_tea_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -8971,7 +8971,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Tin | ![ingots/tin](../images/thermal_ingots/tin.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ## Tin Gear'}]
@@ -8980,7 +8980,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Tin | ![ingots/tin](../images/thermal_ingots/tin.png) |
-| - | Press Gear Die | ![press_gear_die](../images/thermal_press_gear_die.png) |
+| - | Press Gear Die | ![press_gear_die](../images/thermal_bronze_gear.png) |
 
 ---
 ## Tin Plate'}]
@@ -8997,7 +8997,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Tin | ![nuggets/tin](../images/thermal_nuggets/tin.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ## Tin Coin'}]
@@ -9006,7 +9006,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nuggets/Tin | ![nuggets/tin](../images/thermal_nuggets/tin.png) |
-| - | Press Coin Die | ![press_coin_die](../images/thermal_press_coin_die.png) |
+| - | Press Coin Die | ![press_coin_die](../images/thermal_bronze_coin_0.png) |
 
 ---
 ##  9}]
@@ -9015,7 +9015,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tin Ingot | ![tin_ingot](../images/thermal_tin_ingot.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Tin Block'}]
@@ -9024,7 +9024,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Tin | ![ingots/tin](../images/thermal_ingots/tin.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -9033,7 +9033,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tin Block | ![tin_block](../images/thermal_tin_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Tomato Sauce'}]
@@ -9051,7 +9051,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Tomato | ![tomato](../images/thermal_tomato.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -9059,8 +9059,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomato Block | ![tomato_block](../images/thermal_tomato_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Tomato Block | ![tomato_block](../images/thermal_tomato_block_bottom.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Press Unpacking Die
@@ -9070,7 +9070,7 @@
 | :--- | :--- | :--- |
 | C | Plates/Constantan | ![plates/constantan](../images/thermal_plates/constantan.png) |
 | I | Plates/Invar | ![plates/invar](../images/thermal_plates/invar.png) |
-| X | Planks | ![planks](../images/thermal_planks.png) |
+| X | Planks | ![planks](../images/thermal_rubberwood_planks.png) |
 
 ---
 ## Venus Sandstone'}]
@@ -9078,8 +9078,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Venus Sand | ![venus_sand](../images/thermal_venus_sand.png) |
-| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_press_packing_2x2_die.png) |
+| - | Venus Sand | ![venus_sand](../images/thermal_oil_red_sand.png) |
+| - | Press Packing 2X2 Die | ![press_packing_2x2_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -9087,8 +9087,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Venus Sandstone | ![venus_sandstone](../images/thermal_venus_sandstone.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Venus Sandstone | ![venus_sandstone](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  50}]
@@ -9096,7 +9096,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vine | ![vine](../images/thermal_vine.png) |
+| - | Vine | ![vine](../images/thermal_amaranth.png) |
 
 ---
 ## Hay Block'}]
@@ -9104,8 +9104,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat | ![wheat](../images/thermal_wheat.png) |
-| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_press_packing_3x3_die.png) |
+| - | Wheat | ![wheat](../images/thermal_amaranth.png) |
+| - | Press Packing 3X3 Die | ![press_packing_3x3_die](../images/thermal_amaranth.png) |
 
 ---
 ##  9}]
@@ -9113,8 +9113,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hay Block | ![hay_block](../images/thermal_hay_block.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | Hay Block | ![hay_block](../images/thermal_amaranth_block_end.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -9122,8 +9122,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Wool | ![white_wool](../images/thermal_white_wool.png) |
-| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_press_unpacking_die.png) |
+| - | White Wool | ![white_wool](../images/thermal_amaranth.png) |
+| - | Press Unpacking Die | ![press_unpacking_die](../images/thermal_amaranth.png) |
 
 ---
 ## Prismarine Activator Rail
@@ -9131,9 +9131,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_crystals.png) |
-| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_shard.png) |
-| X | Activator Rail | ![activator_rail](../images/thermal_activator_rail.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_activator_rail.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_activator_rail.png) |
+| X | Activator Rail | ![activator_rail](../images/thermal_lumium_activator_rail.png) |
 
 ---
 ## Prismarine Crossover Rail
@@ -9141,7 +9141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Stick | ![stick](../images/thermal_stick.png) |
+| I | Stick | ![stick](../images/thermal_amaranth.png) |
 | X | Prismarine Rail | ![prismarine_rail](../images/thermal_prismarine_rail.png) |
 
 ---
@@ -9150,9 +9150,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_crystals.png) |
-| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_shard.png) |
-| X | Detector Rail | ![detector_rail](../images/thermal_detector_rail.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_activator_rail.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_activator_rail.png) |
+| X | Detector Rail | ![detector_rail](../images/thermal_lumium_detector_rail.png) |
 
 ---
 ## Prismarine Powered Rail
@@ -9160,9 +9160,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_crystals.png) |
-| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_shard.png) |
-| X | Powered Rail | ![powered_rail](../images/thermal_powered_rail.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_activator_rail.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_activator_rail.png) |
+| X | Powered Rail | ![powered_rail](../images/thermal_lumium_powered_rail.png) |
 
 ---
 ## Prismarine Rail
@@ -9170,9 +9170,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_crystals.png) |
-| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_shard.png) |
-| X | Rail | ![rail](../images/thermal_rail.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/thermal_prismarine_activator_rail.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/thermal_prismarine_activator_rail.png) |
+| X | Rail | ![rail](../images/thermal_crossover_rail.png) |
 
 ---
 ## Quartz Dust'}]
@@ -9180,8 +9180,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Andesite | ![andesite](../images/thermal_andesite.png) |
-| count | 2 | ![2](../images/thermal_2.png) |
+| value | Andesite | ![andesite](../images/thermal_amaranth.png) |
+| count | 2 | ![2](../images/thermal_amaranth_2.png) |
 
 ---
 ##  1}]
@@ -9205,7 +9205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalz Rod | ![basalz_rod](../images/thermal_basalz_rod.png) |
+| item | Basalz Rod | ![basalz_rod](../images/thermal_amaranth.png) |
 
 ---
 ##  0.25}]
@@ -9213,7 +9213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Rod | ![blaze_rod](../images/thermal_blaze_rod.png) |
+| item | Blaze Rod | ![blaze_rod](../images/thermal_amaranth.png) |
 
 ---
 ##  0.25}]
@@ -9221,7 +9221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blitz Rod | ![blitz_rod](../images/thermal_blitz_rod.png) |
+| item | Blitz Rod | ![blitz_rod](../images/thermal_amaranth.png) |
 
 ---
 ##  0.25}]
@@ -9229,7 +9229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blizz Rod | ![blizz_rod](../images/thermal_blizz_rod.png) |
+| item | Blizz Rod | ![blizz_rod](../images/thermal_amaranth.png) |
 
 ---
 ##  4.5}]
@@ -9237,7 +9237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone | ![bone](../images/thermal_bone.png) |
+| item | Bone | ![bone](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -9261,7 +9261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalz Powder | ![basalz_powder](../images/thermal_basalz_powder.png) |
+| item | Basalz Powder | ![basalz_powder](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -9269,7 +9269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flint | ![flint](../images/thermal_flint.png) |
+| item | Flint | ![flint](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -9301,7 +9301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Cobblestone | ![cobblestone](../images/thermal_cobblestone.png) |
+| tag | Cobblestone | ![cobblestone](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -9349,7 +9349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Asurine | ![asurine](../images/thermal_asurine.png) |
+| item | Asurine | ![asurine](../images/thermal_amaranth.png) |
 
 ---
 ##  0.3}]
@@ -9365,7 +9365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crimsite | ![crimsite](../images/thermal_crimsite.png) |
+| item | Crimsite | ![crimsite](../images/thermal_amaranth.png) |
 
 ---
 ##  0.4}]
@@ -9389,7 +9389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherrack | ![netherrack](../images/thermal_netherrack.png) |
+| item | Netherrack | ![netherrack](../images/thermal_sulfur_ore_netherrack.png) |
 
 ---
 ##  0.2}]
@@ -9397,7 +9397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochrum | ![ochrum](../images/thermal_ochrum.png) |
+| item | Ochrum | ![ochrum](../images/thermal_amaranth.png) |
 
 ---
 ##  0.2}]
@@ -9413,7 +9413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Zinc | ![raw_zinc](../images/thermal_raw_zinc.png) |
+| item | Raw Zinc | ![raw_zinc](../images/thermal_raw_lead.png) |
 
 ---
 ##  0.1}]
@@ -9421,7 +9421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tuff | ![tuff](../images/thermal_tuff.png) |
+| item | Tuff | ![tuff](../images/thermal_amaranth.png) |
 
 ---
 ##  0.1}]
@@ -9437,7 +9437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Veridium | ![veridium](../images/thermal_veridium.png) |
+| item | Veridium | ![veridium](../images/thermal_amaranth.png) |
 
 ---
 ##  0.8}]
@@ -9453,7 +9453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Zinc Ore | ![zinc_ore](../images/thermal_zinc_ore.png) |
+| value | Zinc Ore | ![zinc_ore](../images/thermal_apatite_ore.png) |
 
 ---
 ##  1}]
@@ -9493,7 +9493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Diorite | ![diorite](../images/thermal_diorite.png) |
+| value | Diorite | ![diorite](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -9549,7 +9549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Ender Pearls | ![ender_pearls](../images/thermal_ender_pearls.png) |
+| tag | Ender Pearls | ![ender_pearls](../images/thermal_ender_tnt_minecart.png) |
 
 ---
 ##  7.5}]
@@ -9557,7 +9557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Blackstone | ![gilded_blackstone](../images/thermal_gilded_blackstone.png) |
+| item | Gilded Blackstone | ![gilded_blackstone](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -9565,7 +9565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glowstone | ![glowstone](../images/thermal_glowstone.png) |
+| item | Glowstone | ![glowstone](../images/thermal_glowstone_mushroom_0.png) |
 
 ---
 ##  1}]
@@ -9597,7 +9597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Granite | ![granite](../images/thermal_granite.png) |
+| value | Granite | ![granite](../images/thermal_amaranth.png) |
 
 ---
 ##  0.2}]
@@ -9605,7 +9605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Gravel | ![gravel](../images/thermal_gravel.png) |
+| tag | Gravel | ![gravel](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -9613,7 +9613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ingot Aluminum | ![ingot_aluminum](../images/thermal_ingot_aluminum.png) |
+| item | Ingot Aluminum | ![ingot_aluminum](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  0.2}]
@@ -9621,7 +9621,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Ore Aluminum | ![ore_aluminum](../images/thermal_ore_aluminum.png) |
+| value | Ore Aluminum | ![ore_aluminum](../images/thermal_apatite_ore.png) |
 
 ---
 ##  1}]
@@ -9629,7 +9629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ingot Uranium | ![ingot_uranium](../images/thermal_ingot_uranium.png) |
+| item | Ingot Uranium | ![ingot_uranium](../images/thermal_uranium_ingot.png) |
 
 ---
 ##  0.2}]
@@ -9637,7 +9637,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Ore Uranium | ![ore_uranium](../images/thermal_ore_uranium.png) |
+| value | Ore Uranium | ![ore_uranium](../images/thermal_apatite_ore.png) |
 
 ---
 ##  1}]
@@ -9725,7 +9725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Logs | ![logs](../images/thermal_logs.png) |
+| tag | Logs | ![logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -9749,7 +9749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fluorite Gem | ![fluorite_gem](../images/thermal_fluorite_gem.png) |
+| item | Fluorite Gem | ![fluorite_gem](../images/thermal_amaranth.png) |
 
 ---
 ##  0.2}]
@@ -9757,7 +9757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Fluorite Ore | ![fluorite_ore](../images/thermal_fluorite_ore.png) |
+| value | Fluorite Ore | ![fluorite_ore](../images/thermal_apatite_ore.png) |
 
 ---
 ##  0.2}]
@@ -9765,7 +9765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Osmium Ore | ![osmium_ore](../images/thermal_osmium_ore.png) |
+| value | Osmium Ore | ![osmium_ore](../images/thermal_apatite_ore.png) |
 
 ---
 ##  1}]
@@ -9917,7 +9917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Red Sandstone | ![red_sandstone](../images/thermal_red_sandstone.png) |
+| value | Red Sandstone | ![red_sandstone](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  0.15}]
@@ -9925,7 +9925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Red Sandstone Slab | ![red_sandstone_slab](../images/thermal_red_sandstone_slab.png) |
+| value | Red Sandstone Slab | ![red_sandstone_slab](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  1}]
@@ -9941,7 +9941,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flux Ingot | ![flux_ingot](../images/thermal_flux_ingot.png) |
+| item | Flux Ingot | ![flux_ingot](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  0.3}]
@@ -9949,7 +9949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Sandstone | ![sandstone](../images/thermal_sandstone.png) |
+| value | Sandstone | ![sandstone](../images/thermal_amaranth.png) |
 
 ---
 ##  0.15}]
@@ -9957,7 +9957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Sandstone Slab | ![sandstone_slab](../images/thermal_sandstone_slab.png) |
+| value | Sandstone Slab | ![sandstone_slab](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -10053,7 +10053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Venus Sandstone | ![venus_sandstone](../images/thermal_venus_sandstone.png) |
+| value | Venus Sandstone | ![venus_sandstone](../images/thermal_amaranth.png) |
 
 ---
 ##  0.15}]
@@ -10061,7 +10061,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Venus Sandstone Brick Slab | ![venus_sandstone_brick_slab](../images/thermal_venus_sandstone_brick_slab.png) |
+| value | Venus Sandstone Brick Slab | ![venus_sandstone_brick_slab](../images/thermal_amaranth.png) |
 
 ---
 ##  50}]
@@ -10069,7 +10069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bitumen | ![bitumen](../images/thermal_bitumen.png) |
+| item | Bitumen | ![bitumen](../images/thermal_amaranth.png) |
 
 ---
 ##  250}]
@@ -10077,7 +10077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coal | ![coal](../images/thermal_coal.png) |
+| item | Coal | ![coal](../images/thermal_amaranth.png) |
 
 ---
 ##  125}]
@@ -10085,7 +10085,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Logs | ![logs](../images/thermal_logs.png) |
+| tag | Logs | ![logs](../images/thermal_amaranth.png) |
 
 ---
 ## Radish Block
@@ -10102,7 +10102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Radish Block | ![radish_block](../images/thermal_radish_block.png) |
+| - | Radish Block | ![radish_block](../images/thermal_radish_block_bottom.png) |
 
 ---
 ## Raw Lead Block
@@ -10186,10 +10186,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Mushroom | ![red_mushroom](../images/thermal_red_mushroom.png) |
+| - | Red Mushroom | ![red_mushroom](../images/thermal_cooked_mushroom.png) |
 | - | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
-| - | Phytogro | ![phytogro](../images/thermal_phytogro.png) |
-| - | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
+| - | Phytogro | ![phytogro](../images/thermal_amaranth.png) |
+| - | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
 
 ---
 ## Redstone Tnt Minecart
@@ -10197,8 +10197,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Redstone Tnt | ![redstone_tnt](../images/thermal_redstone_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Redstone Tnt | ![redstone_tnt](../images/thermal_redstone_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ##  0.1}]
@@ -10206,8 +10206,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid_tag | Crude Oil | ![crude_oil](../images/thermal_crude_oil.png) |
-| amount | 100 | ![100](../images/thermal_100.png) |
+| fluid_tag | Crude Oil | ![crude_oil](../images/thermal_oil_red_sand.png) |
+| amount | 100 | ![100](../images/thermal_amaranth.png) |
 
 ---
 ##  0.1}]
@@ -10215,8 +10215,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Heavy Oil | ![heavy_oil](../images/thermal_heavy_oil.png) |
-| amount | 100 | ![100](../images/thermal_100.png) |
+| fluid | Heavy Oil | ![heavy_oil](../images/thermal_oil_red_sand.png) |
+| amount | 100 | ![100](../images/thermal_amaranth.png) |
 
 ---
 ##  0.2}]
@@ -10224,8 +10224,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Light Oil | ![light_oil](../images/thermal_light_oil.png) |
-| amount | 100 | ![100](../images/thermal_100.png) |
+| fluid | Light Oil | ![light_oil](../images/thermal_oil_red_sand.png) |
+| amount | 100 | ![100](../images/thermal_amaranth.png) |
 
 ---
 ##  0.5}]
@@ -10233,8 +10233,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Resin | ![resin](../images/thermal_resin.png) |
-| amount | 200 | ![200](../images/thermal_200.png) |
+| fluid | Resin | ![resin](../images/thermal_amaranth.png) |
+| amount | 200 | ![200](../images/thermal_amaranth.png) |
 
 ---
 ##  750}]
@@ -10242,8 +10242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| fluid | Sap | ![sap](../images/thermal_sap.png) |
-| amount | 1000 | ![1000](../images/thermal_1000.png) |
+| fluid | Sap | ![sap](../images/thermal_amaranth.png) |
+| amount | 1000 | ![1000](../images/thermal_amaranth.png) |
 
 ---
 ## Rice Block
@@ -10260,7 +10260,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rice Block | ![rice_block](../images/thermal_rice_block.png) |
+| - | Rice Block | ![rice_block](../images/thermal_rice_block_bottom.png) |
 
 ---
 ## Rose Gold Block
@@ -10343,7 +10343,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/thermal_chest.png) |
+| - | Chest | ![chest](../images/thermal_rubberwood_chest_boat.png) |
 | - | Rubberwood Boat | ![rubberwood_boat](../images/thermal_rubberwood_boat.png) |
 
 ---
@@ -10360,7 +10360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/thermal_stick.png) |
+| # | Stick | ![stick](../images/thermal_amaranth.png) |
 | W | Rubberwood Planks | ![rubberwood_planks](../images/thermal_rubberwood_planks.png) |
 
 ---
@@ -10369,7 +10369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/thermal_stick.png) |
+| # | Stick | ![stick](../images/thermal_amaranth.png) |
 | W | Rubberwood Planks | ![rubberwood_planks](../images/thermal_rubberwood_planks.png) |
 
 ---
@@ -10378,7 +10378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rubberwood Logs | ![rubberwood_logs](../images/thermal_rubberwood_logs.png) |
+| - | Rubberwood Logs | ![rubberwood_logs](../images/thermal_rubberwood_boat.png) |
 
 ---
 ## Rubberwood Pressure Plate
@@ -10395,7 +10395,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rubberwood Planks | ![rubberwood_planks](../images/thermal_rubberwood_planks.png) |
-| X | Stick | ![stick](../images/thermal_stick.png) |
+| X | Stick | ![stick](../images/thermal_amaranth.png) |
 
 ---
 ## Rubberwood Slab
@@ -10444,7 +10444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sadiroot Block | ![sadiroot_block](../images/thermal_sadiroot_block.png) |
+| - | Sadiroot Block | ![sadiroot_block](../images/thermal_sadiroot_block_bottom.png) |
 
 ---
 ##  1.25}]
@@ -10452,7 +10452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Acacia Logs | ![acacia_logs](../images/thermal_acacia_logs.png) |
+| tag | Acacia Logs | ![acacia_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10460,7 +10460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Aeronos Caps | ![aeronos_caps](../images/thermal_aeronos_caps.png) |
+| tag | Aeronos Caps | ![aeronos_caps](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10468,7 +10468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Birch Logs | ![birch_logs](../images/thermal_birch_logs.png) |
+| tag | Birch Logs | ![birch_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10476,7 +10476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Cherry Logs | ![cherry_logs](../images/thermal_cherry_logs.png) |
+| tag | Cherry Logs | ![cherry_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10484,7 +10484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Dead Logs | ![dead_logs](../images/thermal_dead_logs.png) |
+| tag | Dead Logs | ![dead_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10492,7 +10492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Fir Logs | ![fir_logs](../images/thermal_fir_logs.png) |
+| tag | Fir Logs | ![fir_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10500,7 +10500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Hellbark Logs | ![hellbark_logs](../images/thermal_hellbark_logs.png) |
+| tag | Hellbark Logs | ![hellbark_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10508,7 +10508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Jacaranda Logs | ![jacaranda_logs](../images/thermal_jacaranda_logs.png) |
+| tag | Jacaranda Logs | ![jacaranda_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10516,7 +10516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Magic Logs | ![magic_logs](../images/thermal_magic_logs.png) |
+| tag | Magic Logs | ![magic_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10524,7 +10524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mahogany Logs | ![mahogany_logs](../images/thermal_mahogany_logs.png) |
+| tag | Mahogany Logs | ![mahogany_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10532,7 +10532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Palm Logs | ![palm_logs](../images/thermal_palm_logs.png) |
+| tag | Palm Logs | ![palm_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10540,7 +10540,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Redwood Logs | ![redwood_logs](../images/thermal_redwood_logs.png) |
+| tag | Redwood Logs | ![redwood_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10548,7 +10548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Umbran Logs | ![umbran_logs](../images/thermal_umbran_logs.png) |
+| tag | Umbran Logs | ![umbran_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10556,7 +10556,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Willow Logs | ![willow_logs](../images/thermal_willow_logs.png) |
+| tag | Willow Logs | ![willow_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10564,7 +10564,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Crimson Stems | ![crimson_stems](../images/thermal_crimson_stems.png) |
+| tag | Crimson Stems | ![crimson_stems](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10572,7 +10572,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Dark Oak Logs | ![dark_oak_logs](../images/thermal_dark_oak_logs.png) |
+| tag | Dark Oak Logs | ![dark_oak_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  0.25}]
@@ -10580,7 +10580,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Frost Melon | ![frost_melon](../images/thermal_frost_melon.png) |
+| item | Frost Melon | ![frost_melon](../images/thermal_frost_melon_seeds.png) |
 
 ---
 ##  1.25}]
@@ -10588,7 +10588,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Glacian Logs | ![glacian_logs](../images/thermal_glacian_logs.png) |
+| tag | Glacian Logs | ![glacian_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10596,7 +10596,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Jungle Logs | ![jungle_logs](../images/thermal_jungle_logs.png) |
+| tag | Jungle Logs | ![jungle_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10604,7 +10604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mangrove Logs | ![mangrove_logs](../images/thermal_mangrove_logs.png) |
+| tag | Mangrove Logs | ![mangrove_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  0.25}]
@@ -10612,7 +10612,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Melon | ![melon](../images/thermal_melon.png) |
+| item | Melon | ![melon](../images/thermal_frost_melon_seeds.png) |
 
 ---
 ##  1.25}]
@@ -10620,7 +10620,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Oak Logs | ![oak_logs](../images/thermal_oak_logs.png) |
+| tag | Oak Logs | ![oak_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10628,7 +10628,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Azalea Logs | ![azalea_logs](../images/thermal_azalea_logs.png) |
+| tag | Azalea Logs | ![azalea_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10636,7 +10636,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Blossom Logs | ![blossom_logs](../images/thermal_blossom_logs.png) |
+| tag | Blossom Logs | ![blossom_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10644,7 +10644,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Rubberwood Logs | ![rubberwood_logs](../images/thermal_rubberwood_logs.png) |
+| tag | Rubberwood Logs | ![rubberwood_logs](../images/thermal_rubberwood_boat.png) |
 
 ---
 ##  1.25}]
@@ -10652,7 +10652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Spruce Logs | ![spruce_logs](../images/thermal_spruce_logs.png) |
+| tag | Spruce Logs | ![spruce_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10660,7 +10660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Strophar Caps | ![strophar_caps](../images/thermal_strophar_caps.png) |
+| tag | Strophar Caps | ![strophar_caps](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10668,7 +10668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bloodshroom Logs | ![bloodshroom_logs](../images/thermal_bloodshroom_logs.png) |
+| tag | Bloodshroom Logs | ![bloodshroom_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10676,7 +10676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Greenheart Logs | ![greenheart_logs](../images/thermal_greenheart_logs.png) |
+| tag | Greenheart Logs | ![greenheart_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10684,7 +10684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Skyroot Logs | ![skyroot_logs](../images/thermal_skyroot_logs.png) |
+| tag | Skyroot Logs | ![skyroot_logs](../images/thermal_amaranth.png) |
 
 ---
 ##  1.25}]
@@ -10692,7 +10692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Warped Stems | ![warped_stems](../images/thermal_warped_stems.png) |
+| tag | Warped Stems | ![warped_stems](../images/thermal_amaranth.png) |
 
 ---
 ## Servo Attachment
@@ -10700,7 +10700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/thermal_glass.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/thermal_ingots/iron.png) |
 | N | Nuggets/Tin | ![nuggets/tin](../images/thermal_nuggets/tin.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
@@ -10826,10 +10826,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom | ![brown_mushroom](../images/thermal_brown_mushroom.png) |
-| - | Slimeballs | ![slimeballs](../images/thermal_slimeballs.png) |
-| - | Phytogro | ![phytogro](../images/thermal_phytogro.png) |
-| - | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/thermal_cooked_mushroom.png) |
+| - | Slimeballs | ![slimeballs](../images/thermal_amaranth.png) |
+| - | Phytogro | ![phytogro](../images/thermal_amaranth.png) |
+| - | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
 
 ---
 ## Slime Tnt Minecart
@@ -10837,8 +10837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Slime Tnt | ![slime_tnt](../images/thermal_slime_tnt.png) |
-| B | Minecart | ![minecart](../images/thermal_minecart.png) |
+| A | Slime Tnt | ![slime_tnt](../images/thermal_slime_tnt_minecart.png) |
+| B | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
 
 ---
 ## Slot Seal
@@ -10855,8 +10855,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -10864,8 +10864,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -10873,8 +10873,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -10882,9 +10882,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Diamond | ![dusts/diamond](../images/thermal_dusts/diamond.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -10892,8 +10892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -10901,8 +10901,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Glowstone | ![dusts/glowstone](../images/thermal_dusts/glowstone.png) |
 
 ---
@@ -10911,8 +10911,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Netherite Scrap | ![netherite_scrap](../images/thermal_netherite_scrap.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Netherite Scrap | ![netherite_scrap](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -10920,8 +10920,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -10929,8 +10929,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Dusts/Redstone | ![dusts/redstone](../images/thermal_dusts/redstone.png) |
 
 ---
@@ -10939,8 +10939,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Coal Coke | ![coal_coke](../images/thermal_coal_coke.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Coal Coke | ![coal_coke](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -10948,7 +10948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 | - | Gems/Amethyst | ![gems/amethyst](../images/thermal_gems/amethyst.png) |
 
 ---
@@ -10957,9 +10957,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_cobalt_ingot.png) |
+| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_bronze_ingot.png) |
 | - | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
-| - | Obsidian | ![obsidian](../images/thermal_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -10967,8 +10967,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_cobalt_ingot.png) |
-| - | Netherite Scrap | ![netherite_scrap](../images/thermal_netherite_scrap.png) |
+| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_bronze_ingot.png) |
+| - | Netherite Scrap | ![netherite_scrap](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -10976,9 +10976,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/thermal_iron_ingot.png) |
-| - | Blood Slime Ball | ![blood_slime_ball](../images/thermal_blood_slime_ball.png) |
-| - | Clay Ball | ![clay_ball](../images/thermal_clay_ball.png) |
+| - | Iron Ingot | ![iron_ingot](../images/thermal_bronze_ingot.png) |
+| - | Blood Slime Ball | ![blood_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Clay Ball | ![clay_ball](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -10986,9 +10986,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_cobalt_ingot.png) |
-| - | Gold Ingot | ![gold_ingot](../images/thermal_gold_ingot.png) |
-| - | Magma Cream | ![magma_cream](../images/thermal_magma_cream.png) |
+| - | Cobalt Ingot | ![cobalt_ingot](../images/thermal_bronze_ingot.png) |
+| - | Gold Ingot | ![gold_ingot](../images/thermal_rose_gold_ingot.png) |
+| - | Magma Cream | ![magma_cream](../images/thermal_amaranth.png) |
 
 ---
 ##  4}]
@@ -10997,7 +10997,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
-| - | Gold Ingot | ![gold_ingot](../images/thermal_gold_ingot.png) |
+| - | Gold Ingot | ![gold_ingot](../images/thermal_rose_gold_ingot.png) |
 
 ---
 ##  2}]
@@ -11005,9 +11005,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/thermal_iron_ingot.png) |
-| - | Sky Slime Ball | ![sky_slime_ball](../images/thermal_sky_slime_ball.png) |
-| - | Seared Brick | ![seared_brick](../images/thermal_seared_brick.png) |
+| - | Iron Ingot | ![iron_ingot](../images/thermal_bronze_ingot.png) |
+| - | Sky Slime Ball | ![sky_slime_ball](../images/thermal_slime_mushroom_0.png) |
+| - | Seared Brick | ![seared_brick](../images/thermal_amaranth.png) |
 
 ---
 ##  True}]
@@ -11015,7 +11015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ancient Debris | ![ancient_debris](../images/thermal_ancient_debris.png) |
+| item | Ancient Debris | ![ancient_debris](../images/thermal_amaranth.png) |
 
 ---
 ##  0.15}]
@@ -11063,7 +11063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Powder | ![blaze_powder](../images/thermal_blaze_powder.png) |
+| item | Blaze Powder | ![blaze_powder](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -11071,7 +11071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calcite | ![calcite](../images/thermal_calcite.png) |
+| item | Calcite | ![calcite](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -11079,7 +11079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cinnabar | ![cinnabar](../images/thermal_cinnabar.png) |
+| item | Cinnabar | ![cinnabar](../images/thermal_cinnabar_ore.png) |
 
 ---
 ## {}
@@ -11087,7 +11087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cinnabar Dust | ![cinnabar_dust](../images/thermal_cinnabar_dust.png) |
+| item | Cinnabar Dust | ![cinnabar_dust](../images/thermal_bronze_dust.png) |
 
 ---
 ## {}
@@ -11095,7 +11095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rich Slag | ![rich_slag](../images/thermal_rich_slag.png) |
+| item | Rich Slag | ![rich_slag](../images/thermal_amaranth.png) |
 
 ---
 ## {}
@@ -11103,7 +11103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Sand | ![sand](../images/thermal_sand.png) |
+| tag | Sand | ![sand](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  0.15}]
@@ -11199,8 +11199,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Andesite | ![andesite](../images/thermal_andesite.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Andesite | ![andesite](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -11208,8 +11208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Zinc Ingot | ![zinc_ingot](../images/thermal_zinc_ingot.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Zinc Ingot | ![zinc_ingot](../images/thermal_bronze_ingot.png) |
 
 ---
 ##  1}]
@@ -11217,9 +11217,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Powdered Obsidian | ![powdered_obsidian](../images/thermal_powdered_obsidian.png) |
+| - | Powdered Obsidian | ![powdered_obsidian](../images/thermal_amaranth.png) |
 | - | Dusts/Glowstone | ![dusts/glowstone](../images/thermal_dusts/glowstone.png) |
-| - | Polished Rose Quartz | ![polished_rose_quartz](../images/thermal_polished_rose_quartz.png) |
+| - | Polished Rose Quartz | ![polished_rose_quartz](../images/thermal_rose_gold_block.png) |
 
 ---
 ##  1}]
@@ -11227,7 +11227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Copper | ![crushed_raw_copper](../images/thermal_crushed_raw_copper.png) |
+| item | Crushed Raw Copper | ![crushed_raw_copper](../images/thermal_copper_block.png) |
 
 ---
 ##  1}]
@@ -11235,7 +11235,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Gold | ![crushed_raw_gold](../images/thermal_crushed_raw_gold.png) |
+| item | Crushed Raw Gold | ![crushed_raw_gold](../images/thermal_raw_lead.png) |
 
 ---
 ##  1}]
@@ -11243,7 +11243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Iron | ![crushed_raw_iron](../images/thermal_crushed_raw_iron.png) |
+| item | Crushed Raw Iron | ![crushed_raw_iron](../images/thermal_raw_lead.png) |
 
 ---
 ##  1}]
@@ -11251,7 +11251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Lead | ![crushed_raw_lead](../images/thermal_crushed_raw_lead.png) |
+| item | Crushed Raw Lead | ![crushed_raw_lead](../images/thermal_raw_lead.png) |
 
 ---
 ##  1}]
@@ -11259,7 +11259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Nickel | ![crushed_raw_nickel](../images/thermal_crushed_raw_nickel.png) |
+| item | Crushed Raw Nickel | ![crushed_raw_nickel](../images/thermal_raw_nickel.png) |
 
 ---
 ##  1}]
@@ -11267,7 +11267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Silver | ![crushed_raw_silver](../images/thermal_crushed_raw_silver.png) |
+| item | Crushed Raw Silver | ![crushed_raw_silver](../images/thermal_raw_silver.png) |
 
 ---
 ##  1}]
@@ -11275,7 +11275,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Tin | ![crushed_raw_tin](../images/thermal_crushed_raw_tin.png) |
+| item | Crushed Raw Tin | ![crushed_raw_tin](../images/thermal_raw_tin.png) |
 
 ---
 ##  1}]
@@ -11283,7 +11283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Zinc | ![crushed_raw_zinc](../images/thermal_crushed_raw_zinc.png) |
+| item | Crushed Raw Zinc | ![crushed_raw_zinc](../images/thermal_raw_lead.png) |
 
 ---
 ##  1}]
@@ -11291,7 +11291,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Aluminum | ![crushed_raw_aluminum](../images/thermal_crushed_raw_aluminum.png) |
+| item | Crushed Raw Aluminum | ![crushed_raw_aluminum](../images/thermal_raw_lead.png) |
 
 ---
 ##  1}]
@@ -11299,7 +11299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crushed Raw Uranium | ![crushed_raw_uranium](../images/thermal_crushed_raw_uranium.png) |
+| item | Crushed Raw Uranium | ![crushed_raw_uranium](../images/thermal_raw_lead.png) |
 
 ---
 ##  0.1}]
@@ -11307,7 +11307,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Zinc | ![raw_zinc](../images/thermal_raw_zinc.png) |
+| item | Raw Zinc | ![raw_zinc](../images/thermal_raw_lead.png) |
 
 ---
 ##  0.2}]
@@ -11315,7 +11315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Zinc Ore | ![zinc_ore](../images/thermal_zinc_ore.png) |
+| value | Zinc Ore | ![zinc_ore](../images/thermal_apatite_ore.png) |
 
 ---
 ##  4}]
@@ -11323,8 +11323,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rubber | ![rubber](../images/thermal_rubber.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Rubber | ![rubber](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  0.15}]
@@ -11396,8 +11396,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian Glass | ![obsidian_glass](../images/thermal_obsidian_glass.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Obsidian Glass | ![obsidian_glass](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -11405,8 +11405,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian Glass | ![obsidian_glass](../images/thermal_obsidian_glass.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Obsidian Glass | ![obsidian_glass](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  2}]
@@ -11414,9 +11414,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/thermal_obsidian.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Sand | ![sand](../images/thermal_sand.png) |
+| - | Obsidian | ![obsidian](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Sand | ![sand](../images/thermal_oil_red_sand.png) |
 
 ---
 ##  2}]
@@ -11424,8 +11424,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian Glass | ![obsidian_glass](../images/thermal_obsidian_glass.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Obsidian Glass | ![obsidian_glass](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -11473,7 +11473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Gravel | ![gravel](../images/thermal_gravel.png) |
+| tag | Gravel | ![gravel](../images/thermal_amaranth.png) |
 
 ---
 ##  1}]
@@ -11481,7 +11481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Aluminum | ![dust_aluminum](../images/thermal_dust_aluminum.png) |
+| item | Dust Aluminum | ![dust_aluminum](../images/thermal_bronze_dust.png) |
 
 ---
 ##  0.2}]
@@ -11489,7 +11489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Ore Aluminum | ![ore_aluminum](../images/thermal_ore_aluminum.png) |
+| value | Ore Aluminum | ![ore_aluminum](../images/thermal_apatite_ore.png) |
 
 ---
 ##  True}]
@@ -11497,7 +11497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Aluminum | ![raw_aluminum](../images/thermal_raw_aluminum.png) |
+| item | Raw Aluminum | ![raw_aluminum](../images/thermal_raw_lead.png) |
 
 ---
 ##  True}]
@@ -11505,7 +11505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Uranium | ![raw_uranium](../images/thermal_raw_uranium.png) |
+| item | Raw Uranium | ![raw_uranium](../images/thermal_raw_lead.png) |
 
 ---
 ##  1}]
@@ -11513,7 +11513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Uranium | ![dust_uranium](../images/thermal_dust_uranium.png) |
+| item | Dust Uranium | ![dust_uranium](../images/thermal_uranium_dust.png) |
 
 ---
 ##  0.2}]
@@ -11521,7 +11521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Ore Uranium | ![ore_uranium](../images/thermal_ore_uranium.png) |
+| value | Ore Uranium | ![ore_uranium](../images/thermal_apatite_ore.png) |
 
 ---
 ##  3}]
@@ -11665,7 +11665,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| value | Osmium Ore | ![osmium_ore](../images/thermal_osmium_ore.png) |
+| value | Osmium Ore | ![osmium_ore](../images/thermal_apatite_ore.png) |
 
 ---
 ##  1}]
@@ -11801,8 +11801,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
-| - | Unknown | ![unknown](../images/thermal_unknown.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
+| - | Unknown | ![unknown](../images/thermal_amaranth.png) |
 
 ---
 ##  3}]
@@ -11843,7 +11843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flux Dust | ![flux_dust](../images/thermal_flux_dust.png) |
+| item | Flux Dust | ![flux_dust](../images/thermal_bronze_dust.png) |
 
 ---
 ##  0.15}]
@@ -11963,7 +11963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Cobalt | ![raw_cobalt](../images/thermal_raw_cobalt.png) |
+| item | Raw Cobalt | ![raw_cobalt](../images/thermal_raw_lead.png) |
 
 ---
 ##  3}]
@@ -12011,11 +12011,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk Bucket | ![milk_bucket](../images/thermal_milk_bucket.png) |
-| B | Honey Bottle | ![honey_bottle](../images/thermal_honey_bottle.png) |
+| A | Milk Bucket | ![milk_bucket](../images/thermal_amaranth.png) |
+| B | Honey Bottle | ![honey_bottle](../images/thermal_amaranth.png) |
 | C | Crops/Wheat | ![crops/wheat](../images/thermal_crops/wheat.png) |
 | D | Crops/Sadiroot | ![crops/sadiroot](../images/thermal_crops/sadiroot.png) |
-| E | Egg | ![egg](../images/thermal_egg.png) |
+| E | Egg | ![egg](../images/thermal_amaranth.png) |
 
 ---
 ## Spinach Block
@@ -12032,7 +12032,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spinach Block | ![spinach_block](../images/thermal_spinach_block.png) |
+| - | Spinach Block | ![spinach_block](../images/thermal_spinach_block_bottom.png) |
 
 ---
 ## Spring Salad
@@ -12045,8 +12045,8 @@
 | - | Crops/Radish | ![crops/radish](../images/thermal_crops/radish.png) |
 | - | Crops/Strawberry | ![crops/strawberry](../images/thermal_crops/strawberry.png) |
 | - | Crops/Spinach | ![crops/spinach](../images/thermal_crops/spinach.png) |
-| - | Honey Bottle | ![honey_bottle](../images/thermal_honey_bottle.png) |
-| - | Bowl | ![bowl](../images/thermal_bowl.png) |
+| - | Honey Bottle | ![honey_bottle](../images/thermal_amaranth.png) |
+| - | Bowl | ![bowl](../images/thermal_amaranth.png) |
 
 ---
 ## Steel Block
@@ -12122,7 +12122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strawberry Block | ![strawberry_block](../images/thermal_strawberry_block.png) |
+| - | Strawberry Block | ![strawberry_block](../images/thermal_strawberry_block_bottom.png) |
 
 ---
 ## Stripped Rubberwood Wood
@@ -12180,7 +12180,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Foods/Fish/Raw | ![foods/fish/raw](../images/thermal_foods/fish/raw.png) |
-| K | Dried Kelp | ![dried_kelp](../images/thermal_dried_kelp.png) |
+| K | Dried Kelp | ![dried_kelp](../images/thermal_amaranth.png) |
 | R | Crops/Rice | ![crops/rice](../images/thermal_crops/rice.png) |
 
 ---
@@ -12198,7 +12198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tea Block | ![tea_block](../images/thermal_tea_block.png) |
+| - | Tea Block | ![tea_block](../images/thermal_tea_block_bottom.png) |
 
 ---
 ## Tin Block
@@ -12322,7 +12322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tomato Block | ![tomato_block](../images/thermal_tomato_block.png) |
+| - | Tomato Block | ![tomato_block](../images/thermal_tomato_block_bottom.png) |
 
 ---
 ## Tomato Sauce
@@ -12498,10 +12498,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/thermal_glass.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
 | I | Ingots/Invar | ![ingots/invar](../images/thermal_ingots/invar.png) |
 | N | Nuggets/Lead | ![nuggets/lead](../images/thermal_nuggets/lead.png) |
-| R | Redstone Servo | ![redstone_servo](../images/thermal_redstone_servo.png) |
+| R | Redstone Servo | ![redstone_servo](../images/thermal_redstone_mushroom_0.png) |
 
 ---
 ## Underwater Minecart
@@ -12509,9 +12509,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Minecart | ![minecart](../images/thermal_minecart.png) |
-| G | Glass | ![glass](../images/thermal_glass.png) |
-| P | Prismarine | ![prismarine](../images/thermal_prismarine.png) |
+| C | Minecart | ![minecart](../images/thermal_earth_tnt_minecart.png) |
+| G | Glass | ![glass](../images/thermal_amaranth.png) |
+| P | Prismarine | ![prismarine](../images/thermal_prismarine_activator_rail.png) |
 
 ---
 ## Watering Can
@@ -12519,7 +12519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/thermal_bucket.png) |
+| B | Bucket | ![bucket](../images/thermal_amaranth.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/thermal_ingots/copper.png) |
 
 ---
@@ -12533,7 +12533,7 @@
 | - | Crops/Eggplant | ![crops/eggplant](../images/thermal_crops/eggplant.png) |
 | - | Crops/Spinach | ![crops/spinach](../images/thermal_crops/spinach.png) |
 | - | Crops/Spinach | ![crops/spinach](../images/thermal_crops/spinach.png) |
-| - | Experience Bottle | ![experience_bottle](../images/thermal_experience_bottle.png) |
-| - | Bowl | ![bowl](../images/thermal_bowl.png) |
+| - | Experience Bottle | ![experience_bottle](../images/thermal_amaranth.png) |
+| - | Bowl | ![bowl](../images/thermal_amaranth.png) |
 
 ---

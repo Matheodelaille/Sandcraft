@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Quartz Block | ![quartz_block](../images/tempad_quartz_block.png) |
-| R | Redstone Lamp | ![redstone_lamp](../images/tempad_redstone_lamp.png) |
-| T | Tinted Glass | ![tinted_glass](../images/tempad_tinted_glass.png) |
-| B | Beacon | ![beacon](../images/tempad_beacon.png) |
+| # | Quartz Block | ![quartz_block](../images/tempad_tempad.png) |
+| R | Redstone Lamp | ![redstone_lamp](../images/tempad_tempad.png) |
+| T | Tinted Glass | ![tinted_glass](../images/tempad_tempad.png) |
+| B | Beacon | ![beacon](../images/tempad_tempad.png) |
 
 ---

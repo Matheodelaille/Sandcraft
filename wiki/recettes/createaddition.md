@@ -19,7 +19,7 @@
 | I | Plates/Iron | ![plates/iron](../images/createaddition_plates/iron.png) |
 | R | Rods/Iron | ![rods/iron](../images/createaddition_rods/iron.png) |
 | S | Copper Spool | ![copper_spool](../images/createaddition_copper_spool.png) |
-| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
+| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
 
 ---
 ## Stick Aluminum
@@ -42,7 +42,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Copper | ![ingots/copper](../images/createaddition_ingots/copper.png) |
-| - | Amethyst Shard | ![amethyst_shard](../images/createaddition_amethyst_shard.png) |
+| - | Amethyst Shard | ![amethyst_shard](../images/createaddition_accumulator.png) |
 
 ---
 ## Barbed Wire
@@ -65,8 +65,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/createaddition_sugar.png) |
-| - | Cinder Flour | ![cinder_flour](../images/createaddition_cinder_flour.png) |
+| - | Sugar | ![sugar](../images/createaddition_accumulator.png) |
+| - | Cinder Flour | ![cinder_flour](../images/createaddition_accumulator.png) |
 | - | Biomass | ![biomass](../images/createaddition_biomass.png) |
 | - | Biomass | ![biomass](../images/createaddition_biomass.png) |
 
@@ -83,9 +83,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crops | ![crops](../images/createaddition_crops.png) |
-| - | Crops | ![crops](../images/createaddition_crops.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Crops | ![crops](../images/createaddition_accumulator.png) |
+| - | Crops | ![crops](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -93,9 +93,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flowers | ![flowers](../images/createaddition_flowers.png) |
-| - | Flowers | ![flowers](../images/createaddition_flowers.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Flowers | ![flowers](../images/createaddition_accumulator.png) |
+| - | Flowers | ![flowers](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -103,8 +103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeycomb | ![honeycomb](../images/createaddition_honeycomb.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Honeycomb | ![honeycomb](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -112,10 +112,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leaves | ![leaves](../images/createaddition_leaves.png) |
-| - | Leaves | ![leaves](../images/createaddition_leaves.png) |
-| - | Leaves | ![leaves](../images/createaddition_leaves.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Leaves | ![leaves](../images/createaddition_accumulator.png) |
+| - | Leaves | ![leaves](../images/createaddition_accumulator.png) |
+| - | Leaves | ![leaves](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -123,10 +123,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plants | ![plants](../images/createaddition_plants.png) |
-| - | Plants | ![plants](../images/createaddition_plants.png) |
-| - | Plants | ![plants](../images/createaddition_plants.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Plants | ![plants](../images/createaddition_accumulator.png) |
+| - | Plants | ![plants](../images/createaddition_accumulator.png) |
+| - | Plants | ![plants](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -134,9 +134,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plant Foods | ![plant_foods](../images/createaddition_plant_foods.png) |
-| - | Plant Foods | ![plant_foods](../images/createaddition_plant_foods.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Plant Foods | ![plant_foods](../images/createaddition_accumulator.png) |
+| - | Plant Foods | ![plant_foods](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -144,10 +144,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saplings | ![saplings](../images/createaddition_saplings.png) |
-| - | Saplings | ![saplings](../images/createaddition_saplings.png) |
-| - | Saplings | ![saplings](../images/createaddition_saplings.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Saplings | ![saplings](../images/createaddition_accumulator.png) |
+| - | Saplings | ![saplings](../images/createaddition_accumulator.png) |
+| - | Saplings | ![saplings](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -155,15 +155,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Stick | ![stick](../images/createaddition_stick.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Stick | ![stick](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## Biomass Pellet
@@ -171,7 +171,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass Pellet Block | ![biomass_pellet_block](../images/createaddition_biomass_pellet_block.png) |
+| - | Biomass Pellet Block | ![biomass_pellet_block](../images/createaddition_biomass_pellet.png) |
 
 ---
 ## Biomass Pellet Block
@@ -202,7 +202,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cake Base Baked | ![cake_base_baked](../images/createaddition_cake_base_baked.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -210,10 +210,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/createaddition_eggs.png) |
-| - | Sugar | ![sugar](../images/createaddition_sugar.png) |
-| - | Sugar | ![sugar](../images/createaddition_sugar.png) |
-| - | Dough | ![dough](../images/createaddition_dough.png) |
+| - | Eggs | ![eggs](../images/createaddition_accumulator.png) |
+| - | Sugar | ![sugar](../images/createaddition_accumulator.png) |
+| - | Sugar | ![sugar](../images/createaddition_accumulator.png) |
+| - | Dough | ![dough](../images/createaddition_accumulator.png) |
 
 ---
 ## Cake Base Baked
@@ -231,7 +231,7 @@
 | :--- | :--- | :--- |
 | Z | Plates/Zinc | ![plates/zinc](../images/createaddition_plates/zinc.png) |
 | C | Plates/Copper | ![plates/copper](../images/createaddition_plates/copper.png) |
-| T | Redstone Torch | ![redstone_torch](../images/createaddition_redstone_torch.png) |
+| T | Redstone Torch | ![redstone_torch](../images/createaddition_redstone_connector_base_off.png) |
 
 ---
 ## Capacitor
@@ -241,7 +241,7 @@
 | :--- | :--- | :--- |
 | Z | Plates/Zinc | ![plates/zinc](../images/createaddition_plates/zinc.png) |
 | C | Plates/Copper | ![plates/copper](../images/createaddition_plates/copper.png) |
-| T | Redstone Torch | ![redstone_torch](../images/createaddition_redstone_torch.png) |
+| T | Redstone Torch | ![redstone_torch](../images/createaddition_redstone_connector_base_off.png) |
 
 ---
 ## Enchanted Book
@@ -264,7 +264,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cake Base Baked | ![cake_base_baked](../images/createaddition_cake_base_baked.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -280,7 +280,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal Coke | ![coal_coke](../images/createaddition_coal_coke.png) |
+| - | Coal Coke | ![coal_coke](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -399,7 +399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/createaddition_paper.png) |
+| - | Paper | ![paper](../images/createaddition_accumulator.png) |
 | - | Dusts/Diamond | ![dusts/diamond](../images/createaddition_dusts/diamond.png) |
 
 ---
@@ -415,9 +415,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wired Modem | ![wired_modem](../images/createaddition_wired_modem.png) |
+| - | Wired Modem | ![wired_modem](../images/createaddition_accumulator.png) |
 | - | Plates/Brass | ![plates/brass](../images/createaddition_plates/brass.png) |
-| - | Redstone Torch | ![redstone_torch](../images/createaddition_redstone_torch.png) |
+| - | Redstone Torch | ![redstone_torch](../images/createaddition_redstone_connector_base_off.png) |
 
 ---
 ## Electric Motor
@@ -425,7 +425,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
+| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
 | C | Capacitor | ![capacitor](../images/createaddition_capacitor.png) |
 | B | Plates/Brass | ![plates/brass](../images/createaddition_plates/brass.png) |
 | R | Rods/Iron | ![rods/iron](../images/createaddition_rods/iron.png) |
@@ -543,9 +543,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Fabric Hemp | ![fabric_hemp](../images/createaddition_fabric_hemp.png) |
+| F | Fabric Hemp | ![fabric_hemp](../images/createaddition_accumulator.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/createaddition_rods/wooden.png) |
-| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
+| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
 
 ---
 ## Festive Spool
@@ -600,7 +600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/createaddition_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/createaddition_accumulator.png) |
 | - | Ingots/Cobalt | ![ingots/cobalt](../images/createaddition_ingots/cobalt.png) |
 | - | Ingots/Copper | ![ingots/copper](../images/createaddition_ingots/copper.png) |
 | - | Ingots/Copper | ![ingots/copper](../images/createaddition_ingots/copper.png) |
@@ -612,7 +612,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cake Base Baked | ![cake_base_baked](../images/createaddition_cake_base_baked.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## Iron Rod
@@ -634,8 +634,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone | ![sandstone](../images/createaddition_sandstone.png) |
-| - | Brick | ![brick](../images/createaddition_brick.png) |
+| - | Sandstone | ![sandstone](../images/createaddition_accumulator.png) |
+| - | Brick | ![brick](../images/createaddition_accumulator.png) |
 
 ---
 ## Large Connector
@@ -644,9 +644,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rods/Electrum | ![rods/electrum](../images/createaddition_rods/electrum.png) |
-| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
-| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
-| - | Slimeballs | ![slimeballs](../images/createaddition_slimeballs.png) |
+| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
+| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
+| - | Slimeballs | ![slimeballs](../images/createaddition_accumulator.png) |
 
 ---
 ## Large Connector
@@ -655,9 +655,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rods/Gold | ![rods/gold](../images/createaddition_rods/gold.png) |
-| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
-| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
-| - | Slimeballs | ![slimeballs](../images/createaddition_slimeballs.png) |
+| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
+| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
+| - | Slimeballs | ![slimeballs](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -672,7 +672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Concrete | ![concrete](../images/createaddition_concrete.png) |
+| - | Concrete | ![concrete](../images/createaddition_accumulator.png) |
 | - | Plates/Lead | ![plates/lead](../images/createaddition_plates/lead.png) |
 
 ---
@@ -715,7 +715,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Rods/Copper | ![rods/copper](../images/createaddition_rods/copper.png) |
-| B | Brass Casing | ![brass_casing](../images/createaddition_brass_casing.png) |
+| B | Brass Casing | ![brass_casing](../images/createaddition_andesite_casing_short.png) |
 | C | Capacitor | ![capacitor](../images/createaddition_capacitor.png) |
 | W | Wires/Electrum | ![wires/electrum](../images/createaddition_wires/electrum.png) |
 
@@ -726,7 +726,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Rods/Copper | ![rods/copper](../images/createaddition_rods/copper.png) |
-| B | Brass Casing | ![brass_casing](../images/createaddition_brass_casing.png) |
+| B | Brass Casing | ![brass_casing](../images/createaddition_andesite_casing_short.png) |
 | C | Capacitor | ![capacitor](../images/createaddition_capacitor.png) |
 | W | Wires/Gold | ![wires/gold](../images/createaddition_wires/gold.png) |
 
@@ -736,9 +736,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/createaddition_cobblestone.png) |
-| - | Cinder Flour | ![cinder_flour](../images/createaddition_cinder_flour.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Cobblestone | ![cobblestone](../images/createaddition_accumulator.png) |
+| - | Cinder Flour | ![cinder_flour](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -756,7 +756,7 @@
 | :--- | :--- | :--- |
 | - | Ingots/Iron | ![ingots/iron](../images/createaddition_ingots/iron.png) |
 | - | Slimeball/Blood | ![slimeball/blood](../images/createaddition_slimeball/blood.png) |
-| - | Clay Ball | ![clay_ball](../images/createaddition_clay_ball.png) |
+| - | Clay Ball | ![clay_ball](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -776,7 +776,7 @@
 | - | Slimeball/Blood | ![slimeball/blood](../images/createaddition_slimeball/blood.png) |
 | - | Slimeball/Blood | ![slimeball/blood](../images/createaddition_slimeball/blood.png) |
 | - | Slimeball/Blood | ![slimeball/blood](../images/createaddition_slimeball/blood.png) |
-| - | Honey Block | ![honey_block](../images/createaddition_honey_block.png) |
+| - | Honey Block | ![honey_block](../images/createaddition_block.png) |
 
 ---
 ## {}
@@ -791,8 +791,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brass Casing | ![brass_casing](../images/createaddition_brass_casing.png) |
-| - | Chute | ![chute](../images/createaddition_chute.png) |
+| - | Brass Casing | ![brass_casing](../images/createaddition_andesite_casing_short.png) |
+| - | Chute | ![chute](../images/createaddition_accumulator.png) |
 | - | Copper Spool | ![copper_spool](../images/createaddition_copper_spool.png) |
 
 ---
@@ -803,7 +803,7 @@
 | :--- | :--- | :--- |
 | - | Ingots/Cobalt | ![ingots/cobalt](../images/createaddition_ingots/cobalt.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/createaddition_ingots/gold.png) |
-| - | Magma Cream | ![magma_cream](../images/createaddition_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/createaddition_accumulator.png) |
 
 ---
 ## Redstone Relay
@@ -812,9 +812,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Dusts/Redstone | ![dusts/redstone](../images/createaddition_dusts/redstone.png) |
-| S | Stone | ![stone](../images/createaddition_stone.png) |
+| S | Stone | ![stone](../images/createaddition_redstone_relay_stone.png) |
 | C | Connector | ![connector](../images/createaddition_connector.png) |
-| E | Electron Tube | ![electron_tube](../images/createaddition_electron_tube.png) |
+| E | Electron Tube | ![electron_tube](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -829,7 +829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blastbrick | ![blastbrick](../images/createaddition_blastbrick.png) |
+| - | Blastbrick | ![blastbrick](../images/createaddition_accumulator.png) |
 | - | Plates/Steel | ![plates/steel](../images/createaddition_plates/steel.png) |
 
 ---
@@ -839,9 +839,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Plates/Iron | ![plates/iron](../images/createaddition_plates/iron.png) |
-| S | Shaft | ![shaft](../images/createaddition_shaft.png) |
-| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
-| C | Andesite Casing | ![andesite_casing](../images/createaddition_andesite_casing.png) |
+| S | Shaft | ![shaft](../images/createaddition_accumulator.png) |
+| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
+| C | Andesite Casing | ![andesite_casing](../images/createaddition_andesite_casing_short.png) |
 
 ---
 ## {}
@@ -874,7 +874,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Seeds | ![seeds](../images/createaddition_seeds.png) |
+| - | Seeds | ![seeds](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -899,7 +899,7 @@
 | :--- | :--- | :--- |
 | - | Ingots/Iron | ![ingots/iron](../images/createaddition_ingots/iron.png) |
 | - | Slimeball/Sky | ![slimeball/sky](../images/createaddition_slimeball/sky.png) |
-| - | Seared Blocks | ![seared_blocks](../images/createaddition_seared_blocks.png) |
+| - | Seared Blocks | ![seared_blocks](../images/createaddition_accumulator.png) |
 
 ---
 ## Connector
@@ -908,8 +908,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Rods/Copper | ![rods/copper](../images/createaddition_rods/copper.png) |
-| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
-| - | Slimeballs | ![slimeballs](../images/createaddition_slimeballs.png) |
+| - | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
+| - | Slimeballs | ![slimeballs](../images/createaddition_accumulator.png) |
 
 ---
 ## Small Light Connector
@@ -918,7 +918,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Wires/Iron | ![wires/iron](../images/createaddition_wires/iron.png) |
-| - | Glass | ![glass](../images/createaddition_glass.png) |
+| - | Glass | ![glass](../images/createaddition_accumulator.png) |
 | - | Connector | ![connector](../images/createaddition_connector.png) |
 
 ---
@@ -964,12 +964,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_alloy.png) |
+| A | Andesite Alloy | ![andesite_alloy](../images/createaddition_andesite_casing_short.png) |
 | C | Capacitor | ![capacitor](../images/createaddition_capacitor.png) |
 | P | Plates/Brass | ![plates/brass](../images/createaddition_plates/brass.png) |
-| B | Brass Casing | ![brass_casing](../images/createaddition_brass_casing.png) |
+| B | Brass Casing | ![brass_casing](../images/createaddition_andesite_casing_short.png) |
 | S | Copper Spool | ![copper_spool](../images/createaddition_copper_spool.png) |
-| E | Electron Tube | ![electron_tube](../images/createaddition_electron_tube.png) |
+| E | Electron Tube | ![electron_tube](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -980,7 +980,7 @@
 | - | Ingots/Copper | ![ingots/copper](../images/createaddition_ingots/copper.png) |
 | - | Ingots/Copper | ![ingots/copper](../images/createaddition_ingots/copper.png) |
 | - | Ingots/Copper | ![ingots/copper](../images/createaddition_ingots/copper.png) |
-| - | Glass | ![glass](../images/createaddition_glass.png) |
+| - | Glass | ![glass](../images/createaddition_accumulator.png) |
 
 ---
 ## {}
@@ -988,8 +988,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Planks | ![planks](../images/createaddition_planks.png) |
-| - | Unknown | ![unknown](../images/createaddition_unknown.png) |
+| - | Planks | ![planks](../images/createaddition_accumulator.png) |
+| - | Unknown | ![unknown](../images/createaddition_accumulator.png) |
 
 ---
 ## {}

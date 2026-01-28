@@ -32,7 +32,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -43,7 +43,7 @@
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Acacia Cupboard
@@ -53,7 +53,7 @@
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
 | / | Acacia Planks | ![acacia_planks](../images/handcrafted_acacia_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Acacia Desk
@@ -63,7 +63,7 @@
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
 | / | Acacia Planks | ![acacia_planks](../images/handcrafted_acacia_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Acacia Dining Bench
@@ -80,7 +80,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Acacia Fancy Bed
@@ -90,7 +90,7 @@
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -101,7 +101,7 @@
 | :--- | :--- | :--- |
 | # | Acacia Board | ![acacia_board](../images/handcrafted_acacia_board.png) |
 | / | Acacia Planks | ![acacia_planks](../images/handcrafted_acacia_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Acacia Pillar Trim
@@ -158,8 +158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Cod | ![cod](../images/handcrafted_cod.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Cod | ![cod](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Bench
@@ -167,8 +167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/handcrafted_iron_ingot.png) |
-| / | Iron Bars | ![iron_bars](../images/handcrafted_iron_bars.png) |
+| # | Iron Ingot | ![iron_ingot](../images/handcrafted_acacia_bench.png) |
+| / | Iron Bars | ![iron_bars](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Berry Jam Jar
@@ -176,8 +176,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/handcrafted_sweet_berries.png) |
-| - | Glass Bottle | ![glass_bottle](../images/handcrafted_glass_bottle.png) |
+| - | Sweet Berries | ![sweet_berries](../images/handcrafted_acacia_bench.png) |
+| - | Glass Bottle | ![glass_bottle](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Birch Bench
@@ -210,7 +210,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -221,7 +221,7 @@
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Birch Cupboard
@@ -231,7 +231,7 @@
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
 | / | Birch Planks | ![birch_planks](../images/handcrafted_birch_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Birch Desk
@@ -241,7 +241,7 @@
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
 | / | Birch Planks | ![birch_planks](../images/handcrafted_birch_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Birch Dining Bench
@@ -258,7 +258,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Birch Fancy Bed
@@ -268,7 +268,7 @@
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -279,7 +279,7 @@
 | :--- | :--- | :--- |
 | # | Birch Board | ![birch_board](../images/handcrafted_birch_board.png) |
 | / | Birch Planks | ![birch_planks](../images/handcrafted_birch_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Birch Pillar Trim
@@ -336,8 +336,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/handcrafted_black_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Black Wool | ![black_wool](../images/handcrafted_black_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Black Cushion
@@ -345,8 +345,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Black Dye | ![black_dye](../images/handcrafted_black_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Black Dye | ![black_dye](../images/handcrafted_black_book.png) |
 
 ---
 ## Black Sheet
@@ -354,7 +354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/handcrafted_black_wool.png) |
+| # | Black Wool | ![black_wool](../images/handcrafted_black_book.png) |
 
 ---
 ## Black Sheet
@@ -362,8 +362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Black Dye | ![black_dye](../images/handcrafted_black_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Black Dye | ![black_dye](../images/handcrafted_black_book.png) |
 
 ---
 ## Blaze Trophy
@@ -371,8 +371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Blaze Rod | ![blaze_rod](../images/handcrafted_blaze_rod.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Blaze Rod | ![blaze_rod](../images/handcrafted_blaze.png) |
 
 ---
 ## Blue Bowl
@@ -381,7 +381,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Bowl | ![terracotta_bowl](../images/handcrafted_terracotta_bowl.png) |
-| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_dye.png) |
+| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_book.png) |
 
 ---
 ## Blue Crockery Combo
@@ -399,7 +399,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Cup | ![terracotta_cup](../images/handcrafted_terracotta_cup.png) |
-| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_dye.png) |
+| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_book.png) |
 
 ---
 ## Blue Cushion
@@ -407,8 +407,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/handcrafted_blue_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Blue Wool | ![blue_wool](../images/handcrafted_blue_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Blue Cushion
@@ -416,8 +416,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_book.png) |
 
 ---
 ## Blue Glazed Medium Pot
@@ -426,7 +426,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Medium Pot | ![terracotta_medium_pot](../images/handcrafted_terracotta_medium_pot.png) |
-| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_terracotta.png) |
+| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_medium_pot.png) |
 
 ---
 ## Blue Glazed Thick Pot
@@ -435,7 +435,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Thick Pot | ![terracotta_thick_pot](../images/handcrafted_terracotta_thick_pot.png) |
-| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_terracotta.png) |
+| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_medium_pot.png) |
 
 ---
 ## Blue Glazed Thin Pot
@@ -444,7 +444,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Thin Pot | ![terracotta_thin_pot](../images/handcrafted_terracotta_thin_pot.png) |
-| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_terracotta.png) |
+| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_medium_pot.png) |
 
 ---
 ## Blue Glazed Wide Pot
@@ -453,7 +453,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Wide Pot | ![terracotta_wide_pot](../images/handcrafted_terracotta_wide_pot.png) |
-| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_terracotta.png) |
+| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/handcrafted_blue_glazed_medium_pot.png) |
 
 ---
 ## Blue Plate
@@ -462,7 +462,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Plate | ![terracotta_plate](../images/handcrafted_terracotta_plate.png) |
-| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_dye.png) |
+| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_book.png) |
 
 ---
 ## Blue Sheet
@@ -470,7 +470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/handcrafted_blue_wool.png) |
+| # | Blue Wool | ![blue_wool](../images/handcrafted_blue_book.png) |
 
 ---
 ## Blue Sheet
@@ -478,8 +478,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Blue Dye | ![blue_dye](../images/handcrafted_blue_book.png) |
 
 ---
 ## Bricks Corner Trim
@@ -503,8 +503,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/handcrafted_brown_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Brown Wool | ![brown_wool](../images/handcrafted_brown_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Brown Cushion
@@ -512,8 +512,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Brown Dye | ![brown_dye](../images/handcrafted_brown_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Brown Dye | ![brown_dye](../images/handcrafted_brown_book.png) |
 
 ---
 ## Brown Sheet
@@ -521,7 +521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/handcrafted_brown_wool.png) |
+| # | Brown Wool | ![brown_wool](../images/handcrafted_brown_book.png) |
 
 ---
 ## Brown Sheet
@@ -529,8 +529,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Brown Dye | ![brown_dye](../images/handcrafted_brown_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Brown Dye | ![brown_dye](../images/handcrafted_brown_book.png) |
 
 ---
 ## Calcite Corner Trim
@@ -554,8 +554,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
-| / | Creeper Head | ![creeper_head](../images/handcrafted_creeper_head.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
+| / | Creeper Head | ![creeper_head](../images/handcrafted_creeper_trophy.png) |
 
 ---
 ## Crimson Bench
@@ -588,7 +588,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -599,7 +599,7 @@
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Crimson Cupboard
@@ -609,7 +609,7 @@
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
 | / | Crimson Planks | ![crimson_planks](../images/handcrafted_crimson_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Crimson Desk
@@ -619,7 +619,7 @@
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
 | / | Crimson Planks | ![crimson_planks](../images/handcrafted_crimson_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Crimson Dining Bench
@@ -636,7 +636,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Crimson Fancy Bed
@@ -646,7 +646,7 @@
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -657,7 +657,7 @@
 | :--- | :--- | :--- |
 | # | Crimson Board | ![crimson_board](../images/handcrafted_crimson_board.png) |
 | / | Crimson Planks | ![crimson_planks](../images/handcrafted_crimson_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Crimson Pillar Trim
@@ -698,8 +698,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/handcrafted_cyan_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Cyan Wool | ![cyan_wool](../images/handcrafted_cyan_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Cyan Cushion
@@ -707,8 +707,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Cyan Dye | ![cyan_dye](../images/handcrafted_cyan_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Cyan Dye | ![cyan_dye](../images/handcrafted_cyan_book.png) |
 
 ---
 ## Cyan Sheet
@@ -716,7 +716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/handcrafted_cyan_wool.png) |
+| # | Cyan Wool | ![cyan_wool](../images/handcrafted_cyan_book.png) |
 
 ---
 ## Cyan Sheet
@@ -724,8 +724,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Cyan Dye | ![cyan_dye](../images/handcrafted_cyan_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Cyan Dye | ![cyan_dye](../images/handcrafted_cyan_book.png) |
 
 ---
 ## Dark Oak Bench
@@ -758,7 +758,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -769,7 +769,7 @@
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Dark Oak Cupboard
@@ -779,7 +779,7 @@
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
 | / | Dark Oak Planks | ![dark_oak_planks](../images/handcrafted_dark_oak_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Dark Oak Desk
@@ -789,7 +789,7 @@
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
 | / | Dark Oak Planks | ![dark_oak_planks](../images/handcrafted_dark_oak_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Dark Oak Dining Bench
@@ -806,7 +806,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Dark Oak Fancy Bed
@@ -816,7 +816,7 @@
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -827,7 +827,7 @@
 | :--- | :--- | :--- |
 | # | Dark Oak Board | ![dark_oak_board](../images/handcrafted_dark_oak_board.png) |
 | / | Dark Oak Planks | ![dark_oak_planks](../images/handcrafted_dark_oak_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Dark Oak Pillar Trim
@@ -916,8 +916,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
-| / | Totem Of Undying | ![totem_of_undying](../images/handcrafted_totem_of_undying.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
+| / | Totem Of Undying | ![totem_of_undying](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Fancy Painting
@@ -925,8 +925,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Painting | ![painting](../images/handcrafted_painting.png) |
-| - | Gold Ingot | ![gold_ingot](../images/handcrafted_gold_ingot.png) |
+| - | Painting | ![painting](../images/handcrafted_fancy_painting.png) |
+| - | Gold Ingot | ![gold_ingot](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Fox Trophy
@@ -934,8 +934,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Sweet Berries | ![sweet_berries](../images/handcrafted_sweet_berries.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Sweet Berries | ![sweet_berries](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Frozen Bench
@@ -944,7 +944,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Bench | ![bench](../images/handcrafted_bench.png) |
-| / | Snowball | ![snowball](../images/handcrafted_snowball.png) |
+| / | Snowball | ![snowball](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Goat Trophy
@@ -952,8 +952,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Goat Horn | ![goat_horn](../images/handcrafted_goat_horn.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Goat Horn | ![goat_horn](../images/handcrafted_goat.png) |
 
 ---
 ## Golden Medium Pot
@@ -962,7 +962,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Medium Pot | ![terracotta_medium_pot](../images/handcrafted_terracotta_medium_pot.png) |
-| - | Gold Block | ![gold_block](../images/handcrafted_gold_block.png) |
+| - | Gold Block | ![gold_block](../images/handcrafted_dripstone_block.png) |
 
 ---
 ## Golden Thick Pot
@@ -971,7 +971,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Thick Pot | ![terracotta_thick_pot](../images/handcrafted_terracotta_thick_pot.png) |
-| - | Gold Block | ![gold_block](../images/handcrafted_gold_block.png) |
+| - | Gold Block | ![gold_block](../images/handcrafted_dripstone_block.png) |
 
 ---
 ## Golden Thin Pot
@@ -980,7 +980,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Thin Pot | ![terracotta_thin_pot](../images/handcrafted_terracotta_thin_pot.png) |
-| - | Gold Block | ![gold_block](../images/handcrafted_gold_block.png) |
+| - | Gold Block | ![gold_block](../images/handcrafted_dripstone_block.png) |
 
 ---
 ## Golden Wide Pot
@@ -989,7 +989,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Wide Pot | ![terracotta_wide_pot](../images/handcrafted_terracotta_wide_pot.png) |
-| - | Gold Block | ![gold_block](../images/handcrafted_gold_block.png) |
+| - | Gold Block | ![gold_block](../images/handcrafted_dripstone_block.png) |
 
 ---
 ## Granite Corner Trim
@@ -1013,8 +1013,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/handcrafted_gray_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Gray Wool | ![gray_wool](../images/handcrafted_gray_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Gray Cushion
@@ -1022,8 +1022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Gray Dye | ![gray_dye](../images/handcrafted_gray_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Gray Dye | ![gray_dye](../images/handcrafted_gray_book.png) |
 
 ---
 ## Gray Sheet
@@ -1031,7 +1031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/handcrafted_gray_wool.png) |
+| # | Gray Wool | ![gray_wool](../images/handcrafted_gray_book.png) |
 
 ---
 ## Gray Sheet
@@ -1039,8 +1039,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Gray Dye | ![gray_dye](../images/handcrafted_gray_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Gray Dye | ![gray_dye](../images/handcrafted_gray_book.png) |
 
 ---
 ## Green Cushion
@@ -1048,8 +1048,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/handcrafted_green_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Green Wool | ![green_wool](../images/handcrafted_green_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Green Cushion
@@ -1057,8 +1057,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Green Dye | ![green_dye](../images/handcrafted_green_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Green Dye | ![green_dye](../images/handcrafted_green_book.png) |
 
 ---
 ## Green Sheet
@@ -1066,7 +1066,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/handcrafted_green_wool.png) |
+| # | Green Wool | ![green_wool](../images/handcrafted_green_book.png) |
 
 ---
 ## Green Sheet
@@ -1074,8 +1074,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Green Dye | ![green_dye](../images/handcrafted_green_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Green Dye | ![green_dye](../images/handcrafted_green_book.png) |
 
 ---
 ## Hammer
@@ -1083,8 +1083,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Iron Ingot | ![iron_ingot](../images/handcrafted_iron_ingot.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Iron Ingot | ![iron_ingot](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Jungle Bench
@@ -1117,7 +1117,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1128,7 +1128,7 @@
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Jungle Cupboard
@@ -1138,7 +1138,7 @@
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
 | / | Jungle Planks | ![jungle_planks](../images/handcrafted_jungle_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Jungle Desk
@@ -1148,7 +1148,7 @@
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
 | / | Jungle Planks | ![jungle_planks](../images/handcrafted_jungle_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Jungle Dining Bench
@@ -1165,7 +1165,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Jungle Fancy Bed
@@ -1175,7 +1175,7 @@
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1186,7 +1186,7 @@
 | :--- | :--- | :--- |
 | # | Jungle Board | ![jungle_board](../images/handcrafted_jungle_board.png) |
 | / | Jungle Planks | ![jungle_planks](../images/handcrafted_jungle_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Jungle Pillar Trim
@@ -1227,8 +1227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Bars | ![iron_bars](../images/handcrafted_iron_bars.png) |
-| / | Kitchen Hood Pipe | ![kitchen_hood_pipe](../images/handcrafted_kitchen_hood_pipe.png) |
+| # | Iron Bars | ![iron_bars](../images/handcrafted_acacia_bench.png) |
+| / | Kitchen Hood Pipe | ![kitchen_hood_pipe](../images/handcrafted_kitchen_hood_corner_pipe.png) |
 
 ---
 ## Kitchen Hood Pipe
@@ -1236,7 +1236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Bars | ![iron_bars](../images/handcrafted_iron_bars.png) |
+| # | Iron Bars | ![iron_bars](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Light Blue Cushion
@@ -1244,8 +1244,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/handcrafted_light_blue_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/handcrafted_light_blue_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Light Blue Cushion
@@ -1253,8 +1253,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Light Blue Dye | ![light_blue_dye](../images/handcrafted_light_blue_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/handcrafted_light_blue_book.png) |
 
 ---
 ## Light Blue Sheet
@@ -1262,7 +1262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/handcrafted_light_blue_wool.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/handcrafted_light_blue_book.png) |
 
 ---
 ## Light Blue Sheet
@@ -1270,8 +1270,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Light Blue Dye | ![light_blue_dye](../images/handcrafted_light_blue_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/handcrafted_light_blue_book.png) |
 
 ---
 ## Light Gray Cushion
@@ -1279,8 +1279,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/handcrafted_light_gray_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/handcrafted_light_gray_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Light Gray Cushion
@@ -1288,8 +1288,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Light Gray Dye | ![light_gray_dye](../images/handcrafted_light_gray_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/handcrafted_light_gray_book.png) |
 
 ---
 ## Light Gray Sheet
@@ -1297,7 +1297,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/handcrafted_light_gray_wool.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/handcrafted_light_gray_book.png) |
 
 ---
 ## Light Gray Sheet
@@ -1305,8 +1305,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Light Gray Dye | ![light_gray_dye](../images/handcrafted_light_gray_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/handcrafted_light_gray_book.png) |
 
 ---
 ## Lime Cushion
@@ -1314,8 +1314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/handcrafted_lime_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Lime Wool | ![lime_wool](../images/handcrafted_lime_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Lime Cushion
@@ -1323,8 +1323,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Lime Dye | ![lime_dye](../images/handcrafted_lime_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Lime Dye | ![lime_dye](../images/handcrafted_lime_book.png) |
 
 ---
 ## Lime Sheet
@@ -1332,7 +1332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/handcrafted_lime_wool.png) |
+| # | Lime Wool | ![lime_wool](../images/handcrafted_lime_book.png) |
 
 ---
 ## Lime Sheet
@@ -1340,8 +1340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Lime Dye | ![lime_dye](../images/handcrafted_lime_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Lime Dye | ![lime_dye](../images/handcrafted_lime_book.png) |
 
 ---
 ## Magenta Cushion
@@ -1349,8 +1349,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/handcrafted_magenta_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Magenta Wool | ![magenta_wool](../images/handcrafted_magenta_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Magenta Cushion
@@ -1358,8 +1358,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Magenta Dye | ![magenta_dye](../images/handcrafted_magenta_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Magenta Dye | ![magenta_dye](../images/handcrafted_magenta_book.png) |
 
 ---
 ## Magenta Sheet
@@ -1367,7 +1367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/handcrafted_magenta_wool.png) |
+| # | Magenta Wool | ![magenta_wool](../images/handcrafted_magenta_book.png) |
 
 ---
 ## Magenta Sheet
@@ -1375,8 +1375,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Magenta Dye | ![magenta_dye](../images/handcrafted_magenta_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Magenta Dye | ![magenta_dye](../images/handcrafted_magenta_book.png) |
 
 ---
 ## Mangrove Bench
@@ -1409,7 +1409,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1420,7 +1420,7 @@
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Mangrove Cupboard
@@ -1430,7 +1430,7 @@
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
 | / | Mangrove Planks | ![mangrove_planks](../images/handcrafted_mangrove_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Mangrove Desk
@@ -1440,7 +1440,7 @@
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
 | / | Mangrove Planks | ![mangrove_planks](../images/handcrafted_mangrove_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Mangrove Dining Bench
@@ -1457,7 +1457,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Mangrove Fancy Bed
@@ -1467,7 +1467,7 @@
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1478,7 +1478,7 @@
 | :--- | :--- | :--- |
 | # | Mangrove Board | ![mangrove_board](../images/handcrafted_mangrove_board.png) |
 | / | Mangrove Planks | ![mangrove_planks](../images/handcrafted_mangrove_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Mangrove Pillar Trim
@@ -1544,7 +1544,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1555,7 +1555,7 @@
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Oak Cupboard
@@ -1565,7 +1565,7 @@
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
 | / | Oak Planks | ![oak_planks](../images/handcrafted_oak_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Oak Desk
@@ -1575,7 +1575,7 @@
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
 | / | Oak Planks | ![oak_planks](../images/handcrafted_oak_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Oak Dining Bench
@@ -1592,7 +1592,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Oak Fancy Bed
@@ -1602,7 +1602,7 @@
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1613,7 +1613,7 @@
 | :--- | :--- | :--- |
 | # | Oak Board | ![oak_board](../images/handcrafted_oak_board.png) |
 | / | Oak Planks | ![oak_planks](../images/handcrafted_oak_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Oak Pillar Trim
@@ -1654,8 +1654,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/handcrafted_orange_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Orange Wool | ![orange_wool](../images/handcrafted_orange_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Orange Cushion
@@ -1663,8 +1663,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Orange Dye | ![orange_dye](../images/handcrafted_orange_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Orange Dye | ![orange_dye](../images/handcrafted_orange_book.png) |
 
 ---
 ## Orange Sheet
@@ -1672,7 +1672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/handcrafted_orange_wool.png) |
+| # | Orange Wool | ![orange_wool](../images/handcrafted_orange_book.png) |
 
 ---
 ## Orange Sheet
@@ -1680,8 +1680,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Orange Dye | ![orange_dye](../images/handcrafted_orange_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Orange Dye | ![orange_dye](../images/handcrafted_orange_book.png) |
 
 ---
 ## Oven
@@ -1689,9 +1689,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brick | ![brick](../images/handcrafted_brick.png) |
-| / | Iron Bars | ![iron_bars](../images/handcrafted_iron_bars.png) |
-| @ | Smoker | ![smoker](../images/handcrafted_smoker.png) |
+| # | Brick | ![brick](../images/handcrafted_acacia_bench.png) |
+| / | Iron Bars | ![iron_bars](../images/handcrafted_acacia_bench.png) |
+| @ | Smoker | ![smoker](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Phantom Trophy
@@ -1699,9 +1699,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Phantom Membrane | ![phantom_membrane](../images/handcrafted_phantom_membrane.png) |
-| / | Boards | ![boards](../images/handcrafted_boards.png) |
-| @ | Chain | ![chain](../images/handcrafted_chain.png) |
+| # | Phantom Membrane | ![phantom_membrane](../images/handcrafted_phantom.png) |
+| / | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| @ | Chain | ![chain](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Pillager Trophy
@@ -1709,8 +1709,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
-| / | Crossbow | ![crossbow](../images/handcrafted_crossbow.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
+| / | Crossbow | ![crossbow](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Pink Cushion
@@ -1718,8 +1718,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/handcrafted_pink_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Pink Wool | ![pink_wool](../images/handcrafted_pink_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Pink Cushion
@@ -1727,8 +1727,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Pink Dye | ![pink_dye](../images/handcrafted_pink_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Pink Dye | ![pink_dye](../images/handcrafted_pink_book.png) |
 
 ---
 ## Pink Sheet
@@ -1736,7 +1736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/handcrafted_pink_wool.png) |
+| # | Pink Wool | ![pink_wool](../images/handcrafted_pink_book.png) |
 
 ---
 ## Pink Sheet
@@ -1744,8 +1744,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Pink Dye | ![pink_dye](../images/handcrafted_pink_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Pink Dye | ![pink_dye](../images/handcrafted_pink_book.png) |
 
 ---
 ## Pufferfish Trophy
@@ -1753,7 +1753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
 | / | Pufferfish | ![pufferfish](../images/handcrafted_pufferfish.png) |
 
 ---
@@ -1762,8 +1762,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/handcrafted_purple_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Purple Wool | ![purple_wool](../images/handcrafted_purple_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Purple Cushion
@@ -1771,8 +1771,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Purple Dye | ![purple_dye](../images/handcrafted_purple_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Purple Dye | ![purple_dye](../images/handcrafted_purple_book.png) |
 
 ---
 ## Purple Sheet
@@ -1780,7 +1780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/handcrafted_purple_wool.png) |
+| # | Purple Wool | ![purple_wool](../images/handcrafted_purple_book.png) |
 
 ---
 ## Purple Sheet
@@ -1788,8 +1788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Purple Dye | ![purple_dye](../images/handcrafted_purple_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Purple Dye | ![purple_dye](../images/handcrafted_purple_book.png) |
 
 ---
 ## Quartz Corner Trim
@@ -1813,8 +1813,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/handcrafted_red_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Red Wool | ![red_wool](../images/handcrafted_red_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Red Cushion
@@ -1822,8 +1822,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Red Dye | ![red_dye](../images/handcrafted_red_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Red Dye | ![red_dye](../images/handcrafted_red_book.png) |
 
 ---
 ## Red Sheet
@@ -1831,7 +1831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/handcrafted_red_wool.png) |
+| # | Red Wool | ![red_wool](../images/handcrafted_red_book.png) |
 
 ---
 ## Red Sheet
@@ -1839,8 +1839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Red Dye | ![red_dye](../images/handcrafted_red_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Red Dye | ![red_dye](../images/handcrafted_red_book.png) |
 
 ---
 ## Salmon Trophy
@@ -1848,7 +1848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
 | / | Salmon | ![salmon](../images/handcrafted_salmon.png) |
 
 ---
@@ -1857,8 +1857,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/handcrafted_chiseled_stone_bricks.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/handcrafted_bricks.png) |
 
 ---
 ## Skeleton Horse Trophy
@@ -1866,8 +1866,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Saddle | ![saddle](../images/handcrafted_saddle.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Saddle | ![saddle](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Skeleton Trophy
@@ -1875,8 +1875,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
-| / | Skeleton Skull | ![skeleton_skull](../images/handcrafted_skeleton_skull.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
+| / | Skeleton Skull | ![skeleton_skull](../images/handcrafted_horse_skeleton.png) |
 
 ---
 ## Spider Trophy
@@ -1884,8 +1884,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Spider Eye | ![spider_eye](../images/handcrafted_spider_eye.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Spider Eye | ![spider_eye](../images/handcrafted_spider.png) |
 
 ---
 ## Spruce Bench
@@ -1918,7 +1918,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1929,7 +1929,7 @@
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Spruce Cupboard
@@ -1939,7 +1939,7 @@
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
 | / | Spruce Planks | ![spruce_planks](../images/handcrafted_spruce_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Spruce Desk
@@ -1949,7 +1949,7 @@
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
 | / | Spruce Planks | ![spruce_planks](../images/handcrafted_spruce_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Spruce Dining Bench
@@ -1966,7 +1966,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Spruce Fancy Bed
@@ -1976,7 +1976,7 @@
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -1987,7 +1987,7 @@
 | :--- | :--- | :--- |
 | # | Spruce Board | ![spruce_board](../images/handcrafted_spruce_board.png) |
 | / | Spruce Planks | ![spruce_planks](../images/handcrafted_spruce_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Spruce Pillar Trim
@@ -2028,7 +2028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Book | ![book](../images/handcrafted_book.png) |
+| # | Book | ![book](../images/handcrafted_black_book.png) |
 
 ---
 ## Stone Corner Trim
@@ -2036,7 +2036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
 
 ---
 ## Stone Pillar Trim
@@ -2044,7 +2044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
 
 ---
 ## Terracotta Bowl
@@ -2052,7 +2052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Terracotta Crockery Combo
@@ -2069,7 +2069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Terracotta Medium Pot
@@ -2077,7 +2077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Terracotta Plate
@@ -2085,7 +2085,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Terracotta Thick Pot
@@ -2093,7 +2093,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Terracotta Thin Pot
@@ -2101,7 +2101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Terracotta Wide Pot
@@ -2109,7 +2109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/handcrafted_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/handcrafted_terracotta_bowl.png) |
 
 ---
 ## Tropical Fish Trophy
@@ -2117,8 +2117,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Tropical Fish | ![tropical_fish](../images/handcrafted_tropical_fish.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Tropical Fish | ![tropical_fish](../images/handcrafted_orange_tropical_fish_trophy.png) |
 
 ---
 ## Vindicator Trophy
@@ -2126,8 +2126,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
-| / | Iron Axe | ![iron_axe](../images/handcrafted_iron_axe.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
+| / | Iron Axe | ![iron_axe](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Warped Bench
@@ -2160,7 +2160,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -2171,7 +2171,7 @@
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
 | / | Calcite | ![calcite](../images/handcrafted_calcite.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Warped Cupboard
@@ -2181,7 +2181,7 @@
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
 | / | Warped Planks | ![warped_planks](../images/handcrafted_warped_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Warped Desk
@@ -2191,7 +2191,7 @@
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
 | / | Warped Planks | ![warped_planks](../images/handcrafted_warped_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Warped Dining Bench
@@ -2208,7 +2208,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
-| / | Chest | ![chest](../images/handcrafted_chest.png) |
+| / | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Warped Fancy Bed
@@ -2218,7 +2218,7 @@
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
 | $ | White Sheet | ![white_sheet](../images/handcrafted_white_sheet.png) |
-| / | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| / | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 | @ | White Cushion | ![white_cushion](../images/handcrafted_white_cushion.png) |
 
 ---
@@ -2229,7 +2229,7 @@
 | :--- | :--- | :--- |
 | # | Warped Board | ![warped_board](../images/handcrafted_warped_board.png) |
 | / | Warped Planks | ![warped_planks](../images/handcrafted_warped_planks.png) |
-| @ | Chest | ![chest](../images/handcrafted_chest.png) |
+| @ | Chest | ![chest](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Warped Pillar Trim
@@ -2271,7 +2271,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Bowl | ![terracotta_bowl](../images/handcrafted_terracotta_bowl.png) |
-| - | White Dye | ![white_dye](../images/handcrafted_white_dye.png) |
+| - | White Dye | ![white_dye](../images/handcrafted_white_book.png) |
 
 ---
 ## White Crockery Combo
@@ -2289,7 +2289,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Cup | ![terracotta_cup](../images/handcrafted_terracotta_cup.png) |
-| - | White Dye | ![white_dye](../images/handcrafted_white_dye.png) |
+| - | White Dye | ![white_dye](../images/handcrafted_white_book.png) |
 
 ---
 ## White Cushion
@@ -2297,8 +2297,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## White Cushion
@@ -2306,8 +2306,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | White Dye | ![white_dye](../images/handcrafted_white_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | White Dye | ![white_dye](../images/handcrafted_white_book.png) |
 
 ---
 ## White Glazed Medium Pot
@@ -2316,7 +2316,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Medium Pot | ![terracotta_medium_pot](../images/handcrafted_terracotta_medium_pot.png) |
-| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_terracotta.png) |
+| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_medium_pot.png) |
 
 ---
 ## White Glazed Thick Pot
@@ -2325,7 +2325,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Thick Pot | ![terracotta_thick_pot](../images/handcrafted_terracotta_thick_pot.png) |
-| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_terracotta.png) |
+| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_medium_pot.png) |
 
 ---
 ## White Glazed Thin Pot
@@ -2334,7 +2334,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Thin Pot | ![terracotta_thin_pot](../images/handcrafted_terracotta_thin_pot.png) |
-| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_terracotta.png) |
+| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_medium_pot.png) |
 
 ---
 ## White Glazed Wide Pot
@@ -2343,7 +2343,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Wide Pot | ![terracotta_wide_pot](../images/handcrafted_terracotta_wide_pot.png) |
-| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_terracotta.png) |
+| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/handcrafted_white_glazed_medium_pot.png) |
 
 ---
 ## White Plate
@@ -2352,7 +2352,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Plate | ![terracotta_plate](../images/handcrafted_terracotta_plate.png) |
-| - | White Dye | ![white_dye](../images/handcrafted_white_dye.png) |
+| - | White Dye | ![white_dye](../images/handcrafted_white_book.png) |
 
 ---
 ## White Sheet
@@ -2360,7 +2360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/handcrafted_white_wool.png) |
+| # | White Wool | ![white_wool](../images/handcrafted_white_book.png) |
 
 ---
 ## White Sheet
@@ -2368,8 +2368,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | White Dye | ![white_dye](../images/handcrafted_white_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | White Dye | ![white_dye](../images/handcrafted_white_book.png) |
 
 ---
 ## Witch Trophy
@@ -2377,8 +2377,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/handcrafted_stone.png) |
-| / | Glass Bottle | ![glass_bottle](../images/handcrafted_glass_bottle.png) |
+| # | Stone | ![stone](../images/handcrafted_smooth_stone.png) |
+| / | Glass Bottle | ![glass_bottle](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Wither Skeleton Trophy
@@ -2386,8 +2386,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Wither Skeleton Skull | ![wither_skeleton_skull](../images/handcrafted_wither_skeleton_skull.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Wither Skeleton Skull | ![wither_skeleton_skull](../images/handcrafted_wither_skeleton.png) |
 
 ---
 ## Wolf Trophy
@@ -2395,8 +2395,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
-| / | Bone | ![bone](../images/handcrafted_bone.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
+| / | Bone | ![bone](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Wood Bowl
@@ -2404,7 +2404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Wood Crockery Combo
@@ -2421,7 +2421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Wood Plate
@@ -2429,7 +2429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boards | ![boards](../images/handcrafted_boards.png) |
+| # | Boards | ![boards](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Yellow Bowl
@@ -2438,7 +2438,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Bowl | ![terracotta_bowl](../images/handcrafted_terracotta_bowl.png) |
-| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_dye.png) |
+| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_book.png) |
 
 ---
 ## Yellow Crockery Combo
@@ -2456,7 +2456,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Cup | ![terracotta_cup](../images/handcrafted_terracotta_cup.png) |
-| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_dye.png) |
+| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_book.png) |
 
 ---
 ## Yellow Cushion
@@ -2464,8 +2464,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/handcrafted_yellow_wool.png) |
-| / | Feather | ![feather](../images/handcrafted_feather.png) |
+| # | Yellow Wool | ![yellow_wool](../images/handcrafted_yellow_book.png) |
+| / | Feather | ![feather](../images/handcrafted_acacia_bench.png) |
 
 ---
 ## Yellow Cushion
@@ -2473,8 +2473,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cushions | ![cushions](../images/handcrafted_cushions.png) |
-| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_dye.png) |
+| - | Cushions | ![cushions](../images/handcrafted_acacia_bench.png) |
+| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_book.png) |
 
 ---
 ## Yellow Plate
@@ -2483,7 +2483,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Terracotta Plate | ![terracotta_plate](../images/handcrafted_terracotta_plate.png) |
-| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_dye.png) |
+| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_book.png) |
 
 ---
 ## Yellow Sheet
@@ -2491,7 +2491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/handcrafted_yellow_wool.png) |
+| # | Yellow Wool | ![yellow_wool](../images/handcrafted_yellow_book.png) |
 
 ---
 ## Yellow Sheet
@@ -2499,7 +2499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheets | ![sheets](../images/handcrafted_sheets.png) |
-| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_dye.png) |
+| - | Sheets | ![sheets](../images/handcrafted_acacia_bench.png) |
+| - | Yellow Dye | ![yellow_dye](../images/handcrafted_yellow_book.png) |
 
 ---

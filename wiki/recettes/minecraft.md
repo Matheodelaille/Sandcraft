@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Asphalt | ![asphalt](../images/minecraft_asphalt.png) |
+| item | Asphalt | ![asphalt](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Asphalt Stair
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Asphalt | ![asphalt](../images/minecraft_asphalt.png) |
+| item | Asphalt | ![asphalt](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## {}
@@ -30,7 +30,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Potato | ![potato](../images/minecraft_potato.png) |
+| item | Potato | ![potato](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Big Cartridge Sheet
@@ -38,7 +38,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Inexpensive Big Cartridge Sheet | ![inexpensive_big_cartridge_sheet](../images/minecraft_inexpensive_big_cartridge_sheet.png) |
+| S | Inexpensive Big Cartridge Sheet | ![inexpensive_big_cartridge_sheet](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## {}
@@ -60,8 +60,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/minecraft_black_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Black Dye | ![black_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Blue Ice
@@ -69,7 +69,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Packed Ice | ![packed_ice](../images/minecraft_packed_ice.png) |
+| item | Packed Ice | ![packed_ice](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Blue Wool
@@ -77,8 +77,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/minecraft_blue_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Blue Dye | ![blue_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Bookshelf
@@ -86,8 +86,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/minecraft_planks.png) |
-| X | Book | ![book](../images/minecraft_book.png) |
+| # | Planks | ![planks](../images/minecraft_acacia_log_top_thick.png) |
+| X | Book | ![book](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Bread
@@ -95,7 +95,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wheat | ![wheat](../images/minecraft_wheat.png) |
+| # | Wheat | ![wheat](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Brown Wool
@@ -103,8 +103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dye | ![brown_dye](../images/minecraft_brown_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Brown Dye | ![brown_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Brush
@@ -113,8 +113,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Copper Ingot | ![copper_ingot](../images/minecraft_copper_ingot.png) |
-| I | Stick | ![stick](../images/minecraft_stick.png) |
-| X | Feather | ![feather](../images/minecraft_feather.png) |
+| I | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
+| X | Feather | ![feather](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cake
@@ -122,10 +122,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk Bucket | ![milk_bucket](../images/minecraft_milk_bucket.png) |
-| B | Sugar | ![sugar](../images/minecraft_sugar.png) |
-| C | Wheat | ![wheat](../images/minecraft_wheat.png) |
-| E | Egg | ![egg](../images/minecraft_egg.png) |
+| A | Milk Bucket | ![milk_bucket](../images/minecraft_acacia_log_top_thick.png) |
+| B | Sugar | ![sugar](../images/minecraft_acacia_log_top_thick.png) |
+| C | Wheat | ![wheat](../images/minecraft_acacia_log_top_thick.png) |
+| E | Egg | ![egg](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundbeefitem
@@ -133,7 +133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundbeefitem | ![groundbeefitem](../images/minecraft_groundbeefitem.png) |
+| item | Groundbeefitem | ![groundbeefitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundchickenitem
@@ -141,7 +141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundchickenitem | ![groundchickenitem](../images/minecraft_groundchickenitem.png) |
+| item | Groundchickenitem | ![groundchickenitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundfishitem
@@ -149,7 +149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundfishitem | ![groundfishitem](../images/minecraft_groundfishitem.png) |
+| item | Groundfishitem | ![groundfishitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundmuttonitem
@@ -157,7 +157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundmuttonitem | ![groundmuttonitem](../images/minecraft_groundmuttonitem.png) |
+| item | Groundmuttonitem | ![groundmuttonitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundrabbititem
@@ -165,7 +165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundrabbititem | ![groundrabbititem](../images/minecraft_groundrabbititem.png) |
+| item | Groundrabbititem | ![groundrabbititem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Roastedsunflowerseedsitem
@@ -173,7 +173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunflowerseedsitem | ![sunflowerseedsitem](../images/minecraft_sunflowerseedsitem.png) |
+| item | Sunflowerseedsitem | ![sunflowerseedsitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cannon Welder
@@ -181,10 +181,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sheet Brass | ![sheet_brass](../images/minecraft_sheet_brass.png) |
-| I | Sheet Iron | ![sheet_iron](../images/minecraft_sheet_iron.png) |
-| V | Valve Handles | ![valve_handles](../images/minecraft_valve_handles.png) |
-| Z | Blaze Burner | ![blaze_burner](../images/minecraft_blaze_burner.png) |
+| B | Sheet Brass | ![sheet_brass](../images/minecraft_acacia_log_top_thick.png) |
+| I | Sheet Iron | ![sheet_iron](../images/minecraft_acacia_log_top_thick.png) |
+| V | Valve Handles | ![valve_handles](../images/minecraft_acacia_log_top_thick.png) |
+| Z | Blaze Burner | ![blaze_burner](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Carmine Block
@@ -192,7 +192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Carmine Husk | ![carmine_husk](../images/minecraft_carmine_husk.png) |
+| # | Carmine Husk | ![carmine_husk](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Carmine Husk
@@ -200,7 +200,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carmine Block | ![carmine_block](../images/minecraft_carmine_block.png) |
+| - | Carmine Block | ![carmine_block](../images/minecraft_copper_block.png) |
 
 ---
 ## {}
@@ -222,7 +222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cast Iron Ingot | ![cast_iron_ingot](../images/minecraft_cast_iron_ingot.png) |
+| # | Cast Iron Ingot | ![cast_iron_ingot](../images/minecraft_copper_ingot.png) |
 
 ---
 ## Cast Iron Ingot
@@ -230,7 +230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cast Iron Block | ![cast_iron_block](../images/minecraft_cast_iron_block.png) |
+| - | Cast Iron Block | ![cast_iron_block](../images/minecraft_copper_block.png) |
 
 ---
 ## Cast Iron Ingot
@@ -238,7 +238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cast Iron Nugget | ![cast_iron_nugget](../images/minecraft_cast_iron_nugget.png) |
+| # | Cast Iron Nugget | ![cast_iron_nugget](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cast Iron Nugget
@@ -246,7 +246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cast Iron Ingot | ![cast_iron_ingot](../images/minecraft_cast_iron_ingot.png) |
+| - | Cast Iron Ingot | ![cast_iron_ingot](../images/minecraft_copper_ingot.png) |
 
 ---
 ## Chainmail Boots
@@ -254,7 +254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chain | ![chain](../images/minecraft_chain.png) |
+| # | Chain | ![chain](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Chainmail Chestplate
@@ -262,7 +262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chain | ![chain](../images/minecraft_chain.png) |
+| # | Chain | ![chain](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Chainmail Helmet
@@ -270,7 +270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chain | ![chain](../images/minecraft_chain.png) |
+| # | Chain | ![chain](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Chainmail Leggings
@@ -278,7 +278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chain | ![chain](../images/minecraft_chain.png) |
+| # | Chain | ![chain](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Chest
@@ -286,7 +286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/minecraft_planks.png) |
+| # | Planks | ![planks](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Chest Minecart
@@ -295,7 +295,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Chests/Wooden | ![chests/wooden](../images/minecraft_chests/wooden.png) |
-| B | Minecart | ![minecart](../images/minecraft_minecart.png) |
+| B | Minecart | ![minecart](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Comparator
@@ -303,9 +303,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Torch | ![redstone_torch](../images/minecraft_redstone_torch.png) |
-| X | Quartz | ![quartz](../images/minecraft_quartz.png) |
-| I | Smooth Stone Crafting Materials | ![smooth_stone_crafting_materials](../images/minecraft_smooth_stone_crafting_materials.png) |
+| # | Redstone Torch | ![redstone_torch](../images/minecraft_acacia_log_top_thick.png) |
+| X | Quartz | ![quartz](../images/minecraft_acacia_log_top_thick.png) |
+| I | Smooth Stone Crafting Materials | ![smooth_stone_crafting_materials](../images/minecraft_stone_brick_moss.png) |
 
 ---
 ## Cooked Beef
@@ -313,7 +313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Beef | ![beef](../images/minecraft_beef.png) |
+| item | Beef | ![beef](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Buffalo Meat
@@ -321,7 +321,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Buffalo Meat | ![buffalo_meat](../images/minecraft_buffalo_meat.png) |
+| item | Buffalo Meat | ![buffalo_meat](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Buffalo Meat
@@ -329,7 +329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Buffalo Meat | ![buffalo_meat](../images/minecraft_buffalo_meat.png) |
+| item | Buffalo Meat | ![buffalo_meat](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Buffalo Meat
@@ -337,7 +337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Buffalo Meat | ![buffalo_meat](../images/minecraft_buffalo_meat.png) |
+| item | Buffalo Meat | ![buffalo_meat](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Chicken
@@ -345,7 +345,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chicken | ![chicken](../images/minecraft_chicken.png) |
+| item | Chicken | ![chicken](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Cod
@@ -353,7 +353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cod | ![cod](../images/minecraft_cod.png) |
+| item | Cod | ![cod](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Mutton
@@ -361,7 +361,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mutton | ![mutton](../images/minecraft_mutton.png) |
+| item | Mutton | ![mutton](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Porkchop
@@ -369,7 +369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Porkchop | ![porkchop](../images/minecraft_porkchop.png) |
+| item | Porkchop | ![porkchop](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Rabbit
@@ -377,7 +377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rabbit | ![rabbit](../images/minecraft_rabbit.png) |
+| item | Rabbit | ![rabbit](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cooked Salmon
@@ -385,7 +385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Salmon | ![salmon](../images/minecraft_salmon.png) |
+| item | Salmon | ![salmon](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookie
@@ -393,8 +393,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wheat | ![wheat](../images/minecraft_wheat.png) |
-| X | Cocoa Beans | ![cocoa_beans](../images/minecraft_cocoa_beans.png) |
+| # | Wheat | ![wheat](../images/minecraft_acacia_log_top_thick.png) |
+| X | Cocoa Beans | ![cocoa_beans](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cyan Wool
@@ -402,8 +402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/minecraft_cyan_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Cyan Dye | ![cyan_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Dark Prismarine
@@ -411,8 +411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Prismarine Shard | ![prismarine_shard](../images/minecraft_prismarine_shard.png) |
-| I | Ink Sac | ![ink_sac](../images/minecraft_ink_sac.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/minecraft_acacia_log_top_thick.png) |
+| I | Ink Sac | ![ink_sac](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## {}
@@ -435,9 +435,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/minecraft_redstone.png) |
-| # | Cobblestone | ![cobblestone](../images/minecraft_cobblestone.png) |
-| X | Bow | ![bow](../images/minecraft_bow.png) |
+| R | Redstone | ![redstone](../images/minecraft_acacia_log_top_thick.png) |
+| # | Cobblestone | ![cobblestone](../images/minecraft_cobblestone_moss.png) |
+| X | Bow | ![bow](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Dried Kelp
@@ -445,7 +445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelp | ![kelp](../images/minecraft_kelp.png) |
+| item | Kelp | ![kelp](../images/minecraft_dried_kelp.png) |
 
 ---
 ## {}
@@ -460,8 +460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/minecraft_redstone.png) |
-| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_crafting_materials.png) |
+| R | Redstone | ![redstone](../images/minecraft_acacia_log_top_thick.png) |
+| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_brick_moss.png) |
 
 ---
 ## {}
@@ -476,7 +476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_crafting_materials.png) |
+| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_brick_moss.png) |
 
 ---
 ## Furnace Minecart
@@ -484,8 +484,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Furnace | ![furnace](../images/minecraft_furnace.png) |
-| B | Minecart | ![minecart](../images/minecraft_minecart.png) |
+| A | Furnace | ![furnace](../images/minecraft_acacia_log_top_thick.png) |
+| B | Minecart | ![minecart](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Gray Wool
@@ -493,8 +493,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dye | ![gray_dye](../images/minecraft_gray_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Gray Dye | ![gray_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Green Wool
@@ -502,8 +502,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/minecraft_green_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Green Dye | ![green_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Hopper Minecart
@@ -511,8 +511,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Hopper | ![hopper](../images/minecraft_hopper.png) |
-| B | Minecart | ![minecart](../images/minecraft_minecart.png) |
+| A | Hopper | ![hopper](../images/minecraft_acacia_log_top_thick.png) |
+| B | Minecart | ![minecart](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Ice
@@ -520,7 +520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Water Bucket | ![water_bucket](../images/minecraft_water_bucket.png) |
+| item | Water Bucket | ![water_bucket](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Ladder
@@ -536,7 +536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rabbit Hide | ![rabbit_hide](../images/minecraft_rabbit_hide.png) |
+| # | Rabbit Hide | ![rabbit_hide](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Leather Horse Armor
@@ -544,10 +544,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
-| X | Leather | ![leather](../images/minecraft_leather.png) |
-| I | Leather Leggings | ![leather_leggings](../images/minecraft_leather_leggings.png) |
-| M | Leather Helmet | ![leather_helmet](../images/minecraft_leather_helmet.png) |
+| W | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
+| X | Leather | ![leather](../images/minecraft_acacia_log_top_thick.png) |
+| I | Leather Leggings | ![leather_leggings](../images/minecraft_acacia_log_top_thick.png) |
+| M | Leather Helmet | ![leather_helmet](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Lectern
@@ -555,8 +555,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Wooden Slabs | ![wooden_slabs](../images/minecraft_wooden_slabs.png) |
-| B | Bookshelves | ![bookshelves](../images/minecraft_bookshelves.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/minecraft_acacia_log_top_thick.png) |
+| B | Bookshelves | ![bookshelves](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Lever
@@ -564,8 +564,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_crafting_materials.png) |
-| X | Stick | ![stick](../images/minecraft_stick.png) |
+| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_brick_moss.png) |
+| X | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Light Blue Wool
@@ -573,8 +573,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/minecraft_light_blue_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Light Gray Wool
@@ -582,8 +582,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/minecraft_light_gray_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Lime Wool
@@ -591,8 +591,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/minecraft_lime_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Lime Dye | ![lime_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Magenta Wool
@@ -600,8 +600,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/minecraft_magenta_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Magenta Dye | ![magenta_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## {}
@@ -623,7 +623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nethersteel Ingot | ![nethersteel_ingot](../images/minecraft_nethersteel_ingot.png) |
+| # | Nethersteel Ingot | ![nethersteel_ingot](../images/minecraft_copper_ingot.png) |
 
 ---
 ## Nethersteel Ingot
@@ -631,7 +631,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nethersteel Block | ![nethersteel_block](../images/minecraft_nethersteel_block.png) |
+| - | Nethersteel Block | ![nethersteel_block](../images/minecraft_copper_block.png) |
 
 ---
 ## Nethersteel Ingot
@@ -639,7 +639,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nethersteel Nugget | ![nethersteel_nugget](../images/minecraft_nethersteel_nugget.png) |
+| # | Nethersteel Nugget | ![nethersteel_nugget](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Nethersteel Nugget
@@ -647,7 +647,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nethersteel Ingot | ![nethersteel_ingot](../images/minecraft_nethersteel_ingot.png) |
+| - | Nethersteel Ingot | ![nethersteel_ingot](../images/minecraft_copper_ingot.png) |
 
 ---
 ## Nether Wart Block
@@ -655,7 +655,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nether Wart | ![nether_wart](../images/minecraft_nether_wart.png) |
+| # | Nether Wart | ![nether_wart](../images/minecraft_chiseled_nether_bricks.png) |
 
 ---
 ## Observer
@@ -663,9 +663,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Quartz | ![quartz](../images/minecraft_quartz.png) |
-| R | Redstone | ![redstone](../images/minecraft_redstone.png) |
-| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_crafting_materials.png) |
+| Q | Quartz | ![quartz](../images/minecraft_acacia_log_top_thick.png) |
+| R | Redstone | ![redstone](../images/minecraft_acacia_log_top_thick.png) |
+| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_brick_moss.png) |
 
 ---
 ## Orange Dye
@@ -673,7 +673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gloomy Cactus | ![gloomy_cactus](../images/minecraft_gloomy_cactus.png) |
+| item | Gloomy Cactus | ![gloomy_cactus](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Orange Wool
@@ -681,8 +681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/minecraft_orange_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Orange Dye | ![orange_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Packed Ice
@@ -690,7 +690,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ice | ![ice](../images/minecraft_ice.png) |
+| item | Ice | ![ice](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Paper
@@ -698,7 +698,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sugar Cane | ![sugar_cane](../images/minecraft_sugar_cane.png) |
+| # | Sugar Cane | ![sugar_cane](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Pink Wool
@@ -706,8 +706,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/minecraft_pink_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Pink Dye | ![pink_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Piston
@@ -715,10 +715,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/minecraft_redstone.png) |
-| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_crafting_materials.png) |
-| T | Planks | ![planks](../images/minecraft_planks.png) |
-| X | Iron Ingot | ![iron_ingot](../images/minecraft_iron_ingot.png) |
+| R | Redstone | ![redstone](../images/minecraft_acacia_log_top_thick.png) |
+| # | Stone Crafting Materials | ![stone_crafting_materials](../images/minecraft_stone_brick_moss.png) |
+| T | Planks | ![planks](../images/minecraft_acacia_log_top_thick.png) |
+| X | Iron Ingot | ![iron_ingot](../images/minecraft_copper_ingot.png) |
 
 ---
 ## Pumpkin Pie
@@ -726,9 +726,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pumpkin | ![pumpkin](../images/minecraft_pumpkin.png) |
-| - | Sugar | ![sugar](../images/minecraft_sugar.png) |
-| - | Egg | ![egg](../images/minecraft_egg.png) |
+| - | Pumpkin | ![pumpkin](../images/minecraft_acacia_log_top_thick.png) |
+| - | Sugar | ![sugar](../images/minecraft_acacia_log_top_thick.png) |
+| - | Egg | ![egg](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Purple Dye
@@ -736,8 +736,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/minecraft_blue_dye.png) |
-| - | Red Dye | ![red_dye](../images/minecraft_red_dye.png) |
+| - | Blue Dye | ![blue_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | Red Dye | ![red_dye](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Purple Wool
@@ -745,8 +745,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/minecraft_purple_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Purple Dye | ![purple_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Red Dye
@@ -754,7 +754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coffee Berries | ![coffee_berries](../images/minecraft_coffee_berries.png) |
+| - | Coffee Berries | ![coffee_berries](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Red Nether Bricks
@@ -762,10 +762,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Red Nether Brick | ![red_nether_brick](../images/minecraft_red_nether_brick.png) |
-| 1 | Red Nether Brick | ![red_nether_brick](../images/minecraft_red_nether_brick.png) |
-| 2 | Red Nether Brick | ![red_nether_brick](../images/minecraft_red_nether_brick.png) |
-| 3 | Red Nether Brick | ![red_nether_brick](../images/minecraft_red_nether_brick.png) |
+| 0 | Red Nether Brick | ![red_nether_brick](../images/minecraft_nether_brick.png) |
+| 1 | Red Nether Brick | ![red_nether_brick](../images/minecraft_nether_brick.png) |
+| 2 | Red Nether Brick | ![red_nether_brick](../images/minecraft_nether_brick.png) |
+| 3 | Red Nether Brick | ![red_nether_brick](../images/minecraft_nether_brick.png) |
 
 ---
 ## Red Wool
@@ -773,8 +773,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/minecraft_red_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Red Dye | ![red_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Repeater
@@ -782,9 +782,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Torch | ![redstone_torch](../images/minecraft_redstone_torch.png) |
-| X | Redstone | ![redstone](../images/minecraft_redstone.png) |
-| I | Stone | ![stone](../images/minecraft_stone.png) |
+| # | Redstone Torch | ![redstone_torch](../images/minecraft_acacia_log_top_thick.png) |
+| X | Redstone | ![redstone](../images/minecraft_acacia_log_top_thick.png) |
+| I | Stone | ![stone](../images/minecraft_stone_brick_moss.png) |
 
 ---
 ## Shulker Box
@@ -792,8 +792,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chests | ![chests](../images/minecraft_chests.png) |
-| - | Shulker Shell | ![shulker_shell](../images/minecraft_shulker_shell.png) |
+| # | Chests | ![chests](../images/minecraft_acacia_log_top_thick.png) |
+| - | Shulker Shell | ![shulker_shell](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundbeefitem
@@ -801,7 +801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundbeefitem | ![groundbeefitem](../images/minecraft_groundbeefitem.png) |
+| item | Groundbeefitem | ![groundbeefitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundchickenitem
@@ -809,7 +809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundchickenitem | ![groundchickenitem](../images/minecraft_groundchickenitem.png) |
+| item | Groundchickenitem | ![groundchickenitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundfishitem
@@ -817,7 +817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundfishitem | ![groundfishitem](../images/minecraft_groundfishitem.png) |
+| item | Groundfishitem | ![groundfishitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundmuttonitem
@@ -825,7 +825,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundmuttonitem | ![groundmuttonitem](../images/minecraft_groundmuttonitem.png) |
+| item | Groundmuttonitem | ![groundmuttonitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundrabbititem
@@ -833,7 +833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundrabbititem | ![groundrabbititem](../images/minecraft_groundrabbititem.png) |
+| item | Groundrabbititem | ![groundrabbititem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Roastedsunflowerseedsitem
@@ -841,7 +841,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunflowerseedsitem | ![sunflowerseedsitem](../images/minecraft_sunflowerseedsitem.png) |
+| item | Sunflowerseedsitem | ![sunflowerseedsitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundbeefitem
@@ -849,7 +849,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundbeefitem | ![groundbeefitem](../images/minecraft_groundbeefitem.png) |
+| item | Groundbeefitem | ![groundbeefitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundchickenitem
@@ -857,7 +857,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundchickenitem | ![groundchickenitem](../images/minecraft_groundchickenitem.png) |
+| item | Groundchickenitem | ![groundchickenitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundfishitem
@@ -865,7 +865,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundfishitem | ![groundfishitem](../images/minecraft_groundfishitem.png) |
+| item | Groundfishitem | ![groundfishitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundmuttonitem
@@ -873,7 +873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundmuttonitem | ![groundmuttonitem](../images/minecraft_groundmuttonitem.png) |
+| item | Groundmuttonitem | ![groundmuttonitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Cookedgroundrabbititem
@@ -881,7 +881,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Groundrabbititem | ![groundrabbititem](../images/minecraft_groundrabbititem.png) |
+| item | Groundrabbititem | ![groundrabbititem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Roastedsunflowerseedsitem
@@ -889,7 +889,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunflowerseedsitem | ![sunflowerseedsitem](../images/minecraft_sunflowerseedsitem.png) |
+| item | Sunflowerseedsitem | ![sunflowerseedsitem](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Spectral Arrow
@@ -897,8 +897,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glowstone Dust | ![glowstone_dust](../images/minecraft_glowstone_dust.png) |
-| X | Arrow | ![arrow](../images/minecraft_arrow.png) |
+| # | Glowstone Dust | ![glowstone_dust](../images/minecraft_acacia_log_top_thick.png) |
+| X | Arrow | ![arrow](../images/minecraft_crossbow_arrow_base.png) |
 
 ---
 ## Stone Axe
@@ -906,8 +906,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/minecraft_stick.png) |
-| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone.png) |
+| # | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
+| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone_moss.png) |
 
 ---
 ## Stone Hoe
@@ -915,8 +915,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/minecraft_stick.png) |
-| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone.png) |
+| # | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
+| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone_moss.png) |
 
 ---
 ## Stone Pickaxe
@@ -924,8 +924,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/minecraft_stick.png) |
-| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone.png) |
+| # | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
+| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone_moss.png) |
 
 ---
 ## Stone Shovel
@@ -933,8 +933,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/minecraft_stick.png) |
-| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone.png) |
+| # | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
+| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone_moss.png) |
 
 ---
 ## Stone Sword
@@ -942,8 +942,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/minecraft_stick.png) |
-| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone.png) |
+| # | Stick | ![stick](../images/minecraft_acacia_log_top_thick.png) |
+| X | Cobblestone | ![cobblestone](../images/minecraft_cobblestone_moss.png) |
 
 ---
 ## String
@@ -951,7 +951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flax | ![flax](../images/minecraft_flax.png) |
+| - | Flax | ![flax](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Tnt
@@ -959,8 +959,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sand | ![sand](../images/minecraft_sand.png) |
-| X | Gunpowder | ![gunpowder](../images/minecraft_gunpowder.png) |
+| # | Sand | ![sand](../images/minecraft_suspicious_sand_0.png) |
+| X | Gunpowder | ![gunpowder](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Tnt Minecart
@@ -968,8 +968,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Tnt | ![tnt](../images/minecraft_tnt.png) |
-| B | Minecart | ![minecart](../images/minecraft_minecart.png) |
+| A | Tnt | ![tnt](../images/minecraft_acacia_log_top_thick.png) |
+| B | Minecart | ![minecart](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## {}
@@ -992,7 +992,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chests/Wooden | ![chests/wooden](../images/minecraft_chests/wooden.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/minecraft_tripwire_hook.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Waxed Pinecone
@@ -1000,8 +1000,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pinecone | ![pinecone](../images/minecraft_pinecone.png) |
-| - | Honeycomb | ![honeycomb](../images/minecraft_honeycomb.png) |
+| - | Pinecone | ![pinecone](../images/minecraft_acacia_log_top_thick.png) |
+| - | Honeycomb | ![honeycomb](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Wrought Iron Drop Mortar End
@@ -1009,8 +1009,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/minecraft_iron_bars.png) |
-| E | Wrought Iron Cannon End | ![wrought_iron_cannon_end](../images/minecraft_wrought_iron_cannon_end.png) |
+| B | Iron Bars | ![iron_bars](../images/minecraft_acacia_log_top_thick.png) |
+| E | Wrought Iron Cannon End | ![wrought_iron_cannon_end](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Xrex Burger
@@ -1018,15 +1018,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Bread | ![bread](../images/minecraft_bread.png) |
-| 1 | Bread | ![bread](../images/minecraft_bread.png) |
-| 2 | Bread | ![bread](../images/minecraft_bread.png) |
-| 3 | Cooked Chicken | ![cooked_chicken](../images/minecraft_cooked_chicken.png) |
-| 4 | Birch Sapling | ![birch_sapling](../images/minecraft_birch_sapling.png) |
-| 5 | Experience Bottle | ![experience_bottle](../images/minecraft_experience_bottle.png) |
-| 6 | Bread | ![bread](../images/minecraft_bread.png) |
-| 7 | Bread | ![bread](../images/minecraft_bread.png) |
-| 8 | Bread | ![bread](../images/minecraft_bread.png) |
+| 0 | Bread | ![bread](../images/minecraft_acacia_log_top_thick.png) |
+| 1 | Bread | ![bread](../images/minecraft_acacia_log_top_thick.png) |
+| 2 | Bread | ![bread](../images/minecraft_acacia_log_top_thick.png) |
+| 3 | Cooked Chicken | ![cooked_chicken](../images/minecraft_acacia_log_top_thick.png) |
+| 4 | Birch Sapling | ![birch_sapling](../images/minecraft_birch_log_top_thick.png) |
+| 5 | Experience Bottle | ![experience_bottle](../images/minecraft_acacia_log_top_thick.png) |
+| 6 | Bread | ![bread](../images/minecraft_acacia_log_top_thick.png) |
+| 7 | Bread | ![bread](../images/minecraft_acacia_log_top_thick.png) |
+| 8 | Bread | ![bread](../images/minecraft_acacia_log_top_thick.png) |
 
 ---
 ## Yellow Wool
@@ -1034,7 +1034,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/minecraft_yellow_dye.png) |
-| - | White Wool | ![white_wool](../images/minecraft_white_wool.png) |
+| - | Yellow Dye | ![yellow_dye](../images/minecraft_acacia_log_top_thick.png) |
+| - | White Wool | ![white_wool](../images/minecraft_acacia_log_top_thick.png) |
 
 ---

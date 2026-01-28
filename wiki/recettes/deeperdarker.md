@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gloomslate Brick Slab | ![gloomslate_brick_slab](../images/deeperdarker_gloomslate_brick_slab.png) |
+| # | Gloomslate Brick Slab | ![gloomslate_brick_slab](../images/deeperdarker_chiseled_gloomslate.png) |
 
 ---
 ## Chiseled Gloomslate
@@ -31,7 +31,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sculk Stone Brick Slab | ![sculk_stone_brick_slab](../images/deeperdarker_sculk_stone_brick_slab.png) |
+| # | Sculk Stone Brick Slab | ![sculk_stone_brick_slab](../images/deeperdarker_chiseled_sculk_stone.png) |
 
 ---
 ## Chiseled Sculk Stone
@@ -399,7 +399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/deeperdarker_stick.png) |
+| # | Stick | ![stick](../images/deeperdarker_ancient_vase.png) |
 | W | Echo Planks | ![echo_planks](../images/deeperdarker_echo_planks.png) |
 
 ---
@@ -408,7 +408,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/deeperdarker_stick.png) |
+| # | Stick | ![stick](../images/deeperdarker_ancient_vase.png) |
 | W | Echo Planks | ![echo_planks](../images/deeperdarker_echo_planks.png) |
 
 ---
@@ -417,7 +417,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Echo Logs | ![echo_logs](../images/deeperdarker_echo_logs.png) |
+| - | Echo Logs | ![echo_logs](../images/deeperdarker_echo_boat.png) |
 
 ---
 ## Echo Pressure Plate
@@ -434,7 +434,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Echo Planks | ![echo_planks](../images/deeperdarker_echo_planks.png) |
-| X | Stick | ![stick](../images/deeperdarker_stick.png) |
+| X | Stick | ![stick](../images/deeperdarker_ancient_vase.png) |
 
 ---
 ## Echo Slab
@@ -1139,8 +1139,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Warden Carapace | ![warden_carapace](../images/deeperdarker_warden_carapace.png) |
-| E | Echo Shard | ![echo_shard](../images/deeperdarker_echo_shard.png) |
-| P | Phantom Membrane | ![phantom_membrane](../images/deeperdarker_phantom_membrane.png) |
+| E | Echo Shard | ![echo_shard](../images/deeperdarker_reinforced_echo_shard.png) |
+| P | Phantom Membrane | ![phantom_membrane](../images/deeperdarker_ancient_vase.png) |
 
 ---
 ## Sculk Grime
@@ -1622,7 +1622,7 @@
 | :--- | :--- | :--- |
 | B | Sculk Bone | ![sculk_bone](../images/deeperdarker_sculk_bone.png) |
 | D | Soul Dust | ![soul_dust](../images/deeperdarker_soul_dust.png) |
-| E | Elytra | ![elytra](../images/deeperdarker_elytra.png) |
+| E | Elytra | ![elytra](../images/deeperdarker_soul_elytra.png) |
 | S | Soul Crystal | ![soul_crystal](../images/deeperdarker_soul_crystal.png) |
 
 ---

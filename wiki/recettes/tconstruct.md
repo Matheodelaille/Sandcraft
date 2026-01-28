@@ -35,7 +35,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acacia Planks | ![acacia_planks](../images/tconstruct_acacia_planks.png) |
+| item | Acacia Planks | ![acacia_planks](../images/tconstruct_accessory_tconstruct_wood_acacia.png) |
 
 ---
 ## Scorched Alloyer
@@ -44,7 +44,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Scorched Brick | ![scorched_brick](../images/tconstruct_scorched_brick.png) |
-| G | Unknown | ![unknown](../images/tconstruct_unknown.png) |
+| G | Unknown | ![unknown](../images/tconstruct_accessory_tconstruct_unknown.png) |
 
 ---
 ## Molten Porcelain'}
@@ -89,7 +89,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Bronze Block | ![amethyst_bronze_block](../images/tconstruct_amethyst_bronze_block.png) |
+| - | Amethyst Bronze Block | ![amethyst_bronze_block](../images/tconstruct_accessory_tconstruct_amethyst_bronze.png) |
 
 ---
 ## Amethyst Bronze Ingot
@@ -121,7 +121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Andesite | ![andesite](../images/tconstruct_andesite.png) |
+| tag | Andesite | ![andesite](../images/tconstruct_accessory_tconstruct_rock_andesite.png) |
 
 ---
 ## Andesite Alloy
@@ -150,9 +150,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Anvil | ![anvil](../images/tconstruct_anvil.png) |
-| - | Chipped Anvil | ![chipped_anvil](../images/tconstruct_chipped_anvil.png) |
-| - | Damaged Anvil | ![damaged_anvil](../images/tconstruct_damaged_anvil.png) |
+| - | Anvil | ![anvil](../images/tconstruct_anvil_base.png) |
+| - | Chipped Anvil | ![chipped_anvil](../images/tconstruct_anvil_base.png) |
+| - | Damaged Anvil | ![damaged_anvil](../images/tconstruct_anvil_base.png) |
 
 ---
 ## Molten Gold'}
@@ -160,7 +160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Golden Apple | ![golden_apple](../images/tconstruct_golden_apple.png) |
+| item | Golden Apple | ![golden_apple](../images/tconstruct_diamonmd_apple.png) |
 
 ---
 ## {}
@@ -196,8 +196,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Axe | ![netherite_axe](../images/tconstruct_netherite_axe.png) |
-| - | Netherite Pickaxe | ![netherite_pickaxe](../images/tconstruct_netherite_pickaxe.png) |
+| - | Netherite Axe | ![netherite_axe](../images/tconstruct_axe.png) |
+| - | Netherite Pickaxe | ![netherite_pickaxe](../images/tconstruct_netherite_nugget.png) |
 
 ---
 ## {}
@@ -234,9 +234,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Basalt | ![smooth_basalt](../images/tconstruct_smooth_basalt.png) |
-| I | Iron Ingot | ![iron_ingot](../images/tconstruct_iron_ingot.png) |
-| X | Furnace | ![furnace](../images/tconstruct_furnace.png) |
+| # | Smooth Basalt | ![smooth_basalt](../images/tconstruct_accessory_tconstruct_flint_basalt.png) |
+| I | Iron Ingot | ![iron_ingot](../images/tconstruct_accessory_tconstruct_iron.png) |
+| X | Furnace | ![furnace](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -244,9 +244,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Potion | ![potion](../images/tconstruct_potion.png) |
-| nbt | Mundane"} | ![mundane"}](../images/tconstruct_mundane"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Potion | ![potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Mundane"} | ![mundane"}](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -254,9 +254,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Potion | ![potion](../images/tconstruct_potion.png) |
-| nbt | Thick"} | ![thick"}](../images/tconstruct_thick"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Potion | ![potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Thick"} | ![thick"}](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Basin
@@ -272,7 +272,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Beacon | ![beacon](../images/tconstruct_beacon.png) |
+| item | Beacon | ![beacon](../images/tconstruct_ability.png) |
 
 ---
 ## Honey'}
@@ -294,7 +294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Beetroot | ![beetroot](../images/tconstruct_beetroot.png) |
+| item | Beetroot | ![beetroot](../images/tconstruct_ability.png) |
 
 ---
 ## Molten Gold'}
@@ -302,7 +302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bell | ![bell](../images/tconstruct_bell.png) |
+| item | Bell | ![bell](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -310,7 +310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Birch Planks | ![birch_planks](../images/tconstruct_birch_planks.png) |
+| item | Birch Planks | ![birch_planks](../images/tconstruct_accessory_tconstruct_wood_birch.png) |
 
 ---
 ## {}
@@ -318,7 +318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Blackstone | ![blackstone](../images/tconstruct_blackstone.png) |
+| tag | Blackstone | ![blackstone](../images/tconstruct_accessory_tconstruct_rock_blackstone.png) |
 
 ---
 ## Black Clear Stained Glass
@@ -335,7 +335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Clear Stained Glass | ![black_clear_stained_glass](../images/tconstruct_black_clear_stained_glass.png) |
+| # | Black Clear Stained Glass | ![black_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Black Clear Stained Glass Pane
@@ -343,7 +343,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Black | ![dyes/black](../images/tconstruct_dyes/black.png) |
 
 ---
@@ -451,20 +451,20 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Porcelain Block | ![porcelain_block](../images/tconstruct_porcelain_block.png) |
-| - | Rainbow Porcelain | ![rainbow_porcelain](../images/tconstruct_rainbow_porcelain.png) |
-| - | Porcelain Bricks | ![porcelain_bricks](../images/tconstruct_porcelain_bricks.png) |
-| - | Porcelain Bricks Stairs | ![porcelain_bricks_stairs](../images/tconstruct_porcelain_bricks_stairs.png) |
-| - | Porcelain Bricks Wall | ![porcelain_bricks_wall](../images/tconstruct_porcelain_bricks_wall.png) |
-| - | Monochrome Bricks | ![monochrome_bricks](../images/tconstruct_monochrome_bricks.png) |
-| - | Monochrome Bricks Stairs | ![monochrome_bricks_stairs](../images/tconstruct_monochrome_bricks_stairs.png) |
-| - | Monochrome Bricks Wall | ![monochrome_bricks_wall](../images/tconstruct_monochrome_bricks_wall.png) |
-| - | Marine Bricks | ![marine_bricks](../images/tconstruct_marine_bricks.png) |
-| - | Marine Bricks Stairs | ![marine_bricks_stairs](../images/tconstruct_marine_bricks_stairs.png) |
-| - | Marine Bricks Wall | ![marine_bricks_wall](../images/tconstruct_marine_bricks_wall.png) |
-| - | Rainbow Bricks | ![rainbow_bricks](../images/tconstruct_rainbow_bricks.png) |
-| - | Rainbow Bricks Stairs | ![rainbow_bricks_stairs](../images/tconstruct_rainbow_bricks_stairs.png) |
-| - | Rainbow Bricks Wall | ![rainbow_bricks_wall](../images/tconstruct_rainbow_bricks_wall.png) |
+| - | Porcelain Block | ![porcelain_block](../images/tconstruct_block.png) |
+| - | Rainbow Porcelain | ![rainbow_porcelain](../images/tconstruct_ability.png) |
+| - | Porcelain Bricks | ![porcelain_bricks](../images/tconstruct_bricks.png) |
+| - | Porcelain Bricks Stairs | ![porcelain_bricks_stairs](../images/tconstruct_bricks.png) |
+| - | Porcelain Bricks Wall | ![porcelain_bricks_wall](../images/tconstruct_bricks.png) |
+| - | Monochrome Bricks | ![monochrome_bricks](../images/tconstruct_bricks.png) |
+| - | Monochrome Bricks Stairs | ![monochrome_bricks_stairs](../images/tconstruct_bricks.png) |
+| - | Monochrome Bricks Wall | ![monochrome_bricks_wall](../images/tconstruct_bricks.png) |
+| - | Marine Bricks | ![marine_bricks](../images/tconstruct_bricks.png) |
+| - | Marine Bricks Stairs | ![marine_bricks_stairs](../images/tconstruct_bricks.png) |
+| - | Marine Bricks Wall | ![marine_bricks_wall](../images/tconstruct_bricks.png) |
+| - | Rainbow Bricks | ![rainbow_bricks](../images/tconstruct_bricks.png) |
+| - | Rainbow Bricks Stairs | ![rainbow_bricks_stairs](../images/tconstruct_bricks.png) |
+| - | Rainbow Bricks Wall | ![rainbow_bricks_wall](../images/tconstruct_bricks.png) |
 
 ---
 ## Seared Stone
@@ -486,10 +486,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Egg | ![egg](../images/tconstruct_egg.png) |
-| M | Honey Bucket | ![honey_bucket](../images/tconstruct_honey_bucket.png) |
+| E | Egg | ![egg](../images/tconstruct_ability.png) |
+| M | Honey Bucket | ![honey_bucket](../images/tconstruct_potion_bucket.png) |
 | S | Dusts/Glowstone | ![dusts/glowstone](../images/tconstruct_dusts/glowstone.png) |
-| W | Blood Slime Tall Grass | ![blood_slime_tall_grass](../images/tconstruct_blood_slime_tall_grass.png) |
+| W | Blood Slime Tall Grass | ![blood_slime_tall_grass](../images/tconstruct_blood_slime_grass_seeds.png) |
 
 ---
 ## Blood'}
@@ -504,7 +504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bloodshroom Logs | ![bloodshroom_logs](../images/tconstruct_bloodshroom_logs.png) |
+| tag | Bloodshroom Logs | ![bloodshroom_logs](../images/tconstruct_accessory_tconstruct_slimewood_bloodshroom.png) |
 
 ---
 ## {}
@@ -512,7 +512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bloodshroom Planks | ![bloodshroom_planks](../images/tconstruct_bloodshroom_planks.png) |
+| item | Bloodshroom Planks | ![bloodshroom_planks](../images/tconstruct_accessory_tconstruct_slimewood_bloodshroom.png) |
 
 ---
 ## Blue Clear Stained Glass
@@ -529,7 +529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Clear Stained Glass | ![blue_clear_stained_glass](../images/tconstruct_blue_clear_stained_glass.png) |
+| # | Blue Clear Stained Glass | ![blue_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Blue Clear Stained Glass Pane
@@ -537,7 +537,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Blue | ![dyes/blue](../images/tconstruct_dyes/blue.png) |
 
 ---
@@ -553,7 +553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Ice | ![blue_ice](../images/tconstruct_blue_ice.png) |
+| item | Blue Ice | ![blue_ice](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -561,7 +561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Bones | ![bones](../images/tconstruct_bones.png) |
+| tag | Bones | ![bones](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -576,10 +576,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/tconstruct_paper.png) |
-| - | Paper | ![paper](../images/tconstruct_paper.png) |
-| - | Paper | ![paper](../images/tconstruct_paper.png) |
-| - | Slimeballs | ![slimeballs](../images/tconstruct_slimeballs.png) |
+| - | Paper | ![paper](../images/tconstruct_ability.png) |
+| - | Paper | ![paper](../images/tconstruct_ability.png) |
+| - | Paper | ![paper](../images/tconstruct_ability.png) |
+| - | Slimeballs | ![slimeballs](../images/tconstruct_ability.png) |
 | - | Pattern | ![pattern](../images/tconstruct_pattern.png) |
 | - | Pattern | ![pattern](../images/tconstruct_pattern.png) |
 
@@ -589,7 +589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherite Boots | ![netherite_boots](../images/tconstruct_netherite_boots.png) |
+| item | Netherite Boots | ![netherite_boots](../images/tconstruct_boots.png) |
 
 ---
 ## Boots Plating Dummy
@@ -625,7 +625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glass Bottle | ![glass_bottle](../images/tconstruct_glass_bottle.png) |
+| item | Glass Bottle | ![glass_bottle](../images/tconstruct_bottle_reversed.png) |
 
 ---
 ## {}
@@ -725,7 +725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Porcelain Brick | ![porcelain_brick](../images/tconstruct_porcelain_brick.png) |
+| item | Porcelain Brick | ![porcelain_brick](../images/tconstruct_brick.png) |
 
 ---
 ## Molten Porcelain'}
@@ -733,12 +733,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Porcelain Bricks Slab | ![porcelain_bricks_slab](../images/tconstruct_porcelain_bricks_slab.png) |
-| - | Monochrome Bricks Slab | ![monochrome_bricks_slab](../images/tconstruct_monochrome_bricks_slab.png) |
-| - | Marine Bricks Slab | ![marine_bricks_slab](../images/tconstruct_marine_bricks_slab.png) |
-| - | Rainbow Bricks Slab | ![rainbow_bricks_slab](../images/tconstruct_rainbow_bricks_slab.png) |
-| - | Porcelain Faucet | ![porcelain_faucet](../images/tconstruct_porcelain_faucet.png) |
-| - | Porcelain Channel | ![porcelain_channel](../images/tconstruct_porcelain_channel.png) |
+| - | Porcelain Bricks Slab | ![porcelain_bricks_slab](../images/tconstruct_bricks.png) |
+| - | Monochrome Bricks Slab | ![monochrome_bricks_slab](../images/tconstruct_bricks.png) |
+| - | Marine Bricks Slab | ![marine_bricks_slab](../images/tconstruct_bricks.png) |
+| - | Rainbow Bricks Slab | ![rainbow_bricks_slab](../images/tconstruct_bricks.png) |
+| - | Porcelain Faucet | ![porcelain_faucet](../images/tconstruct_faucet.png) |
+| - | Porcelain Channel | ![porcelain_channel](../images/tconstruct_channel_in.png) |
 
 ---
 ## Molten Porcelain'}
@@ -746,7 +746,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Porcelain Cisterns | ![porcelain_cisterns](../images/tconstruct_porcelain_cisterns.png) |
+| tag | Porcelain Cisterns | ![porcelain_cisterns](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Brick
@@ -775,7 +775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brick Slab | ![brick_slab](../images/tconstruct_brick_slab.png) |
+| item | Brick Slab | ![brick_slab](../images/tconstruct_brick.png) |
 
 ---
 ## Broad Axe
@@ -862,7 +862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Clear Stained Glass | ![brown_clear_stained_glass](../images/tconstruct_brown_clear_stained_glass.png) |
+| # | Brown Clear Stained Glass | ![brown_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Brown Clear Stained Glass Pane
@@ -870,7 +870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Brown | ![dyes/brown](../images/tconstruct_dyes/brown.png) |
 
 ---
@@ -886,7 +886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bucket | ![bucket](../images/tconstruct_bucket.png) |
+| item | Bucket | ![bucket](../images/tconstruct_potion_bucket.png) |
 
 ---
 ## {}
@@ -901,7 +901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime Crystal Cluster | ![sky_slime_crystal_cluster](../images/tconstruct_sky_slime_crystal_cluster.png) |
+| item | Sky Slime Crystal Cluster | ![sky_slime_crystal_cluster](../images/tconstruct_sky_slime_crystal.png) |
 
 ---
 ## Sky Slime'}
@@ -909,7 +909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Large Sky Slime Crystal Bud | ![large_sky_slime_crystal_bud](../images/tconstruct_large_sky_slime_crystal_bud.png) |
+| item | Large Sky Slime Crystal Bud | ![large_sky_slime_crystal_bud](../images/tconstruct_sky_slime_crystal.png) |
 
 ---
 ## Sky Slime'}
@@ -917,7 +917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Medium Sky Slime Crystal Bud | ![medium_sky_slime_crystal_bud](../images/tconstruct_medium_sky_slime_crystal_bud.png) |
+| item | Medium Sky Slime Crystal Bud | ![medium_sky_slime_crystal_bud](../images/tconstruct_sky_slime_crystal.png) |
 
 ---
 ## Sky Slime'}
@@ -925,7 +925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Small Sky Slime Crystal Bud | ![small_sky_slime_crystal_bud](../images/tconstruct_small_sky_slime_crystal_bud.png) |
+| item | Small Sky Slime Crystal Bud | ![small_sky_slime_crystal_bud](../images/tconstruct_sky_slime_crystal.png) |
 
 ---
 ## {}
@@ -947,7 +947,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| - | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Molten Copper'}
@@ -955,7 +955,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | No Container | ![no_container](../images/tconstruct_no_container.png) |
+| type | No Container | ![no_container](../images/tconstruct_ability.png) |
 | item | Copper Can | ![copper_can](../images/tconstruct_copper_can.png) |
 
 ---
@@ -979,8 +979,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Seared Basin | ![seared_basin](../images/tconstruct_seared_basin.png) |
-| - | Seared Table | ![seared_table](../images/tconstruct_seared_table.png) |
+| - | Seared Basin | ![seared_basin](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
+| - | Seared Table | ![seared_table](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Cast Chest
@@ -988,7 +988,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| B | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/tconstruct_chests/wooden.png) |
 | b | Seared Brick | ![seared_brick](../images/tconstruct_seared_brick.png) |
 | c | Casts/Gold | ![casts/gold](../images/tconstruct_casts/gold.png) |
@@ -999,7 +999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cauldron | ![cauldron](../images/tconstruct_cauldron.png) |
+| item | Cauldron | ![cauldron](../images/tconstruct_ability.png) |
 
 ---
 ## Cave Spider Head
@@ -1014,7 +1014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chain | ![chain](../images/tconstruct_chain.png) |
+| item | Chain | ![chain](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Channel
@@ -1045,7 +1045,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cheese Block | ![cheese_block](../images/tconstruct_cheese_block.png) |
+| - | Cheese Block | ![cheese_block](../images/tconstruct_cheese_block_inner.png) |
 
 ---
 ## Cheese Ingot
@@ -1067,7 +1067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ender Chest | ![ender_chest](../images/tconstruct_ender_chest.png) |
+| item | Ender Chest | ![ender_chest](../images/tconstruct_congealed_ender.png) |
 
 ---
 ##  10}
@@ -1075,7 +1075,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherite Chestplate | ![netherite_chestplate](../images/tconstruct_netherite_chestplate.png) |
+| item | Netherite Chestplate | ![netherite_chestplate](../images/tconstruct_chestplate_plating.png) |
 
 ---
 ## Chestplate Plating Dummy
@@ -1125,7 +1125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Scorched Bricks Slab | ![scorched_bricks_slab](../images/tconstruct_scorched_bricks_slab.png) |
+| s | Scorched Bricks Slab | ![scorched_bricks_slab](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Chiseled Scorched Bricks
@@ -1133,9 +1133,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Difference | ![difference](../images/tconstruct_difference.png) |
-| base | Scorched Blocks | ![scorched_blocks](../images/tconstruct_scorched_blocks.png) |
-| subtracted | Chiseled Scorched Bricks | ![chiseled_scorched_bricks](../images/tconstruct_chiseled_scorched_bricks.png) |
+| type | Difference | ![difference](../images/tconstruct_ability.png) |
+| base | Scorched Blocks | ![scorched_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
+| subtracted | Chiseled Scorched Bricks | ![chiseled_scorched_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## {}
@@ -1143,7 +1143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Popped Chorus Fruit | ![popped_chorus_fruit](../images/tconstruct_popped_chorus_fruit.png) |
+| item | Popped Chorus Fruit | ![popped_chorus_fruit](../images/tconstruct_accessory_tconstruct_chorus.png) |
 
 ---
 ## Seared Chute
@@ -1160,7 +1160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smeltery Bricks | ![smeltery_bricks](../images/tconstruct_smeltery_bricks.png) |
+| # | Smeltery Bricks | ![smeltery_bricks](../images/tconstruct_bricks.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/tconstruct_ingots/copper.png) |
 
 ---
@@ -1176,7 +1176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Unfired Clay Plate | ![unfired_clay_plate](../images/tconstruct_unfired_clay_plate.png) |
+| item | Unfired Clay Plate | ![unfired_clay_plate](../images/tconstruct_dried_clay.png) |
 
 ---
 ## Molten Clay'}
@@ -1184,8 +1184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay Faucet | ![clay_faucet](../images/tconstruct_clay_faucet.png) |
-| - | Clay Channel | ![clay_channel](../images/tconstruct_clay_channel.png) |
+| - | Clay Faucet | ![clay_faucet](../images/tconstruct_dried_clay.png) |
+| - | Clay Channel | ![clay_channel](../images/tconstruct_channel_in.png) |
 
 ---
 ## Molten Clay'}
@@ -1193,8 +1193,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unfired Clay Bucket | ![unfired_clay_bucket](../images/tconstruct_unfired_clay_bucket.png) |
-| - | Clay Cistern | ![clay_cistern](../images/tconstruct_clay_cistern.png) |
+| - | Unfired Clay Bucket | ![unfired_clay_bucket](../images/tconstruct_dried_clay.png) |
+| - | Clay Cistern | ![clay_cistern](../images/tconstruct_dried_clay.png) |
 
 ---
 ##  50}
@@ -1202,7 +1202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Clay Boots | ![clay_boots](../images/tconstruct_clay_boots.png) |
+| item | Clay Boots | ![clay_boots](../images/tconstruct_boots.png) |
 
 ---
 ##  50}
@@ -1210,7 +1210,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Clay Chestplate | ![clay_chestplate](../images/tconstruct_clay_chestplate.png) |
+| item | Clay Chestplate | ![clay_chestplate](../images/tconstruct_chestplate_plating.png) |
 
 ---
 ##  50}
@@ -1218,7 +1218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Clay Helmet | ![clay_helmet](../images/tconstruct_clay_helmet.png) |
+| item | Clay Helmet | ![clay_helmet](../images/tconstruct_dried_clay.png) |
 
 ---
 ##  50}
@@ -1226,7 +1226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Clay Leggings | ![clay_leggings](../images/tconstruct_clay_leggings.png) |
+| item | Clay Leggings | ![clay_leggings](../images/tconstruct_dried_clay.png) |
 
 ---
 ## Clear Item Frame
@@ -1258,7 +1258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Clock | ![clock](../images/tconstruct_clock.png) |
+| item | Clock | ![clock](../images/tconstruct_ability.png) |
 
 ---
 ## Molten Quartz'}
@@ -1290,7 +1290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobalt Block | ![cobalt_block](../images/tconstruct_cobalt_block.png) |
+| - | Cobalt Block | ![cobalt_block](../images/tconstruct_accessory_tconstruct_cobalt.png) |
 
 ---
 ## Cobalt Ingot
@@ -1383,7 +1383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ender Congealed Slime | ![ender_congealed_slime](../images/tconstruct_ender_congealed_slime.png) |
+| item | Ender Congealed Slime | ![ender_congealed_slime](../images/tconstruct_congealed_ender.png) |
 
 ---
 ## Molten Constantan'}
@@ -1428,7 +1428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Ingot | ![copper_ingot](../images/tconstruct_copper_ingot.png) |
+| - | Copper Ingot | ![copper_ingot](../images/tconstruct_accessory_tconstruct_copper.png) |
 
 ---
 ## {}
@@ -1452,8 +1452,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Exposed Copper Platform | ![exposed_copper_platform](../images/tconstruct_exposed_copper_platform.png) |
-| - | Honeycomb | ![honeycomb](../images/tconstruct_honeycomb.png) |
+| - | Exposed Copper Platform | ![exposed_copper_platform](../images/tconstruct_exposed_copper_side.png) |
+| - | Honeycomb | ![honeycomb](../images/tconstruct_ability.png) |
 
 ---
 ## Waxed Oxidized Copper Platform
@@ -1461,8 +1461,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxidized Copper Platform | ![oxidized_copper_platform](../images/tconstruct_oxidized_copper_platform.png) |
-| - | Honeycomb | ![honeycomb](../images/tconstruct_honeycomb.png) |
+| - | Oxidized Copper Platform | ![oxidized_copper_platform](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
+| - | Honeycomb | ![honeycomb](../images/tconstruct_ability.png) |
 
 ---
 ## Waxed Copper Platform
@@ -1470,8 +1470,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Platform | ![copper_platform](../images/tconstruct_copper_platform.png) |
-| - | Honeycomb | ![honeycomb](../images/tconstruct_honeycomb.png) |
+| - | Copper Platform | ![copper_platform](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Honeycomb | ![honeycomb](../images/tconstruct_ability.png) |
 
 ---
 ## Waxed Weathered Copper Platform
@@ -1479,8 +1479,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Weathered Copper Platform | ![weathered_copper_platform](../images/tconstruct_weathered_copper_platform.png) |
-| - | Honeycomb | ![honeycomb](../images/tconstruct_honeycomb.png) |
+| - | Weathered Copper Platform | ![weathered_copper_platform](../images/tconstruct_weathered_copper_side.png) |
+| - | Honeycomb | ![honeycomb](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Cracked Bricks
@@ -1496,7 +1496,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | p | Pattern | ![pattern](../images/tconstruct_pattern.png) |
-| w | Unknown | ![unknown](../images/tconstruct_unknown.png) |
+| w | Unknown | ![unknown](../images/tconstruct_accessory_tconstruct_unknown.png) |
 
 ---
 ## Crafting Station
@@ -1505,7 +1505,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | p | Pattern | ![pattern](../images/tconstruct_pattern.png) |
-| w | Logs | ![logs](../images/tconstruct_logs.png) |
+| w | Logs | ![logs](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -1534,7 +1534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Creeper Head | ![creeper_head](../images/tconstruct_creeper_head.png) |
+| item | Creeper Head | ![creeper_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Creeper Head
@@ -1556,7 +1556,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Crimson Planks | ![crimson_planks](../images/tconstruct_crimson_planks.png) |
+| item | Crimson Planks | ![crimson_planks](../images/tconstruct_accessory_tconstruct_wood_crimson.png) |
 
 ---
 ## Crossbow
@@ -1635,7 +1635,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime Crystal Block | ![sky_slime_crystal_block](../images/tconstruct_sky_slime_crystal_block.png) |
+| item | Sky Slime Crystal Block | ![sky_slime_crystal_block](../images/tconstruct_sky_slime_crystal.png) |
 
 ---
 ## Sky Slime Crystal
@@ -1643,7 +1643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime Dirt | ![sky_slime_dirt](../images/tconstruct_sky_slime_dirt.png) |
+| item | Sky Slime Dirt | ![sky_slime_dirt](../images/tconstruct_sky_slime_ball.png) |
 
 ---
 ## Sky Slime Ball
@@ -1659,22 +1659,22 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper | ![cut_copper](../images/tconstruct_cut_copper.png) |
-| - | Exposed Cut Copper | ![exposed_cut_copper](../images/tconstruct_exposed_cut_copper.png) |
-| - | Weathered Cut Copper | ![weathered_cut_copper](../images/tconstruct_weathered_cut_copper.png) |
-| - | Oxidized Cut Copper | ![oxidized_cut_copper](../images/tconstruct_oxidized_cut_copper.png) |
-| - | Cut Copper Stairs | ![cut_copper_stairs](../images/tconstruct_cut_copper_stairs.png) |
-| - | Exposed Cut Copper Stairs | ![exposed_cut_copper_stairs](../images/tconstruct_exposed_cut_copper_stairs.png) |
-| - | Weathered Cut Copper Stairs | ![weathered_cut_copper_stairs](../images/tconstruct_weathered_cut_copper_stairs.png) |
-| - | Oxidized Cut Copper Stairs | ![oxidized_cut_copper_stairs](../images/tconstruct_oxidized_cut_copper_stairs.png) |
-| - | Waxed Cut Copper | ![waxed_cut_copper](../images/tconstruct_waxed_cut_copper.png) |
-| - | Waxed Exposed Cut Copper | ![waxed_exposed_cut_copper](../images/tconstruct_waxed_exposed_cut_copper.png) |
-| - | Waxed Weathered Cut Copper | ![waxed_weathered_cut_copper](../images/tconstruct_waxed_weathered_cut_copper.png) |
-| - | Waxed Oxidized Cut Copper | ![waxed_oxidized_cut_copper](../images/tconstruct_waxed_oxidized_cut_copper.png) |
-| - | Waxed Cut Copper Stairs | ![waxed_cut_copper_stairs](../images/tconstruct_waxed_cut_copper_stairs.png) |
-| - | Waxed Exposed Cut Copper Stairs | ![waxed_exposed_cut_copper_stairs](../images/tconstruct_waxed_exposed_cut_copper_stairs.png) |
-| - | Waxed Weathered Cut Copper Stairs | ![waxed_weathered_cut_copper_stairs](../images/tconstruct_waxed_weathered_cut_copper_stairs.png) |
-| - | Waxed Oxidized Cut Copper Stairs | ![waxed_oxidized_cut_copper_stairs](../images/tconstruct_waxed_oxidized_cut_copper_stairs.png) |
+| - | Cut Copper | ![cut_copper](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Exposed Cut Copper | ![exposed_cut_copper](../images/tconstruct_exposed_copper_side.png) |
+| - | Weathered Cut Copper | ![weathered_cut_copper](../images/tconstruct_weathered_copper_side.png) |
+| - | Oxidized Cut Copper | ![oxidized_cut_copper](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
+| - | Cut Copper Stairs | ![cut_copper_stairs](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Exposed Cut Copper Stairs | ![exposed_cut_copper_stairs](../images/tconstruct_exposed_copper_side.png) |
+| - | Weathered Cut Copper Stairs | ![weathered_cut_copper_stairs](../images/tconstruct_weathered_copper_side.png) |
+| - | Oxidized Cut Copper Stairs | ![oxidized_cut_copper_stairs](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
+| - | Waxed Cut Copper | ![waxed_cut_copper](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Waxed Exposed Cut Copper | ![waxed_exposed_cut_copper](../images/tconstruct_exposed_copper_side.png) |
+| - | Waxed Weathered Cut Copper | ![waxed_weathered_cut_copper](../images/tconstruct_weathered_copper_side.png) |
+| - | Waxed Oxidized Cut Copper | ![waxed_oxidized_cut_copper](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
+| - | Waxed Cut Copper Stairs | ![waxed_cut_copper_stairs](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Waxed Exposed Cut Copper Stairs | ![waxed_exposed_cut_copper_stairs](../images/tconstruct_exposed_copper_side.png) |
+| - | Waxed Weathered Cut Copper Stairs | ![waxed_weathered_cut_copper_stairs](../images/tconstruct_weathered_copper_side.png) |
+| - | Waxed Oxidized Cut Copper Stairs | ![waxed_oxidized_cut_copper_stairs](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
 
 ---
 ## Molten Copper'}
@@ -1682,14 +1682,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cut Copper Slab | ![cut_copper_slab](../images/tconstruct_cut_copper_slab.png) |
-| - | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/tconstruct_exposed_cut_copper_slab.png) |
-| - | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/tconstruct_weathered_cut_copper_slab.png) |
-| - | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/tconstruct_oxidized_cut_copper_slab.png) |
-| - | Waxed Cut Copper Slab | ![waxed_cut_copper_slab](../images/tconstruct_waxed_cut_copper_slab.png) |
-| - | Waxed Exposed Cut Copper Slab | ![waxed_exposed_cut_copper_slab](../images/tconstruct_waxed_exposed_cut_copper_slab.png) |
-| - | Waxed Weathered Cut Copper Slab | ![waxed_weathered_cut_copper_slab](../images/tconstruct_waxed_weathered_cut_copper_slab.png) |
-| - | Waxed Oxidized Cut Copper Slab | ![waxed_oxidized_cut_copper_slab](../images/tconstruct_waxed_oxidized_cut_copper_slab.png) |
+| - | Cut Copper Slab | ![cut_copper_slab](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Exposed Cut Copper Slab | ![exposed_cut_copper_slab](../images/tconstruct_exposed_copper_side.png) |
+| - | Weathered Cut Copper Slab | ![weathered_cut_copper_slab](../images/tconstruct_weathered_copper_side.png) |
+| - | Oxidized Cut Copper Slab | ![oxidized_cut_copper_slab](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
+| - | Waxed Cut Copper Slab | ![waxed_cut_copper_slab](../images/tconstruct_accessory_tconstruct_copper.png) |
+| - | Waxed Exposed Cut Copper Slab | ![waxed_exposed_cut_copper_slab](../images/tconstruct_exposed_copper_side.png) |
+| - | Waxed Weathered Cut Copper Slab | ![waxed_weathered_cut_copper_slab](../images/tconstruct_weathered_copper_side.png) |
+| - | Waxed Oxidized Cut Copper Slab | ![waxed_oxidized_cut_copper_slab](../images/tconstruct_accessory_tconstruct_copper_oxidized.png) |
 
 ---
 ## Cyan Clear Stained Glass
@@ -1706,7 +1706,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Clear Stained Glass | ![cyan_clear_stained_glass](../images/tconstruct_cyan_clear_stained_glass.png) |
+| # | Cyan Clear Stained Glass | ![cyan_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Cyan Clear Stained Glass Pane
@@ -1714,7 +1714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Cyan | ![dyes/cyan](../images/tconstruct_dyes/cyan.png) |
 
 ---
@@ -1751,7 +1751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Oak Planks | ![dark_oak_planks](../images/tconstruct_dark_oak_planks.png) |
+| item | Dark Oak Planks | ![dark_oak_planks](../images/tconstruct_accessory_tconstruct_wood_dark_oak.png) |
 
 ---
 ## Molten Quartz'}
@@ -1759,7 +1759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Daylight Detector | ![daylight_detector](../images/tconstruct_daylight_detector.png) |
+| item | Daylight Detector | ![daylight_detector](../images/tconstruct_ability.png) |
 
 ---
 ## Molten Debris'}
@@ -1789,12 +1789,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Quartz | ![smooth_quartz](../images/tconstruct_smooth_quartz.png) |
-| - | Quartz Pillar | ![quartz_pillar](../images/tconstruct_quartz_pillar.png) |
-| - | Quartz Bricks | ![quartz_bricks](../images/tconstruct_quartz_bricks.png) |
-| - | Chiseled Quartz Block | ![chiseled_quartz_block](../images/tconstruct_chiseled_quartz_block.png) |
-| - | Quartz Stairs | ![quartz_stairs](../images/tconstruct_quartz_stairs.png) |
-| - | Smooth Quartz Stairs | ![smooth_quartz_stairs](../images/tconstruct_smooth_quartz_stairs.png) |
+| - | Smooth Quartz | ![smooth_quartz](../images/tconstruct_quartz.png) |
+| - | Quartz Pillar | ![quartz_pillar](../images/tconstruct_quartz.png) |
+| - | Quartz Bricks | ![quartz_bricks](../images/tconstruct_bricks.png) |
+| - | Chiseled Quartz Block | ![chiseled_quartz_block](../images/tconstruct_block.png) |
+| - | Quartz Stairs | ![quartz_stairs](../images/tconstruct_quartz.png) |
+| - | Smooth Quartz Stairs | ![smooth_quartz_stairs](../images/tconstruct_quartz.png) |
 
 ---
 ## {}
@@ -1802,7 +1802,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Deepslate | ![deepslate](../images/tconstruct_deepslate.png) |
+| tag | Deepslate | ![deepslate](../images/tconstruct_accessory_tconstruct_rock_deepslate.png) |
 
 ---
 ## {}
@@ -1810,7 +1810,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Difference | ![difference](../images/tconstruct_difference.png) |
+| type | Difference | ![difference](../images/tconstruct_ability.png) |
 | base | Planks | ![planks](../images/tconstruct_planks.png) |
 | subtracted | Wood Variants/Planks | ![wood_variants/planks](../images/tconstruct_wood_variants/planks.png) |
 
@@ -1862,7 +1862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Diorite | ![diorite](../images/tconstruct_diorite.png) |
+| tag | Diorite | ![diorite](../images/tconstruct_accessory_tconstruct_rock_diorite.png) |
 
 ---
 ## Sky Slime Dirt
@@ -1877,7 +1877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## {}
@@ -1922,7 +1922,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smeltery Bricks | ![smeltery_bricks](../images/tconstruct_smeltery_bricks.png) |
+| # | Smeltery Bricks | ![smeltery_bricks](../images/tconstruct_bricks.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/tconstruct_ingots/copper.png) |
 
 ---
@@ -1931,7 +1931,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Drowned Head | ![drowned_head](../images/tconstruct_drowned_head.png) |
+| item | Drowned Head | ![drowned_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Drowned Head
@@ -1962,7 +1962,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smeltery Bricks | ![smeltery_bricks](../images/tconstruct_smeltery_bricks.png) |
+| # | Smeltery Bricks | ![smeltery_bricks](../images/tconstruct_bricks.png) |
 | C | Ingots/Gold | ![ingots/gold](../images/tconstruct_ingots/gold.png) |
 
 ---
@@ -1993,7 +1993,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Slime Ball | ![slime_ball](../images/tconstruct_slime_ball.png) |
+| item | Slime Ball | ![slime_ball](../images/tconstruct_blood_slime_ball.png) |
 
 ---
 ## {}
@@ -2001,7 +2001,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Slime Block | ![slime_block](../images/tconstruct_slime_block.png) |
+| item | Slime Block | ![slime_block](../images/tconstruct_accessory_tconstruct_queens_slime.png) |
 
 ---
 ## {}
@@ -2009,7 +2009,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Earth Congealed Slime | ![earth_congealed_slime](../images/tconstruct_earth_congealed_slime.png) |
+| item | Earth Congealed Slime | ![earth_congealed_slime](../images/tconstruct_congealed_earth.png) |
 
 ---
 ## Earth Staff
@@ -2019,7 +2019,7 @@
 | :--- | :--- | :--- |
 | C | Earth Slime Crystal | ![earth_slime_crystal](../images/tconstruct_earth_slime_crystal.png) |
 | I | Ingots/Cobalt | ![ingots/cobalt](../images/tconstruct_ingots/cobalt.png) |
-| W | Greenheart Logs | ![greenheart_logs](../images/tconstruct_greenheart_logs.png) |
+| W | Greenheart Logs | ![greenheart_logs](../images/tconstruct_accessory_tconstruct_slimewood_greenheart.png) |
 
 ---
 ## Efln Ball
@@ -2027,8 +2027,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gunpowder | ![gunpowder](../images/tconstruct_gunpowder.png) |
-| X | Flint | ![flint](../images/tconstruct_flint.png) |
+| # | Gunpowder | ![gunpowder](../images/tconstruct_ability.png) |
+| X | Flint | ![flint](../images/tconstruct_accessory_tconstruct_flint.png) |
 
 ---
 ## Molten Electrum'}
@@ -2057,7 +2057,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Enchanted Golden Apple | ![enchanted_golden_apple](../images/tconstruct_enchanted_golden_apple.png) |
+| item | Enchanted Golden Apple | ![enchanted_golden_apple](../images/tconstruct_diamonmd_apple.png) |
 
 ---
 ## Molten Diamond'}
@@ -2065,7 +2065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Enchanting Table | ![enchanting_table](../images/tconstruct_enchanting_table.png) |
+| item | Enchanting Table | ![enchanting_table](../images/tconstruct_stencil_table_top.png) |
 
 ---
 ## Encyclopedia
@@ -2094,7 +2094,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Enderbark Logs | ![enderbark_logs](../images/tconstruct_enderbark_logs.png) |
+| tag | Enderbark Logs | ![enderbark_logs](../images/tconstruct_accessory_tconstruct_slimewood_enderbark.png) |
 
 ---
 ## {}
@@ -2102,7 +2102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Enderbark Planks | ![enderbark_planks](../images/tconstruct_enderbark_planks.png) |
+| item | Enderbark Planks | ![enderbark_planks](../images/tconstruct_accessory_tconstruct_slimewood_enderbark.png) |
 
 ---
 ## Molten Ender'}
@@ -2110,7 +2110,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Enderman Head | ![enderman_head](../images/tconstruct_enderman_head.png) |
+| item | Enderman Head | ![enderman_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Enderman Head
@@ -2139,7 +2139,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ender Slime Vine | ![ender_slime_vine](../images/tconstruct_ender_slime_vine.png) |
+| item | Ender Slime Vine | ![ender_slime_vine](../images/tconstruct_ender_slime_ball.png) |
 
 ---
 ## Molten Ender'}
@@ -2147,7 +2147,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dragon Head | ![dragon_head](../images/tconstruct_dragon_head.png) |
+| item | Dragon Head | ![dragon_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Dragon Head
@@ -2178,7 +2178,7 @@
 | :--- | :--- | :--- |
 | C | Ender Slime Crystal | ![ender_slime_crystal](../images/tconstruct_ender_slime_crystal.png) |
 | I | Ingots/Netherite | ![ingots/netherite](../images/tconstruct_ingots/netherite.png) |
-| W | Enderbark Logs | ![enderbark_logs](../images/tconstruct_enderbark_logs.png) |
+| W | Enderbark Logs | ![enderbark_logs](../images/tconstruct_accessory_tconstruct_slimewood_enderbark.png) |
 
 ---
 ## {}
@@ -2186,7 +2186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | End Stones | ![end_stones](../images/tconstruct_end_stones.png) |
+| tag | End Stones | ![end_stones](../images/tconstruct_accessory_tconstruct_whitestone_end.png) |
 
 ---
 ## Molten Ender'}
@@ -2194,7 +2194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Crystal | ![end_crystal](../images/tconstruct_end_crystal.png) |
+| item | End Crystal | ![end_crystal](../images/tconstruct_accessory_tconstruct_whitestone_end.png) |
 
 ---
 ## Excavator
@@ -2230,7 +2230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spider Eye | ![spider_eye](../images/tconstruct_spider_eye.png) |
+| item | Spider Eye | ![spider_eye](../images/tconstruct_ability.png) |
 
 ---
 ## Fantastic Foundry
@@ -2238,7 +2238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/tconstruct_book.png) |
+| - | Book | ![book](../images/tconstruct_ability.png) |
 | - | Nether Grout | ![nether_grout](../images/tconstruct_nether_grout.png) |
 
 ---
@@ -2270,7 +2270,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/tconstruct_rods/wooden.png) |
-| W | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| W | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Skyroot Fence Gate
@@ -2278,8 +2278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/tconstruct_stick.png) |
-| W | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Stick | ![stick](../images/tconstruct_accessory_stick.png) |
+| W | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Venom'}
@@ -2287,7 +2287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fermented Spider Eye | ![fermented_spider_eye](../images/tconstruct_fermented_spider_eye.png) |
+| item | Fermented Spider Eye | ![fermented_spider_eye](../images/tconstruct_ability.png) |
 
 ---
 ## Fiery
@@ -2351,7 +2351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flint | ![flint](../images/tconstruct_flint.png) |
+| item | Flint | ![flint](../images/tconstruct_accessory_tconstruct_flint.png) |
 
 ---
 ## Flint And Brick
@@ -2359,8 +2359,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flint | ![flint](../images/tconstruct_flint.png) |
-| - | Scorched Brick'}] | ![scorched_brick'}]](../images/tconstruct_scorched_brick'}].png) |
+| - | Flint | ![flint](../images/tconstruct_accessory_tconstruct_flint.png) |
+| - | Scorched Brick'}] | ![scorched_brick'}]](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## {}
@@ -2368,7 +2368,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Basalt | ![basalt](../images/tconstruct_basalt.png) |
+| tag | Basalt | ![basalt](../images/tconstruct_accessory_tconstruct_flint_basalt.png) |
 
 ---
 ## Flint Shuriken
@@ -2376,7 +2376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Flint | ![flint](../images/tconstruct_flint.png) |
+| X | Flint | ![flint](../images/tconstruct_accessory_tconstruct_flint.png) |
 
 ---
 ## Molten Obsidian'}
@@ -2384,7 +2384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Foundry Controller | ![foundry_controller](../images/tconstruct_foundry_controller.png) |
+| item | Foundry Controller | ![foundry_controller](../images/tconstruct_fantastic_foundry.png) |
 
 ---
 ## Molten Obsidian'}
@@ -2392,8 +2392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Scorched Drain | ![scorched_drain](../images/tconstruct_scorched_drain.png) |
-| - | Scorched Chute | ![scorched_chute](../images/tconstruct_scorched_chute.png) |
+| - | Scorched Drain | ![scorched_drain](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
+| - | Scorched Chute | ![scorched_chute](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Freezing
@@ -2440,8 +2440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | No Container | ![no_container](../images/tconstruct_no_container.png) |
-| match | Seared Fuel Gauge | ![seared_fuel_gauge](../images/tconstruct_seared_fuel_gauge.png) |
+| type | No Container | ![no_container](../images/tconstruct_ability.png) |
+| match | Seared Fuel Gauge | ![seared_fuel_gauge](../images/tconstruct_fuel_gauge.png) |
 
 ---
 ## Molten Zinc'}
@@ -2493,8 +2493,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Observer | ![observer](../images/tconstruct_observer.png) |
-| - | Comparator | ![comparator](../images/tconstruct_comparator.png) |
+| - | Observer | ![observer](../images/tconstruct_ability.png) |
+| - | Comparator | ![comparator](../images/tconstruct_ability.png) |
 | - | Quartz Shuriken | ![quartz_shuriken](../images/tconstruct_quartz_shuriken.png) |
 
 ---
@@ -2524,7 +2524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Blackstone | ![gilded_blackstone](../images/tconstruct_gilded_blackstone.png) |
+| item | Gilded Blackstone | ![gilded_blackstone](../images/tconstruct_accessory_tconstruct_rock_blackstone.png) |
 
 ---
 ## Molten Glass'}
@@ -2547,7 +2547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Glass Panes | ![glass_panes](../images/tconstruct_glass_panes.png) |
+| tag | Glass Panes | ![glass_panes](../images/tconstruct_clear_glass.png) |
 
 ---
 ## Seared Soul Glass Pane
@@ -2562,7 +2562,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Soul Glass | ![seared_soul_glass](../images/tconstruct_seared_soul_glass.png) |
+| item | Seared Soul Glass | ![seared_soul_glass](../images/tconstruct_seared_glass.png) |
 
 ---
 ## Seared Stone'}
@@ -2570,7 +2570,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Tinted Glass | ![seared_tinted_glass](../images/tconstruct_seared_tinted_glass.png) |
+| item | Seared Tinted Glass | ![seared_tinted_glass](../images/tconstruct_clear_tinted_glass.png) |
 
 ---
 ## {}
@@ -2585,7 +2585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Snowball | ![snowball](../images/tconstruct_snowball.png) |
+| # | Snowball | ![snowball](../images/tconstruct_ability.png) |
 | X | Dusts/Glowstone | ![dusts/glowstone](../images/tconstruct_dusts/glowstone.png) |
 
 ---
@@ -2608,9 +2608,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Golden Bricks | ![golden_bricks](../images/tconstruct_golden_bricks.png) |
-| - | Golden Bricks Stairs | ![golden_bricks_stairs](../images/tconstruct_golden_bricks_stairs.png) |
-| - | Golden Bricks Wall | ![golden_bricks_wall](../images/tconstruct_golden_bricks_wall.png) |
+| - | Golden Bricks | ![golden_bricks](../images/tconstruct_bricks.png) |
+| - | Golden Bricks Stairs | ![golden_bricks_stairs](../images/tconstruct_bricks.png) |
+| - | Golden Bricks Wall | ![golden_bricks_wall](../images/tconstruct_bricks.png) |
 
 ---
 ## Molten Porcelain'}
@@ -2618,7 +2618,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Golden Bricks Slab | ![golden_bricks_slab](../images/tconstruct_golden_bricks_slab.png) |
+| item | Golden Bricks Slab | ![golden_bricks_slab](../images/tconstruct_bricks.png) |
 
 ---
 ## {}
@@ -2664,7 +2664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Granite | ![granite](../images/tconstruct_granite.png) |
+| tag | Granite | ![granite](../images/tconstruct_accessory_tconstruct_rock_granite.png) |
 
 ---
 ## Gray Clear Stained Glass
@@ -2681,7 +2681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Clear Stained Glass | ![gray_clear_stained_glass](../images/tconstruct_gray_clear_stained_glass.png) |
+| # | Gray Clear Stained Glass | ![gray_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Gray Clear Stained Glass Pane
@@ -2689,7 +2689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Gray | ![dyes/gray](../images/tconstruct_dyes/gray.png) |
 
 ---
@@ -2712,7 +2712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Greenheart Logs | ![greenheart_logs](../images/tconstruct_greenheart_logs.png) |
+| tag | Greenheart Logs | ![greenheart_logs](../images/tconstruct_accessory_tconstruct_slimewood_greenheart.png) |
 
 ---
 ## {}
@@ -2720,7 +2720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Greenheart Planks | ![greenheart_planks](../images/tconstruct_greenheart_planks.png) |
+| item | Greenheart Planks | ![greenheart_planks](../images/tconstruct_accessory_tconstruct_slimewood_greenheart.png) |
 
 ---
 ## Green Clear Stained Glass
@@ -2737,7 +2737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Clear Stained Glass | ![green_clear_stained_glass](../images/tconstruct_green_clear_stained_glass.png) |
+| # | Green Clear Stained Glass | ![green_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Green Clear Stained Glass Pane
@@ -2745,7 +2745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Green | ![dyes/green](../images/tconstruct_dyes/green.png) |
 
 ---
@@ -2761,9 +2761,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay Ball | ![clay_ball](../images/tconstruct_clay_ball.png) |
-| - | Sand | ![sand](../images/tconstruct_sand.png) |
-| - | Gravel | ![gravel](../images/tconstruct_gravel.png) |
+| - | Clay Ball | ![clay_ball](../images/tconstruct_blood_slime_ball.png) |
+| - | Sand | ![sand](../images/tconstruct_ability.png) |
+| - | Gravel | ![gravel](../images/tconstruct_ability.png) |
 
 ---
 ## Grout
@@ -2771,15 +2771,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay | ![clay](../images/tconstruct_clay.png) |
-| - | Sand | ![sand](../images/tconstruct_sand.png) |
-| - | Sand | ![sand](../images/tconstruct_sand.png) |
-| - | Sand | ![sand](../images/tconstruct_sand.png) |
-| - | Sand | ![sand](../images/tconstruct_sand.png) |
-| - | Gravel | ![gravel](../images/tconstruct_gravel.png) |
-| - | Gravel | ![gravel](../images/tconstruct_gravel.png) |
-| - | Gravel | ![gravel](../images/tconstruct_gravel.png) |
-| - | Gravel | ![gravel](../images/tconstruct_gravel.png) |
+| - | Clay | ![clay](../images/tconstruct_dried_clay.png) |
+| - | Sand | ![sand](../images/tconstruct_ability.png) |
+| - | Sand | ![sand](../images/tconstruct_ability.png) |
+| - | Sand | ![sand](../images/tconstruct_ability.png) |
+| - | Sand | ![sand](../images/tconstruct_ability.png) |
+| - | Gravel | ![gravel](../images/tconstruct_ability.png) |
+| - | Gravel | ![gravel](../images/tconstruct_ability.png) |
+| - | Gravel | ![gravel](../images/tconstruct_ability.png) |
+| - | Gravel | ![gravel](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Stone'}
@@ -2872,7 +2872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherite Helmet | ![netherite_helmet](../images/tconstruct_netherite_helmet.png) |
+| item | Netherite Helmet | ![netherite_helmet](../images/tconstruct_helmet.png) |
 
 ---
 ## Helmet Plating Dummy
@@ -2924,7 +2924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hepatizon Block | ![hepatizon_block](../images/tconstruct_hepatizon_block.png) |
+| - | Hepatizon Block | ![hepatizon_block](../images/tconstruct_accessory_tconstruct_hepatizon.png) |
 
 ---
 ## Hepatizon Ingot
@@ -2956,7 +2956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Honey Block | ![honey_block](../images/tconstruct_honey_block.png) |
+| item | Honey Block | ![honey_block](../images/tconstruct_block.png) |
 
 ---
 ## Molten Iron'}
@@ -2964,7 +2964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Horse Armor | ![iron_horse_armor](../images/tconstruct_iron_horse_armor.png) |
+| item | Iron Horse Armor | ![iron_horse_armor](../images/tconstruct_accessory_tconstruct_iron.png) |
 
 ---
 ## Husk Head
@@ -3007,7 +3007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ice | ![ice](../images/tconstruct_ice.png) |
+| item | Ice | ![ice](../images/tconstruct_ability.png) |
 
 ---
 ## Ichor'}
@@ -3030,7 +3030,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ichor Slime | ![ichor_slime](../images/tconstruct_ichor_slime.png) |
+| item | Ichor Slime | ![ichor_slime](../images/tconstruct_ichor_slime_ball.png) |
 
 ---
 ## {}
@@ -3038,7 +3038,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ichor Congealed Slime | ![ichor_congealed_slime](../images/tconstruct_ichor_congealed_slime.png) |
+| item | Ichor Congealed Slime | ![ichor_congealed_slime](../images/tconstruct_congealed_ichor.png) |
 
 ---
 ## Ichor Staff
@@ -3048,7 +3048,7 @@
 | :--- | :--- | :--- |
 | C | Ichor Slime Crystal | ![ichor_slime_crystal](../images/tconstruct_ichor_slime_crystal.png) |
 | I | Ingots/Queens Slime | ![ingots/queens_slime](../images/tconstruct_ingots/queens_slime.png) |
-| W | Bloodshroom Logs | ![bloodshroom_logs](../images/tconstruct_bloodshroom_logs.png) |
+| W | Bloodshroom Logs | ![bloodshroom_logs](../images/tconstruct_accessory_tconstruct_slimewood_bloodshroom.png) |
 
 ---
 ## Molten Emerald'}
@@ -3085,11 +3085,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Activator Rail | ![activator_rail](../images/tconstruct_activator_rail.png) |
-| - | Detector Rail | ![detector_rail](../images/tconstruct_detector_rail.png) |
-| - | Stonecutter | ![stonecutter](../images/tconstruct_stonecutter.png) |
-| - | Piston | ![piston](../images/tconstruct_piston.png) |
-| - | Sticky Piston | ![sticky_piston](../images/tconstruct_sticky_piston.png) |
+| - | Activator Rail | ![activator_rail](../images/tconstruct_wooden_dropper_rail.png) |
+| - | Detector Rail | ![detector_rail](../images/tconstruct_wooden_dropper_rail.png) |
+| - | Stonecutter | ![stonecutter](../images/tconstruct_ability.png) |
+| - | Piston | ![piston](../images/tconstruct_ability.png) |
+| - | Sticky Piston | ![sticky_piston](../images/tconstruct_ability.png) |
 
 ---
 ## Molten Iron'}
@@ -3097,9 +3097,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/tconstruct_heavy_weighted_pressure_plate.png) |
-| - | Iron Door | ![iron_door](../images/tconstruct_iron_door.png) |
-| - | Smithing Table | ![smithing_table](../images/tconstruct_smithing_table.png) |
+| - | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/tconstruct_large_plate.png) |
+| - | Iron Door | ![iron_door](../images/tconstruct_accessory_tconstruct_iron.png) |
+| - | Smithing Table | ![smithing_table](../images/tconstruct_stencil_table_top.png) |
 
 ---
 ## Molten Iron'}
@@ -3107,8 +3107,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Compass | ![compass](../images/tconstruct_compass.png) |
-| - | Iron Trapdoor | ![iron_trapdoor](../images/tconstruct_iron_trapdoor.png) |
+| - | Compass | ![compass](../images/tconstruct_ability.png) |
+| - | Iron Trapdoor | ![iron_trapdoor](../images/tconstruct_accessory_tconstruct_iron.png) |
 
 ---
 ## Molten Iron'}
@@ -3116,9 +3116,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blast Furnace | ![blast_furnace](../images/tconstruct_blast_furnace.png) |
-| - | Hopper | ![hopper](../images/tconstruct_hopper.png) |
-| - | Minecart | ![minecart](../images/tconstruct_minecart.png) |
+| - | Blast Furnace | ![blast_furnace](../images/tconstruct_ability.png) |
+| - | Hopper | ![hopper](../images/tconstruct_ability.png) |
+| - | Minecart | ![minecart](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Ingot Gauge
@@ -3244,7 +3244,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Jukebox | ![jukebox](../images/tconstruct_jukebox.png) |
+| item | Jukebox | ![jukebox](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -3252,7 +3252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Jungle Planks | ![jungle_planks](../images/tconstruct_jungle_planks.png) |
+| item | Jungle Planks | ![jungle_planks](../images/tconstruct_accessory_tconstruct_wood_jungle.png) |
 
 ---
 ## Kama
@@ -3288,7 +3288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kiln | ![kiln](../images/tconstruct_kiln.png) |
+| item | Kiln | ![kiln](../images/tconstruct_ability.png) |
 
 ---
 ## Knockback
@@ -3312,7 +3312,7 @@
 | :--- | :--- | :--- |
 | B | Seared Brick | ![seared_brick](../images/tconstruct_seared_brick.png) |
 | C | Ingots/Iron | ![ingots/iron](../images/tconstruct_ingots/iron.png) |
-| P | Seared Glass Pane | ![seared_glass_pane](../images/tconstruct_seared_glass_pane.png) |
+| P | Seared Glass Pane | ![seared_glass_pane](../images/tconstruct_seared_glass.png) |
 
 ---
 ## Large Plate
@@ -3362,9 +3362,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lava Bricks | ![lava_bricks](../images/tconstruct_lava_bricks.png) |
-| - | Lava Bricks Stairs | ![lava_bricks_stairs](../images/tconstruct_lava_bricks_stairs.png) |
-| - | Lava Bricks Wall | ![lava_bricks_wall](../images/tconstruct_lava_bricks_wall.png) |
+| - | Lava Bricks | ![lava_bricks](../images/tconstruct_bricks.png) |
+| - | Lava Bricks Stairs | ![lava_bricks_stairs](../images/tconstruct_bricks.png) |
+| - | Lava Bricks Wall | ![lava_bricks_wall](../images/tconstruct_bricks.png) |
 
 ---
 ## Molten Clay'}
@@ -3372,7 +3372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lava Bricks Slab | ![lava_bricks_slab](../images/tconstruct_lava_bricks_slab.png) |
+| item | Lava Bricks Slab | ![lava_bricks_slab](../images/tconstruct_bricks.png) |
 
 ---
 ## Lava Bricks Stairs
@@ -3408,7 +3408,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Leather | ![leather](../images/tconstruct_leather.png) |
+| tag | Leather | ![leather](../images/tconstruct_binding_tconstruct_leather.png) |
 
 ---
 ##  10}
@@ -3416,7 +3416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherite Leggings | ![netherite_leggings](../images/tconstruct_netherite_leggings.png) |
+| item | Netherite Leggings | ![netherite_leggings](../images/tconstruct_leggings_plating.png) |
 
 ---
 ## Leggings Plating Dummy
@@ -3452,7 +3452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lightning Rod | ![lightning_rod](../images/tconstruct_lightning_rod.png) |
+| item | Lightning Rod | ![lightning_rod](../images/tconstruct_hollow_rod.png) |
 
 ---
 ## {}
@@ -3511,7 +3511,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Clear Stained Glass | ![light_blue_clear_stained_glass](../images/tconstruct_light_blue_clear_stained_glass.png) |
+| # | Light Blue Clear Stained Glass | ![light_blue_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Light Blue Clear Stained Glass Pane
@@ -3519,7 +3519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Light Blue | ![dyes/light_blue](../images/tconstruct_dyes/light_blue.png) |
 
 ---
@@ -3544,7 +3544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Clear Stained Glass | ![light_gray_clear_stained_glass](../images/tconstruct_light_gray_clear_stained_glass.png) |
+| # | Light Gray Clear Stained Glass | ![light_gray_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Light Gray Clear Stained Glass Pane
@@ -3552,7 +3552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Light Gray | ![dyes/light_gray](../images/tconstruct_dyes/light_gray.png) |
 
 ---
@@ -3577,7 +3577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Clear Stained Glass | ![lime_clear_stained_glass](../images/tconstruct_lime_clear_stained_glass.png) |
+| # | Lime Clear Stained Glass | ![lime_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Lime Clear Stained Glass Pane
@@ -3585,7 +3585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Lime | ![dyes/lime](../images/tconstruct_dyes/lime.png) |
 
 ---
@@ -3608,9 +3608,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Lingering Potion | ![lingering_potion](../images/tconstruct_lingering_potion.png) |
-| nbt | Harming"} | ![harming"}](../images/tconstruct_harming"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Lingering Potion | ![lingering_potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Harming"} | ![harming"}](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -3618,9 +3618,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Lingering Potion | ![lingering_potion](../images/tconstruct_lingering_potion.png) |
-| nbt | Strong Harming"} | ![strong_harming"}](../images/tconstruct_strong_harming"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Lingering Potion | ![lingering_potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Strong Harming"} | ![strong_harming"}](../images/tconstruct_ability.png) |
 
 ---
 ## Splash Potion
@@ -3635,7 +3635,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lodestone | ![lodestone](../images/tconstruct_lodestone.png) |
+| item | Lodestone | ![lodestone](../images/tconstruct_ability.png) |
 
 ---
 ## Skyroot Wood
@@ -3643,7 +3643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Log | ![skyroot_log](../images/tconstruct_skyroot_log.png) |
+| # | Skyroot Log | ![skyroot_log](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Longbow
@@ -3716,7 +3716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Clear Stained Glass | ![magenta_clear_stained_glass](../images/tconstruct_magenta_clear_stained_glass.png) |
+| # | Magenta Clear Stained Glass | ![magenta_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Magenta Clear Stained Glass Pane
@@ -3724,7 +3724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Magenta | ![dyes/magenta](../images/tconstruct_dyes/magenta.png) |
 
 ---
@@ -3824,7 +3824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mangrove Planks | ![mangrove_planks](../images/tconstruct_mangrove_planks.png) |
+| item | Mangrove Planks | ![mangrove_planks](../images/tconstruct_accessory_tconstruct_wood_mangrove.png) |
 
 ---
 ## Molten Manyullyn'}
@@ -3848,7 +3848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manyullyn Block | ![manyullyn_block](../images/tconstruct_manyullyn_block.png) |
+| - | Manyullyn Block | ![manyullyn_block](../images/tconstruct_accessory_tconstruct_manyullyn.png) |
 
 ---
 ## Manyullyn Ingot
@@ -3873,7 +3873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/tconstruct_book.png) |
+| - | Book | ![book](../images/tconstruct_ability.png) |
 | - | Pattern | ![pattern](../images/tconstruct_pattern.png) |
 
 ---
@@ -3918,7 +3918,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Seared Brick | ![seared_brick](../images/tconstruct_seared_brick.png) |
-| G | Unknown | ![unknown](../images/tconstruct_unknown.png) |
+| G | Unknown | ![unknown](../images/tconstruct_accessory_tconstruct_unknown.png) |
 
 ---
 ## {}
@@ -3961,8 +3961,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| r | Workstation Rock | ![workstation_rock](../images/tconstruct_workstation_rock.png) |
-| s | Seared Blocks | ![seared_blocks](../images/tconstruct_seared_blocks.png) |
+| r | Workstation Rock | ![workstation_rock](../images/tconstruct_accessory_tconstruct_rock_andesite.png) |
+| s | Seared Blocks | ![seared_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Molten Amethyst Bronze'}
@@ -4138,7 +4138,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Mushrooms | ![mushrooms](../images/tconstruct_mushrooms.png) |
+| tag | Mushrooms | ![mushrooms](../images/tconstruct_ability.png) |
 
 ---
 ## Nahuatl'}
@@ -4202,7 +4202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Wither Bones | ![wither_bones](../images/tconstruct_wither_bones.png) |
+| tag | Wither Bones | ![wither_bones](../images/tconstruct_ability.png) |
 
 ---
 ## Netherite
@@ -4226,7 +4226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Ingot | ![netherite_ingot](../images/tconstruct_netherite_ingot.png) |
+| - | Netherite Ingot | ![netherite_ingot](../images/tconstruct_amethyst_bronze_ingot.png) |
 
 ---
 ## Nether Grout
@@ -4234,9 +4234,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Cream | ![magma_cream](../images/tconstruct_magma_cream.png) |
-| - | Soul Soil'}] | ![soul_soil'}]](../images/tconstruct_soul_soil'}].png) |
-| - | Gravel | ![gravel](../images/tconstruct_gravel.png) |
+| - | Magma Cream | ![magma_cream](../images/tconstruct_magma_bottom.png) |
+| - | Soul Soil'}] | ![soul_soil'}]](../images/tconstruct_soul_glass.png) |
+| - | Gravel | ![gravel](../images/tconstruct_ability.png) |
 
 ---
 ## Night Vision'}}
@@ -4266,8 +4266,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Bars | ![iron_bars](../images/tconstruct_iron_bars.png) |
-| - | Rail | ![rail](../images/tconstruct_rail.png) |
+| - | Iron Bars | ![iron_bars](../images/tconstruct_accessory_tconstruct_iron.png) |
+| - | Rail | ![rail](../images/tconstruct_wooden_dropper_rail.png) |
 
 ---
 ## Nuggets/Zinc'}
@@ -4289,7 +4289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oak Planks | ![oak_planks](../images/tconstruct_oak_planks.png) |
+| item | Oak Planks | ![oak_planks](../images/tconstruct_accessory_tconstruct_wood_dark_oak.png) |
 
 ---
 ## Molten Obsidian'}
@@ -4327,7 +4327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Clear Stained Glass | ![orange_clear_stained_glass](../images/tconstruct_orange_clear_stained_glass.png) |
+| # | Orange Clear Stained Glass | ![orange_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Orange Clear Stained Glass Pane
@@ -4335,7 +4335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Orange | ![dyes/orange](../images/tconstruct_dyes/orange.png) |
 
 ---
@@ -4359,7 +4359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Intersection | ![intersection](../images/tconstruct_intersection.png) |
+| type | Intersection | ![intersection](../images/tconstruct_ability.png) |
 | children | Ores/Quartz | ![ores/quartz](../images/tconstruct_ores/quartz.png) |
 
 ---
@@ -4368,7 +4368,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Difference | ![difference](../images/tconstruct_difference.png) |
+| type | Difference | ![difference](../images/tconstruct_ability.png) |
 | base | Ores/Quartz | ![ores/quartz](../images/tconstruct_ores/quartz.png) |
 | subtracted | Ore Rates/Sparse | ![ore_rates/sparse](../images/tconstruct_ore_rates/sparse.png) |
 
@@ -4378,7 +4378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Intersection | ![intersection](../images/tconstruct_intersection.png) |
+| type | Intersection | ![intersection](../images/tconstruct_ability.png) |
 | children | Ores/Quartz | ![ores/quartz](../images/tconstruct_ores/quartz.png) |
 
 ---
@@ -4401,7 +4401,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Packed Ice | ![packed_ice](../images/tconstruct_packed_ice.png) |
+| item | Packed Ice | ![packed_ice](../images/tconstruct_ability.png) |
 
 ---
 ## Padded
@@ -4416,7 +4416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Glass Pane | ![soul_glass_pane](../images/tconstruct_soul_glass_pane.png) |
+| item | Soul Glass Pane | ![soul_glass_pane](../images/tconstruct_soul_glass.png) |
 
 ---
 ## Seared Stone'}
@@ -4424,7 +4424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Soul Glass Pane | ![seared_soul_glass_pane](../images/tconstruct_seared_soul_glass_pane.png) |
+| item | Seared Soul Glass Pane | ![seared_soul_glass_pane](../images/tconstruct_seared_glass.png) |
 
 ---
 ## {}
@@ -4440,7 +4440,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | p | Pattern | ![pattern](../images/tconstruct_pattern.png) |
-| w | Planklike | ![planklike](../images/tconstruct_planklike.png) |
+| w | Planklike | ![planklike](../images/tconstruct_ability.png) |
 
 ---
 ## Part Chest
@@ -4489,8 +4489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearls | ![ender_pearls](../images/tconstruct_ender_pearls.png) |
-| - | Ender Eye | ![ender_eye](../images/tconstruct_ender_eye.png) |
+| - | Ender Pearls | ![ender_pearls](../images/tconstruct_congealed_ender.png) |
+| - | Ender Eye | ![ender_eye](../images/tconstruct_congealed_ender.png) |
 
 ---
 ## Slow Falling'}}
@@ -4575,9 +4575,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Piglin Head | ![piglin_head](../images/tconstruct_piglin_head.png) |
-| - | Piglin Brute Head | ![piglin_brute_head](../images/tconstruct_piglin_brute_head.png) |
-| - | Zombified Piglin Head | ![zombified_piglin_head](../images/tconstruct_zombified_piglin_head.png) |
+| - | Piglin Head | ![piglin_head](../images/tconstruct_broad_axe_head.png) |
+| - | Piglin Brute Head | ![piglin_brute_head](../images/tconstruct_broad_axe_head.png) |
+| - | Zombified Piglin Head | ![zombified_piglin_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Piglin Brute Head
@@ -4607,7 +4607,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Pig Iron | ![ingots/pig_iron](../images/tconstruct_ingots/pig_iron.png) |
-| * | Pig Iron Ingot | ![pig_iron_ingot](../images/tconstruct_pig_iron_ingot.png) |
+| * | Pig Iron Ingot | ![pig_iron_ingot](../images/tconstruct_accessory_tconstruct_pig_iron.png) |
 
 ---
 ## Pig Iron Ingot
@@ -4615,7 +4615,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pig Iron Block | ![pig_iron_block](../images/tconstruct_pig_iron_block.png) |
+| - | Pig Iron Block | ![pig_iron_block](../images/tconstruct_accessory_tconstruct_pig_iron.png) |
 
 ---
 ## Pig Iron Ingot
@@ -4624,7 +4624,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Nuggets/Pig Iron | ![nuggets/pig_iron](../images/tconstruct_nuggets/pig_iron.png) |
-| * | Pig Iron Nugget | ![pig_iron_nugget](../images/tconstruct_pig_iron_nugget.png) |
+| * | Pig Iron Nugget | ![pig_iron_nugget](../images/tconstruct_accessory_tconstruct_pig_iron.png) |
 
 ---
 ## Pig Iron Nugget
@@ -4632,7 +4632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pig Iron Ingot | ![pig_iron_ingot](../images/tconstruct_pig_iron_ingot.png) |
+| - | Pig Iron Ingot | ![pig_iron_ingot](../images/tconstruct_accessory_tconstruct_pig_iron.png) |
 
 ---
 ## Pink Clear Stained Glass
@@ -4649,7 +4649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Clear Stained Glass | ![pink_clear_stained_glass](../images/tconstruct_pink_clear_stained_glass.png) |
+| # | Pink Clear Stained Glass | ![pink_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Pink Clear Stained Glass Pane
@@ -4657,7 +4657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Pink | ![dyes/pink](../images/tconstruct_dyes/pink.png) |
 
 ---
@@ -4673,7 +4673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyroot Logs | ![skyroot_logs](../images/tconstruct_skyroot_logs.png) |
+| - | Skyroot Logs | ![skyroot_logs](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Molten Gold'}
@@ -4681,7 +4681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/tconstruct_light_weighted_pressure_plate.png) |
+| item | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/tconstruct_large_plate.png) |
 
 ---
 ## Molten Brass'}
@@ -4753,7 +4753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Platform | ![iron_platform](../images/tconstruct_iron_platform.png) |
+| item | Iron Platform | ![iron_platform](../images/tconstruct_accessory_tconstruct_iron.png) |
 
 ---
 ## Molten Platinum'}
@@ -4796,7 +4796,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Scorched Stone | ![scorched_stone](../images/tconstruct_scorched_stone.png) |
+| b | Scorched Stone | ![scorched_stone](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Polished Scorched Stone
@@ -4804,9 +4804,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Difference | ![difference](../images/tconstruct_difference.png) |
-| base | Scorched Blocks | ![scorched_blocks](../images/tconstruct_scorched_blocks.png) |
-| subtracted | Polished Scorched Stone | ![polished_scorched_stone](../images/tconstruct_polished_scorched_stone.png) |
+| type | Difference | ![difference](../images/tconstruct_ability.png) |
+| base | Scorched Blocks | ![scorched_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
+| subtracted | Polished Scorched Stone | ![polished_scorched_stone](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## White Porcelain
@@ -4835,7 +4835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Flower Pot | ![flower_pot](../images/tconstruct_flower_pot.png) |
+| item | Flower Pot | ![flower_pot](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -4843,9 +4843,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Potion | ![potion](../images/tconstruct_potion.png) |
-| nbt | Harming"} | ![harming"}](../images/tconstruct_harming"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Potion | ![potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Harming"} | ![harming"}](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -4853,9 +4853,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Potion | ![potion](../images/tconstruct_potion.png) |
-| nbt | Strong Harming"} | ![strong_harming"}](../images/tconstruct_strong_harming"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Potion | ![potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Strong Harming"} | ![strong_harming"}](../images/tconstruct_ability.png) |
 
 ---
 ## Power
@@ -4870,7 +4870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Powered Rail | ![powered_rail](../images/tconstruct_powered_rail.png) |
+| item | Powered Rail | ![powered_rail](../images/tconstruct_wooden_dropper_rail.png) |
 
 ---
 ## Skyroot Pressure Plate
@@ -4878,7 +4878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Molten Gold'}
@@ -4886,8 +4886,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glistering Melon Slice | ![glistering_melon_slice](../images/tconstruct_glistering_melon_slice.png) |
-| - | Golden Carrot | ![golden_carrot](../images/tconstruct_golden_carrot.png) |
+| - | Glistering Melon Slice | ![glistering_melon_slice](../images/tconstruct_ability.png) |
+| - | Golden Carrot | ![golden_carrot](../images/tconstruct_tconstruct_golden.png) |
 
 ---
 ## {}
@@ -4916,7 +4916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Bamboo | ![bamboo](../images/tconstruct_bamboo.png) |
+| b | Bamboo | ![bamboo](../images/tconstruct_body_tconstruct_bamboo.png) |
 
 ---
 ## Puny Smelting
@@ -4924,7 +4924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/tconstruct_book.png) |
+| - | Book | ![book](../images/tconstruct_ability.png) |
 | - | Grout | ![grout](../images/tconstruct_grout.png) |
 
 ---
@@ -4942,7 +4942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Clear Stained Glass | ![purple_clear_stained_glass](../images/tconstruct_purple_clear_stained_glass.png) |
+| # | Purple Clear Stained Glass | ![purple_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Purple Clear Stained Glass Pane
@@ -4950,7 +4950,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Purple | ![dyes/purple](../images/tconstruct_dyes/purple.png) |
 
 ---
@@ -4990,7 +4990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Queens Slime Block | ![queens_slime_block](../images/tconstruct_queens_slime_block.png) |
+| - | Queens Slime Block | ![queens_slime_block](../images/tconstruct_accessory_tconstruct_queens_slime.png) |
 
 ---
 ## Queens Slime Ingot
@@ -5036,7 +5036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rabbit Hide | ![rabbit_hide](../images/tconstruct_rabbit_hide.png) |
+| item | Rabbit Hide | ![rabbit_hide](../images/tconstruct_binding_tconstruct_ancient_hide.png) |
 
 ---
 ## {}
@@ -5067,7 +5067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Cobalt Block | ![raw_cobalt_block](../images/tconstruct_raw_cobalt_block.png) |
+| - | Raw Cobalt Block | ![raw_cobalt_block](../images/tconstruct_raw_cobalt.png) |
 
 ---
 ## {}
@@ -5126,7 +5126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Clear Stained Glass | ![red_clear_stained_glass](../images/tconstruct_red_clear_stained_glass.png) |
+| # | Red Clear Stained Glass | ![red_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Red Clear Stained Glass Pane
@@ -5134,7 +5134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Red | ![dyes/red](../images/tconstruct_dyes/red.png) |
 
 ---
@@ -5200,7 +5200,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Slimesteel Reinforcement | ![slimesteel_reinforcement](../images/tconstruct_slimesteel_reinforcement.png) |
+| item | Slimesteel Reinforcement | ![slimesteel_reinforcement](../images/tconstruct_accessory_tconstruct_slimesteel.png) |
 
 ---
 ## {}
@@ -5264,8 +5264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Item Frame | ![gold_item_frame](../images/tconstruct_gold_item_frame.png) |
-| - | Redstone Torch | ![redstone_torch](../images/tconstruct_redstone_torch.png) |
+| - | Gold Item Frame | ![gold_item_frame](../images/tconstruct_item_frame_background.png) |
+| - | Redstone Torch | ![redstone_torch](../images/tconstruct_stone_torch.png) |
 
 ---
 ## Gold Item Frame
@@ -5273,8 +5273,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Reversed Gold Item Frame | ![reversed_gold_item_frame](../images/tconstruct_reversed_gold_item_frame.png) |
-| - | Redstone Torch | ![redstone_torch](../images/tconstruct_redstone_torch.png) |
+| - | Reversed Gold Item Frame | ![reversed_gold_item_frame](../images/tconstruct_item_frame_background.png) |
+| - | Redstone Torch | ![redstone_torch](../images/tconstruct_stone_torch.png) |
 
 ---
 ## {}
@@ -5348,7 +5348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose Gold Block | ![rose_gold_block](../images/tconstruct_rose_gold_block.png) |
+| - | Rose Gold Block | ![rose_gold_block](../images/tconstruct_accessory_tconstruct_rose_gold.png) |
 
 ---
 ## Rose Gold Ingot
@@ -5373,7 +5373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rotten Flesh | ![rotten_flesh](../images/tconstruct_rotten_flesh.png) |
+| item | Rotten Flesh | ![rotten_flesh](../images/tconstruct_helmet_skull_tconstruct_rotten_flesh.png) |
 
 ---
 ## Round Plate
@@ -5409,8 +5409,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Sand | ![soul_sand](../images/tconstruct_soul_sand.png) |
-| - | Soul Soil | ![soul_soil](../images/tconstruct_soul_soil.png) |
+| - | Soul Sand | ![soul_sand](../images/tconstruct_soul_glass.png) |
+| - | Soul Soil | ![soul_soil](../images/tconstruct_consecrated_soil.png) |
 
 ---
 ## Molten Glass'}
@@ -5418,8 +5418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Sand Cast | ![blank_sand_cast](../images/tconstruct_blank_sand_cast.png) |
-| - | Blank Red Sand Cast | ![blank_red_sand_cast](../images/tconstruct_blank_red_sand_cast.png) |
+| - | Blank Sand Cast | ![blank_sand_cast](../images/tconstruct_blank.png) |
+| - | Blank Red Sand Cast | ![blank_red_sand_cast](../images/tconstruct_blank.png) |
 
 ---
 ## Blank Sand Cast
@@ -5434,7 +5434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime Sapling | ![sky_slime_sapling](../images/tconstruct_sky_slime_sapling.png) |
+| item | Sky Slime Sapling | ![sky_slime_sapling](../images/tconstruct_sky_slime_ball.png) |
 
 ---
 ## Scope
@@ -5449,8 +5449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_metal.png) |
-| s | Scorched Blocks | ![scorched_blocks](../images/tconstruct_scorched_blocks.png) |
+| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_base.png) |
+| s | Scorched Blocks | ![scorched_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Brick
@@ -5466,7 +5466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Polished Scorched Stone | ![polished_scorched_stone](../images/tconstruct_polished_scorched_stone.png) |
+| b | Polished Scorched Stone | ![polished_scorched_stone](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Bricks Fence
@@ -5474,7 +5474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Scorched Bricks | ![scorched_bricks](../images/tconstruct_scorched_bricks.png) |
+| B | Scorched Bricks | ![scorched_bricks](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 | b | Scorched Brick | ![scorched_brick](../images/tconstruct_scorched_brick.png) |
 
 ---
@@ -5491,7 +5491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Scorched Bricks | ![scorched_bricks](../images/tconstruct_scorched_bricks.png) |
+| B | Scorched Bricks | ![scorched_bricks](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Bricks Slab
@@ -5499,7 +5499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scorched Bricks | ![scorched_bricks](../images/tconstruct_scorched_bricks.png) |
+| item | Scorched Bricks | ![scorched_bricks](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Bricks Stairs
@@ -5507,7 +5507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Scorched Bricks | ![scorched_bricks](../images/tconstruct_scorched_bricks.png) |
+| B | Scorched Bricks | ![scorched_bricks](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Bricks Stairs
@@ -5515,7 +5515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scorched Bricks | ![scorched_bricks](../images/tconstruct_scorched_bricks.png) |
+| item | Scorched Bricks | ![scorched_bricks](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Bricks
@@ -5523,9 +5523,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Difference | ![difference](../images/tconstruct_difference.png) |
-| base | Scorched Blocks | ![scorched_blocks](../images/tconstruct_scorched_blocks.png) |
-| subtracted | Scorched Bricks | ![scorched_bricks](../images/tconstruct_scorched_bricks.png) |
+| type | Difference | ![difference](../images/tconstruct_ability.png) |
+| base | Scorched Blocks | ![scorched_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
+| subtracted | Scorched Bricks | ![scorched_bricks](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## {}
@@ -5540,7 +5540,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scorched Duct | ![scorched_duct](../images/tconstruct_scorched_duct.png) |
+| item | Scorched Duct | ![scorched_duct](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Anvil
@@ -5548,9 +5548,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_metal.png) |
-| s | Scorched Blocks | ![scorched_blocks](../images/tconstruct_scorched_blocks.png) |
-| t | Tinker Station | ![tinker_station](../images/tconstruct_tinker_station.png) |
+| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_base.png) |
+| s | Scorched Blocks | ![scorched_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
+| t | Tinker Station | ![tinker_station](../images/tconstruct_tinker_station_top.png) |
 
 ---
 ## {}
@@ -5581,7 +5581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scorched Glass | ![scorched_glass](../images/tconstruct_scorched_glass.png) |
+| # | Scorched Glass | ![scorched_glass](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## {}
@@ -5603,7 +5603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Scorched Blocks | ![scorched_blocks](../images/tconstruct_scorched_blocks.png) |
+| B | Scorched Blocks | ![scorched_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 | b | Scorched Brick | ![scorched_brick](../images/tconstruct_scorched_brick.png) |
 
 ---
@@ -5626,7 +5626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Scorched Road | ![scorched_road](../images/tconstruct_scorched_road.png) |
+| B | Scorched Road | ![scorched_road](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Road Slab
@@ -5634,7 +5634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scorched Road | ![scorched_road](../images/tconstruct_scorched_road.png) |
+| item | Scorched Road | ![scorched_road](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Road
@@ -5642,7 +5642,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scorched Stone | ![scorched_stone](../images/tconstruct_scorched_stone.png) |
+| item | Scorched Stone | ![scorched_stone](../images/tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Road Stairs
@@ -5650,7 +5650,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Scorched Road | ![scorched_road](../images/tconstruct_scorched_road.png) |
+| B | Scorched Road | ![scorched_road](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Road Stairs
@@ -5658,7 +5658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scorched Road | ![scorched_road](../images/tconstruct_scorched_road.png) |
+| item | Scorched Road | ![scorched_road](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_scorched_stone.png) |
 
 ---
 ## Scorched Soul Glass
@@ -5675,7 +5675,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scorched Soul Glass | ![scorched_soul_glass](../images/tconstruct_scorched_soul_glass.png) |
+| # | Scorched Soul Glass | ![scorched_soul_glass](../images/tconstruct_soul_glass.png) |
 
 ---
 ## Scorched Stone'}
@@ -5736,7 +5736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| b | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks
@@ -5752,7 +5752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| B | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks Slab
@@ -5760,7 +5760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| item | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks Stairs
@@ -5768,7 +5768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| B | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks Stairs
@@ -5776,7 +5776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| item | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks
@@ -5784,8 +5784,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/tconstruct_unknown.png) |
-| - | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| - | Unknown | ![unknown](../images/tconstruct_accessory_tconstruct_unknown.png) |
+| - | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks Wall
@@ -5793,7 +5793,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| B | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Bricks Wall
@@ -5801,7 +5801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| item | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## {}
@@ -5816,7 +5816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| B | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Cobble Slab
@@ -5824,7 +5824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| item | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Cobble Stairs
@@ -5832,7 +5832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| B | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Cobble Stairs
@@ -5840,7 +5840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| item | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Cobble Wall
@@ -5848,7 +5848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| B | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Cobble Wall
@@ -5856,7 +5856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| item | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Cracked Bricks
@@ -5864,7 +5864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| item | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Molten Gold'}
@@ -5872,7 +5872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Duct | ![seared_duct](../images/tconstruct_seared_duct.png) |
+| item | Seared Duct | ![seared_duct](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Fancy Bricks
@@ -5880,7 +5880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Seared Bricks Slab | ![seared_bricks_slab](../images/tconstruct_seared_bricks_slab.png) |
+| s | Seared Bricks Slab | ![seared_bricks_slab](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Fancy Bricks
@@ -5888,8 +5888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/tconstruct_unknown.png) |
-| - | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| - | Unknown | ![unknown](../images/tconstruct_accessory_tconstruct_unknown.png) |
+| - | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## {}
@@ -5942,7 +5942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Bricks | ![seared_bricks](../images/tconstruct_seared_bricks.png) |
+| B | Seared Bricks | ![seared_bricks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 | b | Seared Brick | ![seared_brick](../images/tconstruct_seared_brick.png) |
 
 ---
@@ -5965,7 +5965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Paver | ![seared_paver](../images/tconstruct_seared_paver.png) |
+| B | Seared Paver | ![seared_paver](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Paver Slab
@@ -5973,7 +5973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Paver | ![seared_paver](../images/tconstruct_seared_paver.png) |
+| item | Seared Paver | ![seared_paver](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Paver
@@ -5981,7 +5981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| item | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Paver Stairs
@@ -5989,7 +5989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Paver | ![seared_paver](../images/tconstruct_seared_paver.png) |
+| B | Seared Paver | ![seared_paver](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Paver Stairs
@@ -5997,7 +5997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Paver | ![seared_paver](../images/tconstruct_seared_paver.png) |
+| item | Seared Paver | ![seared_paver](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Reinforcement
@@ -6021,7 +6021,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Seared Soul Glass | ![seared_soul_glass](../images/tconstruct_seared_soul_glass.png) |
+| # | Seared Soul Glass | ![seared_soul_glass](../images/tconstruct_seared_glass.png) |
 
 ---
 ## Seared Stone'}
@@ -6036,7 +6036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| B | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Stone Slab
@@ -6044,7 +6044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| item | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Stone
@@ -6052,7 +6052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Cobble | ![seared_cobble](../images/tconstruct_seared_cobble.png) |
+| item | Seared Cobble | ![seared_cobble](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Stone Stairs
@@ -6060,7 +6060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| B | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Stone Stairs
@@ -6068,7 +6068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| item | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Seared Tinted Glass
@@ -6085,8 +6085,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/tconstruct_unknown.png) |
-| - | Seared Stone | ![seared_stone](../images/tconstruct_seared_stone.png) |
+| - | Unknown | ![unknown](../images/tconstruct_accessory_tconstruct_unknown.png) |
+| - | Seared Stone | ![seared_stone](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Severing
@@ -6187,7 +6187,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherite Shovel | ![netherite_shovel](../images/tconstruct_netherite_shovel.png) |
+| item | Netherite Shovel | ![netherite_shovel](../images/tconstruct_netherite_nugget.png) |
 
 ---
 ## Leaping'}}
@@ -6216,7 +6216,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/tconstruct_rods/wooden.png) |
 
 ---
@@ -6260,9 +6260,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skeleton Skull | ![skeleton_skull](../images/tconstruct_skeleton_skull.png) |
-| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/tconstruct_wither_skeleton_skull.png) |
-| - | Stray Head | ![stray_head](../images/tconstruct_stray_head.png) |
+| - | Skeleton Skull | ![skeleton_skull](../images/tconstruct_helmet_skull.png) |
+| - | Wither Skeleton Skull | ![wither_skeleton_skull](../images/tconstruct_helmet_skull.png) |
+| - | Stray Head | ![stray_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Milk'}
@@ -6305,7 +6305,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Skyroot Logs | ![skyroot_logs](../images/tconstruct_skyroot_logs.png) |
+| tag | Skyroot Logs | ![skyroot_logs](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## {}
@@ -6313,7 +6313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| item | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Sky Slime Ball
@@ -6328,7 +6328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime Vine | ![sky_slime_vine](../images/tconstruct_sky_slime_vine.png) |
+| item | Sky Slime Vine | ![sky_slime_vine](../images/tconstruct_sky_slime_ball.png) |
 
 ---
 ## {}
@@ -6344,7 +6344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Slime | ![sky_slime](../images/tconstruct_sky_slime.png) |
+| item | Sky Slime | ![sky_slime](../images/tconstruct_sky_slime_ball.png) |
 
 ---
 ## {}
@@ -6352,7 +6352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sky Congealed Slime | ![sky_congealed_slime](../images/tconstruct_sky_congealed_slime.png) |
+| item | Sky Congealed Slime | ![sky_congealed_slime](../images/tconstruct_congealed_sky.png) |
 
 ---
 ## Sky Slime'}
@@ -6369,7 +6369,7 @@
 | :--- | :--- | :--- |
 | C | Sky Slime Crystal | ![sky_slime_crystal](../images/tconstruct_sky_slime_crystal.png) |
 | I | Ingots/Rose Gold | ![ingots/rose_gold](../images/tconstruct_ingots/rose_gold.png) |
-| W | Skyroot Logs | ![skyroot_logs](../images/tconstruct_skyroot_logs.png) |
+| W | Skyroot Logs | ![skyroot_logs](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Skyroot Planks Slab
@@ -6377,7 +6377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Sledge Hammer
@@ -6406,7 +6406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime | ![sky_slime](../images/tconstruct_sky_slime.png) |
+| - | Sky Slime | ![sky_slime](../images/tconstruct_sky_slime_ball.png) |
 
 ---
 ## Sky Slime Ball
@@ -6414,7 +6414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Congealed Slime | ![sky_congealed_slime](../images/tconstruct_sky_congealed_slime.png) |
+| - | Sky Congealed Slime | ![sky_congealed_slime](../images/tconstruct_congealed_sky.png) |
 
 ---
 ## Sky Slime
@@ -6460,7 +6460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimesteel Block | ![slimesteel_block](../images/tconstruct_slimesteel_block.png) |
+| - | Slimesteel Block | ![slimesteel_block](../images/tconstruct_accessory_tconstruct_slimesteel.png) |
 
 ---
 ## Slimesteel Ingot
@@ -6569,8 +6569,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Shovel | ![iron_shovel](../images/tconstruct_iron_shovel.png) |
-| - | Flint And Steel | ![flint_and_steel](../images/tconstruct_flint_and_steel.png) |
+| - | Iron Shovel | ![iron_shovel](../images/tconstruct_accessory_tconstruct_iron.png) |
+| - | Flint And Steel | ![flint_and_steel](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_flint.png) |
 | - | Shield | ![shield](../images/tconstruct_shield.png) |
 
 ---
@@ -6635,7 +6635,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smeltery Controller | ![smeltery_controller](../images/tconstruct_smeltery_controller.png) |
+| item | Smeltery Controller | ![smeltery_controller](../images/tconstruct_smeltery_active.png) |
 
 ---
 ## Molten Copper'}
@@ -6643,8 +6643,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Seared Drain | ![seared_drain](../images/tconstruct_seared_drain.png) |
-| - | Seared Chute | ![seared_chute](../images/tconstruct_seared_chute.png) |
+| - | Seared Drain | ![seared_drain](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
+| - | Seared Chute | ![seared_chute](../images/tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Smelting
@@ -6666,7 +6666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Snowball | ![snowball](../images/tconstruct_snowball.png) |
+| item | Snowball | ![snowball](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -6681,7 +6681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Snow Block | ![snow_block](../images/tconstruct_snow_block.png) |
+| item | Snow Block | ![snow_block](../images/tconstruct_block.png) |
 
 ---
 ## Water'}
@@ -6703,7 +6703,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Snow | ![snow](../images/tconstruct_snow.png) |
+| item | Snow | ![snow](../images/tconstruct_ability.png) |
 
 ---
 ## Soulbound
@@ -6760,8 +6760,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spider Head | ![spider_head](../images/tconstruct_spider_head.png) |
-| - | Cave Spider Head | ![cave_spider_head](../images/tconstruct_cave_spider_head.png) |
+| - | Spider Head | ![spider_head](../images/tconstruct_broad_axe_head.png) |
+| - | Cave Spider Head | ![cave_spider_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Spider Eye
@@ -6818,9 +6818,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Splash Potion | ![splash_potion](../images/tconstruct_splash_potion.png) |
-| nbt | Harming"} | ![harming"}](../images/tconstruct_harming"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Splash Potion | ![splash_potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Harming"} | ![harming"}](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -6828,9 +6828,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| type | Partial Nbt | ![partial_nbt](../images/tconstruct_partial_nbt.png) |
-| item | Splash Potion | ![splash_potion](../images/tconstruct_splash_potion.png) |
-| nbt | Strong Harming"} | ![strong_harming"}](../images/tconstruct_strong_harming"}.png) |
+| type | Partial Nbt | ![partial_nbt](../images/tconstruct_tconstruct_tank_partial.png) |
+| item | Splash Potion | ![splash_potion](../images/tconstruct_potion_bucket.png) |
+| nbt | Strong Harming"} | ![strong_harming"}](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -6852,7 +6852,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spruce Planks | ![spruce_planks](../images/tconstruct_spruce_planks.png) |
+| item | Spruce Planks | ![spruce_planks](../images/tconstruct_accessory_tconstruct_wood_spruce.png) |
 
 ---
 ## Molten Amethyst'}
@@ -6860,7 +6860,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Spyglass | ![spyglass](../images/tconstruct_spyglass.png) |
+| item | Spyglass | ![spyglass](../images/tconstruct_ability.png) |
 
 ---
 ## Skyroot Planks Stairs
@@ -6868,7 +6868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Molten Steel'}
@@ -6905,8 +6905,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Slimeballs | ![slimeballs](../images/tconstruct_slimeballs.png) |
-| P | Piston | ![piston](../images/tconstruct_piston.png) |
+| # | Slimeballs | ![slimeballs](../images/tconstruct_ability.png) |
+| P | Piston | ![piston](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -6914,7 +6914,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Normal Stone | ![normal_stone](../images/tconstruct_normal_stone.png) |
+| tag | Normal Stone | ![normal_stone](../images/tconstruct_accessory_tconstruct_rock_stone.png) |
 
 ---
 ## Scorched Stone
@@ -6957,7 +6957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | String | ![string](../images/tconstruct_string.png) |
+| tag | String | ![string](../images/tconstruct_binding_tconstruct_string.png) |
 
 ---
 ## {}
@@ -6979,7 +6979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Skyroot Log | ![stripped_skyroot_log](../images/tconstruct_stripped_skyroot_log.png) |
+| # | Stripped Skyroot Log | ![stripped_skyroot_log](../images/tconstruct_stripped_log.png) |
 
 ---
 ## {}
@@ -7066,42 +7066,42 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terracotta | ![terracotta](../images/tconstruct_terracotta.png) |
+| - | Terracotta | ![terracotta](../images/tconstruct_ability.png) |
 | - | Bricks | ![bricks](../images/tconstruct_bricks.png) |
-| - | Brick Wall | ![brick_wall](../images/tconstruct_brick_wall.png) |
-| - | Brick Stairs | ![brick_stairs](../images/tconstruct_brick_stairs.png) |
-| - | White Terracotta | ![white_terracotta](../images/tconstruct_white_terracotta.png) |
-| - | Orange Terracotta | ![orange_terracotta](../images/tconstruct_orange_terracotta.png) |
-| - | Magenta Terracotta | ![magenta_terracotta](../images/tconstruct_magenta_terracotta.png) |
-| - | Light Blue Terracotta | ![light_blue_terracotta](../images/tconstruct_light_blue_terracotta.png) |
-| - | Yellow Terracotta | ![yellow_terracotta](../images/tconstruct_yellow_terracotta.png) |
-| - | Lime Terracotta | ![lime_terracotta](../images/tconstruct_lime_terracotta.png) |
-| - | Pink Terracotta | ![pink_terracotta](../images/tconstruct_pink_terracotta.png) |
-| - | Gray Terracotta | ![gray_terracotta](../images/tconstruct_gray_terracotta.png) |
-| - | Light Gray Terracotta | ![light_gray_terracotta](../images/tconstruct_light_gray_terracotta.png) |
-| - | Cyan Terracotta | ![cyan_terracotta](../images/tconstruct_cyan_terracotta.png) |
-| - | Purple Terracotta | ![purple_terracotta](../images/tconstruct_purple_terracotta.png) |
-| - | Blue Terracotta | ![blue_terracotta](../images/tconstruct_blue_terracotta.png) |
-| - | Brown Terracotta | ![brown_terracotta](../images/tconstruct_brown_terracotta.png) |
-| - | Green Terracotta | ![green_terracotta](../images/tconstruct_green_terracotta.png) |
-| - | Red Terracotta | ![red_terracotta](../images/tconstruct_red_terracotta.png) |
-| - | Black Terracotta | ![black_terracotta](../images/tconstruct_black_terracotta.png) |
-| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/tconstruct_white_glazed_terracotta.png) |
-| - | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/tconstruct_orange_glazed_terracotta.png) |
-| - | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/tconstruct_magenta_glazed_terracotta.png) |
-| - | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/tconstruct_light_blue_glazed_terracotta.png) |
-| - | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/tconstruct_yellow_glazed_terracotta.png) |
-| - | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/tconstruct_lime_glazed_terracotta.png) |
-| - | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/tconstruct_pink_glazed_terracotta.png) |
-| - | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/tconstruct_gray_glazed_terracotta.png) |
-| - | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/tconstruct_light_gray_glazed_terracotta.png) |
-| - | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/tconstruct_cyan_glazed_terracotta.png) |
-| - | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/tconstruct_purple_glazed_terracotta.png) |
-| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/tconstruct_blue_glazed_terracotta.png) |
-| - | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/tconstruct_brown_glazed_terracotta.png) |
-| - | Green Glazed Terracotta | ![green_glazed_terracotta](../images/tconstruct_green_glazed_terracotta.png) |
-| - | Red Glazed Terracotta | ![red_glazed_terracotta](../images/tconstruct_red_glazed_terracotta.png) |
-| - | Black Glazed Terracotta | ![black_glazed_terracotta](../images/tconstruct_black_glazed_terracotta.png) |
+| - | Brick Wall | ![brick_wall](../images/tconstruct_brick.png) |
+| - | Brick Stairs | ![brick_stairs](../images/tconstruct_brick.png) |
+| - | White Terracotta | ![white_terracotta](../images/tconstruct_ability.png) |
+| - | Orange Terracotta | ![orange_terracotta](../images/tconstruct_ability.png) |
+| - | Magenta Terracotta | ![magenta_terracotta](../images/tconstruct_ability.png) |
+| - | Light Blue Terracotta | ![light_blue_terracotta](../images/tconstruct_ability.png) |
+| - | Yellow Terracotta | ![yellow_terracotta](../images/tconstruct_ability.png) |
+| - | Lime Terracotta | ![lime_terracotta](../images/tconstruct_ability.png) |
+| - | Pink Terracotta | ![pink_terracotta](../images/tconstruct_ability.png) |
+| - | Gray Terracotta | ![gray_terracotta](../images/tconstruct_ability.png) |
+| - | Light Gray Terracotta | ![light_gray_terracotta](../images/tconstruct_ability.png) |
+| - | Cyan Terracotta | ![cyan_terracotta](../images/tconstruct_ability.png) |
+| - | Purple Terracotta | ![purple_terracotta](../images/tconstruct_purple_slimewood.png) |
+| - | Blue Terracotta | ![blue_terracotta](../images/tconstruct_ability.png) |
+| - | Brown Terracotta | ![brown_terracotta](../images/tconstruct_ability.png) |
+| - | Green Terracotta | ![green_terracotta](../images/tconstruct_ability.png) |
+| - | Red Terracotta | ![red_terracotta](../images/tconstruct_ability.png) |
+| - | Black Terracotta | ![black_terracotta](../images/tconstruct_black.png) |
+| - | White Glazed Terracotta | ![white_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/tconstruct_purple_slimewood.png) |
+| - | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Green Glazed Terracotta | ![green_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Red Glazed Terracotta | ![red_glazed_terracotta](../images/tconstruct_ability.png) |
+| - | Black Glazed Terracotta | ![black_glazed_terracotta](../images/tconstruct_black.png) |
 
 ---
 ## Molten Clay'}
@@ -7144,8 +7144,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_metal.png) |
-| s | Seared Blocks | ![seared_blocks](../images/tconstruct_seared_blocks.png) |
+| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_base.png) |
+| s | Seared Blocks | ![seared_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
 
 ---
 ## Tinkers Chest
@@ -7164,9 +7164,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_metal.png) |
-| s | Seared Blocks | ![seared_blocks](../images/tconstruct_seared_blocks.png) |
-| t | Tinker Station | ![tinker_station](../images/tconstruct_tinker_station.png) |
+| m | Anvil Metal | ![anvil_metal](../images/tconstruct_anvil_base.png) |
+| s | Seared Blocks | ![seared_blocks](../images/tconstruct_accessory_tconstruct_accessory_tconstruct_seared_stone.png) |
+| t | Tinker Station | ![tinker_station](../images/tconstruct_tinker_station_top.png) |
 
 ---
 ## Tinkers Gadgetry
@@ -7174,7 +7174,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/tconstruct_book.png) |
+| - | Book | ![book](../images/tconstruct_ability.png) |
 | - | Slimeball/Sky | ![slimeball/sky](../images/tconstruct_slimeball/sky.png) |
 
 ---
@@ -7184,7 +7184,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | p | Pattern | ![pattern](../images/tconstruct_pattern.png) |
-| w | Planklike | ![planklike](../images/tconstruct_planklike.png) |
+| w | Planklike | ![planklike](../images/tconstruct_ability.png) |
 
 ---
 ## {}
@@ -7369,7 +7369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_skyroot_planks.png) |
+| # | Skyroot Planks | ![skyroot_planks](../images/tconstruct_accessory_tconstruct_slimewood_skyroot.png) |
 
 ---
 ## Travelers Boots
@@ -7378,7 +7378,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Ingots/Copper | ![ingots/copper](../images/tconstruct_ingots/copper.png) |
-| l | Leather | ![leather](../images/tconstruct_leather.png) |
+| l | Leather | ![leather](../images/tconstruct_binding_tconstruct_leather.png) |
 
 ---
 ## Travelers Chestplate
@@ -7387,7 +7387,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Ingots/Copper | ![ingots/copper](../images/tconstruct_ingots/copper.png) |
-| l | Leather | ![leather](../images/tconstruct_leather.png) |
+| l | Leather | ![leather](../images/tconstruct_binding_tconstruct_leather.png) |
 
 ---
 ## {}
@@ -7404,7 +7404,7 @@
 | :--- | :--- | :--- |
 | c | Ingots/Copper | ![ingots/copper](../images/tconstruct_ingots/copper.png) |
 | g | Glass Panes/Colorless | ![glass_panes/colorless](../images/tconstruct_glass_panes/colorless.png) |
-| l | Leather | ![leather](../images/tconstruct_leather.png) |
+| l | Leather | ![leather](../images/tconstruct_binding_tconstruct_leather.png) |
 
 ---
 ## Travelers Leggings
@@ -7413,7 +7413,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Ingots/Copper | ![ingots/copper](../images/tconstruct_ingots/copper.png) |
-| l | Leather | ![leather](../images/tconstruct_leather.png) |
+| l | Leather | ![leather](../images/tconstruct_binding_tconstruct_leather.png) |
 
 ---
 ## Travelers Shield
@@ -7421,7 +7421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Leather | ![leather](../images/tconstruct_leather.png) |
+| l | Leather | ![leather](../images/tconstruct_binding_tconstruct_leather.png) |
 | w | Pattern | ![pattern](../images/tconstruct_pattern.png) |
 
 ---
@@ -7444,7 +7444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tripwire Hook | ![tripwire_hook](../images/tconstruct_tripwire_hook.png) |
+| item | Tripwire Hook | ![tripwire_hook](../images/tconstruct_ability.png) |
 
 ---
 ## Trueshot
@@ -7501,7 +7501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Unfired Porcelain | ![unfired_porcelain](../images/tconstruct_unfired_porcelain.png) |
+| item | Unfired Porcelain | ![unfired_porcelain](../images/tconstruct_ability.png) |
 
 ---
 ## Molten Clay'}
@@ -7509,8 +7509,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unfired Faucet | ![unfired_faucet](../images/tconstruct_unfired_faucet.png) |
-| - | Unfired Channel | ![unfired_channel](../images/tconstruct_unfired_channel.png) |
+| - | Unfired Faucet | ![unfired_faucet](../images/tconstruct_faucet.png) |
+| - | Unfired Channel | ![unfired_channel](../images/tconstruct_channel_in.png) |
 
 ---
 ## Molten Clay'}
@@ -7518,7 +7518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Unfired Cistern | ![unfired_cistern](../images/tconstruct_unfired_cistern.png) |
+| item | Unfired Cistern | ![unfired_cistern](../images/tconstruct_ability.png) |
 
 ---
 ## Molten Porcelain'}
@@ -7526,7 +7526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Unfired Porcelain Block | ![unfired_porcelain_block](../images/tconstruct_unfired_porcelain_block.png) |
+| item | Unfired Porcelain Block | ![unfired_porcelain_block](../images/tconstruct_block.png) |
 
 ---
 ## {}
@@ -7591,8 +7591,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Vine | ![vine](../images/tconstruct_vine.png) |
-| - | Twisting Vines | ![twisting_vines](../images/tconstruct_twisting_vines.png) |
-| - | Weeping Vines | ![weeping_vines](../images/tconstruct_weeping_vines.png) |
+| - | Twisting Vines | ![twisting_vines](../images/tconstruct_ability.png) |
+| - | Weeping Vines | ![weeping_vines](../images/tconstruct_ability.png) |
 
 ---
 ## Seared Cobble Wall
@@ -7607,7 +7607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Planks | ![warped_planks](../images/tconstruct_warped_planks.png) |
+| item | Warped Planks | ![warped_planks](../images/tconstruct_accessory_tconstruct_wood_warped.png) |
 
 ---
 ## {}
@@ -7629,8 +7629,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Sword | ![netherite_sword](../images/tconstruct_netherite_sword.png) |
-| - | Netherite Hoe | ![netherite_hoe](../images/tconstruct_netherite_hoe.png) |
+| - | Netherite Sword | ![netherite_sword](../images/tconstruct_netherite_nugget.png) |
+| - | Netherite Hoe | ![netherite_hoe](../images/tconstruct_netherite_nugget.png) |
 
 ---
 ## {}
@@ -7675,7 +7675,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Clear Stained Glass | ![white_clear_stained_glass](../images/tconstruct_white_clear_stained_glass.png) |
+| # | White Clear Stained Glass | ![white_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## White Clear Stained Glass Pane
@@ -7683,7 +7683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/White | ![dyes/white](../images/tconstruct_dyes/white.png) |
 
 ---
@@ -7742,7 +7742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wither Bones | ![wither_bones](../images/tconstruct_wither_bones.png) |
+| - | Wither Bones | ![wither_bones](../images/tconstruct_ability.png) |
 
 ---
 ## Necrotic Bone
@@ -7850,7 +7850,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Clear Stained Glass | ![yellow_clear_stained_glass](../images/tconstruct_yellow_clear_stained_glass.png) |
+| # | Yellow Clear Stained Glass | ![yellow_clear_stained_glass](../images/tconstruct_clear_stained_glass.png) |
 
 ---
 ## Yellow Clear Stained Glass Pane
@@ -7858,7 +7858,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass_pane.png) |
+| # | Clear Glass Pane | ![clear_glass_pane](../images/tconstruct_clear_glass.png) |
 | X | Dyes/Yellow | ![dyes/yellow](../images/tconstruct_dyes/yellow.png) |
 
 ---
@@ -7874,8 +7874,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zombie Head | ![zombie_head](../images/tconstruct_zombie_head.png) |
-| - | Husk Head | ![husk_head](../images/tconstruct_husk_head.png) |
+| - | Zombie Head | ![zombie_head](../images/tconstruct_broad_axe_head.png) |
+| - | Husk Head | ![husk_head](../images/tconstruct_broad_axe_head.png) |
 
 ---
 ## Zombie Head

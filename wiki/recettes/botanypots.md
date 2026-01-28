@@ -455,8 +455,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Black Concrete | ![black_concrete](../images/botanypots_black_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Black Concrete | ![black_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Black Concrete Hopper Botany Pot
@@ -464,9 +464,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Black Concrete | ![black_concrete](../images/botanypots_black_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Black Concrete | ![black_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Black Concrete Hopper Botany Pot
@@ -474,8 +474,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Concrete Botany Pot | ![black_concrete_botany_pot](../images/botanypots_black_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Black Concrete Botany Pot | ![black_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -490,8 +490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Black Glazed Terracotta | ![black_glazed_terracotta](../images/botanypots_black_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Black Glazed Terracotta | ![black_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Black Glazed Terracotta Hopper Botany Pot
@@ -499,9 +499,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Black Glazed Terracotta | ![black_glazed_terracotta](../images/botanypots_black_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Black Glazed Terracotta | ![black_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Black Glazed Terracotta Hopper Botany Pot
@@ -509,8 +509,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Glazed Terracotta Botany Pot | ![black_glazed_terracotta_botany_pot](../images/botanypots_black_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Black Glazed Terracotta Botany Pot | ![black_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -553,8 +553,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Black Terracotta | ![black_terracotta](../images/botanypots_black_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Black Terracotta | ![black_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Black Terracotta Hopper Botany Pot
@@ -562,9 +562,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Black Terracotta | ![black_terracotta](../images/botanypots_black_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Black Terracotta | ![black_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Black Terracotta Hopper Botany Pot
@@ -572,8 +572,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Terracotta Botany Pot | ![black_terracotta_botany_pot](../images/botanypots_black_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Black Terracotta Botany Pot | ![black_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -728,8 +728,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blue Concrete | ![blue_concrete](../images/botanypots_blue_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Blue Concrete | ![blue_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Blue Concrete Hopper Botany Pot
@@ -737,9 +737,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blue Concrete | ![blue_concrete](../images/botanypots_blue_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Blue Concrete | ![blue_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Blue Concrete Hopper Botany Pot
@@ -747,8 +747,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Concrete Botany Pot | ![blue_concrete_botany_pot](../images/botanypots_blue_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Blue Concrete Botany Pot | ![blue_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -763,8 +763,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/botanypots_blue_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Blue Glazed Terracotta Hopper Botany Pot
@@ -772,9 +772,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/botanypots_blue_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Blue Glazed Terracotta Hopper Botany Pot
@@ -782,8 +782,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Glazed Terracotta Botany Pot | ![blue_glazed_terracotta_botany_pot](../images/botanypots_blue_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Blue Glazed Terracotta Botany Pot | ![blue_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -833,8 +833,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blue Terracotta | ![blue_terracotta](../images/botanypots_blue_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Blue Terracotta | ![blue_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Blue Terracotta Hopper Botany Pot
@@ -842,9 +842,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Blue Terracotta | ![blue_terracotta](../images/botanypots_blue_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Blue Terracotta | ![blue_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Blue Terracotta Hopper Botany Pot
@@ -852,8 +852,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Terracotta Botany Pot | ![blue_terracotta_botany_pot](../images/botanypots_blue_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Blue Terracotta Botany Pot | ![blue_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -903,7 +903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Meal | ![bone_meal](../images/botanypots_bone_meal.png) |
+| item | Bone Meal | ![bone_meal](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -1009,8 +1009,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Brown Concrete | ![brown_concrete](../images/botanypots_brown_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Brown Concrete | ![brown_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Brown Concrete Hopper Botany Pot
@@ -1018,9 +1018,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Brown Concrete | ![brown_concrete](../images/botanypots_brown_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Brown Concrete | ![brown_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Brown Concrete Hopper Botany Pot
@@ -1028,8 +1028,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Concrete Botany Pot | ![brown_concrete_botany_pot](../images/botanypots_brown_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Brown Concrete Botany Pot | ![brown_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -1044,8 +1044,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/botanypots_brown_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Brown Glazed Terracotta Hopper Botany Pot
@@ -1053,9 +1053,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/botanypots_brown_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Brown Glazed Terracotta Hopper Botany Pot
@@ -1063,8 +1063,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Glazed Terracotta Botany Pot | ![brown_glazed_terracotta_botany_pot](../images/botanypots_brown_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Brown Glazed Terracotta Botany Pot | ![brown_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -1093,8 +1093,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Brown Terracotta | ![brown_terracotta](../images/botanypots_brown_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Brown Terracotta | ![brown_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Brown Terracotta Hopper Botany Pot
@@ -1102,9 +1102,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Brown Terracotta | ![brown_terracotta](../images/botanypots_brown_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Brown Terracotta | ![brown_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Brown Terracotta Hopper Botany Pot
@@ -1112,8 +1112,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Terracotta Botany Pot | ![brown_terracotta_botany_pot](../images/botanypots_brown_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Brown Terracotta Botany Pot | ![brown_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -1835,8 +1835,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Cyan Concrete | ![cyan_concrete](../images/botanypots_cyan_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Cyan Concrete | ![cyan_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Cyan Concrete Hopper Botany Pot
@@ -1844,9 +1844,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Cyan Concrete | ![cyan_concrete](../images/botanypots_cyan_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Cyan Concrete | ![cyan_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Cyan Concrete Hopper Botany Pot
@@ -1854,8 +1854,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Concrete Botany Pot | ![cyan_concrete_botany_pot](../images/botanypots_cyan_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Cyan Concrete Botany Pot | ![cyan_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -1870,8 +1870,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/botanypots_cyan_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Cyan Glazed Terracotta Hopper Botany Pot
@@ -1879,9 +1879,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/botanypots_cyan_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Cyan Glazed Terracotta Hopper Botany Pot
@@ -1889,8 +1889,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Glazed Terracotta Botany Pot | ![cyan_glazed_terracotta_botany_pot](../images/botanypots_cyan_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Cyan Glazed Terracotta Botany Pot | ![cyan_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -1926,8 +1926,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Cyan Terracotta | ![cyan_terracotta](../images/botanypots_cyan_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Cyan Terracotta | ![cyan_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Cyan Terracotta Hopper Botany Pot
@@ -1935,9 +1935,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Cyan Terracotta | ![cyan_terracotta](../images/botanypots_cyan_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Cyan Terracotta | ![cyan_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Cyan Terracotta Hopper Botany Pot
@@ -1945,8 +1945,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Terracotta Botany Pot | ![cyan_terracotta_botany_pot](../images/botanypots_cyan_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Cyan Terracotta Botany Pot | ![cyan_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -3144,8 +3144,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Gray Concrete | ![gray_concrete](../images/botanypots_gray_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Gray Concrete | ![gray_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Gray Concrete Hopper Botany Pot
@@ -3153,9 +3153,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Gray Concrete | ![gray_concrete](../images/botanypots_gray_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Gray Concrete | ![gray_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Gray Concrete Hopper Botany Pot
@@ -3163,8 +3163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Concrete Botany Pot | ![gray_concrete_botany_pot](../images/botanypots_gray_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Gray Concrete Botany Pot | ![gray_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -3179,8 +3179,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/botanypots_gray_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Gray Glazed Terracotta Hopper Botany Pot
@@ -3188,9 +3188,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/botanypots_gray_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Gray Glazed Terracotta Hopper Botany Pot
@@ -3198,8 +3198,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Glazed Terracotta Botany Pot | ![gray_glazed_terracotta_botany_pot](../images/botanypots_gray_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Gray Glazed Terracotta Botany Pot | ![gray_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -3221,8 +3221,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Gray Terracotta | ![gray_terracotta](../images/botanypots_gray_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Gray Terracotta | ![gray_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Gray Terracotta Hopper Botany Pot
@@ -3230,9 +3230,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Gray Terracotta | ![gray_terracotta](../images/botanypots_gray_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Gray Terracotta | ![gray_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Gray Terracotta Hopper Botany Pot
@@ -3240,8 +3240,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Terracotta Botany Pot | ![gray_terracotta_botany_pot](../images/botanypots_gray_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Gray Terracotta Botany Pot | ![gray_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -3291,8 +3291,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Green Concrete | ![green_concrete](../images/botanypots_green_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Green Concrete | ![green_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Green Concrete Hopper Botany Pot
@@ -3300,9 +3300,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Green Concrete | ![green_concrete](../images/botanypots_green_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Green Concrete | ![green_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Green Concrete Hopper Botany Pot
@@ -3310,8 +3310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Concrete Botany Pot | ![green_concrete_botany_pot](../images/botanypots_green_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Green Concrete Botany Pot | ![green_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -3326,8 +3326,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Green Glazed Terracotta | ![green_glazed_terracotta](../images/botanypots_green_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Green Glazed Terracotta | ![green_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Green Glazed Terracotta Hopper Botany Pot
@@ -3335,9 +3335,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Green Glazed Terracotta | ![green_glazed_terracotta](../images/botanypots_green_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Green Glazed Terracotta | ![green_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Green Glazed Terracotta Hopper Botany Pot
@@ -3345,8 +3345,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Glazed Terracotta Botany Pot | ![green_glazed_terracotta_botany_pot](../images/botanypots_green_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Green Glazed Terracotta Botany Pot | ![green_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -3368,8 +3368,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Green Terracotta | ![green_terracotta](../images/botanypots_green_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Green Terracotta | ![green_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Green Terracotta Hopper Botany Pot
@@ -3377,9 +3377,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Green Terracotta | ![green_terracotta](../images/botanypots_green_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Green Terracotta | ![green_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Green Terracotta Hopper Botany Pot
@@ -3387,8 +3387,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Terracotta Botany Pot | ![green_terracotta_botany_pot](../images/botanypots_green_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Green Terracotta Botany Pot | ![green_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4054,8 +4054,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Blue Concrete | ![light_blue_concrete](../images/botanypots_light_blue_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Light Blue Concrete | ![light_blue_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Blue Concrete Hopper Botany Pot
@@ -4063,9 +4063,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Blue Concrete | ![light_blue_concrete](../images/botanypots_light_blue_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Light Blue Concrete | ![light_blue_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Blue Concrete Hopper Botany Pot
@@ -4073,8 +4073,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Concrete Botany Pot | ![light_blue_concrete_botany_pot](../images/botanypots_light_blue_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Light Blue Concrete Botany Pot | ![light_blue_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4089,8 +4089,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/botanypots_light_blue_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Blue Glazed Terracotta Hopper Botany Pot
@@ -4098,9 +4098,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/botanypots_light_blue_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Blue Glazed Terracotta Hopper Botany Pot
@@ -4108,8 +4108,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Glazed Terracotta Botany Pot | ![light_blue_glazed_terracotta_botany_pot](../images/botanypots_light_blue_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Light Blue Glazed Terracotta Botany Pot | ![light_blue_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4131,8 +4131,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Blue Terracotta | ![light_blue_terracotta](../images/botanypots_light_blue_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Light Blue Terracotta | ![light_blue_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Blue Terracotta Hopper Botany Pot
@@ -4140,9 +4140,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Blue Terracotta | ![light_blue_terracotta](../images/botanypots_light_blue_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Light Blue Terracotta | ![light_blue_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Blue Terracotta Hopper Botany Pot
@@ -4150,8 +4150,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Terracotta Botany Pot | ![light_blue_terracotta_botany_pot](../images/botanypots_light_blue_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Light Blue Terracotta Botany Pot | ![light_blue_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4166,8 +4166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Gray Concrete | ![light_gray_concrete](../images/botanypots_light_gray_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Light Gray Concrete | ![light_gray_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Gray Concrete Hopper Botany Pot
@@ -4175,9 +4175,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Gray Concrete | ![light_gray_concrete](../images/botanypots_light_gray_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Light Gray Concrete | ![light_gray_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Gray Concrete Hopper Botany Pot
@@ -4185,8 +4185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Concrete Botany Pot | ![light_gray_concrete_botany_pot](../images/botanypots_light_gray_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Light Gray Concrete Botany Pot | ![light_gray_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4201,8 +4201,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/botanypots_light_gray_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Gray Glazed Terracotta Hopper Botany Pot
@@ -4210,9 +4210,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/botanypots_light_gray_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Gray Glazed Terracotta Hopper Botany Pot
@@ -4220,8 +4220,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Glazed Terracotta Botany Pot | ![light_gray_glazed_terracotta_botany_pot](../images/botanypots_light_gray_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Light Gray Glazed Terracotta Botany Pot | ![light_gray_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4243,8 +4243,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Gray Terracotta | ![light_gray_terracotta](../images/botanypots_light_gray_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Light Gray Terracotta | ![light_gray_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Gray Terracotta Hopper Botany Pot
@@ -4252,9 +4252,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Light Gray Terracotta | ![light_gray_terracotta](../images/botanypots_light_gray_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Light Gray Terracotta | ![light_gray_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Light Gray Terracotta Hopper Botany Pot
@@ -4262,8 +4262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Terracotta Botany Pot | ![light_gray_terracotta_botany_pot](../images/botanypots_light_gray_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Light Gray Terracotta Botany Pot | ![light_gray_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4320,8 +4320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Lime Concrete | ![lime_concrete](../images/botanypots_lime_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Lime Concrete | ![lime_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Lime Concrete Hopper Botany Pot
@@ -4329,9 +4329,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Lime Concrete | ![lime_concrete](../images/botanypots_lime_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Lime Concrete | ![lime_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Lime Concrete Hopper Botany Pot
@@ -4339,8 +4339,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Concrete Botany Pot | ![lime_concrete_botany_pot](../images/botanypots_lime_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Lime Concrete Botany Pot | ![lime_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4355,8 +4355,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/botanypots_lime_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Lime Glazed Terracotta Hopper Botany Pot
@@ -4364,9 +4364,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/botanypots_lime_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Lime Glazed Terracotta Hopper Botany Pot
@@ -4374,8 +4374,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Glazed Terracotta Botany Pot | ![lime_glazed_terracotta_botany_pot](../images/botanypots_lime_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Lime Glazed Terracotta Botany Pot | ![lime_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4397,8 +4397,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Lime Terracotta | ![lime_terracotta](../images/botanypots_lime_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Lime Terracotta | ![lime_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Lime Terracotta Hopper Botany Pot
@@ -4406,9 +4406,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Lime Terracotta | ![lime_terracotta](../images/botanypots_lime_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Lime Terracotta | ![lime_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Lime Terracotta Hopper Botany Pot
@@ -4416,8 +4416,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Terracotta Botany Pot | ![lime_terracotta_botany_pot](../images/botanypots_lime_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Lime Terracotta Botany Pot | ![lime_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4544,8 +4544,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Magenta Concrete | ![magenta_concrete](../images/botanypots_magenta_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Magenta Concrete | ![magenta_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Magenta Concrete Hopper Botany Pot
@@ -4553,9 +4553,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Magenta Concrete | ![magenta_concrete](../images/botanypots_magenta_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Magenta Concrete | ![magenta_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Magenta Concrete Hopper Botany Pot
@@ -4563,8 +4563,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Concrete Botany Pot | ![magenta_concrete_botany_pot](../images/botanypots_magenta_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Magenta Concrete Botany Pot | ![magenta_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4579,8 +4579,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/botanypots_magenta_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Magenta Glazed Terracotta Hopper Botany Pot
@@ -4588,9 +4588,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/botanypots_magenta_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Magenta Glazed Terracotta Hopper Botany Pot
@@ -4598,8 +4598,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Glazed Terracotta Botany Pot | ![magenta_glazed_terracotta_botany_pot](../images/botanypots_magenta_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Magenta Glazed Terracotta Botany Pot | ![magenta_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -4621,8 +4621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Magenta Terracotta | ![magenta_terracotta](../images/botanypots_magenta_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Magenta Terracotta | ![magenta_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Magenta Terracotta Hopper Botany Pot
@@ -4630,9 +4630,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Magenta Terracotta | ![magenta_terracotta](../images/botanypots_magenta_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Magenta Terracotta | ![magenta_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Magenta Terracotta Hopper Botany Pot
@@ -4640,8 +4640,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Terracotta Botany Pot | ![magenta_terracotta_botany_pot](../images/botanypots_magenta_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Magenta Terracotta Botany Pot | ![magenta_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5230,8 +5230,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Orange Concrete | ![orange_concrete](../images/botanypots_orange_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Orange Concrete | ![orange_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Orange Concrete Hopper Botany Pot
@@ -5239,9 +5239,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Orange Concrete | ![orange_concrete](../images/botanypots_orange_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Orange Concrete | ![orange_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Orange Concrete Hopper Botany Pot
@@ -5249,8 +5249,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Concrete Botany Pot | ![orange_concrete_botany_pot](../images/botanypots_orange_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Orange Concrete Botany Pot | ![orange_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5279,8 +5279,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/botanypots_orange_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Orange Glazed Terracotta Hopper Botany Pot
@@ -5288,9 +5288,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/botanypots_orange_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Orange Glazed Terracotta Hopper Botany Pot
@@ -5298,8 +5298,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Glazed Terracotta Botany Pot | ![orange_glazed_terracotta_botany_pot](../images/botanypots_orange_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Orange Glazed Terracotta Botany Pot | ![orange_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5328,8 +5328,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Orange Terracotta | ![orange_terracotta](../images/botanypots_orange_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Orange Terracotta | ![orange_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Orange Terracotta Hopper Botany Pot
@@ -5337,9 +5337,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Orange Terracotta | ![orange_terracotta](../images/botanypots_orange_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Orange Terracotta | ![orange_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Orange Terracotta Hopper Botany Pot
@@ -5347,8 +5347,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Terracotta Botany Pot | ![orange_terracotta_botany_pot](../images/botanypots_orange_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Orange Terracotta Botany Pot | ![orange_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5657,8 +5657,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Pink Concrete | ![pink_concrete](../images/botanypots_pink_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Pink Concrete | ![pink_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Pink Concrete Hopper Botany Pot
@@ -5666,9 +5666,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Pink Concrete | ![pink_concrete](../images/botanypots_pink_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Pink Concrete | ![pink_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Pink Concrete Hopper Botany Pot
@@ -5676,8 +5676,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Concrete Botany Pot | ![pink_concrete_botany_pot](../images/botanypots_pink_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Pink Concrete Botany Pot | ![pink_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5699,8 +5699,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/botanypots_pink_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Pink Glazed Terracotta Hopper Botany Pot
@@ -5708,9 +5708,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/botanypots_pink_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Pink Glazed Terracotta Hopper Botany Pot
@@ -5718,8 +5718,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Glazed Terracotta Botany Pot | ![pink_glazed_terracotta_botany_pot](../images/botanypots_pink_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Pink Glazed Terracotta Botany Pot | ![pink_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5769,8 +5769,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Pink Terracotta | ![pink_terracotta](../images/botanypots_pink_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Pink Terracotta | ![pink_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Pink Terracotta Hopper Botany Pot
@@ -5778,9 +5778,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Pink Terracotta | ![pink_terracotta](../images/botanypots_pink_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Pink Terracotta | ![pink_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Pink Terracotta Hopper Botany Pot
@@ -5788,8 +5788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Terracotta Botany Pot | ![pink_terracotta_botany_pot](../images/botanypots_pink_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Pink Terracotta Botany Pot | ![pink_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -5965,8 +5965,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Purple Concrete | ![purple_concrete](../images/botanypots_purple_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Purple Concrete | ![purple_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Purple Concrete Hopper Botany Pot
@@ -5974,9 +5974,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Purple Concrete | ![purple_concrete](../images/botanypots_purple_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Purple Concrete | ![purple_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Purple Concrete Hopper Botany Pot
@@ -5984,8 +5984,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Concrete Botany Pot | ![purple_concrete_botany_pot](../images/botanypots_purple_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Purple Concrete Botany Pot | ![purple_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -6000,8 +6000,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/botanypots_purple_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Purple Glazed Terracotta Hopper Botany Pot
@@ -6009,9 +6009,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/botanypots_purple_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Purple Glazed Terracotta Hopper Botany Pot
@@ -6019,8 +6019,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Glazed Terracotta Botany Pot | ![purple_glazed_terracotta_botany_pot](../images/botanypots_purple_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Purple Glazed Terracotta Botany Pot | ![purple_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -6063,8 +6063,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Purple Terracotta | ![purple_terracotta](../images/botanypots_purple_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Purple Terracotta | ![purple_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Purple Terracotta Hopper Botany Pot
@@ -6072,9 +6072,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Purple Terracotta | ![purple_terracotta](../images/botanypots_purple_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Purple Terracotta | ![purple_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Purple Terracotta Hopper Botany Pot
@@ -6082,8 +6082,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Terracotta Botany Pot | ![purple_terracotta_botany_pot](../images/botanypots_purple_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Purple Terracotta Botany Pot | ![purple_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -6252,8 +6252,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Concrete | ![red_concrete](../images/botanypots_red_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Red Concrete | ![red_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Red Concrete Hopper Botany Pot
@@ -6261,9 +6261,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Concrete | ![red_concrete](../images/botanypots_red_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Red Concrete | ![red_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Red Concrete Hopper Botany Pot
@@ -6271,8 +6271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Concrete Botany Pot | ![red_concrete_botany_pot](../images/botanypots_red_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Red Concrete Botany Pot | ![red_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -6287,8 +6287,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Glazed Terracotta | ![red_glazed_terracotta](../images/botanypots_red_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Red Glazed Terracotta | ![red_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Red Glazed Terracotta Hopper Botany Pot
@@ -6296,9 +6296,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Glazed Terracotta | ![red_glazed_terracotta](../images/botanypots_red_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Red Glazed Terracotta | ![red_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Red Glazed Terracotta Hopper Botany Pot
@@ -6306,8 +6306,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Glazed Terracotta Botany Pot | ![red_glazed_terracotta_botany_pot](../images/botanypots_red_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Red Glazed Terracotta Botany Pot | ![red_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -6357,8 +6357,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Terracotta | ![red_terracotta](../images/botanypots_red_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Red Terracotta | ![red_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Red Terracotta Hopper Botany Pot
@@ -6366,9 +6366,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Terracotta | ![red_terracotta](../images/botanypots_red_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Red Terracotta | ![red_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Red Terracotta Hopper Botany Pot
@@ -6376,8 +6376,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Terracotta Botany Pot | ![red_terracotta_botany_pot](../images/botanypots_red_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Red Terracotta Botany Pot | ![red_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -7414,8 +7414,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Terracotta | ![terracotta](../images/botanypots_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Terracotta | ![terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Terracotta Hopper Botany Pot
@@ -7423,9 +7423,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Terracotta | ![terracotta](../images/botanypots_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Terracotta | ![terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Terracotta Hopper Botany Pot
@@ -7433,8 +7433,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terracotta Botany Pot | ![terracotta_botany_pot](../images/botanypots_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Terracotta Botany Pot | ![terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -7946,8 +7946,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | White Concrete | ![white_concrete](../images/botanypots_white_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | White Concrete | ![white_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## White Concrete Hopper Botany Pot
@@ -7955,9 +7955,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | White Concrete | ![white_concrete](../images/botanypots_white_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | White Concrete | ![white_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## White Concrete Hopper Botany Pot
@@ -7965,8 +7965,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Concrete Botany Pot | ![white_concrete_botany_pot](../images/botanypots_white_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | White Concrete Botany Pot | ![white_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -7981,8 +7981,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | White Glazed Terracotta | ![white_glazed_terracotta](../images/botanypots_white_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | White Glazed Terracotta | ![white_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## White Glazed Terracotta Hopper Botany Pot
@@ -7990,9 +7990,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | White Glazed Terracotta | ![white_glazed_terracotta](../images/botanypots_white_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | White Glazed Terracotta | ![white_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## White Glazed Terracotta Hopper Botany Pot
@@ -8000,8 +8000,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Glazed Terracotta Botany Pot | ![white_glazed_terracotta_botany_pot](../images/botanypots_white_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | White Glazed Terracotta Botany Pot | ![white_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -8044,8 +8044,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | White Terracotta | ![white_terracotta](../images/botanypots_white_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | White Terracotta | ![white_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## White Terracotta Hopper Botany Pot
@@ -8053,9 +8053,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | White Terracotta | ![white_terracotta](../images/botanypots_white_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | White Terracotta | ![white_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## White Terracotta Hopper Botany Pot
@@ -8063,8 +8063,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Terracotta Botany Pot | ![white_terracotta_botany_pot](../images/botanypots_white_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | White Terracotta Botany Pot | ![white_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -8310,8 +8310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Yellow Concrete | ![yellow_concrete](../images/botanypots_yellow_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Yellow Concrete | ![yellow_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Yellow Concrete Hopper Botany Pot
@@ -8319,9 +8319,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Yellow Concrete | ![yellow_concrete](../images/botanypots_yellow_concrete.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Yellow Concrete | ![yellow_concrete](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Yellow Concrete Hopper Botany Pot
@@ -8329,8 +8329,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Concrete Botany Pot | ![yellow_concrete_botany_pot](../images/botanypots_yellow_concrete_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Yellow Concrete Botany Pot | ![yellow_concrete_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -8359,8 +8359,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/botanypots_yellow_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Yellow Glazed Terracotta Hopper Botany Pot
@@ -8368,9 +8368,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/botanypots_yellow_glazed_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Yellow Glazed Terracotta Hopper Botany Pot
@@ -8378,8 +8378,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Glazed Terracotta Botany Pot | ![yellow_glazed_terracotta_botany_pot](../images/botanypots_yellow_glazed_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Yellow Glazed Terracotta Botany Pot | ![yellow_glazed_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}
@@ -8401,8 +8401,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Yellow Terracotta | ![yellow_terracotta](../images/botanypots_yellow_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
+| S | Yellow Terracotta | ![yellow_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Yellow Terracotta Hopper Botany Pot
@@ -8410,9 +8410,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Yellow Terracotta | ![yellow_terracotta](../images/botanypots_yellow_terracotta.png) |
-| P | Flower Pot | ![flower_pot](../images/botanypots_flower_pot.png) |
-| H | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| S | Yellow Terracotta | ![yellow_terracotta](../images/botanypots_hopper_overlay.png) |
+| P | Flower Pot | ![flower_pot](../images/botanypots_hopper_overlay.png) |
+| H | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## Yellow Terracotta Hopper Botany Pot
@@ -8420,8 +8420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Terracotta Botany Pot | ![yellow_terracotta_botany_pot](../images/botanypots_yellow_terracotta_botany_pot.png) |
-| - | Hopper | ![hopper](../images/botanypots_hopper.png) |
+| - | Yellow Terracotta Botany Pot | ![yellow_terracotta_botany_pot](../images/botanypots_hopper_overlay.png) |
+| - | Hopper | ![hopper](../images/botanypots_hopper_overlay.png) |
 
 ---
 ## {}

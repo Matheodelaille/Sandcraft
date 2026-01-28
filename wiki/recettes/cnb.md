@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/cnb_apple.png) |
+| - | Apple | ![apple](../images/cnb_apple_slice.png) |
 
 ---
 ## Cinder Furnace
@@ -15,8 +15,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Nether Bricks | ![nether_bricks](../images/cnb_nether_bricks.png) |
-| G | Gold Ingot | ![gold_ingot](../images/cnb_gold_ingot.png) |
+| X | Nether Bricks | ![nether_bricks](../images/cnb_apple_slice.png) |
+| G | Gold Ingot | ![gold_ingot](../images/cnb_apple_slice.png) |
 
 ---
 ## Cinder Sword
@@ -24,7 +24,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nether Brick | ![nether_brick](../images/cnb_nether_brick.png) |
+| # | Nether Brick | ![nether_brick](../images/cnb_apple_slice.png) |
 | X | Cindershell Shell Shard | ![cindershell_shell_shard](../images/cnb_cindershell_shell_shard.png) |
 
 ---
@@ -33,8 +33,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/cnb_stick.png) |
-| X | String | ![string](../images/cnb_string.png) |
+| # | Stick | ![stick](../images/cnb_apple_slice.png) |
+| X | String | ![string](../images/cnb_apple_slice.png) |
 
 ---
 ## Flower Crown
@@ -42,7 +42,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Minipad Flowers | ![minipad_flowers](../images/cnb_minipad_flowers.png) |
+| F | Minipad Flowers | ![minipad_flowers](../images/cnb_light_pink_minipad_flower.png) |
 
 ---
 ## Glowing Flower Crown
@@ -50,7 +50,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Glowing Minipad Flowers | ![glowing_minipad_flowers](../images/cnb_glowing_minipad_flowers.png) |
+| F | Glowing Minipad Flowers | ![glowing_minipad_flowers](../images/cnb_light_pink_minipad_flower.png) |
 
 ---
 ## Sporeling Backpack
@@ -58,7 +58,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather | ![leather](../images/cnb_leather.png) |
+| L | Leather | ![leather](../images/cnb_apple_slice.png) |
 
 ---
 ## Bone Meal

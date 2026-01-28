@@ -25,9 +25,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/littlelogistics_stick.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| _ | Chest | ![chest](../images/littlelogistics_chest.png) |
+| # | Stick | ![stick](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Chest | ![chest](../images/littlelogistics_chest_car.png) |
 
 ---
 ## Barge Dock
@@ -36,8 +36,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spring | ![spring](../images/littlelogistics_spring.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| _ | Stone | ![stone](../images/littlelogistics_stone.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Stone | ![stone](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Car Dock Rail
@@ -54,7 +54,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chest | ![chest](../images/littlelogistics_chest.png) |
+| # | Chest | ![chest](../images/littlelogistics_chest_car.png) |
 | $ | Seater Car | ![seater_car](../images/littlelogistics_seater_car.png) |
 
 ---
@@ -63,9 +63,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
 | ^ | Spring | ![spring](../images/littlelogistics_spring.png) |
-| r | Red Dye | ![red_dye](../images/littlelogistics_red_dye.png) |
+| r | Red Dye | ![red_dye](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Energy Locomotive
@@ -73,10 +73,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
+| # | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
 | $ | Seater Car | ![seater_car](../images/littlelogistics_seater_car.png) |
 | . | Vessel Charger | ![vessel_charger](../images/littlelogistics_vessel_charger.png) |
-| _ | Piston | ![piston](../images/littlelogistics_piston.png) |
+| _ | Piston | ![piston](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Energy Tug
@@ -85,8 +85,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Vessel Charger | ![vessel_charger](../images/littlelogistics_vessel_charger.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| _ | Piston | ![piston](../images/littlelogistics_piston.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Piston | ![piston](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Fishing Barge
@@ -94,8 +94,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fishing Rod | ![fishing_rod](../images/littlelogistics_fishing_rod.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
+| # | Fishing Rod | ![fishing_rod](../images/littlelogistics_fishing_barge.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Fluid Barge
@@ -103,8 +103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glass | ![glass](../images/littlelogistics_glass.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
+| # | Glass | ![glass](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Fluid Car
@@ -112,7 +112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glass | ![glass](../images/littlelogistics_glass.png) |
+| # | Glass | ![glass](../images/littlelogistics_automatic_switch_rail.png) |
 | $ | Seater Car | ![seater_car](../images/littlelogistics_seater_car.png) |
 
 ---
@@ -121,8 +121,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| $ | Hopper | ![hopper](../images/littlelogistics_hopper.png) |
-| _ | Glass | ![glass](../images/littlelogistics_glass.png) |
+| $ | Hopper | ![hopper](../images/littlelogistics_fluid_hopper.png) |
+| _ | Glass | ![glass](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Guide Rail Corner
@@ -131,8 +131,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spring | ![spring](../images/littlelogistics_spring.png) |
-| $ | Powered Rail | ![powered_rail](../images/littlelogistics_powered_rail.png) |
-| _ | Stone | ![stone](../images/littlelogistics_stone.png) |
+| $ | Powered Rail | ![powered_rail](../images/littlelogistics_locomotive_dock_rail_powered.png) |
+| _ | Stone | ![stone](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Guide Rail Tug
@@ -141,8 +141,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spring | ![spring](../images/littlelogistics_spring.png) |
-| $ | Powered Rail | ![powered_rail](../images/littlelogistics_powered_rail.png) |
-| _ | Stone | ![stone](../images/littlelogistics_stone.png) |
+| $ | Powered Rail | ![powered_rail](../images/littlelogistics_locomotive_dock_rail_powered.png) |
+| _ | Stone | ![stone](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Junction Rail
@@ -167,8 +167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Nugget | ![iron_nugget](../images/littlelogistics_iron_nugget.png) |
-| $ | Redstone | ![redstone](../images/littlelogistics_redstone.png) |
+| # | Iron Nugget | ![iron_nugget](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Redstone | ![redstone](../images/littlelogistics_automatic_switch_rail.png) |
 | _ | Transmitter Component | ![transmitter_component](../images/littlelogistics_transmitter_component.png) |
 
 ---
@@ -184,8 +184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/littlelogistics_chest.png) |
-| - | Compass | ![compass](../images/littlelogistics_compass.png) |
+| - | Chest | ![chest](../images/littlelogistics_chest_car.png) |
+| - | Compass | ![compass](../images/littlelogistics_automatic_switch_rail.png) |
 | - | Book | ![book](../images/littlelogistics_book.png) |
 
 ---
@@ -194,9 +194,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Block | ![redstone_block](../images/littlelogistics_redstone_block.png) |
-| $ | Gold Ingot | ![gold_ingot](../images/littlelogistics_gold_ingot.png) |
-| _ | Hopper | ![hopper](../images/littlelogistics_hopper.png) |
+| # | Redstone Block | ![redstone_block](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Gold Ingot | ![gold_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Hopper | ![hopper](../images/littlelogistics_fluid_hopper.png) |
 
 ---
 ## Receiver Component
@@ -204,9 +204,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone | ![redstone](../images/littlelogistics_redstone.png) |
-| _ | Stone Slab | ![stone_slab](../images/littlelogistics_stone_slab.png) |
-| o | Ender Eye | ![ender_eye](../images/littlelogistics_ender_eye.png) |
+| # | Redstone | ![redstone](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Stone Slab | ![stone_slab](../images/littlelogistics_automatic_switch_rail.png) |
+| o | Ender Eye | ![ender_eye](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Seater Barge
@@ -214,9 +214,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Signs | ![signs](../images/littlelogistics_signs.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| _ | Wooden Stairs | ![wooden_stairs](../images/littlelogistics_wooden_stairs.png) |
+| # | Signs | ![signs](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Wooden Stairs | ![wooden_stairs](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Seater Car
@@ -224,8 +224,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/littlelogistics_planks.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
+| # | Planks | ![planks](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Spring
@@ -233,8 +233,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| $ | Iron Nugget | ![iron_nugget](../images/littlelogistics_iron_nugget.png) |
-| _ | String | ![string](../images/littlelogistics_string.png) |
+| $ | Iron Nugget | ![iron_nugget](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | String | ![string](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Steam Locomotive
@@ -242,10 +242,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
+| # | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
 | $ | Seater Car | ![seater_car](../images/littlelogistics_seater_car.png) |
-| . | Furnace | ![furnace](../images/littlelogistics_furnace.png) |
-| _ | Piston | ![piston](../images/littlelogistics_piston.png) |
+| . | Furnace | ![furnace](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Piston | ![piston](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Switch Rail
@@ -269,9 +269,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glowstone Dust | ![glowstone_dust](../images/littlelogistics_glowstone_dust.png) |
-| _ | Stone Slab | ![stone_slab](../images/littlelogistics_stone_slab.png) |
-| o | Ender Pearl | ![ender_pearl](../images/littlelogistics_ender_pearl.png) |
+| # | Glowstone Dust | ![glowstone_dust](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Stone Slab | ![stone_slab](../images/littlelogistics_automatic_switch_rail.png) |
+| o | Ender Pearl | ![ender_pearl](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Tug
@@ -279,9 +279,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Furnace | ![furnace](../images/littlelogistics_furnace.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| _ | Piston | ![piston](../images/littlelogistics_piston.png) |
+| # | Furnace | ![furnace](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Piston | ![piston](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Tug Dock
@@ -290,8 +290,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spring | ![spring](../images/littlelogistics_spring.png) |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| _ | Stone | ![stone](../images/littlelogistics_stone.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Stone | ![stone](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Tug Route
@@ -299,8 +299,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone | ![redstone](../images/littlelogistics_redstone.png) |
-| $ | Iron Nugget | ![iron_nugget](../images/littlelogistics_iron_nugget.png) |
+| # | Redstone | ![redstone](../images/littlelogistics_automatic_switch_rail.png) |
+| $ | Iron Nugget | ![iron_nugget](../images/littlelogistics_automatic_switch_rail.png) |
 | _ | Transmitter Component | ![transmitter_component](../images/littlelogistics_transmitter_component.png) |
 
 ---
@@ -316,9 +316,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_iron_ingot.png) |
-| . | Gold Ingot | ![gold_ingot](../images/littlelogistics_gold_ingot.png) |
-| _ | Redstone Block | ![redstone_block](../images/littlelogistics_redstone_block.png) |
+| $ | Iron Ingot | ![iron_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| . | Gold Ingot | ![gold_ingot](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Redstone Block | ![redstone_block](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---
 ## Vessel Detector
@@ -327,7 +327,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Spring | ![spring](../images/littlelogistics_spring.png) |
-| $ | Redstone Torch | ![redstone_torch](../images/littlelogistics_redstone_torch.png) |
-| _ | Stone | ![stone](../images/littlelogistics_stone.png) |
+| $ | Redstone Torch | ![redstone_torch](../images/littlelogistics_automatic_switch_rail.png) |
+| _ | Stone | ![stone](../images/littlelogistics_automatic_switch_rail.png) |
 
 ---

@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Bundle | ![aloe_bundle](../images/atmospheric_aloe_bundle.png) |
+| - | Aloe Bundle | ![aloe_bundle](../images/atmospheric_aloe_bundle_side.png) |
 
 ---
 ## Aloe Gel Block
@@ -39,7 +39,7 @@
 | - | Aloe Leaves | ![aloe_leaves](../images/atmospheric_aloe_leaves.png) |
 | - | Aloe Leaves | ![aloe_leaves](../images/atmospheric_aloe_leaves.png) |
 | - | Aloe Leaves | ![aloe_leaves](../images/atmospheric_aloe_leaves.png) |
-| - | Glass Bottle | ![glass_bottle](../images/atmospheric_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/atmospheric_aloe_gel_bottle.png) |
 
 ---
 ## Aloe Gel Bottle
@@ -47,11 +47,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aloe Gel Block | ![aloe_gel_block](../images/atmospheric_aloe_gel_block.png) |
-| - | Glass Bottle | ![glass_bottle](../images/atmospheric_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/atmospheric_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/atmospheric_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/atmospheric_glass_bottle.png) |
+| - | Aloe Gel Block | ![aloe_gel_block](../images/atmospheric_aloe_gel_block_bottom.png) |
+| - | Glass Bottle | ![glass_bottle](../images/atmospheric_aloe_gel_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/atmospheric_aloe_gel_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/atmospheric_aloe_gel_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/atmospheric_aloe_gel_bottle.png) |
 
 ---
 ## Arid Sandstone
@@ -123,7 +123,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Arid Sandstone Brick Slab | ![arid_sandstone_brick_slab](../images/atmospheric_arid_sandstone_brick_slab.png) |
+| # | Arid Sandstone Brick Slab | ![arid_sandstone_brick_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Arid Sandstone Brick Vertical Slab
@@ -139,7 +139,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Arid Sandstone Brick Vertical Slab | ![arid_sandstone_brick_vertical_slab](../images/atmospheric_arid_sandstone_brick_vertical_slab.png) |
+| # | Arid Sandstone Brick Vertical Slab | ![arid_sandstone_brick_vertical_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Arid Sandstone Brick Wall
@@ -195,7 +195,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Arid Sandstone Slab | ![arid_sandstone_slab](../images/atmospheric_arid_sandstone_slab.png) |
+| # | Arid Sandstone Slab | ![arid_sandstone_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Arid Sandstone Vertical Slab
@@ -211,7 +211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Arid Sandstone Vertical Slab | ![arid_sandstone_vertical_slab](../images/atmospheric_arid_sandstone_vertical_slab.png) |
+| # | Arid Sandstone Vertical Slab | ![arid_sandstone_vertical_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Arid Sandstone Wall
@@ -288,7 +288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aspen Logs | ![aspen_logs](../images/atmospheric_aspen_logs.png) |
+| # | Aspen Logs | ![aspen_logs](../images/atmospheric_aspen_beehive_end.png) |
 
 ---
 ## Aspen Door
@@ -304,7 +304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Aspen Planks | ![aspen_planks](../images/atmospheric_aspen_planks.png) |
 
 ---
@@ -313,7 +313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Aspen Planks | ![aspen_planks](../images/atmospheric_aspen_planks.png) |
 
 ---
@@ -330,7 +330,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Aspen Leaves | ![aspen_leaves](../images/atmospheric_aspen_leaves.png) |
-| W | Aspen Logs | ![aspen_logs](../images/atmospheric_aspen_logs.png) |
+| W | Aspen Logs | ![aspen_logs](../images/atmospheric_aspen_beehive_end.png) |
 
 ---
 ## {}
@@ -367,7 +367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aspen Logs | ![aspen_logs](../images/atmospheric_aspen_logs.png) |
+| - | Aspen Logs | ![aspen_logs](../images/atmospheric_aspen_beehive_end.png) |
 
 ---
 ## Aspen Post
@@ -375,7 +375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Aspen Wood | ![aspen_wood](../images/atmospheric_aspen_wood.png) |
+| F | Aspen Wood | ![aspen_wood](../images/atmospheric_aspen_beehive_end.png) |
 
 ---
 ## Aspen Pressure Plate
@@ -431,7 +431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aspen Slab | ![aspen_slab](../images/atmospheric_aspen_slab.png) |
+| # | Aspen Slab | ![aspen_slab](../images/atmospheric_aspen_beehive_end.png) |
 
 ---
 ## Aspen Slab
@@ -439,7 +439,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aspen Vertical Slab | ![aspen_vertical_slab](../images/atmospheric_aspen_vertical_slab.png) |
+| # | Aspen Vertical Slab | ![aspen_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Aspen Wood
@@ -455,7 +455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Barrel Cactus | ![barrel_cactus](../images/atmospheric_barrel_cactus.png) |
+| # | Barrel Cactus | ![barrel_cactus](../images/atmospheric_barrel_cactus_batch_side.png) |
 
 ---
 ## Barrel Cactus
@@ -463,7 +463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barrel Cactus Batch | ![barrel_cactus_batch](../images/atmospheric_barrel_cactus_batch.png) |
+| - | Barrel Cactus Batch | ![barrel_cactus_batch](../images/atmospheric_barrel_cactus_batch_side.png) |
 
 ---
 ## {}
@@ -486,7 +486,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Orange | ![fruits/orange](../images/atmospheric_fruits/orange.png) |
-| - | Sugar | ![sugar](../images/atmospheric_sugar.png) |
+| - | Sugar | ![sugar](../images/atmospheric_agave.png) |
 
 ---
 ## Carmine Pavement
@@ -687,7 +687,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Arid Sandstone Slab | ![arid_sandstone_slab](../images/atmospheric_arid_sandstone_slab.png) |
+| # | Arid Sandstone Slab | ![arid_sandstone_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Chiseled Arid Sandstone
@@ -703,7 +703,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Carmine Shingle Slab | ![carmine_shingle_slab](../images/atmospheric_carmine_shingle_slab.png) |
+| # | Carmine Shingle Slab | ![carmine_shingle_slab](../images/atmospheric_carmine_block_bottom.png) |
 
 ---
 ## Chiseled Carmine Shingles
@@ -735,7 +735,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## Chiseled Peach Travertine
@@ -759,7 +759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| item | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Chiseled Persimmon Travertine
@@ -783,7 +783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Chiseled Red Arid Sandstone
@@ -791,7 +791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Arid Sandstone Slab | ![red_arid_sandstone_slab](../images/atmospheric_red_arid_sandstone_slab.png) |
+| # | Red Arid Sandstone Slab | ![red_arid_sandstone_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Chiseled Red Arid Sandstone
@@ -823,7 +823,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Cochineal Banner Pattern
@@ -831,7 +831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/atmospheric_paper.png) |
+| - | Paper | ![paper](../images/atmospheric_agave.png) |
 | - | Carmine Husk | ![carmine_husk](../images/atmospheric_carmine_husk.png) |
 
 ---
@@ -840,7 +840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crustose Log | ![crustose_log](../images/atmospheric_crustose_log.png) |
+| # | Crustose Log | ![crustose_log](../images/atmospheric_crustose_log_side.png) |
 
 ---
 ## {}
@@ -896,8 +896,8 @@
 | - | Fruits/Currant | ![fruits/currant](../images/atmospheric_fruits/currant.png) |
 | - | Fruits/Currant | ![fruits/currant](../images/atmospheric_fruits/currant.png) |
 | - | Fruits/Currant | ![fruits/currant](../images/atmospheric_fruits/currant.png) |
-| - | Sugar | ![sugar](../images/atmospheric_sugar.png) |
-| - | Eggs | ![eggs](../images/atmospheric_eggs.png) |
+| - | Sugar | ![sugar](../images/atmospheric_agave.png) |
+| - | Eggs | ![eggs](../images/atmospheric_agave.png) |
 
 ---
 ## Currant Stalk Bundle
@@ -953,7 +953,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Arid Sandstone Slab | ![cut_arid_sandstone_slab](../images/atmospheric_cut_arid_sandstone_slab.png) |
+| # | Cut Arid Sandstone Slab | ![cut_arid_sandstone_slab](../images/atmospheric_cut_arid_sandstone.png) |
 
 ---
 ## Cut Arid Sandstone Vertical Slab
@@ -977,7 +977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Arid Sandstone Vertical Slab | ![cut_arid_sandstone_vertical_slab](../images/atmospheric_cut_arid_sandstone_vertical_slab.png) |
+| # | Cut Arid Sandstone Vertical Slab | ![cut_arid_sandstone_vertical_slab](../images/atmospheric_cut_arid_sandstone.png) |
 
 ---
 ## Cut Ivory Travertine
@@ -985,7 +985,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| # | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## Cut Ivory Travertine
@@ -993,7 +993,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## Cut Peach Travertine
@@ -1001,7 +1001,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| # | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Cut Peach Travertine
@@ -1009,7 +1009,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| item | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Cut Persimmon Travertine
@@ -1017,7 +1017,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| # | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Cut Persimmon Travertine
@@ -1025,7 +1025,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Cut Red Arid Sandstone
@@ -1073,7 +1073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Red Arid Sandstone Slab | ![cut_red_arid_sandstone_slab](../images/atmospheric_cut_red_arid_sandstone_slab.png) |
+| # | Cut Red Arid Sandstone Slab | ![cut_red_arid_sandstone_slab](../images/atmospheric_cut_red_arid_sandstone.png) |
 
 ---
 ## Cut Red Arid Sandstone Vertical Slab
@@ -1097,7 +1097,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cut Red Arid Sandstone Vertical Slab | ![cut_red_arid_sandstone_vertical_slab](../images/atmospheric_cut_red_arid_sandstone_vertical_slab.png) |
+| # | Cut Red Arid Sandstone Vertical Slab | ![cut_red_arid_sandstone_vertical_slab](../images/atmospheric_cut_red_arid_sandstone.png) |
 
 ---
 ## Cut Saffron Travertine
@@ -1105,7 +1105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| # | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Cut Saffron Travertine
@@ -1113,7 +1113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Cyan Dye
@@ -1129,8 +1129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Travertine | ![travertine](../images/atmospheric_travertine.png) |
-| - | Cobblestone | ![cobblestone](../images/atmospheric_cobblestone.png) |
+| - | Travertine | ![travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
+| - | Cobblestone | ![cobblestone](../images/atmospheric_agave.png) |
 
 ---
 ## Dolerite Slab
@@ -1222,7 +1222,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Dry Laurel Leaves | ![dry_laurel_leaves](../images/atmospheric_dry_laurel_leaves.png) |
-| W | Laurel Logs | ![laurel_logs](../images/atmospheric_laurel_logs.png) |
+| W | Laurel Logs | ![laurel_logs](../images/atmospheric_dry_laurel_leaves.png) |
 
 ---
 ## Dry Laurel Leaf Carpet
@@ -1253,7 +1253,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Flowering Morado Leaves | ![flowering_morado_leaves](../images/atmospheric_flowering_morado_leaves.png) |
-| W | Morado Logs | ![morado_logs](../images/atmospheric_morado_logs.png) |
+| W | Morado Logs | ![morado_logs](../images/atmospheric_flowering_morado_leaves.png) |
 
 ---
 ## Flowering Morado Leaf Carpet
@@ -1283,7 +1283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gold Ingot | ![gold_ingot](../images/atmospheric_gold_ingot.png) |
+| # | Gold Ingot | ![gold_ingot](../images/atmospheric_agave.png) |
 | X | Dragon Fruit | ![dragon_fruit](../images/atmospheric_dragon_fruit.png) |
 
 ---
@@ -1306,8 +1306,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_logs.png) |
-| - | Cobweb | ![cobweb](../images/atmospheric_cobweb.png) |
+| - | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_beehive_end.png) |
+| - | Cobweb | ![cobweb](../images/atmospheric_agave.png) |
 
 ---
 ## Grimwood
@@ -1376,7 +1376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_logs.png) |
+| # | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_beehive_end.png) |
 
 ---
 ## Grimwood Door
@@ -1392,7 +1392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Grimwood Planks | ![grimwood_planks](../images/atmospheric_grimwood_planks.png) |
 
 ---
@@ -1401,7 +1401,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Grimwood Planks | ![grimwood_planks](../images/atmospheric_grimwood_planks.png) |
 
 ---
@@ -1418,7 +1418,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Grimwood Leaves | ![grimwood_leaves](../images/atmospheric_grimwood_leaves.png) |
-| W | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_logs.png) |
+| W | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_beehive_end.png) |
 
 ---
 ## {}
@@ -1455,7 +1455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_logs.png) |
+| - | Grimwood Logs | ![grimwood_logs](../images/atmospheric_grimwood_beehive_end.png) |
 
 ---
 ## Grimwood Post
@@ -1463,7 +1463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Grimwood | ![grimwood](../images/atmospheric_grimwood.png) |
+| F | Grimwood | ![grimwood](../images/atmospheric_grimwood_beehive_end.png) |
 
 ---
 ## Grimwood Pressure Plate
@@ -1519,7 +1519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Grimwood Slab | ![grimwood_slab](../images/atmospheric_grimwood_slab.png) |
+| # | Grimwood Slab | ![grimwood_slab](../images/atmospheric_grimwood_beehive_end.png) |
 
 ---
 ## Grimwood Slab
@@ -1527,7 +1527,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Grimwood Vertical Slab | ![grimwood_vertical_slab](../images/atmospheric_grimwood_vertical_slab.png) |
+| # | Grimwood Vertical Slab | ![grimwood_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Ivory Travertine Slab
@@ -1551,7 +1551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## Ivory Travertine Stairs
@@ -1575,7 +1575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## Ivory Travertine Vertical Slab
@@ -1599,7 +1599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## Ivory Travertine Slab
@@ -1631,7 +1631,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_ivory_travertine.png) |
+| item | Ivory Travertine | ![ivory_travertine](../images/atmospheric_chiseled_ivory_travertine.png) |
 
 ---
 ## {}
@@ -1692,7 +1692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kousa Logs | ![kousa_logs](../images/atmospheric_kousa_logs.png) |
+| # | Kousa Logs | ![kousa_logs](../images/atmospheric_kousa_beehive_end.png) |
 
 ---
 ## Kousa Door
@@ -1708,7 +1708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Kousa Planks | ![kousa_planks](../images/atmospheric_kousa_planks.png) |
 
 ---
@@ -1717,7 +1717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Kousa Planks | ![kousa_planks](../images/atmospheric_kousa_planks.png) |
 
 ---
@@ -1734,7 +1734,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Kousa Leaves | ![kousa_leaves](../images/atmospheric_kousa_leaves.png) |
-| W | Kousa Logs | ![kousa_logs](../images/atmospheric_kousa_logs.png) |
+| W | Kousa Logs | ![kousa_logs](../images/atmospheric_kousa_beehive_end.png) |
 
 ---
 ## {}
@@ -1771,7 +1771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kousa Logs | ![kousa_logs](../images/atmospheric_kousa_logs.png) |
+| - | Kousa Logs | ![kousa_logs](../images/atmospheric_kousa_beehive_end.png) |
 
 ---
 ## Kousa Post
@@ -1779,7 +1779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Kousa Wood | ![kousa_wood](../images/atmospheric_kousa_wood.png) |
+| F | Kousa Wood | ![kousa_wood](../images/atmospheric_kousa_beehive_end.png) |
 
 ---
 ## Kousa Pressure Plate
@@ -1835,7 +1835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kousa Slab | ![kousa_slab](../images/atmospheric_kousa_slab.png) |
+| # | Kousa Slab | ![kousa_slab](../images/atmospheric_ivory_travertine_slab.png) |
 
 ---
 ## Kousa Slab
@@ -1843,7 +1843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kousa Vertical Slab | ![kousa_vertical_slab](../images/atmospheric_kousa_vertical_slab.png) |
+| # | Kousa Vertical Slab | ![kousa_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Kousa Wood
@@ -1961,7 +1961,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Laurel Logs | ![laurel_logs](../images/atmospheric_laurel_logs.png) |
+| # | Laurel Logs | ![laurel_logs](../images/atmospheric_dry_laurel_leaves.png) |
 
 ---
 ## Laurel Door
@@ -1977,7 +1977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Laurel Planks | ![laurel_planks](../images/atmospheric_laurel_planks.png) |
 
 ---
@@ -1986,7 +1986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Laurel Planks | ![laurel_planks](../images/atmospheric_laurel_planks.png) |
 
 ---
@@ -2003,7 +2003,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Laurel Leaves | ![laurel_leaves](../images/atmospheric_laurel_leaves.png) |
-| W | Laurel Logs | ![laurel_logs](../images/atmospheric_laurel_logs.png) |
+| W | Laurel Logs | ![laurel_logs](../images/atmospheric_dry_laurel_leaves.png) |
 
 ---
 ## {}
@@ -2040,7 +2040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laurel Logs | ![laurel_logs](../images/atmospheric_laurel_logs.png) |
+| - | Laurel Logs | ![laurel_logs](../images/atmospheric_dry_laurel_leaves.png) |
 
 ---
 ## Laurel Post
@@ -2048,7 +2048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Laurel Wood | ![laurel_wood](../images/atmospheric_laurel_wood.png) |
+| F | Laurel Wood | ![laurel_wood](../images/atmospheric_dry_laurel_leaves.png) |
 
 ---
 ## Laurel Pressure Plate
@@ -2104,7 +2104,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Laurel Slab | ![laurel_slab](../images/atmospheric_laurel_slab.png) |
+| # | Laurel Slab | ![laurel_slab](../images/atmospheric_dry_laurel_leaves.png) |
 
 ---
 ## Laurel Slab
@@ -2112,7 +2112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Laurel Vertical Slab | ![laurel_vertical_slab](../images/atmospheric_laurel_vertical_slab.png) |
+| # | Laurel Vertical Slab | ![laurel_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Laurel Wood
@@ -2128,7 +2128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tall Yucca Flower | ![tall_yucca_flower](../images/atmospheric_tall_yucca_flower.png) |
+| - | Tall Yucca Flower | ![tall_yucca_flower](../images/atmospheric_tall_yucca_flower_bottom.png) |
 
 ---
 ## Light Gray Dye
@@ -2205,7 +2205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Morado Logs | ![morado_logs](../images/atmospheric_morado_logs.png) |
+| # | Morado Logs | ![morado_logs](../images/atmospheric_flowering_morado_leaves.png) |
 
 ---
 ## Morado Door
@@ -2221,7 +2221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Morado Planks | ![morado_planks](../images/atmospheric_morado_planks.png) |
 
 ---
@@ -2230,7 +2230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Morado Planks | ![morado_planks](../images/atmospheric_morado_planks.png) |
 
 ---
@@ -2247,7 +2247,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Morado Leaves | ![morado_leaves](../images/atmospheric_morado_leaves.png) |
-| W | Morado Logs | ![morado_logs](../images/atmospheric_morado_logs.png) |
+| W | Morado Logs | ![morado_logs](../images/atmospheric_flowering_morado_leaves.png) |
 
 ---
 ## {}
@@ -2284,7 +2284,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Morado Logs | ![morado_logs](../images/atmospheric_morado_logs.png) |
+| - | Morado Logs | ![morado_logs](../images/atmospheric_flowering_morado_leaves.png) |
 
 ---
 ## Morado Post
@@ -2292,7 +2292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Morado Wood | ![morado_wood](../images/atmospheric_morado_wood.png) |
+| F | Morado Wood | ![morado_wood](../images/atmospheric_flowering_morado_leaves.png) |
 
 ---
 ## Morado Pressure Plate
@@ -2348,7 +2348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Morado Slab | ![morado_slab](../images/atmospheric_morado_slab.png) |
+| # | Morado Slab | ![morado_slab](../images/atmospheric_flowering_morado_leaves.png) |
 
 ---
 ## Morado Slab
@@ -2356,7 +2356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Morado Vertical Slab | ![morado_vertical_slab](../images/atmospheric_morado_vertical_slab.png) |
+| # | Morado Vertical Slab | ![morado_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Morado Wood
@@ -2379,7 +2379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barrel Cactus | ![barrel_cactus](../images/atmospheric_barrel_cactus.png) |
+| - | Barrel Cactus | ![barrel_cactus](../images/atmospheric_barrel_cactus_batch_side.png) |
 
 ---
 ## Orange Dye
@@ -2403,10 +2403,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Orange | ![fruits/orange](../images/atmospheric_fruits/orange.png) |
-| - | Sweet Berries | ![sweet_berries](../images/atmospheric_sweet_berries.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/atmospheric_cocoa_beans.png) |
-| - | Eggs | ![eggs](../images/atmospheric_eggs.png) |
-| - | Milk | ![milk](../images/atmospheric_milk.png) |
+| - | Sweet Berries | ![sweet_berries](../images/atmospheric_agave.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/atmospheric_agave.png) |
+| - | Eggs | ![eggs](../images/atmospheric_agave.png) |
+| - | Milk | ![milk](../images/atmospheric_agave.png) |
 
 ---
 ## {}
@@ -2421,10 +2421,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/atmospheric_bowl.png) |
+| - | Bowl | ![bowl](../images/atmospheric_agave.png) |
 | - | Fruits/Orange | ![fruits/orange](../images/atmospheric_fruits/orange.png) |
-| - | Ice Cubes | ![ice_cubes](../images/atmospheric_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/atmospheric_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/atmospheric_agave.png) |
+| - | Sugar | ![sugar](../images/atmospheric_agave.png) |
 
 ---
 ## Passion Fruit Crate
@@ -2440,7 +2440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Passion Fruit Crate | ![passion_fruit_crate](../images/atmospheric_passion_fruit_crate.png) |
+| - | Passion Fruit Crate | ![passion_fruit_crate](../images/atmospheric_passion_fruit_crate_bottom.png) |
 
 ---
 ## Passion Fruit Sorbet
@@ -2448,10 +2448,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/atmospheric_bowl.png) |
+| - | Bowl | ![bowl](../images/atmospheric_agave.png) |
 | - | Fruits/Passion Fruit | ![fruits/passion_fruit](../images/atmospheric_fruits/passion_fruit.png) |
-| - | Ice | ![ice](../images/atmospheric_ice.png) |
-| - | Sugar | ![sugar](../images/atmospheric_sugar.png) |
+| - | Ice | ![ice](../images/atmospheric_agave.png) |
+| - | Sugar | ![sugar](../images/atmospheric_agave.png) |
 
 ---
 ## Passion Fruit Sorbet
@@ -2459,10 +2459,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/atmospheric_bowl.png) |
+| - | Bowl | ![bowl](../images/atmospheric_agave.png) |
 | - | Fruits/Passion Fruit | ![fruits/passion_fruit](../images/atmospheric_fruits/passion_fruit.png) |
-| - | Ice Cubes | ![ice_cubes](../images/atmospheric_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/atmospheric_sugar.png) |
+| - | Ice Cubes | ![ice_cubes](../images/atmospheric_agave.png) |
+| - | Sugar | ![sugar](../images/atmospheric_agave.png) |
 
 ---
 ## Passion Fruit Tart
@@ -2471,7 +2471,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Fruits/Passion Fruit | ![fruits/passion_fruit](../images/atmospheric_fruits/passion_fruit.png) |
-| X | Eggs | ![eggs](../images/atmospheric_eggs.png) |
+| X | Eggs | ![eggs](../images/atmospheric_agave.png) |
 
 ---
 ## Passion Vine Bundle
@@ -2479,7 +2479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Passion Vine | ![passion_vine](../images/atmospheric_passion_vine.png) |
+| # | Passion Vine | ![passion_vine](../images/atmospheric_passion_vine_bottom_stage0.png) |
 
 ---
 ## Passion Vine Coil
@@ -2487,7 +2487,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Passion Vine | ![passion_vine](../images/atmospheric_passion_vine.png) |
+| # | Passion Vine | ![passion_vine](../images/atmospheric_passion_vine_bottom_stage0.png) |
 
 ---
 ## Passion Vine
@@ -2495,7 +2495,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Passion Vine Bundle | ![passion_vine_bundle](../images/atmospheric_passion_vine_bundle.png) |
+| - | Passion Vine Bundle | ![passion_vine_bundle](../images/atmospheric_passion_vine_bundle_bottom.png) |
 
 ---
 ## Passion Vine
@@ -2527,7 +2527,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| item | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Peach Travertine Stairs
@@ -2551,7 +2551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| item | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Peach Travertine Vertical Slab
@@ -2575,7 +2575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| item | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Peach Travertine Slab
@@ -2607,7 +2607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Peach Travertine | ![peach_travertine](../images/atmospheric_peach_travertine.png) |
+| item | Peach Travertine | ![peach_travertine](../images/atmospheric_chiseled_peach_travertine.png) |
 
 ---
 ## Persimmon Travertine Slab
@@ -2631,7 +2631,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Persimmon Travertine Stairs
@@ -2655,7 +2655,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Persimmon Travertine Vertical Slab
@@ -2679,7 +2679,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Persimmon Travertine Slab
@@ -2711,7 +2711,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_persimmon_travertine.png) |
+| item | Persimmon Travertine | ![persimmon_travertine](../images/atmospheric_chiseled_persimmon_travertine.png) |
 
 ---
 ## Pink Dye
@@ -2899,7 +2899,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Arid Sandstone Brick Slab | ![red_arid_sandstone_brick_slab](../images/atmospheric_red_arid_sandstone_brick_slab.png) |
+| # | Red Arid Sandstone Brick Slab | ![red_arid_sandstone_brick_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Red Arid Sandstone Brick Vertical Slab
@@ -2915,7 +2915,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Arid Sandstone Brick Vertical Slab | ![red_arid_sandstone_brick_vertical_slab](../images/atmospheric_red_arid_sandstone_brick_vertical_slab.png) |
+| # | Red Arid Sandstone Brick Vertical Slab | ![red_arid_sandstone_brick_vertical_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Red Arid Sandstone Brick Wall
@@ -2971,7 +2971,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Arid Sandstone Slab | ![red_arid_sandstone_slab](../images/atmospheric_red_arid_sandstone_slab.png) |
+| # | Red Arid Sandstone Slab | ![red_arid_sandstone_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Red Arid Sandstone Vertical Slab
@@ -2987,7 +2987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Arid Sandstone Vertical Slab | ![red_arid_sandstone_vertical_slab](../images/atmospheric_red_arid_sandstone_vertical_slab.png) |
+| # | Red Arid Sandstone Vertical Slab | ![red_arid_sandstone_vertical_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Red Arid Sandstone Wall
@@ -3067,7 +3067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Roasted Yucca Cask | ![roasted_yucca_cask](../images/atmospheric_roasted_yucca_cask.png) |
+| - | Roasted Yucca Cask | ![roasted_yucca_cask](../images/atmospheric_roasted_yucca_cask_bottom.png) |
 
 ---
 ## Roasted Yucca Fruit
@@ -3160,7 +3160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rosewood Logs | ![rosewood_logs](../images/atmospheric_rosewood_logs.png) |
+| # | Rosewood Logs | ![rosewood_logs](../images/atmospheric_large_rosewood_boat.png) |
 
 ---
 ## Rosewood Door
@@ -3176,7 +3176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Rosewood Planks | ![rosewood_planks](../images/atmospheric_rosewood_planks.png) |
 
 ---
@@ -3185,7 +3185,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Rosewood Planks | ![rosewood_planks](../images/atmospheric_rosewood_planks.png) |
 
 ---
@@ -3202,7 +3202,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Rosewood Leaves | ![rosewood_leaves](../images/atmospheric_rosewood_leaves.png) |
-| W | Rosewood Logs | ![rosewood_logs](../images/atmospheric_rosewood_logs.png) |
+| W | Rosewood Logs | ![rosewood_logs](../images/atmospheric_large_rosewood_boat.png) |
 
 ---
 ## {}
@@ -3239,7 +3239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rosewood Logs | ![rosewood_logs](../images/atmospheric_rosewood_logs.png) |
+| - | Rosewood Logs | ![rosewood_logs](../images/atmospheric_large_rosewood_boat.png) |
 
 ---
 ## Rosewood Post
@@ -3247,7 +3247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rosewood | ![rosewood](../images/atmospheric_rosewood.png) |
+| F | Rosewood | ![rosewood](../images/atmospheric_large_rosewood_boat.png) |
 
 ---
 ## Rosewood Pressure Plate
@@ -3303,7 +3303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rosewood Slab | ![rosewood_slab](../images/atmospheric_rosewood_slab.png) |
+| # | Rosewood Slab | ![rosewood_slab](../images/atmospheric_ivory_travertine_slab.png) |
 
 ---
 ## Rosewood Slab
@@ -3311,7 +3311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rosewood Vertical Slab | ![rosewood_vertical_slab](../images/atmospheric_rosewood_vertical_slab.png) |
+| # | Rosewood Vertical Slab | ![rosewood_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Saffron Travertine Slab
@@ -3335,7 +3335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Saffron Travertine Stairs
@@ -3359,7 +3359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Saffron Travertine Vertical Slab
@@ -3383,7 +3383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Saffron Travertine Slab
@@ -3415,7 +3415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_saffron_travertine.png) |
+| item | Saffron Travertine | ![saffron_travertine](../images/atmospheric_chiseled_saffron_travertine.png) |
 
 ---
 ## Shimmering Passion Fruit
@@ -3423,7 +3423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gold Nugget | ![gold_nugget](../images/atmospheric_gold_nugget.png) |
+| # | Gold Nugget | ![gold_nugget](../images/atmospheric_agave.png) |
 | X | Passion Fruit | ![passion_fruit](../images/atmospheric_passion_fruit.png) |
 
 ---
@@ -3440,7 +3440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Shimmering Passion Fruit Crate | ![shimmering_passion_fruit_crate](../images/atmospheric_shimmering_passion_fruit_crate.png) |
+| - | Shimmering Passion Fruit Crate | ![shimmering_passion_fruit_crate](../images/atmospheric_shimmering_passion_fruit_crate_bottom.png) |
 
 ---
 ## Smooth Arid Sandstone
@@ -3456,7 +3456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_smooth_arid_sandstone.png) |
+| # | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Arid Sandstone Slab
@@ -3464,7 +3464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_smooth_arid_sandstone.png) |
+| item | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Arid Sandstone Stairs
@@ -3472,7 +3472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_smooth_arid_sandstone.png) |
+| # | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Arid Sandstone Stairs
@@ -3480,7 +3480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_smooth_arid_sandstone.png) |
+| item | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Arid Sandstone Vertical Slab
@@ -3488,7 +3488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Arid Sandstone Slab | ![smooth_arid_sandstone_slab](../images/atmospheric_smooth_arid_sandstone_slab.png) |
+| # | Smooth Arid Sandstone Slab | ![smooth_arid_sandstone_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Arid Sandstone Vertical Slab
@@ -3496,7 +3496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_smooth_arid_sandstone.png) |
+| item | Smooth Arid Sandstone | ![smooth_arid_sandstone](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Arid Sandstone Slab
@@ -3504,7 +3504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Arid Sandstone Vertical Slab | ![smooth_arid_sandstone_vertical_slab](../images/atmospheric_smooth_arid_sandstone_vertical_slab.png) |
+| # | Smooth Arid Sandstone Vertical Slab | ![smooth_arid_sandstone_vertical_slab](../images/atmospheric_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone
@@ -3520,7 +3520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_smooth_red_arid_sandstone.png) |
+| # | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone Slab
@@ -3528,7 +3528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_smooth_red_arid_sandstone.png) |
+| item | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone Stairs
@@ -3536,7 +3536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_smooth_red_arid_sandstone.png) |
+| # | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone Stairs
@@ -3544,7 +3544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_smooth_red_arid_sandstone.png) |
+| item | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone Vertical Slab
@@ -3552,7 +3552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Red Arid Sandstone Slab | ![smooth_red_arid_sandstone_slab](../images/atmospheric_smooth_red_arid_sandstone_slab.png) |
+| # | Smooth Red Arid Sandstone Slab | ![smooth_red_arid_sandstone_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone Vertical Slab
@@ -3560,7 +3560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_smooth_red_arid_sandstone.png) |
+| item | Smooth Red Arid Sandstone | ![smooth_red_arid_sandstone](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Smooth Red Arid Sandstone Slab
@@ -3568,7 +3568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Red Arid Sandstone Vertical Slab | ![smooth_red_arid_sandstone_vertical_slab](../images/atmospheric_smooth_red_arid_sandstone_vertical_slab.png) |
+| # | Smooth Red Arid Sandstone Vertical Slab | ![smooth_red_arid_sandstone_vertical_slab](../images/atmospheric_chiseled_red_arid_sandstone.png) |
 
 ---
 ## Stripped Aspen Post
@@ -3576,7 +3576,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Aspen Wood | ![stripped_aspen_wood](../images/atmospheric_stripped_aspen_wood.png) |
+| F | Stripped Aspen Wood | ![stripped_aspen_wood](../images/atmospheric_stripped_aspen_log.png) |
 
 ---
 ## Stripped Aspen Wood
@@ -3600,7 +3600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Grimwood | ![stripped_grimwood](../images/atmospheric_stripped_grimwood.png) |
+| F | Stripped Grimwood | ![stripped_grimwood](../images/atmospheric_stripped_grimwood_log.png) |
 
 ---
 ## Stripped Kousa Post
@@ -3608,7 +3608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Kousa Wood | ![stripped_kousa_wood](../images/atmospheric_stripped_kousa_wood.png) |
+| F | Stripped Kousa Wood | ![stripped_kousa_wood](../images/atmospheric_stripped_kousa_log.png) |
 
 ---
 ## Stripped Kousa Wood
@@ -3624,7 +3624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Laurel Wood | ![stripped_laurel_wood](../images/atmospheric_stripped_laurel_wood.png) |
+| F | Stripped Laurel Wood | ![stripped_laurel_wood](../images/atmospheric_stripped_laurel_log.png) |
 
 ---
 ## Stripped Laurel Wood
@@ -3640,7 +3640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Morado Wood | ![stripped_morado_wood](../images/atmospheric_stripped_morado_wood.png) |
+| F | Stripped Morado Wood | ![stripped_morado_wood](../images/atmospheric_stripped_morado_log.png) |
 
 ---
 ## Stripped Morado Wood
@@ -3664,7 +3664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Rosewood | ![stripped_rosewood](../images/atmospheric_stripped_rosewood.png) |
+| F | Stripped Rosewood | ![stripped_rosewood](../images/atmospheric_stripped_rosewood_log.png) |
 
 ---
 ## Stripped Yucca Post
@@ -3672,7 +3672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Yucca Wood | ![stripped_yucca_wood](../images/atmospheric_stripped_yucca_wood.png) |
+| F | Stripped Yucca Wood | ![stripped_yucca_wood](../images/atmospheric_stripped_yucca_log.png) |
 
 ---
 ## Stripped Yucca Wood
@@ -3696,7 +3696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Aspen Planks | ![vertical_aspen_planks](../images/atmospheric_vertical_aspen_planks.png) |
+| - | Vertical Aspen Planks | ![vertical_aspen_planks](../images/atmospheric_aspen_planks.png) |
 
 ---
 ## Vertical Grimwood Planks
@@ -3712,7 +3712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Grimwood Planks | ![vertical_grimwood_planks](../images/atmospheric_vertical_grimwood_planks.png) |
+| - | Vertical Grimwood Planks | ![vertical_grimwood_planks](../images/atmospheric_grimwood_planks.png) |
 
 ---
 ## Vertical Kousa Planks
@@ -3728,7 +3728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Kousa Planks | ![vertical_kousa_planks](../images/atmospheric_vertical_kousa_planks.png) |
+| - | Vertical Kousa Planks | ![vertical_kousa_planks](../images/atmospheric_kousa_planks.png) |
 
 ---
 ## Vertical Laurel Planks
@@ -3744,7 +3744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Laurel Planks | ![vertical_laurel_planks](../images/atmospheric_vertical_laurel_planks.png) |
+| - | Vertical Laurel Planks | ![vertical_laurel_planks](../images/atmospheric_laurel_planks.png) |
 
 ---
 ## Vertical Morado Planks
@@ -3760,7 +3760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Morado Planks | ![vertical_morado_planks](../images/atmospheric_vertical_morado_planks.png) |
+| - | Vertical Morado Planks | ![vertical_morado_planks](../images/atmospheric_morado_planks.png) |
 
 ---
 ## Vertical Rosewood Planks
@@ -3776,7 +3776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Rosewood Planks | ![vertical_rosewood_planks](../images/atmospheric_vertical_rosewood_planks.png) |
+| - | Vertical Rosewood Planks | ![vertical_rosewood_planks](../images/atmospheric_rosewood_planks.png) |
 
 ---
 ## Vertical Yucca Planks
@@ -3792,7 +3792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vertical Yucca Planks | ![vertical_yucca_planks](../images/atmospheric_vertical_yucca_planks.png) |
+| - | Vertical Yucca Planks | ![vertical_yucca_planks](../images/atmospheric_yucca_planks.png) |
 
 ---
 ## Watchful Aspen Wood
@@ -3877,7 +3877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Cask | ![yucca_cask](../images/atmospheric_yucca_cask.png) |
+| - | Yucca Cask | ![yucca_cask](../images/atmospheric_roasted_yucca_cask_bottom.png) |
 
 ---
 ## {}
@@ -3901,7 +3901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yucca Logs | ![yucca_logs](../images/atmospheric_yucca_logs.png) |
+| # | Yucca Logs | ![yucca_logs](../images/atmospheric_large_yucca_boat.png) |
 
 ---
 ## Yucca Door
@@ -3917,7 +3917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Yucca Planks | ![yucca_planks](../images/atmospheric_yucca_planks.png) |
 
 ---
@@ -3926,7 +3926,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/atmospheric_stick.png) |
+| # | Stick | ![stick](../images/atmospheric_agave.png) |
 | W | Yucca Planks | ![yucca_planks](../images/atmospheric_yucca_planks.png) |
 
 ---
@@ -3942,7 +3942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wheat | ![wheat](../images/atmospheric_wheat.png) |
+| # | Wheat | ![wheat](../images/atmospheric_agave.png) |
 | X | Yucca Flower | ![yucca_flower](../images/atmospheric_yucca_flower.png) |
 | R | Roasted Yucca Fruit | ![roasted_yucca_fruit](../images/atmospheric_roasted_yucca_fruit.png) |
 | Y | Aloe Gel Bottle | ![aloe_gel_bottle](../images/atmospheric_aloe_gel_bottle.png) |
@@ -3954,7 +3954,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Yucca Leaves | ![yucca_leaves](../images/atmospheric_yucca_leaves.png) |
-| W | Yucca Logs | ![yucca_logs](../images/atmospheric_yucca_logs.png) |
+| W | Yucca Logs | ![yucca_logs](../images/atmospheric_large_yucca_boat.png) |
 
 ---
 ## {}
@@ -3991,7 +3991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yucca Logs | ![yucca_logs](../images/atmospheric_yucca_logs.png) |
+| - | Yucca Logs | ![yucca_logs](../images/atmospheric_large_yucca_boat.png) |
 
 ---
 ## Yucca Post
@@ -3999,7 +3999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Yucca Wood | ![yucca_wood](../images/atmospheric_yucca_wood.png) |
+| F | Yucca Wood | ![yucca_wood](../images/atmospheric_large_yucca_boat.png) |
 
 ---
 ## Yucca Pressure Plate
@@ -4055,7 +4055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yucca Slab | ![yucca_slab](../images/atmospheric_yucca_slab.png) |
+| # | Yucca Slab | ![yucca_slab](../images/atmospheric_ivory_travertine_slab.png) |
 
 ---
 ## Yucca Slab
@@ -4063,7 +4063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yucca Vertical Slab | ![yucca_vertical_slab](../images/atmospheric_yucca_vertical_slab.png) |
+| # | Yucca Vertical Slab | ![yucca_vertical_slab](../images/atmospheric_ivory_travertine_vertical_slab.png) |
 
 ---
 ## Yucca Wood

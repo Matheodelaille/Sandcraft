@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
 
 ---
@@ -24,7 +24,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Gold | ![ingots/gold](../images/computercraft_ingots/gold.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
 
 ---
@@ -34,7 +34,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Gold | ![ingots/gold](../images/computercraft_ingots/gold.png) |
-| C | Computer Normal | ![computer_normal](../images/computercraft_computer_normal.png) |
+| C | Computer Normal | ![computer_normal](../images/computercraft_computer_normal_front.png) |
 
 ---
 ## Computer Command
@@ -43,8 +43,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Gold | ![ingots/gold](../images/computercraft_ingots/gold.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
-| R | Command Block | ![command_block](../images/computercraft_command_block.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
+| R | Command Block | ![command_block](../images/computercraft_computer_command_front.png) |
 
 ---
 ## Computer Normal
@@ -52,8 +52,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
 
 ---
@@ -62,7 +62,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crafting Table | ![crafting_table](../images/computercraft_crafting_table.png) |
+| # | Crafting Table | ![crafting_table](../images/computercraft_cable_core.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -71,7 +71,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diamond Axe | ![diamond_axe](../images/computercraft_diamond_axe.png) |
+| # | Diamond Axe | ![diamond_axe](../images/computercraft_cable_core.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -80,7 +80,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diamond Hoe | ![diamond_hoe](../images/computercraft_diamond_hoe.png) |
+| # | Diamond Hoe | ![diamond_hoe](../images/computercraft_cable_core.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -89,7 +89,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diamond Pickaxe | ![diamond_pickaxe](../images/computercraft_diamond_pickaxe.png) |
+| # | Diamond Pickaxe | ![diamond_pickaxe](../images/computercraft_cable_core.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -98,7 +98,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diamond Shovel | ![diamond_shovel](../images/computercraft_diamond_shovel.png) |
+| # | Diamond Shovel | ![diamond_shovel](../images/computercraft_cable_core.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -107,7 +107,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Diamond Sword | ![diamond_sword](../images/computercraft_diamond_sword.png) |
+| # | Diamond Sword | ![diamond_sword](../images/computercraft_cable_core.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -124,8 +124,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Black Dye | ![black_dye](../images/computercraft_black_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Black Dye | ![black_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -134,8 +134,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Pink Dye | ![pink_dye](../images/computercraft_pink_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Pink Dye | ![pink_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -144,8 +144,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Lime Dye | ![lime_dye](../images/computercraft_lime_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Lime Dye | ![lime_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -154,8 +154,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Yellow Dye | ![yellow_dye](../images/computercraft_yellow_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Yellow Dye | ![yellow_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -164,8 +164,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Light Blue Dye | ![light_blue_dye](../images/computercraft_light_blue_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/computercraft_pocket_computer_light.png) |
 
 ---
 ## Disk
@@ -174,8 +174,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Magenta Dye | ![magenta_dye](../images/computercraft_magenta_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Magenta Dye | ![magenta_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -184,8 +184,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Orange Dye | ![orange_dye](../images/computercraft_orange_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Orange Dye | ![orange_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -194,8 +194,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | White Dye | ![white_dye](../images/computercraft_white_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | White Dye | ![white_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -204,8 +204,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Red Dye | ![red_dye](../images/computercraft_red_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Red Dye | ![red_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -214,8 +214,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Green Dye | ![green_dye](../images/computercraft_green_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Green Dye | ![green_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -224,8 +224,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Brown Dye | ![brown_dye](../images/computercraft_brown_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Brown Dye | ![brown_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -234,8 +234,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Blue Dye | ![blue_dye](../images/computercraft_blue_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Blue Dye | ![blue_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -244,8 +244,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Purple Dye | ![purple_dye](../images/computercraft_purple_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Purple Dye | ![purple_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -254,8 +254,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Cyan Dye | ![cyan_dye](../images/computercraft_cyan_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Cyan Dye | ![cyan_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk
@@ -264,8 +264,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Light Gray Dye | ![light_gray_dye](../images/computercraft_light_gray_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/computercraft_pocket_computer_light.png) |
 
 ---
 ## Disk
@@ -274,8 +274,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
-| - | Paper | ![paper](../images/computercraft_paper.png) |
-| - | Gray Dye | ![gray_dye](../images/computercraft_gray_dye.png) |
+| - | Paper | ![paper](../images/computercraft_cable_core.png) |
+| - | Gray Dye | ![gray_dye](../images/computercraft_cable_core.png) |
 
 ---
 ## Disk Drive
@@ -283,7 +283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
 
 ---
@@ -293,7 +293,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Gold | ![ingots/gold](../images/computercraft_ingots/gold.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
 
 ---
 ## Monitor Normal
@@ -301,8 +301,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
 
 ---
 ## Pocket Computer Advanced
@@ -311,8 +311,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Gold | ![ingots/gold](../images/computercraft_ingots/gold.png) |
-| A | Golden Apple | ![golden_apple](../images/computercraft_golden_apple.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
+| A | Golden Apple | ![golden_apple](../images/computercraft_cable_core.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
 
 ---
 ## Pocket Computer Advanced
@@ -329,9 +329,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
-| A | Golden Apple | ![golden_apple](../images/computercraft_golden_apple.png) |
-| G | Glass Panes | ![glass_panes](../images/computercraft_glass_panes.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
+| A | Golden Apple | ![golden_apple](../images/computercraft_cable_core.png) |
+| G | Glass Panes | ![glass_panes](../images/computercraft_cable_core.png) |
 
 ---
 ## {}
@@ -346,9 +346,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather | ![leather](../images/computercraft_leather.png) |
+| - | Leather | ![leather](../images/computercraft_cable_core.png) |
 | - | Printed Page | ![printed_page](../images/computercraft_printed_page.png) |
-| - | String | ![string](../images/computercraft_string.png) |
+| - | String | ![string](../images/computercraft_cable_core.png) |
 
 ---
 ## Printed Pages
@@ -358,7 +358,7 @@
 | :--- | :--- | :--- |
 | - | Printed Page | ![printed_page](../images/computercraft_printed_page.png) |
 | - | Printed Page | ![printed_page](../images/computercraft_printed_page.png) |
-| - | String | ![string](../images/computercraft_string.png) |
+| - | String | ![string](../images/computercraft_cable_core.png) |
 
 ---
 ## Printer
@@ -366,8 +366,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
-| D | Dyes | ![dyes](../images/computercraft_dyes.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
+| D | Dyes | ![dyes](../images/computercraft_cable_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
 
 ---
@@ -383,8 +383,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Heads | ![heads](../images/computercraft_heads.png) |
-| - | Monitor Normal | ![monitor_normal](../images/computercraft_monitor_normal.png) |
+| - | Heads | ![heads](../images/computercraft_cable_core.png) |
+| - | Monitor Normal | ![monitor_normal](../images/computercraft_monitor_normal_0.png) |
 
 ---
 ## Player Head
@@ -392,8 +392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Heads | ![heads](../images/computercraft_heads.png) |
-| - | Computer Advanced | ![computer_advanced](../images/computercraft_computer_advanced.png) |
+| - | Heads | ![heads](../images/computercraft_cable_core.png) |
+| - | Computer Advanced | ![computer_advanced](../images/computercraft_computer_advanced_front.png) |
 
 ---
 ## Turtle Normal
@@ -401,7 +401,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Speaker | ![speaker](../images/computercraft_speaker.png) |
+| # | Speaker | ![speaker](../images/computercraft_speaker_front.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -411,7 +411,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Gold | ![ingots/gold](../images/computercraft_ingots/gold.png) |
-| C | Computer Advanced | ![computer_advanced](../images/computercraft_computer_advanced.png) |
+| C | Computer Advanced | ![computer_advanced](../images/computercraft_computer_advanced_front.png) |
 | I | Chests/Wooden | ![chests/wooden](../images/computercraft_chests/wooden.png) |
 
 ---
@@ -431,7 +431,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/computercraft_ingots/iron.png) |
-| C | Computer Normal | ![computer_normal](../images/computercraft_computer_normal.png) |
+| C | Computer Normal | ![computer_normal](../images/computercraft_computer_normal_front.png) |
 | I | Chests/Wooden | ![chests/wooden](../images/computercraft_chests/wooden.png) |
 
 ---
@@ -447,7 +447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/computercraft_stone.png) |
+| # | Stone | ![stone](../images/computercraft_cable_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/computercraft_dusts/redstone.png) |
 
 ---
@@ -456,7 +456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wired Modem | ![wired_modem](../images/computercraft_wired_modem.png) |
+| - | Wired Modem | ![wired_modem](../images/computercraft_wired_modem_face.png) |
 
 ---
 ## Wired Modem
@@ -464,7 +464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wired Modem Full | ![wired_modem_full](../images/computercraft_wired_modem_full.png) |
+| - | Wired Modem Full | ![wired_modem_full](../images/computercraft_wired_modem_face.png) |
 
 ---
 ## Turtle Normal
@@ -472,7 +472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wireless Modem Advanced | ![wireless_modem_advanced](../images/computercraft_wireless_modem_advanced.png) |
+| # | Wireless Modem Advanced | ![wireless_modem_advanced](../images/computercraft_wireless_modem_advanced_face.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---
@@ -481,7 +481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wireless Modem Normal | ![wireless_modem_normal](../images/computercraft_wireless_modem_normal.png) |
+| # | Wireless Modem Normal | ![wireless_modem_normal](../images/computercraft_wireless_modem_normal_face.png) |
 | T | Turtle Normal | ![turtle_normal](../images/computercraft_turtle_normal.png) |
 
 ---

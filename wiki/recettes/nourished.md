@@ -7,10 +7,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| 1 | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| 2 | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| 3 | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
+| 0 | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| 1 | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| 2 | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| 3 | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
 
 ---
 ## Ashy Basalt
@@ -18,9 +18,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Basalt | ![basalt](../images/nourished_basalt.png) |
-| - | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| - | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
+| - | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| - | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| - | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
 
 ---
 ## Light Gray Concrete Powder
@@ -28,14 +28,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| - | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| - | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| - | Ash Lump | ![ash_lump](../images/nourished_ash_lump.png) |
-| - | Gravel | ![gravel](../images/nourished_gravel.png) |
-| - | Gravel | ![gravel](../images/nourished_gravel.png) |
-| - | Gravel | ![gravel](../images/nourished_gravel.png) |
-| - | Gravel | ![gravel](../images/nourished_gravel.png) |
+| - | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| - | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| - | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| - | Ash Lump | ![ash_lump](../images/nourished_nether_ash_lump.png) |
+| - | Gravel | ![gravel](../images/nourished_nether_air_2.png) |
+| - | Gravel | ![gravel](../images/nourished_nether_air_2.png) |
+| - | Gravel | ![gravel](../images/nourished_nether_air_2.png) |
+| - | Gravel | ![gravel](../images/nourished_nether_air_2.png) |
 
 ---
 ## Basalt Bricks
@@ -43,10 +43,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 1 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 2 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 3 | Basalt | ![basalt](../images/nourished_basalt.png) |
+| 0 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 1 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 2 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 3 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Basalt Brick Slab
@@ -54,9 +54,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 1 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 2 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| 0 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 1 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 2 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Basalt Brick Stairs
@@ -64,12 +64,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 3 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 4 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 6 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 7 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 8 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| 0 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 3 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 4 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 6 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 7 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 8 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Basalt Brick Wall
@@ -77,12 +77,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 1 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 2 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 3 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 4 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
-| 5 | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| 0 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 1 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 2 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 3 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 4 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 5 | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Basalt Slab
@@ -90,9 +90,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 1 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 2 | Basalt | ![basalt](../images/nourished_basalt.png) |
+| 0 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 1 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 2 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Basalt Stairs
@@ -100,12 +100,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 3 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 4 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 6 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 7 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 8 | Basalt | ![basalt](../images/nourished_basalt.png) |
+| 0 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 3 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 4 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 6 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 7 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 8 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Basalt Wall
@@ -113,12 +113,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 1 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 2 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 3 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 4 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 5 | Basalt | ![basalt](../images/nourished_basalt.png) |
+| 0 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 1 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 2 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 3 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 4 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 5 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Warped Brick Fence
@@ -126,12 +126,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 1 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 2 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 3 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 4 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 5 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| 0 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 1 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 2 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 3 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 4 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 5 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Brick Fence Gate
@@ -139,12 +139,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 1 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 2 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 3 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 4 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 5 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
+| 0 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 1 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 2 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 3 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 4 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 5 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
 
 ---
 ## Cooked Hoglin
@@ -152,7 +152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Hoglin | ![raw_hoglin](../images/nourished_raw_hoglin.png) |
+| item | Raw Hoglin | ![raw_hoglin](../images/nourished_nether_raw_hoglin_new.png) |
 
 ---
 ## Chiseled Basalt Bricks
@@ -160,8 +160,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt Brick Slab | ![basalt_brick_slab](../images/nourished_basalt_brick_slab.png) |
-| 1 | Basalt Brick Slab | ![basalt_brick_slab](../images/nourished_basalt_brick_slab.png) |
+| 0 | Basalt Brick Slab | ![basalt_brick_slab](../images/nourished_nether_ashy_basalt_column.png) |
+| 1 | Basalt Brick Slab | ![basalt_brick_slab](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Chiseled Obsidian Bricks
@@ -169,8 +169,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian Brick Slab | ![obsidian_brick_slab](../images/nourished_obsidian_brick_slab.png) |
-| 1 | Obsidian Brick Slab | ![obsidian_brick_slab](../images/nourished_obsidian_brick_slab.png) |
+| 0 | Obsidian Brick Slab | ![obsidian_brick_slab](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 1 | Obsidian Brick Slab | ![obsidian_brick_slab](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Chiseled Red Nether Bricks
@@ -178,8 +178,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Red Nether Brick Slab | ![red_nether_brick_slab](../images/nourished_red_nether_brick_slab.png) |
-| 1 | Red Nether Brick Slab | ![red_nether_brick_slab](../images/nourished_red_nether_brick_slab.png) |
+| 0 | Red Nether Brick Slab | ![red_nether_brick_slab](../images/nourished_nether_red_nether_brick.png) |
+| 1 | Red Nether Brick Slab | ![red_nether_brick_slab](../images/nourished_nether_red_nether_brick.png) |
 
 ---
 ## Chiseled Sludge Bricks
@@ -187,8 +187,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Brick Slab | ![sludge_brick_slab](../images/nourished_sludge_brick_slab.png) |
-| 1 | Sludge Brick Slab | ![sludge_brick_slab](../images/nourished_sludge_brick_slab.png) |
+| 0 | Sludge Brick Slab | ![sludge_brick_slab](../images/nourished_nether_sludge_brick.png) |
+| 1 | Sludge Brick Slab | ![sludge_brick_slab](../images/nourished_nether_sludge_brick.png) |
 
 ---
 ## Chiseled Soul Quartz
@@ -196,8 +196,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Slab | ![soul_quartz_slab](../images/nourished_soul_quartz_slab.png) |
-| 1 | Soul Quartz Slab | ![soul_quartz_slab](../images/nourished_soul_quartz_slab.png) |
+| 0 | Soul Quartz Slab | ![soul_quartz_slab](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 1 | Soul Quartz Slab | ![soul_quartz_slab](../images/nourished_nether_chiseled_soul_quartz.png) |
 
 ---
 ## Chiseled Warped Nether Bricks
@@ -205,8 +205,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Brick Slab | ![warped_brick_slab](../images/nourished_warped_brick_slab.png) |
-| 1 | Warped Brick Slab | ![warped_brick_slab](../images/nourished_warped_brick_slab.png) |
+| 0 | Warped Brick Slab | ![warped_brick_slab](../images/nourished_nether_warped_nether_brick.png) |
+| 1 | Warped Brick Slab | ![warped_brick_slab](../images/nourished_nether_warped_nether_brick.png) |
 
 ---
 ## Ectoplasm Block
@@ -214,15 +214,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 1 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 2 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 3 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 4 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 5 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 6 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 7 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
-| 8 | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
+| 0 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 1 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 2 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 3 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 4 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 5 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 6 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 7 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
+| 8 | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
 
 ---
 ## Light Gray Dye
@@ -230,7 +230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Ghoulflower | ![ghoulflower](../images/nourished_ghoulflower.png) |
+| 0 | Ghoulflower | ![ghoulflower](../images/nourished_nether_ghoulflower.png) |
 
 ---
 ## Gilded Blackstone
@@ -238,8 +238,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone | ![blackstone](../images/nourished_blackstone.png) |
-| - | Raw Gold | ![raw_gold](../images/nourished_raw_gold.png) |
+| - | Blackstone | ![blackstone](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| - | Raw Gold | ![raw_gold](../images/nourished_nether_raw_hoglin_new.png) |
 
 ---
 ## Gilded Blackstone Bricks
@@ -247,8 +247,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/nourished_polished_blackstone_bricks.png) |
-| - | Raw Gold | ![raw_gold](../images/nourished_raw_gold.png) |
+| - | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| - | Raw Gold | ![raw_gold](../images/nourished_nether_raw_hoglin_new.png) |
 
 ---
 ## Gilded Blackstone Brick Slab
@@ -256,9 +256,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 1 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 2 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
+| 0 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 1 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 2 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
 
 ---
 ## Gilded Blackstone Brick Stairs
@@ -266,12 +266,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 3 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 4 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 6 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 7 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 8 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
+| 0 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 3 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 4 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 6 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 7 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 8 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
 
 ---
 ## Gilded Blackstone Brick Wall
@@ -279,12 +279,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 1 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 2 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 3 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 4 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
-| 5 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
+| 0 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 1 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 2 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 3 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 4 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 5 | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
 
 ---
 ## Hoglin Hide
@@ -292,7 +292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Hoglin Hide Block | ![hoglin_hide_block](../images/nourished_hoglin_hide_block.png) |
+| 0 | Hoglin Hide Block | ![hoglin_hide_block](../images/nourished_nether_hoglin_hide_block_new.png) |
 
 ---
 ## Hoglin Hide Block
@@ -300,15 +300,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 1 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 2 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 3 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 4 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 5 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 6 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 7 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
-| 8 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
+| 0 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 1 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 2 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 3 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 4 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 5 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 6 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 7 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
+| 8 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
 
 ---
 ## Leather
@@ -316,7 +316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Hoglin Hide | ![hoglin_hide](../images/nourished_hoglin_hide.png) |
+| 0 | Hoglin Hide | ![hoglin_hide](../images/nourished_nether_hoglin_hide_block_new.png) |
 
 ---
 ## Necronium Axe
@@ -324,11 +324,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 2 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 3 | Stick | ![stick](../images/nourished_stick.png) |
-| 5 | Stick | ![stick](../images/nourished_stick.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 2 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 3 | Stick | ![stick](../images/nourished_nether_air_2.png) |
+| 5 | Stick | ![stick](../images/nourished_nether_air_2.png) |
 
 ---
 ## Necronium Block
@@ -336,15 +336,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 2 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 3 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 4 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 5 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 6 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 7 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 8 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 2 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 3 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 4 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 5 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 6 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 7 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 8 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
 
 ---
 ## Necronium Ingot
@@ -352,7 +352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Block | ![necronium_block](../images/nourished_necronium_block.png) |
+| 0 | Necronium Block | ![necronium_block](../images/nourished_nether_necronium_block.png) |
 
 ---
 ## Necronium Hoe
@@ -360,10 +360,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 3 | Stick | ![stick](../images/nourished_stick.png) |
-| 5 | Stick | ![stick](../images/nourished_stick.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 3 | Stick | ![stick](../images/nourished_nether_air_2.png) |
+| 5 | Stick | ![stick](../images/nourished_nether_air_2.png) |
 
 ---
 ## Necronium Ingot
@@ -371,15 +371,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 1 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 2 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 3 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 4 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 5 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 6 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 7 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
-| 8 | Necronium Nugget | ![necronium_nugget](../images/nourished_necronium_nugget.png) |
+| 0 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 1 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 2 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 3 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 4 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 5 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 6 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 7 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
+| 8 | Necronium Nugget | ![necronium_nugget](../images/nourished_nether_necronium_nugget_2.png) |
 
 ---
 ## Necronium Nugget
@@ -387,7 +387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
 
 ---
 ## Necronium Pickaxe
@@ -395,11 +395,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 2 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 4 | Stick | ![stick](../images/nourished_stick.png) |
-| 7 | Stick | ![stick](../images/nourished_stick.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 2 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 4 | Stick | ![stick](../images/nourished_nether_air_2.png) |
+| 7 | Stick | ![stick](../images/nourished_nether_air_2.png) |
 
 ---
 ## Necronium Shovel
@@ -407,9 +407,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 1 | Stick | ![stick](../images/nourished_stick.png) |
-| 2 | Stick | ![stick](../images/nourished_stick.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 1 | Stick | ![stick](../images/nourished_nether_air_2.png) |
+| 2 | Stick | ![stick](../images/nourished_nether_air_2.png) |
 
 ---
 ## Necronium Sword
@@ -417,9 +417,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_necronium_ingot.png) |
-| 2 | Stick | ![stick](../images/nourished_stick.png) |
+| 0 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 1 | Necronium Ingot | ![necronium_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 2 | Stick | ![stick](../images/nourished_nether_air_2.png) |
 
 ---
 ## Netherite Nugget
@@ -427,7 +427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherite Ingot | ![netherite_ingot](../images/nourished_netherite_ingot.png) |
+| 0 | Netherite Ingot | ![netherite_ingot](../images/nourished_nether_necronium_ingot_2.png) |
 
 ---
 ## Netherite Ingot
@@ -435,15 +435,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 1 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 2 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 3 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 4 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 5 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 6 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 7 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
-| 8 | Netherite Nugget | ![netherite_nugget](../images/nourished_netherite_nugget.png) |
+| 0 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 1 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 2 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 3 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 4 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 5 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 6 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 7 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
+| 8 | Netherite Nugget | ![netherite_nugget](../images/nourished_nether_netherite_nugget.png) |
 
 ---
 ## Netherite Scrap
@@ -451,7 +451,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherite Scrap Block | ![netherite_scrap_block](../images/nourished_netherite_scrap_block.png) |
+| 0 | Netherite Scrap Block | ![netherite_scrap_block](../images/nourished_nether_netherite_scrap_block.png) |
 
 ---
 ## Netherite Scrap Block
@@ -459,15 +459,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 1 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 2 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 3 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 4 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 5 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 6 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 7 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
-| 8 | Netherite Scrap | ![netherite_scrap](../images/nourished_netherite_scrap.png) |
+| 0 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 1 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 2 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 3 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 4 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 5 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 6 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 7 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
+| 8 | Netherite Scrap | ![netherite_scrap](../images/nourished_nether_netherite_scrap_block.png) |
 
 ---
 ## Netherrack
@@ -475,10 +475,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Cobblestone | ![cobblestone](../images/nourished_cobblestone.png) |
-| 1 | Nether Wart | ![nether_wart](../images/nourished_nether_wart.png) |
-| 2 | Nether Wart | ![nether_wart](../images/nourished_nether_wart.png) |
-| 3 | Cobblestone | ![cobblestone](../images/nourished_cobblestone.png) |
+| 0 | Cobblestone | ![cobblestone](../images/nourished_nether_air_2.png) |
+| 1 | Nether Wart | ![nether_wart](../images/nourished_nether_air_2.png) |
+| 2 | Nether Wart | ![nether_wart](../images/nourished_nether_air_2.png) |
+| 3 | Cobblestone | ![cobblestone](../images/nourished_nether_air_2.png) |
 
 ---
 ## Netherrack Slab
@@ -486,9 +486,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 1 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 2 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
+| 0 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 1 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 2 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
 
 ---
 ## Netherrack Stairs
@@ -496,12 +496,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 3 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 4 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 6 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 7 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 8 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
+| 0 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 3 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 4 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 6 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 7 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 8 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
 
 ---
 ## Netherrack Wall
@@ -509,12 +509,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 1 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 2 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 3 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 4 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
-| 5 | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
+| 0 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 1 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 2 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 3 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 4 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
+| 5 | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
 
 ---
 ## Nether Brick Fence Gate
@@ -522,12 +522,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 1 | Nether Bricks | ![nether_bricks](../images/nourished_nether_bricks.png) |
-| 2 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 3 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 4 | Nether Bricks | ![nether_bricks](../images/nourished_nether_bricks.png) |
-| 5 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
+| 0 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 1 | Nether Bricks | ![nether_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 2 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 3 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 4 | Nether Bricks | ![nether_bricks](../images/nourished_nether_basalt_bricks.png) |
+| 5 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
 
 ---
 ## Nether Fungus Stew
@@ -535,9 +535,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Fungus | ![warped_fungus](../images/nourished_warped_fungus.png) |
-| - | Crimson Fungus | ![crimson_fungus](../images/nourished_crimson_fungus.png) |
-| - | Bowl | ![bowl](../images/nourished_bowl.png) |
+| - | Warped Fungus | ![warped_fungus](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/nourished_nether_nether_fungus_stew.png) |
+| - | Bowl | ![bowl](../images/nourished_nether_air_2.png) |
 
 ---
 ## Obsidian Bricks
@@ -545,10 +545,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 1 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 2 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 3 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| 0 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 1 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 2 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 3 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Slab
@@ -556,9 +556,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 1 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 2 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| 0 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 1 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 2 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Stairs
@@ -566,12 +566,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 3 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 4 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 6 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 7 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 8 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| 0 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 3 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 4 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 6 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 7 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 8 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Wall
@@ -579,12 +579,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 1 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 2 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 3 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 4 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
-| 5 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| 0 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 1 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 2 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 3 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 4 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 5 | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Slab
@@ -592,9 +592,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 1 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 2 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| 0 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 1 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 2 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Stairs
@@ -602,12 +602,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 3 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 4 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 6 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 7 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 8 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| 0 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 3 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 4 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 6 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 7 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 8 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Wall
@@ -615,12 +615,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 1 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 2 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 3 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 4 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
-| 5 | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| 0 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 1 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 2 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 3 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 4 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
+| 5 | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Polished Basalt Slab
@@ -628,9 +628,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 1 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 2 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
+| 0 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 1 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 2 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
 
 ---
 ## Polished Basalt Stairs
@@ -638,12 +638,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 3 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 4 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 6 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 7 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 8 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
+| 0 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 3 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 4 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 6 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 7 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 8 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
 
 ---
 ## Polished Basalt Wall
@@ -651,12 +651,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 1 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 2 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 3 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 4 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
-| 5 | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
+| 0 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 1 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 2 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 3 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 4 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
+| 5 | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
 
 ---
 ## Polterpork
@@ -664,11 +664,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Weeds | ![soul_weeds](../images/nourished_soul_weeds.png) |
-| - | Soul Weeds | ![soul_weeds](../images/nourished_soul_weeds.png) |
-| - | Soul Weeds | ![soul_weeds](../images/nourished_soul_weeds.png) |
-| - | Cooked Hoglin | ![cooked_hoglin](../images/nourished_cooked_hoglin.png) |
-| - | Ectoplasm | ![ectoplasm](../images/nourished_ectoplasm.png) |
+| - | Soul Weeds | ![soul_weeds](../images/nourished_nether_soul_weeds_2.png) |
+| - | Soul Weeds | ![soul_weeds](../images/nourished_nether_soul_weeds_2.png) |
+| - | Soul Weeds | ![soul_weeds](../images/nourished_nether_soul_weeds_2.png) |
+| - | Cooked Hoglin | ![cooked_hoglin](../images/nourished_nether_cooked_hoglin_new.png) |
+| - | Ectoplasm | ![ectoplasm](../images/nourished_nether_ectoplasm.png) |
 
 ---
 ## Quartz Brick Slab
@@ -676,9 +676,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 1 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 2 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| 0 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 1 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 2 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Quartz Brick Stairs
@@ -686,12 +686,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 3 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 4 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 6 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 7 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 8 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| 0 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 3 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 4 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 6 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 7 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 8 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Quartz Brick Wall
@@ -699,12 +699,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 1 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 2 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 3 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 4 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
-| 5 | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| 0 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 1 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 2 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 3 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 4 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
+| 5 | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Quartz Wall
@@ -712,12 +712,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
-| 1 | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
-| 2 | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
-| 3 | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
-| 4 | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
-| 5 | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
+| 0 | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
+| 1 | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
+| 2 | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
+| 3 | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
+| 4 | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
+| 5 | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
 
 ---
 ## Red Nether Brick
@@ -725,10 +725,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Crimson Roots | ![crimson_roots](../images/nourished_crimson_roots.png) |
-| 1 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 2 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 3 | Crimson Roots | ![crimson_roots](../images/nourished_crimson_roots.png) |
+| 0 | Crimson Roots | ![crimson_roots](../images/nourished_nether_air_2.png) |
+| 1 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 2 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 3 | Crimson Roots | ![crimson_roots](../images/nourished_nether_air_2.png) |
 
 ---
 ## Red Nether Brick Fence
@@ -736,12 +736,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
-| 1 | Red Nether Brick | ![red_nether_brick](../images/nourished_red_nether_brick.png) |
-| 2 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
-| 3 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
-| 4 | Red Nether Brick | ![red_nether_brick](../images/nourished_red_nether_brick.png) |
-| 5 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
+| 0 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
+| 1 | Red Nether Brick | ![red_nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 2 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
+| 3 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
+| 4 | Red Nether Brick | ![red_nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 5 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
 
 ---
 ## Red Nether Brick Fence Gate
@@ -749,12 +749,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Red Nether Brick | ![red_nether_brick](../images/nourished_red_nether_brick.png) |
-| 1 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
-| 2 | Red Nether Brick | ![red_nether_brick](../images/nourished_red_nether_brick.png) |
-| 3 | Red Nether Brick | ![red_nether_brick](../images/nourished_red_nether_brick.png) |
-| 4 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
-| 5 | Red Nether Brick | ![red_nether_brick](../images/nourished_red_nether_brick.png) |
+| 0 | Red Nether Brick | ![red_nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 1 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
+| 2 | Red Nether Brick | ![red_nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 3 | Red Nether Brick | ![red_nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 4 | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
+| 5 | Red Nether Brick | ![red_nether_brick](../images/nourished_nether_red_nether_brick.png) |
 
 ---
 ## Rich Soul Sludge
@@ -762,11 +762,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 3 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 4 | Soul Sludge | ![soul_sludge](../images/nourished_soul_sludge.png) |
-| 5 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 7 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
+| 1 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 3 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 4 | Soul Sludge | ![soul_sludge](../images/nourished_nether_rich_soul_sludge_2.png) |
+| 5 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 7 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
 
 ---
 ## Sludge Brick Fence
@@ -774,12 +774,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 1 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 2 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 3 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 4 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 5 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 1 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 2 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 3 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 4 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 5 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Sludge Brick Fence Gate
@@ -787,12 +787,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 1 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 2 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 3 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 4 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 5 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
+| 0 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 1 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 2 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 3 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 4 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 5 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
 
 ---
 ## Cracked Basalt Bricks
@@ -800,7 +800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| item | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Netherite Nugget
@@ -808,7 +808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Netherite Gear | ![netherite_gear](../images/nourished_netherite_gear.png) |
+| tag | Netherite Gear | ![netherite_gear](../images/nourished_nether_netherite_nugget.png) |
 
 ---
 ## Glowing Obsidian
@@ -816,7 +816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| item | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Cracked Obsidian Bricks
@@ -824,7 +824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Cracked Quartz Bricks
@@ -832,7 +832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| item | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Cooked Hoglin
@@ -840,7 +840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Hoglin | ![raw_hoglin](../images/nourished_raw_hoglin.png) |
+| item | Raw Hoglin | ![raw_hoglin](../images/nourished_nether_raw_hoglin_new.png) |
 
 ---
 ## Cracked Red Nether Bricks
@@ -848,7 +848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
 
 ---
 ## Sludge Brick
@@ -856,7 +856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sludge Ball | ![sludge_ball](../images/nourished_sludge_ball.png) |
+| item | Sludge Ball | ![sludge_ball](../images/nourished_nether_soul_sludge_ball.png) |
 
 ---
 ## Cracked Sludge Bricks
@@ -864,7 +864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| item | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Cracked Smooth Basalt Bricks
@@ -872,7 +872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Soul Quartz
@@ -880,7 +880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Cracked Soul Quartz Bricks
@@ -888,7 +888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Glass
@@ -896,7 +896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Sand | ![soul_sand](../images/nourished_soul_sand.png) |
+| item | Soul Sand | ![soul_sand](../images/nourished_nether_chiseled_soul_quartz.png) |
 
 ---
 ## Brown Terracotta
@@ -904,7 +904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Sludge | ![soul_sludge](../images/nourished_soul_sludge.png) |
+| item | Soul Sludge | ![soul_sludge](../images/nourished_nether_rich_soul_sludge_2.png) |
 
 ---
 ## Glass
@@ -912,7 +912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Soil | ![soul_soil](../images/nourished_soul_soil.png) |
+| item | Soul Soil | ![soul_soil](../images/nourished_nether_chiseled_soul_quartz.png) |
 
 ---
 ## Cracked Warped Bricks
@@ -920,7 +920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| item | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Cooked Hoglin
@@ -928,7 +928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Hoglin | ![raw_hoglin](../images/nourished_raw_hoglin.png) |
+| item | Raw Hoglin | ![raw_hoglin](../images/nourished_nether_raw_hoglin_new.png) |
 
 ---
 ## Smooth Basalt Bricks
@@ -936,10 +936,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 1 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 2 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 3 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 1 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 2 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 3 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Brick Slab
@@ -947,9 +947,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 1 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 2 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| 0 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 1 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 2 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Brick Stairs
@@ -957,12 +957,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 3 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 4 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 6 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 7 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 8 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| 0 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 3 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 4 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 6 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 7 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 8 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Brick Wall
@@ -970,12 +970,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 1 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 2 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 3 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 4 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
-| 5 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| 0 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 1 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 2 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 3 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 4 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 5 | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Slab
@@ -983,9 +983,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 1 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 2 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 1 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 2 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Slab
@@ -993,7 +993,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| item | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Stairs
@@ -1001,12 +1001,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 3 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 4 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 6 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 7 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 8 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 3 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 4 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 6 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 7 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 8 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Stairs
@@ -1014,7 +1014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| item | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Wall
@@ -1022,12 +1022,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 1 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 2 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 3 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 4 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
-| 5 | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| 0 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 1 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 2 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 3 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 4 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
+| 5 | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Wall
@@ -1035,7 +1035,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| item | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Quartz Wall
@@ -1043,12 +1043,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
-| 1 | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
-| 2 | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
-| 3 | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
-| 4 | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
-| 5 | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
+| 0 | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
+| 1 | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
+| 2 | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
+| 3 | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
+| 4 | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
+| 5 | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
 
 ---
 ## Smooth Quartz Wall
@@ -1056,7 +1056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Quartz | ![smooth_quartz](../images/nourished_smooth_quartz.png) |
+| item | Smooth Quartz | ![smooth_quartz](../images/nourished_nether_smooth_quartz.png) |
 
 ---
 ## Smooth Soul Quartz Slab
@@ -1064,9 +1064,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 1 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 2 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
+| 0 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 1 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 2 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
 
 ---
 ## Smooth Soul Quartz Stairs
@@ -1074,12 +1074,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 3 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 4 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 6 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 7 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 8 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
+| 0 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 3 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 4 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 6 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 7 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 8 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
 
 ---
 ## Smooth Soul Quartz Wall
@@ -1087,12 +1087,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 1 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 2 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 3 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 4 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
-| 5 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
+| 0 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 1 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 2 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 3 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 4 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
+| 5 | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
 
 ---
 ## Soul Torch
@@ -1100,8 +1100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Coal | ![soul_coal](../images/nourished_soul_coal.png) |
-| 1 | Stick | ![stick](../images/nourished_stick.png) |
+| 0 | Soul Coal | ![soul_coal](../images/nourished_nether_soul_coal.png) |
+| 1 | Stick | ![stick](../images/nourished_nether_air_2.png) |
 
 ---
 ## Soul Quartz Block
@@ -1109,10 +1109,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 1 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 2 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 3 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
+| 0 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 1 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 2 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 3 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
 
 ---
 ## Soul Quartz Bricks
@@ -1120,10 +1120,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 2 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 3 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 2 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 3 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Brick Slab
@@ -1131,9 +1131,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 1 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 2 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| 0 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 1 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 2 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Soul Quartz Brick Stairs
@@ -1141,12 +1141,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 3 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 4 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 6 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 7 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 8 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| 0 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 3 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 4 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 6 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 7 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 8 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Soul Quartz Brick Wall
@@ -1154,12 +1154,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 1 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 2 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 3 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 4 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
-| 5 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| 0 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 1 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 2 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 3 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 4 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
+| 5 | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Soul Quartz Pillar
@@ -1167,8 +1167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Slab
@@ -1176,9 +1176,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 2 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 2 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Stairs
@@ -1186,12 +1186,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 3 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 4 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 6 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 7 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 8 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 3 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 4 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 6 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 7 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 8 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Wall
@@ -1199,12 +1199,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 2 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 3 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 4 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
-| 5 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| 0 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 1 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 2 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 3 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 4 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
+| 5 | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Sludge Bricks
@@ -1212,10 +1212,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 1 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 2 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
-| 3 | Sludge Brick | ![sludge_brick](../images/nourished_sludge_brick.png) |
+| 0 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 1 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 2 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
+| 3 | Sludge Brick | ![sludge_brick](../images/nourished_nether_sludge_brick.png) |
 
 ---
 ## Sludge Brick Slab
@@ -1223,9 +1223,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 1 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 2 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 1 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 2 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Sludge Brick Stairs
@@ -1233,12 +1233,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 3 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 4 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 6 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 7 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 8 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 3 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 4 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 6 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 7 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 8 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Sludge Brick Wall
@@ -1246,12 +1246,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 1 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 2 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 3 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 4 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
-| 5 | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| 0 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 1 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 2 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 3 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 4 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
+| 5 | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Soul Sludge
@@ -1259,10 +1259,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Sludge Ball | ![sludge_ball](../images/nourished_sludge_ball.png) |
-| 1 | Sludge Ball | ![sludge_ball](../images/nourished_sludge_ball.png) |
-| 2 | Sludge Ball | ![sludge_ball](../images/nourished_sludge_ball.png) |
-| 3 | Sludge Ball | ![sludge_ball](../images/nourished_sludge_ball.png) |
+| 0 | Sludge Ball | ![sludge_ball](../images/nourished_nether_soul_sludge_ball.png) |
+| 1 | Sludge Ball | ![sludge_ball](../images/nourished_nether_soul_sludge_ball.png) |
+| 2 | Sludge Ball | ![sludge_ball](../images/nourished_nether_soul_sludge_ball.png) |
+| 3 | Sludge Ball | ![sludge_ball](../images/nourished_nether_soul_sludge_ball.png) |
 
 ---
 ## Basalt Bricks
@@ -1270,7 +1270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt | ![basalt](../images/nourished_basalt.png) |
+| item | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Basalt Brick Slab
@@ -1278,7 +1278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| item | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Basalt Brick Stairs
@@ -1286,7 +1286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| item | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Basalt Brick Wall
@@ -1294,7 +1294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| item | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Basalt Slab
@@ -1302,7 +1302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt | ![basalt](../images/nourished_basalt.png) |
+| item | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Basalt Stairs
@@ -1310,7 +1310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt | ![basalt](../images/nourished_basalt.png) |
+| item | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Basalt Wall
@@ -1318,7 +1318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt | ![basalt](../images/nourished_basalt.png) |
+| item | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Chiseled Basalt Bricks
@@ -1326,7 +1326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Basalt Bricks | ![basalt_bricks](../images/nourished_basalt_bricks.png) |
+| item | Basalt Bricks | ![basalt_bricks](../images/nourished_nether_basalt_bricks.png) |
 
 ---
 ## Chiseled Obsidian Bricks
@@ -1334,7 +1334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Chiseled Red Nether Bricks
@@ -1342,7 +1342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Nether Bricks | ![red_nether_bricks](../images/nourished_red_nether_bricks.png) |
+| item | Red Nether Bricks | ![red_nether_bricks](../images/nourished_nether_chiseled_red_nether_bricks.png) |
 
 ---
 ## Chiseled Sludge Bricks
@@ -1350,7 +1350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| item | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Chiseled Soul Quartz
@@ -1358,7 +1358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Chiseled Warped Nether Bricks
@@ -1366,7 +1366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| item | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Gilded Blackstone Brick Slab
@@ -1374,7 +1374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
+| item | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
 
 ---
 ## Gilded Blackstone Brick Stairs
@@ -1382,7 +1382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
+| item | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
 
 ---
 ## Gilded Blackstone Brick Wall
@@ -1390,7 +1390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_gilded_blackstone_bricks.png) |
+| item | Gilded Blackstone Bricks | ![gilded_blackstone_bricks](../images/nourished_nether_gilded_blackstone_bricks.png) |
 
 ---
 ## Netherrack Slab
@@ -1398,7 +1398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
+| item | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
 
 ---
 ## Netherrack Stairs
@@ -1406,7 +1406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
+| item | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
 
 ---
 ## Netherrack Wall
@@ -1414,7 +1414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Netherrack | ![netherrack](../images/nourished_netherrack.png) |
+| item | Netherrack | ![netherrack](../images/nourished_nether_netherrack.png) |
 
 ---
 ## Obsidian Bricks
@@ -1422,7 +1422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| item | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Slab
@@ -1430,7 +1430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Stairs
@@ -1438,7 +1438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Wall
@@ -1446,7 +1446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_obsidian_bricks.png) |
+| item | Obsidian Bricks | ![obsidian_bricks](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Slab
@@ -1454,7 +1454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| item | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Stairs
@@ -1462,7 +1462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| item | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Wall
@@ -1470,7 +1470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Obsidian | ![obsidian](../images/nourished_obsidian.png) |
+| item | Obsidian | ![obsidian](../images/nourished_nether_chiseled_obsidian_bricks.png) |
 
 ---
 ## Polished Basalt Slab
@@ -1478,7 +1478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
+| item | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
 
 ---
 ## Polished Basalt Stairs
@@ -1486,7 +1486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
+| item | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
 
 ---
 ## Polished Basalt Wall
@@ -1494,7 +1494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Basalt | ![polished_basalt](../images/nourished_polished_basalt.png) |
+| item | Polished Basalt | ![polished_basalt](../images/nourished_nether_polished_basalt_side.png) |
 
 ---
 ## Quartz Brick Slab
@@ -1502,7 +1502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| item | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Quartz Brick Stairs
@@ -1510,7 +1510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| item | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Quartz Brick Wall
@@ -1518,7 +1518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Bricks | ![quartz_bricks](../images/nourished_quartz_bricks.png) |
+| item | Quartz Bricks | ![quartz_bricks](../images/nourished_nether_cracked_quartz_bricks.png) |
 
 ---
 ## Quartz Wall
@@ -1526,7 +1526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Block | ![quartz_block](../images/nourished_quartz_block.png) |
+| item | Quartz Block | ![quartz_block](../images/nourished_nether_quartz_block.png) |
 
 ---
 ## Smooth Basalt Bricks
@@ -1534,7 +1534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt | ![smooth_basalt](../images/nourished_smooth_basalt.png) |
+| item | Smooth Basalt | ![smooth_basalt](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Brick Slab
@@ -1542,7 +1542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Brick Stairs
@@ -1550,7 +1550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Basalt Brick Wall
@@ -1558,7 +1558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_smooth_basalt_bricks.png) |
+| item | Smooth Basalt Bricks | ![smooth_basalt_bricks](../images/nourished_nether_cracked_smooth_basalt_bricks.png) |
 
 ---
 ## Smooth Soul Quartz Slab
@@ -1566,7 +1566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
+| item | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
 
 ---
 ## Smooth Soul Quartz Stairs
@@ -1574,7 +1574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
+| item | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
 
 ---
 ## Smooth Soul Quartz Wall
@@ -1582,7 +1582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_smooth_soul_quartz.png) |
+| item | Smooth Soul Quartz | ![smooth_soul_quartz](../images/nourished_nether_smooth_soul_quartz.png) |
 
 ---
 ## Soul Quartz Bricks
@@ -1590,7 +1590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Brick Slab
@@ -1598,7 +1598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Soul Quartz Brick Stairs
@@ -1606,7 +1606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Soul Quartz Brick Wall
@@ -1614,7 +1614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_soul_quartz_bricks.png) |
+| item | Soul Quartz Bricks | ![soul_quartz_bricks](../images/nourished_nether_cracked_soul_quartz_bricks_2.png) |
 
 ---
 ## Soul Quartz Pillar
@@ -1622,7 +1622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Slab
@@ -1630,7 +1630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Stairs
@@ -1638,7 +1638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Soul Quartz Wall
@@ -1646,7 +1646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_soul_quartz_block.png) |
+| item | Soul Quartz Block | ![soul_quartz_block](../images/nourished_nether_soul_quartz_block.png) |
 
 ---
 ## Sludge Bricks
@@ -1654,7 +1654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Soul Sand | ![soul_sand](../images/nourished_soul_sand.png) |
+| item | Soul Sand | ![soul_sand](../images/nourished_nether_chiseled_soul_quartz.png) |
 
 ---
 ## Sludge Brick Slab
@@ -1662,7 +1662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| item | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Sludge Brick Stairs
@@ -1670,7 +1670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| item | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Sludge Brick Wall
@@ -1678,7 +1678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sludge Bricks | ![sludge_bricks](../images/nourished_sludge_bricks.png) |
+| item | Sludge Bricks | ![sludge_bricks](../images/nourished_nether_chiseled_sludge_bricks.png) |
 
 ---
 ## Warped Brick Slab
@@ -1686,7 +1686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| item | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Brick Stairs
@@ -1694,7 +1694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| item | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Brick Wall
@@ -1702,7 +1702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| item | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Soul Forge
@@ -1710,15 +1710,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 1 | Blackstone | ![blackstone](../images/nourished_blackstone.png) |
-| 2 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 3 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 4 | Gold Ingot | ![gold_ingot](../images/nourished_gold_ingot.png) |
-| 5 | Soul Quartz | ![soul_quartz](../images/nourished_soul_quartz.png) |
-| 6 | Basalt | ![basalt](../images/nourished_basalt.png) |
-| 7 | Blackstone | ![blackstone](../images/nourished_blackstone.png) |
-| 8 | Basalt | ![basalt](../images/nourished_basalt.png) |
+| 0 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 1 | Blackstone | ![blackstone](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 2 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 3 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 4 | Gold Ingot | ![gold_ingot](../images/nourished_nether_necronium_ingot_2.png) |
+| 5 | Soul Quartz | ![soul_quartz](../images/nourished_nether_chiseled_soul_quartz.png) |
+| 6 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
+| 7 | Blackstone | ![blackstone](../images/nourished_nether_gilded_blackstone_bricks.png) |
+| 8 | Basalt | ![basalt](../images/nourished_nether_ashy_basalt_column.png) |
 
 ---
 ## Warped Brick Slab
@@ -1726,9 +1726,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 1 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 2 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| 0 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 1 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 2 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Brick Stairs
@@ -1736,12 +1736,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 3 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 4 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 6 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 7 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 8 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| 0 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 3 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 4 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 6 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 7 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 8 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Brick Wall
@@ -1749,12 +1749,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 1 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 2 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 3 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 4 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
-| 5 | Warped Bricks | ![warped_bricks](../images/nourished_warped_bricks.png) |
+| 0 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 1 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 2 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 3 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 4 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 5 | Warped Bricks | ![warped_bricks](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Nether Brick
@@ -1762,10 +1762,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Roots | ![warped_roots](../images/nourished_warped_roots.png) |
-| 1 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 2 | Nether Brick | ![nether_brick](../images/nourished_nether_brick.png) |
-| 3 | Warped Roots | ![warped_roots](../images/nourished_warped_roots.png) |
+| 0 | Warped Roots | ![warped_roots](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
+| 1 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 2 | Nether Brick | ![nether_brick](../images/nourished_nether_red_nether_brick.png) |
+| 3 | Warped Roots | ![warped_roots](../images/nourished_nether_chiseled_warped_nether_bricks.png) |
 
 ---
 ## Warped Bricks
@@ -1773,9 +1773,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 1 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 2 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
-| 3 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_warped_nether_brick.png) |
+| 0 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 1 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 2 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
+| 3 | Warped Nether Brick | ![warped_nether_brick](../images/nourished_nether_warped_nether_brick.png) |
 
 ---

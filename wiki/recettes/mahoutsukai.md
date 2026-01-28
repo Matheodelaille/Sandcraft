@@ -8,7 +8,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Attuner | ![attuner](../images/mahoutsukai_attuner.png) |
-| - | Diamond | ![diamond](../images/mahoutsukai_diamond.png) |
+| - | Diamond | ![diamond](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Attuned Emerald
@@ -17,7 +17,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Attuner | ![attuner](../images/mahoutsukai_attuner.png) |
-| - | Emerald | ![emerald](../images/mahoutsukai_emerald.png) |
+| - | Emerald | ![emerald](../images/mahoutsukai_attuned_emerald.png) |
 
 ---
 ## Attuner
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gold Ingot | ![gold_ingot](../images/mahoutsukai_gold_ingot.png) |
-| C | Lapis Lazuli | ![lapis_lazuli](../images/mahoutsukai_lapis_lazuli.png) |
+| B | Gold Ingot | ![gold_ingot](../images/mahoutsukai_powdered_gold.png) |
+| C | Lapis Lazuli | ![lapis_lazuli](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Dagger
@@ -34,10 +34,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Purple Dye | ![purple_dye](../images/mahoutsukai_purple_dye.png) |
-| B | Iron Ingot | ![iron_ingot](../images/mahoutsukai_iron_ingot.png) |
-| C | Stick | ![stick](../images/mahoutsukai_stick.png) |
-| D | Gold Ingot | ![gold_ingot](../images/mahoutsukai_gold_ingot.png) |
+| A | Purple Dye | ![purple_dye](../images/mahoutsukai_attuned_diamond.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mahoutsukai_powdered_iron.png) |
+| C | Stick | ![stick](../images/mahoutsukai_attuned_diamond.png) |
+| D | Gold Ingot | ![gold_ingot](../images/mahoutsukai_powdered_gold.png) |
 
 ---
 ## Faecake
@@ -45,10 +45,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/mahoutsukai_sugar.png) |
-| - | Wheat | ![wheat](../images/mahoutsukai_wheat.png) |
+| - | Sugar | ![sugar](../images/mahoutsukai_attuned_diamond.png) |
+| - | Wheat | ![wheat](../images/mahoutsukai_attuned_diamond.png) |
 | - | Fae Essence | ![fae_essence](../images/mahoutsukai_fae_essence.png) |
-| - | Egg | ![egg](../images/mahoutsukai_egg.png) |
+| - | Egg | ![egg](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Fog Projector
@@ -58,7 +58,7 @@
 | :--- | :--- | :--- |
 | F | Powdered Eye | ![powdered_eye](../images/mahoutsukai_powdered_eye.png) |
 | G | Spell Cloth | ![spell_cloth](../images/mahoutsukai_spell_cloth.png) |
-| H | Redstone | ![redstone](../images/mahoutsukai_redstone.png) |
+| H | Redstone | ![redstone](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Guidebook
@@ -66,9 +66,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Leather | ![leather](../images/mahoutsukai_leather.png) |
-| C | Paper | ![paper](../images/mahoutsukai_paper.png) |
-| D | Red Dye | ![red_dye](../images/mahoutsukai_red_dye.png) |
+| B | Leather | ![leather](../images/mahoutsukai_attuned_diamond.png) |
+| C | Paper | ![paper](../images/mahoutsukai_attuned_diamond.png) |
+| D | Red Dye | ![red_dye](../images/mahoutsukai_red_key.png) |
 
 ---
 ## Hammer
@@ -76,9 +76,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | String | ![string](../images/mahoutsukai_string.png) |
-| B | Cobblestone | ![cobblestone](../images/mahoutsukai_cobblestone.png) |
-| C | Stick | ![stick](../images/mahoutsukai_stick.png) |
+| A | String | ![string](../images/mahoutsukai_attuned_diamond.png) |
+| B | Cobblestone | ![cobblestone](../images/mahoutsukai_attuned_diamond.png) |
+| C | Stick | ![stick](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Kodoku
@@ -86,12 +86,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/mahoutsukai_dirt.png) |
-| - | Carrot | ![carrot](../images/mahoutsukai_carrot.png) |
-| - | Potato | ![potato](../images/mahoutsukai_potato.png) |
-| - | Poisonous Potato | ![poisonous_potato](../images/mahoutsukai_poisonous_potato.png) |
-| - | Rotten Flesh | ![rotten_flesh](../images/mahoutsukai_rotten_flesh.png) |
-| - | Nether Wart | ![nether_wart](../images/mahoutsukai_nether_wart.png) |
+| - | Dirt | ![dirt](../images/mahoutsukai_attuned_diamond.png) |
+| - | Carrot | ![carrot](../images/mahoutsukai_attuned_diamond.png) |
+| - | Potato | ![potato](../images/mahoutsukai_attuned_diamond.png) |
+| - | Poisonous Potato | ![poisonous_potato](../images/mahoutsukai_attuned_diamond.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/mahoutsukai_attuned_diamond.png) |
+| - | Nether Wart | ![nether_wart](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Mahoujin Projector
@@ -101,7 +101,7 @@
 | :--- | :--- | :--- |
 | F | Powdered Gold | ![powdered_gold](../images/mahoutsukai_powdered_gold.png) |
 | G | Spell Cloth | ![spell_cloth](../images/mahoutsukai_spell_cloth.png) |
-| H | Redstone | ![redstone](../images/mahoutsukai_redstone.png) |
+| H | Redstone | ![redstone](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Mana Circuit
@@ -120,7 +120,7 @@
 | :--- | :--- | :--- |
 | A | Powdered Emerald | ![powdered_emerald](../images/mahoutsukai_powdered_emerald.png) |
 | B | Powdered Emerald | ![powdered_emerald](../images/mahoutsukai_powdered_emerald.png) |
-| D | Iron Ingot | ![iron_ingot](../images/mahoutsukai_iron_ingot.png) |
+| D | Iron Ingot | ![iron_ingot](../images/mahoutsukai_powdered_iron.png) |
 
 ---
 ## Mortar
@@ -128,8 +128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Brick | ![brick](../images/mahoutsukai_brick.png) |
-| B | Diamond | ![diamond](../images/mahoutsukai_diamond.png) |
+| A | Brick | ![brick](../images/mahoutsukai_attuned_diamond.png) |
+| B | Diamond | ![diamond](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Mortar And Pestle
@@ -168,8 +168,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Diamond | ![diamond](../images/mahoutsukai_diamond.png) |
-| B | Stick | ![stick](../images/mahoutsukai_stick.png) |
+| A | Diamond | ![diamond](../images/mahoutsukai_attuned_diamond.png) |
+| B | Stick | ![stick](../images/mahoutsukai_attuned_diamond.png) |
 
 ---
 ## Powdered Diamond
@@ -177,7 +177,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond | ![diamond](../images/mahoutsukai_diamond.png) |
+| - | Diamond | ![diamond](../images/mahoutsukai_attuned_diamond.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -186,7 +186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond | ![diamond](../images/mahoutsukai_diamond.png) |
+| - | Diamond | ![diamond](../images/mahoutsukai_attuned_diamond.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -195,7 +195,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Emerald | ![emerald](../images/mahoutsukai_emerald.png) |
+| - | Emerald | ![emerald](../images/mahoutsukai_attuned_emerald.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -204,7 +204,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Emerald | ![emerald](../images/mahoutsukai_emerald.png) |
+| - | Emerald | ![emerald](../images/mahoutsukai_attuned_emerald.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -213,7 +213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/mahoutsukai_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/mahoutsukai_powdered_ender.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -222,7 +222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/mahoutsukai_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/mahoutsukai_powdered_ender.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -231,7 +231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Eye | ![ender_eye](../images/mahoutsukai_ender_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/mahoutsukai_powdered_ender.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -240,7 +240,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Eye | ![ender_eye](../images/mahoutsukai_ender_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/mahoutsukai_powdered_ender.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -249,7 +249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Ingot | ![gold_ingot](../images/mahoutsukai_gold_ingot.png) |
+| - | Gold Ingot | ![gold_ingot](../images/mahoutsukai_powdered_gold.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -258,7 +258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Ingot | ![gold_ingot](../images/mahoutsukai_gold_ingot.png) |
+| - | Gold Ingot | ![gold_ingot](../images/mahoutsukai_powdered_gold.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -267,7 +267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/mahoutsukai_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/mahoutsukai_powdered_iron.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -276,7 +276,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/mahoutsukai_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/mahoutsukai_powdered_iron.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -285,7 +285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz | ![quartz](../images/mahoutsukai_quartz.png) |
+| - | Quartz | ![quartz](../images/mahoutsukai_powdered_quartz.png) |
 | - | Hammer | ![hammer](../images/mahoutsukai_hammer.png) |
 
 ---
@@ -294,7 +294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz | ![quartz](../images/mahoutsukai_quartz.png) |
+| - | Quartz | ![quartz](../images/mahoutsukai_powdered_quartz.png) |
 | - | Mortar And Pestle | ![mortar_and_pestle](../images/mahoutsukai_mortar_and_pestle.png) |
 
 ---
@@ -303,7 +303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Wool | ![white_wool](../images/mahoutsukai_white_wool.png) |
+| - | White Wool | ![white_wool](../images/mahoutsukai_white.png) |
 | - | Dagger | ![dagger](../images/mahoutsukai_dagger.png) |
 
 ---

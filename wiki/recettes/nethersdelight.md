@@ -8,8 +8,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/nethersdelight_ingots/iron.png) |
-| b | Blackstone Furnace | ![blackstone_furnace](../images/nethersdelight_blackstone_furnace.png) |
-| s | Polished Blackstone | ![polished_blackstone](../images/nethersdelight_polished_blackstone.png) |
+| b | Blackstone Furnace | ![blackstone_furnace](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| s | Polished Blackstone | ![polished_blackstone](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Blackstone Furnace
@@ -17,7 +17,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone | ![blackstone](../images/nethersdelight_blackstone.png) |
+| # | Blackstone | ![blackstone](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Blackstone Stove
@@ -25,9 +25,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/nethersdelight_polished_blackstone_bricks.png) |
-| c | Campfire | ![campfire](../images/nethersdelight_campfire.png) |
-| n | Nether Brick | ![nether_brick](../images/nethersdelight_nether_brick.png) |
+| b | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| c | Campfire | ![campfire](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| n | Nether Brick | ![nether_brick](../images/nethersdelight_nether_brick_smoker_bottom.png) |
 
 ---
 ## Crimson Fungus'}]
@@ -35,7 +35,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Fungus Colony | ![crimson_fungus_colony](../images/nethersdelight_crimson_fungus_colony.png) |
+| - | Crimson Fungus Colony | ![crimson_fungus_colony](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
 
 ---
 ## Diamond Machete
@@ -43,8 +43,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Diamond | ![diamond](../images/nethersdelight_diamond.png) |
-| s | Stick | ![stick](../images/nethersdelight_stick.png) |
+| m | Diamond | ![diamond](../images/nethersdelight_diamond_machete.png) |
+| s | Stick | ![stick](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Golden Machete
@@ -52,8 +52,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Gold Ingot | ![gold_ingot](../images/nethersdelight_gold_ingot.png) |
-| s | Stick | ![stick](../images/nethersdelight_stick.png) |
+| m | Gold Ingot | ![gold_ingot](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| s | Stick | ![stick](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Gold Nugget
@@ -77,11 +77,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Strider | ![raw_strider](../images/nethersdelight_raw_strider.png) |
-| - | Warped Fungus | ![warped_fungus](../images/nethersdelight_warped_fungus.png) |
-| - | Crimson Fungus | ![crimson_fungus](../images/nethersdelight_crimson_fungus.png) |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
-| - | Crimson Roots | ![crimson_roots](../images/nethersdelight_crimson_roots.png) |
+| - | Raw Strider | ![raw_strider](../images/nethersdelight_grilled_strider.png) |
+| - | Warped Fungus | ![warped_fungus](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Crimson Roots | ![crimson_roots](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
 
 ---
 ## Leather'}]
@@ -97,10 +97,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Nugget | ![gold_nugget](../images/nethersdelight_gold_nugget.png) |
+| g | Gold Nugget | ![gold_nugget](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 | h | Hoglin Hide | ![hoglin_hide](../images/nethersdelight_hoglin_hide.png) |
-| p | Planks | ![planks](../images/nethersdelight_planks.png) |
-| w | Wool | ![wool](../images/nethersdelight_wool.png) |
+| p | Planks | ![planks](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| w | Wool | ![wool](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Hoglin Sirloin
@@ -133,7 +133,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | m | Ingots/Iron | ![ingots/iron](../images/nethersdelight_ingots/iron.png) |
-| s | Stick | ![stick](../images/nethersdelight_stick.png) |
+| s | Stick | ![stick](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Iron Nugget
@@ -157,9 +157,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Cream | ![magma_cream](../images/nethersdelight_magma_cream.png) |
-| - | Magma Cream | ![magma_cream](../images/nethersdelight_magma_cream.png) |
-| - | Magma Cream | ![magma_cream](../images/nethersdelight_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/nethersdelight_magma_gelatin.png) |
+| - | Magma Cream | ![magma_cream](../images/nethersdelight_magma_gelatin.png) |
+| - | Magma Cream | ![magma_cream](../images/nethersdelight_magma_gelatin.png) |
 | - | Propelpearl | ![propelpearl](../images/nethersdelight_propelpearl.png) |
 
 ---
@@ -175,8 +175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Blackstone Furnace | ![blackstone_furnace](../images/nethersdelight_blackstone_furnace.png) |
-| n | Nether Bricks | ![nether_bricks](../images/nethersdelight_nether_bricks.png) |
+| b | Blackstone Furnace | ![blackstone_furnace](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| n | Nether Bricks | ![nether_bricks](../images/nethersdelight_nether_brick_smoker_bottom.png) |
 
 ---
 ## Nether Skewer
@@ -184,9 +184,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Blaze Rod | ![blaze_rod](../images/nethersdelight_blaze_rod.png) |
+| b | Blaze Rod | ![blaze_rod](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 | p | Propelpearl | ![propelpearl](../images/nethersdelight_propelpearl.png) |
-| s | Raw Strider | ![raw_strider](../images/nethersdelight_raw_strider.png) |
+| s | Raw Strider | ![raw_strider](../images/nethersdelight_grilled_strider.png) |
 
 ---
 ## Gunpowder'}]
@@ -212,12 +212,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Hoglin Hide | ![hoglin_hide](../images/nethersdelight_hoglin_hide.png) |
-| c | Crimson Roots | ![crimson_roots](../images/nethersdelight_crimson_roots.png) |
-| f | Crimson Fungus | ![crimson_fungus](../images/nethersdelight_crimson_fungus.png) |
-| h | Ham | ![ham](../images/nethersdelight_ham.png) |
+| c | Crimson Roots | ![crimson_roots](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
+| f | Crimson Fungus | ![crimson_fungus](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
+| h | Ham | ![ham](../images/nethersdelight_plate_of_stuffed_hoglin_ham.png) |
 | l | Hoglin Loin | ![hoglin_loin](../images/nethersdelight_hoglin_loin.png) |
-| s | Nether Salad | ![nether_salad](../images/nethersdelight_nether_salad.png) |
-| w | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
+| s | Nether Salad | ![nether_salad](../images/nethersdelight_nether_brick_smoker_bottom.png) |
+| w | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
 
 ---
 ## Soul Compost
@@ -225,15 +225,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Soil | ![soul_soil](../images/nethersdelight_soul_soil.png) |
+| - | Soul Soil | ![soul_soil](../images/nethersdelight_rich_soul_soil.png) |
 | - | Hoglin Hide | ![hoglin_hide](../images/nethersdelight_hoglin_hide.png) |
 | - | Hoglin Hide | ![hoglin_hide](../images/nethersdelight_hoglin_hide.png) |
-| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_twisting_vines.png) |
-| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_twisting_vines.png) |
-| - | Bone Meal | ![bone_meal](../images/nethersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/nethersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/nethersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/nethersdelight_bone_meal.png) |
+| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Bone Meal | ![bone_meal](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Bone Meal | ![bone_meal](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Bone Meal | ![bone_meal](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Bone Meal | ![bone_meal](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---
 ## Soul Compost
@@ -241,15 +241,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Soil | ![soul_soil](../images/nethersdelight_soul_soil.png) |
-| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_twisting_vines.png) |
-| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_twisting_vines.png) |
-| - | Bone Meal | ![bone_meal](../images/nethersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/nethersdelight_bone_meal.png) |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
+| - | Soul Soil | ![soul_soil](../images/nethersdelight_rich_soul_soil.png) |
+| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Twisting Vines | ![twisting_vines](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Bone Meal | ![bone_meal](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Bone Meal | ![bone_meal](../images/nethersdelight_blackstone_blast_furnace_front.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
 
 ---
 ## Strider Moss Stew
@@ -257,11 +257,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Fungus | ![warped_fungus](../images/nethersdelight_warped_fungus.png) |
-| - | Crimson Fungus | ![crimson_fungus](../images/nethersdelight_crimson_fungus.png) |
-| - | Crimson Roots | ![crimson_roots](../images/nethersdelight_crimson_roots.png) |
-| - | Warped Fungus | ![warped_fungus](../images/nethersdelight_warped_fungus.png) |
-| - | Raw Strider | ![raw_strider](../images/nethersdelight_raw_strider.png) |
+| - | Warped Fungus | ![warped_fungus](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
+| - | Crimson Roots | ![crimson_roots](../images/nethersdelight_crimson_fungus_colony_stage0.png) |
+| - | Warped Fungus | ![warped_fungus](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Raw Strider | ![raw_strider](../images/nethersdelight_grilled_strider.png) |
 
 ---
 ## Ground Strider'}]
@@ -277,9 +277,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Salad | ![nether_salad](../images/nethersdelight_nether_salad.png) |
+| - | Nether Salad | ![nether_salad](../images/nethersdelight_nether_brick_smoker_bottom.png) |
 | - | Raw Stuffed Hoglin | ![raw_stuffed_hoglin](../images/nethersdelight_raw_stuffed_hoglin.png) |
-| - | Nether Salad | ![nether_salad](../images/nethersdelight_nether_salad.png) |
+| - | Nether Salad | ![nether_salad](../images/nethersdelight_nether_brick_smoker_bottom.png) |
 
 ---
 ## Warped Fungus'}]
@@ -287,7 +287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Fungus Colony | ![warped_fungus_colony](../images/nethersdelight_warped_fungus_colony.png) |
+| - | Warped Fungus Colony | ![warped_fungus_colony](../images/nethersdelight_warped_fungus_colony_stage0.png) |
 
 ---
 ## Warped Moldy Meat
@@ -295,9 +295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
-| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_roots.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
+| - | Warped Roots | ![warped_roots](../images/nethersdelight_warped_fungus_colony_stage0.png) |
 | - | Hoglin Sirloin | ![hoglin_sirloin](../images/nethersdelight_hoglin_sirloin.png) |
-| - | Bowl | ![bowl](../images/nethersdelight_bowl.png) |
+| - | Bowl | ![bowl](../images/nethersdelight_blackstone_blast_furnace_front.png) |
 
 ---

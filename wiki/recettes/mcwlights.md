@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Acacia Fence | ![acacia_fence](../images/mcwlights_acacia_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Acacia Fence | ![acacia_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Bamboo Tiki Torch
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Bamboo | ![bamboo](../images/mcwlights_bamboo.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Bamboo | ![bamboo](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Bell Lantern
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Bell Wall Lantern
@@ -43,8 +43,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Birch Fence | ![birch_fence](../images/mcwlights_birch_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Birch Fence | ![birch_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Black Ceiling Light
@@ -53,8 +53,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Black Wool | ![black_wool](../images/mcwlights_black_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Black Wool | ![black_wool](../images/mcwlights_black_paper_side.png) |
 
 ---
 ## Black Lamp
@@ -63,8 +63,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Black Wool | ![black_wool](../images/mcwlights_black_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Black Wool | ![black_wool](../images/mcwlights_black_paper_side.png) |
 
 ---
 ## Black Paper Lamp
@@ -72,8 +72,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Black Dye | ![black_dye](../images/mcwlights_black_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Black Dye | ![black_dye](../images/mcwlights_black_paper_side.png) |
 
 ---
 ## Blue Ceiling Light
@@ -82,8 +82,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Blue Wool | ![blue_wool](../images/mcwlights_blue_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Blue Wool | ![blue_wool](../images/mcwlights_blue_paper_side.png) |
 
 ---
 ## Blue Lamp
@@ -92,8 +92,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Blue Wool | ![blue_wool](../images/mcwlights_blue_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Blue Wool | ![blue_wool](../images/mcwlights_blue_paper_side.png) |
 
 ---
 ## Blue Paper Lamp
@@ -101,8 +101,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Blue Dye | ![blue_dye](../images/mcwlights_blue_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Blue Dye | ![blue_dye](../images/mcwlights_blue_paper_side.png) |
 
 ---
 ## Brown Ceiling Light
@@ -111,8 +111,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Brown Wool | ![brown_wool](../images/mcwlights_brown_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Brown Wool | ![brown_wool](../images/mcwlights_brown_paper_side.png) |
 
 ---
 ## Brown Lamp
@@ -121,8 +121,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Brown Wool | ![brown_wool](../images/mcwlights_brown_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Brown Wool | ![brown_wool](../images/mcwlights_brown_paper_side.png) |
 
 ---
 ## Brown Paper Lamp
@@ -130,8 +130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Brown Dye | ![brown_dye](../images/mcwlights_brown_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Brown Dye | ![brown_dye](../images/mcwlights_brown_paper_side.png) |
 
 ---
 ## Chain Lantern
@@ -139,8 +139,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Chain Wall Lantern
@@ -157,9 +157,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Lantern | ![lantern](../images/mcwlights_lantern.png) |
+| L | Lantern | ![lantern](../images/mcwlights_bell_lantern.png) |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_stone_brick_wall.png) |
+| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Covered Lantern
@@ -167,8 +167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Covered Wall Lantern
@@ -185,8 +185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Crimson Fence | ![crimson_fence](../images/mcwlights_crimson_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Crimson Fence | ![crimson_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Cross Lantern
@@ -194,8 +194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Cross Wall Lantern
@@ -213,8 +213,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Cyan Wool | ![cyan_wool](../images/mcwlights_cyan_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Cyan Wool | ![cyan_wool](../images/mcwlights_cyan_paper_side.png) |
 
 ---
 ## Cyan Lamp
@@ -223,8 +223,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Cyan Wool | ![cyan_wool](../images/mcwlights_cyan_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Cyan Wool | ![cyan_wool](../images/mcwlights_cyan_paper_side.png) |
 
 ---
 ## Cyan Paper Lamp
@@ -232,8 +232,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Cyan Dye | ![cyan_dye](../images/mcwlights_cyan_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Cyan Dye | ![cyan_dye](../images/mcwlights_cyan_paper_side.png) |
 
 ---
 ## Dark Oak Tiki Torch
@@ -241,8 +241,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Dark Oak Fence | ![dark_oak_fence](../images/mcwlights_dark_oak_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Dark Oak Fence | ![dark_oak_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Double Street Lamp
@@ -250,9 +250,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Lantern | ![lantern](../images/mcwlights_lantern.png) |
+| L | Lantern | ![lantern](../images/mcwlights_bell_lantern.png) |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_stone_brick_wall.png) |
+| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Festive Lantern
@@ -260,8 +260,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Festive Wall Lantern
@@ -278,9 +278,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| C | Coal | ![coal](../images/mcwlights_coal.png) |
-| S | Stick | ![stick](../images/mcwlights_stick.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| C | Coal | ![coal](../images/mcwlights_bell_lantern.png) |
+| S | Stick | ![stick](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Garden Light
@@ -288,9 +288,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| L | Glowstone Dust | ![glowstone_dust](../images/mcwlights_glowstone_dust.png) |
-| I | Iron Ingot | ![iron_ingot](../images/mcwlights_iron_ingot.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| L | Glowstone Dust | ![glowstone_dust](../images/mcwlights_bell_lantern.png) |
+| I | Iron Ingot | ![iron_ingot](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Glowstone Slab
@@ -298,7 +298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glowstone | ![glowstone](../images/mcwlights_glowstone.png) |
+| # | Glowstone | ![glowstone](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Gray Ceiling Light
@@ -307,8 +307,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Gray Wool | ![gray_wool](../images/mcwlights_gray_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Gray Wool | ![gray_wool](../images/mcwlights_gray_paper_side.png) |
 
 ---
 ## Gray Lamp
@@ -317,8 +317,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Gray Wool | ![gray_wool](../images/mcwlights_gray_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Gray Wool | ![gray_wool](../images/mcwlights_gray_paper_side.png) |
 
 ---
 ## Gray Paper Lamp
@@ -326,8 +326,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Gray Dye | ![gray_dye](../images/mcwlights_gray_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Gray Dye | ![gray_dye](../images/mcwlights_gray_paper_side.png) |
 
 ---
 ## Green Ceiling Light
@@ -336,8 +336,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Green Wool | ![green_wool](../images/mcwlights_green_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Green Wool | ![green_wool](../images/mcwlights_green_paper_side.png) |
 
 ---
 ## Green Lamp
@@ -346,8 +346,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Green Wool | ![green_wool](../images/mcwlights_green_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Green Wool | ![green_wool](../images/mcwlights_green_paper_side.png) |
 
 ---
 ## Green Paper Lamp
@@ -355,8 +355,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Green Dye | ![green_dye](../images/mcwlights_green_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Green Dye | ![green_dye](../images/mcwlights_green_paper_side.png) |
 
 ---
 ## Iron Framed Torch
@@ -364,8 +364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| C | Coal | ![coal](../images/mcwlights_coal.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| C | Coal | ![coal](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Jungle Tiki Torch
@@ -373,8 +373,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Jungle Fence | ![jungle_fence](../images/mcwlights_jungle_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Jungle Fence | ![jungle_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## {}
@@ -396,9 +396,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| L | Lava Bucket | ![lava_bucket](../images/mcwlights_lava_bucket.png) |
-| I | Iron Ingot | ![iron_ingot](../images/mcwlights_iron_ingot.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| L | Lava Bucket | ![lava_bucket](../images/mcwlights_bell_lantern.png) |
+| I | Iron Ingot | ![iron_ingot](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Light Blue Ceiling Light
@@ -407,8 +407,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/mcwlights_light_blue_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/mcwlights_light_blue_paper_side.png) |
 
 ---
 ## Light Blue Lamp
@@ -417,8 +417,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/mcwlights_light_blue_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/mcwlights_light_blue_paper_side.png) |
 
 ---
 ## Light Blue Paper Lamp
@@ -426,8 +426,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Light Blue Dye | ![light_blue_dye](../images/mcwlights_light_blue_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/mcwlights_light_blue_paper_side.png) |
 
 ---
 ## Light Gray Ceiling Light
@@ -436,8 +436,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/mcwlights_light_gray_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/mcwlights_light_gray_paper_side.png) |
 
 ---
 ## Light Gray Lamp
@@ -446,8 +446,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/mcwlights_light_gray_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/mcwlights_light_gray_paper_side.png) |
 
 ---
 ## Light Gray Paper Lamp
@@ -455,8 +455,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Light Gray Dye | ![light_gray_dye](../images/mcwlights_light_gray_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/mcwlights_light_gray_paper_side.png) |
 
 ---
 ## Lime Ceiling Light
@@ -465,8 +465,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Lime Wool | ![lime_wool](../images/mcwlights_lime_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Lime Wool | ![lime_wool](../images/mcwlights_lime_paper_side.png) |
 
 ---
 ## Lime Lamp
@@ -475,8 +475,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Lime Wool | ![lime_wool](../images/mcwlights_lime_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Lime Wool | ![lime_wool](../images/mcwlights_lime_paper_side.png) |
 
 ---
 ## Lime Paper Lamp
@@ -484,8 +484,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Lime Dye | ![lime_dye](../images/mcwlights_lime_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Lime Dye | ![lime_dye](../images/mcwlights_lime_paper_side.png) |
 
 ---
 ## Magenta Ceiling Light
@@ -494,8 +494,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Magenta Wool | ![magenta_wool](../images/mcwlights_magenta_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Magenta Wool | ![magenta_wool](../images/mcwlights_magenta_paper_side.png) |
 
 ---
 ## Magenta Lamp
@@ -504,8 +504,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Magenta Wool | ![magenta_wool](../images/mcwlights_magenta_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Magenta Wool | ![magenta_wool](../images/mcwlights_magenta_paper_side.png) |
 
 ---
 ## Magenta Paper Lamp
@@ -513,8 +513,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Magenta Dye | ![magenta_dye](../images/mcwlights_magenta_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Magenta Dye | ![magenta_dye](../images/mcwlights_magenta_paper_side.png) |
 
 ---
 ## Mangrove Tiki Torch
@@ -522,8 +522,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Mangrove Fence | ![mangrove_fence](../images/mcwlights_mangrove_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Mangrove Fence | ![mangrove_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Oak Tiki Torch
@@ -531,8 +531,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Oak Fence | ![oak_fence](../images/mcwlights_oak_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Oak Fence | ![oak_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Orange Ceiling Light
@@ -541,8 +541,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Orange Wool | ![orange_wool](../images/mcwlights_orange_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Orange Wool | ![orange_wool](../images/mcwlights_orange_paper_side.png) |
 
 ---
 ## Orange Lamp
@@ -551,8 +551,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Orange Wool | ![orange_wool](../images/mcwlights_orange_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Orange Wool | ![orange_wool](../images/mcwlights_orange_paper_side.png) |
 
 ---
 ## Orange Paper Lamp
@@ -560,8 +560,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Orange Dye | ![orange_dye](../images/mcwlights_orange_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Orange Dye | ![orange_dye](../images/mcwlights_orange_paper_side.png) |
 
 ---
 ## {}
@@ -577,8 +577,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Pink Wool | ![pink_wool](../images/mcwlights_pink_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Pink Wool | ![pink_wool](../images/mcwlights_pink_paper_side.png) |
 
 ---
 ## Pink Lamp
@@ -587,8 +587,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Pink Wool | ![pink_wool](../images/mcwlights_pink_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Pink Wool | ![pink_wool](../images/mcwlights_pink_paper_side.png) |
 
 ---
 ## Pink Paper Lamp
@@ -596,8 +596,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Pink Dye | ![pink_dye](../images/mcwlights_pink_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Pink Dye | ![pink_dye](../images/mcwlights_pink_paper_side.png) |
 
 ---
 ## Purple Ceiling Light
@@ -606,8 +606,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Purple Wool | ![purple_wool](../images/mcwlights_purple_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Purple Wool | ![purple_wool](../images/mcwlights_purple_paper_side.png) |
 
 ---
 ## Purple Lamp
@@ -616,8 +616,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Purple Wool | ![purple_wool](../images/mcwlights_purple_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Purple Wool | ![purple_wool](../images/mcwlights_purple_paper_side.png) |
 
 ---
 ## Purple Paper Lamp
@@ -625,8 +625,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Purple Dye | ![purple_dye](../images/mcwlights_purple_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Purple Dye | ![purple_dye](../images/mcwlights_purple_paper_side.png) |
 
 ---
 ## Redstone Lamp Slab
@@ -634,7 +634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
+| # | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## {}
@@ -650,8 +650,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Red Wool | ![red_wool](../images/mcwlights_red_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Red Wool | ![red_wool](../images/mcwlights_red_paper_side.png) |
 
 ---
 ## Red Lamp
@@ -660,8 +660,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Red Wool | ![red_wool](../images/mcwlights_red_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Red Wool | ![red_wool](../images/mcwlights_red_paper_side.png) |
 
 ---
 ## Red Paper Lamp
@@ -669,8 +669,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Red Dye | ![red_dye](../images/mcwlights_red_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Red Dye | ![red_dye](../images/mcwlights_red_paper_side.png) |
 
 ---
 ## Reinforced Torch
@@ -678,8 +678,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| C | Coal | ![coal](../images/mcwlights_coal.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| C | Coal | ![coal](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Rustic Torch
@@ -687,9 +687,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| C | Coal | ![coal](../images/mcwlights_coal.png) |
-| S | Stick | ![stick](../images/mcwlights_stick.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| C | Coal | ![coal](../images/mcwlights_bell_lantern.png) |
+| S | Stick | ![stick](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Sea Lantern Slab
@@ -697,7 +697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sea Lantern | ![sea_lantern](../images/mcwlights_sea_lantern.png) |
+| # | Sea Lantern | ![sea_lantern](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Shroomlight Slab
@@ -705,7 +705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Shroomlight | ![shroomlight](../images/mcwlights_shroomlight.png) |
+| # | Shroomlight | ![shroomlight](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Acacia Tiki Torch
@@ -713,8 +713,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Acacia Fence | ![acacia_fence](../images/mcwlights_acacia_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Acacia Fence | ![acacia_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Bamboo Tiki Torch
@@ -722,8 +722,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Bamboo | ![bamboo](../images/mcwlights_bamboo.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Bamboo | ![bamboo](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Birch Tiki Torch
@@ -731,8 +731,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Birch Fence | ![birch_fence](../images/mcwlights_birch_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Birch Fence | ![birch_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Classic Street Lamp
@@ -740,9 +740,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Soul Lantern | ![soul_lantern](../images/mcwlights_soul_lantern.png) |
+| L | Soul Lantern | ![soul_lantern](../images/mcwlights_bell_lantern.png) |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_stone_brick_wall.png) |
+| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Crimson Tiki Torch
@@ -750,8 +750,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Crimson Fence | ![crimson_fence](../images/mcwlights_crimson_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Crimson Fence | ![crimson_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Dark Oak Tiki Torch
@@ -759,8 +759,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Dark Oak Fence | ![dark_oak_fence](../images/mcwlights_dark_oak_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Dark Oak Fence | ![dark_oak_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Double Street Lamp
@@ -768,9 +768,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Soul Lantern | ![soul_lantern](../images/mcwlights_soul_lantern.png) |
+| L | Soul Lantern | ![soul_lantern](../images/mcwlights_bell_lantern.png) |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_stone_brick_wall.png) |
+| S | Stone Brick Wall | ![stone_brick_wall](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Jungle Tiki Torch
@@ -778,8 +778,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Jungle Fence | ![jungle_fence](../images/mcwlights_jungle_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Jungle Fence | ![jungle_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Mangrove Tiki Torch
@@ -787,8 +787,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Mangrove Fence | ![mangrove_fence](../images/mcwlights_mangrove_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Mangrove Fence | ![mangrove_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Oak Tiki Torch
@@ -796,8 +796,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Oak Fence | ![oak_fence](../images/mcwlights_oak_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Oak Fence | ![oak_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Spruce Tiki Torch
@@ -805,8 +805,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Spruce Fence | ![spruce_fence](../images/mcwlights_spruce_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Spruce Fence | ![spruce_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Soul Warped Tiki Torch
@@ -814,8 +814,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Soul Torch | ![soul_torch](../images/mcwlights_soul_torch.png) |
-| I | Warped Fence | ![warped_fence](../images/mcwlights_warped_fence.png) |
+| N | Soul Torch | ![soul_torch](../images/mcwlights_bell_lantern.png) |
+| I | Warped Fence | ![warped_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Spruce Tiki Torch
@@ -823,8 +823,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Spruce Fence | ![spruce_fence](../images/mcwlights_spruce_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Spruce Fence | ![spruce_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Square Wall Lamp
@@ -833,8 +833,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Wool | ![wool](../images/mcwlights_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Wool | ![wool](../images/mcwlights_white_wool.png) |
 
 ---
 ## Striped Lantern
@@ -842,8 +842,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Striped Wall Lantern
@@ -860,8 +860,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
 
 ---
 ## Tavern Wall Lantern
@@ -892,9 +892,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_nugget.png) |
-| C | Coal | ![coal](../images/mcwlights_coal.png) |
-| S | Stick | ![stick](../images/mcwlights_stick.png) |
+| N | Iron Nugget | ![iron_nugget](../images/mcwlights_iron_bars.png) |
+| C | Coal | ![coal](../images/mcwlights_bell_lantern.png) |
+| S | Stick | ![stick](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Wall Lamp
@@ -903,8 +903,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Wool | ![wool](../images/mcwlights_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Wool | ![wool](../images/mcwlights_white_wool.png) |
 
 ---
 ## Wall Lantern
@@ -913,7 +913,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| - | Lantern | ![lantern](../images/mcwlights_lantern.png) |
+| - | Lantern | ![lantern](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Warped Tiki Torch
@@ -921,8 +921,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Torch | ![torch](../images/mcwlights_torch.png) |
-| I | Warped Fence | ![warped_fence](../images/mcwlights_warped_fence.png) |
+| N | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
+| I | Warped Fence | ![warped_fence](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## White Ceiling Light
@@ -931,7 +931,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
 | W | White Wool | ![white_wool](../images/mcwlights_white_wool.png) |
 
 ---
@@ -941,7 +941,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
 | W | White Wool | ![white_wool](../images/mcwlights_white_wool.png) |
 
 ---
@@ -950,8 +950,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Paper | ![paper](../images/mcwlights_paper.png) |
-| T | Torch | ![torch](../images/mcwlights_torch.png) |
+| P | Paper | ![paper](../images/mcwlights_black_paper_side.png) |
+| T | Torch | ![torch](../images/mcwlights_bell_lantern.png) |
 
 ---
 ## Yellow Ceiling Light
@@ -960,8 +960,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Yellow Wool | ![yellow_wool](../images/mcwlights_yellow_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Yellow Wool | ![yellow_wool](../images/mcwlights_white_wool.png) |
 
 ---
 ## Yellow Lamp
@@ -970,8 +970,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Fences/Wooden | ![fences/wooden](../images/mcwlights_fences/wooden.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_redstone_lamp.png) |
-| W | Yellow Wool | ![yellow_wool](../images/mcwlights_yellow_wool.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/mcwlights_bell_lantern.png) |
+| W | Yellow Wool | ![yellow_wool](../images/mcwlights_white_wool.png) |
 
 ---
 ## Yellow Paper Lamp
@@ -979,7 +979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_lamp.png) |
-| - | Yellow Dye | ![yellow_dye](../images/mcwlights_yellow_dye.png) |
+| - | White Paper Lamp | ![white_paper_lamp](../images/mcwlights_white_paper_side.png) |
+| - | Yellow Dye | ![yellow_dye](../images/mcwlights_yellow_paper_side.png) |
 
 ---

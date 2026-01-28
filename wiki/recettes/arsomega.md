@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Alchemical Diamond | ![alchemical_diamond](../images/arsomega_alchemical_diamond.png) |
+| # | Alchemical Diamond | ![alchemical_diamond](../images/arsomega_alchemical_stone.png) |
 
 ---
 ## Alchemical Diamond
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Alchemical Diamond Block | ![alchemical_diamond_block](../images/arsomega_alchemical_diamond_block.png) |
+| - | Alchemical Diamond Block | ![alchemical_diamond_block](../images/arsomega_arcane_diamond_block.png) |
 
 ---
 ## Alchemical Stone
@@ -23,13 +23,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Stone | ![smooth_stone](../images/arsomega_smooth_stone.png) |
-| - | Coal Block | ![coal_block](../images/arsomega_coal_block.png) |
-| - | Source Gem Block | ![source_gem_block](../images/arsomega_source_gem_block.png) |
-| - | Gold Ingot | ![gold_ingot](../images/arsomega_gold_ingot.png) |
-| - | Ender Eye | ![ender_eye](../images/arsomega_ender_eye.png) |
-| - | Obsidian | ![obsidian](../images/arsomega_obsidian.png) |
-| - | Emerald | ![emerald](../images/arsomega_emerald.png) |
+| - | Smooth Stone | ![smooth_stone](../images/arsomega_alchemical_stone.png) |
+| - | Coal Block | ![coal_block](../images/arsomega_arcane_clay_block.png) |
+| - | Source Gem Block | ![source_gem_block](../images/arsomega_demonic_gem_block.png) |
+| - | Gold Ingot | ![gold_ingot](../images/arsomega_advanced_elemental_essence.png) |
+| - | Ender Eye | ![ender_eye](../images/arsomega_advanced_elemental_essence.png) |
+| - | Obsidian | ![obsidian](../images/arsomega_advanced_elemental_essence.png) |
+| - | Emerald | ![emerald](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -45,7 +45,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Arcane Diamond | ![arcane_diamond](../images/arsomega_arcane_diamond.png) |
-| A | Enchanted Diamond Apple | ![enchanted_diamond_apple](../images/arsomega_enchanted_diamond_apple.png) |
+| A | Enchanted Diamond Apple | ![enchanted_diamond_apple](../images/arsomega_diamond_apple.png) |
 
 ---
 ## {}
@@ -60,14 +60,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Archmage Spell Book | ![archmage_spell_book](../images/arsomega_archmage_spell_book.png) |
-| - | Elytra | ![elytra](../images/arsomega_elytra.png) |
-| - | Tier 4 Catalyst | ![tier_4_catalyst](../images/arsomega_tier_4_catalyst.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | Netherite Block | ![netherite_block](../images/arsomega_netherite_block.png) |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_blue_archwood_log.png) |
-| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_red_archwood_log.png) |
+| - | Archmage Spell Book | ![archmage_spell_book](../images/arsomega_archmage_staff.png) |
+| - | Elytra | ![elytra](../images/arsomega_advanced_elemental_essence.png) |
+| - | Tier 4 Catalyst | ![tier_4_catalyst](../images/arsomega_bramble_4.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | Netherite Block | ![netherite_block](../images/arsomega_arcane_clay_block.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Arcane Chalk
@@ -85,10 +85,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mystic Clay | ![mystic_clay](../images/arsomega_mystic_clay.png) |
+| - | Mystic Clay | ![mystic_clay](../images/arsomega_mystic_clay_block.png) |
 | - | Arcane Diamond | ![arcane_diamond](../images/arsomega_arcane_diamond.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | End Fiber | ![end_fiber](../images/arsomega_end_fiber.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | End Fiber | ![end_fiber](../images/arsomega_arcane_fiber.png) |
 | - | Arcane Fiber | ![arcane_fiber](../images/arsomega_arcane_fiber.png) |
 
 ---
@@ -120,10 +120,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
+| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
 | - | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
-| - | Book | ![book](../images/arsomega_book.png) |
-| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/arsomega_popped_chorus_fruit.png) |
+| - | Book | ![book](../images/arsomega_advanced_elemental_essence.png) |
+| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -204,10 +204,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Oak Sapling | ![oak_sapling](../images/arsomega_oak_sapling.png) |
-| q | Quartz | ![quartz](../images/arsomega_quartz.png) |
-| e | Ender Eye | ![ender_eye](../images/arsomega_ender_eye.png) |
-| g | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
+| s | Oak Sapling | ![oak_sapling](../images/arsomega_advanced_elemental_essence.png) |
+| q | Quartz | ![quartz](../images/arsomega_advanced_elemental_essence.png) |
+| e | Ender Eye | ![ender_eye](../images/arsomega_advanced_elemental_essence.png) |
+| g | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
 
 ---
 ## Chalk
@@ -215,8 +215,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manipulation Essence | ![manipulation_essence](../images/arsomega_manipulation_essence.png) |
-| - | Bone Meal | ![bone_meal](../images/arsomega_bone_meal.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Bone Meal | ![bone_meal](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -255,7 +255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glowstone Dust | ![glowstone_dust](../images/arsomega_glowstone_dust.png) |
+| # | Glowstone Dust | ![glowstone_dust](../images/arsomega_demonic_glowstone_dust.png) |
 | G | Demonic Gem | ![demonic_gem](../images/arsomega_demonic_gem.png) |
 
 ---
@@ -279,10 +279,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Purpur Block | ![purpur_block](../images/arsomega_purpur_block.png) |
-| q | Quartz Block | ![quartz_block](../images/arsomega_quartz_block.png) |
-| e | End Crystal | ![end_crystal](../images/arsomega_end_crystal.png) |
-| g | Source Gem Block | ![source_gem_block](../images/arsomega_source_gem_block.png) |
+| s | Purpur Block | ![purpur_block](../images/arsomega_arcane_clay_block.png) |
+| q | Quartz Block | ![quartz_block](../images/arsomega_arcane_clay_block.png) |
+| e | End Crystal | ![end_crystal](../images/arsomega_biome_crystal.png) |
+| g | Source Gem Block | ![source_gem_block](../images/arsomega_demonic_gem_block.png) |
 
 ---
 ## {}
@@ -311,8 +311,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/arsomega_dyes.png) |
-| - | Arcane Book | ![arcane_book](../images/arsomega_arcane_book.png) |
+| - | Dyes | ![dyes](../images/arsomega_advanced_elemental_essence.png) |
+| - | Arcane Book | ![arcane_book](../images/arsomega_arcane_apple.png) |
 
 ---
 ## {}
@@ -334,8 +334,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
-| A | Enchanted Golden Apple | ![enchanted_golden_apple](../images/arsomega_enchanted_golden_apple.png) |
+| # | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
+| A | Enchanted Golden Apple | ![enchanted_golden_apple](../images/arsomega_arcane_apple.png) |
 
 ---
 ## Enchanted Diamond Block
@@ -343,7 +343,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
+| # | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
 
 ---
 ## Enchanted Diamond
@@ -366,8 +366,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| g | Golden Apple | ![golden_apple](../images/arsomega_golden_apple.png) |
+| s | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| g | Golden Apple | ![golden_apple](../images/arsomega_arcane_apple.png) |
 | r | Magic Rope | ![magic_rope](../images/arsomega_magic_rope.png) |
 
 ---
@@ -393,7 +393,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Enchanters Glass | ![enchanters_glass](../images/arsomega_enchanters_glass.png) |
-| - | Ender Eye | ![ender_eye](../images/arsomega_ender_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Enchanters Glass Curved
@@ -411,7 +411,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Infused Glass | ![infused_glass](../images/arsomega_infused_glass.png) |
-| - | Ender Eye | ![ender_eye](../images/arsomega_ender_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -902,7 +902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/arsomega_stone.png) |
+| # | Stone | ![stone](../images/arsomega_alchemical_stone.png) |
 | G | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
 
 ---
@@ -971,7 +971,7 @@
 | :--- | :--- | :--- |
 | - | Chalk | ![chalk](../images/arsomega_chalk.png) |
 | - | Magic Clay | ![magic_clay](../images/arsomega_magic_clay.png) |
-| - | Magebloom Fiber | ![magebloom_fiber](../images/arsomega_magebloom_fiber.png) |
+| - | Magebloom Fiber | ![magebloom_fiber](../images/arsomega_arcane_fiber.png) |
 
 ---
 ## Magic Clay
@@ -979,10 +979,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| - | Clay Ball | ![clay_ball](../images/arsomega_clay_ball.png) |
-| - | Redstone | ![redstone](../images/arsomega_redstone.png) |
-| - | Redstone | ![redstone](../images/arsomega_redstone.png) |
+| - | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| - | Clay Ball | ![clay_ball](../images/arsomega_arcane_clay.png) |
+| - | Redstone | ![redstone](../images/arsomega_advanced_elemental_essence.png) |
+| - | Redstone | ![redstone](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Magic Clay Block
@@ -1006,7 +1006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | End Fiber | ![end_fiber](../images/arsomega_end_fiber.png) |
+| f | End Fiber | ![end_fiber](../images/arsomega_arcane_fiber.png) |
 | r | Rope | ![rope](../images/arsomega_rope.png) |
 
 ---
@@ -1017,7 +1017,7 @@
 | :--- | :--- | :--- |
 | - | Chalk | ![chalk](../images/arsomega_chalk.png) |
 | - | Marvelous Clay | ![marvelous_clay](../images/arsomega_marvelous_clay.png) |
-| - | Blaze Fiber | ![blaze_fiber](../images/arsomega_blaze_fiber.png) |
+| - | Blaze Fiber | ![blaze_fiber](../images/arsomega_arcane_fiber.png) |
 
 ---
 ## Marvelous Clay
@@ -1028,8 +1028,8 @@
 | - | Magic Clay | ![magic_clay](../images/arsomega_magic_clay.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/arsomega_ingots/gold.png) |
 | - | Gems/Source | ![gems/source](../images/arsomega_gems/source.png) |
-| - | Lapis Lazuli | ![lapis_lazuli](../images/arsomega_lapis_lazuli.png) |
-| - | Lapis Lazuli | ![lapis_lazuli](../images/arsomega_lapis_lazuli.png) |
+| - | Lapis Lazuli | ![lapis_lazuli](../images/arsomega_advanced_elemental_essence.png) |
+| - | Lapis Lazuli | ![lapis_lazuli](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Marvelous Clay Block
@@ -1054,8 +1054,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chalk | ![chalk](../images/arsomega_chalk.png) |
-| - | Mystic Clay | ![mystic_clay](../images/arsomega_mystic_clay.png) |
-| - | End Fiber | ![end_fiber](../images/arsomega_end_fiber.png) |
+| - | Mystic Clay | ![mystic_clay](../images/arsomega_mystic_clay_block.png) |
+| - | End Fiber | ![end_fiber](../images/arsomega_arcane_fiber.png) |
 
 ---
 ## Mystic Clay
@@ -1064,10 +1064,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Marvelous Clay | ![marvelous_clay](../images/arsomega_marvelous_clay.png) |
-| - | Diamond | ![diamond](../images/arsomega_diamond.png) |
-| - | Diamond | ![diamond](../images/arsomega_diamond.png) |
-| - | Blaze Powder | ![blaze_powder](../images/arsomega_blaze_powder.png) |
-| - | Blaze Powder | ![blaze_powder](../images/arsomega_blaze_powder.png) |
+| - | Diamond | ![diamond](../images/arsomega_arcane_diamond.png) |
+| - | Diamond | ![diamond](../images/arsomega_arcane_diamond.png) |
+| - | Blaze Powder | ![blaze_powder](../images/arsomega_advanced_elemental_essence.png) |
+| - | Blaze Powder | ![blaze_powder](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Mystic Clay Block
@@ -1075,7 +1075,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mystic Clay | ![mystic_clay](../images/arsomega_mystic_clay.png) |
+| # | Mystic Clay | ![mystic_clay](../images/arsomega_mystic_clay_block.png) |
 
 ---
 ## Mystic Clay
@@ -1106,8 +1106,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/arsomega_ingots/gold.png) |
-| M | Potion Jar | ![potion_jar](../images/arsomega_potion_jar.png) |
-| h | Hopper | ![hopper](../images/arsomega_hopper.png) |
+| M | Potion Jar | ![potion_jar](../images/arsomega_potion_amplifier.png) |
+| h | Hopper | ![hopper](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -1185,7 +1185,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/arsomega_green_archwood_log.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
 | - | Arcane Bloom | ![arcane_bloom](../images/arsomega_arcane_bloom.png) |
 | - | Arcane Bloom | ![arcane_bloom](../images/arsomega_arcane_bloom.png) |
 | - | Arcane Bloom | ![arcane_bloom](../images/arsomega_arcane_bloom.png) |
@@ -1198,14 +1198,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_purple_archwood_log.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | Obsidian | ![obsidian](../images/arsomega_obsidian.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | Obsidian | ![obsidian](../images/arsomega_advanced_elemental_essence.png) |
 | - | Infused Diamond Block | ![infused_diamond_block](../images/arsomega_infused_diamond_block.png) |
-| - | Prismarine Crystals | ![prismarine_crystals](../images/arsomega_prismarine_crystals.png) |
-| - | Netherite Ingot | ![netherite_ingot](../images/arsomega_netherite_ingot.png) |
+| - | Prismarine Crystals | ![prismarine_crystals](../images/arsomega_advanced_elemental_essence.png) |
+| - | Netherite Ingot | ![netherite_ingot](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Banishment
@@ -1213,15 +1213,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_red_archwood_log.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
 | - | Searing Flesh | ![searing_flesh](../images/arsomega_searing_flesh.png) |
 | - | Searing Flesh | ![searing_flesh](../images/arsomega_searing_flesh.png) |
 | - | Searing Flesh | ![searing_flesh](../images/arsomega_searing_flesh.png) |
-| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
-| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
-| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
-| - | Abjuration Essence | ![abjuration_essence](../images/arsomega_abjuration_essence.png) |
-| - | Glyph Blink | ![glyph_blink](../images/arsomega_glyph_blink.png) |
+| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
+| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
+| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
+| - | Abjuration Essence | ![abjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Glyph Blink | ![glyph_blink](../images/arsomega_glyph_absorption.png) |
 
 ---
 ## Ritual Change Biome
@@ -1229,12 +1229,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/arsomega_green_archwood_log.png) |
-| - | Diamond | ![diamond](../images/arsomega_diamond.png) |
-| - | Source Berry | ![source_berry](../images/arsomega_source_berry.png) |
-| - | Water Bucket | ![water_bucket](../images/arsomega_water_bucket.png) |
-| - | Ice | ![ice](../images/arsomega_ice.png) |
-| - | Grass Block | ![grass_block](../images/arsomega_grass_block.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Diamond | ![diamond](../images/arsomega_arcane_diamond.png) |
+| - | Source Berry | ![source_berry](../images/arsomega_advanced_elemental_essence.png) |
+| - | Water Bucket | ![water_bucket](../images/arsomega_water.png) |
+| - | Ice | ![ice](../images/arsomega_advanced_elemental_essence.png) |
+| - | Grass Block | ![grass_block](../images/arsomega_arcane_clay_block.png) |
 
 ---
 ## Ritual Cleansing
@@ -1242,10 +1242,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_red_archwood_log.png) |
-| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_tier_4_ingredient.png) |
-| - | Milk Bucket | ![milk_bucket](../images/arsomega_milk_bucket.png) |
-| - | Sponge | ![sponge](../images/arsomega_sponge.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Tier 4 Ingredient | ![tier_4_ingredient](../images/arsomega_bramble_4.png) |
+| - | Milk Bucket | ![milk_bucket](../images/arsomega_advanced_elemental_essence.png) |
+| - | Sponge | ![sponge](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Conjure Foliage
@@ -1253,10 +1253,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/arsomega_green_archwood_log.png) |
-| - | Saplings | ![saplings](../images/arsomega_saplings.png) |
-| - | Mendosteen Pod | ![mendosteen_pod](../images/arsomega_mendosteen_pod.png) |
-| - | Earth Essence | ![earth_essence](../images/arsomega_earth_essence.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Saplings | ![saplings](../images/arsomega_advanced_elemental_essence.png) |
+| - | Mendosteen Pod | ![mendosteen_pod](../images/arsomega_advanced_elemental_essence.png) |
+| - | Earth Essence | ![earth_essence](../images/arsomega_advanced_elemental_essence.png) |
 | - | Nature Essence | ![nature_essence](../images/arsomega_nature_essence.png) |
 
 ---
@@ -1265,15 +1265,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_blue_archwood_log.png) |
-| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_conjuration_essence.png) |
-| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_conjuration_essence.png) |
-| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_conjuration_essence.png) |
-| - | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| - | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| - | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| - | Gold Block | ![gold_block](../images/arsomega_gold_block.png) |
-| - | Milk Bucket | ![milk_bucket](../images/arsomega_milk_bucket.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| - | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| - | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| - | Gold Block | ![gold_block](../images/arsomega_arcane_clay_block.png) |
+| - | Milk Bucket | ![milk_bucket](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Demonic Summoning
@@ -1281,15 +1281,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_red_archwood_log.png) |
-| - | Shulker Shell | ![shulker_shell](../images/arsomega_shulker_shell.png) |
-| - | Magma Block | ![magma_block](../images/arsomega_magma_block.png) |
-| - | Magma Block | ![magma_block](../images/arsomega_magma_block.png) |
-| - | Magma Block | ![magma_block](../images/arsomega_magma_block.png) |
-| - | Gold Block | ![gold_block](../images/arsomega_gold_block.png) |
-| - | Gold Block | ![gold_block](../images/arsomega_gold_block.png) |
-| - | Source Gem Block | ![source_gem_block](../images/arsomega_source_gem_block.png) |
-| - | Source Gem Block | ![source_gem_block](../images/arsomega_source_gem_block.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Shulker Shell | ![shulker_shell](../images/arsomega_advanced_elemental_essence.png) |
+| - | Magma Block | ![magma_block](../images/arsomega_arcane_clay_block.png) |
+| - | Magma Block | ![magma_block](../images/arsomega_arcane_clay_block.png) |
+| - | Magma Block | ![magma_block](../images/arsomega_arcane_clay_block.png) |
+| - | Gold Block | ![gold_block](../images/arsomega_arcane_clay_block.png) |
+| - | Gold Block | ![gold_block](../images/arsomega_arcane_clay_block.png) |
+| - | Source Gem Block | ![source_gem_block](../images/arsomega_demonic_gem_block.png) |
+| - | Source Gem Block | ![source_gem_block](../images/arsomega_demonic_gem_block.png) |
 
 ---
 ## Ritual Dispel
@@ -1297,10 +1297,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_purple_archwood_log.png) |
-| - | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| - | Milk Bucket | ![milk_bucket](../images/arsomega_milk_bucket.png) |
-| - | Abjuration Essence | ![abjuration_essence](../images/arsomega_abjuration_essence.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| - | Milk Bucket | ![milk_bucket](../images/arsomega_advanced_elemental_essence.png) |
+| - | Abjuration Essence | ![abjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Fatigue
@@ -1308,12 +1308,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_blue_archwood_log.png) |
-| - | Sea Lantern | ![sea_lantern](../images/arsomega_sea_lantern.png) |
-| - | Fermented Spider Eye | ![fermented_spider_eye](../images/arsomega_fermented_spider_eye.png) |
-| - | Leather | ![leather](../images/arsomega_leather.png) |
-| - | Obsidian | ![obsidian](../images/arsomega_obsidian.png) |
-| - | Leather | ![leather](../images/arsomega_leather.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Sea Lantern | ![sea_lantern](../images/arsomega_advanced_elemental_essence.png) |
+| - | Fermented Spider Eye | ![fermented_spider_eye](../images/arsomega_advanced_elemental_essence.png) |
+| - | Leather | ![leather](../images/arsomega_advanced_elemental_essence.png) |
+| - | Obsidian | ![obsidian](../images/arsomega_advanced_elemental_essence.png) |
+| - | Leather | ![leather](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Flowing Time
@@ -1321,15 +1321,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_red_archwood_log.png) |
-| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond.png) |
-| - | Clock | ![clock](../images/arsomega_clock.png) |
-| - | Clock | ![clock](../images/arsomega_clock.png) |
-| - | Clock | ![clock](../images/arsomega_clock.png) |
-| - | Redstone Block | ![redstone_block](../images/arsomega_redstone_block.png) |
-| - | Redstone Block | ![redstone_block](../images/arsomega_redstone_block.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Enchanted Diamond | ![enchanted_diamond](../images/arsomega_enchanted_diamond_block.png) |
+| - | Clock | ![clock](../images/arsomega_advanced_elemental_essence.png) |
+| - | Clock | ![clock](../images/arsomega_advanced_elemental_essence.png) |
+| - | Clock | ![clock](../images/arsomega_advanced_elemental_essence.png) |
+| - | Redstone Block | ![redstone_block](../images/arsomega_arcane_clay_block.png) |
+| - | Redstone Block | ![redstone_block](../images/arsomega_arcane_clay_block.png) |
 | - | Magic Clay Block | ![magic_clay_block](../images/arsomega_magic_clay_block.png) |
-| - | Source Berry | ![source_berry](../images/arsomega_source_berry.png) |
+| - | Source Berry | ![source_berry](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Open Portal
@@ -1337,12 +1337,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_purple_archwood_log.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
 | - | Arcane Diamond | ![arcane_diamond](../images/arsomega_arcane_diamond.png) |
-| - | Shulker Shell | ![shulker_shell](../images/arsomega_shulker_shell.png) |
-| - | Ender Eye | ![ender_eye](../images/arsomega_ender_eye.png) |
-| - | Ender Eye | ![ender_eye](../images/arsomega_ender_eye.png) |
-| - | Warp Scroll | ![warp_scroll](../images/arsomega_warp_scroll.png) |
+| - | Shulker Shell | ![shulker_shell](../images/arsomega_advanced_elemental_essence.png) |
+| - | Ender Eye | ![ender_eye](../images/arsomega_advanced_elemental_essence.png) |
+| - | Ender Eye | ![ender_eye](../images/arsomega_advanced_elemental_essence.png) |
+| - | Warp Scroll | ![warp_scroll](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Petrification
@@ -1350,11 +1350,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_purple_archwood_log.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
 | - | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
-| - | Stone | ![stone](../images/arsomega_stone.png) |
-| - | Obsidian | ![obsidian](../images/arsomega_obsidian.png) |
-| - | Glyph Snare | ![glyph_snare](../images/arsomega_glyph_snare.png) |
+| - | Stone | ![stone](../images/arsomega_alchemical_stone.png) |
+| - | Obsidian | ![obsidian](../images/arsomega_advanced_elemental_essence.png) |
+| - | Glyph Snare | ![glyph_snare](../images/arsomega_glyph_absorption.png) |
 | - | Glyph Advanced Amplify | ![glyph_advanced_amplify](../images/arsomega_glyph_advanced_amplify.png) |
 
 ---
@@ -1363,12 +1363,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_blue_archwood_log.png) |
-| - | Iron Block | ![iron_block](../images/arsomega_iron_block.png) |
-| - | Leather | ![leather](../images/arsomega_leather.png) |
-| - | Obsidian | ![obsidian](../images/arsomega_obsidian.png) |
-| - | Source Gem Block | ![source_gem_block](../images/arsomega_source_gem_block.png) |
-| - | Shield | ![shield](../images/arsomega_shield.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Iron Block | ![iron_block](../images/arsomega_arcane_clay_block.png) |
+| - | Leather | ![leather](../images/arsomega_advanced_elemental_essence.png) |
+| - | Obsidian | ![obsidian](../images/arsomega_advanced_elemental_essence.png) |
+| - | Source Gem Block | ![source_gem_block](../images/arsomega_demonic_gem_block.png) |
+| - | Shield | ![shield](../images/arsomega_glyph_shield_cursed.png) |
 
 ---
 ## Ritual Shaping
@@ -1376,10 +1376,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_blue_archwood_log.png) |
-| - | Manipulation Essence | ![manipulation_essence](../images/arsomega_manipulation_essence.png) |
-| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_conjuration_essence.png) |
-| - | Crafting Table | ![crafting_table](../images/arsomega_crafting_table.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Crafting Table | ![crafting_table](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Summoning
@@ -1387,10 +1387,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_purple_archwood_log.png) |
-| - | Source Gem | ![source_gem](../images/arsomega_source_gem.png) |
-| - | Rotten Flesh | ![rotten_flesh](../images/arsomega_rotten_flesh.png) |
-| - | Wheat | ![wheat](../images/arsomega_wheat.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
+| - | Source Gem | ![source_gem](../images/arsomega_cleansing_gem.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/arsomega_flesh_block.png) |
+| - | Wheat | ![wheat](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Ritual Summon Gorgon
@@ -1398,11 +1398,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_purple_archwood_log.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/arsomega_advanced_elemental_essence.png) |
 | - | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
 | - | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
 | - | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
-| - | Lapis Block | ![lapis_block](../images/arsomega_lapis_block.png) |
+| - | Lapis Block | ![lapis_block](../images/arsomega_arcane_clay_block.png) |
 
 ---
 ## Ritual Tribute
@@ -1410,12 +1410,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wilden Tribute | ![wilden_tribute](../images/arsomega_wilden_tribute.png) |
-| - | Wilden Tribute | ![wilden_tribute](../images/arsomega_wilden_tribute.png) |
+| - | Wilden Tribute | ![wilden_tribute](../images/arsomega_ritual_tribute.png) |
+| - | Wilden Tribute | ![wilden_tribute](../images/arsomega_ritual_tribute.png) |
 | - | Storage Blocks/Diamond | ![storage_blocks/diamond](../images/arsomega_storage_blocks/diamond.png) |
-| - | Source Gem Block | ![source_gem_block](../images/arsomega_source_gem_block.png) |
+| - | Source Gem Block | ![source_gem_block](../images/arsomega_demonic_gem_block.png) |
 | - | Storage Blocks/Gold | ![storage_blocks/gold](../images/arsomega_storage_blocks/gold.png) |
-| - | Glyph Pickup | ![glyph_pickup](../images/arsomega_glyph_pickup.png) |
+| - | Glyph Pickup | ![glyph_pickup](../images/arsomega_glyph_absorption.png) |
 
 ---
 ## Rope
@@ -1423,8 +1423,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | String | ![string](../images/arsomega_string.png) |
-| w | White Wool | ![white_wool](../images/arsomega_white_wool.png) |
+| s | String | ![string](../images/arsomega_advanced_elemental_essence.png) |
+| w | White Wool | ![white_wool](../images/arsomega_enchanters_wool.png) |
 
 ---
 ## {}
@@ -1439,8 +1439,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Air | ![sigil_air](../images/arsomega_sigil_air.png) |
-| - | Air Essence | ![air_essence](../images/arsomega_air_essence.png) |
+| - | Sigil Air | ![sigil_air](../images/arsomega_air.png) |
+| - | Air Essence | ![air_essence](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -1455,7 +1455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Alchemy | ![sigil_alchemy](../images/arsomega_sigil_alchemy.png) |
+| - | Sigil Alchemy | ![sigil_alchemy](../images/arsomega_alchemy.png) |
 | - | Alchemy Essence | ![alchemy_essence](../images/arsomega_alchemy_essence.png) |
 
 ---
@@ -1471,7 +1471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Binding | ![sigil_binding](../images/arsomega_sigil_binding.png) |
+| - | Sigil Binding | ![sigil_binding](../images/arsomega_binding.png) |
 | - | Demonic Essence | ![demonic_essence](../images/arsomega_demonic_essence.png) |
 
 ---
@@ -1487,9 +1487,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Construction | ![sigil_construction](../images/arsomega_sigil_construction.png) |
-| - | Manipulation Essence | ![manipulation_essence](../images/arsomega_manipulation_essence.png) |
-| - | Bricks | ![bricks](../images/arsomega_bricks.png) |
+| - | Sigil Construction | ![sigil_construction](../images/arsomega_construction.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Bricks | ![bricks](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -1504,8 +1504,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Earth | ![sigil_earth](../images/arsomega_sigil_earth.png) |
-| - | Earth Essence | ![earth_essence](../images/arsomega_earth_essence.png) |
+| - | Sigil Earth | ![sigil_earth](../images/arsomega_cursed_earth.png) |
+| - | Earth Essence | ![earth_essence](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -1520,8 +1520,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Fire | ![sigil_fire](../images/arsomega_sigil_fire.png) |
-| - | Fire Essence | ![fire_essence](../images/arsomega_fire_essence.png) |
+| - | Sigil Fire | ![sigil_fire](../images/arsomega_fire.png) |
+| - | Fire Essence | ![fire_essence](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -1536,9 +1536,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Knowledge | ![sigil_knowledge](../images/arsomega_sigil_knowledge.png) |
-| - | Abjuration Essence | ![abjuration_essence](../images/arsomega_abjuration_essence.png) |
-| - | Experience Bottle | ![experience_bottle](../images/arsomega_experience_bottle.png) |
+| - | Sigil Knowledge | ![sigil_knowledge](../images/arsomega_knowledge.png) |
+| - | Abjuration Essence | ![abjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
+| - | Experience Bottle | ![experience_bottle](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## {}
@@ -1553,7 +1553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Life | ![sigil_life](../images/arsomega_sigil_life.png) |
+| - | Sigil Life | ![sigil_life](../images/arsomega_focus_of_life.png) |
 | - | Life Essence | ![life_essence](../images/arsomega_life_essence.png) |
 
 ---
@@ -1569,7 +1569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Nature | ![sigil_nature](../images/arsomega_sigil_nature.png) |
+| - | Sigil Nature | ![sigil_nature](../images/arsomega_nature.png) |
 | - | Nature Essence | ![nature_essence](../images/arsomega_nature_essence.png) |
 
 ---
@@ -1585,8 +1585,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Power | ![sigil_power](../images/arsomega_sigil_power.png) |
-| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_conjuration_essence.png) |
+| - | Sigil Power | ![sigil_power](../images/arsomega_power.png) |
+| - | Conjuration Essence | ![conjuration_essence](../images/arsomega_advanced_elemental_essence.png) |
 | - | Arcane Fiber | ![arcane_fiber](../images/arsomega_arcane_fiber.png) |
 
 ---
@@ -1602,8 +1602,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Water | ![sigil_water](../images/arsomega_sigil_water.png) |
-| - | Water Essence | ![water_essence](../images/arsomega_water_essence.png) |
+| - | Sigil Water | ![sigil_water](../images/arsomega_water.png) |
+| - | Water Essence | ![water_essence](../images/arsomega_advanced_elemental_essence.png) |
 
 ---
 ## Spell Sigil Dispel
@@ -1611,10 +1611,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Alchemy Active | ![sigil_alchemy_active](../images/arsomega_sigil_alchemy_active.png) |
-| - | Sigil Alchemy Active | ![sigil_alchemy_active](../images/arsomega_sigil_alchemy_active.png) |
-| - | Milk Bucket | ![milk_bucket](../images/arsomega_milk_bucket.png) |
-| - | Sigil Knowledge Active | ![sigil_knowledge_active](../images/arsomega_sigil_knowledge_active.png) |
+| - | Sigil Alchemy Active | ![sigil_alchemy_active](../images/arsomega_alchemy_active.png) |
+| - | Sigil Alchemy Active | ![sigil_alchemy_active](../images/arsomega_alchemy_active.png) |
+| - | Milk Bucket | ![milk_bucket](../images/arsomega_advanced_elemental_essence.png) |
+| - | Sigil Knowledge Active | ![sigil_knowledge_active](../images/arsomega_knowledge_active.png) |
 
 ---
 ## Spell Sigil Heal
@@ -1622,10 +1622,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Life Active | ![sigil_life_active](../images/arsomega_sigil_life_active.png) |
-| - | Sigil Life Active | ![sigil_life_active](../images/arsomega_sigil_life_active.png) |
-| - | Glistering Melon Slice | ![glistering_melon_slice](../images/arsomega_glistering_melon_slice.png) |
-| - | Sigil Knowledge Active | ![sigil_knowledge_active](../images/arsomega_sigil_knowledge_active.png) |
+| - | Sigil Life Active | ![sigil_life_active](../images/arsomega_life_active.png) |
+| - | Sigil Life Active | ![sigil_life_active](../images/arsomega_life_active.png) |
+| - | Glistering Melon Slice | ![glistering_melon_slice](../images/arsomega_advanced_elemental_essence.png) |
+| - | Sigil Knowledge Active | ![sigil_knowledge_active](../images/arsomega_knowledge_active.png) |
 
 ---
 ## Spell Sigil Petrify
@@ -1633,10 +1633,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Earth Active | ![sigil_earth_active](../images/arsomega_sigil_earth_active.png) |
-| - | Sigil Earth Active | ![sigil_earth_active](../images/arsomega_sigil_earth_active.png) |
+| - | Sigil Earth Active | ![sigil_earth_active](../images/arsomega_earth_active.png) |
+| - | Sigil Earth Active | ![sigil_earth_active](../images/arsomega_earth_active.png) |
 | - | Gorgon Gem | ![gorgon_gem](../images/arsomega_gorgon_gem.png) |
-| - | Sigil Binding Active | ![sigil_binding_active](../images/arsomega_sigil_binding_active.png) |
+| - | Sigil Binding Active | ![sigil_binding_active](../images/arsomega_binding_active.png) |
 
 ---
 ## Spell Sigil Scald
@@ -1644,8 +1644,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Water Active | ![sigil_water_active](../images/arsomega_sigil_water_active.png) |
-| - | Sigil Fire Active | ![sigil_fire_active](../images/arsomega_sigil_fire_active.png) |
+| - | Sigil Water Active | ![sigil_water_active](../images/arsomega_water_active.png) |
+| - | Sigil Fire Active | ![sigil_fire_active](../images/arsomega_fire_active.png) |
 
 ---
 ## Spell Sigil Smite
@@ -1653,10 +1653,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sigil Fire Active | ![sigil_fire_active](../images/arsomega_sigil_fire_active.png) |
-| - | Sigil Fire Active | ![sigil_fire_active](../images/arsomega_sigil_fire_active.png) |
+| - | Sigil Fire Active | ![sigil_fire_active](../images/arsomega_fire_active.png) |
+| - | Sigil Fire Active | ![sigil_fire_active](../images/arsomega_fire_active.png) |
 | - | Salt | ![salt](../images/arsomega_salt.png) |
-| - | Sigil Air Active | ![sigil_air_active](../images/arsomega_sigil_air_active.png) |
+| - | Sigil Air Active | ![sigil_air_active](../images/arsomega_air_active.png) |
 
 ---
 ## {}
@@ -1855,7 +1855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skeleton Skull | ![skeleton_skull](../images/arsomega_skeleton_skull.png) |
-| - | Wither Rose | ![wither_rose](../images/arsomega_wither_rose.png) |
+| - | Skeleton Skull | ![skeleton_skull](../images/arsomega_advanced_elemental_essence.png) |
+| - | Wither Rose | ![wither_rose](../images/arsomega_glyph_wither_summon.png) |
 
 ---

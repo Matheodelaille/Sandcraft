@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Blinds
@@ -16,7 +16,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Chair
@@ -34,8 +34,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Coffee Table
@@ -43,8 +43,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Crate
@@ -52,8 +52,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Desk
@@ -61,8 +61,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Desk Cabinet
@@ -70,8 +70,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Hedge
@@ -79,7 +79,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Leaves | ![acacia_leaves](../images/cfm_acacia_leaves.png) |
+| L | Acacia Leaves | ![acacia_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Kitchen Counter
@@ -87,8 +87,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Kitchen Drawer
@@ -97,8 +97,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Kitchen Sink Dark
@@ -106,10 +106,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Kitchen Sink Light
@@ -117,10 +117,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Mail Box
@@ -129,7 +129,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Acacia Upgraded Fence | ![acacia_upgraded_fence](../images/cfm_acacia_upgraded_fence.png) |
+| F | Acacia Upgraded Fence | ![acacia_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Park Bench
@@ -137,8 +137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Table
@@ -146,8 +146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Acacia Planks | ![acacia_planks](../images/cfm_acacia_planks.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Planks | ![acacia_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Acacia Upgraded Fence
@@ -155,7 +155,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -165,7 +165,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Azalea Hedge
@@ -173,7 +173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Azalea Leaves | ![azalea_leaves](../images/cfm_azalea_leaves.png) |
+| L | Azalea Leaves | ![azalea_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Bedside Cabinet
@@ -181,8 +181,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Blinds
@@ -190,7 +190,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -199,8 +199,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Chair
@@ -208,8 +208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Coffee Table
@@ -217,8 +217,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Crate
@@ -226,8 +226,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Desk
@@ -235,8 +235,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Desk Cabinet
@@ -244,8 +244,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Hedge
@@ -253,7 +253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Leaves | ![birch_leaves](../images/cfm_birch_leaves.png) |
+| L | Birch Leaves | ![birch_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Kitchen Counter
@@ -261,8 +261,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Kitchen Drawer
@@ -271,8 +271,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Kitchen Sink Dark
@@ -280,10 +280,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Kitchen Sink Light
@@ -291,10 +291,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Mail Box
@@ -303,7 +303,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Birch Upgraded Fence | ![birch_upgraded_fence](../images/cfm_birch_upgraded_fence.png) |
+| F | Birch Upgraded Fence | ![birch_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Park Bench
@@ -311,8 +311,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Table
@@ -320,8 +320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Birch Planks | ![birch_planks](../images/cfm_birch_planks.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Birch Planks | ![birch_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Birch Upgraded Fence
@@ -329,7 +329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -339,7 +339,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Black Cooler
@@ -348,8 +348,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Black Terracotta | ![black_terracotta](../images/cfm_black_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Black Terracotta | ![black_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Black Grill
@@ -357,9 +357,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Black Terracotta | ![black_terracotta](../images/cfm_black_terracotta.png) |
+| T | Black Terracotta | ![black_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Black Kitchen Counter
@@ -367,9 +367,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Black | ![dyes/black](../images/cfm_dyes/black.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Black Kitchen Drawer
@@ -378,9 +378,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Black | ![dyes/black](../images/cfm_dyes/black.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Black Kitchen Sink
@@ -388,10 +388,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Black Terracotta | ![black_terracotta](../images/cfm_black_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Black Terracotta | ![black_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Black Picket Fence
@@ -399,7 +399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Black Concrete | ![black_concrete](../images/cfm_black_concrete.png) |
+| C | Black Concrete | ![black_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -408,7 +408,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Black Concrete | ![black_concrete](../images/cfm_black_concrete.png) |
+| C | Black Concrete | ![black_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -417,8 +417,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Black Wool | ![black_wool](../images/cfm_black_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Black Wool | ![black_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -427,8 +427,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Black Wool | ![black_wool](../images/cfm_black_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Black Wool | ![black_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Blue Cooler
@@ -437,8 +437,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/cfm_blue_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Grill
@@ -446,9 +446,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/cfm_blue_terracotta.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Kitchen Counter
@@ -456,9 +456,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Blue | ![dyes/blue](../images/cfm_dyes/blue.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Kitchen Drawer
@@ -467,9 +467,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Blue | ![dyes/blue](../images/cfm_dyes/blue.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Kitchen Sink
@@ -477,10 +477,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Blue Terracotta | ![blue_terracotta](../images/cfm_blue_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Blue Terracotta | ![blue_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Picket Fence
@@ -488,7 +488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Blue Concrete | ![blue_concrete](../images/cfm_blue_concrete.png) |
+| C | Blue Concrete | ![blue_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -497,7 +497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Blue Concrete | ![blue_concrete](../images/cfm_blue_concrete.png) |
+| C | Blue Concrete | ![blue_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -506,8 +506,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Blue Wool | ![blue_wool](../images/cfm_blue_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Blue Wool | ![blue_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -516,8 +516,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Blue Wool | ![blue_wool](../images/cfm_blue_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Blue Wool | ![blue_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Brown Cooler
@@ -526,8 +526,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Brown Terracotta | ![brown_terracotta](../images/cfm_brown_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Brown Terracotta | ![brown_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Grill
@@ -535,9 +535,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Brown Terracotta | ![brown_terracotta](../images/cfm_brown_terracotta.png) |
+| T | Brown Terracotta | ![brown_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Kitchen Counter
@@ -545,9 +545,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Brown | ![dyes/brown](../images/cfm_dyes/brown.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Kitchen Drawer
@@ -556,9 +556,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Brown | ![dyes/brown](../images/cfm_dyes/brown.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Kitchen Sink
@@ -566,10 +566,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Brown Terracotta | ![brown_terracotta](../images/cfm_brown_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Brown Terracotta | ![brown_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Picket Fence
@@ -577,7 +577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Brown Concrete | ![brown_concrete](../images/cfm_brown_concrete.png) |
+| C | Brown Concrete | ![brown_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -586,7 +586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Brown Concrete | ![brown_concrete](../images/cfm_brown_concrete.png) |
+| C | Brown Concrete | ![brown_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -595,8 +595,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Brown Wool | ![brown_wool](../images/cfm_brown_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Brown Wool | ![brown_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -605,8 +605,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Brown Wool | ![brown_wool](../images/cfm_brown_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Brown Wool | ![brown_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Crimson Bedside Cabinet
@@ -614,8 +614,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Blinds
@@ -623,7 +623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -632,8 +632,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Chair
@@ -641,8 +641,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Coffee Table
@@ -650,8 +650,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Crate
@@ -659,8 +659,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Desk
@@ -668,8 +668,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Desk Cabinet
@@ -677,8 +677,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Kitchen Counter
@@ -686,8 +686,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Kitchen Drawer
@@ -696,8 +696,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Kitchen Sink Dark
@@ -705,10 +705,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Kitchen Sink Light
@@ -716,10 +716,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Mail Box
@@ -728,7 +728,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Crimson Upgraded Fence | ![crimson_upgraded_fence](../images/cfm_crimson_upgraded_fence.png) |
+| F | Crimson Upgraded Fence | ![crimson_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Park Bench
@@ -736,8 +736,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Table
@@ -745,8 +745,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Crimson Planks | ![crimson_planks](../images/cfm_crimson_planks.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Planks | ![crimson_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Crimson Upgraded Fence
@@ -754,7 +754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -764,7 +764,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Cooler
@@ -773,8 +773,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Cyan Terracotta | ![cyan_terracotta](../images/cfm_cyan_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Cyan Terracotta | ![cyan_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Grill
@@ -782,9 +782,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Cyan Terracotta | ![cyan_terracotta](../images/cfm_cyan_terracotta.png) |
+| T | Cyan Terracotta | ![cyan_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Kitchen Counter
@@ -792,9 +792,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Cyan | ![dyes/cyan](../images/cfm_dyes/cyan.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Kitchen Drawer
@@ -803,9 +803,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Cyan | ![dyes/cyan](../images/cfm_dyes/cyan.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Kitchen Sink
@@ -813,10 +813,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Cyan Terracotta | ![cyan_terracotta](../images/cfm_cyan_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Cyan Terracotta | ![cyan_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Picket Fence
@@ -824,7 +824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cyan Concrete | ![cyan_concrete](../images/cfm_cyan_concrete.png) |
+| C | Cyan Concrete | ![cyan_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -833,7 +833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cyan Concrete | ![cyan_concrete](../images/cfm_cyan_concrete.png) |
+| C | Cyan Concrete | ![cyan_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -842,8 +842,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Cyan Wool | ![cyan_wool](../images/cfm_cyan_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Cyan Wool | ![cyan_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -852,8 +852,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Cyan Wool | ![cyan_wool](../images/cfm_cyan_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Cyan Wool | ![cyan_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Dark Oak Bedside Cabinet
@@ -861,8 +861,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Blinds
@@ -870,7 +870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -879,8 +879,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Chair
@@ -888,8 +888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Coffee Table
@@ -897,8 +897,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Crate
@@ -906,8 +906,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Desk
@@ -915,8 +915,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Desk Cabinet
@@ -924,8 +924,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Hedge
@@ -933,7 +933,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Leaves | ![dark_oak_leaves](../images/cfm_dark_oak_leaves.png) |
+| L | Dark Oak Leaves | ![dark_oak_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Kitchen Counter
@@ -941,8 +941,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Kitchen Drawer
@@ -951,8 +951,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Kitchen Sink Dark
@@ -960,10 +960,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Kitchen Sink Light
@@ -971,10 +971,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Mail Box
@@ -983,7 +983,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Dark Oak Upgraded Fence | ![dark_oak_upgraded_fence](../images/cfm_dark_oak_upgraded_fence.png) |
+| F | Dark Oak Upgraded Fence | ![dark_oak_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Park Bench
@@ -991,8 +991,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Table
@@ -1000,8 +1000,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_dark_oak_planks.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Dark Oak Upgraded Fence
@@ -1009,7 +1009,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1019,7 +1019,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Diving Board
@@ -1027,9 +1027,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
-| G | Light Gray Concrete | ![light_gray_concrete](../images/cfm_light_gray_concrete.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
+| G | Light Gray Concrete | ![light_gray_concrete](../images/cfm_blizzard.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
 
 ---
 ## Door Mat
@@ -1037,7 +1037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Wheat | ![wheat](../images/cfm_wheat.png) |
+| W | Wheat | ![wheat](../images/cfm_blizzard.png) |
 
 ---
 ## Black Picket Fence
@@ -1046,7 +1046,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Black | ![dyes/black](../images/cfm_dyes/black.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Black Picket Gate
@@ -1055,7 +1055,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Black | ![dyes/black](../images/cfm_dyes/black.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Picket Fence
@@ -1064,7 +1064,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Blue | ![dyes/blue](../images/cfm_dyes/blue.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Blue Picket Gate
@@ -1073,7 +1073,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Blue | ![dyes/blue](../images/cfm_dyes/blue.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Picket Fence
@@ -1082,7 +1082,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Brown | ![dyes/brown](../images/cfm_dyes/brown.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Brown Picket Gate
@@ -1091,7 +1091,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Brown | ![dyes/brown](../images/cfm_dyes/brown.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Picket Fence
@@ -1100,7 +1100,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Cyan | ![dyes/cyan](../images/cfm_dyes/cyan.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Cyan Picket Gate
@@ -1109,7 +1109,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Cyan | ![dyes/cyan](../images/cfm_dyes/cyan.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Picket Fence
@@ -1118,7 +1118,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Gray | ![dyes/gray](../images/cfm_dyes/gray.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Picket Gate
@@ -1127,7 +1127,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Gray | ![dyes/gray](../images/cfm_dyes/gray.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Green Picket Fence
@@ -1136,7 +1136,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Green | ![dyes/green](../images/cfm_dyes/green.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Green Picket Gate
@@ -1145,7 +1145,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Green | ![dyes/green](../images/cfm_dyes/green.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Picket Fence
@@ -1154,7 +1154,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/cfm_dyes/light_blue.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Picket Gate
@@ -1163,7 +1163,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/cfm_dyes/light_blue.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Picket Fence
@@ -1172,7 +1172,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/cfm_dyes/light_gray.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Picket Gate
@@ -1181,7 +1181,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/cfm_dyes/light_gray.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Picket Fence
@@ -1190,7 +1190,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Lime | ![dyes/lime](../images/cfm_dyes/lime.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Picket Gate
@@ -1199,7 +1199,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Lime | ![dyes/lime](../images/cfm_dyes/lime.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Picket Fence
@@ -1208,7 +1208,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Magenta | ![dyes/magenta](../images/cfm_dyes/magenta.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Picket Gate
@@ -1217,7 +1217,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Magenta | ![dyes/magenta](../images/cfm_dyes/magenta.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Picket Fence
@@ -1226,7 +1226,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Orange | ![dyes/orange](../images/cfm_dyes/orange.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Picket Gate
@@ -1235,7 +1235,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Orange | ![dyes/orange](../images/cfm_dyes/orange.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Picket Fence
@@ -1244,7 +1244,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Pink | ![dyes/pink](../images/cfm_dyes/pink.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Picket Gate
@@ -1253,7 +1253,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Pink | ![dyes/pink](../images/cfm_dyes/pink.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Picket Fence
@@ -1262,7 +1262,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Purple | ![dyes/purple](../images/cfm_dyes/purple.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Picket Gate
@@ -1271,7 +1271,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Purple | ![dyes/purple](../images/cfm_dyes/purple.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Red Picket Fence
@@ -1280,7 +1280,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Red | ![dyes/red](../images/cfm_dyes/red.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Red Picket Gate
@@ -1289,7 +1289,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Red | ![dyes/red](../images/cfm_dyes/red.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Picket Fence
@@ -1298,7 +1298,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Yellow | ![dyes/yellow](../images/cfm_dyes/yellow.png) |
-| F | White Picket Fence | ![white_picket_fence](../images/cfm_white_picket_fence.png) |
+| F | White Picket Fence | ![white_picket_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Picket Gate
@@ -1307,7 +1307,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Yellow | ![dyes/yellow](../images/cfm_dyes/yellow.png) |
-| G | White Picket Gate | ![white_picket_gate](../images/cfm_white_picket_gate.png) |
+| G | White Picket Gate | ![white_picket_gate](../images/cfm_blizzard.png) |
 
 ---
 ## Flowering Azalea Hedge
@@ -1315,7 +1315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/cfm_flowering_azalea_leaves.png) |
+| L | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Fridge Dark
@@ -1324,7 +1324,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
 
 ---
@@ -1334,7 +1334,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
 
 ---
@@ -1344,8 +1344,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Gray Terracotta | ![gray_terracotta](../images/cfm_gray_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Gray Terracotta | ![gray_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Grill
@@ -1353,9 +1353,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Gray Terracotta | ![gray_terracotta](../images/cfm_gray_terracotta.png) |
+| T | Gray Terracotta | ![gray_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Kitchen Counter
@@ -1363,9 +1363,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Gray | ![dyes/gray](../images/cfm_dyes/gray.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Kitchen Drawer
@@ -1374,9 +1374,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Gray | ![dyes/gray](../images/cfm_dyes/gray.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Kitchen Sink
@@ -1384,10 +1384,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Terracotta | ![gray_terracotta](../images/cfm_gray_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Terracotta | ![gray_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Gray Picket Fence
@@ -1395,7 +1395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1404,7 +1404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -1413,8 +1413,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Gray Wool | ![gray_wool](../images/cfm_gray_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Gray Wool | ![gray_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -1423,8 +1423,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Gray Wool | ![gray_wool](../images/cfm_gray_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Gray Wool | ![gray_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Green Cooler
@@ -1433,8 +1433,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Green Terracotta | ![green_terracotta](../images/cfm_green_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Green Terracotta | ![green_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Green Grill
@@ -1442,9 +1442,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Green Terracotta | ![green_terracotta](../images/cfm_green_terracotta.png) |
+| T | Green Terracotta | ![green_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Green Kitchen Counter
@@ -1452,9 +1452,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Green | ![dyes/green](../images/cfm_dyes/green.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Green Kitchen Drawer
@@ -1463,9 +1463,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Green | ![dyes/green](../images/cfm_dyes/green.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Green Kitchen Sink
@@ -1473,10 +1473,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Green Terracotta | ![green_terracotta](../images/cfm_green_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Green Terracotta | ![green_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Green Picket Fence
@@ -1484,7 +1484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Green Concrete | ![green_concrete](../images/cfm_green_concrete.png) |
+| C | Green Concrete | ![green_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1493,7 +1493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Green Concrete | ![green_concrete](../images/cfm_green_concrete.png) |
+| C | Green Concrete | ![green_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -1502,8 +1502,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Green Wool | ![green_wool](../images/cfm_green_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Green Wool | ![green_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -1512,8 +1512,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Green Wool | ![green_wool](../images/cfm_green_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Green Wool | ![green_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Jungle Bedside Cabinet
@@ -1521,8 +1521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Blinds
@@ -1530,7 +1530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1539,8 +1539,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Chair
@@ -1548,8 +1548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Coffee Table
@@ -1557,8 +1557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Crate
@@ -1566,8 +1566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Desk
@@ -1575,8 +1575,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Desk Cabinet
@@ -1584,8 +1584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Hedge
@@ -1593,7 +1593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Leaves | ![jungle_leaves](../images/cfm_jungle_leaves.png) |
+| L | Jungle Leaves | ![jungle_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Kitchen Counter
@@ -1601,8 +1601,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Kitchen Drawer
@@ -1611,8 +1611,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Kitchen Sink Dark
@@ -1620,10 +1620,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Kitchen Sink Light
@@ -1631,10 +1631,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Mail Box
@@ -1643,7 +1643,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Jungle Upgraded Fence | ![jungle_upgraded_fence](../images/cfm_jungle_upgraded_fence.png) |
+| F | Jungle Upgraded Fence | ![jungle_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Park Bench
@@ -1651,8 +1651,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Table
@@ -1660,8 +1660,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Jungle Planks | ![jungle_planks](../images/cfm_jungle_planks.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Planks | ![jungle_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Jungle Upgraded Fence
@@ -1669,7 +1669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1679,7 +1679,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Cooler
@@ -1688,8 +1688,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Light Blue Terracotta | ![light_blue_terracotta](../images/cfm_light_blue_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Light Blue Terracotta | ![light_blue_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Grill
@@ -1697,9 +1697,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Light Blue Terracotta | ![light_blue_terracotta](../images/cfm_light_blue_terracotta.png) |
+| T | Light Blue Terracotta | ![light_blue_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Kitchen Counter
@@ -1707,9 +1707,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/cfm_dyes/light_blue.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Kitchen Drawer
@@ -1718,9 +1718,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/cfm_dyes/light_blue.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Kitchen Sink
@@ -1728,10 +1728,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Light Blue Terracotta | ![light_blue_terracotta](../images/cfm_light_blue_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Light Blue Terracotta | ![light_blue_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Light Blue Picket Fence
@@ -1739,7 +1739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Light Blue Concrete | ![light_blue_concrete](../images/cfm_light_blue_concrete.png) |
+| C | Light Blue Concrete | ![light_blue_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1748,7 +1748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Light Blue Concrete | ![light_blue_concrete](../images/cfm_light_blue_concrete.png) |
+| C | Light Blue Concrete | ![light_blue_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -1757,8 +1757,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/cfm_light_blue_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -1767,8 +1767,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/cfm_light_blue_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Light Gray Cooler
@@ -1777,8 +1777,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Light Gray Terracotta | ![light_gray_terracotta](../images/cfm_light_gray_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Light Gray Terracotta | ![light_gray_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Grill
@@ -1786,9 +1786,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Light Gray Terracotta | ![light_gray_terracotta](../images/cfm_light_gray_terracotta.png) |
+| T | Light Gray Terracotta | ![light_gray_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Kitchen Counter
@@ -1796,9 +1796,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/cfm_dyes/light_gray.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Kitchen Drawer
@@ -1807,9 +1807,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/cfm_dyes/light_gray.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Kitchen Sink
@@ -1817,10 +1817,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Light Gray Terracotta | ![light_gray_terracotta](../images/cfm_light_gray_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Light Gray Terracotta | ![light_gray_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Light Gray Picket Fence
@@ -1828,7 +1828,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Light Gray Concrete | ![light_gray_concrete](../images/cfm_light_gray_concrete.png) |
+| C | Light Gray Concrete | ![light_gray_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1837,7 +1837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Light Gray Concrete | ![light_gray_concrete](../images/cfm_light_gray_concrete.png) |
+| C | Light Gray Concrete | ![light_gray_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -1846,8 +1846,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/cfm_light_gray_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -1856,8 +1856,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/cfm_light_gray_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Lime Cooler
@@ -1866,8 +1866,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Lime Terracotta | ![lime_terracotta](../images/cfm_lime_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Lime Terracotta | ![lime_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Grill
@@ -1875,9 +1875,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Lime Terracotta | ![lime_terracotta](../images/cfm_lime_terracotta.png) |
+| T | Lime Terracotta | ![lime_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Kitchen Counter
@@ -1885,9 +1885,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Lime | ![dyes/lime](../images/cfm_dyes/lime.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Kitchen Drawer
@@ -1896,9 +1896,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Lime | ![dyes/lime](../images/cfm_dyes/lime.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Kitchen Sink
@@ -1906,10 +1906,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Lime Terracotta | ![lime_terracotta](../images/cfm_lime_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Lime Terracotta | ![lime_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Lime Picket Fence
@@ -1917,7 +1917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Lime Concrete | ![lime_concrete](../images/cfm_lime_concrete.png) |
+| C | Lime Concrete | ![lime_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -1926,7 +1926,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Lime Concrete | ![lime_concrete](../images/cfm_lime_concrete.png) |
+| C | Lime Concrete | ![lime_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -1935,8 +1935,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Lime Wool | ![lime_wool](../images/cfm_lime_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Lime Wool | ![lime_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -1945,8 +1945,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Lime Wool | ![lime_wool](../images/cfm_lime_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Lime Wool | ![lime_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Magenta Cooler
@@ -1955,8 +1955,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Magenta Terracotta | ![magenta_terracotta](../images/cfm_magenta_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Magenta Terracotta | ![magenta_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Grill
@@ -1964,9 +1964,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Magenta Terracotta | ![magenta_terracotta](../images/cfm_magenta_terracotta.png) |
+| T | Magenta Terracotta | ![magenta_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Kitchen Counter
@@ -1974,9 +1974,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Magenta | ![dyes/magenta](../images/cfm_dyes/magenta.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Kitchen Drawer
@@ -1985,9 +1985,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Magenta | ![dyes/magenta](../images/cfm_dyes/magenta.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Kitchen Sink
@@ -1995,10 +1995,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Magenta Terracotta | ![magenta_terracotta](../images/cfm_magenta_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Magenta Terracotta | ![magenta_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Magenta Picket Fence
@@ -2006,7 +2006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Magenta Concrete | ![magenta_concrete](../images/cfm_magenta_concrete.png) |
+| C | Magenta Concrete | ![magenta_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2015,7 +2015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Magenta Concrete | ![magenta_concrete](../images/cfm_magenta_concrete.png) |
+| C | Magenta Concrete | ![magenta_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -2024,8 +2024,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Magenta Wool | ![magenta_wool](../images/cfm_magenta_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Magenta Wool | ![magenta_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -2034,8 +2034,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Magenta Wool | ![magenta_wool](../images/cfm_magenta_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Magenta Wool | ![magenta_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Mangrove Bedside Cabinet
@@ -2043,8 +2043,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Blinds
@@ -2052,7 +2052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2061,8 +2061,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Chair
@@ -2070,8 +2070,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Coffee Table
@@ -2079,8 +2079,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Crate
@@ -2088,8 +2088,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Desk
@@ -2097,8 +2097,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Desk Cabinet
@@ -2106,8 +2106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Hedge
@@ -2115,7 +2115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Leaves | ![mangrove_leaves](../images/cfm_mangrove_leaves.png) |
+| L | Mangrove Leaves | ![mangrove_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Kitchen Counter
@@ -2123,8 +2123,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Kitchen Drawer
@@ -2133,8 +2133,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Kitchen Sink Dark
@@ -2142,10 +2142,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Kitchen Sink Light
@@ -2153,10 +2153,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Mail Box
@@ -2165,7 +2165,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Mangrove Upgraded Fence | ![mangrove_upgraded_fence](../images/cfm_mangrove_upgraded_fence.png) |
+| F | Mangrove Upgraded Fence | ![mangrove_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Park Bench
@@ -2173,8 +2173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Table
@@ -2182,8 +2182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Mangrove Planks | ![mangrove_planks](../images/cfm_mangrove_planks.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Mangrove Upgraded Fence
@@ -2191,7 +2191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2201,7 +2201,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Bedside Cabinet
@@ -2209,8 +2209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Blinds
@@ -2218,7 +2218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2227,8 +2227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Chair
@@ -2236,8 +2236,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Coffee Table
@@ -2245,8 +2245,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Crate
@@ -2254,8 +2254,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Desk
@@ -2263,8 +2263,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Desk Cabinet
@@ -2272,8 +2272,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Hedge
@@ -2281,7 +2281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Leaves | ![oak_leaves](../images/cfm_oak_leaves.png) |
+| L | Oak Leaves | ![oak_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Kitchen Counter
@@ -2289,8 +2289,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Kitchen Drawer
@@ -2299,8 +2299,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Kitchen Sink Dark
@@ -2308,10 +2308,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Kitchen Sink Light
@@ -2319,10 +2319,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Mail Box
@@ -2331,7 +2331,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Oak Upgraded Fence | ![oak_upgraded_fence](../images/cfm_oak_upgraded_fence.png) |
+| F | Oak Upgraded Fence | ![oak_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Park Bench
@@ -2339,8 +2339,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Table
@@ -2348,8 +2348,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Oak Planks | ![oak_planks](../images/cfm_oak_planks.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Oak Planks | ![oak_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Oak Upgraded Fence
@@ -2357,7 +2357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2367,7 +2367,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Cooler
@@ -2376,8 +2376,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Orange Terracotta | ![orange_terracotta](../images/cfm_orange_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Orange Terracotta | ![orange_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Grill
@@ -2385,9 +2385,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Orange Terracotta | ![orange_terracotta](../images/cfm_orange_terracotta.png) |
+| T | Orange Terracotta | ![orange_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Kitchen Counter
@@ -2395,9 +2395,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Orange | ![dyes/orange](../images/cfm_dyes/orange.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Kitchen Drawer
@@ -2406,9 +2406,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Orange | ![dyes/orange](../images/cfm_dyes/orange.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Kitchen Sink
@@ -2416,10 +2416,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Orange Terracotta | ![orange_terracotta](../images/cfm_orange_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Orange Terracotta | ![orange_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Orange Picket Fence
@@ -2427,7 +2427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Orange Concrete | ![orange_concrete](../images/cfm_orange_concrete.png) |
+| C | Orange Concrete | ![orange_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2436,7 +2436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Orange Concrete | ![orange_concrete](../images/cfm_orange_concrete.png) |
+| C | Orange Concrete | ![orange_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -2445,8 +2445,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Orange Wool | ![orange_wool](../images/cfm_orange_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Orange Wool | ![orange_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -2455,8 +2455,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Orange Wool | ![orange_wool](../images/cfm_orange_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Orange Wool | ![orange_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Pink Cooler
@@ -2465,8 +2465,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Pink Terracotta | ![pink_terracotta](../images/cfm_pink_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Pink Terracotta | ![pink_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Grill
@@ -2474,9 +2474,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Pink Terracotta | ![pink_terracotta](../images/cfm_pink_terracotta.png) |
+| T | Pink Terracotta | ![pink_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Kitchen Counter
@@ -2484,9 +2484,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Pink | ![dyes/pink](../images/cfm_dyes/pink.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Kitchen Drawer
@@ -2495,9 +2495,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Pink | ![dyes/pink](../images/cfm_dyes/pink.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Kitchen Sink
@@ -2505,10 +2505,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Pink Terracotta | ![pink_terracotta](../images/cfm_pink_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Pink Terracotta | ![pink_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Pink Picket Fence
@@ -2516,7 +2516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Pink Concrete | ![pink_concrete](../images/cfm_pink_concrete.png) |
+| C | Pink Concrete | ![pink_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2525,7 +2525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Pink Concrete | ![pink_concrete](../images/cfm_pink_concrete.png) |
+| C | Pink Concrete | ![pink_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -2534,8 +2534,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Pink Wool | ![pink_wool](../images/cfm_pink_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Pink Wool | ![pink_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -2544,8 +2544,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Pink Wool | ![pink_wool](../images/cfm_pink_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Pink Wool | ![pink_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Post Box
@@ -2554,7 +2554,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Blue Shulker Box | ![blue_shulker_box](../images/cfm_blue_shulker_box.png) |
+| S | Blue Shulker Box | ![blue_shulker_box](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Cooler
@@ -2563,8 +2563,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/cfm_purple_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Grill
@@ -2572,9 +2572,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/cfm_purple_terracotta.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Kitchen Counter
@@ -2582,9 +2582,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Purple | ![dyes/purple](../images/cfm_dyes/purple.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Kitchen Drawer
@@ -2593,9 +2593,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Purple | ![dyes/purple](../images/cfm_dyes/purple.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Kitchen Sink
@@ -2603,10 +2603,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Purple Terracotta | ![purple_terracotta](../images/cfm_purple_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Purple Terracotta | ![purple_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Purple Picket Fence
@@ -2614,7 +2614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Purple Concrete | ![purple_concrete](../images/cfm_purple_concrete.png) |
+| C | Purple Concrete | ![purple_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2623,7 +2623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Purple Concrete | ![purple_concrete](../images/cfm_purple_concrete.png) |
+| C | Purple Concrete | ![purple_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -2632,8 +2632,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Purple Wool | ![purple_wool](../images/cfm_purple_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Purple Wool | ![purple_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -2642,8 +2642,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Purple Wool | ![purple_wool](../images/cfm_purple_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Purple Wool | ![purple_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Red Cooler
@@ -2652,8 +2652,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Red Terracotta | ![red_terracotta](../images/cfm_red_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Red Terracotta | ![red_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Red Grill
@@ -2661,9 +2661,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Red Terracotta | ![red_terracotta](../images/cfm_red_terracotta.png) |
+| T | Red Terracotta | ![red_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Red Kitchen Counter
@@ -2671,9 +2671,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Red | ![dyes/red](../images/cfm_dyes/red.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Red Kitchen Drawer
@@ -2682,9 +2682,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Red | ![dyes/red](../images/cfm_dyes/red.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Red Kitchen Sink
@@ -2692,10 +2692,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Red Terracotta | ![red_terracotta](../images/cfm_red_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Red Terracotta | ![red_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Red Picket Fence
@@ -2703,7 +2703,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Red Concrete | ![red_concrete](../images/cfm_red_concrete.png) |
+| C | Red Concrete | ![red_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2712,7 +2712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Red Concrete | ![red_concrete](../images/cfm_red_concrete.png) |
+| C | Red Concrete | ![red_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -2721,8 +2721,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Red Wool | ![red_wool](../images/cfm_red_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Red Wool | ![red_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -2731,8 +2731,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Red Wool | ![red_wool](../images/cfm_red_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Red Wool | ![red_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Rock Path
@@ -2740,8 +2740,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Andesite | ![andesite](../images/cfm_andesite.png) |
-| S | Stone | ![stone](../images/cfm_stone.png) |
+| A | Andesite | ![andesite](../images/cfm_blizzard.png) |
+| S | Stone | ![stone](../images/cfm_blizzard.png) |
 
 ---
 ## Spatula
@@ -2749,9 +2749,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| W | Black Wool | ![black_wool](../images/cfm_black_wool.png) |
+| W | Black Wool | ![black_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Spruce Bedside Cabinet
@@ -2759,8 +2759,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Blinds
@@ -2768,7 +2768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2777,8 +2777,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Chair
@@ -2786,8 +2786,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Coffee Table
@@ -2795,8 +2795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Crate
@@ -2804,8 +2804,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Desk
@@ -2813,8 +2813,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Desk Cabinet
@@ -2822,8 +2822,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Hedge
@@ -2831,7 +2831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Leaves | ![spruce_leaves](../images/cfm_spruce_leaves.png) |
+| L | Spruce Leaves | ![spruce_leaves](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Kitchen Counter
@@ -2839,8 +2839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Kitchen Drawer
@@ -2849,8 +2849,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Kitchen Sink Dark
@@ -2858,10 +2858,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Kitchen Sink Light
@@ -2869,10 +2869,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Mail Box
@@ -2881,7 +2881,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Spruce Upgraded Fence | ![spruce_upgraded_fence](../images/cfm_spruce_upgraded_fence.png) |
+| F | Spruce Upgraded Fence | ![spruce_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Park Bench
@@ -2889,8 +2889,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Table
@@ -2898,8 +2898,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Spruce Planks | ![spruce_planks](../images/cfm_spruce_planks.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Planks | ![spruce_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Spruce Upgraded Fence
@@ -2907,7 +2907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2917,7 +2917,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Bedside Cabinet
@@ -2925,8 +2925,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Blinds
@@ -2934,7 +2934,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -2943,8 +2943,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Chair
@@ -2952,8 +2952,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Coffee Table
@@ -2961,8 +2961,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Crate
@@ -2970,8 +2970,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Desk
@@ -2979,8 +2979,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Desk Cabinet
@@ -2988,8 +2988,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Kitchen Counter
@@ -2997,8 +2997,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Kitchen Drawer
@@ -3007,8 +3007,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Kitchen Sink Dark
@@ -3016,10 +3016,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Kitchen Sink Light
@@ -3027,10 +3027,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Mail Box
@@ -3039,7 +3039,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Acacia Upgraded Fence | ![stripped_acacia_upgraded_fence](../images/cfm_stripped_acacia_upgraded_fence.png) |
+| F | Stripped Acacia Upgraded Fence | ![stripped_acacia_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Park Bench
@@ -3047,8 +3047,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Table
@@ -3056,8 +3056,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
-| P | Acacia Log | ![acacia_log](../images/cfm_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
+| P | Acacia Log | ![acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Acacia Upgraded Fence
@@ -3065,7 +3065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3075,7 +3075,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_stripped_acacia_log.png) |
+| L | Stripped Acacia Log | ![stripped_acacia_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Bedside Cabinet
@@ -3083,8 +3083,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Blinds
@@ -3092,7 +3092,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3101,8 +3101,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Chair
@@ -3110,8 +3110,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Coffee Table
@@ -3119,8 +3119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Crate
@@ -3128,8 +3128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Desk
@@ -3137,8 +3137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Desk Cabinet
@@ -3146,8 +3146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Kitchen Counter
@@ -3155,8 +3155,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Kitchen Drawer
@@ -3165,8 +3165,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Kitchen Sink Dark
@@ -3174,10 +3174,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Kitchen Sink Light
@@ -3185,10 +3185,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Mail Box
@@ -3197,7 +3197,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Birch Upgraded Fence | ![stripped_birch_upgraded_fence](../images/cfm_stripped_birch_upgraded_fence.png) |
+| F | Stripped Birch Upgraded Fence | ![stripped_birch_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Park Bench
@@ -3205,8 +3205,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Table
@@ -3214,8 +3214,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
-| P | Birch Log | ![birch_log](../images/cfm_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
+| P | Birch Log | ![birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Birch Upgraded Fence
@@ -3223,7 +3223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3233,7 +3233,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_stripped_birch_log.png) |
+| L | Stripped Birch Log | ![stripped_birch_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Bedside Cabinet
@@ -3241,8 +3241,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Blinds
@@ -3250,7 +3250,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3259,8 +3259,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Chair
@@ -3268,8 +3268,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Coffee Table
@@ -3277,8 +3277,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Crate
@@ -3286,8 +3286,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Desk
@@ -3295,8 +3295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Desk Cabinet
@@ -3304,8 +3304,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Kitchen Counter
@@ -3313,8 +3313,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Kitchen Drawer
@@ -3323,8 +3323,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Kitchen Sink Dark
@@ -3332,10 +3332,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Kitchen Sink Light
@@ -3343,10 +3343,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Mail Box
@@ -3355,7 +3355,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Crimson Upgraded Fence | ![stripped_crimson_upgraded_fence](../images/cfm_stripped_crimson_upgraded_fence.png) |
+| F | Stripped Crimson Upgraded Fence | ![stripped_crimson_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Park Bench
@@ -3363,8 +3363,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Table
@@ -3372,8 +3372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
-| P | Crimson Stem | ![crimson_stem](../images/cfm_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
+| P | Crimson Stem | ![crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Crimson Upgraded Fence
@@ -3381,7 +3381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3391,7 +3391,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_stripped_crimson_stem.png) |
+| L | Stripped Crimson Stem | ![stripped_crimson_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Bedside Cabinet
@@ -3399,8 +3399,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Blinds
@@ -3408,7 +3408,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3417,8 +3417,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Chair
@@ -3426,8 +3426,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Coffee Table
@@ -3435,8 +3435,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Crate
@@ -3444,8 +3444,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Desk
@@ -3453,8 +3453,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Desk Cabinet
@@ -3462,8 +3462,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Kitchen Counter
@@ -3471,8 +3471,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Kitchen Drawer
@@ -3481,8 +3481,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Kitchen Sink Dark
@@ -3490,10 +3490,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Kitchen Sink Light
@@ -3501,10 +3501,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Mail Box
@@ -3513,7 +3513,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Dark Oak Upgraded Fence | ![stripped_dark_oak_upgraded_fence](../images/cfm_stripped_dark_oak_upgraded_fence.png) |
+| F | Stripped Dark Oak Upgraded Fence | ![stripped_dark_oak_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Park Bench
@@ -3521,8 +3521,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Table
@@ -3530,8 +3530,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
-| P | Dark Oak Log | ![dark_oak_log](../images/cfm_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Dark Oak Upgraded Fence
@@ -3539,7 +3539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3549,7 +3549,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_stripped_dark_oak_log.png) |
+| L | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Bedside Cabinet
@@ -3557,8 +3557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Blinds
@@ -3566,7 +3566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3575,8 +3575,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Chair
@@ -3584,8 +3584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Coffee Table
@@ -3593,8 +3593,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Crate
@@ -3602,8 +3602,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Desk
@@ -3611,8 +3611,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Desk Cabinet
@@ -3620,8 +3620,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Kitchen Counter
@@ -3629,8 +3629,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Kitchen Drawer
@@ -3639,8 +3639,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Kitchen Sink Dark
@@ -3648,10 +3648,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Kitchen Sink Light
@@ -3659,10 +3659,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Mail Box
@@ -3671,7 +3671,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Jungle Upgraded Fence | ![stripped_jungle_upgraded_fence](../images/cfm_stripped_jungle_upgraded_fence.png) |
+| F | Stripped Jungle Upgraded Fence | ![stripped_jungle_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Park Bench
@@ -3679,8 +3679,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Table
@@ -3688,8 +3688,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
-| P | Jungle Log | ![jungle_log](../images/cfm_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
+| P | Jungle Log | ![jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Jungle Upgraded Fence
@@ -3697,7 +3697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3707,7 +3707,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_stripped_jungle_log.png) |
+| L | Stripped Jungle Log | ![stripped_jungle_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Bedside Cabinet
@@ -3715,8 +3715,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Blinds
@@ -3724,7 +3724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3733,8 +3733,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Chair
@@ -3742,8 +3742,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Coffee Table
@@ -3751,8 +3751,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Crate
@@ -3760,8 +3760,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Desk
@@ -3769,8 +3769,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Desk Cabinet
@@ -3778,8 +3778,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Kitchen Counter
@@ -3787,8 +3787,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Kitchen Drawer
@@ -3797,8 +3797,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Kitchen Sink Dark
@@ -3806,10 +3806,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Kitchen Sink Light
@@ -3817,10 +3817,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Mail Box
@@ -3829,7 +3829,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Mangrove Upgraded Fence | ![stripped_mangrove_upgraded_fence](../images/cfm_stripped_mangrove_upgraded_fence.png) |
+| F | Stripped Mangrove Upgraded Fence | ![stripped_mangrove_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Park Bench
@@ -3837,8 +3837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Table
@@ -3846,8 +3846,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
-| P | Mangrove Log | ![mangrove_log](../images/cfm_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
+| P | Mangrove Log | ![mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Mangrove Upgraded Fence
@@ -3855,7 +3855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3865,7 +3865,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_stripped_mangrove_log.png) |
+| L | Stripped Mangrove Log | ![stripped_mangrove_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Bedside Cabinet
@@ -3873,8 +3873,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Blinds
@@ -3882,7 +3882,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -3891,8 +3891,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Chair
@@ -3900,8 +3900,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Coffee Table
@@ -3909,8 +3909,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Crate
@@ -3918,8 +3918,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Desk
@@ -3927,8 +3927,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Desk Cabinet
@@ -3936,8 +3936,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Kitchen Counter
@@ -3945,8 +3945,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Kitchen Drawer
@@ -3955,8 +3955,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Kitchen Sink Dark
@@ -3964,10 +3964,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Kitchen Sink Light
@@ -3975,10 +3975,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Mail Box
@@ -3987,7 +3987,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Oak Upgraded Fence | ![stripped_oak_upgraded_fence](../images/cfm_stripped_oak_upgraded_fence.png) |
+| F | Stripped Oak Upgraded Fence | ![stripped_oak_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Park Bench
@@ -3995,8 +3995,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Table
@@ -4004,8 +4004,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
-| P | Oak Log | ![oak_log](../images/cfm_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
+| P | Oak Log | ![oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Oak Upgraded Fence
@@ -4013,7 +4013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4023,7 +4023,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_stripped_oak_log.png) |
+| L | Stripped Oak Log | ![stripped_oak_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Bedside Cabinet
@@ -4031,8 +4031,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Blinds
@@ -4040,7 +4040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4049,8 +4049,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Chair
@@ -4058,8 +4058,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Coffee Table
@@ -4067,8 +4067,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Crate
@@ -4076,8 +4076,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Desk
@@ -4085,8 +4085,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Desk Cabinet
@@ -4094,8 +4094,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Kitchen Counter
@@ -4103,8 +4103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Kitchen Drawer
@@ -4113,8 +4113,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Kitchen Sink Dark
@@ -4122,10 +4122,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Kitchen Sink Light
@@ -4133,10 +4133,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Mail Box
@@ -4145,7 +4145,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Spruce Upgraded Fence | ![stripped_spruce_upgraded_fence](../images/cfm_stripped_spruce_upgraded_fence.png) |
+| F | Stripped Spruce Upgraded Fence | ![stripped_spruce_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Park Bench
@@ -4153,8 +4153,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Table
@@ -4162,8 +4162,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
-| P | Spruce Log | ![spruce_log](../images/cfm_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
+| P | Spruce Log | ![spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Spruce Upgraded Fence
@@ -4171,7 +4171,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4181,7 +4181,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_stripped_spruce_log.png) |
+| L | Stripped Spruce Log | ![stripped_spruce_log](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Bedside Cabinet
@@ -4189,8 +4189,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Blinds
@@ -4198,7 +4198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4207,8 +4207,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Chair
@@ -4216,8 +4216,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Coffee Table
@@ -4225,8 +4225,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Crate
@@ -4234,8 +4234,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Desk
@@ -4243,8 +4243,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Desk Cabinet
@@ -4252,8 +4252,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Kitchen Counter
@@ -4261,8 +4261,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Kitchen Drawer
@@ -4271,8 +4271,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Kitchen Sink Dark
@@ -4280,10 +4280,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Kitchen Sink Light
@@ -4291,10 +4291,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Mail Box
@@ -4303,7 +4303,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Stripped Warped Upgraded Fence | ![stripped_warped_upgraded_fence](../images/cfm_stripped_warped_upgraded_fence.png) |
+| F | Stripped Warped Upgraded Fence | ![stripped_warped_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Park Bench
@@ -4311,8 +4311,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Table
@@ -4320,8 +4320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
-| P | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## Stripped Warped Upgraded Fence
@@ -4329,7 +4329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4339,7 +4339,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_stripped_warped_stem.png) |
+| L | Stripped Warped Stem | ![stripped_warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## {}
@@ -4354,8 +4354,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Blinds
@@ -4363,7 +4363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4372,8 +4372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Chair
@@ -4381,8 +4381,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Coffee Table
@@ -4390,8 +4390,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Crate
@@ -4399,8 +4399,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Desk
@@ -4408,8 +4408,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Desk Cabinet
@@ -4417,8 +4417,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Kitchen Counter
@@ -4426,8 +4426,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Kitchen Drawer
@@ -4436,8 +4436,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Kitchen Sink Dark
@@ -4445,10 +4445,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Gray Concrete | ![gray_concrete](../images/cfm_gray_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Gray Concrete | ![gray_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Kitchen Sink Light
@@ -4456,10 +4456,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Mail Box
@@ -4468,7 +4468,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| F | Warped Upgraded Fence | ![warped_upgraded_fence](../images/cfm_warped_upgraded_fence.png) |
+| F | Warped Upgraded Fence | ![warped_upgraded_fence](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Park Bench
@@ -4476,8 +4476,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Table
@@ -4485,8 +4485,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
-| P | Warped Planks | ![warped_planks](../images/cfm_warped_planks.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
+| P | Warped Planks | ![warped_planks](../images/cfm_blizzard.png) |
 
 ---
 ## Warped Upgraded Fence
@@ -4494,7 +4494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4504,7 +4504,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
-| L | Warped Stem | ![warped_stem](../images/cfm_warped_stem.png) |
+| L | Warped Stem | ![warped_stem](../images/cfm_blizzard.png) |
 
 ---
 ## White Cooler
@@ -4513,8 +4513,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | White Terracotta | ![white_terracotta](../images/cfm_white_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | White Terracotta | ![white_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## White Grill
@@ -4522,9 +4522,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | White Terracotta | ![white_terracotta](../images/cfm_white_terracotta.png) |
+| T | White Terracotta | ![white_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## White Kitchen Counter
@@ -4532,9 +4532,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/White | ![dyes/white](../images/cfm_dyes/white.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## White Kitchen Drawer
@@ -4543,9 +4543,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/White | ![dyes/white](../images/cfm_dyes/white.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## White Kitchen Sink
@@ -4553,10 +4553,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | White Terracotta | ![white_terracotta](../images/cfm_white_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | White Terracotta | ![white_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## White Picket Fence
@@ -4564,7 +4564,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4573,7 +4573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -4582,8 +4582,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | White Wool | ![white_wool](../images/cfm_white_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | White Wool | ![white_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -4592,8 +4592,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | White Wool | ![white_wool](../images/cfm_white_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | White Wool | ![white_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Yellow Cooler
@@ -4602,8 +4602,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/cfm_yellow_terracotta.png) |
-| W | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/cfm_blizzard.png) |
+| W | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Grill
@@ -4611,9 +4611,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/cfm_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/cfm_yellow_terracotta.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Kitchen Counter
@@ -4621,9 +4621,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Yellow | ![dyes/yellow](../images/cfm_dyes/yellow.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Kitchen Drawer
@@ -4632,9 +4632,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/cfm_chests/wooden.png) |
-| C | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| C | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 | D | Dyes/Yellow | ![dyes/yellow](../images/cfm_dyes/yellow.png) |
-| S | Terracotta | ![terracotta](../images/cfm_terracotta.png) |
+| S | Terracotta | ![terracotta](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Kitchen Sink
@@ -4642,10 +4642,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/cfm_bucket.png) |
-| C | Yellow Terracotta | ![yellow_terracotta](../images/cfm_yellow_terracotta.png) |
+| B | Bucket | ![bucket](../images/cfm_blizzard.png) |
+| C | Yellow Terracotta | ![yellow_terracotta](../images/cfm_blizzard.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| P | White Concrete | ![white_concrete](../images/cfm_white_concrete.png) |
+| P | White Concrete | ![white_concrete](../images/cfm_blizzard.png) |
 
 ---
 ## Yellow Picket Fence
@@ -4653,7 +4653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Yellow Concrete | ![yellow_concrete](../images/cfm_yellow_concrete.png) |
+| C | Yellow Concrete | ![yellow_concrete](../images/cfm_blizzard.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/cfm_rods/wooden.png) |
 
 ---
@@ -4662,7 +4662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Yellow Concrete | ![yellow_concrete](../images/cfm_yellow_concrete.png) |
+| C | Yellow Concrete | ![yellow_concrete](../images/cfm_blizzard.png) |
 | G | Fence Gates/Wooden | ![fence_gates/wooden](../images/cfm_fence_gates/wooden.png) |
 
 ---
@@ -4671,8 +4671,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/cfm_logs.png) |
-| W | Yellow Wool | ![yellow_wool](../images/cfm_yellow_wool.png) |
+| L | Logs | ![logs](../images/cfm_blizzard.png) |
+| W | Yellow Wool | ![yellow_wool](../images/cfm_rainbow_wool.png) |
 
 ---
 ## Trampoline
@@ -4681,7 +4681,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/cfm_ingots/iron.png) |
-| S | Slimeballs | ![slimeballs](../images/cfm_slimeballs.png) |
-| W | Yellow Wool | ![yellow_wool](../images/cfm_yellow_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/cfm_blizzard.png) |
+| W | Yellow Wool | ![yellow_wool](../images/cfm_rainbow_wool.png) |
 
 ---

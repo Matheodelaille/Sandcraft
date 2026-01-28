@@ -7,6 +7,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Disc Fragment Sight | ![disc_fragment_sight](../images/integrated_disc_fragment_sight.png) |
+| # | Disc Fragment Sight | ![disc_fragment_sight](../images/integrated_stronghold_disc_fragment_sight.png) |
 
 ---

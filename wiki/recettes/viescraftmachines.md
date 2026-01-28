@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
+| # | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
 
 ---
@@ -16,9 +16,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
-| G | Gold Nugget | ![gold_nugget](../images/viescraftmachines_gold_nugget.png) |
+| # | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
+| G | Gold Nugget | ![gold_nugget](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Fuel Machine Battery
@@ -29,8 +29,8 @@
 | X | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
 | # | Fuel Machine Pellet | ![fuel_machine_pellet](../images/viescraftmachines_fuel_machine_pellet.png) |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| I | Iron Ingot | ![iron_ingot](../images/viescraftmachines_iron_ingot.png) |
-| L | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
+| I | Iron Ingot | ![iron_ingot](../images/viescraftmachines_admintool_machine_breaker.png) |
+| L | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
 
 ---
 ## Fuel Machine Pellet
@@ -39,7 +39,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | X | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| # | Coals | ![coals](../images/viescraftmachines_coals.png) |
+| # | Coals | ![coals](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Instruction Circuit Flying
@@ -47,11 +47,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| P | Glass Pane | ![glass_pane](../images/viescraftmachines_glass_pane.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| P | Glass Pane | ![glass_pane](../images/viescraftmachines_admintool_machine_breaker.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Instruction Circuit Ground
@@ -59,11 +59,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| P | Glass Pane | ![glass_pane](../images/viescraftmachines_glass_pane.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| P | Glass Pane | ![glass_pane](../images/viescraftmachines_admintool_machine_breaker.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Instruction Circuit Hauler
@@ -71,11 +71,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| P | Glass Pane | ![glass_pane](../images/viescraftmachines_glass_pane.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| P | Glass Pane | ![glass_pane](../images/viescraftmachines_admintool_machine_breaker.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Instruction Circuit Sea
@@ -83,11 +83,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| P | Glass Pane | ![glass_pane](../images/viescraftmachines_glass_pane.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| P | Glass Pane | ![glass_pane](../images/viescraftmachines_admintool_machine_breaker.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Construction Cloth
@@ -96,8 +96,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
-| # | Wool | ![wool](../images/viescraftmachines_wool.png) |
+| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
+| # | Wool | ![wool](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Construction Metal
@@ -106,8 +106,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
-| # | Iron Ingot | ![iron_ingot](../images/viescraftmachines_iron_ingot.png) |
+| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
+| # | Iron Ingot | ![iron_ingot](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Construction Panel
@@ -116,8 +116,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
-| # | Planks | ![planks](../images/viescraftmachines_planks.png) |
+| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
+| # | Planks | ![planks](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Detailing Cloth
@@ -125,9 +125,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Detailing Frame
@@ -135,9 +135,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Detailing Metal
@@ -145,9 +145,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Detailing Panel
@@ -155,9 +155,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
+| # | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
 | F | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Framework
@@ -165,7 +165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
+| F | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
 
 ---
 ## Kit Service Durability Large
@@ -173,9 +173,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Service Durability Small
@@ -183,9 +183,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Paper | ![paper](../images/viescraftmachines_paper.png) |
+| B | Paper | ![paper](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Service Energy Large
@@ -193,9 +193,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Kit Service Energy Small
@@ -203,9 +203,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
 | # | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| B | Paper | ![paper](../images/viescraftmachines_paper.png) |
+| B | Paper | ![paper](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Machine Chassis Basic
@@ -213,9 +213,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Minecart | ![minecart](../images/viescraftmachines_minecart.png) |
-| F | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
+| # | Minecart | ![minecart](../images/viescraftmachines_admintool_machine_breaker.png) |
+| F | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| C | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
 
 ---
 ## Machine Parts Mold
@@ -224,9 +224,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | X | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| # | Coals | ![coals](../images/viescraftmachines_coals.png) |
-| C | Clay Ball | ![clay_ball](../images/viescraftmachines_clay_ball.png) |
-| M | Planks | ![planks](../images/viescraftmachines_planks.png) |
+| # | Coals | ![coals](../images/viescraftmachines_admintool_machine_breaker.png) |
+| C | Clay Ball | ![clay_ball](../images/viescraftmachines_admintool_machine_breaker.png) |
+| M | Planks | ![planks](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Machine Upgrade Greater
@@ -235,8 +235,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | K | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
-| N | Netherite Ingot | ![netherite_ingot](../images/viescraftmachines_netherite_ingot.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
+| N | Netherite Ingot | ![netherite_ingot](../images/viescraftmachines_admintool_machine_breaker.png) |
 | # | Machine Upgrade Lesser | ![machine_upgrade_lesser](../images/viescraftmachines_machine_upgrade_lesser.png) |
 
 ---
@@ -246,8 +246,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | K | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
-| N | Heart Of The Sea | ![heart_of_the_sea](../images/viescraftmachines_heart_of_the_sea.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
+| N | Heart Of The Sea | ![heart_of_the_sea](../images/viescraftmachines_admintool_machine_complete_sea.png) |
 | # | Machine Upgrade Minor | ![machine_upgrade_minor](../images/viescraftmachines_machine_upgrade_minor.png) |
 
 ---
@@ -257,8 +257,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | K | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
-| N | Nether Star | ![nether_star](../images/viescraftmachines_nether_star.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
+| N | Nether Star | ![nether_star](../images/viescraftmachines_admintool_machine_breaker.png) |
 | # | Machine Upgrade Greater | ![machine_upgrade_greater](../images/viescraftmachines_machine_upgrade_greater.png) |
 
 ---
@@ -268,9 +268,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | K | Kit Framework | ![kit_framework](../images/viescraftmachines_kit_framework.png) |
-| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_circuit_adaptive.png) |
-| D | Diamond | ![diamond](../images/viescraftmachines_diamond.png) |
-| E | Ender Eye | ![ender_eye](../images/viescraftmachines_ender_eye.png) |
+| A | Circuit Adaptive | ![circuit_adaptive](../images/viescraftmachines_part_circuit_adaptive.png) |
+| D | Diamond | ![diamond](../images/viescraftmachines_admintool_machine_breaker.png) |
+| E | Ender Eye | ![ender_eye](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Machine Workbench
@@ -278,8 +278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| C | Crafting Table | ![crafting_table](../images/viescraftmachines_crafting_table.png) |
+| # | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| C | Crafting Table | ![crafting_table](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Music Disc Bramble
@@ -288,7 +288,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Music Disc Castle
@@ -297,7 +297,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Music Disc Dire
@@ -306,7 +306,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Music Disc Jungle
@@ -315,7 +315,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Music Disc Storms
@@ -324,7 +324,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Music Disc Timescar
@@ -333,7 +333,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Xegonite Shard | ![xegonite_shard](../images/viescraftmachines_xegonite_shard.png) |
-| B | Book | ![book](../images/viescraftmachines_book.png) |
+| B | Book | ![book](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Machine Parts
@@ -341,7 +341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Machine Parts Mold | ![machine_parts_mold](../images/viescraftmachines_machine_parts_mold.png) |
+| item | Machine Parts Mold | ![machine_parts_mold](../images/viescraftmachines_part_machine_parts_mold.png) |
 
 ---
 ## Tool Dismounter
@@ -349,9 +349,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Feather | ![feather](../images/viescraftmachines_feather.png) |
-| F | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| L | Leather | ![leather](../images/viescraftmachines_leather.png) |
+| # | Feather | ![feather](../images/viescraftmachines_admintool_machine_breaker.png) |
+| F | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| L | Leather | ![leather](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Tool Ignition Key
@@ -359,9 +359,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
-| F | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
+| # | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
+| F | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Tool Machine Deed
@@ -369,10 +369,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Circuit Logic | ![circuit_logic](../images/viescraftmachines_circuit_logic.png) |
-| F | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| P | Paper | ![paper](../images/viescraftmachines_paper.png) |
-| R | Redstone | ![redstone](../images/viescraftmachines_redstone.png) |
+| # | Circuit Logic | ![circuit_logic](../images/viescraftmachines_part_circuit_logic.png) |
+| F | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| P | Paper | ![paper](../images/viescraftmachines_admintool_machine_breaker.png) |
+| R | Redstone | ![redstone](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Tool Machine Wrench
@@ -380,8 +380,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
-| L | Leather | ![leather](../images/viescraftmachines_leather.png) |
+| F | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
+| L | Leather | ![leather](../images/viescraftmachines_admintool_machine_breaker.png) |
 
 ---
 ## Xegonite Block
@@ -389,7 +389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Machine Parts | ![machine_parts](../images/viescraftmachines_machine_parts.png) |
+| # | Machine Parts | ![machine_parts](../images/viescraftmachines_part_machine_parts.png) |
 
 ---
 ## Machine Parts

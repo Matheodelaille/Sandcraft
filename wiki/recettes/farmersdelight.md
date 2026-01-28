@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Acacia Trapdoor | ![acacia_trapdoor](../images/farmersdelight_acacia_trapdoor.png) |
-| _ | Acacia Slab | ![acacia_slab](../images/farmersdelight_acacia_slab.png) |
+| D | Acacia Trapdoor | ![acacia_trapdoor](../images/farmersdelight_acacia_cabinet_front.png) |
+| _ | Acacia Slab | ![acacia_slab](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Acacia Planks'}]
@@ -16,7 +16,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Door | ![acacia_door](../images/farmersdelight_acacia_door.png) |
+| - | Acacia Door | ![acacia_door](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -24,7 +24,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Log | ![acacia_log](../images/farmersdelight_acacia_log.png) |
+| - | Acacia Log | ![acacia_log](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Acacia Planks'}]
@@ -32,7 +32,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Sign | ![acacia_sign](../images/farmersdelight_acacia_sign.png) |
+| - | Acacia Sign | ![acacia_sign](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Acacia Planks'}]
@@ -40,7 +40,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Trapdoor | ![acacia_trapdoor](../images/farmersdelight_acacia_trapdoor.png) |
+| - | Acacia Trapdoor | ![acacia_trapdoor](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -48,7 +48,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Wood | ![acacia_wood](../images/farmersdelight_acacia_wood.png) |
+| - | Acacia Wood | ![acacia_wood](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Magenta Dye'}]
@@ -56,7 +56,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Allium | ![allium](../images/farmersdelight_allium.png) |
+| - | Allium | ![allium](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Amethyst Shard'}]
@@ -64,7 +64,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Block | ![amethyst_block](../images/farmersdelight_amethyst_block.png) |
+| - | Amethyst Block | ![amethyst_block](../images/farmersdelight_honey_glazed_ham_block.png) |
 
 ---
 ## Apple Cider
@@ -72,9 +72,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/farmersdelight_apple.png) |
-| - | Apple | ![apple](../images/farmersdelight_apple.png) |
-| - | Sugar | ![sugar](../images/farmersdelight_sugar.png) |
+| - | Apple | ![apple](../images/farmersdelight_apple_cider.png) |
+| - | Apple | ![apple](../images/farmersdelight_apple_cider.png) |
+| - | Sugar | ![sugar](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Apple Pie Slice'}]
@@ -98,7 +98,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Azure Bluet | ![azure_bluet](../images/farmersdelight_azure_bluet.png) |
+| - | Azure Bluet | ![azure_bluet](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Bacon And Eggs
@@ -108,9 +108,9 @@
 | :--- | :--- | :--- |
 | - | Cooked Bacon | ![cooked_bacon](../images/farmersdelight_cooked_bacon.png) |
 | - | Cooked Bacon | ![cooked_bacon](../images/farmersdelight_cooked_bacon.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_cooked_eggs.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_cooked_eggs.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_bacon_and_eggs.png) |
 
 ---
 ## Bacon Sandwich
@@ -118,9 +118,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/farmersdelight_bread.png) |
+| - | Bread | ![bread](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Cooked Bacon | ![cooked_bacon](../images/farmersdelight_cooked_bacon.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 
 ---
@@ -130,8 +130,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Raw Fishes/Cod | ![raw_fishes/cod](../images/farmersdelight_raw_fishes/cod.png) |
-| - | Potato | ![potato](../images/farmersdelight_potato.png) |
-| - | Eggs | ![eggs](../images/farmersdelight_eggs.png) |
+| - | Potato | ![potato](../images/farmersdelight_potato_crate_side.png) |
+| - | Eggs | ![eggs](../images/farmersdelight_bacon_and_eggs.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 
 ---
@@ -142,8 +142,8 @@
 | :--- | :--- | :--- |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
-| - | Cooked Rabbit'}] | ![cooked_rabbit'}]](../images/farmersdelight_cooked_rabbit'}].png) |
-| - | Stick | ![stick](../images/farmersdelight_stick.png) |
+| - | Cooked Rabbit'}] | ![cooked_rabbit'}]](../images/farmersdelight_cooked_bacon.png) |
+| - | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Basket
@@ -152,7 +152,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Canvas | ![canvas](../images/farmersdelight_canvas.png) |
-| b | Bamboo | ![bamboo](../images/farmersdelight_bamboo.png) |
+| b | Bamboo | ![bamboo](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Minced Beef'}]
@@ -160,7 +160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beef | ![beef](../images/farmersdelight_beef.png) |
+| - | Beef | ![beef](../images/farmersdelight_beef_patty.png) |
 
 ---
 ## Beef Patty
@@ -192,9 +192,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Beef | ![raw_beef](../images/farmersdelight_raw_beef.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Potato | ![potato](../images/farmersdelight_potato.png) |
+| - | Raw Beef | ![raw_beef](../images/farmersdelight_beef_patty.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Potato | ![potato](../images/farmersdelight_potato_crate_side.png) |
 
 ---
 ## Beetroot Crate
@@ -202,7 +202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
+| # | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
 
 ---
 ## Beetroot
@@ -210,7 +210,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beetroot Crate | ![beetroot_crate](../images/farmersdelight_beetroot_crate.png) |
+| - | Beetroot Crate | ![beetroot_crate](../images/farmersdelight_beetroot_crate_side.png) |
 
 ---
 ## Beetroot Soup
@@ -218,9 +218,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
 
 ---
 ## Birch Cabinet
@@ -228,8 +228,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Birch Trapdoor | ![birch_trapdoor](../images/farmersdelight_birch_trapdoor.png) |
-| _ | Birch Slab | ![birch_slab](../images/farmersdelight_birch_slab.png) |
+| D | Birch Trapdoor | ![birch_trapdoor](../images/farmersdelight_birch_cabinet_front.png) |
+| _ | Birch Slab | ![birch_slab](../images/farmersdelight_birch_cabinet_front.png) |
 
 ---
 ## Birch Planks'}]
@@ -237,7 +237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Door | ![birch_door](../images/farmersdelight_birch_door.png) |
+| - | Birch Door | ![birch_door](../images/farmersdelight_birch_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Log | ![birch_log](../images/farmersdelight_birch_log.png) |
+| - | Birch Log | ![birch_log](../images/farmersdelight_birch_cabinet_front.png) |
 
 ---
 ## Birch Planks'}]
@@ -253,7 +253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Sign | ![birch_sign](../images/farmersdelight_birch_sign.png) |
+| - | Birch Sign | ![birch_sign](../images/farmersdelight_birch_cabinet_front.png) |
 
 ---
 ## Birch Planks'}]
@@ -261,7 +261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Trapdoor | ![birch_trapdoor](../images/farmersdelight_birch_trapdoor.png) |
+| - | Birch Trapdoor | ![birch_trapdoor](../images/farmersdelight_birch_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -269,7 +269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Wood | ![birch_wood](../images/farmersdelight_birch_wood.png) |
+| - | Birch Wood | ![birch_wood](../images/farmersdelight_birch_cabinet_front.png) |
 
 ---
 ## Black Canvas Sign
@@ -277,7 +277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Black | ![dyes/black](../images/farmersdelight_dyes/black.png) |
 
 ---
@@ -286,7 +286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/farmersdelight_dyes/blue.png) |
 
 ---
@@ -295,7 +295,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Orchid | ![blue_orchid](../images/farmersdelight_blue_orchid.png) |
+| - | Blue Orchid | ![blue_orchid](../images/farmersdelight_blue_canvas_sign.png) |
 
 ---
 ## Bone Broth
@@ -303,8 +303,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bones | ![bones](../images/farmersdelight_bones.png) |
-| - | Glow Lichen'}] | ![glow_lichen'}]](../images/farmersdelight_glow_lichen'}].png) |
+| - | Bones | ![bones](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Glow Lichen'}] | ![glow_lichen'}]](../images/farmersdelight_glow_berry_custard.png) |
 
 ---
 ## Book
@@ -312,9 +312,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/farmersdelight_paper.png) |
-| - | Paper | ![paper](../images/farmersdelight_paper.png) |
-| - | Paper | ![paper](../images/farmersdelight_paper.png) |
+| - | Paper | ![paper](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Paper | ![paper](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Paper | ![paper](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Canvas | ![canvas](../images/farmersdelight_canvas.png) |
 
 ---
@@ -339,7 +339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bricks | ![bricks](../images/farmersdelight_bricks.png) |
+| - | Bricks | ![bricks](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Brown Canvas Sign
@@ -347,7 +347,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/farmersdelight_dyes/brown.png) |
 
 ---
@@ -356,7 +356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom Colony | ![brown_mushroom_colony](../images/farmersdelight_brown_mushroom_colony.png) |
+| - | Brown Mushroom Colony | ![brown_mushroom_colony](../images/farmersdelight_brown_mushroom_colony_stage0.png) |
 
 ---
 ## {}
@@ -389,7 +389,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Cabbage | ![crops/cabbage](../images/farmersdelight_crops/cabbage.png) |
-| - | Cabbage Roll Ingredients | ![cabbage_roll_ingredients](../images/farmersdelight_cabbage_roll_ingredients.png) |
+| - | Cabbage Roll Ingredients | ![cabbage_roll_ingredients](../images/farmersdelight_cabbage.png) |
 
 ---
 ## {}
@@ -412,7 +412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cake | ![cake](../images/farmersdelight_cake.png) |
+| - | Cake | ![cake](../images/farmersdelight_cake_slice.png) |
 
 ---
 ## Cake
@@ -420,10 +420,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Eggs | ![eggs](../images/farmersdelight_eggs.png) |
-| m | Milk | ![milk](../images/farmersdelight_milk.png) |
-| s | Sugar | ![sugar](../images/farmersdelight_sugar.png) |
-| w | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
+| e | Eggs | ![eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| m | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
+| s | Sugar | ![sugar](../images/farmersdelight_acacia_cabinet_front.png) |
+| w | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## Cake
@@ -471,8 +471,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Canvas | ![canvas](../images/farmersdelight_canvas.png) |
-| / | Stick | ![stick](../images/farmersdelight_stick.png) |
-| w | Planks | ![planks](../images/farmersdelight_planks.png) |
+| / | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
+| w | Planks | ![planks](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Carrot Crate
@@ -480,7 +480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
+| # | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
 
 ---
 ## Carrot
@@ -488,7 +488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carrot Crate | ![carrot_crate](../images/farmersdelight_carrot_crate.png) |
+| - | Carrot Crate | ![carrot_crate](../images/farmersdelight_carrot_crate_side.png) |
 
 ---
 ## Bone Meal'}]
@@ -496,7 +496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chicken | ![chicken](../images/farmersdelight_chicken.png) |
+| - | Chicken | ![chicken](../images/farmersdelight_chicken_cuts.png) |
 
 ---
 ## Chicken Sandwich
@@ -504,10 +504,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/farmersdelight_bread.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/farmersdelight_cooked_chicken.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
+| - | Bread | ![bread](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/farmersdelight_cooked_chicken_cuts.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
 
 ---
 ## Chicken Soup
@@ -515,10 +515,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Chicken | ![raw_chicken](../images/farmersdelight_raw_chicken.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
-| - | Vegetables | ![vegetables](../images/farmersdelight_vegetables.png) |
+| - | Raw Chicken | ![raw_chicken](../images/farmersdelight_chicken_cuts.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
+| - | Vegetables | ![vegetables](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## {}
@@ -527,7 +527,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pie Crust | ![pie_crust](../images/farmersdelight_pie_crust.png) |
-| - | Unknown | ![unknown](../images/farmersdelight_unknown.png) |
+| - | Unknown | ![unknown](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Chocolate Pie
@@ -543,7 +543,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay | ![clay](../images/farmersdelight_clay.png) |
+| - | Clay | ![clay](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Bone Meal'}]
@@ -551,7 +551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cod | ![cod](../images/farmersdelight_cod.png) |
+| - | Cod | ![cod](../images/farmersdelight_baked_cod_stew.png) |
 
 ---
 ## Cod Roll
@@ -593,7 +593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Chicken | ![cooked_chicken](../images/farmersdelight_cooked_chicken.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/farmersdelight_cooked_chicken_cuts.png) |
 
 ---
 ## Cooked Chicken Cuts
@@ -625,7 +625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Cod | ![cooked_cod](../images/farmersdelight_cooked_cod.png) |
+| - | Cooked Cod | ![cooked_cod](../images/farmersdelight_cooked_cod_slice.png) |
 
 ---
 ## Cooked Cod Slice
@@ -657,7 +657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton.png) |
+| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton_chops.png) |
 
 ---
 ## Cooked Mutton Chops
@@ -697,7 +697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cooked Salmon | ![cooked_salmon](../images/farmersdelight_cooked_salmon.png) |
+| - | Cooked Salmon | ![cooked_salmon](../images/farmersdelight_cooked_salmon_slice.png) |
 
 ---
 ## Cooked Salmon Slice
@@ -729,9 +729,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Wooden Shovel | ![wooden_shovel](../images/farmersdelight_wooden_shovel.png) |
-| W | Water Bucket | ![water_bucket](../images/farmersdelight_water_bucket.png) |
-| b | Brick | ![brick](../images/farmersdelight_brick.png) |
+| S | Wooden Shovel | ![wooden_shovel](../images/farmersdelight_acacia_cabinet_front.png) |
+| W | Water Bucket | ![water_bucket](../images/farmersdelight_acacia_cabinet_front.png) |
+| b | Brick | ![brick](../images/farmersdelight_acacia_cabinet_front.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/farmersdelight_ingots/iron.png) |
 
 ---
@@ -740,7 +740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cornflower | ![cornflower](../images/farmersdelight_cornflower.png) |
+| - | Cornflower | ![cornflower](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Crimson Cabinet
@@ -748,8 +748,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Crimson Trapdoor | ![crimson_trapdoor](../images/farmersdelight_crimson_trapdoor.png) |
-| _ | Crimson Slab | ![crimson_slab](../images/farmersdelight_crimson_slab.png) |
+| D | Crimson Trapdoor | ![crimson_trapdoor](../images/farmersdelight_crimson_cabinet_front.png) |
+| _ | Crimson Slab | ![crimson_slab](../images/farmersdelight_crimson_cabinet_front.png) |
 
 ---
 ## Crimson Planks'}]
@@ -757,7 +757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Door | ![crimson_door](../images/farmersdelight_crimson_door.png) |
+| - | Crimson Door | ![crimson_door](../images/farmersdelight_crimson_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -765,7 +765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Hyphae | ![crimson_hyphae](../images/farmersdelight_crimson_hyphae.png) |
+| - | Crimson Hyphae | ![crimson_hyphae](../images/farmersdelight_crimson_cabinet_front.png) |
 
 ---
 ## Crimson Planks'}]
@@ -773,7 +773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Sign | ![crimson_sign](../images/farmersdelight_crimson_sign.png) |
+| - | Crimson Sign | ![crimson_sign](../images/farmersdelight_black_canvas_sign.png) |
 
 ---
 ## Tree Bark'}]
@@ -781,7 +781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Stem | ![crimson_stem](../images/farmersdelight_crimson_stem.png) |
+| - | Crimson Stem | ![crimson_stem](../images/farmersdelight_crimson_cabinet_front.png) |
 
 ---
 ## Crimson Planks'}]
@@ -789,7 +789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Trapdoor | ![crimson_trapdoor](../images/farmersdelight_crimson_trapdoor.png) |
+| - | Crimson Trapdoor | ![crimson_trapdoor](../images/farmersdelight_crimson_cabinet_front.png) |
 
 ---
 ## Cutting Board
@@ -797,8 +797,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/farmersdelight_planks.png) |
-| / | Stick | ![stick](../images/farmersdelight_stick.png) |
+| # | Planks | ![planks](../images/farmersdelight_acacia_cabinet_front.png) |
+| / | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Cyan Canvas Sign
@@ -806,7 +806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/farmersdelight_dyes/cyan.png) |
 
 ---
@@ -815,7 +815,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dandelion | ![dandelion](../images/farmersdelight_dandelion.png) |
+| - | Dandelion | ![dandelion](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Dark Oak Cabinet
@@ -823,8 +823,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/farmersdelight_dark_oak_trapdoor.png) |
-| _ | Dark Oak Slab | ![dark_oak_slab](../images/farmersdelight_dark_oak_slab.png) |
+| D | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/farmersdelight_dark_oak_cabinet_front.png) |
+| _ | Dark Oak Slab | ![dark_oak_slab](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Dark Oak Planks'}]
@@ -832,7 +832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Door | ![dark_oak_door](../images/farmersdelight_dark_oak_door.png) |
+| - | Dark Oak Door | ![dark_oak_door](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -840,7 +840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Log | ![dark_oak_log](../images/farmersdelight_dark_oak_log.png) |
+| - | Dark Oak Log | ![dark_oak_log](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Dark Oak Planks'}]
@@ -848,7 +848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Sign | ![dark_oak_sign](../images/farmersdelight_dark_oak_sign.png) |
+| - | Dark Oak Sign | ![dark_oak_sign](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Dark Oak Planks'}]
@@ -856,7 +856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/farmersdelight_dark_oak_trapdoor.png) |
+| - | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -864,7 +864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Wood | ![dark_oak_wood](../images/farmersdelight_dark_oak_wood.png) |
+| - | Dark Oak Wood | ![dark_oak_wood](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Cobbled Deepslate'}]
@@ -872,7 +872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate | ![deepslate](../images/farmersdelight_deepslate.png) |
+| - | Deepslate | ![deepslate](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Diamond Knife
@@ -880,8 +880,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Diamond | ![diamond](../images/farmersdelight_diamond.png) |
-| s | Stick | ![stick](../images/farmersdelight_stick.png) |
+| m | Diamond | ![diamond](../images/farmersdelight_diamond_knife.png) |
+| s | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Dog Food
@@ -889,9 +889,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rotten Flesh | ![rotten_flesh](../images/farmersdelight_rotten_flesh.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
-| - | Wolf Prey | ![wolf_prey](../images/farmersdelight_wolf_prey.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/farmersdelight_rotten_tomato.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
+| - | Wolf Prey | ![wolf_prey](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Crops/Rice | ![crops/rice](../images/farmersdelight_crops/rice.png) |
 
 ---
@@ -900,10 +900,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dough | ![dough](../images/farmersdelight_dough.png) |
+| - | Dough | ![dough](../images/farmersdelight_wheat_dough.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/farmersdelight_crops/cabbage.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/farmersdelight_brown_mushroom'}].png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/farmersdelight_brown_canvas_sign.png) |
 
 ---
 ## Egg Sandwich
@@ -911,9 +911,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/farmersdelight_bread.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_cooked_eggs.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_cooked_eggs.png) |
+| - | Bread | ![bread](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_bacon_and_eggs.png) |
 
 ---
 ## Fish Stew
@@ -921,7 +921,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Fishes | ![raw_fishes](../images/farmersdelight_raw_fishes.png) |
+| - | Raw Fishes | ![raw_fishes](../images/farmersdelight_raw_pasta.png) |
 | - | Tomato Sauce | ![tomato_sauce](../images/farmersdelight_tomato_sauce.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 
@@ -931,8 +931,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Flint | ![flint](../images/farmersdelight_flint.png) |
-| s | Stick | ![stick](../images/farmersdelight_stick.png) |
+| m | Flint | ![flint](../images/farmersdelight_flint_knife.png) |
+| s | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Fried Egg
@@ -940,7 +940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Egg | ![egg](../images/farmersdelight_egg.png) |
+| item | Egg | ![egg](../images/farmersdelight_egg_sandwich.png) |
 
 ---
 ## Fried Egg
@@ -948,7 +948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Egg | ![egg](../images/farmersdelight_egg.png) |
+| item | Egg | ![egg](../images/farmersdelight_egg_sandwich.png) |
 
 ---
 ## Fried Egg
@@ -956,7 +956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Egg | ![egg](../images/farmersdelight_egg.png) |
+| item | Egg | ![egg](../images/farmersdelight_egg_sandwich.png) |
 
 ---
 ## Fried Rice
@@ -965,8 +965,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Rice | ![crops/rice](../images/farmersdelight_crops/rice.png) |
-| - | Eggs | ![eggs](../images/farmersdelight_eggs.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
+| - | Eggs | ![eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 
 ---
@@ -975,13 +975,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/farmersdelight_apple.png) |
-| - | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
-| - | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
-| - | Berries | ![berries](../images/farmersdelight_berries.png) |
-| - | Berries | ![berries](../images/farmersdelight_berries.png) |
+| - | Apple | ![apple](../images/farmersdelight_apple_cider.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
+| - | Berries | ![berries](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Berries | ![berries](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Pumpkin Slice | ![pumpkin_slice](../images/farmersdelight_pumpkin_slice.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 
 ---
 ## Full Tatami Mat
@@ -989,7 +989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tatami | ![tatami](../images/farmersdelight_tatami.png) |
+| - | Tatami | ![tatami](../images/farmersdelight_full_tatami_mat.png) |
 
 ---
 ## Full Tatami Mat
@@ -1006,10 +1006,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glow Berries | ![glow_berries](../images/farmersdelight_glow_berries.png) |
-| - | Milk | ![milk](../images/farmersdelight_milk.png) |
-| - | Eggs | ![eggs](../images/farmersdelight_eggs.png) |
-| - | Sugar | ![sugar](../images/farmersdelight_sugar.png) |
+| - | Glow Berries | ![glow_berries](../images/farmersdelight_glow_berry_custard.png) |
+| - | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
+| - | Eggs | ![eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Sugar | ![sugar](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Golden Knife
@@ -1017,8 +1017,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Gold Ingot | ![gold_ingot](../images/farmersdelight_gold_ingot.png) |
-| s | Stick | ![stick](../images/farmersdelight_stick.png) |
+| m | Gold Ingot | ![gold_ingot](../images/farmersdelight_acacia_cabinet_front.png) |
+| s | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Gold Nugget
@@ -1042,7 +1042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gravel | ![gravel](../images/farmersdelight_gravel.png) |
+| - | Gravel | ![gravel](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Gray Canvas Sign
@@ -1050,7 +1050,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/farmersdelight_dyes/gray.png) |
 
 ---
@@ -1059,7 +1059,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Green | ![dyes/green](../images/farmersdelight_dyes/green.png) |
 
 ---
@@ -1069,8 +1069,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooked Fishes/Salmon | ![cooked_fishes/salmon](../images/farmersdelight_cooked_fishes/salmon.png) |
-| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berries.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berry_cheesecake.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 | - | Crops/Cabbage | ![crops/cabbage](../images/farmersdelight_crops/cabbage.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 
@@ -1096,9 +1096,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/farmersdelight_bread.png) |
+| - | Bread | ![bread](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Beef Patty | ![beef_patty](../images/farmersdelight_beef_patty.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 
@@ -1108,9 +1108,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Bottle | ![honey_bottle](../images/farmersdelight_honey_bottle.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersdelight_honey_cookie.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## Honey Glazed Ham Block
@@ -1118,14 +1118,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berries.png) |
-| - | Honey Bottle | ![honey_bottle](../images/farmersdelight_honey_bottle.png) |
-| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berries.png) |
-| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berries.png) |
+| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berry_cheesecake.png) |
+| - | Honey Bottle | ![honey_bottle](../images/farmersdelight_honey_cookie.png) |
+| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berry_cheesecake.png) |
+| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berry_cheesecake.png) |
 | - | Smoked Ham | ![smoked_ham](../images/farmersdelight_smoked_ham.png) |
-| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berries.png) |
+| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berry_cheesecake.png) |
 | - | Cooked Rice | ![cooked_rice](../images/farmersdelight_cooked_rice.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 | - | Cooked Rice | ![cooked_rice](../images/farmersdelight_cooked_rice.png) |
 
 ---
@@ -1134,10 +1134,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rice Bale'}] | ![rice_bale'}]](../images/farmersdelight_rice_bale'}].png) |
-| - | Apple | ![apple](../images/farmersdelight_apple.png) |
-| - | Apple | ![apple](../images/farmersdelight_apple.png) |
-| - | Golden Carrot | ![golden_carrot](../images/farmersdelight_golden_carrot.png) |
+| - | Rice Bale'}] | ![rice_bale'}]](../images/farmersdelight_cooked_rice.png) |
+| - | Apple | ![apple](../images/farmersdelight_apple_cider.png) |
+| - | Apple | ![apple](../images/farmersdelight_apple_cider.png) |
+| - | Golden Carrot | ![golden_carrot](../images/farmersdelight_carrot_crate_side.png) |
 
 ---
 ## Hot Cocoa
@@ -1145,10 +1145,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk | ![milk](../images/farmersdelight_milk.png) |
-| - | Sugar | ![sugar](../images/farmersdelight_sugar.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/farmersdelight_cocoa_beans.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/farmersdelight_cocoa_beans.png) |
+| - | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
+| - | Sugar | ![sugar](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/farmersdelight_hot_cocoa.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/farmersdelight_hot_cocoa.png) |
 
 ---
 ## Black Dye'}]
@@ -1156,7 +1156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ink Sac | ![ink_sac](../images/farmersdelight_ink_sac.png) |
+| - | Ink Sac | ![ink_sac](../images/farmersdelight_squid_ink_pasta.png) |
 
 ---
 ## Iron Knife
@@ -1165,7 +1165,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | m | Ingots/Iron | ![ingots/iron](../images/farmersdelight_ingots/iron.png) |
-| s | Stick | ![stick](../images/farmersdelight_stick.png) |
+| s | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Iron Nugget
@@ -1189,8 +1189,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Jungle Trapdoor | ![jungle_trapdoor](../images/farmersdelight_jungle_trapdoor.png) |
-| _ | Jungle Slab | ![jungle_slab](../images/farmersdelight_jungle_slab.png) |
+| D | Jungle Trapdoor | ![jungle_trapdoor](../images/farmersdelight_jungle_cabinet_front.png) |
+| _ | Jungle Slab | ![jungle_slab](../images/farmersdelight_jungle_cabinet_front.png) |
 
 ---
 ## Jungle Planks'}]
@@ -1198,7 +1198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Door | ![jungle_door](../images/farmersdelight_jungle_door.png) |
+| - | Jungle Door | ![jungle_door](../images/farmersdelight_jungle_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -1206,7 +1206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Log | ![jungle_log](../images/farmersdelight_jungle_log.png) |
+| - | Jungle Log | ![jungle_log](../images/farmersdelight_jungle_cabinet_front.png) |
 
 ---
 ## Jungle Planks'}]
@@ -1214,7 +1214,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Sign | ![jungle_sign](../images/farmersdelight_jungle_sign.png) |
+| - | Jungle Sign | ![jungle_sign](../images/farmersdelight_black_canvas_sign.png) |
 
 ---
 ## Jungle Planks'}]
@@ -1222,7 +1222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Trapdoor | ![jungle_trapdoor](../images/farmersdelight_jungle_trapdoor.png) |
+| - | Jungle Trapdoor | ![jungle_trapdoor](../images/farmersdelight_jungle_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -1230,7 +1230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Wood | ![jungle_wood](../images/farmersdelight_jungle_wood.png) |
+| - | Jungle Wood | ![jungle_wood](../images/farmersdelight_jungle_cabinet_front.png) |
 
 ---
 ## Kelp Roll Slice'}]
@@ -1254,7 +1254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather Boots | ![leather_boots](../images/farmersdelight_leather_boots.png) |
+| - | Leather Boots | ![leather_boots](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Leather'}]
@@ -1262,7 +1262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather Chestplate | ![leather_chestplate](../images/farmersdelight_leather_chestplate.png) |
+| - | Leather Chestplate | ![leather_chestplate](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Leather'}]
@@ -1270,7 +1270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather Helmet | ![leather_helmet](../images/farmersdelight_leather_helmet.png) |
+| - | Leather Helmet | ![leather_helmet](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Leather'}]
@@ -1278,7 +1278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather Horse Armor | ![leather_horse_armor](../images/farmersdelight_leather_horse_armor.png) |
+| - | Leather Horse Armor | ![leather_horse_armor](../images/farmersdelight_horse_feed.png) |
 
 ---
 ## Leather'}]
@@ -1286,7 +1286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leather Leggings | ![leather_leggings](../images/farmersdelight_leather_leggings.png) |
+| - | Leather Leggings | ![leather_leggings](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Light Blue Canvas Sign
@@ -1294,7 +1294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/farmersdelight_dyes/light_blue.png) |
 
 ---
@@ -1303,7 +1303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/farmersdelight_dyes/light_gray.png) |
 
 ---
@@ -1312,7 +1312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lily Of The Valley | ![lily_of_the_valley](../images/farmersdelight_lily_of_the_valley.png) |
+| - | Lily Of The Valley | ![lily_of_the_valley](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Lime Canvas Sign
@@ -1320,7 +1320,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/farmersdelight_dyes/lime.png) |
 
 ---
@@ -1329,7 +1329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/farmersdelight_dyes/magenta.png) |
 
 ---
@@ -1338,8 +1338,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mangrove Trapdoor | ![mangrove_trapdoor](../images/farmersdelight_mangrove_trapdoor.png) |
-| _ | Mangrove Slab | ![mangrove_slab](../images/farmersdelight_mangrove_slab.png) |
+| D | Mangrove Trapdoor | ![mangrove_trapdoor](../images/farmersdelight_mangrove_cabinet_front.png) |
+| _ | Mangrove Slab | ![mangrove_slab](../images/farmersdelight_mangrove_cabinet_front.png) |
 
 ---
 ## Mangrove Planks'}]
@@ -1347,7 +1347,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Door | ![mangrove_door](../images/farmersdelight_mangrove_door.png) |
+| - | Mangrove Door | ![mangrove_door](../images/farmersdelight_mangrove_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -1355,7 +1355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Log | ![mangrove_log](../images/farmersdelight_mangrove_log.png) |
+| - | Mangrove Log | ![mangrove_log](../images/farmersdelight_mangrove_cabinet_front.png) |
 
 ---
 ## Mangrove Planks'}]
@@ -1363,7 +1363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Sign | ![mangrove_sign](../images/farmersdelight_mangrove_sign.png) |
+| - | Mangrove Sign | ![mangrove_sign](../images/farmersdelight_black_canvas_sign.png) |
 
 ---
 ## Mangrove Planks'}]
@@ -1371,7 +1371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Trapdoor | ![mangrove_trapdoor](../images/farmersdelight_mangrove_trapdoor.png) |
+| - | Mangrove Trapdoor | ![mangrove_trapdoor](../images/farmersdelight_mangrove_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -1379,7 +1379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Wood | ![mangrove_wood](../images/farmersdelight_mangrove_wood.png) |
+| - | Mangrove Wood | ![mangrove_wood](../images/farmersdelight_mangrove_cabinet_front.png) |
 
 ---
 ## Melon Slice'}]
@@ -1387,7 +1387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon | ![melon](../images/farmersdelight_melon.png) |
+| - | Melon | ![melon](../images/farmersdelight_melon_juice.png) |
 
 ---
 ## Melon Juice
@@ -1395,12 +1395,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
-| - | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
-| - | Sugar | ![sugar](../images/farmersdelight_sugar.png) |
-| - | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
-| - | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
-| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_glass_bottle.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
+| - | Sugar | ![sugar](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
+| - | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
+| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_milk_bottle.png) |
 
 ---
 ## Melon Popsicle
@@ -1408,9 +1408,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick | ![stick](../images/farmersdelight_stick.png) |
-| i | Ice | ![ice](../images/farmersdelight_ice.png) |
-| m | Melon Slice | ![melon_slice](../images/farmersdelight_melon_slice.png) |
+| - | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
+| i | Ice | ![ice](../images/farmersdelight_acacia_cabinet_front.png) |
+| m | Melon Slice | ![melon_slice](../images/farmersdelight_apple_pie_slice.png) |
 
 ---
 ## Milk Bottle
@@ -1418,11 +1418,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/farmersdelight_milk_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_glass_bottle.png) |
+| - | Milk Bucket | ![milk_bucket](../images/farmersdelight_milk_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_milk_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_milk_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_milk_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/farmersdelight_milk_bottle.png) |
 
 ---
 ## Milk Bucket
@@ -1430,7 +1430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bucket | ![bucket](../images/farmersdelight_bucket.png) |
+| - | Bucket | ![bucket](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Milk Bottle | ![milk_bottle](../images/farmersdelight_milk_bottle.png) |
 | - | Milk Bottle | ![milk_bottle](../images/farmersdelight_milk_bottle.png) |
 | - | Milk Bottle | ![milk_bottle](../images/farmersdelight_milk_bottle.png) |
@@ -1442,10 +1442,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 
 ---
 ## Mushroom Rice
@@ -1453,10 +1453,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom.png) |
-| - | Red Mushroom | ![red_mushroom](../images/farmersdelight_red_mushroom.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom_colony_stage0.png) |
+| - | Red Mushroom | ![red_mushroom](../images/farmersdelight_red_mushroom_colony_stage0.png) |
 | - | Crops/Rice | ![crops/rice](../images/farmersdelight_crops/rice.png) |
-| - | Potato'}] | ![potato'}]](../images/farmersdelight_potato'}].png) |
+| - | Potato'}] | ![potato'}]](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Mushroom Stew
@@ -1464,8 +1464,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom.png) |
-| - | Red Mushroom | ![red_mushroom](../images/farmersdelight_red_mushroom.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom_colony_stage0.png) |
+| - | Red Mushroom | ![red_mushroom](../images/farmersdelight_red_mushroom_colony_stage0.png) |
 
 ---
 ## Mutton Chops'}]
@@ -1473,7 +1473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mutton | ![mutton](../images/farmersdelight_mutton.png) |
+| - | Mutton | ![mutton](../images/farmersdelight_cooked_mutton_chops.png) |
 
 ---
 ## Mutton Wrap
@@ -1481,9 +1481,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/farmersdelight_bread.png) |
-| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
+| - | Bread | ![bread](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton_chops.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 
 ---
@@ -1499,7 +1499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherwood Log | ![netherwood_log](../images/farmersdelight_netherwood_log.png) |
+| - | Netherwood Log | ![netherwood_log](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Nether Brick'}]
@@ -1507,7 +1507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Bricks | ![nether_bricks](../images/farmersdelight_nether_bricks.png) |
+| - | Nether Bricks | ![nether_bricks](../images/farmersdelight_nether_salad.png) |
 
 ---
 ## Nether Salad
@@ -1515,9 +1515,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Fungus | ![crimson_fungus](../images/farmersdelight_crimson_fungus.png) |
-| - | Warped Fungus | ![warped_fungus](../images/farmersdelight_warped_fungus.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/farmersdelight_crimson_cabinet_front.png) |
+| - | Warped Fungus | ![warped_fungus](../images/farmersdelight_warped_cabinet_front.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 
 ---
 ## Noodle Soup
@@ -1525,10 +1525,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pasta | ![pasta](../images/farmersdelight_pasta.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_cooked_eggs.png) |
-| - | Dried Kelp | ![dried_kelp](../images/farmersdelight_dried_kelp.png) |
-| - | Raw Pork | ![raw_pork](../images/farmersdelight_raw_pork.png) |
+| - | Pasta | ![pasta](../images/farmersdelight_pasta_with_meatballs.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Dried Kelp | ![dried_kelp](../images/farmersdelight_kelp_roll.png) |
+| - | Raw Pork | ![raw_pork](../images/farmersdelight_raw_pasta.png) |
 
 ---
 ## Oak Cabinet
@@ -1536,8 +1536,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Oak Trapdoor | ![oak_trapdoor](../images/farmersdelight_oak_trapdoor.png) |
-| _ | Oak Slab | ![oak_slab](../images/farmersdelight_oak_slab.png) |
+| D | Oak Trapdoor | ![oak_trapdoor](../images/farmersdelight_dark_oak_cabinet_front.png) |
+| _ | Oak Slab | ![oak_slab](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Oak Planks'}]
@@ -1545,7 +1545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Door | ![oak_door](../images/farmersdelight_oak_door.png) |
+| - | Oak Door | ![oak_door](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -1553,7 +1553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Log | ![oak_log](../images/farmersdelight_oak_log.png) |
+| - | Oak Log | ![oak_log](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Oak Planks'}]
@@ -1561,7 +1561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Sign | ![oak_sign](../images/farmersdelight_oak_sign.png) |
+| - | Oak Sign | ![oak_sign](../images/farmersdelight_black_canvas_sign.png) |
 
 ---
 ## Oak Planks'}]
@@ -1569,7 +1569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Trapdoor | ![oak_trapdoor](../images/farmersdelight_oak_trapdoor.png) |
+| - | Oak Trapdoor | ![oak_trapdoor](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -1577,7 +1577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Wood | ![oak_wood](../images/farmersdelight_oak_wood.png) |
+| - | Oak Wood | ![oak_wood](../images/farmersdelight_dark_oak_cabinet_front.png) |
 
 ---
 ## {}
@@ -1600,7 +1600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/farmersdelight_dyes/orange.png) |
 
 ---
@@ -1609,7 +1609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Tulip | ![orange_tulip](../images/farmersdelight_orange_tulip.png) |
+| - | Orange Tulip | ![orange_tulip](../images/farmersdelight_orange_canvas_sign.png) |
 
 ---
 ## Organic Compost
@@ -1617,15 +1617,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/farmersdelight_dirt.png) |
-| - | Rotten Flesh | ![rotten_flesh](../images/farmersdelight_rotten_flesh.png) |
-| - | Rotten Flesh | ![rotten_flesh](../images/farmersdelight_rotten_flesh.png) |
+| - | Dirt | ![dirt](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/farmersdelight_rotten_tomato.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/farmersdelight_rotten_tomato.png) |
 | - | Straw | ![straw](../images/farmersdelight_straw.png) |
 | - | Straw | ![straw](../images/farmersdelight_straw.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
 
 ---
 ## Organic Compost
@@ -1633,11 +1633,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/farmersdelight_dirt.png) |
+| - | Dirt | ![dirt](../images/farmersdelight_acacia_cabinet_front.png) |
 | - | Straw | ![straw](../images/farmersdelight_straw.png) |
 | - | Straw | ![straw](../images/farmersdelight_straw.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
-| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_meal.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
+| - | Bone Meal | ![bone_meal](../images/farmersdelight_bone_broth.png) |
 | - | Tree Bark | ![tree_bark](../images/farmersdelight_tree_bark.png) |
 | - | Tree Bark | ![tree_bark](../images/farmersdelight_tree_bark.png) |
 | - | Tree Bark | ![tree_bark](../images/farmersdelight_tree_bark.png) |
@@ -1649,7 +1649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oxeye Daisy | ![oxeye_daisy](../images/farmersdelight_oxeye_daisy.png) |
+| - | Oxeye Daisy | ![oxeye_daisy](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Packed Mud
@@ -1658,8 +1658,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Straw | ![straw](../images/farmersdelight_straw.png) |
-| - | Mud | ![mud](../images/farmersdelight_mud.png) |
-| - | Mud | ![mud](../images/farmersdelight_mud.png) |
+| - | Mud | ![mud](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Mud | ![mud](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Painting
@@ -1668,7 +1668,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Canvas | ![canvas](../images/farmersdelight_canvas.png) |
-| s | Stick | ![stick](../images/farmersdelight_stick.png) |
+| s | Stick | ![stick](../images/farmersdelight_barbecue_stick.png) |
 
 ---
 ## Paper
@@ -1687,7 +1687,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Minced Beef | ![minced_beef](../images/farmersdelight_minced_beef.png) |
-| - | Pasta | ![pasta](../images/farmersdelight_pasta.png) |
+| - | Pasta | ![pasta](../images/farmersdelight_pasta_with_meatballs.png) |
 | - | Tomato Sauce | ![tomato_sauce](../images/farmersdelight_tomato_sauce.png) |
 
 ---
@@ -1696,8 +1696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Mutton | ![raw_mutton](../images/farmersdelight_raw_mutton.png) |
-| - | Pasta | ![pasta](../images/farmersdelight_pasta.png) |
+| - | Raw Mutton | ![raw_mutton](../images/farmersdelight_cooked_mutton_chops.png) |
+| - | Pasta | ![pasta](../images/farmersdelight_pasta_with_meatballs.png) |
 | - | Tomato Sauce | ![tomato_sauce](../images/farmersdelight_tomato_sauce.png) |
 
 ---
@@ -1706,8 +1706,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Milk | ![milk](../images/farmersdelight_milk.png) |
-| w | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
+| M | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
+| w | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## {}
@@ -1715,10 +1715,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat Flour | ![wheat_flour](../images/farmersdelight_wheat_flour.png) |
-| - | Wheat Flour | ![wheat_flour](../images/farmersdelight_wheat_flour.png) |
-| - | Wheat Flour | ![wheat_flour](../images/farmersdelight_wheat_flour.png) |
-| - | Unknown | ![unknown](../images/farmersdelight_unknown.png) |
+| - | Wheat Flour | ![wheat_flour](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat Flour | ![wheat_flour](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat Flour | ![wheat_flour](../images/farmersdelight_wheat_dough.png) |
+| - | Unknown | ![unknown](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Pink Canvas Sign
@@ -1726,7 +1726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/farmersdelight_dyes/pink.png) |
 
 ---
@@ -1735,7 +1735,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Tulip | ![pink_tulip](../images/farmersdelight_pink_tulip.png) |
+| - | Pink Tulip | ![pink_tulip](../images/farmersdelight_pink_canvas_sign.png) |
 
 ---
 ## Red Dye'}]
@@ -1743,7 +1743,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Poppy | ![poppy](../images/farmersdelight_poppy.png) |
+| - | Poppy | ![poppy](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Bacon'}]
@@ -1751,7 +1751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Porkchop | ![porkchop](../images/farmersdelight_porkchop.png) |
+| - | Porkchop | ![porkchop](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Potato Crate
@@ -1759,7 +1759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Potato | ![potato](../images/farmersdelight_potato.png) |
+| # | Potato | ![potato](../images/farmersdelight_potato_crate_side.png) |
 
 ---
 ## Potato
@@ -1767,7 +1767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potato Crate | ![potato_crate](../images/farmersdelight_potato_crate.png) |
+| - | Potato Crate | ![potato_crate](../images/farmersdelight_potato_crate_side.png) |
 
 ---
 ## Pumpkin Slice
@@ -1799,9 +1799,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pumpkin Slice | ![pumpkin_slice](../images/farmersdelight_pumpkin_slice.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
-| - | Raw Pork | ![raw_pork](../images/farmersdelight_raw_pork.png) |
-| - | Milk | ![milk](../images/farmersdelight_milk.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
+| - | Raw Pork | ![raw_pork](../images/farmersdelight_raw_pasta.png) |
+| - | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
 
 ---
 ## Purple Canvas Sign
@@ -1809,7 +1809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/farmersdelight_dyes/purple.png) |
 
 ---
@@ -1818,7 +1818,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Block | ![quartz_block](../images/farmersdelight_quartz_block.png) |
+| - | Quartz Block | ![quartz_block](../images/farmersdelight_honey_glazed_ham_block.png) |
 
 ---
 ## Rabbit Stew
@@ -1826,10 +1826,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
-| - | Rabbit | ![rabbit](../images/farmersdelight_rabbit.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Red Mushroom'}] | ![red_mushroom'}]](../images/farmersdelight_red_mushroom'}].png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
+| - | Rabbit | ![rabbit](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Red Mushroom'}] | ![red_mushroom'}]](../images/farmersdelight_red_canvas_sign.png) |
 
 ---
 ## Ratatouille
@@ -1839,8 +1839,8 @@
 | :--- | :--- | :--- |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
-| - | Vegetables | ![vegetables](../images/farmersdelight_vegetables.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
+| - | Vegetables | ![vegetables](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Red Canvas Sign
@@ -1848,7 +1848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Red | ![dyes/red](../images/farmersdelight_dyes/red.png) |
 
 ---
@@ -1857,7 +1857,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Mushroom Colony | ![red_mushroom_colony](../images/farmersdelight_red_mushroom_colony.png) |
+| - | Red Mushroom Colony | ![red_mushroom_colony](../images/farmersdelight_red_mushroom_colony_stage0.png) |
 
 ---
 ## Red Dye'}]
@@ -1865,7 +1865,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Tulip | ![red_tulip](../images/farmersdelight_red_tulip.png) |
+| - | Red Tulip | ![red_tulip](../images/farmersdelight_red_canvas_sign.png) |
 
 ---
 ## {}
@@ -1896,7 +1896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rice Bag | ![rice_bag](../images/farmersdelight_rice_bag.png) |
+| - | Rice Bag | ![rice_bag](../images/farmersdelight_rice_bag_bottom.png) |
 
 ---
 ## Rice
@@ -1918,7 +1918,7 @@
 | - | Salmon Roll | ![salmon_roll](../images/farmersdelight_salmon_roll.png) |
 | - | Salmon Roll | ![salmon_roll](../images/farmersdelight_salmon_roll.png) |
 | - | Cod Roll | ![cod_roll](../images/farmersdelight_cod_roll.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 | - | Cod Roll | ![cod_roll](../images/farmersdelight_cod_roll.png) |
 
 ---
@@ -1928,8 +1928,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cooked Mutton Chops | ![cooked_mutton_chops](../images/farmersdelight_cooked_mutton_chops.png) |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 | - | Cooked Rice | ![cooked_rice](../images/farmersdelight_cooked_rice.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 
@@ -1940,14 +1940,14 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
-| - | Eggs | ![eggs](../images/farmersdelight_eggs.png) |
-| - | Bread | ![bread](../images/farmersdelight_bread.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/farmersdelight_cooked_chicken.png) |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
+| - | Eggs | ![eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Bread | ![bread](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/farmersdelight_cooked_chicken_cuts.png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
 
 ---
 ## Rope
@@ -1971,7 +1971,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saddle | ![saddle](../images/farmersdelight_saddle.png) |
+| - | Saddle | ![saddle](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Safety Net
@@ -1987,7 +1987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salmon | ![salmon](../images/farmersdelight_salmon.png) |
+| - | Salmon | ![salmon](../images/farmersdelight_cooked_salmon_slice.png) |
 
 ---
 ## Salmon Roll
@@ -2006,7 +2006,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Canvas | ![canvas](../images/farmersdelight_canvas.png) |
-| b | Bamboo | ![bamboo](../images/farmersdelight_bamboo.png) |
+| b | Bamboo | ![bamboo](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Shepherds Pie Block
@@ -2014,14 +2014,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
-| - | Milk | ![milk](../images/farmersdelight_milk.png) |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
-| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton.png) |
-| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton.png) |
-| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton.png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
+| - | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
+| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton_chops.png) |
+| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton_chops.png) |
+| - | Cooked Mutton | ![cooked_mutton](../images/farmersdelight_cooked_mutton_chops.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 
 ---
@@ -2031,7 +2031,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/farmersdelight_ingots/iron.png) |
-| / | Brick | ![brick](../images/farmersdelight_brick.png) |
+| / | Brick | ![brick](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Bone'}]
@@ -2047,8 +2047,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Spruce Trapdoor | ![spruce_trapdoor](../images/farmersdelight_spruce_trapdoor.png) |
-| _ | Spruce Slab | ![spruce_slab](../images/farmersdelight_spruce_slab.png) |
+| D | Spruce Trapdoor | ![spruce_trapdoor](../images/farmersdelight_spruce_cabinet_front.png) |
+| _ | Spruce Slab | ![spruce_slab](../images/farmersdelight_spruce_cabinet_front.png) |
 
 ---
 ## Spruce Planks'}]
@@ -2056,7 +2056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Door | ![spruce_door](../images/farmersdelight_spruce_door.png) |
+| - | Spruce Door | ![spruce_door](../images/farmersdelight_spruce_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -2064,7 +2064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Log | ![spruce_log](../images/farmersdelight_spruce_log.png) |
+| - | Spruce Log | ![spruce_log](../images/farmersdelight_spruce_cabinet_front.png) |
 
 ---
 ## Spruce Planks'}]
@@ -2072,7 +2072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Sign | ![spruce_sign](../images/farmersdelight_spruce_sign.png) |
+| - | Spruce Sign | ![spruce_sign](../images/farmersdelight_black_canvas_sign.png) |
 
 ---
 ## Spruce Planks'}]
@@ -2080,7 +2080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Trapdoor | ![spruce_trapdoor](../images/farmersdelight_spruce_trapdoor.png) |
+| - | Spruce Trapdoor | ![spruce_trapdoor](../images/farmersdelight_spruce_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -2088,7 +2088,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Wood | ![spruce_wood](../images/farmersdelight_spruce_wood.png) |
+| - | Spruce Wood | ![spruce_wood](../images/farmersdelight_spruce_cabinet_front.png) |
 
 ---
 ## Squid Ink Pasta
@@ -2096,10 +2096,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Fishes | ![raw_fishes](../images/farmersdelight_raw_fishes.png) |
-| - | Pasta | ![pasta](../images/farmersdelight_pasta.png) |
+| - | Raw Fishes | ![raw_fishes](../images/farmersdelight_raw_pasta.png) |
+| - | Pasta | ![pasta](../images/farmersdelight_pasta_with_meatballs.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
-| - | Ink Sac | ![ink_sac](../images/farmersdelight_ink_sac.png) |
+| - | Ink Sac | ![ink_sac](../images/farmersdelight_squid_ink_pasta.png) |
 
 ---
 ## Steak And Potatoes
@@ -2107,9 +2107,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
-| - | Cooked Beef | ![cooked_beef](../images/farmersdelight_cooked_beef.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
+| - | Cooked Beef | ![cooked_beef](../images/farmersdelight_beef_patty.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
 | - | Cooked Rice | ![cooked_rice](../images/farmersdelight_cooked_rice.png) |
 
@@ -2119,7 +2119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/farmersdelight_stone.png) |
+| - | Stone | ![stone](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Stove
@@ -2127,8 +2127,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bricks | ![bricks](../images/farmersdelight_bricks.png) |
-| C | Campfire | ![campfire](../images/farmersdelight_campfire.png) |
+| B | Bricks | ![bricks](../images/farmersdelight_acacia_cabinet_front.png) |
+| C | Campfire | ![campfire](../images/farmersdelight_acacia_cabinet_front.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/farmersdelight_ingots/iron.png) |
 
 ---
@@ -2137,7 +2137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Straw Bale | ![straw_bale](../images/farmersdelight_straw_bale.png) |
+| - | Straw Bale | ![straw_bale](../images/farmersdelight_straw_bale_end.png) |
 
 ---
 ## Straw Bale
@@ -2153,9 +2153,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_potato.png) |
-| - | Cooked Beef | ![cooked_beef](../images/farmersdelight_cooked_beef.png) |
-| - | Milk | ![milk](../images/farmersdelight_milk.png) |
+| - | Baked Potato | ![baked_potato](../images/farmersdelight_baked_cod_stew.png) |
+| - | Cooked Beef | ![cooked_beef](../images/farmersdelight_beef_patty.png) |
+| - | Milk | ![milk](../images/farmersdelight_milk_bottle.png) |
 
 ---
 ## Stuffed Pumpkin Block
@@ -2165,10 +2165,10 @@
 | :--- | :--- | :--- |
 | - | Crops/Rice | ![crops/rice](../images/farmersdelight_crops/rice.png) |
 | - | Crops/Onion | ![crops/onion](../images/farmersdelight_crops/onion.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom.png) |
-| - | Potato | ![potato](../images/farmersdelight_potato.png) |
-| - | Berries | ![berries](../images/farmersdelight_berries.png) |
-| - | Vegetables | ![vegetables](../images/farmersdelight_vegetables.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom_colony_stage0.png) |
+| - | Potato | ![potato](../images/farmersdelight_potato_crate_side.png) |
+| - | Berries | ![berries](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Vegetables | ![vegetables](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Sweet Berry Cheesecake Slice'}]
@@ -2192,9 +2192,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berries.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
+| - | Sweet Berries | ![sweet_berries](../images/farmersdelight_sweet_berry_cheesecake.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## Raw Pasta'}]
@@ -2202,7 +2202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dough | ![dough](../images/farmersdelight_dough.png) |
+| - | Dough | ![dough](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## Tatami
@@ -2254,7 +2254,7 @@
 | :--- | :--- | :--- |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/farmersdelight_crops/tomato.png) |
-| - | Bowl | ![bowl](../images/farmersdelight_bowl.png) |
+| - | Bowl | ![bowl](../images/farmersdelight_empty_container_slot_bowl.png) |
 
 ---
 ## {}
@@ -2269,11 +2269,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom.png) |
-| - | Pasta | ![pasta](../images/farmersdelight_pasta.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
-| - | Vegetables | ![vegetables](../images/farmersdelight_vegetables.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/farmersdelight_brown_mushroom_colony_stage0.png) |
+| - | Pasta | ![pasta](../images/farmersdelight_pasta_with_meatballs.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
+| - | Vegetables | ![vegetables](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Vegetable Soup
@@ -2281,10 +2281,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carrot | ![carrot](../images/farmersdelight_carrot.png) |
-| - | Potato | ![potato](../images/farmersdelight_potato.png) |
-| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_salad_ingredients.png) |
+| - | Carrot | ![carrot](../images/farmersdelight_carrot_crate_side.png) |
+| - | Potato | ![potato](../images/farmersdelight_potato_crate_side.png) |
+| - | Beetroot | ![beetroot](../images/farmersdelight_beetroot_crate_side.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/farmersdelight_fruit_salad.png) |
 
 ---
 ## Warped Cabinet
@@ -2292,8 +2292,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Warped Trapdoor | ![warped_trapdoor](../images/farmersdelight_warped_trapdoor.png) |
-| _ | Warped Slab | ![warped_slab](../images/farmersdelight_warped_slab.png) |
+| D | Warped Trapdoor | ![warped_trapdoor](../images/farmersdelight_warped_cabinet_front.png) |
+| _ | Warped Slab | ![warped_slab](../images/farmersdelight_warped_cabinet_front.png) |
 
 ---
 ## Warped Planks'}]
@@ -2301,7 +2301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Door | ![warped_door](../images/farmersdelight_warped_door.png) |
+| - | Warped Door | ![warped_door](../images/farmersdelight_warped_cabinet_front.png) |
 
 ---
 ## Tree Bark'}]
@@ -2309,7 +2309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Hyphae | ![warped_hyphae](../images/farmersdelight_warped_hyphae.png) |
+| - | Warped Hyphae | ![warped_hyphae](../images/farmersdelight_warped_cabinet_front.png) |
 
 ---
 ## Warped Planks'}]
@@ -2317,7 +2317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Sign | ![warped_sign](../images/farmersdelight_warped_sign.png) |
+| - | Warped Sign | ![warped_sign](../images/farmersdelight_black_canvas_sign.png) |
 
 ---
 ## Tree Bark'}]
@@ -2325,7 +2325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Stem | ![warped_stem](../images/farmersdelight_warped_stem.png) |
+| - | Warped Stem | ![warped_stem](../images/farmersdelight_warped_cabinet_front.png) |
 
 ---
 ## Warped Planks'}]
@@ -2333,7 +2333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Trapdoor | ![warped_trapdoor](../images/farmersdelight_warped_trapdoor.png) |
+| - | Warped Trapdoor | ![warped_trapdoor](../images/farmersdelight_warped_cabinet_front.png) |
 
 ---
 ## Wheat Dough
@@ -2341,10 +2341,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Eggs | ![eggs](../images/farmersdelight_eggs.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
+| - | Eggs | ![eggs](../images/farmersdelight_bacon_and_eggs.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## Wheat Dough
@@ -2352,10 +2352,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Water Bucket | ![water_bucket](../images/farmersdelight_water_bucket.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
-| - | Wheat | ![wheat](../images/farmersdelight_wheat.png) |
+| - | Water Bucket | ![water_bucket](../images/farmersdelight_acacia_cabinet_front.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
+| - | Wheat | ![wheat](../images/farmersdelight_wheat_dough.png) |
 
 ---
 ## White Canvas Sign
@@ -2363,7 +2363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/White | ![dyes/white](../images/farmersdelight_dyes/white.png) |
 
 ---
@@ -2372,7 +2372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Tulip | ![white_tulip](../images/farmersdelight_white_tulip.png) |
+| - | White Tulip | ![white_tulip](../images/farmersdelight_white_canvas_sign.png) |
 
 ---
 ## Beetroot Seeds'}}
@@ -2429,7 +2429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wither Rose | ![wither_rose](../images/farmersdelight_wither_rose.png) |
+| - | Wither Rose | ![wither_rose](../images/farmersdelight_acacia_cabinet_front.png) |
 
 ---
 ## Yellow Canvas Sign
@@ -2437,7 +2437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_canvas_signs.png) |
+| - | Canvas Signs | ![canvas_signs](../images/farmersdelight_black_canvas_sign.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/farmersdelight_dyes/yellow.png) |
 
 ---

@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
@@ -70,7 +70,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Nether Quartz | ![all_nether_quartz](../images/ae2_all_nether_quartz.png) |
+| a | All Nether Quartz | ![all_nether_quartz](../images/ae2_nether_quartz_axe.png) |
 | b | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
 | c | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 
@@ -80,7 +80,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| a | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 | b | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | c | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 
@@ -91,7 +91,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| b | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 | c | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 
 ---
@@ -160,8 +160,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Metal Ingots | ![metal_ingots](../images/ae2_metal_ingots.png) |
-| - | Knife | ![knife](../images/ae2_knife.png) |
+| - | Metal Ingots | ![metal_ingots](../images/ae2_quartz_fixture_metal.png) |
+| - | Knife | ![knife](../images/ae2_certus_quartz_cutting_knife.png) |
 
 ---
 ## {}
@@ -184,7 +184,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | bottom | Printed Silicon | ![printed_silicon](../images/ae2_printed_silicon.png) |
-| middle | Redstone | ![redstone](../images/ae2_redstone.png) |
+| middle | Redstone | ![redstone](../images/ae2_card_redstone.png) |
 | top | Printed Calculation Processor | ![printed_calculation_processor](../images/ae2_printed_calculation_processor.png) |
 
 ---
@@ -193,7 +193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| middle | Iron Block | ![iron_block](../images/ae2_iron_block.png) |
+| middle | Iron Block | ![iron_block](../images/ae2_chiseled_quartz_block_side.png) |
 | top | Calculation Processor Press | ![calculation_processor_press](../images/ae2_calculation_processor_press.png) |
 
 ---
@@ -218,7 +218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| - | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | - | Basic Card | ![basic_card](../images/ae2_basic_card.png) |
 
 ---
@@ -227,7 +227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crafting Table | ![crafting_table](../images/ae2_crafting_table.png) |
+| - | Crafting Table | ![crafting_table](../images/ae2_card_crafting.png) |
 | - | Basic Card | ![basic_card](../images/ae2_basic_card.png) |
 
 ---
@@ -255,7 +255,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Advanced Card | ![advanced_card](../images/ae2_advanced_card.png) |
-| - | Wool | ![wool](../images/ae2_wool.png) |
+| - | Wool | ![wool](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## Inverter Card
@@ -263,7 +263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Torch | ![redstone_torch](../images/ae2_redstone_torch.png) |
+| - | Redstone Torch | ![redstone_torch](../images/ae2_card_redstone.png) |
 | - | Advanced Card | ![advanced_card](../images/ae2_advanced_card.png) |
 
 ---
@@ -272,7 +272,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Torch | ![redstone_torch](../images/ae2_redstone_torch.png) |
+| - | Redstone Torch | ![redstone_torch](../images/ae2_card_redstone.png) |
 | - | Basic Card | ![basic_card](../images/ae2_basic_card.png) |
 
 ---
@@ -282,7 +282,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Advanced Card | ![advanced_card](../images/ae2_advanced_card.png) |
-| - | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| - | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 
 ---
 ## Void Card
@@ -299,7 +299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Wool | ![wool](../images/ae2_wool.png) |
+| a | Wool | ![wool](../images/ae2_16k_fluid_cell.png) |
 | b | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
 | c | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | d | Chests/Wooden | ![chests/wooden](../images/ae2_chests/wooden.png) |
@@ -342,7 +342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | - | Certus Quartz Dust | ![certus_quartz_dust](../images/ae2_certus_quartz_dust.png) |
 
 ---
@@ -474,7 +474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | - | Damaged Budding Quartz | ![damaged_budding_quartz](../images/ae2_damaged_budding_quartz.png) |
 
 ---
@@ -483,7 +483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block.png) |
+| # | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block_side.png) |
 
 ---
 ## Chiseled Quartz Block
@@ -499,7 +499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block.png) |
+| item | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block_side.png) |
 
 ---
 ## Chiseled Quartz Stairs
@@ -507,7 +507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block.png) |
+| item | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block_side.png) |
 
 ---
 ## Chiseled Quartz Wall
@@ -515,7 +515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block.png) |
+| item | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block_side.png) |
 
 ---
 ## {}
@@ -561,7 +561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Black | ![dyes/black](../images/ae2_dyes/black.png) |
 
 ---
@@ -570,7 +570,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Blue | ![dyes/blue](../images/ae2_dyes/blue.png) |
 
 ---
@@ -579,7 +579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Brown | ![dyes/brown](../images/ae2_dyes/brown.png) |
 
 ---
@@ -588,7 +588,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Cyan | ![dyes/cyan](../images/ae2_dyes/cyan.png) |
 
 ---
@@ -597,8 +597,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wool | ![wool](../images/ae2_wool.png) |
-| - | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| - | Wool | ![wool](../images/ae2_16k_fluid_cell.png) |
+| - | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 
 ---
 ## Fluix Covered Cable
@@ -606,8 +606,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Covered Cable | ![covered_cable](../images/ae2_covered_cable.png) |
-| - | Can Remove Color | ![can_remove_color](../images/ae2_can_remove_color.png) |
+| - | Covered Cable | ![covered_cable](../images/ae2_16k_fluid_cell.png) |
+| - | Can Remove Color | ![can_remove_color](../images/ae2_color_applicator.png) |
 
 ---
 ## Gray Covered Cable
@@ -615,7 +615,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Gray | ![dyes/gray](../images/ae2_dyes/gray.png) |
 
 ---
@@ -624,7 +624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Green | ![dyes/green](../images/ae2_dyes/green.png) |
 
 ---
@@ -633,7 +633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Light Blue | ![dyes/light_blue](../images/ae2_dyes/light_blue.png) |
 
 ---
@@ -642,7 +642,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Light Gray | ![dyes/light_gray](../images/ae2_dyes/light_gray.png) |
 
 ---
@@ -651,7 +651,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Lime | ![dyes/lime](../images/ae2_dyes/lime.png) |
 
 ---
@@ -660,7 +660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Magenta | ![dyes/magenta](../images/ae2_dyes/magenta.png) |
 
 ---
@@ -669,7 +669,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Orange | ![dyes/orange](../images/ae2_dyes/orange.png) |
 
 ---
@@ -678,7 +678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Pink | ![dyes/pink](../images/ae2_dyes/pink.png) |
 
 ---
@@ -687,7 +687,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Purple | ![dyes/purple](../images/ae2_dyes/purple.png) |
 
 ---
@@ -696,7 +696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Red | ![dyes/red](../images/ae2_dyes/red.png) |
 
 ---
@@ -705,7 +705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/White | ![dyes/white](../images/ae2_dyes/white.png) |
 
 ---
@@ -714,7 +714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| a | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Yellow | ![dyes/yellow](../images/ae2_dyes/yellow.png) |
 
 ---
@@ -732,7 +732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Storage Monitor | ![storage_monitor](../images/ae2_storage_monitor.png) |
+| - | Storage Monitor | ![storage_monitor](../images/ae2_16k_storage.png) |
 | - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
@@ -743,7 +743,7 @@
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | b | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
-| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | d | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 
 ---
@@ -771,7 +771,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | c | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | d | Fluix Block | ![fluix_block](../images/ae2_fluix_block.png) |
 
@@ -821,7 +821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | - | Quartz Block | ![quartz_block](../images/ae2_quartz_block.png) |
 
 ---
@@ -846,7 +846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar.png) |
+| - | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar_side.png) |
 
 ---
 ## Certus Quartz Crystal
@@ -854,7 +854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block.png) |
+| - | Chiseled Quartz Block | ![chiseled_quartz_block](../images/ae2_chiseled_quartz_block_side.png) |
 
 ---
 ## Certus Quartz Crystal
@@ -886,7 +886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Black | ![dyes/black](../images/ae2_dyes/black.png) |
 
 ---
@@ -895,7 +895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Blue | ![dyes/blue](../images/ae2_dyes/blue.png) |
 
 ---
@@ -904,7 +904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Brown | ![dyes/brown](../images/ae2_dyes/brown.png) |
 
 ---
@@ -913,7 +913,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Cyan | ![dyes/cyan](../images/ae2_dyes/cyan.png) |
 
 ---
@@ -922,10 +922,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
-| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
-| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
-| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
+| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
+| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
+| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 
 ---
 ## Fluix Covered Dense Cable
@@ -933,8 +933,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Covered Dense Cable | ![covered_dense_cable](../images/ae2_covered_dense_cable.png) |
-| - | Can Remove Color | ![can_remove_color](../images/ae2_can_remove_color.png) |
+| - | Covered Dense Cable | ![covered_dense_cable](../images/ae2_dense_energy_cell.png) |
+| - | Can Remove Color | ![can_remove_color](../images/ae2_color_applicator.png) |
 
 ---
 ## Gray Covered Dense Cable
@@ -942,7 +942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Gray | ![dyes/gray](../images/ae2_dyes/gray.png) |
 
 ---
@@ -951,7 +951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Green | ![dyes/green](../images/ae2_dyes/green.png) |
 
 ---
@@ -960,7 +960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Light Blue | ![dyes/light_blue](../images/ae2_dyes/light_blue.png) |
 
 ---
@@ -969,7 +969,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Light Gray | ![dyes/light_gray](../images/ae2_dyes/light_gray.png) |
 
 ---
@@ -978,7 +978,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Lime | ![dyes/lime](../images/ae2_dyes/lime.png) |
 
 ---
@@ -987,7 +987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Magenta | ![dyes/magenta](../images/ae2_dyes/magenta.png) |
 
 ---
@@ -996,7 +996,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Orange | ![dyes/orange](../images/ae2_dyes/orange.png) |
 
 ---
@@ -1005,7 +1005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Pink | ![dyes/pink](../images/ae2_dyes/pink.png) |
 
 ---
@@ -1014,7 +1014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Purple | ![dyes/purple](../images/ae2_dyes/purple.png) |
 
 ---
@@ -1023,7 +1023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Red | ![dyes/red](../images/ae2_dyes/red.png) |
 
 ---
@@ -1032,7 +1032,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/White | ![dyes/white](../images/ae2_dyes/white.png) |
 
 ---
@@ -1041,7 +1041,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| a | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Yellow | ![dyes/yellow](../images/ae2_dyes/yellow.png) |
 
 ---
@@ -1050,7 +1050,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Black | ![dyes/black](../images/ae2_dyes/black.png) |
 
 ---
@@ -1059,7 +1059,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Blue | ![dyes/blue](../images/ae2_dyes/blue.png) |
 
 ---
@@ -1068,7 +1068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Brown | ![dyes/brown](../images/ae2_dyes/brown.png) |
 
 ---
@@ -1077,7 +1077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Cyan | ![dyes/cyan](../images/ae2_dyes/cyan.png) |
 
 ---
@@ -1086,7 +1086,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_fluix_covered_dense_cable.png) |
+| - | Fluix Covered Dense Cable | ![fluix_covered_dense_cable](../images/ae2_dense_energy_cell.png) |
 | - | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
 | - | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
@@ -1096,8 +1096,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smart Dense Cable | ![smart_dense_cable](../images/ae2_smart_dense_cable.png) |
-| - | Can Remove Color | ![can_remove_color](../images/ae2_can_remove_color.png) |
+| - | Smart Dense Cable | ![smart_dense_cable](../images/ae2_dense_energy_cell.png) |
+| - | Can Remove Color | ![can_remove_color](../images/ae2_color_applicator.png) |
 
 ---
 ## Fluix Smart Dense Cable
@@ -1105,10 +1105,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
-| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
-| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
-| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
+| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
+| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
+| - | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 
 ---
 ## Gray Smart Dense Cable
@@ -1116,7 +1116,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Gray | ![dyes/gray](../images/ae2_dyes/gray.png) |
 
 ---
@@ -1125,7 +1125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Green | ![dyes/green](../images/ae2_dyes/green.png) |
 
 ---
@@ -1134,7 +1134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Light Blue | ![dyes/light_blue](../images/ae2_dyes/light_blue.png) |
 
 ---
@@ -1143,7 +1143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Light Gray | ![dyes/light_gray](../images/ae2_dyes/light_gray.png) |
 
 ---
@@ -1152,7 +1152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Lime | ![dyes/lime](../images/ae2_dyes/lime.png) |
 
 ---
@@ -1161,7 +1161,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Magenta | ![dyes/magenta](../images/ae2_dyes/magenta.png) |
 
 ---
@@ -1170,7 +1170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Orange | ![dyes/orange](../images/ae2_dyes/orange.png) |
 
 ---
@@ -1179,7 +1179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Pink | ![dyes/pink](../images/ae2_dyes/pink.png) |
 
 ---
@@ -1188,7 +1188,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Purple | ![dyes/purple](../images/ae2_dyes/purple.png) |
 
 ---
@@ -1197,7 +1197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Red | ![dyes/red](../images/ae2_dyes/red.png) |
 
 ---
@@ -1206,7 +1206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/White | ![dyes/white](../images/ae2_dyes/white.png) |
 
 ---
@@ -1215,7 +1215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_fluix_smart_dense_cable.png) |
+| a | Fluix Smart Dense Cable | ![fluix_smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 | b | Dyes/Yellow | ![dyes/yellow](../images/ae2_dyes/yellow.png) |
 
 ---
@@ -1231,7 +1231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| middle | Ender Pearl | ![ender_pearl](../images/ae2_ender_pearl.png) |
+| middle | Ender Pearl | ![ender_pearl](../images/ae2_ender_dust.png) |
 
 ---
 ## Cable Energy Acceptor
@@ -1266,7 +1266,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cable Energy Acceptor | ![cable_energy_acceptor](../images/ae2_cable_energy_acceptor.png) |
+| - | Cable Energy Acceptor | ![cable_energy_acceptor](../images/ae2_energy_acceptor.png) |
 
 ---
 ## Energy Cell
@@ -1274,7 +1274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| a | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | b | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
 | c | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 
@@ -1284,8 +1284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Torch | ![redstone_torch](../images/ae2_redstone_torch.png) |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| - | Redstone Torch | ![redstone_torch](../images/ae2_card_redstone.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | - | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
 
 ---
@@ -1295,7 +1295,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Furnace | ![furnace](../images/ae2_furnace.png) |
+| b | Furnace | ![furnace](../images/ae2_16k_fluid_cell.png) |
 | c | Energy Acceptor | ![energy_acceptor](../images/ae2_energy_acceptor.png) |
 
 ---
@@ -1305,7 +1305,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | bottom | Printed Silicon | ![printed_silicon](../images/ae2_printed_silicon.png) |
-| middle | Redstone | ![redstone](../images/ae2_redstone.png) |
+| middle | Redstone | ![redstone](../images/ae2_card_redstone.png) |
 | top | Printed Engineering Processor | ![printed_engineering_processor](../images/ae2_printed_engineering_processor.png) |
 
 ---
@@ -1314,7 +1314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| middle | Iron Block | ![iron_block](../images/ae2_iron_block.png) |
+| middle | Iron Block | ![iron_block](../images/ae2_chiseled_quartz_block_side.png) |
 | top | Engineering Processor Press | ![engineering_processor_press](../images/ae2_engineering_processor_press.png) |
 
 ---
@@ -1342,7 +1342,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Singularity | ![singularity](../images/ae2_singularity.png) |
-| - | Ender Pearls | ![ender_pearls](../images/ae2_ender_pearls.png) |
+| - | Ender Pearls | ![ender_pearls](../images/ae2_ender_dust.png) |
 
 ---
 ## Export Bus
@@ -1352,7 +1352,7 @@
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | b | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
-| c | Piston | ![piston](../images/ae2_piston.png) |
+| c | Piston | ![piston](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## {}
@@ -1374,7 +1374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | - | Chipped Budding Quartz | ![chipped_budding_quartz](../images/ae2_chipped_budding_quartz.png) |
 
 ---
@@ -1402,7 +1402,7 @@
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | b | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| c | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| c | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | d | Ingots/Copper | ![ingots/copper](../images/ae2_ingots/copper.png) |
 
 ---
@@ -1412,7 +1412,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 
 ---
 ## Fluid Storage Cell 1K
@@ -1501,8 +1501,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
-| b | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
-| c | Ender Pearls | ![ender_pearls](../images/ae2_ender_pearls.png) |
+| b | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
+| c | Ender Pearls | ![ender_pearls](../images/ae2_ender_dust.png) |
 
 ---
 ## Fluix Axe
@@ -1525,7 +1525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | - | Fluix Dust | ![fluix_dust](../images/ae2_fluix_dust.png) |
 
 ---
@@ -1534,9 +1534,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
-| - | Redstone | ![redstone](../images/ae2_redstone.png) |
-| - | Quartz | ![quartz](../images/ae2_quartz.png) |
+| - | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
+| - | Redstone | ![redstone](../images/ae2_card_redstone.png) |
+| - | Quartz | ![quartz](../images/ae2_certus_quartz_axe.png) |
 
 ---
 ## Fluix Dust
@@ -1604,7 +1604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| a | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | b | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
 | c | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 
@@ -1614,7 +1614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| a | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 | b | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | c | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
 
@@ -1625,7 +1625,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| b | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 | c | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
 
 ---
@@ -1648,7 +1648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Black | ![dyes/black](../images/ae2_dyes/black.png) |
 
 ---
@@ -1657,7 +1657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Blue | ![dyes/blue](../images/ae2_dyes/blue.png) |
 
 ---
@@ -1666,7 +1666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Brown | ![dyes/brown](../images/ae2_dyes/brown.png) |
 
 ---
@@ -1675,7 +1675,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Cyan | ![dyes/cyan](../images/ae2_dyes/cyan.png) |
 
 ---
@@ -1684,9 +1684,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Fiber | ![quartz_fiber](../images/ae2_quartz_fiber.png) |
-| - | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
-| - | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| - | Quartz Fiber | ![quartz_fiber](../images/ae2_certus_quartz_axe.png) |
+| - | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
+| - | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 
 ---
 ## Fluix Glass Cable
@@ -1694,8 +1694,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Cable | ![glass_cable](../images/ae2_glass_cable.png) |
-| - | Can Remove Color | ![can_remove_color](../images/ae2_can_remove_color.png) |
+| - | Glass Cable | ![glass_cable](../images/ae2_quartz_glass.png) |
+| - | Can Remove Color | ![can_remove_color](../images/ae2_color_applicator.png) |
 
 ---
 ## Gray Glass Cable
@@ -1703,7 +1703,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Gray | ![dyes/gray](../images/ae2_dyes/gray.png) |
 
 ---
@@ -1712,7 +1712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Green | ![dyes/green](../images/ae2_dyes/green.png) |
 
 ---
@@ -1721,7 +1721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Light Blue | ![dyes/light_blue](../images/ae2_dyes/light_blue.png) |
 
 ---
@@ -1730,7 +1730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Light Gray | ![dyes/light_gray](../images/ae2_dyes/light_gray.png) |
 
 ---
@@ -1739,7 +1739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Lime | ![dyes/lime](../images/ae2_dyes/lime.png) |
 
 ---
@@ -1748,7 +1748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Magenta | ![dyes/magenta](../images/ae2_dyes/magenta.png) |
 
 ---
@@ -1757,7 +1757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Orange | ![dyes/orange](../images/ae2_dyes/orange.png) |
 
 ---
@@ -1766,7 +1766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Pink | ![dyes/pink](../images/ae2_dyes/pink.png) |
 
 ---
@@ -1775,7 +1775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Purple | ![dyes/purple](../images/ae2_dyes/purple.png) |
 
 ---
@@ -1784,7 +1784,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Red | ![dyes/red](../images/ae2_dyes/red.png) |
 
 ---
@@ -1793,7 +1793,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/White | ![dyes/white](../images/ae2_dyes/white.png) |
 
 ---
@@ -1802,7 +1802,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Yellow | ![dyes/yellow](../images/ae2_dyes/yellow.png) |
 
 ---
@@ -1834,7 +1834,7 @@
 | :--- | :--- | :--- |
 | a | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 | b | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| c | Sticky Piston | ![sticky_piston](../images/ae2_sticky_piston.png) |
+| c | Sticky Piston | ![sticky_piston](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## {}
@@ -1850,7 +1850,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Sticky Piston | ![sticky_piston](../images/ae2_sticky_piston.png) |
+| b | Sticky Piston | ![sticky_piston](../images/ae2_16k_fluid_cell.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/ae2_ingots/copper.png) |
 
 ---
@@ -1860,7 +1860,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Glass | ![glass](../images/ae2_glass.png) |
+| b | Glass | ![glass](../images/ae2_quartz_glass.png) |
 | c | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 | d | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
 
@@ -1870,7 +1870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cable Interface | ![cable_interface](../images/ae2_cable_interface.png) |
+| - | Cable Interface | ![cable_interface](../images/ae2_interface.png) |
 
 ---
 ## Cable Interface
@@ -1901,7 +1901,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Glass | ![glass](../images/ae2_glass.png) |
+| b | Glass | ![glass](../images/ae2_quartz_glass.png) |
 | c | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
 
 ---
@@ -1910,9 +1910,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Glass | ![glass](../images/ae2_glass.png) |
-| b | Drive | ![drive](../images/ae2_drive.png) |
-| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Glass | ![glass](../images/ae2_quartz_glass.png) |
+| b | Drive | ![drive](../images/ae2_drive_bottom.png) |
+| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | e | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 
@@ -1948,7 +1948,7 @@
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | b | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| c | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| c | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 
 ---
@@ -1957,7 +1957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
 
 ---
@@ -2058,7 +2058,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| b | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| b | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | c | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 
 ---
@@ -2091,7 +2091,7 @@
 | :--- | :--- | :--- |
 | a | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 | b | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
-| c | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| c | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | d | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 
 ---
@@ -2128,7 +2128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Torch | ![redstone_torch](../images/ae2_redstone_torch.png) |
+| - | Redstone Torch | ![redstone_torch](../images/ae2_card_redstone.png) |
 | - | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
 
 ---
@@ -2137,8 +2137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Nether Quartz | ![all_nether_quartz](../images/ae2_all_nether_quartz.png) |
-| b | Iron Ingot | ![iron_ingot](../images/ae2_iron_ingot.png) |
+| a | All Nether Quartz | ![all_nether_quartz](../images/ae2_nether_quartz_axe.png) |
+| b | Iron Ingot | ![iron_ingot](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## {}
@@ -2154,7 +2154,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | bottom | Printed Silicon | ![printed_silicon](../images/ae2_printed_silicon.png) |
-| middle | Redstone | ![redstone](../images/ae2_redstone.png) |
+| middle | Redstone | ![redstone](../images/ae2_card_redstone.png) |
 | top | Printed Logic Processor | ![printed_logic_processor](../images/ae2_printed_logic_processor.png) |
 
 ---
@@ -2163,7 +2163,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| middle | Iron Block | ![iron_block](../images/ae2_iron_block.png) |
+| middle | Iron Block | ![iron_block](../images/ae2_chiseled_quartz_block_side.png) |
 | top | Logic Processor Press | ![logic_processor_press](../images/ae2_logic_processor_press.png) |
 
 ---
@@ -2234,7 +2234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Compass | ![compass](../images/ae2_compass.png) |
+| item | Compass | ![compass](../images/ae2_meteorite_compass.png) |
 
 ---
 ## Charged Staff
@@ -2242,7 +2242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
+| a | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
 | b | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 
 ---
@@ -2251,7 +2251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| a | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 | b | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | c | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
@@ -2265,7 +2265,7 @@
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | b | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | c | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
-| d | Crafting Table | ![crafting_table](../images/ae2_crafting_table.png) |
+| d | Crafting Table | ![crafting_table](../images/ae2_card_crafting.png) |
 | e | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
 
 ---
@@ -2275,7 +2275,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
-| - | Storage Monitor | ![storage_monitor](../images/ae2_storage_monitor.png) |
+| - | Storage Monitor | ![storage_monitor](../images/ae2_16k_storage.png) |
 | - | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 
 ---
@@ -2284,8 +2284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Level Emitter | ![level_emitter](../images/ae2_level_emitter.png) |
-| - | Illuminated Panel | ![illuminated_panel](../images/ae2_illuminated_panel.png) |
+| - | Level Emitter | ![level_emitter](../images/ae2_16k_fluid_cell.png) |
+| - | Illuminated Panel | ![illuminated_panel](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## Nether Quartz Axe
@@ -2389,7 +2389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Black | ![dyes/black](../images/ae2_dyes/black.png) |
 
 ---
@@ -2398,7 +2398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/ae2_dyes/blue.png) |
 
 ---
@@ -2407,7 +2407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/ae2_dyes/brown.png) |
 
 ---
@@ -2416,8 +2416,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
-| - | Can Remove Color | ![can_remove_color](../images/ae2_can_remove_color.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
+| - | Can Remove Color | ![can_remove_color](../images/ae2_color_applicator.png) |
 
 ---
 ## Memory Card Cyan
@@ -2425,7 +2425,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/ae2_dyes/cyan.png) |
 
 ---
@@ -2434,7 +2434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/ae2_dyes/gray.png) |
 
 ---
@@ -2443,7 +2443,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Green | ![dyes/green](../images/ae2_dyes/green.png) |
 
 ---
@@ -2452,7 +2452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/ae2_dyes/light_blue.png) |
 
 ---
@@ -2461,7 +2461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/ae2_dyes/light_gray.png) |
 
 ---
@@ -2470,7 +2470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/ae2_dyes/lime.png) |
 
 ---
@@ -2479,7 +2479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/ae2_dyes/magenta.png) |
 
 ---
@@ -2488,7 +2488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/ae2_dyes/orange.png) |
 
 ---
@@ -2497,7 +2497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/ae2_dyes/pink.png) |
 
 ---
@@ -2506,7 +2506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/ae2_dyes/purple.png) |
 
 ---
@@ -2515,7 +2515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Red | ![dyes/red](../images/ae2_dyes/red.png) |
 
 ---
@@ -2524,7 +2524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/White | ![dyes/white](../images/ae2_dyes/white.png) |
 
 ---
@@ -2533,7 +2533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Memory Cards | ![memory_cards](../images/ae2_memory_cards.png) |
+| - | Memory Cards | ![memory_cards](../images/ae2_memory_card.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/ae2_dyes/yellow.png) |
 
 ---
@@ -2542,9 +2542,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Illuminated Panel | ![illuminated_panel](../images/ae2_illuminated_panel.png) |
+| - | Illuminated Panel | ![illuminated_panel](../images/ae2_16k_fluid_cell.png) |
 | - | Chests/Wooden | ![chests/wooden](../images/ae2_chests/wooden.png) |
-| - | Quartz Wrench | ![quartz_wrench](../images/ae2_quartz_wrench.png) |
+| - | Quartz Wrench | ![quartz_wrench](../images/ae2_certus_quartz_wrench.png) |
 | - | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
 
 ---
@@ -2668,7 +2668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Black Paint Ball | ![black_paint_ball](../images/ae2_black_paint_ball.png) |
+| a | Black Paint Ball | ![black_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2677,7 +2677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Blue Paint Ball | ![blue_paint_ball](../images/ae2_blue_paint_ball.png) |
+| a | Blue Paint Ball | ![blue_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2686,7 +2686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Brown Paint Ball | ![brown_paint_ball](../images/ae2_brown_paint_ball.png) |
+| a | Brown Paint Ball | ![brown_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2695,7 +2695,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Cyan Paint Ball | ![cyan_paint_ball](../images/ae2_cyan_paint_ball.png) |
+| a | Cyan Paint Ball | ![cyan_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2704,7 +2704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Gray Paint Ball | ![gray_paint_ball](../images/ae2_gray_paint_ball.png) |
+| a | Gray Paint Ball | ![gray_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2713,7 +2713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Green Paint Ball | ![green_paint_ball](../images/ae2_green_paint_ball.png) |
+| a | Green Paint Ball | ![green_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2722,7 +2722,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Light Blue Paint Ball | ![light_blue_paint_ball](../images/ae2_light_blue_paint_ball.png) |
+| a | Light Blue Paint Ball | ![light_blue_paint_ball](../images/ae2_memory_card_light_blue.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2731,7 +2731,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Light Gray Paint Ball | ![light_gray_paint_ball](../images/ae2_light_gray_paint_ball.png) |
+| a | Light Gray Paint Ball | ![light_gray_paint_ball](../images/ae2_memory_card_light_gray.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2740,7 +2740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Lime Paint Ball | ![lime_paint_ball](../images/ae2_lime_paint_ball.png) |
+| a | Lime Paint Ball | ![lime_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2749,7 +2749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Magenta Paint Ball | ![magenta_paint_ball](../images/ae2_magenta_paint_ball.png) |
+| a | Magenta Paint Ball | ![magenta_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2758,7 +2758,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Orange Paint Ball | ![orange_paint_ball](../images/ae2_orange_paint_ball.png) |
+| a | Orange Paint Ball | ![orange_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2767,7 +2767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Pink Paint Ball | ![pink_paint_ball](../images/ae2_pink_paint_ball.png) |
+| a | Pink Paint Ball | ![pink_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2776,7 +2776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Purple Paint Ball | ![purple_paint_ball](../images/ae2_purple_paint_ball.png) |
+| a | Purple Paint Ball | ![purple_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2785,7 +2785,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Red Paint Ball | ![red_paint_ball](../images/ae2_red_paint_ball.png) |
+| a | Red Paint Ball | ![red_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2794,7 +2794,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | White Paint Ball | ![white_paint_ball](../images/ae2_white_paint_ball.png) |
+| a | White Paint Ball | ![white_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2803,7 +2803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Yellow Paint Ball | ![yellow_paint_ball](../images/ae2_yellow_paint_ball.png) |
+| a | Yellow Paint Ball | ![yellow_paint_ball](../images/ae2_paint_ball.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
 ---
@@ -2890,7 +2890,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Semi Dark Monitor | ![semi_dark_monitor](../images/ae2_semi_dark_monitor.png) |
+| - | Semi Dark Monitor | ![semi_dark_monitor](../images/ae2_monitor_light_dark.png) |
 
 ---
 ## Semi Dark Monitor
@@ -2909,7 +2909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Monitor | ![dark_monitor](../images/ae2_dark_monitor.png) |
+| - | Dark Monitor | ![dark_monitor](../images/ae2_monitor_light_dark.png) |
 
 ---
 ## Blank Pattern
@@ -2919,7 +2919,7 @@
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | b | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
-| c | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| c | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 
 ---
@@ -2929,7 +2929,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Crafting Table | ![crafting_table](../images/ae2_crafting_table.png) |
+| b | Crafting Table | ![crafting_table](../images/ae2_card_crafting.png) |
 | c | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 | d | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
 
@@ -2939,7 +2939,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cable Pattern Provider | ![cable_pattern_provider](../images/ae2_cable_pattern_provider.png) |
+| - | Cable Pattern Provider | ![cable_pattern_provider](../images/ae2_pattern_provider.png) |
 
 ---
 ## Cable Pattern Provider
@@ -2976,8 +2976,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
 
@@ -2987,7 +2987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 1K | ![cell_component_1k](../images/ae2_cell_component_1k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
@@ -2998,7 +2998,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 256K | ![cell_component_256k](../images/ae2_cell_component_256k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
@@ -3009,7 +3009,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 4K | ![cell_component_4k](../images/ae2_cell_component_4k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
@@ -3020,7 +3020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 64K | ![cell_component_64k](../images/ae2_cell_component_64k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
@@ -3031,8 +3031,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
 
@@ -3042,7 +3042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 1K | ![cell_component_1k](../images/ae2_cell_component_1k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
@@ -3053,7 +3053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 256K | ![cell_component_256k](../images/ae2_cell_component_256k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
@@ -3064,7 +3064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 4K | ![cell_component_4k](../images/ae2_cell_component_4k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
@@ -3075,7 +3075,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/ae2_chest.png) |
+| - | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
 | - | Cell Component 64K | ![cell_component_64k](../images/ae2_cell_component_64k.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
@@ -3106,7 +3106,7 @@
 | b | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 | c | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
 | d | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
-| e | Smart Dense Cable | ![smart_dense_cable](../images/ae2_smart_dense_cable.png) |
+| e | Smart Dense Cable | ![smart_dense_cable](../images/ae2_dense_energy_cell.png) |
 
 ---
 ## Quartz Wall
@@ -3154,8 +3154,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Glass | ![glass](../images/ae2_glass.png) |
-| b | All Quartz Dust | ![all_quartz_dust](../images/ae2_all_quartz_dust.png) |
+| a | Glass | ![glass](../images/ae2_quartz_glass.png) |
+| b | All Quartz Dust | ![all_quartz_dust](../images/ae2_certus_quartz_dust.png) |
 
 ---
 ## Quartz Fixture
@@ -3163,8 +3163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_charged_certus_quartz_crystal.png) |
-| b | Iron Ingot | ![iron_ingot](../images/ae2_iron_ingot.png) |
+| a | Charged Certus Quartz Crystal | ![charged_certus_quartz_crystal](../images/ae2_certus_quartz_crystal_charged.png) |
+| b | Iron Ingot | ![iron_ingot](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## Quartz Glass
@@ -3172,8 +3172,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Quartz Dust | ![all_quartz_dust](../images/ae2_all_quartz_dust.png) |
-| b | Glass | ![glass](../images/ae2_glass.png) |
+| a | All Quartz Dust | ![all_quartz_dust](../images/ae2_certus_quartz_dust.png) |
+| b | Glass | ![glass](../images/ae2_quartz_glass.png) |
 
 ---
 ## Quartz Pillar Wall
@@ -3181,7 +3181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar.png) |
+| # | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar_side.png) |
 
 ---
 ## Quartz Pillar Slab
@@ -3189,7 +3189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar.png) |
+| item | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar_side.png) |
 
 ---
 ## Quartz Pillar Stairs
@@ -3197,7 +3197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar.png) |
+| item | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar_side.png) |
 
 ---
 ## Quartz Pillar Wall
@@ -3205,7 +3205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar.png) |
+| item | Quartz Pillar | ![quartz_pillar](../images/ae2_quartz_pillar_side.png) |
 
 ---
 ## Quartz Slab
@@ -3229,7 +3229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Glowstone Dust | ![glowstone_dust](../images/ae2_glowstone_dust.png) |
+| a | Glowstone Dust | ![glowstone_dust](../images/ae2_certus_quartz_dust.png) |
 | b | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 
 ---
@@ -3275,9 +3275,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| b | Chest | ![chest](../images/ae2_chest.png) |
-| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
-| d | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| b | Chest | ![chest](../images/ae2_16k_fluid_cell.png) |
+| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
+| d | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
 | e | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
 
 ---
@@ -3308,7 +3308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| middle | Iron Block | ![iron_block](../images/ae2_iron_block.png) |
+| middle | Iron Block | ![iron_block](../images/ae2_chiseled_quartz_block_side.png) |
 | top | Silicon Press | ![silicon_press](../images/ae2_silicon_press.png) |
 
 ---
@@ -3453,7 +3453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Black | ![dyes/black](../images/ae2_dyes/black.png) |
 
 ---
@@ -3462,7 +3462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Blue | ![dyes/blue](../images/ae2_dyes/blue.png) |
 
 ---
@@ -3471,7 +3471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Brown | ![dyes/brown](../images/ae2_dyes/brown.png) |
 
 ---
@@ -3480,7 +3480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Cyan | ![dyes/cyan](../images/ae2_dyes/cyan.png) |
 
 ---
@@ -3489,7 +3489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_covered_cable.png) |
+| - | Fluix Covered Cable | ![fluix_covered_cable](../images/ae2_fluix_axe.png) |
 | - | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
 | - | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 
@@ -3499,8 +3499,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smart Cable | ![smart_cable](../images/ae2_smart_cable.png) |
-| - | Can Remove Color | ![can_remove_color](../images/ae2_can_remove_color.png) |
+| - | Smart Cable | ![smart_cable](../images/ae2_16k_fluid_cell.png) |
+| - | Can Remove Color | ![can_remove_color](../images/ae2_color_applicator.png) |
 
 ---
 ## Gray Smart Cable
@@ -3508,7 +3508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Gray | ![dyes/gray](../images/ae2_dyes/gray.png) |
 
 ---
@@ -3517,7 +3517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Green | ![dyes/green](../images/ae2_dyes/green.png) |
 
 ---
@@ -3526,7 +3526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Light Blue | ![dyes/light_blue](../images/ae2_dyes/light_blue.png) |
 
 ---
@@ -3535,7 +3535,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Light Gray | ![dyes/light_gray](../images/ae2_dyes/light_gray.png) |
 
 ---
@@ -3544,7 +3544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Lime | ![dyes/lime](../images/ae2_dyes/lime.png) |
 
 ---
@@ -3553,7 +3553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Magenta | ![dyes/magenta](../images/ae2_dyes/magenta.png) |
 
 ---
@@ -3562,7 +3562,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Orange | ![dyes/orange](../images/ae2_dyes/orange.png) |
 
 ---
@@ -3571,7 +3571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Pink | ![dyes/pink](../images/ae2_dyes/pink.png) |
 
 ---
@@ -3580,7 +3580,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Purple | ![dyes/purple](../images/ae2_dyes/purple.png) |
 
 ---
@@ -3589,7 +3589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Red | ![dyes/red](../images/ae2_dyes/red.png) |
 
 ---
@@ -3598,7 +3598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/White | ![dyes/white](../images/ae2_dyes/white.png) |
 
 ---
@@ -3607,7 +3607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_smart_cable.png) |
+| a | Fluix Smart Cable | ![fluix_smart_cable](../images/ae2_fluix_axe.png) |
 | b | Dyes/Yellow | ![dyes/yellow](../images/ae2_dyes/yellow.png) |
 
 ---
@@ -3695,7 +3695,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Spatial Pylon | ![spatial_pylon](../images/ae2_spatial_pylon.png) |
-| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | c | Spatial Cell Component 128 | ![spatial_cell_component_128](../images/ae2_spatial_cell_component_128.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | e | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
@@ -3736,9 +3736,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Glass | ![glass](../images/ae2_glass.png) |
-| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
-| c | Io Port | ![io_port](../images/ae2_io_port.png) |
+| a | Glass | ![glass](../images/ae2_quartz_glass.png) |
+| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
+| c | Io Port | ![io_port](../images/ae2_io_port_bottom.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | e | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
 
@@ -3749,9 +3749,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
-| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | c | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
-| d | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| d | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 
 ---
 ## Spatial Storage Cell 128
@@ -3833,9 +3833,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sticky Piston | ![sticky_piston](../images/ae2_sticky_piston.png) |
+| - | Sticky Piston | ![sticky_piston](../images/ae2_16k_fluid_cell.png) |
 | - | Interface | ![interface](../images/ae2_interface.png) |
-| - | Piston | ![piston](../images/ae2_piston.png) |
+| - | Piston | ![piston](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## Chest
@@ -3843,9 +3843,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Glass | ![glass](../images/ae2_glass.png) |
-| b | Terminal | ![terminal](../images/ae2_terminal.png) |
-| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| a | Glass | ![glass](../images/ae2_quartz_glass.png) |
+| b | Terminal | ![terminal](../images/ae2_wireless_crafting_terminal.png) |
+| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | e | Ingots/Copper | ![ingots/copper](../images/ae2_ingots/copper.png) |
 
@@ -3857,7 +3857,7 @@
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | b | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
-| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 
 ---
 ## {}
@@ -3910,7 +3910,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Formation Core | ![formation_core](../images/ae2_formation_core.png) |
-| - | Illuminated Panel | ![illuminated_panel](../images/ae2_illuminated_panel.png) |
+| - | Illuminated Panel | ![illuminated_panel](../images/ae2_16k_fluid_cell.png) |
 | - | Logic Processor | ![logic_processor](../images/ae2_logic_processor.png) |
 | - | Annihilation Core | ![annihilation_core](../images/ae2_annihilation_core.png) |
 
@@ -3920,8 +3920,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terminal | ![terminal](../images/ae2_terminal.png) |
-| - | Crafting Table | ![crafting_table](../images/ae2_crafting_table.png) |
+| - | Terminal | ![terminal](../images/ae2_wireless_crafting_terminal.png) |
+| - | Crafting Table | ![crafting_table](../images/ae2_card_crafting.png) |
 | - | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
 
 ---
@@ -3930,7 +3930,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Illuminated Panel | ![illuminated_panel](../images/ae2_illuminated_panel.png) |
+| - | Illuminated Panel | ![illuminated_panel](../images/ae2_16k_fluid_cell.png) |
 | - | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
 | - | Pattern Provider | ![pattern_provider](../images/ae2_pattern_provider.png) |
 
@@ -3941,7 +3941,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
-| - | Crafting Terminal | ![crafting_terminal](../images/ae2_crafting_terminal.png) |
+| - | Crafting Terminal | ![crafting_terminal](../images/ae2_wireless_crafting_terminal.png) |
 
 ---
 ## {}
@@ -3956,8 +3956,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | All Quartz Dust | ![all_quartz_dust](../images/ae2_all_quartz_dust.png) |
-| b | Gunpowder | ![gunpowder](../images/ae2_gunpowder.png) |
+| a | All Quartz Dust | ![all_quartz_dust](../images/ae2_certus_quartz_dust.png) |
+| b | Gunpowder | ![gunpowder](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## {}
@@ -3973,8 +3973,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
-| c | Lever | ![lever](../images/ae2_lever.png) |
+| b | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
+| c | Lever | ![lever](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## Toggle Bus
@@ -3982,7 +3982,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Inverted Toggle Bus | ![inverted_toggle_bus](../images/ae2_inverted_toggle_bus.png) |
+| - | Inverted Toggle Bus | ![inverted_toggle_bus](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## Inverted Toggle Bus
@@ -3990,7 +3990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Toggle Bus | ![toggle_bus](../images/ae2_toggle_bus.png) |
+| - | Toggle Bus | ![toggle_bus](../images/ae2_16k_fluid_cell.png) |
 
 ---
 ## {}
@@ -4007,7 +4007,7 @@
 | :--- | :--- | :--- |
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | b | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
-| c | All Fluix | ![all_fluix](../images/ae2_all_fluix.png) |
+| c | All Fluix | ![all_fluix](../images/ae2_fluix_axe.png) |
 
 ---
 ## Wireless Crafting Terminal
@@ -4016,7 +4016,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Wireless Terminal | ![wireless_terminal](../images/ae2_wireless_terminal.png) |
-| - | Crafting Table | ![crafting_table](../images/ae2_crafting_table.png) |
+| - | Crafting Table | ![crafting_table](../images/ae2_card_crafting.png) |
 | - | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
 
 ---
@@ -4039,9 +4039,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Redstone Torch | ![redstone_torch](../images/ae2_redstone_torch.png) |
-| b | All Nether Quartz | ![all_nether_quartz](../images/ae2_all_nether_quartz.png) |
-| c | Stone | ![stone](../images/ae2_stone.png) |
+| a | Redstone Torch | ![redstone_torch](../images/ae2_card_redstone.png) |
+| b | All Nether Quartz | ![all_nether_quartz](../images/ae2_nether_quartz_axe.png) |
+| c | Stone | ![stone](../images/ae2_sky_stone_block.png) |
 
 ---
 ## Daylight Detector
@@ -4049,9 +4049,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Glass | ![glass](../images/ae2_glass.png) |
-| b | All Nether Quartz | ![all_nether_quartz](../images/ae2_all_nether_quartz.png) |
-| c | Wooden Slabs | ![wooden_slabs](../images/ae2_wooden_slabs.png) |
+| a | Glass | ![glass](../images/ae2_quartz_glass.png) |
+| b | All Nether Quartz | ![all_nether_quartz](../images/ae2_nether_quartz_axe.png) |
+| c | Wooden Slabs | ![wooden_slabs](../images/ae2_wooden_gear.png) |
 
 ---
 ## View Cell
@@ -4061,7 +4061,7 @@
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | b | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| c | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| c | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 
 ---
@@ -4071,7 +4071,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
-| - | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| - | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 
 ---
 ## {}
@@ -4095,7 +4095,7 @@
 | :--- | :--- | :--- |
 | a | Wireless Receiver | ![wireless_receiver](../images/ae2_wireless_receiver.png) |
 | b | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
-| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
+| c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_axe.png) |
 
 ---
 ## Wireless Booster
@@ -4104,7 +4104,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dusts/Fluix | ![dusts/fluix](../images/ae2_dusts/fluix.png) |
-| b | All Certus Quartz | ![all_certus_quartz](../images/ae2_all_certus_quartz.png) |
+| b | All Certus Quartz | ![all_certus_quartz](../images/ae2_certus_quartz_axe.png) |
 | c | Dusts/Ender Pearl | ![dusts/ender_pearl](../images/ae2_dusts/ender_pearl.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 
@@ -4115,7 +4115,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Wireless Receiver | ![wireless_receiver](../images/ae2_wireless_receiver.png) |
-| b | Crafting Terminal | ![crafting_terminal](../images/ae2_crafting_terminal.png) |
+| b | Crafting Terminal | ![crafting_terminal](../images/ae2_wireless_crafting_terminal.png) |
 | c | Dense Energy Cell | ![dense_energy_cell](../images/ae2_dense_energy_cell.png) |
 
 ---
@@ -4126,7 +4126,7 @@
 | :--- | :--- | :--- |
 | a | Fluix Pearl | ![fluix_pearl](../images/ae2_fluix_pearl.png) |
 | b | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
-| c | Quartz Fiber | ![quartz_fiber](../images/ae2_quartz_fiber.png) |
+| c | Quartz Fiber | ![quartz_fiber](../images/ae2_certus_quartz_axe.png) |
 
 ---
 ## Wireless Terminal
@@ -4135,7 +4135,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Wireless Receiver | ![wireless_receiver](../images/ae2_wireless_receiver.png) |
-| b | Terminal | ![terminal](../images/ae2_terminal.png) |
+| b | Terminal | ![terminal](../images/ae2_wireless_crafting_terminal.png) |
 | c | Dense Energy Cell | ![dense_energy_cell](../images/ae2_dense_energy_cell.png) |
 
 ---

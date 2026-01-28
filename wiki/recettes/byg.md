@@ -8,10 +8,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Aloe Vera | ![aloe_vera](../images/byg_aloe_vera.png) |
-| - | Glass Bottle | ![glass_bottle](../images/byg_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/byg_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/byg_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/byg_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/byg_therium_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/byg_therium_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/byg_therium_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/byg_therium_glass.png) |
 
 ---
 ## Ametrine Block
@@ -111,9 +111,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/byg_stick.png) |
+| # | Stick | ![stick](../images/byg_stone_stick.png) |
 | X | Therium Crystal Shard | ![therium_crystal_shard](../images/byg_therium_crystal_shard.png) |
-| Y | Feather | ![feather](../images/byg_feather.png) |
+| Y | Feather | ![feather](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Aspen Boat
@@ -121,7 +121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Bookshelf
@@ -129,8 +129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Button
@@ -138,7 +138,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| - | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Chest Boat
@@ -146,8 +146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Aspen Boat | ![aspen_boat](../images/byg_aspen_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Aspen Boat | ![aspen_boat](../images/byg_boat.png) |
 
 ---
 ## Aspen Crafting Table
@@ -155,7 +155,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Door
@@ -163,7 +163,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Fence
@@ -172,7 +172,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| W | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Fence Gate
@@ -181,7 +181,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| W | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Planks
@@ -189,7 +189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aspen Logs | ![aspen_logs](../images/byg_aspen_logs.png) |
+| - | Aspen Logs | ![aspen_logs](../images/byg_portal_track_aspen.png) |
 
 ---
 ## Aspen Pressure Plate
@@ -197,7 +197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Sign
@@ -205,7 +205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -214,7 +214,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Stairs
@@ -222,7 +222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Trapdoor
@@ -230,7 +230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Aspen Planks | ![aspen_planks](../images/byg_aspen_planks.png) |
+| P | Aspen Planks | ![aspen_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Aspen Wood
@@ -238,7 +238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Aspen Log | ![aspen_log](../images/byg_aspen_log.png) |
+| L | Aspen Log | ![aspen_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Baobab Boat
@@ -246,7 +246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Bookshelf
@@ -254,8 +254,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Button
@@ -263,7 +263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| - | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Chest Boat
@@ -271,8 +271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Baobab Boat | ![baobab_boat](../images/byg_baobab_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Baobab Boat | ![baobab_boat](../images/byg_boat.png) |
 
 ---
 ## Baobab Crafting Table
@@ -280,7 +280,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Door
@@ -288,7 +288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Fence
@@ -297,7 +297,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| W | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Fence Gate
@@ -306,7 +306,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| W | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Planks
@@ -314,7 +314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baobab Logs | ![baobab_logs](../images/byg_baobab_logs.png) |
+| - | Baobab Logs | ![baobab_logs](../images/byg_flowering_baobab_leaves.png) |
 
 ---
 ## Baobab Pressure Plate
@@ -322,7 +322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Sign
@@ -330,7 +330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -339,7 +339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Stairs
@@ -347,7 +347,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Trapdoor
@@ -355,7 +355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Baobab Planks | ![baobab_planks](../images/byg_baobab_planks.png) |
+| P | Baobab Planks | ![baobab_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Baobab Wood
@@ -363,7 +363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Baobab Log | ![baobab_log](../images/byg_baobab_log.png) |
+| L | Baobab Log | ![baobab_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Biomepedia
@@ -371,8 +371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Book | ![book](../images/byg_book.png) |
-| W | Biomepedia Crafting Material | ![biomepedia_crafting_material](../images/byg_biomepedia_crafting_material.png) |
+| # | Book | ![book](../images/byg_biomepedia_book.png) |
+| W | Biomepedia Crafting Material | ![biomepedia_crafting_material](../images/byg_biomepedia.png) |
 
 ---
 ## Black Chiseled Sandstone
@@ -404,7 +404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dye | ![black_dye](../images/byg_black_dye.png) |
+| - | Black Dye | ![black_dye](../images/byg_black_chiseled_sandstone.png) |
 
 ---
 ## Black Stained Glass
@@ -437,8 +437,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Blueberries | ![blueberries](../images/byg_blueberries.png) |
-| - | Sugar | ![sugar](../images/byg_sugar.png) |
-| - | Egg | ![egg](../images/byg_egg.png) |
+| - | Sugar | ![sugar](../images/byg_allium_flower_bush.png) |
+| - | Egg | ![egg](../images/byg_allium_flower_bush.png) |
 
 ---
 ## {}
@@ -477,7 +477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dye | ![blue_dye](../images/byg_blue_dye.png) |
+| - | Blue Dye | ![blue_dye](../images/byg_blue_cherry_leaves.png) |
 
 ---
 ## Blue Enchanted Boat
@@ -485,7 +485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Bookshelf
@@ -493,8 +493,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Button
@@ -502,7 +502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| - | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Chest Boat
@@ -510,8 +510,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Blue Enchanted Boat | ![blue_enchanted_boat](../images/byg_blue_enchanted_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Blue Enchanted Boat | ![blue_enchanted_boat](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Crafting Table
@@ -519,7 +519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Door
@@ -527,7 +527,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Fence
@@ -536,7 +536,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| W | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Fence Gate
@@ -545,7 +545,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| W | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Planks
@@ -553,7 +553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Enchanted Logs | ![blue_enchanted_logs](../images/byg_blue_enchanted_logs.png) |
+| - | Blue Enchanted Logs | ![blue_enchanted_logs](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Pressure Plate
@@ -561,7 +561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Sign
@@ -569,7 +569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -578,7 +578,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Stairs
@@ -586,7 +586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Trapdoor
@@ -594,7 +594,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_blue_enchanted_planks.png) |
+| P | Blue Enchanted Planks | ![blue_enchanted_planks](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Enchanted Wood
@@ -602,7 +602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Blue Enchanted Log | ![blue_enchanted_log](../images/byg_blue_enchanted_log.png) |
+| L | Blue Enchanted Log | ![blue_enchanted_log](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Blue Stained Glass
@@ -618,8 +618,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/byg_netherrack.png) |
-| - | Warped Wart Block | ![warped_wart_block](../images/byg_warped_wart_block.png) |
+| - | Netherrack | ![netherrack](../images/byg_blue_netherrack.png) |
+| - | Warped Wart Block | ![warped_wart_block](../images/byg_shulkren_wart_block.png) |
 
 ---
 ## Blue Nether Brick
@@ -667,8 +667,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/byg_sand.png) |
-| - | Lapis Lazuli | ![lapis_lazuli](../images/byg_lapis_lazuli.png) |
+| - | Sand | ![sand](../images/byg_black_sand.png) |
+| - | Lapis Lazuli | ![lapis_lazuli](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Blue Sandstone
@@ -692,8 +692,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/byg_logs.png) |
-| S | Stick | ![stick](../images/byg_stick.png) |
+| L | Logs | ![logs](../images/byg_allium_flower_bush.png) |
+| S | Stick | ![stick](../images/byg_stone_stick.png) |
 | C | Brim Powder | ![brim_powder](../images/byg_brim_powder.png) |
 
 ---
@@ -703,7 +703,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Brim Powder | ![brim_powder](../images/byg_brim_powder.png) |
-| X | Iron Nugget | ![iron_nugget](../images/byg_iron_nugget.png) |
+| X | Iron Nugget | ![iron_nugget](../images/byg_iron_deposit_ore.png) |
 
 ---
 ## Brim Powder
@@ -719,8 +719,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Button
@@ -728,7 +728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| - | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Crafting Table
@@ -736,7 +736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Door
@@ -744,7 +744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Fence
@@ -753,7 +753,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| W | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Fence Gate
@@ -762,7 +762,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| W | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Planks
@@ -770,7 +770,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bulbis Logs | ![bulbis_logs](../images/byg_bulbis_logs.png) |
+| - | Bulbis Logs | ![bulbis_logs](../images/byg_bulbis_phycelium.png) |
 
 ---
 ## Bulbis Pressure Plate
@@ -778,7 +778,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Sign
@@ -786,7 +786,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -795,7 +795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Stairs
@@ -803,7 +803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Trapdoor
@@ -811,7 +811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Bulbis Planks | ![bulbis_planks](../images/byg_bulbis_planks.png) |
+| P | Bulbis Planks | ![bulbis_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Bulbis Wood
@@ -819,7 +819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Bulbis Stem | ![bulbis_stem](../images/byg_bulbis_stem.png) |
+| L | Bulbis Stem | ![bulbis_stem](../images/byg_arisian_stem.png) |
 
 ---
 ## Chest
@@ -907,7 +907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cattail Thatch | ![cattail_thatch](../images/byg_cattail_thatch.png) |
+| # | Cattail Thatch | ![cattail_thatch](../images/byg_cattail_thatch_side.png) |
 
 ---
 ## Cattail Thatch Slab
@@ -915,7 +915,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cattail Thatch | ![cattail_thatch](../images/byg_cattail_thatch.png) |
+| # | Cattail Thatch | ![cattail_thatch](../images/byg_cattail_thatch_side.png) |
 
 ---
 ## Cattail Thatch Stairs
@@ -923,7 +923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cattail Thatch | ![cattail_thatch](../images/byg_cattail_thatch.png) |
+| # | Cattail Thatch | ![cattail_thatch](../images/byg_cattail_thatch_side.png) |
 
 ---
 ## Chainmail Boots
@@ -963,8 +963,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Nugget | ![iron_nugget](../images/byg_iron_nugget.png) |
-| X | Iron Ingot | ![iron_ingot](../images/byg_iron_ingot.png) |
+| # | Iron Nugget | ![iron_nugget](../images/byg_iron_deposit_ore.png) |
+| X | Iron Ingot | ![iron_ingot](../images/byg_iron_deposit_ore.png) |
 
 ---
 ## Cherry Boat
@@ -972,7 +972,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Bookshelf
@@ -980,8 +980,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Button
@@ -989,7 +989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| - | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Chest Boat
@@ -997,8 +997,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Cherry Boat | ![cherry_boat](../images/byg_cherry_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Cherry Boat | ![cherry_boat](../images/byg_blue_cherry_leaves.png) |
 
 ---
 ## Cherry Crafting Table
@@ -1006,7 +1006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Door
@@ -1014,7 +1014,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Fence
@@ -1023,7 +1023,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| W | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Fence Gate
@@ -1032,7 +1032,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| W | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Planks
@@ -1040,7 +1040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Logs | ![cherry_logs](../images/byg_cherry_logs.png) |
+| - | Cherry Logs | ![cherry_logs](../images/byg_blue_cherry_leaves.png) |
 
 ---
 ## Cherry Pressure Plate
@@ -1048,7 +1048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Sign
@@ -1056,7 +1056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -1065,7 +1065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Stairs
@@ -1073,7 +1073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Trapdoor
@@ -1081,7 +1081,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cherry Planks | ![cherry_planks](../images/byg_cherry_planks.png) |
+| P | Cherry Planks | ![cherry_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cherry Wood
@@ -1089,7 +1089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Cherry Log | ![cherry_log](../images/byg_cherry_log.png) |
+| L | Cherry Log | ![cherry_log](../images/byg_blue_cherry_leaves.png) |
 
 ---
 ## Chiseled Fungal Imparius
@@ -1129,7 +1129,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Rock Brick Slab | ![red_rock_brick_slab](../images/byg_red_rock_brick_slab.png) |
+| # | Red Rock Brick Slab | ![red_rock_brick_slab](../images/byg_chiseled_red_rock_bricks.png) |
 
 ---
 ## Chiseled Red Rock Bricks
@@ -1305,7 +1305,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Travertine Slab | ![polished_travertine_slab](../images/byg_polished_travertine_slab.png) |
+| # | Polished Travertine Slab | ![polished_travertine_slab](../images/byg_polished_travertine.png) |
 
 ---
 ## Chiseled Travertine
@@ -1393,7 +1393,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Windswept Sandstone Slab | ![windswept_sandstone_slab](../images/byg_windswept_sandstone_slab.png) |
+| # | Windswept Sandstone Slab | ![windswept_sandstone_slab](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Chiseled Windswept Sandstone
@@ -1465,7 +1465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Bookshelf
@@ -1473,8 +1473,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Button
@@ -1482,7 +1482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| - | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Chest Boat
@@ -1490,8 +1490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Cika Boat | ![cika_boat](../images/byg_cika_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Cika Boat | ![cika_boat](../images/byg_boat.png) |
 
 ---
 ## Cika Crafting Table
@@ -1499,7 +1499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Door
@@ -1507,7 +1507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Fence
@@ -1516,7 +1516,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| W | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Fence Gate
@@ -1525,7 +1525,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| W | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Planks
@@ -1533,7 +1533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cika Logs | ![cika_logs](../images/byg_cika_logs.png) |
+| - | Cika Logs | ![cika_logs](../images/byg_portal_track_cika.png) |
 
 ---
 ## Cika Pressure Plate
@@ -1541,7 +1541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Sign
@@ -1549,7 +1549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -1558,7 +1558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Stairs
@@ -1566,7 +1566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Trapdoor
@@ -1574,7 +1574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cika Planks | ![cika_planks](../images/byg_cika_planks.png) |
+| P | Cika Planks | ![cika_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cika Wood
@@ -1582,7 +1582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Cika Log | ![cika_log](../images/byg_cika_log.png) |
+| L | Cika Log | ![cika_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Cobbled Ether Stone Slab
@@ -1742,7 +1742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Crafting Table
@@ -1759,8 +1759,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crimson Berries | ![crimson_berries](../images/byg_crimson_berries.png) |
-| - | Sugar | ![sugar](../images/byg_sugar.png) |
-| - | Egg | ![egg](../images/byg_egg.png) |
+| - | Sugar | ![sugar](../images/byg_allium_flower_bush.png) |
+| - | Egg | ![egg](../images/byg_allium_flower_bush.png) |
 
 ---
 ## {}
@@ -1775,8 +1775,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone | ![blackstone](../images/byg_blackstone.png) |
-| - | Crimson Fungus | ![crimson_fungus](../images/byg_crimson_fungus.png) |
+| - | Blackstone | ![blackstone](../images/byg_dusted_polished_blackstone_bricks.png) |
+| - | Crimson Fungus | ![crimson_fungus](../images/byg_crimson_berries.png) |
 
 ---
 ## Cryptic Campfire
@@ -1784,8 +1784,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/byg_logs.png) |
-| S | Stick | ![stick](../images/byg_stick.png) |
+| L | Logs | ![logs](../images/byg_allium_flower_bush.png) |
+| S | Stick | ![stick](../images/byg_stone_stick.png) |
 | C | Cryptic Magma Block | ![cryptic_magma_block](../images/byg_cryptic_magma_block.png) |
 
 ---
@@ -1794,8 +1794,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | End Rod | ![end_rod](../images/byg_end_rod.png) |
-| / | Redstone | ![redstone](../images/byg_redstone.png) |
+| # | End Rod | ![end_rod](../images/byg_cryptic_end_rod.png) |
+| / | Redstone | ![redstone](../images/byg_cryptic_redstone_ore.png) |
 
 ---
 ## Cryptic Lantern
@@ -1803,8 +1803,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Torch | ![redstone_torch](../images/byg_redstone_torch.png) |
-| X | Iron Nugget | ![iron_nugget](../images/byg_iron_nugget.png) |
+| # | Redstone Torch | ![redstone_torch](../images/byg_cryptic_redstone_ore.png) |
+| X | Iron Nugget | ![iron_nugget](../images/byg_iron_deposit_ore.png) |
 
 ---
 ## Cryptic Stone Slab
@@ -1940,7 +1940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dye | ![cyan_dye](../images/byg_cyan_dye.png) |
+| - | Cyan Dye | ![cyan_dye](../images/byg_cyan_amaranth.png) |
 
 ---
 ## Cypress Boat
@@ -1948,7 +1948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Bookshelf
@@ -1956,8 +1956,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Button
@@ -1965,7 +1965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| - | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Chest Boat
@@ -1973,8 +1973,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Cypress Boat | ![cypress_boat](../images/byg_cypress_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Cypress Boat | ![cypress_boat](../images/byg_boat.png) |
 
 ---
 ## Cypress Crafting Table
@@ -1982,7 +1982,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Door
@@ -1990,7 +1990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Fence
@@ -1999,7 +1999,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| W | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Fence Gate
@@ -2008,7 +2008,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| W | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Planks
@@ -2016,7 +2016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cypress Logs | ![cypress_logs](../images/byg_cypress_logs.png) |
+| - | Cypress Logs | ![cypress_logs](../images/byg_portal_track_cypress.png) |
 
 ---
 ## Cypress Pressure Plate
@@ -2024,7 +2024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Sign
@@ -2032,7 +2032,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -2041,7 +2041,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Stairs
@@ -2049,7 +2049,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Trapdoor
@@ -2057,7 +2057,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cypress Planks | ![cypress_planks](../images/byg_cypress_planks.png) |
+| P | Cypress Planks | ![cypress_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Cypress Wood
@@ -2065,7 +2065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Cypress Log | ![cypress_log](../images/byg_cypress_log.png) |
+| L | Cypress Log | ![cypress_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Dacite
@@ -2217,8 +2217,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Quartz | ![quartz](../images/byg_quartz.png) |
-| A | Andesite | ![andesite](../images/byg_andesite.png) |
+| Q | Quartz | ![quartz](../images/byg_blue_nether_quartz_ore.png) |
+| A | Andesite | ![andesite](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Dacite Pillar
@@ -2386,7 +2386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Double Blue Dye | ![double_blue_dye](../images/byg_double_blue_dye.png) |
+| - | Double Blue Dye | ![double_blue_dye](../images/byg_blue_cherry_leaves.png) |
 
 ---
 ## Cyan Dye
@@ -2394,7 +2394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Double Cyan Dye | ![double_cyan_dye](../images/byg_double_cyan_dye.png) |
+| - | Double Cyan Dye | ![double_cyan_dye](../images/byg_cyan_amaranth.png) |
 
 ---
 ## Pink Dye
@@ -2402,7 +2402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Double Pink Dye | ![double_pink_dye](../images/byg_double_pink_dye.png) |
+| - | Double Pink Dye | ![double_pink_dye](../images/byg_glowcane_pink.png) |
 
 ---
 ## Purple Dye
@@ -2410,7 +2410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Double Purple Dye | ![double_purple_dye](../images/byg_double_purple_dye.png) |
+| - | Double Purple Dye | ![double_purple_dye](../images/byg_glowcane_purple.png) |
 
 ---
 ## Dusted Polished Blackstone Bricks
@@ -2419,7 +2419,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Scoria Cobblestone | ![scoria_cobblestone](../images/byg_scoria_cobblestone.png) |
-| X | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/byg_polished_blackstone_bricks.png) |
+| X | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/byg_dusted_polished_blackstone_bricks.png) |
 
 ---
 ## White Dye
@@ -2427,7 +2427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Oddity Cactus | ![oddity_cactus](../images/byg_oddity_cactus.png) |
+| item | Oddity Cactus | ![oddity_cactus](../images/byg_oddity_cactus_bottom.png) |
 
 ---
 ## Cyan Dye
@@ -2435,7 +2435,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Warped Cactus | ![warped_cactus](../images/byg_warped_cactus.png) |
+| item | Warped Cactus | ![warped_cactus](../images/byg_warped_cactus_bottom.png) |
 
 ---
 ## Ebony Boat
@@ -2443,7 +2443,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Bookshelf
@@ -2451,8 +2451,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Button
@@ -2460,7 +2460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| - | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Chest Boat
@@ -2468,8 +2468,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Ebony Boat | ![ebony_boat](../images/byg_ebony_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Ebony Boat | ![ebony_boat](../images/byg_boat.png) |
 
 ---
 ## Ebony Crafting Table
@@ -2477,7 +2477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Door
@@ -2485,7 +2485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Fence
@@ -2494,7 +2494,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| W | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Fence Gate
@@ -2503,7 +2503,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| W | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Planks
@@ -2511,7 +2511,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ebony Logs | ![ebony_logs](../images/byg_ebony_logs.png) |
+| - | Ebony Logs | ![ebony_logs](../images/byg_portal_track_ebony.png) |
 
 ---
 ## Ebony Pressure Plate
@@ -2519,7 +2519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Sign
@@ -2527,7 +2527,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -2536,7 +2536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Stairs
@@ -2544,7 +2544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Trapdoor
@@ -2552,7 +2552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ebony Planks | ![ebony_planks](../images/byg_ebony_planks.png) |
+| P | Ebony Planks | ![ebony_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ebony Wood
@@ -2560,7 +2560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Ebony Log | ![ebony_log](../images/byg_ebony_log.png) |
+| L | Ebony Log | ![ebony_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Embur Bookshelf
@@ -2568,8 +2568,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Button
@@ -2577,7 +2577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| - | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Crafting Table
@@ -2585,7 +2585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Door
@@ -2593,7 +2593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Fence
@@ -2602,7 +2602,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| W | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Fence Gate
@@ -2611,7 +2611,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| W | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Gel Ball
@@ -2635,7 +2635,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Embur Logs | ![embur_logs](../images/byg_embur_logs.png) |
+| - | Embur Logs | ![embur_logs](../images/byg_embur_gel_ball.png) |
 
 ---
 ## Embur Pressure Plate
@@ -2643,7 +2643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Sign
@@ -2651,7 +2651,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -2660,7 +2660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Stairs
@@ -2668,7 +2668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Trapdoor
@@ -2676,7 +2676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Embur Planks | ![embur_planks](../images/byg_embur_planks.png) |
+| P | Embur Planks | ![embur_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Embur Hyphae
@@ -2684,7 +2684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Embur Pedu | ![embur_pedu](../images/byg_embur_pedu.png) |
+| L | Embur Pedu | ![embur_pedu](../images/byg_embur_gel_ball.png) |
 
 ---
 ## Emeraldite Shards
@@ -2716,8 +2716,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Button
@@ -2725,7 +2725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| - | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Crafting Table
@@ -2733,7 +2733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Door
@@ -2741,7 +2741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Fence
@@ -2750,7 +2750,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| W | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Fence Gate
@@ -2759,7 +2759,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| W | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Planks
@@ -2767,7 +2767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ether Logs | ![ether_logs](../images/byg_ether_logs.png) |
+| - | Ether Logs | ![ether_logs](../images/byg_carved_ether_stone.png) |
 
 ---
 ## Ether Pressure Plate
@@ -2775,7 +2775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Sign
@@ -2783,7 +2783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -2792,7 +2792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Stairs
@@ -2800,7 +2800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Stone
@@ -2864,7 +2864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ether Planks | ![ether_planks](../images/byg_ether_planks.png) |
+| P | Ether Planks | ![ether_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Ether Wood
@@ -2872,7 +2872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Ether Log | ![ether_log](../images/byg_ether_log.png) |
+| L | Ether Log | ![ether_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Fire Charge
@@ -2880,9 +2880,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gunpowder | ![gunpowder](../images/byg_gunpowder.png) |
-| - | Blaze Powder | ![blaze_powder](../images/byg_blaze_powder.png) |
-| - | Anthracite'}] | ![anthracite'}]](../images/byg_anthracite'}].png) |
+| - | Gunpowder | ![gunpowder](../images/byg_allium_flower_bush.png) |
+| - | Blaze Powder | ![blaze_powder](../images/byg_brim_powder.png) |
+| - | Anthracite'}] | ![anthracite'}]](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Fir Boat
@@ -2890,7 +2890,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Bookshelf
@@ -2898,8 +2898,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Button
@@ -2907,7 +2907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| - | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Chest Boat
@@ -2915,8 +2915,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Fir Boat | ![fir_boat](../images/byg_fir_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Fir Boat | ![fir_boat](../images/byg_boat.png) |
 
 ---
 ## Fir Crafting Table
@@ -2924,7 +2924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Door
@@ -2932,7 +2932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Fence
@@ -2941,7 +2941,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| W | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Fence Gate
@@ -2950,7 +2950,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| W | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Planks
@@ -2958,7 +2958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fir Logs | ![fir_logs](../images/byg_fir_logs.png) |
+| - | Fir Logs | ![fir_logs](../images/byg_portal_track_fir.png) |
 
 ---
 ## Fir Pressure Plate
@@ -2966,7 +2966,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Sign
@@ -2974,7 +2974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -2983,7 +2983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Stairs
@@ -2991,7 +2991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Trapdoor
@@ -2999,7 +2999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Fir Planks | ![fir_planks](../images/byg_fir_planks.png) |
+| P | Fir Planks | ![fir_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Fir Wood
@@ -3007,7 +3007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Fir Log | ![fir_log](../images/byg_fir_log.png) |
+| L | Fir Log | ![fir_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Fletching Table
@@ -3025,7 +3025,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Planks | ![planks](../images/byg_planks.png) |
-| @ | Mushrooms For Foragers Table | ![mushrooms_for_foragers_table](../images/byg_mushrooms_for_foragers_table.png) |
+| @ | Mushrooms For Foragers Table | ![mushrooms_for_foragers_table](../images/byg_foragers_table_front.png) |
 
 ---
 ## Fungal Imparius Hyphae
@@ -3057,8 +3057,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glowstone | ![glowstone](../images/byg_glowstone.png) |
-| X | Iron Nugget | ![iron_nugget](../images/byg_iron_nugget.png) |
+| # | Glowstone | ![glowstone](../images/byg_glowstone_lamp.png) |
+| X | Iron Nugget | ![iron_nugget](../images/byg_iron_deposit_ore.png) |
 
 ---
 ## Glowstone Lantern
@@ -3066,8 +3066,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Iron Nugget | ![iron_nugget](../images/byg_iron_nugget.png) |
-| # | Glowstone Dust | ![glowstone_dust](../images/byg_glowstone_dust.png) |
+| X | Iron Nugget | ![iron_nugget](../images/byg_iron_deposit_ore.png) |
+| # | Glowstone Dust | ![glowstone_dust](../images/byg_blue_glowcane_dust.png) |
 
 ---
 ## Gold Ingot
@@ -3107,7 +3107,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sythian Stalk Block | ![sythian_stalk_block](../images/byg_sythian_stalk_block.png) |
+| item | Sythian Stalk Block | ![sythian_stalk_block](../images/byg_sythian_stalk.png) |
 
 ---
 ## Green Apple Pie
@@ -3116,8 +3116,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Green Apple | ![green_apple](../images/byg_green_apple.png) |
-| - | Sugar | ![sugar](../images/byg_sugar.png) |
-| - | Egg | ![egg](../images/byg_egg.png) |
+| - | Sugar | ![sugar](../images/byg_allium_flower_bush.png) |
+| - | Egg | ![egg](../images/byg_allium_flower_bush.png) |
 
 ---
 ## {}
@@ -3132,7 +3132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dye | ![green_dye](../images/byg_green_dye.png) |
+| - | Green Dye | ![green_dye](../images/byg_glowshroom_stew_green.png) |
 
 ---
 ## Green Enchanted Boat
@@ -3140,7 +3140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Bookshelf
@@ -3148,8 +3148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Button
@@ -3157,7 +3157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| - | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Chest Boat
@@ -3165,8 +3165,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Green Enchanted Boat | ![green_enchanted_boat](../images/byg_green_enchanted_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Green Enchanted Boat | ![green_enchanted_boat](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Crafting Table
@@ -3174,7 +3174,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Door
@@ -3182,7 +3182,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Fence
@@ -3191,7 +3191,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| W | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Fence Gate
@@ -3200,7 +3200,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| W | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Planks
@@ -3208,7 +3208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Enchanted Logs | ![green_enchanted_logs](../images/byg_green_enchanted_logs.png) |
+| - | Green Enchanted Logs | ![green_enchanted_logs](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Pressure Plate
@@ -3216,7 +3216,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Sign
@@ -3224,7 +3224,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -3233,7 +3233,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Stairs
@@ -3241,7 +3241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Trapdoor
@@ -3249,7 +3249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_green_enchanted_planks.png) |
+| P | Green Enchanted Planks | ![green_enchanted_planks](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Green Enchanted Wood
@@ -3257,7 +3257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Green Enchanted Log | ![green_enchanted_log](../images/byg_green_enchanted_log.png) |
+| L | Green Enchanted Log | ![green_enchanted_log](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Hanging Bones
@@ -3265,7 +3265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Bone | ![bone](../images/byg_bone.png) |
+| X | Bone | ![bone](../images/byg_hanging_bone.png) |
 
 ---
 ## Holly Boat
@@ -3273,7 +3273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Bookshelf
@@ -3281,8 +3281,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Button
@@ -3290,7 +3290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| - | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Chest Boat
@@ -3298,8 +3298,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Holly Boat | ![holly_boat](../images/byg_holly_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Holly Boat | ![holly_boat](../images/byg_boat.png) |
 
 ---
 ## Holly Crafting Table
@@ -3307,7 +3307,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Door
@@ -3315,7 +3315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Fence
@@ -3324,7 +3324,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| W | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Fence Gate
@@ -3333,7 +3333,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| W | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Planks
@@ -3341,7 +3341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Holly Logs | ![holly_logs](../images/byg_holly_logs.png) |
+| - | Holly Logs | ![holly_logs](../images/byg_portal_track_holly.png) |
 
 ---
 ## Holly Pressure Plate
@@ -3349,7 +3349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Sign
@@ -3357,7 +3357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -3366,7 +3366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Stairs
@@ -3374,7 +3374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Trapdoor
@@ -3382,7 +3382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Holly Planks | ![holly_planks](../images/byg_holly_planks.png) |
+| P | Holly Planks | ![holly_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Holly Wood
@@ -3390,7 +3390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Holly Log | ![holly_log](../images/byg_holly_log.png) |
+| L | Holly Log | ![holly_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Hypogeal Imperium
@@ -3399,7 +3399,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Subzero Crystal Shard | ![subzero_crystal_shard](../images/byg_subzero_crystal_shard.png) |
-| L | Lodestone | ![lodestone](../images/byg_lodestone.png) |
+| L | Lodestone | ![lodestone](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Imparius Bookshelf
@@ -3407,8 +3407,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Button
@@ -3416,7 +3416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| - | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Crafting Table
@@ -3424,7 +3424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Door
@@ -3432,7 +3432,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Fence
@@ -3441,7 +3441,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| W | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Fence Gate
@@ -3450,7 +3450,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| W | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Planks
@@ -3458,7 +3458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Imparius Logs | ![imparius_logs](../images/byg_imparius_logs.png) |
+| - | Imparius Logs | ![imparius_logs](../images/byg_chiseled_fungal_imparius.png) |
 
 ---
 ## Imparius Pressure Plate
@@ -3466,7 +3466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Sign
@@ -3474,7 +3474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -3483,7 +3483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Stairs
@@ -3491,7 +3491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Trapdoor
@@ -3499,7 +3499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Imparius Planks | ![imparius_planks](../images/byg_imparius_planks.png) |
+| P | Imparius Planks | ![imparius_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Imparius Hyphae
@@ -3507,7 +3507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Imparius Stem | ![imparius_stem](../images/byg_imparius_stem.png) |
+| L | Imparius Stem | ![imparius_stem](../images/byg_fungal_imparius_stem.png) |
 
 ---
 ## Jacaranda Boat
@@ -3515,7 +3515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Bookshelf
@@ -3523,8 +3523,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Bookshelf
@@ -3532,8 +3532,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
-| X | Book | ![book](../images/byg_book.png) |
+| # | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
+| X | Book | ![book](../images/byg_biomepedia_book.png) |
 
 ---
 ## Jacaranda Button
@@ -3541,7 +3541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| - | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Chest Boat
@@ -3549,8 +3549,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Jacaranda Boat | ![jacaranda_boat](../images/byg_jacaranda_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Jacaranda Boat | ![jacaranda_boat](../images/byg_boat.png) |
 
 ---
 ## Jacaranda Crafting Table
@@ -3558,7 +3558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Door
@@ -3566,7 +3566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Fence
@@ -3575,7 +3575,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| W | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Fence Gate
@@ -3584,7 +3584,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| W | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Planks
@@ -3592,7 +3592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jacaranda Logs | ![jacaranda_logs](../images/byg_jacaranda_logs.png) |
+| - | Jacaranda Logs | ![jacaranda_logs](../images/byg_flowering_indigo_jacaranda_bush_side.png) |
 
 ---
 ## Jacaranda Pressure Plate
@@ -3600,7 +3600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Sign
@@ -3608,7 +3608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -3617,7 +3617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Stairs
@@ -3625,7 +3625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Trapdoor
@@ -3633,7 +3633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_jacaranda_planks.png) |
+| P | Jacaranda Planks | ![jacaranda_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Jacaranda Wood
@@ -3641,7 +3641,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Jacaranda Log | ![jacaranda_log](../images/byg_jacaranda_log.png) |
+| L | Jacaranda Log | ![jacaranda_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Lament Bookshelf
@@ -3649,8 +3649,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Button
@@ -3658,7 +3658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| - | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Crafting Table
@@ -3666,7 +3666,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Door
@@ -3674,7 +3674,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Fence
@@ -3683,7 +3683,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| W | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Fence Gate
@@ -3692,7 +3692,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| W | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Planks
@@ -3700,7 +3700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lament Logs | ![lament_logs](../images/byg_lament_logs.png) |
+| - | Lament Logs | ![lament_logs](../images/byg_lament_crafting_front.png) |
 
 ---
 ## Lament Pressure Plate
@@ -3708,7 +3708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Sign
@@ -3716,7 +3716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -3725,7 +3725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Stairs
@@ -3733,7 +3733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Trapdoor
@@ -3741,7 +3741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lament Planks | ![lament_planks](../images/byg_lament_planks.png) |
+| P | Lament Planks | ![lament_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Lament Wood
@@ -3749,7 +3749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Lament Log | ![lament_log](../images/byg_lament_log.png) |
+| L | Lament Log | ![lament_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Light Blue Dye
@@ -3757,7 +3757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dye | ![light_blue_dye](../images/byg_light_blue_dye.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/byg_light_blue_crystals.png) |
 
 ---
 ## Light Gray Dye
@@ -3765,7 +3765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dye | ![light_gray_dye](../images/byg_light_gray_dye.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/byg_light_blue_crystals.png) |
 
 ---
 ## Lime Dye
@@ -3773,7 +3773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dye | ![lime_dye](../images/byg_lime_dye.png) |
+| - | Lime Dye | ![lime_dye](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Magenta Dye
@@ -3781,7 +3781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dye | ![magenta_dye](../images/byg_magenta_dye.png) |
+| - | Magenta Dye | ![magenta_dye](../images/byg_magenta_amaranth.png) |
 
 ---
 ## Magmatic Stone
@@ -3789,8 +3789,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone | ![blackstone](../images/byg_blackstone.png) |
-| E | Lava Bucket | ![lava_bucket](../images/byg_lava_bucket.png) |
+| # | Blackstone | ![blackstone](../images/byg_dusted_polished_blackstone_bricks.png) |
+| E | Lava Bucket | ![lava_bucket](../images/byg_man_o_war_bucket.png) |
 
 ---
 ## Mahogany Boat
@@ -3798,7 +3798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Bookshelf
@@ -3806,8 +3806,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Button
@@ -3815,7 +3815,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| - | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Chest Boat
@@ -3823,8 +3823,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Mahogany Boat | ![mahogany_boat](../images/byg_mahogany_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Mahogany Boat | ![mahogany_boat](../images/byg_boat.png) |
 
 ---
 ## Mahogany Crafting Table
@@ -3832,7 +3832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Door
@@ -3840,7 +3840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Fence
@@ -3849,7 +3849,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| W | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Fence Gate
@@ -3858,7 +3858,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| W | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Planks
@@ -3866,7 +3866,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mahogany Logs | ![mahogany_logs](../images/byg_mahogany_logs.png) |
+| - | Mahogany Logs | ![mahogany_logs](../images/byg_portal_track_mahogany.png) |
 
 ---
 ## Mahogany Pressure Plate
@@ -3874,7 +3874,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Sign
@@ -3882,7 +3882,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -3891,7 +3891,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Stairs
@@ -3899,7 +3899,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Trapdoor
@@ -3907,7 +3907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mahogany Planks | ![mahogany_planks](../images/byg_mahogany_planks.png) |
+| P | Mahogany Planks | ![mahogany_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Mahogany Wood
@@ -3915,7 +3915,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Mahogany Log | ![mahogany_log](../images/byg_mahogany_log.png) |
+| L | Mahogany Log | ![mahogany_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Maple Boat
@@ -3923,7 +3923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Bookshelf
@@ -3931,8 +3931,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Button
@@ -3940,7 +3940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| - | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Chest Boat
@@ -3948,8 +3948,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Maple Boat | ![maple_boat](../images/byg_maple_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Maple Boat | ![maple_boat](../images/byg_boat.png) |
 
 ---
 ## Maple Crafting Table
@@ -3957,7 +3957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Door
@@ -3965,7 +3965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Fence
@@ -3974,7 +3974,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| W | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Fence Gate
@@ -3983,7 +3983,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| W | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Planks
@@ -3991,7 +3991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Maple Logs | ![maple_logs](../images/byg_maple_logs.png) |
+| - | Maple Logs | ![maple_logs](../images/byg_maple_leaves_red.png) |
 
 ---
 ## Maple Pressure Plate
@@ -3999,7 +3999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Sign
@@ -4007,7 +4007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -4016,7 +4016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Stairs
@@ -4024,7 +4024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Trapdoor
@@ -4032,7 +4032,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Maple Planks | ![maple_planks](../images/byg_maple_planks.png) |
+| P | Maple Planks | ![maple_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Maple Wood
@@ -4040,7 +4040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Maple Log | ![maple_log](../images/byg_maple_log.png) |
+| L | Maple Log | ![maple_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Mossy Red Rock Bricks
@@ -4049,7 +4049,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Red Rock Bricks | ![red_rock_bricks](../images/byg_red_rock_bricks.png) |
-| - | Vine | ![vine](../images/byg_vine.png) |
+| - | Vine | ![vine](../images/byg_imparius_vine.png) |
 
 ---
 ## Mossy Red Rock Brick Slab
@@ -4105,8 +4105,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/byg_stone.png) |
-| - | Vine | ![vine](../images/byg_vine.png) |
+| - | Stone | ![stone](../images/byg_carved_ether_stone.png) |
+| - | Vine | ![vine](../images/byg_imparius_vine.png) |
 
 ---
 ## Mossy Stone Bricks
@@ -4122,7 +4122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mossy Cobblestone | ![mossy_cobblestone](../images/byg_mossy_cobblestone.png) |
+| item | Mossy Cobblestone | ![mossy_cobblestone](../images/byg_dacite_cobblestone.png) |
 
 ---
 ## Mossy Stone Slab
@@ -4179,8 +4179,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Nightshade Berries | ![nightshade_berries](../images/byg_nightshade_berries.png) |
-| - | Sugar | ![sugar](../images/byg_sugar.png) |
-| - | Egg | ![egg](../images/byg_egg.png) |
+| - | Sugar | ![sugar](../images/byg_allium_flower_bush.png) |
+| - | Egg | ![egg](../images/byg_allium_flower_bush.png) |
 
 ---
 ## {}
@@ -4195,8 +4195,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Button
@@ -4204,7 +4204,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| - | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Crafting Table
@@ -4212,7 +4212,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Door
@@ -4220,7 +4220,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Fence
@@ -4229,7 +4229,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| W | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Fence Gate
@@ -4238,7 +4238,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| W | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Planks
@@ -4246,7 +4246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nightshade Logs | ![nightshade_logs](../images/byg_nightshade_logs.png) |
+| - | Nightshade Logs | ![nightshade_logs](../images/byg_flowering_nightshade_leaves.png) |
 
 ---
 ## Nightshade Pressure Plate
@@ -4254,7 +4254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Sign
@@ -4262,7 +4262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -4271,7 +4271,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Stairs
@@ -4279,7 +4279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Trapdoor
@@ -4287,7 +4287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Nightshade Planks | ![nightshade_planks](../images/byg_nightshade_planks.png) |
+| P | Nightshade Planks | ![nightshade_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Nightshade Wood
@@ -4295,7 +4295,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Nightshade Log | ![nightshade_log](../images/byg_nightshade_log.png) |
+| L | Nightshade Log | ![nightshade_log](../images/byg_imbued_nightshade_log.png) |
 
 ---
 ## Orange Dye
@@ -4303,7 +4303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dye | ![orange_dye](../images/byg_orange_dye.png) |
+| - | Orange Dye | ![orange_dye](../images/byg_oak_leaves_orange.png) |
 
 ---
 ## Packed Black Ice
@@ -4319,7 +4319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Bookshelf
@@ -4327,8 +4327,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Button
@@ -4336,7 +4336,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| - | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Chest Boat
@@ -4344,8 +4344,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Palm Boat | ![palm_boat](../images/byg_palm_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Palm Boat | ![palm_boat](../images/byg_boat.png) |
 
 ---
 ## Palm Crafting Table
@@ -4353,7 +4353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Door
@@ -4361,7 +4361,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Fence
@@ -4370,7 +4370,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| W | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Fence Gate
@@ -4379,7 +4379,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| W | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Planks
@@ -4387,7 +4387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palm Logs | ![palm_logs](../images/byg_palm_logs.png) |
+| - | Palm Logs | ![palm_logs](../images/byg_portal_track_mip_palm.png) |
 
 ---
 ## Palm Pressure Plate
@@ -4395,7 +4395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Sign
@@ -4403,7 +4403,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -4412,7 +4412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Stairs
@@ -4420,7 +4420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Trapdoor
@@ -4428,7 +4428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Palm Planks | ![palm_planks](../images/byg_palm_planks.png) |
+| P | Palm Planks | ![palm_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Palm Wood
@@ -4436,7 +4436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Palm Log | ![palm_log](../images/byg_palm_log.png) |
+| L | Palm Log | ![palm_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Birch Planks
@@ -4444,7 +4444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palo Verde Logs | ![palo_verde_logs](../images/byg_palo_verde_logs.png) |
+| - | Palo Verde Logs | ![palo_verde_logs](../images/byg_palo_verde_leaves.png) |
 
 ---
 ## Palo Verde Wood
@@ -4460,8 +4460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Mud | ![mud](../images/byg_mud.png) |
-| C | Coal | ![coal](../images/byg_coal.png) |
+| M | Mud | ![mud](../images/byg_allium_flower_bush.png) |
+| C | Coal | ![coal](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Scoria Stone
@@ -4469,8 +4469,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Mud | ![mud](../images/byg_mud.png) |
-| C | Charcoal | ![charcoal](../images/byg_charcoal.png) |
+| M | Mud | ![mud](../images/byg_allium_flower_bush.png) |
+| C | Charcoal | ![charcoal](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Pendorite Axe
@@ -4519,8 +4519,8 @@
 | - | Pendorite Scraps | ![pendorite_scraps](../images/byg_pendorite_scraps.png) |
 | - | Pendorite Scraps | ![pendorite_scraps](../images/byg_pendorite_scraps.png) |
 | - | Pendorite Scraps | ![pendorite_scraps](../images/byg_pendorite_scraps.png) |
-| - | Diamond | ![diamond](../images/byg_diamond.png) |
-| - | Diamond | ![diamond](../images/byg_diamond.png) |
+| - | Diamond | ![diamond](../images/byg_allium_flower_bush.png) |
+| - | Diamond | ![diamond](../images/byg_allium_flower_bush.png) |
 | - | Emeraldite Shards | ![emeraldite_shards](../images/byg_emeraldite_shards.png) |
 | - | Emeraldite Shards | ![emeraldite_shards](../images/byg_emeraldite_shards.png) |
 
@@ -4559,7 +4559,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Bookshelf
@@ -4567,8 +4567,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Button
@@ -4576,7 +4576,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| - | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Chest Boat
@@ -4584,8 +4584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Pine Boat | ![pine_boat](../images/byg_pine_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Pine Boat | ![pine_boat](../images/byg_boat.png) |
 
 ---
 ## Pine Crafting Table
@@ -4593,7 +4593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Door
@@ -4601,7 +4601,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Fence
@@ -4610,7 +4610,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| W | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Fence Gate
@@ -4619,7 +4619,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| W | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Planks
@@ -4627,7 +4627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pine Logs | ![pine_logs](../images/byg_pine_logs.png) |
+| - | Pine Logs | ![pine_logs](../images/byg_portal_track_mip_pine.png) |
 
 ---
 ## Pine Pressure Plate
@@ -4635,7 +4635,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Sign
@@ -4643,7 +4643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -4652,7 +4652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Stairs
@@ -4660,7 +4660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Trapdoor
@@ -4668,7 +4668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pine Planks | ![pine_planks](../images/byg_pine_planks.png) |
+| P | Pine Planks | ![pine_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Pine Wood
@@ -4676,7 +4676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Pine Log | ![pine_log](../images/byg_pine_log.png) |
+| L | Pine Log | ![pine_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Pink Chiseled Sandstone
@@ -4708,7 +4708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dye | ![pink_dye](../images/byg_pink_dye.png) |
+| - | Pink Dye | ![pink_dye](../images/byg_glowcane_pink.png) |
 
 ---
 ## Pink Stained Glass
@@ -4756,7 +4756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| # | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Polished Soapstone Slab
@@ -4764,7 +4764,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| item | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Polished Soapstone Slab
@@ -4780,7 +4780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| # | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Polished Soapstone Stairs
@@ -4788,7 +4788,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| item | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Polished Soapstone Stairs
@@ -4804,7 +4804,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| # | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Polished Soapstone Wall
@@ -4812,7 +4812,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| item | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Polished Soapstone Wall
@@ -4940,7 +4940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dye | ![purple_dye](../images/byg_purple_dye.png) |
+| - | Purple Dye | ![purple_dye](../images/byg_glowcane_purple.png) |
 
 ---
 ## Purple Stained Glass
@@ -4972,8 +4972,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Popped Chorus Fruit | ![popped_chorus_fruit](../images/byg_popped_chorus_fruit.png) |
-| C | Cobblestone | ![cobblestone](../images/byg_cobblestone.png) |
+| P | Popped Chorus Fruit | ![popped_chorus_fruit](../images/byg_apple_fruit_block_stage0.png) |
+| C | Cobblestone | ![cobblestone](../images/byg_dacite_cobblestone.png) |
 
 ---
 ## Purpur Stone Slab
@@ -5029,8 +5029,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/byg_sand.png) |
-| - | Quartz | ![quartz](../images/byg_quartz.png) |
+| - | Sand | ![sand](../images/byg_black_sand.png) |
+| - | Quartz | ![quartz](../images/byg_blue_nether_quartz_ore.png) |
 
 ---
 ## Quartz
@@ -5070,7 +5070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| # | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Trapdoor
@@ -5078,7 +5078,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| # | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Boat
@@ -5086,7 +5086,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Bookshelf
@@ -5094,8 +5094,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Button
@@ -5103,7 +5103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| - | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Chest Boat
@@ -5111,8 +5111,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Rainbow Eucalyptus Boat | ![rainbow_eucalyptus_boat](../images/byg_rainbow_eucalyptus_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Rainbow Eucalyptus Boat | ![rainbow_eucalyptus_boat](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Crafting Table
@@ -5120,7 +5120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Door
@@ -5128,7 +5128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Fence
@@ -5137,7 +5137,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| W | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Fence Gate
@@ -5146,7 +5146,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| W | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Planks
@@ -5154,7 +5154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rainbow Eucalyptus Logs | ![rainbow_eucalyptus_logs](../images/byg_rainbow_eucalyptus_logs.png) |
+| - | Rainbow Eucalyptus Logs | ![rainbow_eucalyptus_logs](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Pressure Plate
@@ -5162,7 +5162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Sign
@@ -5170,7 +5170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -5179,7 +5179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Stairs
@@ -5187,7 +5187,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Trapdoor
@@ -5195,7 +5195,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_rainbow_eucalyptus_planks.png) |
+| P | Rainbow Eucalyptus Planks | ![rainbow_eucalyptus_planks](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Rainbow Eucalyptus Wood
@@ -5203,7 +5203,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Rainbow Eucalyptus Log | ![rainbow_eucalyptus_log](../images/byg_rainbow_eucalyptus_log.png) |
+| L | Rainbow Eucalyptus Log | ![rainbow_eucalyptus_log](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Raw Pendorite Block
@@ -5251,7 +5251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Bookshelf
@@ -5259,8 +5259,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Button
@@ -5268,7 +5268,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| - | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Chest Boat
@@ -5276,8 +5276,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Redwood Boat | ![redwood_boat](../images/byg_redwood_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Redwood Boat | ![redwood_boat](../images/byg_boat.png) |
 
 ---
 ## Redwood Crafting Table
@@ -5285,7 +5285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Door
@@ -5293,7 +5293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Fence
@@ -5302,7 +5302,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| W | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Fence Gate
@@ -5311,7 +5311,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| W | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Planks
@@ -5319,7 +5319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redwood Logs | ![redwood_logs](../images/byg_redwood_logs.png) |
+| - | Redwood Logs | ![redwood_logs](../images/byg_portal_track_mip_redwood.png) |
 
 ---
 ## Redwood Pressure Plate
@@ -5327,7 +5327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Sign
@@ -5335,7 +5335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -5344,7 +5344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Stairs
@@ -5352,7 +5352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Trapdoor
@@ -5360,7 +5360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Redwood Planks | ![redwood_planks](../images/byg_redwood_planks.png) |
+| P | Redwood Planks | ![redwood_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Redwood Wood
@@ -5368,7 +5368,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Redwood Log | ![redwood_log](../images/byg_redwood_log.png) |
+| L | Redwood Log | ![redwood_log](../images/byg_redwood_log_to.png) |
 
 ---
 ## Red Dye
@@ -5376,7 +5376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dye | ![red_dye](../images/byg_red_dye.png) |
+| - | Red Dye | ![red_dye](../images/byg_chiseled_red_rock_bricks.png) |
 
 ---
 ## Red Rock Bricks
@@ -5472,8 +5472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Red Sand | ![red_sand](../images/byg_red_sand.png) |
-| C | Cobblestone | ![cobblestone](../images/byg_cobblestone.png) |
+| S | Red Sand | ![red_sand](../images/byg_cracked_red_sand.png) |
+| C | Cobblestone | ![cobblestone](../images/byg_dacite_cobblestone.png) |
 
 ---
 ## Red Rock
@@ -5481,8 +5481,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terracotta | ![terracotta](../images/byg_terracotta.png) |
-| - | Stone Crafting Materials | ![stone_crafting_materials](../images/byg_stone_crafting_materials.png) |
+| - | Terracotta | ![terracotta](../images/byg_allium_flower_bush.png) |
+| - | Stone Crafting Materials | ![stone_crafting_materials](../images/byg_carved_ether_stone.png) |
 
 ---
 ## Red Rock Slab
@@ -5546,8 +5546,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/byg_stone.png) |
-| - | Cobblestone | ![cobblestone](../images/byg_cobblestone.png) |
+| - | Stone | ![stone](../images/byg_carved_ether_stone.png) |
+| - | Cobblestone | ![cobblestone](../images/byg_dacite_cobblestone.png) |
 
 ---
 ## Rocky Stone Slab
@@ -5651,8 +5651,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Basalt | ![basalt](../images/byg_basalt.png) |
-| - | Andesite | ![andesite](../images/byg_andesite.png) |
+| - | Basalt | ![basalt](../images/byg_allium_flower_bush.png) |
+| - | Andesite | ![andesite](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Scoria Pillar
@@ -5700,7 +5700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| # | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Scoria Stonebrick Slab
@@ -5708,7 +5708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Scoria Stonebrick Slab
@@ -5724,7 +5724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| # | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Scoria Stonebrick Stairs
@@ -5732,7 +5732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Scoria Stonebrick Stairs
@@ -5748,7 +5748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| # | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Scoria Stonebrick Wall
@@ -5756,7 +5756,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_scoria_stonebricks.png) |
+| item | Scoria Stonebricks | ![scoria_stonebricks](../images/byg_chiseled_polished_scoria_stone.png) |
 
 ---
 ## Scoria Stonebrick Wall
@@ -5772,8 +5772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Basalt | ![basalt](../images/byg_basalt.png) |
-| A | Andesite | ![andesite](../images/byg_andesite.png) |
+| B | Basalt | ![basalt](../images/byg_allium_flower_bush.png) |
+| A | Andesite | ![andesite](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Scoria Stone Slab
@@ -5830,7 +5830,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Chiseled Therium | ![chiseled_therium](../images/byg_chiseled_therium.png) |
-| X | Honeycomb | ![honeycomb](../images/byg_honeycomb.png) |
+| X | Honeycomb | ![honeycomb](../images/byg_allium_flower_bush.png) |
 
 ---
 ## Shiny Chiseled Therium Slab
@@ -5886,7 +5886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Bookshelf
@@ -5894,8 +5894,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Button
@@ -5903,7 +5903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| - | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Chest Boat
@@ -5911,8 +5911,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Skyris Boat | ![skyris_boat](../images/byg_skyris_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Skyris Boat | ![skyris_boat](../images/byg_boat.png) |
 
 ---
 ## Skyris Crafting Table
@@ -5920,7 +5920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Door
@@ -5928,7 +5928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Fence
@@ -5937,7 +5937,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| W | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Fence Gate
@@ -5946,7 +5946,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| W | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Planks
@@ -5954,7 +5954,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skyris Logs | ![skyris_logs](../images/byg_skyris_logs.png) |
+| - | Skyris Logs | ![skyris_logs](../images/byg_flowering_skyris_leaves.png) |
 
 ---
 ## Skyris Pressure Plate
@@ -5962,7 +5962,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Sign
@@ -5970,7 +5970,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -5979,7 +5979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Stairs
@@ -5987,7 +5987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Trapdoor
@@ -5995,7 +5995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Skyris Planks | ![skyris_planks](../images/byg_skyris_planks.png) |
+| P | Skyris Planks | ![skyris_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Skyris Wood
@@ -6003,7 +6003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Skyris Log | ![skyris_log](../images/byg_skyris_log.png) |
+| L | Skyris Log | ![skyris_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Smooth Windswept Sandstone
@@ -6027,7 +6027,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_smooth_windswept_sandstone.png) |
+| # | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Smooth Windswept Sandstone Slab
@@ -6035,7 +6035,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_smooth_windswept_sandstone.png) |
+| item | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Smooth Windswept Sandstone Stairs
@@ -6043,7 +6043,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_smooth_windswept_sandstone.png) |
+| # | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Smooth Windswept Sandstone Stairs
@@ -6051,7 +6051,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_smooth_windswept_sandstone.png) |
+| item | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Smooth Windswept Sandstone Wall
@@ -6059,7 +6059,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_smooth_windswept_sandstone.png) |
+| # | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Smooth Windswept Sandstone Wall
@@ -6067,7 +6067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_smooth_windswept_sandstone.png) |
+| item | Smooth Windswept Sandstone | ![smooth_windswept_sandstone](../images/byg_chiseled_windswept_sandstone.png) |
 
 ---
 ## Soapstone Bricks
@@ -6075,7 +6075,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Soapstone | ![polished_soapstone](../images/byg_polished_soapstone.png) |
+| # | Polished Soapstone | ![polished_soapstone](../images/byg_soapstone_polished.png) |
 
 ---
 ## Soapstone Bricks
@@ -6163,8 +6163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Crafting Materials | ![stone_crafting_materials](../images/byg_stone_crafting_materials.png) |
-| - | Clay Ball | ![clay_ball](../images/byg_clay_ball.png) |
+| - | Stone Crafting Materials | ![stone_crafting_materials](../images/byg_carved_ether_stone.png) |
+| - | Clay Ball | ![clay_ball](../images/byg_embur_gel_ball.png) |
 
 ---
 ## Soapstone Pillar
@@ -6333,8 +6333,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | X | Anthracite | ![anthracite](../images/byg_anthracite.png) |
-| # | Stick | ![stick](../images/byg_stick.png) |
-| S | Soul Fire Base Blocks | ![soul_fire_base_blocks](../images/byg_soul_fire_base_blocks.png) |
+| # | Stick | ![stick](../images/byg_stone_stick.png) |
+| S | Soul Fire Base Blocks | ![soul_fire_base_blocks](../images/byg_boric_fire.png) |
 
 ---
 ## Stick
@@ -6350,7 +6350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Aspen Log | ![stripped_aspen_log](../images/byg_stripped_aspen_log.png) |
+| # | Stripped Aspen Log | ![stripped_aspen_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Baobab Wood
@@ -6358,7 +6358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Baobab Log | ![stripped_baobab_log](../images/byg_stripped_baobab_log.png) |
+| # | Stripped Baobab Log | ![stripped_baobab_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Blue Enchanted Wood
@@ -6366,7 +6366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Blue Enchanted Log | ![stripped_blue_enchanted_log](../images/byg_stripped_blue_enchanted_log.png) |
+| # | Stripped Blue Enchanted Log | ![stripped_blue_enchanted_log](../images/byg_portal_track_blue_enchanted.png) |
 
 ---
 ## Stripped Bulbis Wood
@@ -6374,7 +6374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Bulbis Stem | ![stripped_bulbis_stem](../images/byg_stripped_bulbis_stem.png) |
+| # | Stripped Bulbis Stem | ![stripped_bulbis_stem](../images/byg_stripped_florus_stem.png) |
 
 ---
 ## Stripped Cherry Wood
@@ -6382,7 +6382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Cherry Log | ![stripped_cherry_log](../images/byg_stripped_cherry_log.png) |
+| # | Stripped Cherry Log | ![stripped_cherry_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Cika Wood
@@ -6390,7 +6390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Cika Log | ![stripped_cika_log](../images/byg_stripped_cika_log.png) |
+| # | Stripped Cika Log | ![stripped_cika_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Cypress Wood
@@ -6398,7 +6398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Cypress Log | ![stripped_cypress_log](../images/byg_stripped_cypress_log.png) |
+| # | Stripped Cypress Log | ![stripped_cypress_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Ebony Wood
@@ -6406,7 +6406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Ebony Log | ![stripped_ebony_log](../images/byg_stripped_ebony_log.png) |
+| # | Stripped Ebony Log | ![stripped_ebony_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Ether Wood
@@ -6414,7 +6414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Ether Log | ![stripped_ether_log](../images/byg_stripped_ether_log.png) |
+| # | Stripped Ether Log | ![stripped_ether_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Fir Wood
@@ -6422,7 +6422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Fir Log | ![stripped_fir_log](../images/byg_stripped_fir_log.png) |
+| # | Stripped Fir Log | ![stripped_fir_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Green Enchanted Wood
@@ -6430,7 +6430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Green Enchanted Log | ![stripped_green_enchanted_log](../images/byg_stripped_green_enchanted_log.png) |
+| # | Stripped Green Enchanted Log | ![stripped_green_enchanted_log](../images/byg_portal_track_green_enchanted.png) |
 
 ---
 ## Stripped Holly Wood
@@ -6438,7 +6438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Holly Log | ![stripped_holly_log](../images/byg_stripped_holly_log.png) |
+| # | Stripped Holly Log | ![stripped_holly_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Mahogany Wood
@@ -6446,7 +6446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Mahogany Log | ![stripped_mahogany_log](../images/byg_stripped_mahogany_log.png) |
+| # | Stripped Mahogany Log | ![stripped_mahogany_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped White Mangrove Wood
@@ -6454,7 +6454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped White Mangrove Log | ![stripped_white_mangrove_log](../images/byg_stripped_white_mangrove_log.png) |
+| # | Stripped White Mangrove Log | ![stripped_white_mangrove_log](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## Stripped Palm Wood
@@ -6462,7 +6462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Palm Log | ![stripped_palm_log](../images/byg_stripped_palm_log.png) |
+| # | Stripped Palm Log | ![stripped_palm_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Palo Verde Wood
@@ -6478,7 +6478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Pine Log | ![stripped_pine_log](../images/byg_stripped_pine_log.png) |
+| # | Stripped Pine Log | ![stripped_pine_log](../images/byg_stripped_ironwood_log.png) |
 
 ---
 ## Stripped Rainbow Eucalyptus Wood
@@ -6486,7 +6486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Rainbow Eucalyptus Log | ![stripped_rainbow_eucalyptus_log](../images/byg_stripped_rainbow_eucalyptus_log.png) |
+| # | Stripped Rainbow Eucalyptus Log | ![stripped_rainbow_eucalyptus_log](../images/byg_portal_track_mip_rainbow_eucalyptus.png) |
 
 ---
 ## Stripped Redwood Wood
@@ -6494,7 +6494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Redwood Log | ![stripped_redwood_log](../images/byg_stripped_redwood_log.png) |
+| # | Stripped Redwood Log | ![stripped_redwood_log](../images/byg_redwood_log_to.png) |
 
 ---
 ## Subzero Crystal Block
@@ -6510,8 +6510,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Button
@@ -6519,7 +6519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| - | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Crafting Table
@@ -6527,7 +6527,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Door
@@ -6535,7 +6535,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Fence
@@ -6544,7 +6544,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| W | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Fence Gate
@@ -6553,7 +6553,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| W | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Planks
@@ -6561,7 +6561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sythian Logs | ![sythian_logs](../images/byg_sythian_logs.png) |
+| - | Sythian Logs | ![sythian_logs](../images/byg_hanging_sythian_roots.png) |
 
 ---
 ## Sythian Pressure Plate
@@ -6569,7 +6569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Scaffolding
@@ -6577,8 +6577,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| ~ | String | ![string](../images/byg_string.png) |
-| I | Sythian Stalk Block | ![sythian_stalk_block](../images/byg_sythian_stalk_block.png) |
+| ~ | String | ![string](../images/byg_allium_flower_bush.png) |
+| I | Sythian Stalk Block | ![sythian_stalk_block](../images/byg_sythian_stalk.png) |
 
 ---
 ## Sythian Sign
@@ -6586,7 +6586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -6595,7 +6595,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Stairs
@@ -6603,7 +6603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Trapdoor
@@ -6611,7 +6611,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sythian Planks | ![sythian_planks](../images/byg_sythian_planks.png) |
+| P | Sythian Planks | ![sythian_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Sythian Hyphae
@@ -6619,7 +6619,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Sythian Stem | ![sythian_stem](../images/byg_sythian_stem.png) |
+| L | Sythian Stem | ![sythian_stem](../images/byg_arisian_stem.png) |
 
 ---
 ## Therium Glass
@@ -6627,7 +6627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glass | ![glass](../images/byg_glass.png) |
+| # | Glass | ![glass](../images/byg_therium_glass.png) |
 | X | Therium Crystal Shard | ![therium_crystal_shard](../images/byg_therium_crystal_shard.png) |
 
 ---
@@ -6645,7 +6645,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Therium Crystal Shard | ![therium_crystal_shard](../images/byg_therium_crystal_shard.png) |
-| X | Glowstone | ![glowstone](../images/byg_glowstone.png) |
+| X | Glowstone | ![glowstone](../images/byg_glowstone_lamp.png) |
 
 ---
 ## Therium Lantern
@@ -6653,7 +6653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Iron Nugget | ![iron_nugget](../images/byg_iron_nugget.png) |
+| X | Iron Nugget | ![iron_nugget](../images/byg_iron_deposit_ore.png) |
 | # | Therium Crystal Shard | ![therium_crystal_shard](../images/byg_therium_crystal_shard.png) |
 
 ---
@@ -6662,7 +6662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/byg_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/byg_iron_deposit_ore.png) |
 | - | Therium Crystal Shard | ![therium_crystal_shard](../images/byg_therium_crystal_shard.png) |
 
 ---
@@ -6687,7 +6687,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/byg_stick.png) |
+| # | Stick | ![stick](../images/byg_stone_stick.png) |
 | X | Anthracite | ![anthracite](../images/byg_anthracite.png) |
 
 ---
@@ -6696,8 +6696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calcite | ![calcite](../images/byg_calcite.png) |
-| - | Stone Crafting Materials | ![stone_crafting_materials](../images/byg_stone_crafting_materials.png) |
+| - | Calcite | ![calcite](../images/byg_allium_flower_bush.png) |
+| - | Stone Crafting Materials | ![stone_crafting_materials](../images/byg_carved_ether_stone.png) |
 
 ---
 ## Travertine Slab
@@ -6786,7 +6786,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Dye | ![white_dye](../images/byg_white_dye.png) |
+| - | White Dye | ![white_dye](../images/byg_cooked_white_puffball_cap.png) |
 
 ---
 ## White Stained Glass
@@ -6802,7 +6802,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Bookshelf
@@ -6810,8 +6810,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Button
@@ -6819,7 +6819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| - | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Chest Boat
@@ -6827,8 +6827,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | White Mangrove Boat | ![white_mangrove_boat](../images/byg_white_mangrove_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | White Mangrove Boat | ![white_mangrove_boat](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Crafting Table
@@ -6836,7 +6836,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Door
@@ -6844,7 +6844,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Fence
@@ -6853,7 +6853,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| W | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Fence Gate
@@ -6862,7 +6862,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| W | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Planks
@@ -6870,7 +6870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Mangrove Logs | ![white_mangrove_logs](../images/byg_white_mangrove_logs.png) |
+| - | White Mangrove Logs | ![white_mangrove_logs](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Pressure Plate
@@ -6878,7 +6878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Sign
@@ -6886,7 +6886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -6895,7 +6895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Stairs
@@ -6903,7 +6903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Trapdoor
@@ -6911,7 +6911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_white_mangrove_planks.png) |
+| P | White Mangrove Planks | ![white_mangrove_planks](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Mangrove Wood
@@ -6919,7 +6919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | White Mangrove Log | ![white_mangrove_log](../images/byg_white_mangrove_log.png) |
+| L | White Mangrove Log | ![white_mangrove_log](../images/byg_portal_track_mip_white_mangrove.png) |
 
 ---
 ## White Puffball Stew
@@ -6929,7 +6929,7 @@
 | :--- | :--- | :--- |
 | - | Cooked White Puffball Cap | ![cooked_white_puffball_cap](../images/byg_cooked_white_puffball_cap.png) |
 | - | Cooked White Puffball Cap | ![cooked_white_puffball_cap](../images/byg_cooked_white_puffball_cap.png) |
-| - | Bowl | ![bowl](../images/byg_bowl.png) |
+| - | Bowl | ![bowl](../images/byg_allium_flower_bush.png) |
 
 ---
 ## White Sandstone
@@ -6953,7 +6953,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Bookshelf
@@ -6961,8 +6961,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Button
@@ -6970,7 +6970,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| - | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Chest Boat
@@ -6978,8 +6978,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Willow Boat | ![willow_boat](../images/byg_willow_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Willow Boat | ![willow_boat](../images/byg_boat.png) |
 
 ---
 ## Willow Crafting Table
@@ -6987,7 +6987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Door
@@ -6995,7 +6995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Fence
@@ -7004,7 +7004,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| W | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Fence Gate
@@ -7013,7 +7013,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| W | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Planks
@@ -7021,7 +7021,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Willow Logs | ![willow_logs](../images/byg_willow_logs.png) |
+| - | Willow Logs | ![willow_logs](../images/byg_portal_track_mip_willow.png) |
 
 ---
 ## Willow Pressure Plate
@@ -7029,7 +7029,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Sign
@@ -7037,7 +7037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -7046,7 +7046,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Stairs
@@ -7054,7 +7054,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Trapdoor
@@ -7062,7 +7062,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Willow Planks | ![willow_planks](../images/byg_willow_planks.png) |
+| P | Willow Planks | ![willow_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Willow Wood
@@ -7070,7 +7070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Willow Log | ![willow_log](../images/byg_willow_log.png) |
+| L | Willow Log | ![willow_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---
 ## Windswept Sandstone
@@ -7150,7 +7150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Bookshelf
@@ -7158,8 +7158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Button
@@ -7167,7 +7167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| - | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Chest Boat
@@ -7175,8 +7175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Witch Hazel Boat | ![witch_hazel_boat](../images/byg_witch_hazel_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Witch Hazel Boat | ![witch_hazel_boat](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Crafting Table
@@ -7184,7 +7184,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Door
@@ -7192,7 +7192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Fence
@@ -7201,7 +7201,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| W | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Fence Gate
@@ -7210,7 +7210,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| W | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Planks
@@ -7218,7 +7218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Witch Hazel Logs | ![witch_hazel_logs](../images/byg_witch_hazel_logs.png) |
+| - | Witch Hazel Logs | ![witch_hazel_logs](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Pressure Plate
@@ -7226,7 +7226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Sign
@@ -7234,7 +7234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -7243,7 +7243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Stairs
@@ -7251,7 +7251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Trapdoor
@@ -7259,7 +7259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_witch_hazel_planks.png) |
+| P | Witch Hazel Planks | ![witch_hazel_planks](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Witch Hazel Wood
@@ -7267,7 +7267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Witch Hazel Log | ![witch_hazel_log](../images/byg_witch_hazel_log.png) |
+| L | Witch Hazel Log | ![witch_hazel_log](../images/byg_portal_track_mip_witch_hazel.png) |
 
 ---
 ## Withering Oak Wood
@@ -7283,7 +7283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dye | ![yellow_dye](../images/byg_yellow_dye.png) |
+| - | Yellow Dye | ![yellow_dye](../images/byg_spruce_leaves_yellow.png) |
 
 ---
 ## Yellow Nether Brick
@@ -7331,7 +7331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Bookshelf
@@ -7339,8 +7339,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Book | ![book](../images/byg_book.png) |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| B | Book | ![book](../images/byg_biomepedia_book.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Button
@@ -7348,7 +7348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| - | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Chest Boat
@@ -7356,8 +7356,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/byg_chest.png) |
-| - | Zelkova Boat | ![zelkova_boat](../images/byg_zelkova_boat.png) |
+| - | Chest | ![chest](../images/byg_chest_boat_overlay.png) |
+| - | Zelkova Boat | ![zelkova_boat](../images/byg_boat.png) |
 
 ---
 ## Zelkova Crafting Table
@@ -7365,7 +7365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Door
@@ -7373,7 +7373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Fence
@@ -7382,7 +7382,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| W | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Fence Gate
@@ -7391,7 +7391,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
-| W | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| W | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Planks
@@ -7399,7 +7399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Zelkova Logs | ![zelkova_logs](../images/byg_zelkova_logs.png) |
+| - | Zelkova Logs | ![zelkova_logs](../images/byg_brown_zelkova_leaves.png) |
 
 ---
 ## Zelkova Pressure Plate
@@ -7407,7 +7407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Sign
@@ -7415,7 +7415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 | S | All/Sticks | ![all/sticks](../images/byg_all/sticks.png) |
 
 ---
@@ -7424,7 +7424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Stairs
@@ -7432,7 +7432,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Trapdoor
@@ -7440,7 +7440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Zelkova Planks | ![zelkova_planks](../images/byg_zelkova_planks.png) |
+| P | Zelkova Planks | ![zelkova_planks](../images/byg_arisian_planks.png) |
 
 ---
 ## Zelkova Wood
@@ -7448,6 +7448,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Zelkova Log | ![zelkova_log](../images/byg_zelkova_log.png) |
+| L | Zelkova Log | ![zelkova_log](../images/byg_boric_campfire_log_lit.png) |
 
 ---

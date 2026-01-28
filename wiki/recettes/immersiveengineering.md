@@ -43,7 +43,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Ingots/Brick | ![ingots/brick](../images/immersiveengineering_ingots/brick.png) |
-| s | Sandstone | ![sandstone](../images/immersiveengineering_sandstone.png) |
+| s | Sandstone | ![sandstone](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Alloybrick
@@ -51,7 +51,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Alloybrick | ![slab_alloybrick](../images/immersiveengineering_slab_alloybrick.png) |
+| s | Slab Alloybrick | ![slab_alloybrick](../images/immersiveengineering_alloybrick.png) |
 
 ---
 ## Slab Alloybrick
@@ -125,8 +125,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Alu Fence | ![alu_fence](../images/immersiveengineering_alu_fence.png) |
-| s | Stone Bricks | ![stone_bricks](../images/immersiveengineering_stone_bricks.png) |
+| f | Alu Fence | ![alu_fence](../images/immersiveengineering_acetaldehyde_flow.png) |
+| s | Stone Bricks | ![stone_bricks](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Alu Scaffolding Grate Top
@@ -134,7 +134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Alu Scaffolding Grate Top | ![slab_alu_scaffolding_grate_top](../images/immersiveengineering_slab_alu_scaffolding_grate_top.png) |
+| s | Slab Alu Scaffolding Grate Top | ![slab_alu_scaffolding_grate_top](../images/immersiveengineering_aluminum_scaffolding_top_grate_top.png) |
 
 ---
 ## Alu Scaffolding Grate Top
@@ -142,7 +142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_alu_scaffolding_standard.png) |
+| - | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_aluminum_scaffolding_top_standard.png) |
 
 ---
 ## Slab Alu Scaffolding Grate Top
@@ -150,7 +150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Grate Top | ![alu_scaffolding_grate_top](../images/immersiveengineering_alu_scaffolding_grate_top.png) |
+| s | Alu Scaffolding Grate Top | ![alu_scaffolding_grate_top](../images/immersiveengineering_aluminum_scaffolding_top_grate_top.png) |
 
 ---
 ## Alu Scaffolding Standard
@@ -167,7 +167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Alu Scaffolding Standard | ![slab_alu_scaffolding_standard](../images/immersiveengineering_slab_alu_scaffolding_standard.png) |
+| s | Slab Alu Scaffolding Standard | ![slab_alu_scaffolding_standard](../images/immersiveengineering_aluminum_scaffolding_top_standard.png) |
 
 ---
 ## Alu Scaffolding Standard
@@ -175,7 +175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Alu Scaffolding Wooden Top | ![alu_scaffolding_wooden_top](../images/immersiveengineering_alu_scaffolding_wooden_top.png) |
+| - | Alu Scaffolding Wooden Top | ![alu_scaffolding_wooden_top](../images/immersiveengineering_aluminum_scaffolding_top_wooden_top.png) |
 
 ---
 ## Slab Alu Scaffolding Standard
@@ -183,7 +183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_alu_scaffolding_standard.png) |
+| s | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_aluminum_scaffolding_top_standard.png) |
 
 ---
 ## Alu Scaffolding Wooden Top
@@ -191,7 +191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Alu Scaffolding Grate Top | ![alu_scaffolding_grate_top](../images/immersiveengineering_alu_scaffolding_grate_top.png) |
+| - | Alu Scaffolding Grate Top | ![alu_scaffolding_grate_top](../images/immersiveengineering_aluminum_scaffolding_top_grate_top.png) |
 
 ---
 ## Alu Scaffolding Wooden Top
@@ -199,7 +199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Alu Scaffolding Wooden Top | ![slab_alu_scaffolding_wooden_top](../images/immersiveengineering_slab_alu_scaffolding_wooden_top.png) |
+| s | Slab Alu Scaffolding Wooden Top | ![slab_alu_scaffolding_wooden_top](../images/immersiveengineering_aluminum_scaffolding_top_wooden_top.png) |
 
 ---
 ## Slab Alu Scaffolding Wooden Top
@@ -207,7 +207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Wooden Top | ![alu_scaffolding_wooden_top](../images/immersiveengineering_alu_scaffolding_wooden_top.png) |
+| s | Alu Scaffolding Wooden Top | ![alu_scaffolding_wooden_top](../images/immersiveengineering_aluminum_scaffolding_top_wooden_top.png) |
 
 ---
 ## Alu Slope
@@ -215,7 +215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_alu_scaffolding_standard.png) |
+| s | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_aluminum_scaffolding_top_standard.png) |
 
 ---
 ## Alu Wallmount
@@ -340,9 +340,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Hemp Fabric | ![hemp_fabric](../images/immersiveengineering_hemp_fabric.png) |
-| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood_slab.png) |
-| t | Torch | ![torch](../images/immersiveengineering_torch.png) |
+| f | Hemp Fabric | ![hemp_fabric](../images/immersiveengineering_material_hemp_fabric.png) |
+| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood.png) |
+| t | Torch | ![torch](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## {}
@@ -477,7 +477,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Ingots/Nether Brick | ![ingots/nether_brick](../images/immersiveengineering_ingots/nether_brick.png) |
-| m | Magma Block | ![magma_block](../images/immersiveengineering_magma_block.png) |
+| m | Magma Block | ![magma_block](../images/immersiveengineering_acetaldehyde_flow.png) |
 | s | Ingots/Brick | ![ingots/brick](../images/immersiveengineering_ingots/brick.png) |
 
 ---
@@ -486,7 +486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Blastbrick | ![slab_blastbrick](../images/immersiveengineering_slab_blastbrick.png) |
+| s | Slab Blastbrick | ![slab_blastbrick](../images/immersiveengineering_blastbrick.png) |
 
 ---
 ## Blastbrick Reinforced
@@ -503,7 +503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Blastbrick Reinforced | ![slab_blastbrick_reinforced](../images/immersiveengineering_slab_blastbrick_reinforced.png) |
+| s | Slab Blastbrick Reinforced | ![slab_blastbrick_reinforced](../images/immersiveengineering_blastbrick_reinforced.png) |
 
 ---
 ## Slab Blastbrick Reinforced
@@ -551,9 +551,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Banners | ![banners](../images/immersiveengineering_banners.png) |
+| b | Banners | ![banners](../images/immersiveengineering_acetaldehyde_flow.png) |
 | d | Dyes/Blue | ![dyes/blue](../images/immersiveengineering_dyes/blue.png) |
-| p | Paper | ![paper](../images/immersiveengineering_paper.png) |
+| p | Paper | ![paper](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Blueprint
@@ -561,10 +561,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Empty Casing | ![empty_casing](../images/immersiveengineering_empty_casing.png) |
+| c | Empty Casing | ![empty_casing](../images/immersiveengineering_bullet_empty_casing.png) |
 | d | Dyes/Blue | ![dyes/blue](../images/immersiveengineering_dyes/blue.png) |
-| g | Gunpowder | ![gunpowder](../images/immersiveengineering_gunpowder.png) |
-| p | Paper | ![paper](../images/immersiveengineering_paper.png) |
+| g | Gunpowder | ![gunpowder](../images/immersiveengineering_gunpowder_barrel.png) |
+| p | Paper | ![paper](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Blueprint
@@ -576,7 +576,7 @@
 | j | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
 | k | Ingots/Aluminum | ![ingots/aluminum](../images/immersiveengineering_ingots/aluminum.png) |
 | l | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| p | Paper | ![paper](../images/immersiveengineering_paper.png) |
+| p | Paper | ![paper](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Blueprint
@@ -586,7 +586,7 @@
 | :--- | :--- | :--- |
 | P | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
 | d | Dyes/Blue | ![dyes/blue](../images/immersiveengineering_dyes/blue.png) |
-| p | Paper | ![paper](../images/immersiveengineering_paper.png) |
+| p | Paper | ![paper](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## {}
@@ -622,9 +622,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
-| l | Lever | ![lever](../images/immersiveengineering_lever.png) |
+| l | Lever | ![lever](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ##  4}
@@ -737,7 +737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_wooden_grip.png) |
+| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_material_wooden_grip.png) |
 | h | Heavy Engineering | ![heavy_engineering](../images/immersiveengineering_heavy_engineering.png) |
 | r | Rods/Steel | ![rods/steel](../images/immersiveengineering_rods/steel.png) |
 
@@ -756,7 +756,7 @@
 | :--- | :--- | :--- |
 | a | Plates/Aluminum | ![plates/aluminum](../images/immersiveengineering_plates/aluminum.png) |
 | c | Ingots/Hop Graphite | ![ingots/hop_graphite](../images/immersiveengineering_ingots/hop_graphite.png) |
-| e | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid.png) |
+| e | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid_flow.png) |
 | f | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
@@ -767,7 +767,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Plates/Lead | ![plates/lead](../images/immersiveengineering_plates/lead.png) |
-| e | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid.png) |
+| e | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid_flow.png) |
 | f | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
@@ -779,7 +779,7 @@
 | :--- | :--- | :--- |
 | a | Plates/Nickel | ![plates/nickel](../images/immersiveengineering_plates/nickel.png) |
 | c | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
-| e | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid.png) |
+| e | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid_flow.png) |
 | f | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
@@ -817,10 +817,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Glass | ![glass](../images/immersiveengineering_glass.png) |
+| g | Glass | ![glass](../images/immersiveengineering_insulating_glass.png) |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
-| l | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv.png) |
-| t | Electron Tube | ![electron_tube](../images/immersiveengineering_electron_tube.png) |
+| l | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv_side.png) |
+| t | Electron Tube | ![electron_tube](../images/immersiveengineering_material_electron_tube.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
 ---
@@ -829,8 +829,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Bucket | ![bucket](../images/immersiveengineering_bucket.png) |
-| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_wooden_grip.png) |
+| b | Bucket | ![bucket](../images/immersiveengineering_bucket_wheel.png) |
+| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_material_wooden_grip.png) |
 | h | Heavy Engineering | ![heavy_engineering](../images/immersiveengineering_heavy_engineering.png) |
 | p | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
 | t | Toolupgrade Drill Waterproof | ![toolupgrade_drill_waterproof](../images/immersiveengineering_toolupgrade_drill_waterproof.png) |
@@ -896,8 +896,8 @@
 | :--- | :--- | :--- |
 | c | Craftingtable | ![craftingtable](../images/immersiveengineering_craftingtable.png) |
 | e | Light Engineering | ![light_engineering](../images/immersiveengineering_light_engineering.png) |
-| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood_slab.png) |
-| t | Screwdriver | ![screwdriver](../images/immersiveengineering_screwdriver.png) |
+| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood.png) |
+| t | Screwdriver | ![screwdriver](../images/immersiveengineering_tool_screwdriver.png) |
 
 ---
 ## Clay Ball
@@ -912,9 +912,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
-| e | Light Bulb | ![light_bulb](../images/immersiveengineering_light_bulb.png) |
-| g | Glass | ![glass](../images/immersiveengineering_glass.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
+| e | Light Bulb | ![light_bulb](../images/immersiveengineering_material_light_bulb.png) |
+| g | Glass | ![glass](../images/immersiveengineering_insulating_glass.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
 ---
@@ -937,8 +937,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Coal Coke | ![coal_coke](../images/immersiveengineering_coal_coke.png) |
-| s | Coal Coke | ![coal_coke](../images/immersiveengineering_coal_coke.png) |
+| i | Coal Coke | ![coal_coke](../images/immersiveengineering_material_coal_coke.png) |
+| s | Coal Coke | ![coal_coke](../images/immersiveengineering_material_coal_coke.png) |
 
 ---
 ## Gravel
@@ -987,8 +987,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Clay | ![clay](../images/immersiveengineering_clay.png) |
-| m | Sandstone | ![sandstone](../images/immersiveengineering_sandstone.png) |
+| c | Clay | ![clay](../images/immersiveengineering_acetaldehyde_flow.png) |
+| m | Sandstone | ![sandstone](../images/immersiveengineering_acetaldehyde_flow.png) |
 | s | Ingots/Brick | ![ingots/brick](../images/immersiveengineering_ingots/brick.png) |
 
 ---
@@ -997,7 +997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Cokebrick | ![slab_cokebrick](../images/immersiveengineering_slab_cokebrick.png) |
+| s | Slab Cokebrick | ![slab_cokebrick](../images/immersiveengineering_cokebrick.png) |
 
 ---
 ## Slab Cokebrick
@@ -1020,7 +1020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Coke | ![slab_coke](../images/immersiveengineering_slab_coke.png) |
+| s | Slab Coke | ![slab_coke](../images/immersiveengineering_coke.png) |
 
 ---
 ## Coal Coke
@@ -1107,7 +1107,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Concrete Brick | ![slab_concrete_brick](../images/immersiveengineering_slab_concrete_brick.png) |
+| s | Slab Concrete Brick | ![slab_concrete_brick](../images/immersiveengineering_concrete_brick.png) |
 
 ---
 ## Slab Concrete Brick
@@ -1139,7 +1139,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Concrete | ![slab_concrete](../images/immersiveengineering_slab_concrete.png) |
+| s | Slab Concrete | ![slab_concrete](../images/immersiveengineering_concrete.png) |
 
 ---
 ## Concrete Leaded
@@ -1156,7 +1156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Concrete Leaded | ![slab_concrete_leaded](../images/immersiveengineering_slab_concrete_leaded.png) |
+| s | Slab Concrete Leaded | ![slab_concrete_leaded](../images/immersiveengineering_concrete_leaded.png) |
 
 ---
 ## Slab Concrete Leaded
@@ -1220,7 +1220,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Concrete Tile | ![slab_concrete_tile](../images/immersiveengineering_slab_concrete_tile.png) |
+| s | Slab Concrete Tile | ![slab_concrete_tile](../images/immersiveengineering_concrete_tile.png) |
 
 ---
 ## Slab Concrete Tile
@@ -1253,7 +1253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Ingots/Aluminum | ![ingots/aluminum](../images/immersiveengineering_ingots/aluminum.png) |
 
 ---
@@ -1271,7 +1271,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
 
 ---
@@ -1280,7 +1280,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
 
 ---
@@ -1289,7 +1289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Ingots/Electrum | ![ingots/electrum](../images/immersiveengineering_ingots/electrum.png) |
 
 ---
@@ -1298,7 +1298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| c | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Ingots/Electrum | ![ingots/electrum](../images/immersiveengineering_ingots/electrum.png) |
 
 ---
@@ -1308,8 +1308,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Connector Redstone | ![connector_redstone](../images/immersiveengineering_connector_redstone.png) |
-| g | Glass Panes | ![glass_panes](../images/immersiveengineering_glass_panes.png) |
-| p | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
+| g | Glass Panes | ![glass_panes](../images/immersiveengineering_insulating_glass.png) |
+| p | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
 
 ---
 ## Connector Redstone
@@ -1317,7 +1317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
+| b | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
 | i | Nuggets/Electrum | ![nuggets/electrum](../images/immersiveengineering_nuggets/electrum.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 
@@ -1353,7 +1353,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| l | Leather | ![leather](../images/immersiveengineering_leather.png) |
+| l | Leather | ![leather](../images/immersiveengineering_material_ersatz_leather.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 
 ---
@@ -1362,7 +1362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
+| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
 | s | Scaffoldings/Steel | ![scaffoldings/steel](../images/immersiveengineering_scaffoldings/steel.png) |
 
 ---
@@ -1371,8 +1371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
-| t | Iron Trapdoor | ![iron_trapdoor](../images/immersiveengineering_iron_trapdoor.png) |
+| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
+| t | Iron Trapdoor | ![iron_trapdoor](../images/immersiveengineering_drillhead_iron.png) |
 
 ---
 ## Conveyor Dropper
@@ -1380,7 +1380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Dropper | ![conveyor_dropper](../images/immersiveengineering_conveyor_dropper.png) |
+| c | Conveyor Dropper | ![conveyor_dropper](../images/immersiveengineering_conveyor.png) |
 | s | Scaffoldings/Steel | ![scaffoldings/steel](../images/immersiveengineering_scaffoldings/steel.png) |
 
 ---
@@ -1389,9 +1389,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
-| m | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
-| s | Strip Curtain | ![strip_curtain](../images/immersiveengineering_strip_curtain.png) |
+| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
+| m | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
+| s | Strip Curtain | ![strip_curtain](../images/immersiveengineering_acetaldehyde_flow.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
 ---
@@ -1400,7 +1400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Extract | ![conveyor_extract](../images/immersiveengineering_conveyor_extract.png) |
+| c | Conveyor Extract | ![conveyor_extract](../images/immersiveengineering_conveyor.png) |
 | s | Scaffoldings/Steel | ![scaffoldings/steel](../images/immersiveengineering_scaffoldings/steel.png) |
 
 ---
@@ -1409,8 +1409,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
-| r | Redstone Torch | ![redstone_torch](../images/immersiveengineering_redstone_torch.png) |
+| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
+| r | Redstone Torch | ![redstone_torch](../images/immersiveengineering_connector_redstone.png) |
 
 ---
 ## Conveyor Splitter
@@ -1418,7 +1418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
+| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 
 ---
@@ -1427,7 +1427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Splitter | ![conveyor_splitter](../images/immersiveengineering_conveyor_splitter.png) |
+| c | Conveyor Splitter | ![conveyor_splitter](../images/immersiveengineering_conveyor.png) |
 | s | Scaffoldings/Steel | ![scaffoldings/steel](../images/immersiveengineering_scaffoldings/steel.png) |
 
 ---
@@ -1436,7 +1436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
+| c | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 
 ---
@@ -1445,7 +1445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Conveyor Vertical | ![conveyor_vertical](../images/immersiveengineering_conveyor_vertical.png) |
+| c | Conveyor Vertical | ![conveyor_vertical](../images/immersiveengineering_conveyor.png) |
 | s | Scaffoldings/Steel | ![scaffoldings/steel](../images/immersiveengineering_scaffoldings/steel.png) |
 
 ---
@@ -1489,7 +1489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Copper | ![dust_copper](../images/immersiveengineering_dust_copper.png) |
+| item | Dust Copper | ![dust_copper](../images/immersiveengineering_metal_dust_copper.png) |
 
 ---
 ## Copper Ingot
@@ -1497,7 +1497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Copper | ![dust_copper](../images/immersiveengineering_dust_copper.png) |
+| item | Dust Copper | ![dust_copper](../images/immersiveengineering_metal_dust_copper.png) |
 
 ---
 ## Nugget Copper
@@ -1505,7 +1505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Copper Ingot | ![copper_ingot](../images/immersiveengineering_copper_ingot.png) |
+| - | Copper Ingot | ![copper_ingot](../images/immersiveengineering_metal_ingot_copper.png) |
 
 ---
 ## Craftingtable
@@ -1513,9 +1513,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Crafting Table | ![crafting_table](../images/immersiveengineering_crafting_table.png) |
+| c | Crafting Table | ![crafting_table](../images/immersiveengineering_circuit_table.png) |
 | r | Rods/Treated Wood | ![rods/treated_wood](../images/immersiveengineering_rods/treated_wood.png) |
-| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood_slab.png) |
+| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood.png) |
 
 ---
 ## Crate
@@ -1566,10 +1566,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_insulator.png) |
-| e | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
+| b | Connector Insulator | ![connector_insulator](../images/immersiveengineering_connector_bundled.png) |
+| e | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| m | Voltmeter | ![voltmeter](../images/immersiveengineering_voltmeter.png) |
+| m | Voltmeter | ![voltmeter](../images/immersiveengineering_tool_voltmeter.png) |
 
 ---
 ## {}
@@ -1584,7 +1584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Hemp Fabric | ![hemp_fabric](../images/immersiveengineering_hemp_fabric.png) |
+| f | Hemp Fabric | ![hemp_fabric](../images/immersiveengineering_material_hemp_fabric.png) |
 
 ---
 ## Dark Oak Planks
@@ -1627,8 +1627,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
-| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_wooden_grip.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
+| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_material_wooden_grip.png) |
 | h | Heavy Engineering | ![heavy_engineering](../images/immersiveengineering_heavy_engineering.png) |
 
 ---
@@ -1830,9 +1830,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| l | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv.png) |
+| l | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv_side.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 
 ---
@@ -1842,7 +1842,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Iron | ![rods/iron](../images/immersiveengineering_rods/iron.png) |
-| W | Wool | ![wool](../images/immersiveengineering_wool.png) |
+| W | Wool | ![wool](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## {}
@@ -1857,9 +1857,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Light Bulb | ![light_bulb](../images/immersiveengineering_light_bulb.png) |
+| e | Light Bulb | ![light_bulb](../images/immersiveengineering_material_light_bulb.png) |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
-| p | Glass Panes | ![glass_panes](../images/immersiveengineering_glass_panes.png) |
+| p | Glass Panes | ![glass_panes](../images/immersiveengineering_insulating_glass.png) |
 | w | Wires/Copper | ![wires/copper](../images/immersiveengineering_wires/copper.png) |
 
 ---
@@ -1907,7 +1907,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Plates/Copper | ![plates/copper](../images/immersiveengineering_plates/copper.png) |
-| p | Paper | ![paper](../images/immersiveengineering_paper.png) |
+| p | Paper | ![paper](../images/immersiveengineering_acetaldehyde_flow.png) |
 | r | Dyes/Red | ![dyes/red](../images/immersiveengineering_dyes/red.png) |
 
 ---
@@ -1916,8 +1916,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Honeycomb | ![honeycomb](../images/immersiveengineering_honeycomb.png) |
-| f | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
+| c | Honeycomb | ![honeycomb](../images/immersiveengineering_acetaldehyde_flow.png) |
+| f | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
 
 ---
 ## {}
@@ -1932,7 +1932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Phenolic Resin | ![phenolic_resin](../images/immersiveengineering_phenolic_resin.png) |
+| b | Phenolic Resin | ![phenolic_resin](../images/immersiveengineering_resin_flow.png) |
 | w | Dusts/Wood | ![dusts/wood](../images/immersiveengineering_dusts/wood.png) |
 
 ---
@@ -1941,8 +1941,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Empty Shell | ![empty_shell](../images/immersiveengineering_empty_shell.png) |
-| f | Firework Rocket | ![firework_rocket](../images/immersiveengineering_firework_rocket.png) |
+| c | Empty Shell | ![empty_shell](../images/immersiveengineering_bullet_empty_shell.png) |
+| f | Firework Rocket | ![firework_rocket](../images/immersiveengineering_bullet_firework.png) |
 
 ---
 ## {}
@@ -1957,10 +1957,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
-| e | Light Bulb | ![light_bulb](../images/immersiveengineering_light_bulb.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
+| e | Light Bulb | ![light_bulb](../images/immersiveengineering_material_light_bulb.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| p | Glass Panes | ![glass_panes](../images/immersiveengineering_glass_panes.png) |
+| p | Glass Panes | ![glass_panes](../images/immersiveengineering_insulating_glass.png) |
 | s | Plates/Silver | ![plates/silver](../images/immersiveengineering_plates/silver.png) |
 
 ---
@@ -1977,7 +1977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Iron Bars | ![iron_bars](../images/immersiveengineering_iron_bars.png) |
+| b | Iron Bars | ![iron_bars](../images/immersiveengineering_drillhead_iron.png) |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
 
 ---
@@ -1986,7 +1986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
 | p | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
 
@@ -1997,7 +1997,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
@@ -2008,7 +2008,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/immersiveengineering_glass.png) |
+| G | Glass | ![glass](../images/immersiveengineering_insulating_glass.png) |
 | e | Graphite Electrode | ![graphite_electrode](../images/immersiveengineering_graphite_electrode.png) |
 | g | Dusts/Glowstone | ![dusts/glowstone](../images/immersiveengineering_dusts/glowstone.png) |
 
@@ -2225,8 +2225,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv.png) |
-| g | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv_side.png) |
+| g | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Sheetmetals/Steel | ![sheetmetals/steel](../images/immersiveengineering_sheetmetals/steel.png) |
 
 ---
@@ -2242,8 +2242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Leather Chestplate | ![leather_chestplate](../images/immersiveengineering_leather_chestplate.png) |
-| f | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
+| c | Leather Chestplate | ![leather_chestplate](../images/immersiveengineering_material_ersatz_leather.png) |
+| f | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
 | r | Rods/Aluminum | ![rods/aluminum](../images/immersiveengineering_rods/aluminum.png) |
 
 ---
@@ -2266,7 +2266,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Gold | ![dust_gold](../images/immersiveengineering_dust_gold.png) |
+| item | Dust Gold | ![dust_gold](../images/immersiveengineering_metal_dust_gold.png) |
 
 ---
 ## Gold Ingot
@@ -2274,7 +2274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Gold | ![dust_gold](../images/immersiveengineering_dust_gold.png) |
+| item | Dust Gold | ![dust_gold](../images/immersiveengineering_metal_dust_gold.png) |
 
 ---
 ## Dusts/Hop Graphite'}
@@ -2329,7 +2329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Flint | ![flint](../images/immersiveengineering_flint.png) |
+| f | Flint | ![flint](../images/immersiveengineering_acetaldehyde_flow.png) |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
 | s | Rods/Steel | ![rods/steel](../images/immersiveengineering_rods/steel.png) |
 
@@ -2339,9 +2339,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Wooden Barrel | ![wooden_barrel](../images/immersiveengineering_wooden_barrel.png) |
-| f | Hemp Fiber | ![hemp_fiber](../images/immersiveengineering_hemp_fiber.png) |
-| g | Gunpowder | ![gunpowder](../images/immersiveengineering_gunpowder.png) |
+| b | Wooden Barrel | ![wooden_barrel](../images/immersiveengineering_aluminum_scaffolding_top_wooden_top.png) |
+| f | Hemp Fiber | ![hemp_fiber](../images/immersiveengineering_material_hemp_fiber.png) |
+| g | Gunpowder | ![gunpowder](../images/immersiveengineering_gunpowder_barrel.png) |
 
 ---
 ## Gunpowder
@@ -2354,7 +2354,7 @@
 | - | Dusts/Saltpeter | ![dusts/saltpeter](../images/immersiveengineering_dusts/saltpeter.png) |
 | - | Dusts/Saltpeter | ![dusts/saltpeter](../images/immersiveengineering_dusts/saltpeter.png) |
 | - | Dusts/Sulfur | ![dusts/sulfur](../images/immersiveengineering_dusts/sulfur.png) |
-| - | Charcoal | ![charcoal](../images/immersiveengineering_charcoal.png) |
+| - | Charcoal | ![charcoal](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Hammer
@@ -2362,7 +2362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | String | ![string](../images/immersiveengineering_string.png) |
+| f | String | ![string](../images/immersiveengineering_acetaldehyde_flow.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | s | Rods/Wooden | ![rods/wooden](../images/immersiveengineering_rods/wooden.png) |
 
@@ -2478,7 +2478,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Ingots/Electrum | ![ingots/electrum](../images/immersiveengineering_ingots/electrum.png) |
-| g | Component Steel | ![component_steel](../images/immersiveengineering_component_steel.png) |
+| g | Component Steel | ![component_steel](../images/immersiveengineering_material_component_steel.png) |
 | i | Sheetmetals/Steel | ![sheetmetals/steel](../images/immersiveengineering_sheetmetals/steel.png) |
 
 ---
@@ -2494,9 +2494,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Clay | ![clay](../images/immersiveengineering_clay.png) |
-| m | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_fiber_hemp.png) |
-| t | Clay | ![clay](../images/immersiveengineering_clay.png) |
+| b | Clay | ![clay](../images/immersiveengineering_acetaldehyde_flow.png) |
+| m | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_material_hemp_fiber.png) |
+| t | Clay | ![clay](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Hempcrete Brick
@@ -2520,7 +2520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Hempcrete Brick | ![slab_hempcrete_brick](../images/immersiveengineering_slab_hempcrete_brick.png) |
+| s | Slab Hempcrete Brick | ![slab_hempcrete_brick](../images/immersiveengineering_hempcrete_brick.png) |
 
 ---
 ## Slab Hempcrete Brick
@@ -2544,7 +2544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Hempcrete | ![slab_hempcrete](../images/immersiveengineering_slab_hempcrete.png) |
+| s | Slab Hempcrete | ![slab_hempcrete](../images/immersiveengineering_hempcrete.png) |
 
 ---
 ## Hempcrete Pillar
@@ -2568,7 +2568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_fiber_hemp.png) |
+| f | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_material_hemp_fiber.png) |
 | s | Rods/Wooden | ![rods/wooden](../images/immersiveengineering_rods/wooden.png) |
 
 ---
@@ -2683,7 +2683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Aluminum | ![dust_aluminum](../images/immersiveengineering_dust_aluminum.png) |
+| item | Dust Aluminum | ![dust_aluminum](../images/immersiveengineering_metal_dust_aluminum.png) |
 
 ---
 ## Ingot Aluminum
@@ -2691,7 +2691,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Aluminum | ![dust_aluminum](../images/immersiveengineering_dust_aluminum.png) |
+| item | Dust Aluminum | ![dust_aluminum](../images/immersiveengineering_metal_dust_aluminum.png) |
 
 ---
 ## Nugget Aluminum
@@ -2699,7 +2699,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Aluminum | ![ingot_aluminum](../images/immersiveengineering_ingot_aluminum.png) |
+| - | Ingot Aluminum | ![ingot_aluminum](../images/immersiveengineering_metal_ingot_aluminum.png) |
 
 ---
 ## Storage Aluminum
@@ -2707,7 +2707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Aluminum | ![ingot_aluminum](../images/immersiveengineering_ingot_aluminum.png) |
+| i | Ingot Aluminum | ![ingot_aluminum](../images/immersiveengineering_metal_ingot_aluminum.png) |
 | s | Ingots/Aluminum | ![ingots/aluminum](../images/immersiveengineering_ingots/aluminum.png) |
 
 ---
@@ -2751,7 +2751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Constantan | ![dust_constantan](../images/immersiveengineering_dust_constantan.png) |
+| item | Dust Constantan | ![dust_constantan](../images/immersiveengineering_metal_dust_constantan.png) |
 
 ---
 ## Ingot Constantan
@@ -2759,7 +2759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Constantan | ![dust_constantan](../images/immersiveengineering_dust_constantan.png) |
+| item | Dust Constantan | ![dust_constantan](../images/immersiveengineering_metal_dust_constantan.png) |
 
 ---
 ## Nugget Constantan
@@ -2767,7 +2767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Constantan | ![ingot_constantan](../images/immersiveengineering_ingot_constantan.png) |
+| - | Ingot Constantan | ![ingot_constantan](../images/immersiveengineering_metal_ingot_constantan.png) |
 
 ---
 ## Storage Constantan
@@ -2775,7 +2775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Constantan | ![ingot_constantan](../images/immersiveengineering_ingot_constantan.png) |
+| i | Ingot Constantan | ![ingot_constantan](../images/immersiveengineering_metal_ingot_constantan.png) |
 | s | Ingots/Constantan | ![ingots/constantan](../images/immersiveengineering_ingots/constantan.png) |
 
 ---
@@ -2798,7 +2798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Electrum | ![dust_electrum](../images/immersiveengineering_dust_electrum.png) |
+| item | Dust Electrum | ![dust_electrum](../images/immersiveengineering_metal_dust_electrum.png) |
 
 ---
 ## Ingot Electrum
@@ -2806,7 +2806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Electrum | ![dust_electrum](../images/immersiveengineering_dust_electrum.png) |
+| item | Dust Electrum | ![dust_electrum](../images/immersiveengineering_metal_dust_electrum.png) |
 
 ---
 ## Nugget Electrum
@@ -2814,7 +2814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Electrum | ![ingot_electrum](../images/immersiveengineering_ingot_electrum.png) |
+| - | Ingot Electrum | ![ingot_electrum](../images/immersiveengineering_metal_ingot_electrum.png) |
 
 ---
 ## Storage Electrum
@@ -2822,7 +2822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Electrum | ![ingot_electrum](../images/immersiveengineering_ingot_electrum.png) |
+| i | Ingot Electrum | ![ingot_electrum](../images/immersiveengineering_metal_ingot_electrum.png) |
 | s | Ingots/Electrum | ![ingots/electrum](../images/immersiveengineering_ingots/electrum.png) |
 
 ---
@@ -2838,7 +2838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Hop Graphite | ![dust_hop_graphite](../images/immersiveengineering_dust_hop_graphite.png) |
+| item | Dust Hop Graphite | ![dust_hop_graphite](../images/immersiveengineering_material_dust_hop_graphite.png) |
 
 ---
 ## Ingot Hop Graphite
@@ -2846,7 +2846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Hop Graphite | ![dust_hop_graphite](../images/immersiveengineering_dust_hop_graphite.png) |
+| item | Dust Hop Graphite | ![dust_hop_graphite](../images/immersiveengineering_material_dust_hop_graphite.png) |
 
 ---
 ## Dusts/Invar'}
@@ -2916,7 +2916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Lead | ![dust_lead](../images/immersiveengineering_dust_lead.png) |
+| item | Dust Lead | ![dust_lead](../images/immersiveengineering_metal_dust_lead.png) |
 
 ---
 ## Ingot Lead
@@ -2924,7 +2924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Lead | ![dust_lead](../images/immersiveengineering_dust_lead.png) |
+| item | Dust Lead | ![dust_lead](../images/immersiveengineering_metal_dust_lead.png) |
 
 ---
 ## Nugget Lead
@@ -2932,7 +2932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Lead | ![ingot_lead](../images/immersiveengineering_ingot_lead.png) |
+| - | Ingot Lead | ![ingot_lead](../images/immersiveengineering_metal_ingot_lead.png) |
 
 ---
 ## Storage Lead
@@ -2940,7 +2940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Lead | ![ingot_lead](../images/immersiveengineering_ingot_lead.png) |
+| i | Ingot Lead | ![ingot_lead](../images/immersiveengineering_metal_ingot_lead.png) |
 | s | Ingots/Lead | ![ingots/lead](../images/immersiveengineering_ingots/lead.png) |
 
 ---
@@ -3004,7 +3004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Nickel | ![dust_nickel](../images/immersiveengineering_dust_nickel.png) |
+| item | Dust Nickel | ![dust_nickel](../images/immersiveengineering_metal_dust_nickel.png) |
 
 ---
 ## Ingot Nickel
@@ -3012,7 +3012,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Nickel | ![dust_nickel](../images/immersiveengineering_dust_nickel.png) |
+| item | Dust Nickel | ![dust_nickel](../images/immersiveengineering_metal_dust_nickel.png) |
 
 ---
 ## Nugget Nickel
@@ -3020,7 +3020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Nickel | ![ingot_nickel](../images/immersiveengineering_ingot_nickel.png) |
+| - | Ingot Nickel | ![ingot_nickel](../images/immersiveengineering_metal_ingot_nickel.png) |
 
 ---
 ## Storage Nickel
@@ -3028,7 +3028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Nickel | ![ingot_nickel](../images/immersiveengineering_ingot_nickel.png) |
+| i | Ingot Nickel | ![ingot_nickel](../images/immersiveengineering_metal_ingot_nickel.png) |
 | s | Ingots/Nickel | ![ingots/nickel](../images/immersiveengineering_ingots/nickel.png) |
 
 ---
@@ -3106,7 +3106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Silver | ![dust_silver](../images/immersiveengineering_dust_silver.png) |
+| item | Dust Silver | ![dust_silver](../images/immersiveengineering_metal_dust_silver.png) |
 
 ---
 ## Ingot Silver
@@ -3114,7 +3114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Silver | ![dust_silver](../images/immersiveengineering_dust_silver.png) |
+| item | Dust Silver | ![dust_silver](../images/immersiveengineering_metal_dust_silver.png) |
 
 ---
 ## Nugget Silver
@@ -3122,7 +3122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Silver | ![ingot_silver](../images/immersiveengineering_ingot_silver.png) |
+| - | Ingot Silver | ![ingot_silver](../images/immersiveengineering_metal_ingot_silver.png) |
 
 ---
 ## Storage Silver
@@ -3130,7 +3130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Silver | ![ingot_silver](../images/immersiveengineering_ingot_silver.png) |
+| i | Ingot Silver | ![ingot_silver](../images/immersiveengineering_metal_ingot_silver.png) |
 | s | Ingots/Silver | ![ingots/silver](../images/immersiveengineering_ingots/silver.png) |
 
 ---
@@ -3146,7 +3146,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Steel | ![dust_steel](../images/immersiveengineering_dust_steel.png) |
+| item | Dust Steel | ![dust_steel](../images/immersiveengineering_metal_dust_steel.png) |
 
 ---
 ## Ingot Steel
@@ -3154,7 +3154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Steel | ![dust_steel](../images/immersiveengineering_dust_steel.png) |
+| item | Dust Steel | ![dust_steel](../images/immersiveengineering_metal_dust_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3162,7 +3162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Steel | ![ingot_steel](../images/immersiveengineering_ingot_steel.png) |
+| - | Ingot Steel | ![ingot_steel](../images/immersiveengineering_metal_ingot_steel.png) |
 
 ---
 ## Storage Steel
@@ -3170,7 +3170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Steel | ![ingot_steel](../images/immersiveengineering_ingot_steel.png) |
+| i | Ingot Steel | ![ingot_steel](../images/immersiveengineering_metal_ingot_steel.png) |
 | s | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
 
 ---
@@ -3241,7 +3241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Uranium | ![dust_uranium](../images/immersiveengineering_dust_uranium.png) |
+| item | Dust Uranium | ![dust_uranium](../images/immersiveengineering_metal_dust_uranium.png) |
 
 ---
 ## Ingot Uranium
@@ -3249,7 +3249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Uranium | ![dust_uranium](../images/immersiveengineering_dust_uranium.png) |
+| item | Dust Uranium | ![dust_uranium](../images/immersiveengineering_metal_dust_uranium.png) |
 
 ---
 ## Nugget Uranium
@@ -3257,7 +3257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Uranium | ![ingot_uranium](../images/immersiveengineering_ingot_uranium.png) |
+| - | Ingot Uranium | ![ingot_uranium](../images/immersiveengineering_metal_ingot_uranium.png) |
 
 ---
 ## Storage Uranium
@@ -3265,7 +3265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Ingot Uranium | ![ingot_uranium](../images/immersiveengineering_ingot_uranium.png) |
+| i | Ingot Uranium | ![ingot_uranium](../images/immersiveengineering_metal_ingot_uranium.png) |
 | s | Ingots/Uranium | ![ingots/uranium](../images/immersiveengineering_ingots/uranium.png) |
 
 ---
@@ -3288,7 +3288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Insulating Glass | ![slab_insulating_glass](../images/immersiveengineering_slab_insulating_glass.png) |
+| s | Slab Insulating Glass | ![slab_insulating_glass](../images/immersiveengineering_insulating_glass.png) |
 
 ---
 ## Slab Insulating Glass
@@ -3311,7 +3311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Iron | ![dust_iron](../images/immersiveengineering_dust_iron.png) |
+| item | Dust Iron | ![dust_iron](../images/immersiveengineering_metal_dust_iron.png) |
 
 ---
 ## Iron Ingot
@@ -3319,7 +3319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dust Iron | ![dust_iron](../images/immersiveengineering_dust_iron.png) |
+| item | Dust Iron | ![dust_iron](../images/immersiveengineering_metal_dust_iron.png) |
 
 ---
 ## Item Batcher
@@ -3327,9 +3327,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| p | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
+| p | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
@@ -3339,7 +3339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Bucket | ![bucket](../images/immersiveengineering_bucket.png) |
+| b | Bucket | ![bucket](../images/immersiveengineering_bucket_wheel.png) |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
 
 ---
@@ -3385,7 +3385,7 @@
 | :--- | :--- | :--- |
 | G | Dusts/Glowstone | ![dusts/glowstone](../images/immersiveengineering_dusts/glowstone.png) |
 | I | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
-| P | Glass Pane | ![glass_pane](../images/immersiveengineering_glass_pane.png) |
+| P | Glass Pane | ![glass_pane](../images/immersiveengineering_insulating_glass.png) |
 
 ---
 ## {}
@@ -3408,7 +3408,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
-| g | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| g | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Sheetmetals/Iron | ![sheetmetals/iron](../images/immersiveengineering_sheetmetals/iron.png) |
 
 ---
@@ -3417,8 +3417,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Circuit Board | ![circuit_board](../images/immersiveengineering_circuit_board.png) |
-| t | Electron Tube | ![electron_tube](../images/immersiveengineering_electron_tube.png) |
+| c | Circuit Board | ![circuit_board](../images/immersiveengineering_material_circuit_board.png) |
+| t | Electron Tube | ![electron_tube](../images/immersiveengineering_material_electron_tube.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
 ---
@@ -3469,8 +3469,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/immersiveengineering_book.png) |
-| - | Lever | ![lever](../images/immersiveengineering_lever.png) |
+| - | Book | ![book](../images/immersiveengineering_acetaldehyde_flow.png) |
+| - | Lever | ![lever](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ##  4}
@@ -3513,7 +3513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Iron | ![slab_sheetmetal_iron](../images/immersiveengineering_slab_sheetmetal_iron.png) |
+| s | Slab Sheetmetal Iron | ![slab_sheetmetal_iron](../images/immersiveengineering_sheetmetal_iron.png) |
 | w | Sheetmetals/Iron | ![sheetmetals/iron](../images/immersiveengineering_sheetmetals/iron.png) |
 
 ---
@@ -3522,7 +3522,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Metal Ladder None | ![metal_ladder_none](../images/immersiveengineering_metal_ladder_none.png) |
+| l | Metal Ladder None | ![metal_ladder_none](../images/immersiveengineering_metal_ladder.png) |
 | s | Scaffoldings/Aluminum | ![scaffoldings/aluminum](../images/immersiveengineering_scaffoldings/aluminum.png) |
 
 ---
@@ -3539,7 +3539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Metal Ladder None | ![metal_ladder_none](../images/immersiveengineering_metal_ladder_none.png) |
+| l | Metal Ladder None | ![metal_ladder_none](../images/immersiveengineering_metal_ladder.png) |
 | s | Scaffoldings/Steel | ![scaffoldings/steel](../images/immersiveengineering_scaffoldings/steel.png) |
 
 ---
@@ -3548,8 +3548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Metal Barrel | ![metal_barrel](../images/immersiveengineering_metal_barrel.png) |
-| C | Minecart | ![minecart](../images/immersiveengineering_minecart.png) |
+| B | Metal Barrel | ![metal_barrel](../images/immersiveengineering_barrel_side.png) |
+| C | Minecart | ![minecart](../images/immersiveengineering_minecart_metalbarrel.png) |
 
 ---
 ## Minecart Reinforcedcrate
@@ -3558,7 +3558,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Reinforced Crate | ![reinforced_crate](../images/immersiveengineering_reinforced_crate.png) |
-| C | Minecart | ![minecart](../images/immersiveengineering_minecart.png) |
+| C | Minecart | ![minecart](../images/immersiveengineering_minecart_metalbarrel.png) |
 
 ---
 ## Minecart Woodenbarrel
@@ -3566,8 +3566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Wooden Barrel | ![wooden_barrel](../images/immersiveengineering_wooden_barrel.png) |
-| C | Minecart | ![minecart](../images/immersiveengineering_minecart.png) |
+| B | Wooden Barrel | ![wooden_barrel](../images/immersiveengineering_aluminum_scaffolding_top_wooden_top.png) |
+| C | Minecart | ![minecart](../images/immersiveengineering_minecart_metalbarrel.png) |
 
 ---
 ## Minecart Woodencrate
@@ -3576,7 +3576,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Crate | ![crate](../images/immersiveengineering_crate.png) |
-| C | Minecart | ![minecart](../images/immersiveengineering_minecart.png) |
+| C | Minecart | ![minecart](../images/immersiveengineering_minecart_metalbarrel.png) |
 
 ---
 ## {}
@@ -3753,7 +3753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Aluminum | ![nugget_aluminum](../images/immersiveengineering_nugget_aluminum.png) |
+| i | Nugget Aluminum | ![nugget_aluminum](../images/immersiveengineering_metal_nugget_aluminum.png) |
 | s | Nuggets/Aluminum | ![nuggets/aluminum](../images/immersiveengineering_nuggets/aluminum.png) |
 
 ---
@@ -3762,7 +3762,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Constantan | ![nugget_constantan](../images/immersiveengineering_nugget_constantan.png) |
+| i | Nugget Constantan | ![nugget_constantan](../images/immersiveengineering_metal_nugget_constantan.png) |
 | s | Nuggets/Constantan | ![nuggets/constantan](../images/immersiveengineering_nuggets/constantan.png) |
 
 ---
@@ -3771,7 +3771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Copper | ![nugget_copper](../images/immersiveengineering_nugget_copper.png) |
+| i | Nugget Copper | ![nugget_copper](../images/immersiveengineering_metal_nugget_copper.png) |
 | s | Nuggets/Copper | ![nuggets/copper](../images/immersiveengineering_nuggets/copper.png) |
 
 ---
@@ -3780,7 +3780,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Electrum | ![nugget_electrum](../images/immersiveengineering_nugget_electrum.png) |
+| i | Nugget Electrum | ![nugget_electrum](../images/immersiveengineering_metal_nugget_electrum.png) |
 | s | Nuggets/Electrum | ![nuggets/electrum](../images/immersiveengineering_nuggets/electrum.png) |
 
 ---
@@ -3789,7 +3789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Lead | ![nugget_lead](../images/immersiveengineering_nugget_lead.png) |
+| i | Nugget Lead | ![nugget_lead](../images/immersiveengineering_metal_nugget_lead.png) |
 | s | Nuggets/Lead | ![nuggets/lead](../images/immersiveengineering_nuggets/lead.png) |
 
 ---
@@ -3798,7 +3798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Nickel | ![nugget_nickel](../images/immersiveengineering_nugget_nickel.png) |
+| i | Nugget Nickel | ![nugget_nickel](../images/immersiveengineering_metal_nugget_nickel.png) |
 | s | Nuggets/Nickel | ![nuggets/nickel](../images/immersiveengineering_nuggets/nickel.png) |
 
 ---
@@ -3807,7 +3807,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Silver | ![nugget_silver](../images/immersiveengineering_nugget_silver.png) |
+| i | Nugget Silver | ![nugget_silver](../images/immersiveengineering_metal_nugget_silver.png) |
 | s | Nuggets/Silver | ![nuggets/silver](../images/immersiveengineering_nuggets/silver.png) |
 
 ---
@@ -3816,7 +3816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Axe Steel | ![axe_steel](../images/immersiveengineering_axe_steel.png) |
+| item | Axe Steel | ![axe_steel](../images/immersiveengineering_tool_axe_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3824,7 +3824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Axe Steel | ![axe_steel](../images/immersiveengineering_axe_steel.png) |
+| item | Axe Steel | ![axe_steel](../images/immersiveengineering_tool_axe_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3832,7 +3832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pickaxe Steel | ![pickaxe_steel](../images/immersiveengineering_pickaxe_steel.png) |
+| item | Pickaxe Steel | ![pickaxe_steel](../images/immersiveengineering_tool_pickaxe_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3840,7 +3840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pickaxe Steel | ![pickaxe_steel](../images/immersiveengineering_pickaxe_steel.png) |
+| item | Pickaxe Steel | ![pickaxe_steel](../images/immersiveengineering_tool_pickaxe_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3848,7 +3848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shovel Steel | ![shovel_steel](../images/immersiveengineering_shovel_steel.png) |
+| item | Shovel Steel | ![shovel_steel](../images/immersiveengineering_tool_shovel_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3856,7 +3856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Shovel Steel | ![shovel_steel](../images/immersiveengineering_shovel_steel.png) |
+| item | Shovel Steel | ![shovel_steel](../images/immersiveengineering_tool_shovel_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3928,7 +3928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sword Steel | ![sword_steel](../images/immersiveengineering_sword_steel.png) |
+| item | Sword Steel | ![sword_steel](../images/immersiveengineering_tool_sword_steel.png) |
 
 ---
 ## Nugget Steel
@@ -3936,7 +3936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sword Steel | ![sword_steel](../images/immersiveengineering_sword_steel.png) |
+| item | Sword Steel | ![sword_steel](../images/immersiveengineering_tool_sword_steel.png) |
 
 ---
 ## Ingot Steel
@@ -3944,7 +3944,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Steel | ![nugget_steel](../images/immersiveengineering_nugget_steel.png) |
+| i | Nugget Steel | ![nugget_steel](../images/immersiveengineering_metal_nugget_steel.png) |
 | s | Nuggets/Steel | ![nuggets/steel](../images/immersiveengineering_nuggets/steel.png) |
 
 ---
@@ -3953,7 +3953,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Nugget Uranium | ![nugget_uranium](../images/immersiveengineering_nugget_uranium.png) |
+| i | Nugget Uranium | ![nugget_uranium](../images/immersiveengineering_metal_nugget_uranium.png) |
 | s | Nuggets/Uranium | ![nuggets/uranium](../images/immersiveengineering_nuggets/uranium.png) |
 
 ---
@@ -4162,7 +4162,7 @@
 | - | Dusts/Wood | ![dusts/wood](../images/immersiveengineering_dusts/wood.png) |
 | - | Dusts/Wood | ![dusts/wood](../images/immersiveengineering_dusts/wood.png) |
 | - | Dusts/Wood | ![dusts/wood](../images/immersiveengineering_dusts/wood.png) |
-| - | Water | ![water](../images/immersiveengineering_water.png) |
+| - | Water | ![water](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## {}
@@ -4194,7 +4194,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Aluminum | ![ingots/aluminum](../images/immersiveengineering_ingots/aluminum.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Ardite'}
@@ -4231,7 +4231,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Calorite | ![ingots/calorite](../images/immersiveengineering_ingots/calorite.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Cobalt'}
@@ -4254,7 +4254,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Constantan | ![ingots/constantan](../images/immersiveengineering_ingots/constantan.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Copper'}
@@ -4270,7 +4270,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Desh'}
@@ -4286,7 +4286,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Desh | ![ingots/desh](../images/immersiveengineering_ingots/desh.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Electrum'}
@@ -4302,7 +4302,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Electrum | ![ingots/electrum](../images/immersiveengineering_ingots/electrum.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Gold'}
@@ -4318,7 +4318,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Gold | ![ingots/gold](../images/immersiveengineering_ingots/gold.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Invar'}
@@ -4341,7 +4341,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Lead'}
@@ -4357,7 +4357,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Lead | ![ingots/lead](../images/immersiveengineering_ingots/lead.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Manyullyn'}
@@ -4380,7 +4380,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Nickel | ![ingots/nickel](../images/immersiveengineering_ingots/nickel.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Osmium'}
@@ -4403,7 +4403,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Ostrum | ![ingots/ostrum](../images/immersiveengineering_ingots/ostrum.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Platinum'}
@@ -4433,7 +4433,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Silver | ![ingots/silver](../images/immersiveengineering_ingots/silver.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Steel'}
@@ -4449,7 +4449,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Tin'}
@@ -4479,7 +4479,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ingots/Uranium | ![ingots/uranium](../images/immersiveengineering_ingots/uranium.png) |
-| - | Hammer | ![hammer](../images/immersiveengineering_hammer.png) |
+| - | Hammer | ![hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## Plates/Zinc'}
@@ -4516,7 +4516,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Connector Lv | ![connector_lv](../images/immersiveengineering_connector_lv.png) |
-| l | Leather | ![leather](../images/immersiveengineering_leather.png) |
+| l | Leather | ![leather](../images/immersiveengineering_material_ersatz_leather.png) |
 | r | Rods/Steel | ![rods/steel](../images/immersiveengineering_rods/steel.png) |
 | s | Rods/Treated Wood | ![rods/treated_wood](../images/immersiveengineering_rods/treated_wood.png) |
 | w | Wirecoil Copper Ins | ![wirecoil_copper_ins](../images/immersiveengineering_wirecoil_copper_ins.png) |
@@ -4569,7 +4569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Water | ![water](../images/immersiveengineering_water.png) |
+| b | Water | ![water](../images/immersiveengineering_acetaldehyde_flow.png) |
 | c | Plates/Copper | ![plates/copper](../images/immersiveengineering_plates/copper.png) |
 | i | Sheetmetals/Steel | ![sheetmetals/steel](../images/immersiveengineering_sheetmetals/steel.png) |
 
@@ -4579,11 +4579,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv.png) |
-| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_wooden_grip.png) |
+| c | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv_side.png) |
+| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_material_wooden_grip.png) |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
-| p | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_component_electronic_adv.png) |
-| v | Capacitor Hv | ![capacitor_hv](../images/immersiveengineering_capacitor_hv.png) |
+| p | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_material_component_electronic_adv.png) |
+| v | Capacitor Hv | ![capacitor_hv](../images/immersiveengineering_capacitor_hv_down_in.png) |
 
 ---
 ## Raw Block Aluminum
@@ -4607,7 +4607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Aluminum | ![raw_block_aluminum](../images/immersiveengineering_raw_block_aluminum.png) |
+| - | Raw Block Aluminum | ![raw_block_aluminum](../images/immersiveengineering_metal_raw_aluminum.png) |
 
 ---
 ##  12}
@@ -4657,7 +4657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Lead | ![raw_block_lead](../images/immersiveengineering_raw_block_lead.png) |
+| - | Raw Block Lead | ![raw_block_lead](../images/immersiveengineering_metal_raw_lead.png) |
 
 ---
 ##  12}
@@ -4672,7 +4672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Nickel | ![raw_block_nickel](../images/immersiveengineering_raw_block_nickel.png) |
+| - | Raw Block Nickel | ![raw_block_nickel](../images/immersiveengineering_metal_raw_nickel.png) |
 
 ---
 ##  12}
@@ -4701,7 +4701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Silver | ![raw_block_silver](../images/immersiveengineering_raw_block_silver.png) |
+| - | Raw Block Silver | ![raw_block_silver](../images/immersiveengineering_metal_raw_silver.png) |
 
 ---
 ##  12}
@@ -4730,7 +4730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Block Uranium | ![raw_block_uranium](../images/immersiveengineering_raw_block_uranium.png) |
+| - | Raw Block Uranium | ![raw_block_uranium](../images/immersiveengineering_metal_raw_uranium.png) |
 
 ---
 ##  12}
@@ -4991,9 +4991,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Treated Fence | ![treated_fence](../images/immersiveengineering_treated_fence.png) |
+| f | Treated Fence | ![treated_fence](../images/immersiveengineering_material_stick_treated.png) |
 | p | Plates/Steel | ![plates/steel](../images/immersiveengineering_plates/steel.png) |
-| s | Wire Steel | ![wire_steel](../images/immersiveengineering_wire_steel.png) |
+| s | Wire Steel | ![wire_steel](../images/immersiveengineering_material_wire_steel.png) |
 
 ---
 ## Redstone Acid'}
@@ -5008,10 +5008,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
+| c | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
 | h | Connector Hv | ![connector_hv](../images/immersiveengineering_connector_hv.png) |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
-| r | Repeater | ![repeater](../images/immersiveengineering_repeater.png) |
+| r | Repeater | ![repeater](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## {}
@@ -5051,11 +5051,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Gunpart Barrel | ![gunpart_barrel](../images/immersiveengineering_gunpart_barrel.png) |
-| c | Component Steel | ![component_steel](../images/immersiveengineering_component_steel.png) |
-| d | Gunpart Drum | ![gunpart_drum](../images/immersiveengineering_gunpart_drum.png) |
-| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_wooden_grip.png) |
-| h | Gunpart Hammer | ![gunpart_hammer](../images/immersiveengineering_gunpart_hammer.png) |
+| b | Gunpart Barrel | ![gunpart_barrel](../images/immersiveengineering_material_gunpart_barrel.png) |
+| c | Component Steel | ![component_steel](../images/immersiveengineering_material_component_steel.png) |
+| d | Gunpart Drum | ![gunpart_drum](../images/immersiveengineering_material_gunpart_drum.png) |
+| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_material_wooden_grip.png) |
+| h | Gunpart Hammer | ![gunpart_hammer](../images/immersiveengineering_material_gunpart_hammer.png) |
 
 ---
 ## {}
@@ -5258,8 +5258,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Light Engineering | ![light_engineering](../images/immersiveengineering_light_engineering.png) |
-| f | Steel Fence | ![steel_fence](../images/immersiveengineering_steel_fence.png) |
-| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_standard.png) |
+| f | Steel Fence | ![steel_fence](../images/immersiveengineering_armor_steel_chest.png) |
+| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_top_standard.png) |
 
 ---
 ## Sand
@@ -5315,7 +5315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Aluminum | ![slab_sheetmetal_aluminum](../images/immersiveengineering_slab_sheetmetal_aluminum.png) |
+| s | Slab Sheetmetal Aluminum | ![slab_sheetmetal_aluminum](../images/immersiveengineering_sheetmetal_aluminum.png) |
 
 ---
 ## Slab Sheetmetal Aluminum
@@ -5332,7 +5332,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Black | ![dyes/black](../images/immersiveengineering_dyes/black.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Black
@@ -5340,7 +5340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Black | ![slab_sheetmetal_colored_black](../images/immersiveengineering_slab_sheetmetal_colored_black.png) |
+| s | Slab Sheetmetal Colored Black | ![slab_sheetmetal_colored_black](../images/immersiveengineering_sheetmetal_black.png) |
 
 ---
 ## Slab Sheetmetal Colored Black
@@ -5348,7 +5348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Black | ![sheetmetal_colored_black](../images/immersiveengineering_sheetmetal_colored_black.png) |
+| s | Sheetmetal Colored Black | ![sheetmetal_colored_black](../images/immersiveengineering_sheetmetal_black.png) |
 
 ---
 ## Sheetmetal Colored Blue
@@ -5357,7 +5357,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Blue | ![dyes/blue](../images/immersiveengineering_dyes/blue.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Blue
@@ -5365,7 +5365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Blue | ![slab_sheetmetal_colored_blue](../images/immersiveengineering_slab_sheetmetal_colored_blue.png) |
+| s | Slab Sheetmetal Colored Blue | ![slab_sheetmetal_colored_blue](../images/immersiveengineering_sheetmetal_blue.png) |
 
 ---
 ## Slab Sheetmetal Colored Blue
@@ -5373,7 +5373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Blue | ![sheetmetal_colored_blue](../images/immersiveengineering_sheetmetal_colored_blue.png) |
+| s | Sheetmetal Colored Blue | ![sheetmetal_colored_blue](../images/immersiveengineering_sheetmetal_blue.png) |
 
 ---
 ## Sheetmetal Colored Brown
@@ -5382,7 +5382,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Brown | ![dyes/brown](../images/immersiveengineering_dyes/brown.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Brown
@@ -5390,7 +5390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Brown | ![slab_sheetmetal_colored_brown](../images/immersiveengineering_slab_sheetmetal_colored_brown.png) |
+| s | Slab Sheetmetal Colored Brown | ![slab_sheetmetal_colored_brown](../images/immersiveengineering_sheetmetal_brown.png) |
 
 ---
 ## Slab Sheetmetal Colored Brown
@@ -5398,7 +5398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Brown | ![sheetmetal_colored_brown](../images/immersiveengineering_sheetmetal_colored_brown.png) |
+| s | Sheetmetal Colored Brown | ![sheetmetal_colored_brown](../images/immersiveengineering_sheetmetal_brown.png) |
 
 ---
 ## Sheetmetal Colored Cyan
@@ -5407,7 +5407,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Cyan | ![dyes/cyan](../images/immersiveengineering_dyes/cyan.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Cyan
@@ -5415,7 +5415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Cyan | ![slab_sheetmetal_colored_cyan](../images/immersiveengineering_slab_sheetmetal_colored_cyan.png) |
+| s | Slab Sheetmetal Colored Cyan | ![slab_sheetmetal_colored_cyan](../images/immersiveengineering_sheetmetal_cyan.png) |
 
 ---
 ## Slab Sheetmetal Colored Cyan
@@ -5423,7 +5423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Cyan | ![sheetmetal_colored_cyan](../images/immersiveengineering_sheetmetal_colored_cyan.png) |
+| s | Sheetmetal Colored Cyan | ![sheetmetal_colored_cyan](../images/immersiveengineering_sheetmetal_cyan.png) |
 
 ---
 ## Sheetmetal Colored Gray
@@ -5432,7 +5432,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Gray | ![dyes/gray](../images/immersiveengineering_dyes/gray.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Gray
@@ -5440,7 +5440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Gray | ![slab_sheetmetal_colored_gray](../images/immersiveengineering_slab_sheetmetal_colored_gray.png) |
+| s | Slab Sheetmetal Colored Gray | ![slab_sheetmetal_colored_gray](../images/immersiveengineering_sheetmetal_gray.png) |
 
 ---
 ## Slab Sheetmetal Colored Gray
@@ -5448,7 +5448,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Gray | ![sheetmetal_colored_gray](../images/immersiveengineering_sheetmetal_colored_gray.png) |
+| s | Sheetmetal Colored Gray | ![sheetmetal_colored_gray](../images/immersiveengineering_sheetmetal_gray.png) |
 
 ---
 ## Sheetmetal Colored Green
@@ -5457,7 +5457,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Green | ![dyes/green](../images/immersiveengineering_dyes/green.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Green
@@ -5465,7 +5465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Green | ![slab_sheetmetal_colored_green](../images/immersiveengineering_slab_sheetmetal_colored_green.png) |
+| s | Slab Sheetmetal Colored Green | ![slab_sheetmetal_colored_green](../images/immersiveengineering_sheetmetal_green.png) |
 
 ---
 ## Slab Sheetmetal Colored Green
@@ -5473,7 +5473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Green | ![sheetmetal_colored_green](../images/immersiveengineering_sheetmetal_colored_green.png) |
+| s | Sheetmetal Colored Green | ![sheetmetal_colored_green](../images/immersiveengineering_sheetmetal_green.png) |
 
 ---
 ## Sheetmetal Colored Light Blue
@@ -5482,7 +5482,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Light Blue | ![dyes/light_blue](../images/immersiveengineering_dyes/light_blue.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Light Blue
@@ -5490,7 +5490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Light Blue | ![slab_sheetmetal_colored_light_blue](../images/immersiveengineering_slab_sheetmetal_colored_light_blue.png) |
+| s | Slab Sheetmetal Colored Light Blue | ![slab_sheetmetal_colored_light_blue](../images/immersiveengineering_sheetmetal_light_blue.png) |
 
 ---
 ## Slab Sheetmetal Colored Light Blue
@@ -5498,7 +5498,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Light Blue | ![sheetmetal_colored_light_blue](../images/immersiveengineering_sheetmetal_colored_light_blue.png) |
+| s | Sheetmetal Colored Light Blue | ![sheetmetal_colored_light_blue](../images/immersiveengineering_sheetmetal_light_blue.png) |
 
 ---
 ## Sheetmetal Colored Light Gray
@@ -5507,7 +5507,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Light Gray | ![dyes/light_gray](../images/immersiveengineering_dyes/light_gray.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Light Gray
@@ -5515,7 +5515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Light Gray | ![slab_sheetmetal_colored_light_gray](../images/immersiveengineering_slab_sheetmetal_colored_light_gray.png) |
+| s | Slab Sheetmetal Colored Light Gray | ![slab_sheetmetal_colored_light_gray](../images/immersiveengineering_sheetmetal_light_gray.png) |
 
 ---
 ## Slab Sheetmetal Colored Light Gray
@@ -5523,7 +5523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Light Gray | ![sheetmetal_colored_light_gray](../images/immersiveengineering_sheetmetal_colored_light_gray.png) |
+| s | Sheetmetal Colored Light Gray | ![sheetmetal_colored_light_gray](../images/immersiveengineering_sheetmetal_light_gray.png) |
 
 ---
 ## Sheetmetal Colored Lime
@@ -5532,7 +5532,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Lime | ![dyes/lime](../images/immersiveengineering_dyes/lime.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Lime
@@ -5540,7 +5540,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Lime | ![slab_sheetmetal_colored_lime](../images/immersiveengineering_slab_sheetmetal_colored_lime.png) |
+| s | Slab Sheetmetal Colored Lime | ![slab_sheetmetal_colored_lime](../images/immersiveengineering_sheetmetal_lime.png) |
 
 ---
 ## Slab Sheetmetal Colored Lime
@@ -5548,7 +5548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Lime | ![sheetmetal_colored_lime](../images/immersiveengineering_sheetmetal_colored_lime.png) |
+| s | Sheetmetal Colored Lime | ![sheetmetal_colored_lime](../images/immersiveengineering_sheetmetal_lime.png) |
 
 ---
 ## Sheetmetal Colored Magenta
@@ -5557,7 +5557,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Magenta | ![dyes/magenta](../images/immersiveengineering_dyes/magenta.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Magenta
@@ -5565,7 +5565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Magenta | ![slab_sheetmetal_colored_magenta](../images/immersiveengineering_slab_sheetmetal_colored_magenta.png) |
+| s | Slab Sheetmetal Colored Magenta | ![slab_sheetmetal_colored_magenta](../images/immersiveengineering_sheetmetal_magenta.png) |
 
 ---
 ## Slab Sheetmetal Colored Magenta
@@ -5573,7 +5573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Magenta | ![sheetmetal_colored_magenta](../images/immersiveengineering_sheetmetal_colored_magenta.png) |
+| s | Sheetmetal Colored Magenta | ![sheetmetal_colored_magenta](../images/immersiveengineering_sheetmetal_magenta.png) |
 
 ---
 ## Sheetmetal Colored Orange
@@ -5582,7 +5582,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Orange | ![dyes/orange](../images/immersiveengineering_dyes/orange.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Orange
@@ -5590,7 +5590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Orange | ![slab_sheetmetal_colored_orange](../images/immersiveengineering_slab_sheetmetal_colored_orange.png) |
+| s | Slab Sheetmetal Colored Orange | ![slab_sheetmetal_colored_orange](../images/immersiveengineering_sheetmetal_orange.png) |
 
 ---
 ## Slab Sheetmetal Colored Orange
@@ -5598,7 +5598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Orange | ![sheetmetal_colored_orange](../images/immersiveengineering_sheetmetal_colored_orange.png) |
+| s | Sheetmetal Colored Orange | ![sheetmetal_colored_orange](../images/immersiveengineering_sheetmetal_orange.png) |
 
 ---
 ## Sheetmetal Colored Pink
@@ -5607,7 +5607,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Pink | ![dyes/pink](../images/immersiveengineering_dyes/pink.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Pink
@@ -5615,7 +5615,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Pink | ![slab_sheetmetal_colored_pink](../images/immersiveengineering_slab_sheetmetal_colored_pink.png) |
+| s | Slab Sheetmetal Colored Pink | ![slab_sheetmetal_colored_pink](../images/immersiveengineering_sheetmetal_pink.png) |
 
 ---
 ## Slab Sheetmetal Colored Pink
@@ -5623,7 +5623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Pink | ![sheetmetal_colored_pink](../images/immersiveengineering_sheetmetal_colored_pink.png) |
+| s | Sheetmetal Colored Pink | ![sheetmetal_colored_pink](../images/immersiveengineering_sheetmetal_pink.png) |
 
 ---
 ## Sheetmetal Colored Purple
@@ -5632,7 +5632,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Purple | ![dyes/purple](../images/immersiveengineering_dyes/purple.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Purple
@@ -5640,7 +5640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Purple | ![slab_sheetmetal_colored_purple](../images/immersiveengineering_slab_sheetmetal_colored_purple.png) |
+| s | Slab Sheetmetal Colored Purple | ![slab_sheetmetal_colored_purple](../images/immersiveengineering_sheetmetal_purple.png) |
 
 ---
 ## Slab Sheetmetal Colored Purple
@@ -5648,7 +5648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Purple | ![sheetmetal_colored_purple](../images/immersiveengineering_sheetmetal_colored_purple.png) |
+| s | Sheetmetal Colored Purple | ![sheetmetal_colored_purple](../images/immersiveengineering_sheetmetal_purple.png) |
 
 ---
 ## Sheetmetal Colored Red
@@ -5657,7 +5657,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Red | ![dyes/red](../images/immersiveengineering_dyes/red.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Red
@@ -5665,7 +5665,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Red | ![slab_sheetmetal_colored_red](../images/immersiveengineering_slab_sheetmetal_colored_red.png) |
+| s | Slab Sheetmetal Colored Red | ![slab_sheetmetal_colored_red](../images/immersiveengineering_sheetmetal_red.png) |
 
 ---
 ## Slab Sheetmetal Colored Red
@@ -5673,7 +5673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Red | ![sheetmetal_colored_red](../images/immersiveengineering_sheetmetal_colored_red.png) |
+| s | Sheetmetal Colored Red | ![sheetmetal_colored_red](../images/immersiveengineering_sheetmetal_red.png) |
 
 ---
 ## Sheetmetal Colored White
@@ -5682,7 +5682,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/White | ![dyes/white](../images/immersiveengineering_dyes/white.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored White
@@ -5690,7 +5690,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored White | ![slab_sheetmetal_colored_white](../images/immersiveengineering_slab_sheetmetal_colored_white.png) |
+| s | Slab Sheetmetal Colored White | ![slab_sheetmetal_colored_white](../images/immersiveengineering_sheetmetal_white.png) |
 
 ---
 ## Slab Sheetmetal Colored White
@@ -5698,7 +5698,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored White | ![sheetmetal_colored_white](../images/immersiveengineering_sheetmetal_colored_white.png) |
+| s | Sheetmetal Colored White | ![sheetmetal_colored_white](../images/immersiveengineering_sheetmetal_white.png) |
 
 ---
 ## Sheetmetal Colored Yellow
@@ -5707,7 +5707,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Dyes/Yellow | ![dyes/yellow](../images/immersiveengineering_dyes/yellow.png) |
-| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_sheetmetals.png) |
+| s | Sheetmetals | ![sheetmetals](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Sheetmetal Colored Yellow
@@ -5715,7 +5715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Colored Yellow | ![slab_sheetmetal_colored_yellow](../images/immersiveengineering_slab_sheetmetal_colored_yellow.png) |
+| s | Slab Sheetmetal Colored Yellow | ![slab_sheetmetal_colored_yellow](../images/immersiveengineering_sheetmetal_yellow.png) |
 
 ---
 ## Slab Sheetmetal Colored Yellow
@@ -5723,7 +5723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Sheetmetal Colored Yellow | ![sheetmetal_colored_yellow](../images/immersiveengineering_sheetmetal_colored_yellow.png) |
+| s | Sheetmetal Colored Yellow | ![sheetmetal_colored_yellow](../images/immersiveengineering_sheetmetal_yellow.png) |
 
 ---
 ## Sheetmetal Constantan
@@ -5739,7 +5739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Constantan | ![slab_sheetmetal_constantan](../images/immersiveengineering_slab_sheetmetal_constantan.png) |
+| s | Slab Sheetmetal Constantan | ![slab_sheetmetal_constantan](../images/immersiveengineering_sheetmetal_constantan.png) |
 
 ---
 ## Slab Sheetmetal Constantan
@@ -5763,7 +5763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Copper | ![slab_sheetmetal_copper](../images/immersiveengineering_slab_sheetmetal_copper.png) |
+| s | Slab Sheetmetal Copper | ![slab_sheetmetal_copper](../images/immersiveengineering_sheetmetal_copper.png) |
 
 ---
 ## Slab Sheetmetal Copper
@@ -5787,7 +5787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Electrum | ![slab_sheetmetal_electrum](../images/immersiveengineering_slab_sheetmetal_electrum.png) |
+| s | Slab Sheetmetal Electrum | ![slab_sheetmetal_electrum](../images/immersiveengineering_sheetmetal_electrum.png) |
 
 ---
 ## Slab Sheetmetal Electrum
@@ -5811,7 +5811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Gold | ![slab_sheetmetal_gold](../images/immersiveengineering_slab_sheetmetal_gold.png) |
+| s | Slab Sheetmetal Gold | ![slab_sheetmetal_gold](../images/immersiveengineering_sheetmetal_gold.png) |
 
 ---
 ## Slab Sheetmetal Gold
@@ -5835,7 +5835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Iron | ![slab_sheetmetal_iron](../images/immersiveengineering_slab_sheetmetal_iron.png) |
+| s | Slab Sheetmetal Iron | ![slab_sheetmetal_iron](../images/immersiveengineering_sheetmetal_iron.png) |
 
 ---
 ## Slab Sheetmetal Iron
@@ -5859,7 +5859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Lead | ![slab_sheetmetal_lead](../images/immersiveengineering_slab_sheetmetal_lead.png) |
+| s | Slab Sheetmetal Lead | ![slab_sheetmetal_lead](../images/immersiveengineering_sheetmetal_lead.png) |
 
 ---
 ## Slab Sheetmetal Lead
@@ -5883,7 +5883,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Nickel | ![slab_sheetmetal_nickel](../images/immersiveengineering_slab_sheetmetal_nickel.png) |
+| s | Slab Sheetmetal Nickel | ![slab_sheetmetal_nickel](../images/immersiveengineering_sheetmetal_nickel.png) |
 
 ---
 ## Slab Sheetmetal Nickel
@@ -5907,7 +5907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Silver | ![slab_sheetmetal_silver](../images/immersiveengineering_slab_sheetmetal_silver.png) |
+| s | Slab Sheetmetal Silver | ![slab_sheetmetal_silver](../images/immersiveengineering_sheetmetal_silver.png) |
 
 ---
 ## Slab Sheetmetal Silver
@@ -5931,7 +5931,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Steel | ![slab_sheetmetal_steel](../images/immersiveengineering_slab_sheetmetal_steel.png) |
+| s | Slab Sheetmetal Steel | ![slab_sheetmetal_steel](../images/immersiveengineering_sheetmetal_steel.png) |
 
 ---
 ## Slab Sheetmetal Steel
@@ -5955,7 +5955,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Sheetmetal Uranium | ![slab_sheetmetal_uranium](../images/immersiveengineering_slab_sheetmetal_uranium.png) |
+| s | Slab Sheetmetal Uranium | ![slab_sheetmetal_uranium](../images/immersiveengineering_sheetmetal_uranium.png) |
 
 ---
 ## Slab Sheetmetal Uranium
@@ -5997,8 +5997,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
-| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_wooden_grip.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
+| g | Wooden Grip | ![wooden_grip](../images/immersiveengineering_material_wooden_grip.png) |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
 
 ---
@@ -6062,7 +6062,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Slag | ![slag](../images/immersiveengineering_slag.png) |
+| tag | Slag | ![slag](../images/immersiveengineering_material_slag.png) |
 
 ---
 ## {}
@@ -6077,8 +6077,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor_basic.png) |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| b | Conveyor Basic | ![conveyor_basic](../images/immersiveengineering_conveyor.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
@@ -6089,7 +6089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | d | Plates/Plastic | ![plates/plastic](../images/immersiveengineering_plates/plastic.png) |
 | s | Rods/Iron | ![rods/iron](../images/immersiveengineering_rods/iron.png) |
 
@@ -6141,7 +6141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Grate Top | ![alu_scaffolding_grate_top](../images/immersiveengineering_alu_scaffolding_grate_top.png) |
+| s | Alu Scaffolding Grate Top | ![alu_scaffolding_grate_top](../images/immersiveengineering_aluminum_scaffolding_top_grate_top.png) |
 
 ---
 ## Stairs Alu Scaffolding Standard
@@ -6149,7 +6149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_alu_scaffolding_standard.png) |
+| s | Alu Scaffolding Standard | ![alu_scaffolding_standard](../images/immersiveengineering_aluminum_scaffolding_top_standard.png) |
 
 ---
 ## Stairs Alu Scaffolding Wooden Top
@@ -6157,7 +6157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Alu Scaffolding Wooden Top | ![alu_scaffolding_wooden_top](../images/immersiveengineering_alu_scaffolding_wooden_top.png) |
+| s | Alu Scaffolding Wooden Top | ![alu_scaffolding_wooden_top](../images/immersiveengineering_aluminum_scaffolding_top_wooden_top.png) |
 
 ---
 ## Stairs Concrete
@@ -6213,7 +6213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Grate Top | ![steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_grate_top.png) |
+| s | Steel Scaffolding Grate Top | ![steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_top_grate_top.png) |
 
 ---
 ## Stairs Steel Scaffolding Standard
@@ -6221,7 +6221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_standard.png) |
+| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_top_standard.png) |
 
 ---
 ## Stairs Steel Scaffolding Wooden Top
@@ -6229,7 +6229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Wooden Top | ![steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_wooden_top.png) |
+| s | Steel Scaffolding Wooden Top | ![steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_top_wooden_top.png) |
 
 ---
 ## Stairs Treated Wood Horizontal
@@ -6284,8 +6284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Steel Fence | ![steel_fence](../images/immersiveengineering_steel_fence.png) |
-| s | Stone Bricks | ![stone_bricks](../images/immersiveengineering_stone_bricks.png) |
+| f | Steel Fence | ![steel_fence](../images/immersiveengineering_armor_steel_chest.png) |
+| s | Stone Bricks | ![stone_bricks](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Steel Scaffolding Grate Top
@@ -6293,7 +6293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Steel Scaffolding Grate Top | ![slab_steel_scaffolding_grate_top](../images/immersiveengineering_slab_steel_scaffolding_grate_top.png) |
+| s | Slab Steel Scaffolding Grate Top | ![slab_steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_top_grate_top.png) |
 
 ---
 ## Steel Scaffolding Grate Top
@@ -6301,7 +6301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_standard.png) |
+| - | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_top_standard.png) |
 
 ---
 ## Slab Steel Scaffolding Grate Top
@@ -6309,7 +6309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Grate Top | ![steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_grate_top.png) |
+| s | Steel Scaffolding Grate Top | ![steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_top_grate_top.png) |
 
 ---
 ## Steel Scaffolding Standard
@@ -6326,7 +6326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Steel Scaffolding Standard | ![slab_steel_scaffolding_standard](../images/immersiveengineering_slab_steel_scaffolding_standard.png) |
+| s | Slab Steel Scaffolding Standard | ![slab_steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_top_standard.png) |
 
 ---
 ## Steel Scaffolding Standard
@@ -6334,7 +6334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Scaffolding Wooden Top | ![steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_wooden_top.png) |
+| - | Steel Scaffolding Wooden Top | ![steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_top_wooden_top.png) |
 
 ---
 ## Slab Steel Scaffolding Standard
@@ -6342,7 +6342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_standard.png) |
+| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_top_standard.png) |
 
 ---
 ## Steel Scaffolding Wooden Top
@@ -6350,7 +6350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Scaffolding Grate Top | ![steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_grate_top.png) |
+| - | Steel Scaffolding Grate Top | ![steel_scaffolding_grate_top](../images/immersiveengineering_steel_scaffolding_top_grate_top.png) |
 
 ---
 ## Steel Scaffolding Wooden Top
@@ -6358,7 +6358,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Steel Scaffolding Wooden Top | ![slab_steel_scaffolding_wooden_top](../images/immersiveengineering_slab_steel_scaffolding_wooden_top.png) |
+| s | Slab Steel Scaffolding Wooden Top | ![slab_steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_top_wooden_top.png) |
 
 ---
 ## Slab Steel Scaffolding Wooden Top
@@ -6366,7 +6366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Wooden Top | ![steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_wooden_top.png) |
+| s | Steel Scaffolding Wooden Top | ![steel_scaffolding_wooden_top](../images/immersiveengineering_steel_scaffolding_top_wooden_top.png) |
 
 ---
 ## Steel Slope
@@ -6374,7 +6374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_standard.png) |
+| s | Steel Scaffolding Standard | ![steel_scaffolding_standard](../images/immersiveengineering_steel_scaffolding_top_standard.png) |
 
 ---
 ## Steel Wallmount
@@ -6423,7 +6423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Aluminum | ![slab_storage_aluminum](../images/immersiveengineering_slab_storage_aluminum.png) |
+| s | Slab Storage Aluminum | ![slab_storage_aluminum](../images/immersiveengineering_storage_aluminum.png) |
 
 ---
 ## Ingot Aluminum
@@ -6447,7 +6447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Constantan | ![slab_storage_constantan](../images/immersiveengineering_slab_storage_constantan.png) |
+| s | Slab Storage Constantan | ![slab_storage_constantan](../images/immersiveengineering_storage_constantan.png) |
 
 ---
 ## Ingot Constantan
@@ -6471,7 +6471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Electrum | ![slab_storage_electrum](../images/immersiveengineering_slab_storage_electrum.png) |
+| s | Slab Storage Electrum | ![slab_storage_electrum](../images/immersiveengineering_storage_electrum.png) |
 
 ---
 ## Ingot Electrum
@@ -6495,7 +6495,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Lead | ![slab_storage_lead](../images/immersiveengineering_slab_storage_lead.png) |
+| s | Slab Storage Lead | ![slab_storage_lead](../images/immersiveengineering_storage_lead.png) |
 
 ---
 ## Ingot Lead
@@ -6519,7 +6519,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Nickel | ![slab_storage_nickel](../images/immersiveengineering_slab_storage_nickel.png) |
+| s | Slab Storage Nickel | ![slab_storage_nickel](../images/immersiveengineering_storage_nickel.png) |
 
 ---
 ## Ingot Nickel
@@ -6543,7 +6543,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Silver | ![slab_storage_silver](../images/immersiveengineering_slab_storage_silver.png) |
+| s | Slab Storage Silver | ![slab_storage_silver](../images/immersiveengineering_storage_silver.png) |
 
 ---
 ## Ingot Silver
@@ -6567,7 +6567,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Steel | ![slab_storage_steel](../images/immersiveengineering_slab_storage_steel.png) |
+| s | Slab Storage Steel | ![slab_storage_steel](../images/immersiveengineering_storage_steel.png) |
 
 ---
 ## Ingot Steel
@@ -6591,7 +6591,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Storage Uranium | ![slab_storage_uranium](../images/immersiveengineering_slab_storage_uranium.png) |
+| s | Slab Storage Uranium | ![slab_storage_uranium](../images/immersiveengineering_storage_uranium_side.png) |
 
 ---
 ## Ingot Uranium
@@ -6599,7 +6599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Storage Uranium | ![storage_uranium](../images/immersiveengineering_storage_uranium.png) |
+| - | Storage Uranium | ![storage_uranium](../images/immersiveengineering_storage_uranium_side.png) |
 
 ---
 ## Slab Storage Uranium
@@ -6607,7 +6607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Storage Uranium | ![storage_uranium](../images/immersiveengineering_storage_uranium.png) |
+| s | Storage Uranium | ![storage_uranium](../images/immersiveengineering_storage_uranium_side.png) |
 
 ---
 ## String
@@ -6615,9 +6615,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_fiber_hemp.png) |
-| - | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_fiber_hemp.png) |
-| - | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_fiber_hemp.png) |
+| - | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_material_hemp_fiber.png) |
+| - | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_material_hemp_fiber.png) |
+| - | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_material_hemp_fiber.png) |
 
 ---
 ## Acacia Planks
@@ -6688,7 +6688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Hemp Fabric | ![hemp_fabric](../images/immersiveengineering_hemp_fabric.png) |
+| f | Hemp Fabric | ![hemp_fabric](../images/immersiveengineering_material_hemp_fabric.png) |
 | s | Rods/All Metal | ![rods/all_metal](../images/immersiveengineering_rods/all_metal.png) |
 
 ---
@@ -6698,7 +6698,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Wirecoil Copper Ins | ![wirecoil_copper_ins](../images/immersiveengineering_wirecoil_copper_ins.png) |
-| - | Wirecutter | ![wirecutter](../images/immersiveengineering_wirecutter.png) |
+| - | Wirecutter | ![wirecutter](../images/immersiveengineering_tool_wirecutter.png) |
 
 ---
 ## Wirecoil Electrum
@@ -6707,7 +6707,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Wirecoil Electrum Ins | ![wirecoil_electrum_ins](../images/immersiveengineering_wirecoil_electrum_ins.png) |
-| - | Wirecutter | ![wirecutter](../images/immersiveengineering_wirecutter.png) |
+| - | Wirecutter | ![wirecutter](../images/immersiveengineering_tool_wirecutter.png) |
 
 ---
 ## {}
@@ -6745,11 +6745,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
-| e | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_component_electronic_adv.png) |
-| h | Capacitor Hv | ![capacitor_hv](../images/immersiveengineering_capacitor_hv.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
+| e | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_material_component_electronic_adv.png) |
+| h | Capacitor Hv | ![capacitor_hv](../images/immersiveengineering_capacitor_hv_down_in.png) |
 | i | Plates/Aluminum | ![plates/aluminum](../images/immersiveengineering_plates/aluminum.png) |
-| l | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv.png) |
+| l | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv_side.png) |
 
 ---
 ## Thermoelectric Generator
@@ -6759,7 +6759,7 @@
 | :--- | :--- | :--- |
 | e | Plates/Constantan | ![plates/constantan](../images/immersiveengineering_plates/constantan.png) |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
-| l | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv.png) |
+| l | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv_side.png) |
 
 ---
 ## Toolbox
@@ -6777,7 +6777,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| h | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_fiber_hemp.png) |
+| h | Fiber Hemp | ![fiber_hemp](../images/immersiveengineering_material_hemp_fiber.png) |
 | r | Rods/Iron | ![rods/iron](../images/immersiveengineering_rods/iron.png) |
 | t | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
@@ -6787,7 +6787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Plates/Steel | ![plates/steel](../images/immersiveengineering_plates/steel.png) |
 | p | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
 
@@ -6797,7 +6797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | p | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
 | t | Toolupgrade Drill Capacity | ![toolupgrade_drill_capacity](../images/immersiveengineering_toolupgrade_drill_capacity.png) |
 
@@ -6817,7 +6817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
 
 ---
@@ -6826,8 +6826,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid.png) |
-| c | Component Steel | ![component_steel](../images/immersiveengineering_component_steel.png) |
+| a | Redstone Acid | ![redstone_acid](../images/immersiveengineering_redstone_acid_flow.png) |
+| c | Component Steel | ![component_steel](../images/immersiveengineering_material_component_steel.png) |
 | i | Plates/Steel | ![plates/steel](../images/immersiveengineering_plates/steel.png) |
 | p | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
 
@@ -6838,7 +6838,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Plates/Iron | ![plates/iron](../images/immersiveengineering_plates/iron.png) |
-| o | Plantoil | ![plantoil](../images/immersiveengineering_plantoil.png) |
+| o | Plantoil | ![plantoil](../images/immersiveengineering_fluid_containers_bottle_plantoil.png) |
 | p | Fluid Pipe | ![fluid_pipe](../images/immersiveengineering_fluid_pipe.png) |
 
 ---
@@ -6867,8 +6867,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
-| t | Electron Tube | ![electron_tube](../images/immersiveengineering_electron_tube.png) |
+| e | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
+| t | Electron Tube | ![electron_tube](../images/immersiveengineering_material_electron_tube.png) |
 | w | Wirecoil Electrum Ins | ![wirecoil_electrum_ins](../images/immersiveengineering_wirecoil_electrum_ins.png) |
 
 ---
@@ -6878,8 +6878,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Wires/Electrum | ![wires/electrum](../images/immersiveengineering_wires/electrum.png) |
-| e | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_component_electronic_adv.png) |
-| f | Treated Fence | ![treated_fence](../images/immersiveengineering_treated_fence.png) |
+| e | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_material_component_electronic_adv.png) |
+| f | Treated Fence | ![treated_fence](../images/immersiveengineering_material_stick_treated.png) |
 | i | Plates/Aluminum | ![plates/aluminum](../images/immersiveengineering_plates/aluminum.png) |
 
 ---
@@ -6898,8 +6898,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Rods/Steel | ![rods/steel](../images/immersiveengineering_rods/steel.png) |
-| p | Glass Panes | ![glass_panes](../images/immersiveengineering_glass_panes.png) |
-| s | Spyglass | ![spyglass](../images/immersiveengineering_spyglass.png) |
+| p | Glass Panes | ![glass_panes](../images/immersiveengineering_insulating_glass.png) |
+| s | Spyglass | ![spyglass](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Toolupgrade Revolver Bayonet
@@ -6908,7 +6908,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
-| s | Sword Steel | ![sword_steel](../images/immersiveengineering_sword_steel.png) |
+| s | Sword Steel | ![sword_steel](../images/immersiveengineering_tool_sword_steel.png) |
 | w | Wires/Copper | ![wires/copper](../images/immersiveengineering_wires/copper.png) |
 
 ---
@@ -6917,9 +6917,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Electron Tube | ![electron_tube](../images/immersiveengineering_electron_tube.png) |
+| e | Electron Tube | ![electron_tube](../images/immersiveengineering_material_electron_tube.png) |
 | r | Rods/Steel | ![rods/steel](../images/immersiveengineering_rods/steel.png) |
-| w | Wire Copper | ![wire_copper](../images/immersiveengineering_wire_copper.png) |
+| w | Wire Copper | ![wire_copper](../images/immersiveengineering_material_wire_copper.png) |
 
 ---
 ## Toolupgrade Revolver Magazine
@@ -6927,7 +6927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Component Iron | ![component_iron](../images/immersiveengineering_component_iron.png) |
+| c | Component Iron | ![component_iron](../images/immersiveengineering_material_component_iron.png) |
 | i | Plates/Steel | ![plates/steel](../images/immersiveengineering_plates/steel.png) |
 | w | Wires/Copper | ![wires/copper](../images/immersiveengineering_wires/copper.png) |
 
@@ -6937,7 +6937,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Light Bulb | ![light_bulb](../images/immersiveengineering_light_bulb.png) |
+| e | Light Bulb | ![light_bulb](../images/immersiveengineering_material_light_bulb.png) |
 | p | Plates/Silver | ![plates/silver](../images/immersiveengineering_plates/silver.png) |
 
 ---
@@ -6946,9 +6946,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv.png) |
+| c | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv_side.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| l | Leather | ![leather](../images/immersiveengineering_leather.png) |
+| l | Leather | ![leather](../images/immersiveengineering_material_ersatz_leather.png) |
 
 ---
 ## Toolupgrade Shield Shock
@@ -6965,9 +6965,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Creosote | ![creosote](../images/immersiveengineering_creosote.png) |
+| c | Creosote | ![creosote](../images/immersiveengineering_creosote_flow.png) |
 | s | Rods/Wooden | ![rods/wooden](../images/immersiveengineering_rods/wooden.png) |
-| w | Wool | ![wool](../images/immersiveengineering_wool.png) |
+| w | Wool | ![wool](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Transformer
@@ -6975,8 +6975,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv.png) |
-| e | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
+| b | Coil Mv | ![coil_mv](../images/immersiveengineering_coil_mv_side.png) |
+| e | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | l | Connector Lv | ![connector_lv](../images/immersiveengineering_connector_lv.png) |
 | m | Connector Mv | ![connector_mv](../images/immersiveengineering_connector_mv.png) |
@@ -6987,8 +6987,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Coil Hv | ![coil_hv](../images/immersiveengineering_coil_hv.png) |
-| e | Component Electronic | ![component_electronic](../images/immersiveengineering_component_electronic.png) |
+| b | Coil Hv | ![coil_hv](../images/immersiveengineering_coil_hv_side.png) |
+| e | Component Electronic | ![component_electronic](../images/immersiveengineering_material_component_electronic.png) |
 | h | Connector Hv | ![connector_hv](../images/immersiveengineering_connector_hv.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | m | Connector Mv | ![connector_mv](../images/immersiveengineering_connector_mv.png) |
@@ -7008,8 +7008,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Treated Fence | ![treated_fence](../images/immersiveengineering_treated_fence.png) |
-| s | Stone Bricks | ![stone_bricks](../images/immersiveengineering_stone_bricks.png) |
+| f | Treated Fence | ![treated_fence](../images/immersiveengineering_material_stick_treated.png) |
+| s | Stone Bricks | ![stone_bricks](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Treated Scaffold
@@ -7035,8 +7035,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Creosote | ![creosote](../images/immersiveengineering_creosote.png) |
-| w | Planks | ![planks](../images/immersiveengineering_planks.png) |
+| b | Creosote | ![creosote](../images/immersiveengineering_creosote_flow.png) |
+| w | Planks | ![planks](../images/immersiveengineering_acetaldehyde_flow.png) |
 
 ---
 ## Treated Wood Horizontal
@@ -7052,7 +7052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Treated Wood Horizontal | ![slab_treated_wood_horizontal](../images/immersiveengineering_slab_treated_wood_horizontal.png) |
+| s | Slab Treated Wood Horizontal | ![slab_treated_wood_horizontal](../images/immersiveengineering_treated_wood_horizontal.png) |
 
 ---
 ## Slab Treated Wood Horizontal
@@ -7082,7 +7082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Treated Wood Packaged | ![slab_treated_wood_packaged](../images/immersiveengineering_slab_treated_wood_packaged.png) |
+| s | Slab Treated Wood Packaged | ![slab_treated_wood_packaged](../images/immersiveengineering_treated_wood_packaged.png) |
 
 ---
 ## Treated Wood Packaged
@@ -7128,7 +7128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slab Treated Wood Vertical | ![slab_treated_wood_vertical](../images/immersiveengineering_slab_treated_wood_vertical.png) |
+| s | Slab Treated Wood Vertical | ![slab_treated_wood_vertical](../images/immersiveengineering_treated_wood_vertical.png) |
 
 ---
 ## Slab Treated Wood Vertical
@@ -7158,7 +7158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv.png) |
+| c | Coil Lv | ![coil_lv](../images/immersiveengineering_coil_lv_side.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/immersiveengineering_dusts/redstone.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
@@ -7169,9 +7169,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Metal Barrel | ![metal_barrel](../images/immersiveengineering_metal_barrel.png) |
-| c | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_component_electronic_adv.png) |
-| e | Rs Engineering | ![rs_engineering](../images/immersiveengineering_rs_engineering.png) |
+| b | Metal Barrel | ![metal_barrel](../images/immersiveengineering_barrel_side.png) |
+| c | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_material_component_electronic_adv.png) |
+| e | Rs Engineering | ![rs_engineering](../images/immersiveengineering_heavy_engineering.png) |
 | g | Chemthrower | ![chemthrower](../images/immersiveengineering_chemthrower.png) |
 | s | Toolupgrade Railgun Scope | ![toolupgrade_railgun_scope](../images/immersiveengineering_toolupgrade_railgun_scope.png) |
 | t | Turntable | ![turntable](../images/immersiveengineering_turntable.png) |
@@ -7183,9 +7183,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Toolupgrade Revolver Magazine | ![toolupgrade_revolver_magazine](../images/immersiveengineering_toolupgrade_revolver_magazine.png) |
-| c | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_component_electronic_adv.png) |
-| e | Rs Engineering | ![rs_engineering](../images/immersiveengineering_rs_engineering.png) |
-| g | Revolver | ![revolver](../images/immersiveengineering_revolver.png) |
+| c | Component Electronic Adv | ![component_electronic_adv](../images/immersiveengineering_material_component_electronic_adv.png) |
+| e | Rs Engineering | ![rs_engineering](../images/immersiveengineering_heavy_engineering.png) |
+| g | Revolver | ![revolver](../images/immersiveengineering_revolver_speedloader.png) |
 | s | Toolupgrade Railgun Scope | ![toolupgrade_railgun_scope](../images/immersiveengineering_toolupgrade_railgun_scope.png) |
 | t | Turntable | ![turntable](../images/immersiveengineering_turntable.png) |
 
@@ -7217,7 +7217,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Ingots/Copper | ![ingots/copper](../images/immersiveengineering_ingots/copper.png) |
-| p | Compass | ![compass](../images/immersiveengineering_compass.png) |
+| p | Compass | ![compass](../images/immersiveengineering_acetaldehyde_flow.png) |
 | s | Rods/Wooden | ![rods/wooden](../images/immersiveengineering_rods/wooden.png) |
 
 ---
@@ -7255,7 +7255,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Ingots/Steel | ![ingots/steel](../images/immersiveengineering_ingots/steel.png) |
-| p | Waterwheel Segment | ![waterwheel_segment](../images/immersiveengineering_waterwheel_segment.png) |
+| p | Waterwheel Segment | ![waterwheel_segment](../images/immersiveengineering_material_waterwheel_segment.png) |
 
 ---
 ## Waterwheel Segment
@@ -7287,7 +7287,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| p | Windmill Blade | ![windmill_blade](../images/immersiveengineering_windmill_blade.png) |
+| p | Windmill Blade | ![windmill_blade](../images/immersiveengineering_material_windmill_blade.png) |
 
 ---
 ## Windmill Blade
@@ -7304,7 +7304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
+| c | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
 
 ---
 ## Wirecoil Copper
@@ -7321,8 +7321,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
-| m | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
+| c | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
+| m | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
 | s | Wirecoil Copper | ![wirecoil_copper](../images/immersiveengineering_wirecoil_copper.png) |
 
 ---
@@ -7340,8 +7340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
-| m | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_fabric_hemp.png) |
+| c | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
+| m | Fabric Hemp | ![fabric_hemp](../images/immersiveengineering_material_hemp_fabric.png) |
 | s | Wirecoil Electrum | ![wirecoil_electrum](../images/immersiveengineering_wirecoil_electrum.png) |
 
 ---
@@ -7371,7 +7371,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Rods/Wooden | ![rods/wooden](../images/immersiveengineering_rods/wooden.png) |
-| w | Hemp Fiber | ![hemp_fiber](../images/immersiveengineering_hemp_fiber.png) |
+| w | Hemp Fiber | ![hemp_fiber](../images/immersiveengineering_material_hemp_fiber.png) |
 
 ---
 ## Wirecoil Structure Steel
@@ -7380,7 +7380,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Rods/Wooden | ![rods/wooden](../images/immersiveengineering_rods/wooden.png) |
-| w | Wire Steel | ![wire_steel](../images/immersiveengineering_wire_steel.png) |
+| w | Wire Steel | ![wire_steel](../images/immersiveengineering_material_wire_steel.png) |
 
 ---
 ## Wirecutter
@@ -7565,7 +7565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood_slab.png) |
+| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood.png) |
 | w | Treated Wood | ![treated_wood](../images/immersiveengineering_treated_wood.png) |
 
 ---
@@ -7591,8 +7591,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Craftingtable | ![craftingtable](../images/immersiveengineering_craftingtable.png) |
-| f | Treated Fence | ![treated_fence](../images/immersiveengineering_treated_fence.png) |
+| f | Treated Fence | ![treated_fence](../images/immersiveengineering_material_stick_treated.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/immersiveengineering_ingots/iron.png) |
-| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood_slab.png) |
+| s | Treated Wood Slab | ![treated_wood_slab](../images/immersiveengineering_treated_wood.png) |
 
 ---

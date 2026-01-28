@@ -14,8 +14,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Bench
@@ -23,8 +23,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Black
@@ -32,9 +32,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Black
@@ -42,9 +42,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Blue
@@ -52,9 +52,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Blue
@@ -62,9 +62,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Brown
@@ -72,9 +72,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Brown
@@ -82,9 +82,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Cyan
@@ -92,9 +92,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Cyan
@@ -102,9 +102,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Gray
@@ -112,9 +112,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Gray
@@ -122,9 +122,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Green
@@ -132,9 +132,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Green
@@ -142,9 +142,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Light Blue
@@ -152,9 +152,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Light Blue
@@ -162,9 +162,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Light Gray
@@ -172,9 +172,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Light Gray
@@ -182,9 +182,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Lime
@@ -192,9 +192,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Lime
@@ -202,9 +202,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Magenta
@@ -212,9 +212,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Magenta
@@ -222,9 +222,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Orange
@@ -232,9 +232,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Orange
@@ -242,9 +242,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Pink
@@ -252,9 +252,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Pink
@@ -262,9 +262,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Purple
@@ -272,9 +272,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Purple
@@ -282,9 +282,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair
@@ -292,8 +292,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Red
@@ -301,9 +301,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Red
@@ -311,9 +311,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair White
@@ -321,9 +321,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair White
@@ -331,9 +331,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Chair Yellow
@@ -341,9 +341,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Yellow
@@ -351,9 +351,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_acacia_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Acacia Chair | ![acacia_chair](../images/exlinefurniture_ceiling_fan_acacia.png) |
 
 ---
 ## Acacia Dresser
@@ -361,9 +361,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Glass Table
@@ -371,9 +371,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Black
@@ -381,9 +381,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Blue
@@ -391,9 +391,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Brown
@@ -401,9 +401,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Cyan
@@ -411,9 +411,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Gray
@@ -421,9 +421,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Green
@@ -431,9 +431,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Light Blue
@@ -441,9 +441,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Light Gray
@@ -451,9 +451,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Lime
@@ -461,9 +461,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Magenta
@@ -471,9 +471,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Orange
@@ -481,9 +481,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Pink
@@ -491,9 +491,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Purple
@@ -501,9 +501,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Red
@@ -511,9 +511,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp White
@@ -521,9 +521,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Yellow
@@ -531,9 +531,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Log Glass Table
@@ -541,9 +541,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Log | ![acacia_log](../images/exlinefurniture_acacia_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Acacia Log | ![acacia_log](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Log Table
@@ -551,8 +551,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Log | ![acacia_log](../images/exlinefurniture_acacia_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Acacia Log | ![acacia_log](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Stripped Log Glass Table
@@ -560,9 +560,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/exlinefurniture_stripped_acacia_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Stripped Log Table
@@ -570,8 +570,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Acacia Log | ![stripped_acacia_log](../images/exlinefurniture_stripped_acacia_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Acacia Log | ![stripped_acacia_log](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Table
@@ -579,8 +579,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Window Web
@@ -588,9 +588,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -605,8 +605,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Bench
@@ -614,8 +614,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Black
@@ -623,9 +623,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Black
@@ -633,9 +633,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Blue
@@ -643,9 +643,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Blue
@@ -653,9 +653,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Brown
@@ -663,9 +663,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Brown
@@ -673,9 +673,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Cyan
@@ -683,9 +683,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Cyan
@@ -693,9 +693,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Gray
@@ -703,9 +703,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Gray
@@ -713,9 +713,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Green
@@ -723,9 +723,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Green
@@ -733,9 +733,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Light Blue
@@ -743,9 +743,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Light Blue
@@ -753,9 +753,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Light Gray
@@ -763,9 +763,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Light Gray
@@ -773,9 +773,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Lime
@@ -783,9 +783,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Lime
@@ -793,9 +793,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Magenta
@@ -803,9 +803,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Magenta
@@ -813,9 +813,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Orange
@@ -823,9 +823,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Orange
@@ -833,9 +833,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Pink
@@ -843,9 +843,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Pink
@@ -853,9 +853,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Purple
@@ -863,9 +863,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Purple
@@ -873,9 +873,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair
@@ -883,8 +883,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Red
@@ -892,9 +892,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Red
@@ -902,9 +902,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair White
@@ -912,9 +912,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair White
@@ -922,9 +922,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Chair Yellow
@@ -932,9 +932,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Chair Yellow
@@ -942,9 +942,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Birch Chair | ![birch_chair](../images/exlinefurniture_birch_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Birch Chair | ![birch_chair](../images/exlinefurniture_ceiling_fan_birch.png) |
 
 ---
 ## Birch Dresser
@@ -952,9 +952,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Glass Table
@@ -962,9 +962,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Black
@@ -972,9 +972,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Blue
@@ -982,9 +982,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Brown
@@ -992,9 +992,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Cyan
@@ -1002,9 +1002,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Gray
@@ -1012,9 +1012,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Green
@@ -1022,9 +1022,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Light Blue
@@ -1032,9 +1032,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Light Gray
@@ -1042,9 +1042,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Lime
@@ -1052,9 +1052,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Magenta
@@ -1062,9 +1062,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Orange
@@ -1072,9 +1072,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Pink
@@ -1082,9 +1082,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Purple
@@ -1092,9 +1092,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Red
@@ -1102,9 +1102,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp White
@@ -1112,9 +1112,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Lamp Yellow
@@ -1122,9 +1122,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Log Glass Table
@@ -1132,9 +1132,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Log | ![birch_log](../images/exlinefurniture_birch_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Birch Log | ![birch_log](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Log Table
@@ -1142,8 +1142,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Log | ![birch_log](../images/exlinefurniture_birch_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Birch Log | ![birch_log](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Stripped Log Glass Table
@@ -1151,9 +1151,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/exlinefurniture_stripped_birch_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Stripped Log Table
@@ -1161,8 +1161,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Birch Log | ![stripped_birch_log](../images/exlinefurniture_stripped_birch_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Birch Log | ![stripped_birch_log](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Table
@@ -1170,8 +1170,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Window Web
@@ -1179,9 +1179,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## Bird Bath Brick
@@ -1189,7 +1189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Bricks | ![bricks](../images/exlinefurniture_bricks.png) |
+| W | Bricks | ![bricks](../images/exlinefurniture_action.png) |
 
 ---
 ## Bird Bath Stone
@@ -1197,7 +1197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Stone Bricks | ![stone_bricks](../images/exlinefurniture_stone_bricks.png) |
+| W | Stone Bricks | ![stone_bricks](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -1240,9 +1240,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/exlinefurniture_string.png) |
-| B | Black Wool | ![black_wool](../images/exlinefurniture_black_wool.png) |
-| E | Fermented Spider Eye | ![fermented_spider_eye](../images/exlinefurniture_fermented_spider_eye.png) |
+| S | String | ![string](../images/exlinefurniture_action.png) |
+| B | Black Wool | ![black_wool](../images/exlinefurniture_action.png) |
+| E | Fermented Spider Eye | ![fermented_spider_eye](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Acacia
@@ -1250,9 +1250,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Birch
@@ -1260,9 +1260,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Birch Slab | ![birch_slab](../images/exlinefurniture_birch_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Birch Slab | ![birch_slab](../images/exlinefurniture_ceiling_fan_birch.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Crimson
@@ -1270,9 +1270,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Dark Oak
@@ -1280,9 +1280,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Jungle
@@ -1290,9 +1290,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Mangrove
@@ -1300,9 +1300,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan
@@ -1310,9 +1310,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Spruce
@@ -1320,9 +1320,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Ceiling Fan Warped
@@ -1330,9 +1330,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -1347,8 +1347,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Bench
@@ -1356,8 +1356,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Black
@@ -1365,9 +1365,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Black
@@ -1375,9 +1375,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Blue
@@ -1385,9 +1385,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Blue
@@ -1395,9 +1395,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Brown
@@ -1405,9 +1405,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Brown
@@ -1415,9 +1415,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Cyan
@@ -1425,9 +1425,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Cyan
@@ -1435,9 +1435,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Gray
@@ -1445,9 +1445,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Gray
@@ -1455,9 +1455,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Green
@@ -1465,9 +1465,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Green
@@ -1475,9 +1475,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Light Blue
@@ -1485,9 +1485,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Light Blue
@@ -1495,9 +1495,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Light Gray
@@ -1505,9 +1505,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Light Gray
@@ -1515,9 +1515,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Lime
@@ -1525,9 +1525,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Lime
@@ -1535,9 +1535,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Magenta
@@ -1545,9 +1545,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Magenta
@@ -1555,9 +1555,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Orange
@@ -1565,9 +1565,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Orange
@@ -1575,9 +1575,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Pink
@@ -1585,9 +1585,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Pink
@@ -1595,9 +1595,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Purple
@@ -1605,9 +1605,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Purple
@@ -1615,9 +1615,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair
@@ -1625,8 +1625,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Red
@@ -1634,9 +1634,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Red
@@ -1644,9 +1644,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair White
@@ -1654,9 +1654,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair White
@@ -1664,9 +1664,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Chair Yellow
@@ -1674,9 +1674,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Chair Yellow
@@ -1684,9 +1684,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_crimson_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Crimson Chair | ![crimson_chair](../images/exlinefurniture_ceiling_fan_crimson.png) |
 
 ---
 ## Crimson Dresser
@@ -1694,9 +1694,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Glass Table
@@ -1704,9 +1704,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Black
@@ -1714,9 +1714,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Blue
@@ -1724,9 +1724,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Brown
@@ -1734,9 +1734,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Gray
@@ -1744,9 +1744,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Green
@@ -1754,9 +1754,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Light Blue
@@ -1764,9 +1764,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Light Gray
@@ -1774,9 +1774,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Lime
@@ -1784,9 +1784,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Magenta
@@ -1794,9 +1794,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Orange
@@ -1804,9 +1804,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Pink
@@ -1814,9 +1814,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Purple
@@ -1824,9 +1824,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Red
@@ -1834,9 +1834,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp White
@@ -1844,9 +1844,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Lamp Yellow
@@ -1854,9 +1854,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Log Glass Table
@@ -1864,9 +1864,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Stem | ![crimson_stem](../images/exlinefurniture_crimson_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Crimson Stem | ![crimson_stem](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Log Table
@@ -1874,8 +1874,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Stem | ![crimson_stem](../images/exlinefurniture_crimson_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Crimson Stem | ![crimson_stem](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Stripped Log Glass Table
@@ -1883,9 +1883,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/exlinefurniture_stripped_crimson_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Stripped Log Table
@@ -1893,8 +1893,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/exlinefurniture_stripped_crimson_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Crimson Stem | ![stripped_crimson_stem](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Table
@@ -1902,8 +1902,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_crimson_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Crimson Slab | ![crimson_slab](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Window Web
@@ -1911,9 +1911,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -1935,8 +1935,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Bench
@@ -1944,8 +1944,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Black
@@ -1953,9 +1953,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Black
@@ -1963,9 +1963,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Blue
@@ -1973,9 +1973,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Blue
@@ -1983,9 +1983,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Brown
@@ -1993,9 +1993,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Brown
@@ -2003,9 +2003,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Cyan
@@ -2013,9 +2013,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Cyan
@@ -2023,9 +2023,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Gray
@@ -2033,9 +2033,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Gray
@@ -2043,9 +2043,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Green
@@ -2053,9 +2053,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Green
@@ -2063,9 +2063,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Light Blue
@@ -2073,9 +2073,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Light Blue
@@ -2083,9 +2083,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Light Gray
@@ -2093,9 +2093,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Light Gray
@@ -2103,9 +2103,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Lime
@@ -2113,9 +2113,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Lime
@@ -2123,9 +2123,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Magenta
@@ -2133,9 +2133,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Magenta
@@ -2143,9 +2143,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Orange
@@ -2153,9 +2153,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Orange
@@ -2163,9 +2163,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Pink
@@ -2173,9 +2173,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Pink
@@ -2183,9 +2183,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Purple
@@ -2193,9 +2193,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Purple
@@ -2203,9 +2203,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair
@@ -2213,8 +2213,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Red
@@ -2222,9 +2222,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Red
@@ -2232,9 +2232,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair White
@@ -2242,9 +2242,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair White
@@ -2252,9 +2252,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Chair Yellow
@@ -2262,9 +2262,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Chair Yellow
@@ -2272,9 +2272,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_dark_oak_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Dark Oak Chair | ![dark_oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Dark Oak Dresser
@@ -2282,9 +2282,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Glass Table
@@ -2292,9 +2292,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Black
@@ -2302,9 +2302,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Blue
@@ -2312,9 +2312,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Brown
@@ -2322,9 +2322,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Cyan
@@ -2332,9 +2332,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Gray
@@ -2342,9 +2342,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Green
@@ -2352,9 +2352,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Light Blue
@@ -2362,9 +2362,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Light Gray
@@ -2372,9 +2372,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Lime
@@ -2382,9 +2382,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Magenta
@@ -2392,9 +2392,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Orange
@@ -2402,9 +2402,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Pink
@@ -2412,9 +2412,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Purple
@@ -2422,9 +2422,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Red
@@ -2432,9 +2432,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp White
@@ -2442,9 +2442,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Lamp Yellow
@@ -2452,9 +2452,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Log Glass Table
@@ -2462,9 +2462,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Log | ![dark_oak_log](../images/exlinefurniture_dark_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Log Table
@@ -2472,8 +2472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Log | ![dark_oak_log](../images/exlinefurniture_dark_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Dark Oak Log | ![dark_oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Stripped Log Glass Table
@@ -2481,9 +2481,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/exlinefurniture_stripped_dark_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Stripped Log Table
@@ -2491,8 +2491,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/exlinefurniture_stripped_dark_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Table
@@ -2500,8 +2500,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_dark_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Dark Oak Slab | ![dark_oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Window Web
@@ -2509,9 +2509,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Black
@@ -2519,8 +2519,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Black Wool | ![black_wool](../images/exlinefurniture_black_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Black Wool | ![black_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Blue
@@ -2528,8 +2528,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Blue Wool | ![blue_wool](../images/exlinefurniture_blue_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Blue Wool | ![blue_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Brown
@@ -2537,8 +2537,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Brown Wool | ![brown_wool](../images/exlinefurniture_brown_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Brown Wool | ![brown_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Cyan
@@ -2546,8 +2546,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Cyan Wool | ![cyan_wool](../images/exlinefurniture_cyan_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Cyan Wool | ![cyan_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Gray
@@ -2555,8 +2555,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Gray Wool | ![gray_wool](../images/exlinefurniture_gray_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Gray Wool | ![gray_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Green
@@ -2564,8 +2564,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Green Wool | ![green_wool](../images/exlinefurniture_green_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Green Wool | ![green_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Light Blue
@@ -2573,8 +2573,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Light Blue Wool | ![light_blue_wool](../images/exlinefurniture_light_blue_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Light Gray
@@ -2582,8 +2582,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Light Gray Wool | ![light_gray_wool](../images/exlinefurniture_light_gray_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Lime
@@ -2591,8 +2591,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Lime Wool | ![lime_wool](../images/exlinefurniture_lime_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Lime Wool | ![lime_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Magenta
@@ -2600,8 +2600,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Magenta Wool | ![magenta_wool](../images/exlinefurniture_magenta_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Magenta Wool | ![magenta_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Orange
@@ -2609,8 +2609,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Orange Wool | ![orange_wool](../images/exlinefurniture_orange_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Orange Wool | ![orange_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Pink
@@ -2618,8 +2618,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Pink Wool | ![pink_wool](../images/exlinefurniture_pink_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Pink Wool | ![pink_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Purple
@@ -2627,8 +2627,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Purple Wool | ![purple_wool](../images/exlinefurniture_purple_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Purple Wool | ![purple_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Red
@@ -2636,8 +2636,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Red Wool | ![red_wool](../images/exlinefurniture_red_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Red Wool | ![red_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes White
@@ -2645,8 +2645,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | White Wool | ![white_wool](../images/exlinefurniture_white_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | White Wool | ![white_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Drapes Yellow
@@ -2654,8 +2654,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Yellow Wool | ![yellow_wool](../images/exlinefurniture_yellow_wool.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Yellow Wool | ![yellow_wool](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Faucet
@@ -2663,7 +2663,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Flatscreen Tv
@@ -2671,8 +2671,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_redstone_lamp.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement
@@ -2680,11 +2680,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_azure_bluet.png) |
-| D | Cornflower | ![cornflower](../images/exlinefurniture_cornflower.png) |
-| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_blue_orchid.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_blue_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_action.png) |
+| D | Cornflower | ![cornflower](../images/exlinefurniture_action.png) |
+| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_action.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement2
@@ -2692,11 +2692,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_oxeye_daisy.png) |
-| D | Poppy | ![poppy](../images/exlinefurniture_poppy.png) |
-| R | Dandelion | ![dandelion](../images/exlinefurniture_dandelion.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_yellow_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_action.png) |
+| D | Poppy | ![poppy](../images/exlinefurniture_action.png) |
+| R | Dandelion | ![dandelion](../images/exlinefurniture_action.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement2
@@ -2704,11 +2704,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_oxeye_daisy.png) |
-| D | Poppy | ![poppy](../images/exlinefurniture_poppy.png) |
-| R | Dandelion | ![dandelion](../images/exlinefurniture_dandelion.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_yellow_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_action.png) |
+| D | Poppy | ![poppy](../images/exlinefurniture_action.png) |
+| R | Dandelion | ![dandelion](../images/exlinefurniture_action.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement2
@@ -2716,11 +2716,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_oxeye_daisy.png) |
-| D | Poppy | ![poppy](../images/exlinefurniture_poppy.png) |
-| R | Dandelion | ![dandelion](../images/exlinefurniture_dandelion.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_yellow_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_action.png) |
+| D | Poppy | ![poppy](../images/exlinefurniture_action.png) |
+| R | Dandelion | ![dandelion](../images/exlinefurniture_action.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement2
@@ -2728,11 +2728,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_oxeye_daisy.png) |
-| D | Poppy | ![poppy](../images/exlinefurniture_poppy.png) |
-| R | Dandelion | ![dandelion](../images/exlinefurniture_dandelion.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_yellow_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_action.png) |
+| D | Poppy | ![poppy](../images/exlinefurniture_action.png) |
+| R | Dandelion | ![dandelion](../images/exlinefurniture_action.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement2
@@ -2740,11 +2740,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_oxeye_daisy.png) |
-| D | Poppy | ![poppy](../images/exlinefurniture_poppy.png) |
-| R | Dandelion | ![dandelion](../images/exlinefurniture_dandelion.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_yellow_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_action.png) |
+| D | Poppy | ![poppy](../images/exlinefurniture_action.png) |
+| R | Dandelion | ![dandelion](../images/exlinefurniture_action.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement2
@@ -2752,11 +2752,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_oxeye_daisy.png) |
-| D | Poppy | ![poppy](../images/exlinefurniture_poppy.png) |
-| R | Dandelion | ![dandelion](../images/exlinefurniture_dandelion.png) |
-| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_yellow_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Oxeye Daisy | ![oxeye_daisy](../images/exlinefurniture_action.png) |
+| D | Poppy | ![poppy](../images/exlinefurniture_action.png) |
+| R | Dandelion | ![dandelion](../images/exlinefurniture_action.png) |
+| T | Yellow Terracotta | ![yellow_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement3
@@ -2764,11 +2764,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Allium | ![allium](../images/exlinefurniture_allium.png) |
-| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_lily_of_the_valley.png) |
-| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_pink_tulip.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_purple_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Allium | ![allium](../images/exlinefurniture_action.png) |
+| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_action.png) |
+| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_action.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement3
@@ -2776,11 +2776,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Allium | ![allium](../images/exlinefurniture_allium.png) |
-| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_lily_of_the_valley.png) |
-| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_pink_tulip.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_purple_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Allium | ![allium](../images/exlinefurniture_action.png) |
+| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_action.png) |
+| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_action.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement3
@@ -2788,11 +2788,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Allium | ![allium](../images/exlinefurniture_allium.png) |
-| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_lily_of_the_valley.png) |
-| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_pink_tulip.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_purple_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Allium | ![allium](../images/exlinefurniture_action.png) |
+| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_action.png) |
+| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_action.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement3
@@ -2800,11 +2800,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Allium | ![allium](../images/exlinefurniture_allium.png) |
-| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_lily_of_the_valley.png) |
-| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_pink_tulip.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_purple_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Allium | ![allium](../images/exlinefurniture_action.png) |
+| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_action.png) |
+| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_action.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement3
@@ -2812,11 +2812,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Allium | ![allium](../images/exlinefurniture_allium.png) |
-| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_lily_of_the_valley.png) |
-| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_pink_tulip.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_purple_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Allium | ![allium](../images/exlinefurniture_action.png) |
+| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_action.png) |
+| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_action.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement3
@@ -2824,11 +2824,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Allium | ![allium](../images/exlinefurniture_allium.png) |
-| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_lily_of_the_valley.png) |
-| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_pink_tulip.png) |
-| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_purple_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Allium | ![allium](../images/exlinefurniture_action.png) |
+| D | Lily Of The Valley | ![lily_of_the_valley](../images/exlinefurniture_action.png) |
+| R | Pink Tulip | ![pink_tulip](../images/exlinefurniture_action.png) |
+| T | Purple Terracotta | ![purple_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement4
@@ -2836,11 +2836,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Tulip | ![white_tulip](../images/exlinefurniture_white_tulip.png) |
-| D | Red Tulip | ![red_tulip](../images/exlinefurniture_red_tulip.png) |
-| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_orange_tulip.png) |
-| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_green_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | White Tulip | ![white_tulip](../images/exlinefurniture_action.png) |
+| D | Red Tulip | ![red_tulip](../images/exlinefurniture_action.png) |
+| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_action.png) |
+| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement4
@@ -2848,11 +2848,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Tulip | ![white_tulip](../images/exlinefurniture_white_tulip.png) |
-| D | Red Tulip | ![red_tulip](../images/exlinefurniture_red_tulip.png) |
-| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_orange_tulip.png) |
-| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_green_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | White Tulip | ![white_tulip](../images/exlinefurniture_action.png) |
+| D | Red Tulip | ![red_tulip](../images/exlinefurniture_action.png) |
+| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_action.png) |
+| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement4
@@ -2860,11 +2860,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Tulip | ![white_tulip](../images/exlinefurniture_white_tulip.png) |
-| D | Red Tulip | ![red_tulip](../images/exlinefurniture_red_tulip.png) |
-| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_orange_tulip.png) |
-| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_green_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | White Tulip | ![white_tulip](../images/exlinefurniture_action.png) |
+| D | Red Tulip | ![red_tulip](../images/exlinefurniture_action.png) |
+| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_action.png) |
+| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement4
@@ -2872,11 +2872,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Tulip | ![white_tulip](../images/exlinefurniture_white_tulip.png) |
-| D | Red Tulip | ![red_tulip](../images/exlinefurniture_red_tulip.png) |
-| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_orange_tulip.png) |
-| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_green_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | White Tulip | ![white_tulip](../images/exlinefurniture_action.png) |
+| D | Red Tulip | ![red_tulip](../images/exlinefurniture_action.png) |
+| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_action.png) |
+| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement4
@@ -2884,11 +2884,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Tulip | ![white_tulip](../images/exlinefurniture_white_tulip.png) |
-| D | Red Tulip | ![red_tulip](../images/exlinefurniture_red_tulip.png) |
-| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_orange_tulip.png) |
-| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_green_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | White Tulip | ![white_tulip](../images/exlinefurniture_action.png) |
+| D | Red Tulip | ![red_tulip](../images/exlinefurniture_action.png) |
+| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_action.png) |
+| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement4
@@ -2896,11 +2896,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Tulip | ![white_tulip](../images/exlinefurniture_white_tulip.png) |
-| D | Red Tulip | ![red_tulip](../images/exlinefurniture_red_tulip.png) |
-| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_orange_tulip.png) |
-| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_green_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | White Tulip | ![white_tulip](../images/exlinefurniture_action.png) |
+| D | Red Tulip | ![red_tulip](../images/exlinefurniture_action.png) |
+| R | Orange Tulip | ![orange_tulip](../images/exlinefurniture_action.png) |
+| T | Green Terracotta | ![green_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement
@@ -2908,11 +2908,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_azure_bluet.png) |
-| D | Cornflower | ![cornflower](../images/exlinefurniture_cornflower.png) |
-| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_blue_orchid.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_blue_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_action.png) |
+| D | Cornflower | ![cornflower](../images/exlinefurniture_action.png) |
+| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_action.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement
@@ -2920,11 +2920,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_azure_bluet.png) |
-| D | Cornflower | ![cornflower](../images/exlinefurniture_cornflower.png) |
-| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_blue_orchid.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_blue_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_action.png) |
+| D | Cornflower | ![cornflower](../images/exlinefurniture_action.png) |
+| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_action.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement
@@ -2932,11 +2932,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_azure_bluet.png) |
-| D | Cornflower | ![cornflower](../images/exlinefurniture_cornflower.png) |
-| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_blue_orchid.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_blue_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_action.png) |
+| D | Cornflower | ![cornflower](../images/exlinefurniture_action.png) |
+| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_action.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement
@@ -2944,11 +2944,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_azure_bluet.png) |
-| D | Cornflower | ![cornflower](../images/exlinefurniture_cornflower.png) |
-| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_blue_orchid.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_blue_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_action.png) |
+| D | Cornflower | ![cornflower](../images/exlinefurniture_action.png) |
+| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_action.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Flower Arrangement
@@ -2956,11 +2956,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_azure_bluet.png) |
-| D | Cornflower | ![cornflower](../images/exlinefurniture_cornflower.png) |
-| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_blue_orchid.png) |
-| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_blue_terracotta.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| F | Azure Bluet | ![azure_bluet](../images/exlinefurniture_action.png) |
+| D | Cornflower | ![cornflower](../images/exlinefurniture_action.png) |
+| R | Blue Orchid | ![blue_orchid](../images/exlinefurniture_action.png) |
+| T | Blue Terracotta | ![blue_terracotta](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## Fridge
@@ -2968,8 +2968,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
-| C | Ice | ![ice](../images/exlinefurniture_ice.png) |
+| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
+| C | Ice | ![ice](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Black
@@ -2977,9 +2977,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Black Concrete | ![black_concrete](../images/exlinefurniture_black_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Black Concrete | ![black_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Blue
@@ -2987,9 +2987,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Concrete | ![blue_concrete](../images/exlinefurniture_blue_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Blue Concrete | ![blue_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Brown
@@ -2997,9 +2997,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Brown Concrete | ![brown_concrete](../images/exlinefurniture_brown_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Brown Concrete | ![brown_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Cyan
@@ -3007,9 +3007,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cyan Concrete | ![cyan_concrete](../images/exlinefurniture_cyan_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Cyan Concrete | ![cyan_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Gray
@@ -3017,9 +3017,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Gray Concrete | ![gray_concrete](../images/exlinefurniture_gray_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Gray Concrete | ![gray_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Green
@@ -3027,9 +3027,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Concrete | ![green_concrete](../images/exlinefurniture_green_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Green Concrete | ![green_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Light Blue
@@ -3037,9 +3037,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Light Blue Concrete | ![light_blue_concrete](../images/exlinefurniture_light_blue_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Light Blue Concrete | ![light_blue_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Light Gray
@@ -3047,9 +3047,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Light Gray Concrete | ![light_gray_concrete](../images/exlinefurniture_light_gray_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Light Gray Concrete | ![light_gray_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Lime
@@ -3057,9 +3057,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lime Concrete | ![lime_concrete](../images/exlinefurniture_lime_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Lime Concrete | ![lime_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Magenta
@@ -3067,9 +3067,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Magenta Concrete | ![magenta_concrete](../images/exlinefurniture_magenta_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Magenta Concrete | ![magenta_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Orange
@@ -3077,9 +3077,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Orange Concrete | ![orange_concrete](../images/exlinefurniture_orange_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Orange Concrete | ![orange_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Pink
@@ -3087,9 +3087,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pink Concrete | ![pink_concrete](../images/exlinefurniture_pink_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Pink Concrete | ![pink_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Purple
@@ -3097,9 +3097,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Purple Concrete | ![purple_concrete](../images/exlinefurniture_purple_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Purple Concrete | ![purple_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Red
@@ -3107,9 +3107,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Red Concrete | ![red_concrete](../images/exlinefurniture_red_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Red Concrete | ![red_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair White
@@ -3117,9 +3117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Concrete | ![white_concrete](../images/exlinefurniture_white_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | White Concrete | ![white_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Froggy Chair Yellow
@@ -3127,9 +3127,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Yellow Concrete | ![yellow_concrete](../images/exlinefurniture_yellow_concrete.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Yellow Concrete | ![yellow_concrete](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Gravestone
@@ -3137,7 +3137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/exlinefurniture_stone.png) |
+| S | Stone | ![stone](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -3159,8 +3159,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rotten Flesh | ![rotten_flesh](../images/exlinefurniture_rotten_flesh.png) |
-| D | Sand | ![sand](../images/exlinefurniture_sand.png) |
+| F | Rotten Flesh | ![rotten_flesh](../images/exlinefurniture_action.png) |
+| D | Sand | ![sand](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -3182,8 +3182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Bench
@@ -3191,8 +3191,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Black
@@ -3200,9 +3200,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Black
@@ -3210,9 +3210,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Blue
@@ -3220,9 +3220,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Blue
@@ -3230,9 +3230,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Brown
@@ -3240,9 +3240,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Brown
@@ -3250,9 +3250,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Cyan
@@ -3260,9 +3260,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Cyan
@@ -3270,9 +3270,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Gray
@@ -3280,9 +3280,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Gray
@@ -3290,9 +3290,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Green
@@ -3300,9 +3300,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Green
@@ -3310,9 +3310,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Light Blue
@@ -3320,9 +3320,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Light Blue
@@ -3330,9 +3330,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Light Gray
@@ -3340,9 +3340,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Light Gray
@@ -3350,9 +3350,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Lime
@@ -3360,9 +3360,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Lime
@@ -3370,9 +3370,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Magenta
@@ -3380,9 +3380,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Magenta
@@ -3390,9 +3390,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Orange
@@ -3400,9 +3400,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Orange
@@ -3410,9 +3410,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Pink
@@ -3420,9 +3420,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Pink
@@ -3430,9 +3430,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Purple
@@ -3440,9 +3440,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Purple
@@ -3450,9 +3450,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair
@@ -3460,8 +3460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Red
@@ -3469,9 +3469,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Red
@@ -3479,9 +3479,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair White
@@ -3489,9 +3489,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair White
@@ -3499,9 +3499,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Chair Yellow
@@ -3509,9 +3509,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Chair Yellow
@@ -3519,9 +3519,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_jungle_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Jungle Chair | ![jungle_chair](../images/exlinefurniture_ceiling_fan_jungle.png) |
 
 ---
 ## Jungle Dresser
@@ -3529,9 +3529,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Glass Table
@@ -3539,9 +3539,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Black
@@ -3549,9 +3549,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Blue
@@ -3559,9 +3559,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Brown
@@ -3569,9 +3569,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Cyan
@@ -3579,9 +3579,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Gray
@@ -3589,9 +3589,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Green
@@ -3599,9 +3599,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Light Blue
@@ -3609,9 +3609,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Light Gray
@@ -3619,9 +3619,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Lime
@@ -3629,9 +3629,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Magenta
@@ -3639,9 +3639,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Orange
@@ -3649,9 +3649,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Pink
@@ -3659,9 +3659,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Purple
@@ -3669,9 +3669,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Red
@@ -3679,9 +3679,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp White
@@ -3689,9 +3689,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Lamp Yellow
@@ -3699,9 +3699,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Log Glass Table
@@ -3709,9 +3709,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Log | ![jungle_log](../images/exlinefurniture_jungle_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Jungle Log | ![jungle_log](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Log Table
@@ -3719,8 +3719,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Log | ![jungle_log](../images/exlinefurniture_jungle_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Jungle Log | ![jungle_log](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Stripped Log Glass Table
@@ -3728,9 +3728,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/exlinefurniture_stripped_jungle_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Stripped Log Table
@@ -3738,8 +3738,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Jungle Log | ![stripped_jungle_log](../images/exlinefurniture_stripped_jungle_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Jungle Log | ![stripped_jungle_log](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Table
@@ -3747,8 +3747,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_jungle_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Jungle Slab | ![jungle_slab](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Window Web
@@ -3756,9 +3756,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## Lantern Brick
@@ -3766,8 +3766,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Bricks | ![bricks](../images/exlinefurniture_bricks.png) |
-| S | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_redstone_lamp.png) |
+| W | Bricks | ![bricks](../images/exlinefurniture_action.png) |
+| S | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_action.png) |
 
 ---
 ## Lantern Stone
@@ -3775,8 +3775,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Stone Bricks | ![stone_bricks](../images/exlinefurniture_stone_bricks.png) |
-| S | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_redstone_lamp.png) |
+| W | Stone Bricks | ![stone_bricks](../images/exlinefurniture_action.png) |
+| S | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_action.png) |
 
 ---
 ## Light
@@ -3784,8 +3784,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
-| R | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_redstone_lamp.png) |
+| P | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
+| R | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -3828,8 +3828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Bench
@@ -3837,8 +3837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Black
@@ -3846,9 +3846,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Black
@@ -3856,9 +3856,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Blue
@@ -3866,9 +3866,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Blue
@@ -3876,9 +3876,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Brown
@@ -3886,9 +3886,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Brown
@@ -3896,9 +3896,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Cyan
@@ -3906,9 +3906,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Chair Cyan
@@ -3916,9 +3916,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Acacia Chair Gray
@@ -3926,9 +3926,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Gray
@@ -3936,9 +3936,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Green
@@ -3946,9 +3946,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Green
@@ -3956,9 +3956,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Light Blue
@@ -3966,9 +3966,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Light Blue
@@ -3976,9 +3976,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Light Gray
@@ -3986,9 +3986,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Light Gray
@@ -3996,9 +3996,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Lime
@@ -4006,9 +4006,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Lime
@@ -4016,9 +4016,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Magenta
@@ -4026,9 +4026,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Magenta
@@ -4036,9 +4036,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Orange
@@ -4046,9 +4046,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Orange
@@ -4056,9 +4056,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Pink
@@ -4066,9 +4066,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Pink
@@ -4076,9 +4076,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Purple
@@ -4086,9 +4086,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Purple
@@ -4096,9 +4096,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair
@@ -4106,8 +4106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Red
@@ -4115,9 +4115,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Red
@@ -4125,9 +4125,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair White
@@ -4135,9 +4135,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair White
@@ -4145,9 +4145,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Chair Yellow
@@ -4155,9 +4155,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Chair Yellow
@@ -4165,9 +4165,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_mangrove_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Mangrove Chair | ![mangrove_chair](../images/exlinefurniture_ceiling_fan_mangrove.png) |
 
 ---
 ## Mangrove Dresser
@@ -4175,9 +4175,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_mangrove_planks.png) |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Glass Table
@@ -4185,9 +4185,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Black
@@ -4195,9 +4195,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Blue
@@ -4205,9 +4205,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Brown
@@ -4215,9 +4215,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Cyan
@@ -4225,9 +4225,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Gray
@@ -4235,9 +4235,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Green
@@ -4245,9 +4245,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Light Blue
@@ -4255,9 +4255,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Light Gray
@@ -4265,9 +4265,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Lime
@@ -4275,9 +4275,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Lamp Magenta
@@ -4285,9 +4285,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_acacia_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Acacia Slab | ![acacia_slab](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Orange
@@ -4295,9 +4295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Pink
@@ -4305,9 +4305,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Purple
@@ -4315,9 +4315,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Red
@@ -4325,9 +4325,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp White
@@ -4335,9 +4335,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Lamp Yellow
@@ -4345,9 +4345,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Log Glass Table
@@ -4355,9 +4355,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Log | ![mangrove_log](../images/exlinefurniture_mangrove_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Mangrove Log | ![mangrove_log](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Log Table
@@ -4365,8 +4365,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Log | ![mangrove_log](../images/exlinefurniture_mangrove_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Mangrove Log | ![mangrove_log](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Stripped Log Glass Table
@@ -4374,9 +4374,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/exlinefurniture_stripped_mangrove_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Stripped Log Table
@@ -4384,8 +4384,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/exlinefurniture_stripped_mangrove_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Mangrove Log | ![stripped_mangrove_log](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Table
@@ -4393,8 +4393,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_mangrove_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Mangrove Slab | ![mangrove_slab](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Window Web
@@ -4402,9 +4402,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_mangrove_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -4419,8 +4419,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Bench
@@ -4428,8 +4428,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Black
@@ -4437,9 +4437,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Black
@@ -4447,9 +4447,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Blue
@@ -4457,9 +4457,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Blue
@@ -4467,9 +4467,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Brown
@@ -4477,9 +4477,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Brown
@@ -4487,9 +4487,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Cyan
@@ -4497,9 +4497,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Cyan
@@ -4507,9 +4507,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Gray
@@ -4517,9 +4517,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Gray
@@ -4527,9 +4527,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Green
@@ -4537,9 +4537,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Green
@@ -4547,9 +4547,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Light Blue
@@ -4557,9 +4557,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Light Blue
@@ -4567,9 +4567,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Light Gray
@@ -4577,9 +4577,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Light Gray
@@ -4587,9 +4587,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Lime
@@ -4597,9 +4597,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Light Gray
@@ -4607,9 +4607,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Magenta
@@ -4617,9 +4617,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Magenta
@@ -4627,9 +4627,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Orange
@@ -4637,9 +4637,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Orange
@@ -4647,9 +4647,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Pink
@@ -4657,9 +4657,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Pink
@@ -4667,9 +4667,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Purple
@@ -4677,9 +4677,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Purple
@@ -4687,9 +4687,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair
@@ -4697,8 +4697,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Red
@@ -4706,9 +4706,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Red
@@ -4716,9 +4716,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair White
@@ -4726,9 +4726,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair White
@@ -4736,9 +4736,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Chair Yellow
@@ -4746,9 +4746,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Chair Yellow
@@ -4756,9 +4756,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Oak Chair | ![oak_chair](../images/exlinefurniture_oak_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Oak Chair | ![oak_chair](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
 
 ---
 ## Oak Dresser
@@ -4766,9 +4766,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Glass Table
@@ -4776,9 +4776,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Black
@@ -4786,9 +4786,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Blue
@@ -4796,9 +4796,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Brown
@@ -4806,9 +4806,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Cyan
@@ -4816,9 +4816,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Gray
@@ -4826,9 +4826,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Green
@@ -4836,9 +4836,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Light Blue
@@ -4846,9 +4846,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Light Gray
@@ -4856,9 +4856,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Lime
@@ -4866,9 +4866,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Magenta
@@ -4876,9 +4876,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Orange
@@ -4886,9 +4886,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Pink
@@ -4896,9 +4896,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Purple
@@ -4906,9 +4906,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Red
@@ -4916,9 +4916,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp White
@@ -4926,9 +4926,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Lamp Yellow
@@ -4936,9 +4936,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Log Glass Table
@@ -4946,9 +4946,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Log | ![oak_log](../images/exlinefurniture_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Oak Log | ![oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Log Table
@@ -4956,8 +4956,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Log | ![oak_log](../images/exlinefurniture_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Oak Log | ![oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Stripped Log Glass Table
@@ -4965,9 +4965,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/exlinefurniture_stripped_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Stripped Log Table
@@ -4975,8 +4975,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Oak Log | ![stripped_oak_log](../images/exlinefurniture_stripped_oak_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Oak Log | ![stripped_oak_log](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Oak Table
@@ -4984,8 +4984,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Oak Slab | ![oak_slab](../images/exlinefurniture_oak_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Oak Slab | ![oak_slab](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Old Tv
@@ -4993,9 +4993,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_redstone_lamp.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
-| S | Stone | ![stone](../images/exlinefurniture_stone.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
+| S | Stone | ![stone](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5010,8 +5010,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Campfire | ![campfire](../images/exlinefurniture_campfire.png) |
-| B | Iron Ingot | ![iron_ingot](../images/exlinefurniture_iron_ingot.png) |
+| R | Campfire | ![campfire](../images/exlinefurniture_action.png) |
+| B | Iron Ingot | ![iron_ingot](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5040,9 +5040,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_redstone_lamp.png) |
-| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
-| W | Planks | ![planks](../images/exlinefurniture_planks.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/exlinefurniture_action.png) |
+| N | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
+| W | Planks | ![planks](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5057,8 +5057,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Birch
@@ -5066,8 +5066,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Crimson
@@ -5075,8 +5075,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Dark Oak
@@ -5084,8 +5084,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Jungle
@@ -5093,8 +5093,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Mangrove
@@ -5102,8 +5102,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_mangrove_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Oak
@@ -5111,8 +5111,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Spruce
@@ -5120,8 +5120,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Shutters Warped
@@ -5129,8 +5129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Skeleton Doll
@@ -5138,8 +5138,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Bone | ![bone](../images/exlinefurniture_bone.png) |
-| S | String | ![string](../images/exlinefurniture_string.png) |
+| I | Bone | ![bone](../images/exlinefurniture_action.png) |
+| S | String | ![string](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5154,9 +5154,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/exlinefurniture_string.png) |
-| B | Black Wool | ![black_wool](../images/exlinefurniture_black_wool.png) |
-| E | Spider Eye | ![spider_eye](../images/exlinefurniture_spider_eye.png) |
+| S | String | ![string](../images/exlinefurniture_action.png) |
+| B | Black Wool | ![black_wool](../images/exlinefurniture_action.png) |
+| E | Spider Eye | ![spider_eye](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5171,8 +5171,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Bench
@@ -5180,8 +5180,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Black
@@ -5189,9 +5189,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Black
@@ -5199,9 +5199,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Blue
@@ -5209,9 +5209,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Blue
@@ -5219,9 +5219,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Brown
@@ -5229,9 +5229,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Brown
@@ -5239,9 +5239,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Cyan
@@ -5249,9 +5249,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Cyan
@@ -5259,9 +5259,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Gray
@@ -5269,9 +5269,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Gray
@@ -5279,9 +5279,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Green
@@ -5289,9 +5289,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Green
@@ -5299,9 +5299,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Light Blue
@@ -5309,9 +5309,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Light Blue
@@ -5319,9 +5319,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Light Gray
@@ -5329,9 +5329,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Light Gray
@@ -5339,9 +5339,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Lime
@@ -5349,9 +5349,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Lime
@@ -5359,9 +5359,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Magenta
@@ -5369,9 +5369,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Magenta
@@ -5379,9 +5379,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Orange
@@ -5389,9 +5389,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Orange
@@ -5399,9 +5399,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Pink
@@ -5409,9 +5409,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Pink
@@ -5419,9 +5419,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Purple
@@ -5429,9 +5429,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Purple
@@ -5439,9 +5439,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair
@@ -5449,8 +5449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Red
@@ -5458,9 +5458,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Red
@@ -5468,9 +5468,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair White
@@ -5478,9 +5478,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair White
@@ -5488,9 +5488,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Chair Yellow
@@ -5498,9 +5498,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Chair Yellow
@@ -5508,9 +5508,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_spruce_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Spruce Chair | ![spruce_chair](../images/exlinefurniture_ceiling_fan_spruce.png) |
 
 ---
 ## Spruce Dresser
@@ -5518,9 +5518,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Glass Table
@@ -5528,9 +5528,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Black
@@ -5538,9 +5538,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Blue
@@ -5548,9 +5548,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Brown
@@ -5558,9 +5558,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Cyan
@@ -5568,9 +5568,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Gray
@@ -5578,9 +5578,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Green
@@ -5588,9 +5588,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Light Blue
@@ -5598,9 +5598,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Light Gray
@@ -5608,9 +5608,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Lime
@@ -5618,9 +5618,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Magenta
@@ -5628,9 +5628,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Orange
@@ -5638,9 +5638,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Pink
@@ -5648,9 +5648,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Purple
@@ -5658,9 +5658,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Red
@@ -5668,9 +5668,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp White
@@ -5678,9 +5678,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Lamp Yellow
@@ -5688,9 +5688,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Log Glass Table
@@ -5698,9 +5698,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Log | ![spruce_log](../images/exlinefurniture_spruce_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Spruce Log | ![spruce_log](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Log Table
@@ -5708,8 +5708,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Log | ![spruce_log](../images/exlinefurniture_spruce_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Spruce Log | ![spruce_log](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Stripped Log Glass Table
@@ -5717,9 +5717,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/exlinefurniture_stripped_spruce_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Stripped Log Table
@@ -5727,8 +5727,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Spruce Log | ![stripped_spruce_log](../images/exlinefurniture_stripped_spruce_log.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Spruce Log | ![stripped_spruce_log](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Table
@@ -5736,8 +5736,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_spruce_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Spruce Slab | ![spruce_slab](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Window Web
@@ -5745,9 +5745,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5762,9 +5762,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/exlinefurniture_redstone.png) |
-| B | Bread | ![bread](../images/exlinefurniture_bread.png) |
+| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
+| R | Redstone | ![redstone](../images/exlinefurniture_action.png) |
+| B | Bread | ![bread](../images/exlinefurniture_action.png) |
 
 ---
 ## Toilet
@@ -5772,8 +5772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_iron_nugget.png) |
-| W | Water Bucket | ![water_bucket](../images/exlinefurniture_water_bucket.png) |
+| I | Iron Nugget | ![iron_nugget](../images/exlinefurniture_action.png) |
+| W | Water Bucket | ![water_bucket](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -5788,8 +5788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Bench
@@ -5797,8 +5797,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| F | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| F | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Black
@@ -5806,9 +5806,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Black
@@ -5816,9 +5816,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Blue
@@ -5826,9 +5826,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Blue
@@ -5836,9 +5836,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Brown
@@ -5846,9 +5846,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Brown
@@ -5856,9 +5856,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Cyan
@@ -5866,9 +5866,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Cyan
@@ -5876,9 +5876,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Gray
@@ -5886,9 +5886,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Gray
@@ -5896,9 +5896,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Green
@@ -5906,9 +5906,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Green
@@ -5916,9 +5916,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Light Blue
@@ -5926,9 +5926,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Light Blue
@@ -5936,9 +5936,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Light Gray
@@ -5946,9 +5946,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Light Gray
@@ -5956,9 +5956,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Lime
@@ -5966,9 +5966,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Lime
@@ -5976,9 +5976,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Magenta
@@ -5986,9 +5986,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Magenta
@@ -5996,9 +5996,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Orange
@@ -6006,9 +6006,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Orange
@@ -6016,9 +6016,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Pink
@@ -6026,9 +6026,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Pink
@@ -6036,9 +6036,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Purple
@@ -6046,9 +6046,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Purple
@@ -6056,9 +6056,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair
@@ -6066,8 +6066,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Red
@@ -6075,9 +6075,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Red
@@ -6085,9 +6085,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair White
@@ -6095,9 +6095,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair White
@@ -6105,9 +6105,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Chair Yellow
@@ -6115,9 +6115,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Chair Yellow
@@ -6125,9 +6125,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
-| - | Warped Chair | ![warped_chair](../images/exlinefurniture_warped_chair.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
+| - | Warped Chair | ![warped_chair](../images/exlinefurniture_ceiling_fan_warped.png) |
 
 ---
 ## Warped Dresser
@@ -6135,9 +6135,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| T | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| T | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Glass Table
@@ -6145,9 +6145,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Black
@@ -6155,9 +6155,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Black Carpet | ![black_carpet](../images/exlinefurniture_black_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Black Carpet | ![black_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Blue
@@ -6165,9 +6165,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_blue_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Blue Carpet | ![blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Brown
@@ -6175,9 +6175,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_brown_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Brown Carpet | ![brown_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Cyan
@@ -6185,9 +6185,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_cyan_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Cyan Carpet | ![cyan_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Gray
@@ -6195,9 +6195,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_gray_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Gray Carpet | ![gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Green
@@ -6205,9 +6205,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Green Carpet | ![green_carpet](../images/exlinefurniture_green_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Green Carpet | ![green_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Light Blue
@@ -6215,9 +6215,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_light_blue_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Blue Carpet | ![light_blue_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Light Gray
@@ -6225,9 +6225,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_light_gray_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Light Gray Carpet | ![light_gray_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Lime
@@ -6235,9 +6235,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_lime_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Lime Carpet | ![lime_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Magenta
@@ -6245,9 +6245,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_magenta_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Magenta Carpet | ![magenta_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Orange
@@ -6255,9 +6255,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_orange_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Orange Carpet | ![orange_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Pink
@@ -6265,9 +6265,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_pink_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Pink Carpet | ![pink_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Purple
@@ -6275,9 +6275,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_purple_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Purple Carpet | ![purple_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Red
@@ -6285,9 +6285,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Red Carpet | ![red_carpet](../images/exlinefurniture_red_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Red Carpet | ![red_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp White
@@ -6295,9 +6295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | White Carpet | ![white_carpet](../images/exlinefurniture_white_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | White Carpet | ![white_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Lamp Yellow
@@ -6305,9 +6305,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_redstone_torch.png) |
-| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_yellow_carpet.png) |
+| S | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| L | Redstone Torch | ![redstone_torch](../images/exlinefurniture_action.png) |
+| W | Yellow Carpet | ![yellow_carpet](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Log Glass Table
@@ -6315,9 +6315,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Stem | ![warped_stem](../images/exlinefurniture_warped_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Warped Stem | ![warped_stem](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Log Table
@@ -6325,8 +6325,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Stem | ![warped_stem](../images/exlinefurniture_warped_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Warped Stem | ![warped_stem](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Stripped Log Glass Table
@@ -6334,9 +6334,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/exlinefurniture_stripped_warped_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
-| G | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
+| G | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Stripped Log Table
@@ -6344,8 +6344,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Stripped Warped Stem | ![stripped_warped_stem](../images/exlinefurniture_stripped_warped_stem.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Stripped Warped Stem | ![stripped_warped_stem](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Table
@@ -6353,8 +6353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Warped Slab | ![warped_slab](../images/exlinefurniture_warped_slab.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| P | Warped Slab | ![warped_slab](../images/exlinefurniture_ceiling_fan_warped.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Window Web
@@ -6362,9 +6362,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## {}
@@ -6379,9 +6379,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Window
@@ -6389,9 +6389,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Window
@@ -6399,9 +6399,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Window
@@ -6409,9 +6409,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Window
@@ -6419,9 +6419,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Window Heart
@@ -6429,9 +6429,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Window Heart
@@ -6439,9 +6439,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Window Heart
@@ -6449,9 +6449,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Window Heart
@@ -6459,9 +6459,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Window Heart
@@ -6469,9 +6469,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Window Heart
@@ -6479,9 +6479,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Window Heart
@@ -6489,9 +6489,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Window Heart
@@ -6499,9 +6499,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Window
@@ -6509,9 +6509,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Window
@@ -6519,9 +6519,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_mangrove_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Window Slider
@@ -6529,9 +6529,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Window Slider
@@ -6539,9 +6539,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Window Slider
@@ -6549,9 +6549,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Window Slider
@@ -6559,9 +6559,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Window Slider
@@ -6569,9 +6569,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Window Slider
@@ -6579,9 +6579,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Window Slider
@@ -6589,9 +6589,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_mangrove_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Window Slider
@@ -6599,9 +6599,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Window Slider
@@ -6609,9 +6609,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Window Sliding
@@ -6619,9 +6619,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Acacia Window Sliding
@@ -6629,9 +6629,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_acacia_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Acacia Planks | ![acacia_planks](../images/exlinefurniture_ceiling_fan_acacia.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Birch Window Sliding
@@ -6639,9 +6639,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Birch Planks | ![birch_planks](../images/exlinefurniture_birch_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Birch Planks | ![birch_planks](../images/exlinefurniture_ceiling_fan_birch.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Crimson Window Sliding
@@ -6649,9 +6649,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_crimson_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Crimson Planks | ![crimson_planks](../images/exlinefurniture_ceiling_fan_crimson.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Dark Oak Window Sliding
@@ -6659,9 +6659,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_dark_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Dark Oak Planks | ![dark_oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Jungle Window Sliding
@@ -6669,9 +6669,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_jungle_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Jungle Planks | ![jungle_planks](../images/exlinefurniture_ceiling_fan_jungle.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Mangrove Window Sliding
@@ -6679,9 +6679,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_mangrove_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Mangrove Planks | ![mangrove_planks](../images/exlinefurniture_ceiling_fan_mangrove.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Window Sliding
@@ -6689,9 +6689,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Window Sliding
@@ -6699,9 +6699,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Spruce Window
@@ -6709,9 +6709,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_spruce_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Spruce Planks | ![spruce_planks](../images/exlinefurniture_ceiling_fan_spruce.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Warped Window
@@ -6719,9 +6719,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Warped Planks | ![warped_planks](../images/exlinefurniture_warped_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Stick | ![stick](../images/exlinefurniture_stick.png) |
+| W | Warped Planks | ![warped_planks](../images/exlinefurniture_ceiling_fan_warped.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Stick | ![stick](../images/exlinefurniture_action.png) |
 
 ---
 ## Window Web
@@ -6729,9 +6729,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Oak Planks | ![oak_planks](../images/exlinefurniture_oak_planks.png) |
-| P | Glass Pane | ![glass_pane](../images/exlinefurniture_glass_pane.png) |
-| S | Cobweb | ![cobweb](../images/exlinefurniture_cobweb.png) |
+| W | Oak Planks | ![oak_planks](../images/exlinefurniture_ceiling_fan_dark_oak.png) |
+| P | Glass Pane | ![glass_pane](../images/exlinefurniture_action.png) |
+| S | Cobweb | ![cobweb](../images/exlinefurniture_action.png) |
 
 ---
 ## Wither Skeleton Doll
@@ -6739,8 +6739,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Coal | ![coal](../images/exlinefurniture_coal.png) |
-| S | Skeleton Doll | ![skeleton_doll](../images/exlinefurniture_skeleton_doll.png) |
+| I | Coal | ![coal](../images/exlinefurniture_action.png) |
+| S | Skeleton Doll | ![skeleton_doll](../images/exlinefurniture_skeleton_part1.png) |
 
 ---
 ## {}
@@ -6755,7 +6755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rotten Flesh | ![rotten_flesh](../images/exlinefurniture_rotten_flesh.png) |
-| D | Dirt | ![dirt](../images/exlinefurniture_dirt.png) |
+| F | Rotten Flesh | ![rotten_flesh](../images/exlinefurniture_action.png) |
+| D | Dirt | ![dirt](../images/exlinefurniture_action.png) |
 
 ---

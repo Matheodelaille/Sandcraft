@@ -7,10 +7,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk | ![milk](../images/neapolitan_milk.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/neapolitan_cocoa_beans.png) |
-| - | Sugar | ![sugar](../images/neapolitan_sugar.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/neapolitan_cocoa_beans.png) |
+| - | Milk | ![milk](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Sugar | ![sugar](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/neapolitan_chiseled_chocolate_bricks.png) |
 
 ---
 ## Chocolate Bricks
@@ -26,11 +26,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Milk | ![milk](../images/neapolitan_milk.png) |
-| B | Sugar | ![sugar](../images/neapolitan_sugar.png) |
-| C | Wheat | ![wheat](../images/neapolitan_wheat.png) |
+| A | Milk | ![milk](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| B | Sugar | ![sugar](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| C | Wheat | ![wheat](../images/neapolitan_chiseled_chocolate_bricks.png) |
 | D | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
-| E | Eggs | ![eggs](../images/neapolitan_eggs.png) |
+| E | Eggs | ![eggs](../images/neapolitan_chiseled_chocolate_bricks.png) |
 
 ---
 ## Chocolate Ice Cream
@@ -38,11 +38,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/neapolitan_bowl.png) |
+| - | Bowl | ![bowl](../images/neapolitan_chiseled_chocolate_bricks.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
-| - | Milk | ![milk](../images/neapolitan_milk.png) |
-| - | Ice Cubes | ![ice_cubes](../images/neapolitan_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/neapolitan_sugar.png) |
+| - | Milk | ![milk](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Ice Cubes | ![ice_cubes](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Sugar | ![sugar](../images/neapolitan_chiseled_chocolate_bricks.png) |
 
 ---
 ## Chocolate Milkshake
@@ -50,12 +50,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/neapolitan_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/neapolitan_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/neapolitan_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Glass Bottle | ![glass_bottle](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Glass Bottle | ![glass_bottle](../images/neapolitan_chiseled_chocolate_bricks.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
-| - | Vanilla Ice Cream | ![vanilla_ice_cream](../images/neapolitan_vanilla_ice_cream.png) |
-| - | Milk | ![milk](../images/neapolitan_milk.png) |
+| - | Vanilla Ice Cream | ![vanilla_ice_cream](../images/neapolitan_vanilla_chocolate_fingers.png) |
+| - | Milk | ![milk](../images/neapolitan_chiseled_chocolate_bricks.png) |
 
 ---
 ## Chocolate Spider Eye
@@ -63,8 +63,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spider Eye | ![spider_eye](../images/neapolitan_spider_eye.png) |
-| - | Spider Eye | ![spider_eye](../images/neapolitan_spider_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/neapolitan_chocolate_spider_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/neapolitan_chocolate_spider_eye.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
 
 ---
@@ -83,7 +83,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
-| - | Mint Leaves | ![mint_leaves](../images/neapolitan_mint_leaves.png) |
+| - | Mint Leaves | ![mint_leaves](../images/neapolitan_mint_chocolate.png) |
 
 ---
 ## Neapolitan Ice Cream
@@ -91,13 +91,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/neapolitan_bowl.png) |
+| - | Bowl | ![bowl](../images/neapolitan_chiseled_chocolate_bricks.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/neapolitan_dried_vanilla_pods.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/neapolitan_vanilla_chocolate_fingers.png) |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/neapolitan_fruits/strawberry.png) |
-| - | Milk | ![milk](../images/neapolitan_milk.png) |
-| - | Ice Cubes | ![ice_cubes](../images/neapolitan_ice_cubes.png) |
-| - | Sugar | ![sugar](../images/neapolitan_sugar.png) |
+| - | Milk | ![milk](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Ice Cubes | ![ice_cubes](../images/neapolitan_chiseled_chocolate_bricks.png) |
+| - | Sugar | ![sugar](../images/neapolitan_chiseled_chocolate_bricks.png) |
 
 ---
 ## Neapolitan Ice Cream
@@ -105,7 +105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vanilla Ice Cream | ![vanilla_ice_cream](../images/neapolitan_vanilla_ice_cream.png) |
+| - | Vanilla Ice Cream | ![vanilla_ice_cream](../images/neapolitan_vanilla_chocolate_fingers.png) |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
 | - | Fruits/Strawberry | ![fruits/strawberry](../images/neapolitan_fruits/strawberry.png) |
 
@@ -116,6 +116,6 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Bars/Chocolate | ![bars/chocolate](../images/neapolitan_bars/chocolate.png) |
-| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/neapolitan_dried_vanilla_pods.png) |
+| - | Dried Vanilla Pods | ![dried_vanilla_pods](../images/neapolitan_vanilla_chocolate_fingers.png) |
 
 ---

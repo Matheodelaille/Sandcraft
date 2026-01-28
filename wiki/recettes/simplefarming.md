@@ -8,8 +8,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Apple | ![fruits/apple](../images/simplefarming_fruits/apple.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Apricot Pie
@@ -18,8 +18,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Apricot | ![fruits/apricot](../images/simplefarming_fruits/apricot.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Baked Sweet Potato
@@ -75,7 +75,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | B | Fruits/Banana | ![fruits/banana](../images/simplefarming_fruits/banana.png) |
 
 ---
@@ -84,7 +84,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barley Hay Block | ![barley_hay_block](../images/simplefarming_barley_hay_block.png) |
+| - | Barley Hay Block | ![barley_hay_block](../images/simplefarming_barley_hay_block_side.png) |
 
 ---
 ## Barley Bread
@@ -117,7 +117,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Crops/Broccoli | ![crops/broccoli](../images/simplefarming_crops/broccoli.png) |
-| B | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
+| B | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
 
 ---
 ## Beef Curry
@@ -125,7 +125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
+| M | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
 | R | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 | P | Curry Powder | ![curry_powder](../images/simplefarming_curry_powder.png) |
 
@@ -144,8 +144,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Blackberries | ![fruits/blackberries](../images/simplefarming_fruits/blackberries.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Black Dye
@@ -163,7 +163,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
 | - | Crops/Lettuce | ![crops/lettuce](../images/simplefarming_crops/lettuce.png) |
 | - | Cooked Bacon | ![cooked_bacon](../images/simplefarming_cooked_bacon.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
@@ -175,8 +175,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Blueberries | ![fruits/blueberries](../images/simplefarming_fruits/blueberries.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Blue Dye
@@ -194,11 +194,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Beetroot | ![beetroot](../images/simplefarming_beetroot.png) |
-| - | Potato | ![potato](../images/simplefarming_potato.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Beetroot | ![beetroot](../images/simplefarming_pickled_beetroot.png) |
+| - | Potato | ![potato](../images/simplefarming_baked_sweet_potato.png) |
 | - | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
-| - | Beetroot | ![beetroot](../images/simplefarming_beetroot.png) |
+| - | Beetroot | ![beetroot](../images/simplefarming_pickled_beetroot.png) |
 
 ---
 ## Broccoli Cheese Soup
@@ -206,7 +206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Broccoli | ![crops/broccoli](../images/simplefarming_crops/broccoli.png) |
 | - | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
 
@@ -224,9 +224,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken_wings.png) |
 | - | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
 
 ---
@@ -235,10 +235,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
-| M | Milk Bucket | ![milk_bucket](../images/simplefarming_milk_bucket.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
+| M | Milk Bucket | ![milk_bucket](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Candy
@@ -247,7 +247,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chocolate | ![chocolate](../images/simplefarming_chocolate.png) |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Candy Cane
@@ -255,7 +255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Cantaloupe Block
@@ -279,7 +279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cantaloupe Block | ![cantaloupe_block](../images/simplefarming_cantaloupe_block.png) |
+| - | Cantaloupe Block | ![cantaloupe_block](../images/simplefarming_barley_hay_block_side.png) |
 
 ---
 ## Carrot Soup
@@ -287,7 +287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/simplefarming_crops/carrot.png) |
 | - | Crops/Carrot | ![crops/carrot](../images/simplefarming_crops/carrot.png) |
 
@@ -297,8 +297,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/simplefarming_milk_bucket.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| - | Milk Bucket | ![milk_bucket](../images/simplefarming_apple_leaves1.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 | - | Crops/Cassava | ![crops/cassava](../images/simplefarming_crops/cassava.png) |
 
 ---
@@ -323,11 +323,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
-| - | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
+| - | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | - | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Cheeseburger
@@ -344,7 +344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/simplefarming_milk_bucket.png) |
+| - | Milk Bucket | ![milk_bucket](../images/simplefarming_apple_leaves1.png) |
 | - | Vinegar | ![vinegar](../images/simplefarming_vinegar.png) |
 
 ---
@@ -354,8 +354,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Cherries | ![fruits/cherries](../images/simplefarming_fruits/cherries.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Chicken Curry
@@ -363,7 +363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken.png) |
+| M | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken_wings.png) |
 | R | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 | P | Curry Powder | ![curry_powder](../images/simplefarming_curry_powder.png) |
 
@@ -373,8 +373,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken_wings.png) |
 | - | Noodles | ![noodles](../images/simplefarming_noodles.png) |
 | - | Noodles | ![noodles](../images/simplefarming_noodles.png) |
 
@@ -384,11 +384,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grain | ![grain](../images/simplefarming_grain.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| - | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | - | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken_wings.png) |
 
 ---
 ## Chicory Gratin
@@ -399,7 +399,7 @@
 | O | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 | H | Chicory Root | ![chicory_root](../images/simplefarming_chicory_root.png) |
 | C | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Chili
@@ -407,10 +407,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
-| - | Peppers | ![peppers](../images/simplefarming_peppers.png) |
+| - | Peppers | ![peppers](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Chocolate
@@ -418,9 +418,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
-| - | Milk Bucket | ![milk_bucket](../images/simplefarming_milk_bucket.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/simplefarming_cocoa_beans.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
+| - | Milk Bucket | ![milk_bucket](../images/simplefarming_apple_leaves1.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Chocolate Cake
@@ -428,9 +428,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 | C | Chocolate | ![chocolate](../images/simplefarming_chocolate.png) |
 
 ---
@@ -495,7 +495,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| tag | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Cooked Egg
@@ -503,7 +503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| tag | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Cooked Egg
@@ -511,7 +511,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| tag | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Cooked Sausage
@@ -543,8 +543,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| C | Cocoa Beans | ![cocoa_beans](../images/simplefarming_cocoa_beans.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| C | Cocoa Beans | ![cocoa_beans](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Cornbread
@@ -552,7 +552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | B | Crops/Corn | ![crops/corn](../images/simplefarming_crops/corn.png) |
 
 ---
@@ -561,11 +561,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Corn | ![crops/corn](../images/simplefarming_crops/corn.png) |
 | - | Crops/Corn | ![crops/corn](../images/simplefarming_crops/corn.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Corn Seeds
@@ -597,7 +597,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Cucumber | ![crops/cucumber](../images/simplefarming_crops/cucumber.png) |
 | - | Crops/Cucumber | ![crops/cucumber](../images/simplefarming_crops/cucumber.png) |
 
@@ -607,7 +607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peppers | ![peppers](../images/simplefarming_peppers.png) |
+| - | Peppers | ![peppers](../images/simplefarming_apple_leaves1.png) |
 | - | Cumin Seeds | ![cumin_seeds](../images/simplefarming_cumin_seeds.png) |
 | - | Crops/Ginger | ![crops/ginger](../images/simplefarming_crops/ginger.png) |
 
@@ -617,8 +617,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/simplefarming_stick.png) |
-| X | Diamond | ![diamond](../images/simplefarming_diamond.png) |
+| # | Stick | ![stick](../images/simplefarming_apple_leaves1.png) |
+| X | Diamond | ![diamond](../images/simplefarming_diamond_scythe.png) |
 
 ---
 ## Eggplant Parmesan
@@ -629,7 +629,7 @@
 | G | Crops/Eggplant | ![crops/eggplant](../images/simplefarming_crops/eggplant.png) |
 | T | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | C | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Eggplant Seeds
@@ -645,9 +645,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
 | - | Cooked Bacon | ![cooked_bacon](../images/simplefarming_cooked_bacon.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/simplefarming_cooked_eggs.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/simplefarming_cooked_bacon.png) |
 
 ---
 ## Fermenter
@@ -656,8 +656,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/simplefarming_ingots/iron.png) |
-| S | Stone | ![stone](../images/simplefarming_stone.png) |
-| B | Bucket | ![bucket](../images/simplefarming_bucket.png) |
+| S | Stone | ![stone](../images/simplefarming_stone_scythe.png) |
+| B | Bucket | ![bucket](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Fish And Chips
@@ -665,9 +665,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | P | Crops/Potato | ![crops/potato](../images/simplefarming_crops/potato.png) |
-| B | Cooked Fishes | ![cooked_fishes](../images/simplefarming_cooked_fishes.png) |
+| B | Cooked Fishes | ![cooked_fishes](../images/simplefarming_cooked_bacon.png) |
 
 ---
 ## Fish Fillet
@@ -675,8 +675,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| B | Cooked Fishes | ![cooked_fishes](../images/simplefarming_cooked_fishes.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| B | Cooked Fishes | ![cooked_fishes](../images/simplefarming_cooked_bacon.png) |
 
 ---
 ## Fish Sandwich
@@ -684,10 +684,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
-| - | Cooked Fishes | ![cooked_fishes](../images/simplefarming_cooked_fishes.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
+| - | Cooked Fishes | ![cooked_fishes](../images/simplefarming_cooked_bacon.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Fried Rice
@@ -696,8 +696,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
-| - | Cooked Eggs | ![cooked_eggs](../images/simplefarming_cooked_eggs.png) |
-| - | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
+| - | Cooked Eggs | ![cooked_eggs](../images/simplefarming_cooked_bacon.png) |
+| - | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Fruit Salad
@@ -705,10 +705,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Fruits | ![fruits](../images/simplefarming_fruits.png) |
-| - | Fruits | ![fruits](../images/simplefarming_fruits.png) |
-| - | Fruits | ![fruits](../images/simplefarming_fruits.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Fruits | ![fruits](../images/simplefarming_apple_leaves1.png) |
+| - | Fruits | ![fruits](../images/simplefarming_apple_leaves1.png) |
+| - | Fruits | ![fruits](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Ginger Seeds
@@ -724,7 +724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gold Nugget | ![gold_nugget](../images/simplefarming_gold_nugget.png) |
+| # | Gold Nugget | ![gold_nugget](../images/simplefarming_apple_leaves1.png) |
 | H | Peppers/Habanero | ![peppers/habanero](../images/simplefarming_peppers/habanero.png) |
 
 ---
@@ -733,7 +733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/simplefarming_stick.png) |
+| # | Stick | ![stick](../images/simplefarming_apple_leaves1.png) |
 | X | Ingots/Gold | ![ingots/gold](../images/simplefarming_ingots/gold.png) |
 
 ---
@@ -750,10 +750,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
-| - | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
+| - | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Honeydew Block
@@ -777,7 +777,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeydew Block | ![honeydew_block](../images/simplefarming_honeydew_block.png) |
+| - | Honeydew Block | ![honeydew_block](../images/simplefarming_barley_hay_block_side.png) |
 
 ---
 ## Hotdog
@@ -785,7 +785,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
 | - | Cooked Sausage | ![cooked_sausage](../images/simplefarming_cooked_sausage.png) |
 
 ---
@@ -796,9 +796,9 @@
 | :--- | :--- | :--- |
 | C | Fruits/Cherries | ![fruits/cherries](../images/simplefarming_fruits/cherries.png) |
 | B | Fruits/Banana | ![fruits/banana](../images/simplefarming_fruits/banana.png) |
-| # | Snowball | ![snowball](../images/simplefarming_snowball.png) |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
-| M | Milk Bucket | ![milk_bucket](../images/simplefarming_milk_bucket.png) |
+| # | Snowball | ![snowball](../images/simplefarming_apple_leaves1.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
+| M | Milk Bucket | ![milk_bucket](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Iron Scythe
@@ -806,7 +806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/simplefarming_stick.png) |
+| # | Stick | ![stick](../images/simplefarming_apple_leaves1.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/simplefarming_ingots/iron.png) |
 
 ---
@@ -815,9 +815,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
-| - | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
-| - | Peppers | ![peppers](../images/simplefarming_peppers.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
+| - | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
+| - | Peppers | ![peppers](../images/simplefarming_apple_leaves1.png) |
 | - | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
 
 ---
@@ -826,8 +826,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 | - | Chocolate | ![chocolate](../images/simplefarming_chocolate.png) |
 | - | Fruits/Orange | ![fruits/orange](../images/simplefarming_fruits/orange.png) |
 
@@ -837,8 +837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/simplefarming_glass_bottle.png) |
-| - | Fruits | ![fruits](../images/simplefarming_fruits.png) |
+| - | Glass Bottle | ![glass_bottle](../images/simplefarming_apple_leaves1.png) |
+| - | Fruits | ![fruits](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Kenaf Seeds
@@ -857,7 +857,7 @@
 | N | Noodles | ![noodles](../images/simplefarming_noodles.png) |
 | T | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | C | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
-| B | Cooked Beef | ![cooked_beef](../images/simplefarming_cooked_beef.png) |
+| B | Cooked Beef | ![cooked_beef](../images/simplefarming_beef_and_broccoli.png) |
 
 ---
 ## Lettuce Seeds
@@ -884,8 +884,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Marshmallow Root | ![marshmallow_root](../images/simplefarming_marshmallow_root.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Mead
@@ -893,7 +893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Honeycomb | ![honeycomb](../images/simplefarming_honeycomb.png) |
+| item | Honeycomb | ![honeycomb](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Mushroom Barley
@@ -902,7 +902,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Grain/Barley | ![grain/barley](../images/simplefarming_grain/barley.png) |
-| M | Mushrooms | ![mushrooms](../images/simplefarming_mushrooms.png) |
+| M | Mushrooms | ![mushrooms](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Mutton Curry
@@ -910,7 +910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Cooked Mutton | ![cooked_mutton](../images/simplefarming_cooked_mutton.png) |
+| M | Cooked Mutton | ![cooked_mutton](../images/simplefarming_cooked_bacon.png) |
 | R | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 | P | Curry Powder | ![curry_powder](../images/simplefarming_curry_powder.png) |
 
@@ -927,7 +927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Grain | ![grain](../images/simplefarming_grain.png) |
+| N | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Oat
@@ -935,7 +935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oat Hay Block | ![oat_hay_block](../images/simplefarming_oat_hay_block.png) |
+| - | Oat Hay Block | ![oat_hay_block](../images/simplefarming_oat_hay_block_side.png) |
 
 ---
 ## Oatmeal
@@ -943,7 +943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Grain/Oat | ![grain/oat](../images/simplefarming_grain/oat.png) |
 | - | Grain/Oat | ![grain/oat](../images/simplefarming_grain/oat.png) |
 
@@ -977,7 +977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/simplefarming_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/simplefarming_apple_leaves1.png) |
 | - | Olives | ![olives](../images/simplefarming_olives.png) |
 
 ---
@@ -986,7 +986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | - | Olives | ![olives](../images/simplefarming_olives.png) |
 
@@ -1004,7 +1004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 | - | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 
@@ -1014,8 +1014,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| V | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| V | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 | N | Noodles | ![noodles](../images/simplefarming_noodles.png) |
 | T | Tofu | ![tofu](../images/simplefarming_tofu.png) |
 
@@ -1025,10 +1025,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| M | Milk Bucket | ![milk_bucket](../images/simplefarming_milk_bucket.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| M | Milk Bucket | ![milk_bucket](../images/simplefarming_apple_leaves1.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Pasta
@@ -1046,7 +1046,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
 | - | Crops/Peanut | ![crops/peanut](../images/simplefarming_crops/peanut.png) |
 | - | Jam | ![jam](../images/simplefarming_jam.png) |
 
@@ -1056,7 +1056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | B | Crops/Peanut | ![crops/peanut](../images/simplefarming_crops/peanut.png) |
 
 ---
@@ -1066,8 +1066,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Peanut | ![crops/peanut](../images/simplefarming_crops/peanut.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Peanut Seeds
@@ -1084,8 +1084,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Pear | ![fruits/pear](../images/simplefarming_fruits/pear.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Pea Seeds
@@ -1101,7 +1101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Pea | ![crops/pea](../images/simplefarming_crops/pea.png) |
 | - | Crops/Pea | ![crops/pea](../images/simplefarming_crops/pea.png) |
 
@@ -1129,7 +1129,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Vinegar | ![vinegar](../images/simplefarming_vinegar.png) |
-| - | Beetroot | ![beetroot](../images/simplefarming_beetroot.png) |
+| - | Beetroot | ![beetroot](../images/simplefarming_pickled_beetroot.png) |
 
 ---
 ## Pink Dye
@@ -1147,7 +1147,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grain | ![grain](../images/simplefarming_grain.png) |
+| - | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | - | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | - | Crops/Spinach | ![crops/spinach](../images/simplefarming_crops/spinach.png) |
@@ -1159,8 +1159,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Plum | ![fruits/plum](../images/simplefarming_fruits/plum.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Popcorn
@@ -1192,7 +1192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Cooked Porkchop | ![cooked_porkchop](../images/simplefarming_cooked_porkchop.png) |
+| M | Cooked Porkchop | ![cooked_porkchop](../images/simplefarming_cooked_bacon.png) |
 | R | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 | P | Curry Powder | ![curry_powder](../images/simplefarming_curry_powder.png) |
 
@@ -1203,8 +1203,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Crops/Potato | ![crops/potato](../images/simplefarming_crops/potato.png) |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
 | O | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 
 ---
@@ -1213,10 +1213,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
-| - | Cooked Porkchop | ![cooked_porkchop](../images/simplefarming_cooked_porkchop.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
+| - | Cooked Porkchop | ![cooked_porkchop](../images/simplefarming_cooked_bacon.png) |
 | - | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Pumpkin Soup
@@ -1224,8 +1224,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Pumpkin | ![pumpkin](../images/simplefarming_pumpkin.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Pumpkin | ![pumpkin](../images/simplefarming_pumpkin_bot.png) |
 
 ---
 ## Quinoa Salad
@@ -1233,10 +1233,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Quinoa | ![quinoa](../images/simplefarming_quinoa.png) |
-| - | Quinoa | ![quinoa](../images/simplefarming_quinoa.png) |
-| - | Quinoa | ![quinoa](../images/simplefarming_quinoa.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Quinoa | ![quinoa](../images/simplefarming_quinoa_plant0.png) |
+| - | Quinoa | ![quinoa](../images/simplefarming_quinoa_plant0.png) |
+| - | Quinoa | ![quinoa](../images/simplefarming_quinoa_plant0.png) |
 
 ---
 ## Radish Seeds
@@ -1252,7 +1252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Radish | ![crops/radish](../images/simplefarming_crops/radish.png) |
 | - | Crops/Radish | ![crops/radish](../images/simplefarming_crops/radish.png) |
 | - | Crops/Radish | ![crops/radish](../images/simplefarming_crops/radish.png) |
@@ -1291,8 +1291,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Raspberries | ![fruits/raspberries](../images/simplefarming_fruits/raspberries.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Raw Bacon
@@ -1300,7 +1300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Porkchop | ![porkchop](../images/simplefarming_porkchop.png) |
+| - | Porkchop | ![porkchop](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Raw Chicken Wings
@@ -1308,7 +1308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chicken | ![chicken](../images/simplefarming_chicken.png) |
+| - | Chicken | ![chicken](../images/simplefarming_chicken_curry.png) |
 
 ---
 ## Raw Sausage
@@ -1316,7 +1316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Beef | ![beef](../images/simplefarming_beef.png) |
+| - | Beef | ![beef](../images/simplefarming_beef_and_broccoli.png) |
 
 ---
 ## Red Dye
@@ -1344,7 +1344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rice Hay Block | ![rice_hay_block](../images/simplefarming_rice_hay_block.png) |
+| - | Rice Hay Block | ![rice_hay_block](../images/simplefarming_rice_hay_block_side.png) |
 
 ---
 ## Rice Bowl
@@ -1352,7 +1352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 | - | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 
@@ -1386,7 +1386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rye Hay Block | ![rye_hay_block](../images/simplefarming_rye_hay_block.png) |
+| - | Rye Hay Block | ![rye_hay_block](../images/simplefarming_rye_hay_block_side.png) |
 
 ---
 ## Rye Bread
@@ -1426,13 +1426,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Sandwich
@@ -1440,10 +1440,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
-| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
+| - | Cooked Chicken | ![cooked_chicken](../images/simplefarming_cooked_chicken_wings.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Sausage Barley Soup
@@ -1451,11 +1451,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Cooked Sausage | ![cooked_sausage](../images/simplefarming_cooked_sausage.png) |
 | - | Grain/Barley | ![grain/barley](../images/simplefarming_grain/barley.png) |
-| - | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
-| - | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
+| - | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
+| - | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Scarecrow
@@ -1463,10 +1463,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Carved Pumpkin | ![carved_pumpkin](../images/simplefarming_carved_pumpkin.png) |
-| L | Leather | ![leather](../images/simplefarming_leather.png) |
-| H | Hay Bales | ![hay_bales](../images/simplefarming_hay_bales.png) |
-| S | Stick | ![stick](../images/simplefarming_stick.png) |
+| P | Carved Pumpkin | ![carved_pumpkin](../images/simplefarming_pumpkin_bot.png) |
+| L | Leather | ![leather](../images/simplefarming_apple_leaves1.png) |
+| H | Hay Bales | ![hay_bales](../images/simplefarming_barley_hay_block_side.png) |
+| S | Stick | ![stick](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Sorghum Bread
@@ -1474,7 +1474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | B | Crops/Sorghum | ![crops/sorghum](../images/simplefarming_crops/sorghum.png) |
 
 ---
@@ -1483,7 +1483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Sorghum | ![crops/sorghum](../images/simplefarming_crops/sorghum.png) |
 | - | Crops/Sorghum | ![crops/sorghum](../images/simplefarming_crops/sorghum.png) |
 
@@ -1519,10 +1519,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Mushrooms | ![mushrooms](../images/simplefarming_mushrooms.png) |
+| M | Mushrooms | ![mushrooms](../images/simplefarming_apple_leaves1.png) |
 | S | Crops/Spinach | ![crops/spinach](../images/simplefarming_crops/spinach.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Spinach Quinoa Quiche
@@ -1531,8 +1531,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Crops/Spinach | ![crops/spinach](../images/simplefarming_crops/spinach.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| G | Quinoa | ![quinoa](../images/simplefarming_quinoa.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| G | Quinoa | ![quinoa](../images/simplefarming_quinoa_plant0.png) |
 
 ---
 ## Spinach Seeds
@@ -1548,8 +1548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/simplefarming_dyes.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Dyes | ![dyes](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Sprinkle Cake
@@ -1557,9 +1557,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| S | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| S | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 | L | Sprinkles | ![sprinkles](../images/simplefarming_sprinkles.png) |
 
 ---
@@ -1568,7 +1568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Squash Block | ![squash_block](../images/simplefarming_squash_block.png) |
+| - | Squash Block | ![squash_block](../images/simplefarming_barley_hay_block_side.png) |
 
 ---
 ## Squash Block
@@ -1586,8 +1586,8 @@
 | :--- | :--- | :--- |
 | O | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 | S | Crops/Squash | ![crops/squash](../images/simplefarming_crops/squash.png) |
-| E | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| E | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Squash Seeds
@@ -1603,7 +1603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Squash | ![crops/squash](../images/simplefarming_crops/squash.png) |
 | - | Crops/Squash | ![crops/squash](../images/simplefarming_crops/squash.png) |
 | - | Crops/Squash | ![crops/squash](../images/simplefarming_crops/squash.png) |
@@ -1617,8 +1617,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/simplefarming_stick.png) |
-| X | Stone Tool Materials | ![stone_tool_materials](../images/simplefarming_stone_tool_materials.png) |
+| # | Stick | ![stick](../images/simplefarming_apple_leaves1.png) |
+| X | Stone Tool Materials | ![stone_tool_materials](../images/simplefarming_stone_scythe.png) |
 
 ---
 ## Strawberry Pie
@@ -1627,8 +1627,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fruits/Strawberries | ![fruits/strawberries](../images/simplefarming_fruits/strawberries.png) |
-| - | Eggs | ![eggs](../images/simplefarming_eggs.png) |
-| - | Sugar | ![sugar](../images/simplefarming_sugar.png) |
+| - | Eggs | ![eggs](../images/simplefarming_apple_leaves1.png) |
+| - | Sugar | ![sugar](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## String
@@ -1658,8 +1658,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
-| - | Dried Kelp | ![dried_kelp](../images/simplefarming_dried_kelp.png) |
-| - | Fishes | ![fishes](../images/simplefarming_fishes.png) |
+| - | Dried Kelp | ![dried_kelp](../images/simplefarming_apple_leaves1.png) |
+| - | Fishes | ![fishes](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Sweet Potato Quinoa Cakes
@@ -1668,7 +1668,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crops/Sweet Potato | ![crops/sweet_potato](../images/simplefarming_crops/sweet_potato.png) |
-| - | Quinoa | ![quinoa](../images/simplefarming_quinoa.png) |
+| - | Quinoa | ![quinoa](../images/simplefarming_quinoa_plant0.png) |
 | - | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 
 ---
@@ -1735,7 +1735,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
 
@@ -1755,7 +1755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/simplefarming_planks.png) |
+| W | Planks | ![planks](../images/simplefarming_apple_leaves1.png) |
 | K | Kenaf Fiber | ![kenaf_fiber](../images/simplefarming_kenaf_fiber.png) |
 
 ---
@@ -1767,7 +1767,7 @@
 | O | Crops/Onion | ![crops/onion](../images/simplefarming_crops/onion.png) |
 | T | Crops/Turnip | ![crops/turnip](../images/simplefarming_crops/turnip.png) |
 | C | Cheese Slice | ![cheese_slice](../images/simplefarming_cheese_slice.png) |
-| B | Beetroot | ![beetroot](../images/simplefarming_beetroot.png) |
+| B | Beetroot | ![beetroot](../images/simplefarming_pickled_beetroot.png) |
 
 ---
 ## Turnip Seeds
@@ -1783,7 +1783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
+| M | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
 | R | Grain/Rice | ![grain/rice](../images/simplefarming_grain/rice.png) |
 | P | Curry Powder | ![curry_powder](../images/simplefarming_curry_powder.png) |
 
@@ -1793,10 +1793,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/simplefarming_bowl.png) |
-| - | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
-| - | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
-| - | Vegetables | ![vegetables](../images/simplefarming_vegetables.png) |
+| - | Bowl | ![bowl](../images/simplefarming_rice_bowl.png) |
+| - | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
+| - | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
+| - | Vegetables | ![vegetables](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Veggie Burger
@@ -1804,10 +1804,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bread | ![bread](../images/simplefarming_bread.png) |
+| - | Bread | ![bread](../images/simplefarming_banana_bread.png) |
 | - | Tofu | ![tofu](../images/simplefarming_tofu.png) |
 | - | Crops/Tomato | ![crops/tomato](../images/simplefarming_crops/tomato.png) |
-| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_salad_ingredients.png) |
+| - | Salad Ingredients | ![salad_ingredients](../images/simplefarming_caesar_salad.png) |
 
 ---
 ## Vinegar
@@ -1815,8 +1815,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/simplefarming_glass_bottle.png) |
-| - | Vinegar Ingredients | ![vinegar_ingredients](../images/simplefarming_vinegar_ingredients.png) |
+| - | Glass Bottle | ![glass_bottle](../images/simplefarming_apple_leaves1.png) |
+| - | Vinegar Ingredients | ![vinegar_ingredients](../images/simplefarming_vinegar.png) |
 
 ---
 ## Vodka
@@ -1832,7 +1832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Wheat | ![wheat](../images/simplefarming_wheat.png) |
+| item | Wheat | ![wheat](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## Wine
@@ -1848,8 +1848,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/simplefarming_stick.png) |
-| X | Planks | ![planks](../images/simplefarming_planks.png) |
+| # | Stick | ![stick](../images/simplefarming_apple_leaves1.png) |
+| X | Planks | ![planks](../images/simplefarming_apple_leaves1.png) |
 
 ---
 ## White Wool
@@ -1873,7 +1873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grain | ![grain](../images/simplefarming_grain.png) |
+| G | Grain | ![grain](../images/simplefarming_apple_leaves1.png) |
 | B | Crops/Zucchini | ![crops/zucchini](../images/simplefarming_crops/zucchini.png) |
 
 ---

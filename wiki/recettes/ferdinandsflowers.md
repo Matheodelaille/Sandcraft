@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Bamboo | ![bamboo](../images/ferdinandsflowers_bamboo.png) |
-| D | Black Dye | ![black_dye](../images/ferdinandsflowers_black_dye.png) |
+| X | Bamboo | ![bamboo](../images/ferdinandsflowers_bamboo_black_item.png) |
+| D | Black Dye | ![black_dye](../images/ferdinandsflowers_dye_glass_black.png) |
 
 ---
 ## Bamboo Golden Item
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Bamboo | ![bamboo](../images/ferdinandsflowers_bamboo.png) |
-| D | Yellow Dye | ![yellow_dye](../images/ferdinandsflowers_yellow_dye.png) |
+| X | Bamboo | ![bamboo](../images/ferdinandsflowers_bamboo_black_item.png) |
+| D | Yellow Dye | ![yellow_dye](../images/ferdinandsflowers_dye_glass_yellow.png) |
 
 ---
 ## Bamboo Groove Item
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Bamboo | ![bamboo](../images/ferdinandsflowers_bamboo.png) |
-| D | Lime Dye | ![lime_dye](../images/ferdinandsflowers_lime_dye.png) |
+| X | Bamboo | ![bamboo](../images/ferdinandsflowers_bamboo_black_item.png) |
+| D | Lime Dye | ![lime_dye](../images/ferdinandsflowers_dye_glass_lime.png) |
 
 ---
 ## Black Dye
@@ -34,7 +34,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black | ![black](../images/ferdinandsflowers_black.png) |
+| - | Black | ![black](../images/ferdinandsflowers_bamboo_black_item.png) |
 
 ---
 ## {}
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue | ![blue](../images/ferdinandsflowers_blue.png) |
+| - | Blue | ![blue](../images/ferdinandsflowers_baby_blue_eyes.png) |
 
 ---
 ## Blue Bottom Left
@@ -57,8 +57,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Blue Bottom Right
@@ -66,8 +66,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## {}
@@ -82,7 +82,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown | ![brown](../images/ferdinandsflowers_brown.png) |
+| - | Brown | ![brown](../images/ferdinandsflowers_turkey_tail_brown.png) |
 
 ---
 ## {}
@@ -97,9 +97,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_cobblestone_slab.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Cobble Purple Middle Right
@@ -107,9 +107,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_cobblestone_slab.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Cobble Purple Top Left
@@ -117,9 +117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_cobblestone.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Cobble Purple Top Right
@@ -127,9 +127,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_cobblestone.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Cyan Dye
@@ -137,7 +137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan | ![cyan](../images/ferdinandsflowers_cyan.png) |
+| - | Cyan | ![cyan](../images/ferdinandsflowers_cyan_hyacinth.png) |
 
 ---
 ## {}
@@ -152,7 +152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray | ![gray](../images/ferdinandsflowers_gray.png) |
+| - | Gray | ![gray](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## {}
@@ -167,7 +167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green | ![green](../images/ferdinandsflowers_green.png) |
+| - | Green | ![green](../images/ferdinandsflowers_dye_glass_green.png) |
 
 ---
 ## {}
@@ -198,7 +198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue | ![light_blue](../images/ferdinandsflowers_light_blue.png) |
+| - | Light Blue | ![light_blue](../images/ferdinandsflowers_dye_glass_light_blue.png) |
 
 ---
 ## {}
@@ -213,7 +213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray | ![light_gray](../images/ferdinandsflowers_light_gray.png) |
+| - | Light Gray | ![light_gray](../images/ferdinandsflowers_dye_glass_light_blue.png) |
 
 ---
 ## {}
@@ -228,7 +228,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime | ![lime](../images/ferdinandsflowers_lime.png) |
+| - | Lime | ![lime](../images/ferdinandsflowers_dye_glass_lime.png) |
 
 ---
 ## {}
@@ -243,7 +243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta | ![magenta](../images/ferdinandsflowers_magenta.png) |
+| - | Magenta | ![magenta](../images/ferdinandsflowers_bright_magenta_sweet_peas_bottom.png) |
 
 ---
 ## {}
@@ -258,7 +258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange | ![orange](../images/ferdinandsflowers_orange.png) |
+| - | Orange | ![orange](../images/ferdinandsflowers_dye_glass_orange.png) |
 
 ---
 ## {}
@@ -273,9 +273,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_cobblestone_slab.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Path Blue Middle Right
@@ -283,9 +283,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_cobblestone_slab.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| # | Cobblestone Slab | ![cobblestone_slab](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Path Blue Top Left
@@ -293,9 +293,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_cobblestone.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Path Blue Top Right
@@ -303,9 +303,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_cobblestone.png) |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| # | Cobblestone | ![cobblestone](../images/ferdinandsflowers_african_daisy.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Pink Dye
@@ -313,7 +313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink | ![pink](../images/ferdinandsflowers_pink.png) |
+| - | Pink | ![pink](../images/ferdinandsflowers_dye_glass_pink.png) |
 
 ---
 ## {}
@@ -328,8 +328,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Acacia Planks | ![acacia_planks](../images/ferdinandsflowers_acacia_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Acacia Planks | ![acacia_planks](../images/ferdinandsflowers_planter_acacia.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Birch
@@ -337,8 +337,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Birch Planks | ![birch_planks](../images/ferdinandsflowers_birch_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Birch Planks | ![birch_planks](../images/ferdinandsflowers_planter_birch.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Black
@@ -346,8 +346,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Black Dye | ![black_dye](../images/ferdinandsflowers_black_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Black Dye | ![black_dye](../images/ferdinandsflowers_dye_glass_black.png) |
 
 ---
 ## Planter Blue
@@ -355,8 +355,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Planter Crimson Stem
@@ -364,8 +364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Crimson Planks | ![crimson_planks](../images/ferdinandsflowers_crimson_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Crimson Planks | ![crimson_planks](../images/ferdinandsflowers_crimson_gladiola_bottom.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Cyan
@@ -373,8 +373,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Cyan Dye | ![cyan_dye](../images/ferdinandsflowers_cyan_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Cyan Dye | ![cyan_dye](../images/ferdinandsflowers_dye_glass_cyan.png) |
 
 ---
 ## Planter Dark Oak
@@ -382,8 +382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Dark Oak Planks | ![dark_oak_planks](../images/ferdinandsflowers_dark_oak_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Dark Oak Planks | ![dark_oak_planks](../images/ferdinandsflowers_planter_dark_oak.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Green
@@ -391,8 +391,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Green Dye | ![green_dye](../images/ferdinandsflowers_green_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Green Dye | ![green_dye](../images/ferdinandsflowers_dye_glass_green.png) |
 
 ---
 ## Planter Jungle
@@ -400,8 +400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Jungle Planks | ![jungle_planks](../images/ferdinandsflowers_jungle_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Jungle Planks | ![jungle_planks](../images/ferdinandsflowers_planter_jungle.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Light Blue
@@ -409,8 +409,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Light Blue Dye | ![light_blue_dye](../images/ferdinandsflowers_light_blue_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Light Blue Dye | ![light_blue_dye](../images/ferdinandsflowers_dye_glass_light_blue.png) |
 
 ---
 ## Planter Lime
@@ -418,8 +418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Lime Dye | ![lime_dye](../images/ferdinandsflowers_lime_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Lime Dye | ![lime_dye](../images/ferdinandsflowers_dye_glass_lime.png) |
 
 ---
 ## Planter Magenta
@@ -427,8 +427,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Magenta Dye | ![magenta_dye](../images/ferdinandsflowers_magenta_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Magenta Dye | ![magenta_dye](../images/ferdinandsflowers_dye_glass_magenta.png) |
 
 ---
 ## Planter Mangrove
@@ -436,8 +436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Mangrove Planks | ![mangrove_planks](../images/ferdinandsflowers_mangrove_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Mangrove Planks | ![mangrove_planks](../images/ferdinandsflowers_planter_mangrove.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Oak
@@ -445,8 +445,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Oak Planks | ![oak_planks](../images/ferdinandsflowers_oak_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Oak Planks | ![oak_planks](../images/ferdinandsflowers_planter_dark_oak.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Orange
@@ -454,8 +454,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Orange Dye | ![orange_dye](../images/ferdinandsflowers_orange_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Orange Dye | ![orange_dye](../images/ferdinandsflowers_dye_glass_orange.png) |
 
 ---
 ## Planter Pink
@@ -463,8 +463,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Pink Dye | ![pink_dye](../images/ferdinandsflowers_pink_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Pink Dye | ![pink_dye](../images/ferdinandsflowers_dye_glass_pink.png) |
 
 ---
 ## Planter Purple
@@ -472,8 +472,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Planter Red
@@ -481,8 +481,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Red Dye | ![red_dye](../images/ferdinandsflowers_red_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Red Dye | ![red_dye](../images/ferdinandsflowers_dye_glass_red.png) |
 
 ---
 ## Planter Spruce
@@ -490,8 +490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Spruce Planks | ![spruce_planks](../images/ferdinandsflowers_spruce_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Spruce Planks | ![spruce_planks](../images/ferdinandsflowers_planter_spruce.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter Warped Stem
@@ -499,8 +499,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Warped Planks | ![warped_planks](../images/ferdinandsflowers_warped_planks.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Warped Planks | ![warped_planks](../images/ferdinandsflowers_planter_warped_stem.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Planter White
@@ -508,8 +508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | White Dye | ![white_dye](../images/ferdinandsflowers_white_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | White Dye | ![white_dye](../images/ferdinandsflowers_dye_glass_white.png) |
 
 ---
 ## Planter Yellow
@@ -517,8 +517,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Stone | ![stone](../images/ferdinandsflowers_stone.png) |
-| D | Yellow Dye | ![yellow_dye](../images/ferdinandsflowers_yellow_dye.png) |
+| X | Stone | ![stone](../images/ferdinandsflowers_stone_path.png) |
+| D | Yellow Dye | ![yellow_dye](../images/ferdinandsflowers_dye_glass_yellow.png) |
 
 ---
 ## Purple Dye
@@ -526,7 +526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple | ![purple](../images/ferdinandsflowers_purple.png) |
+| - | Purple | ![purple](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Purple Bottom Left
@@ -534,8 +534,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Purple Bottom Right
@@ -543,8 +543,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_wheat_seeds.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| X | Wheat Seeds | ![wheat_seeds](../images/ferdinandsflowers_african_daisy.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## {}
@@ -559,7 +559,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red | ![red](../images/ferdinandsflowers_red.png) |
+| - | Red | ![red](../images/ferdinandsflowers_buckwheat_red.png) |
 
 ---
 ## {}
@@ -582,8 +582,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Bell Sweet Peas | ![blue_bell_sweet_peas](../images/ferdinandsflowers_blue_bell_sweet_peas.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| # | Blue Bell Sweet Peas | ![blue_bell_sweet_peas](../images/ferdinandsflowers_blue_bell_sweet_peas_bottom.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Bright Magenta Sweet Peas
@@ -591,8 +591,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bright Magenta Sweet Peas | ![bright_magenta_sweet_peas](../images/ferdinandsflowers_bright_magenta_sweet_peas.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| # | Bright Magenta Sweet Peas | ![bright_magenta_sweet_peas](../images/ferdinandsflowers_bright_magenta_sweet_peas_bottom.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Dark Blue Sweet Peas
@@ -600,8 +600,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Blue Sweet Peas | ![dark_blue_sweet_peas](../images/ferdinandsflowers_dark_blue_sweet_peas.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| # | Dark Blue Sweet Peas | ![dark_blue_sweet_peas](../images/ferdinandsflowers_dark_blue_sweet_peas_bottom.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Magenta Sweet Peas
@@ -609,8 +609,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Sweet Peas | ![magenta_sweet_peas](../images/ferdinandsflowers_magenta_sweet_peas.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| # | Magenta Sweet Peas | ![magenta_sweet_peas](../images/ferdinandsflowers_bright_magenta_sweet_peas_bottom.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Mixed Pink Sweet Peas
@@ -618,8 +618,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mixed Pink Sweet Peas | ![mixed_pink_sweet_peas](../images/ferdinandsflowers_mixed_pink_sweet_peas.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| # | Mixed Pink Sweet Peas | ![mixed_pink_sweet_peas](../images/ferdinandsflowers_mixed_pink_sweet_peas_bottom.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Morning Glory
@@ -628,7 +628,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Morning Glory | ![morning_glory](../images/ferdinandsflowers_morning_glory.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Nasturtium
@@ -637,7 +637,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Nasturtium | ![nasturtium](../images/ferdinandsflowers_nasturtium.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Nasturtium Pink
@@ -646,7 +646,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Nasturtium Pink | ![nasturtium_pink](../images/ferdinandsflowers_nasturtium_pink.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Staked Purple Sweet Peas
@@ -654,8 +654,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Sweet Peas | ![purple_sweet_peas](../images/ferdinandsflowers_purple_sweet_peas.png) |
-| X | Stick | ![stick](../images/ferdinandsflowers_stick.png) |
+| # | Purple Sweet Peas | ![purple_sweet_peas](../images/ferdinandsflowers_purple_sweet_peas_bottom.png) |
+| X | Stick | ![stick](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Stone Path
@@ -663,8 +663,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Cobblestone | ![cobblestone](../images/ferdinandsflowers_cobblestone.png) |
-| D | Dirt | ![dirt](../images/ferdinandsflowers_dirt.png) |
+| X | Cobblestone | ![cobblestone](../images/ferdinandsflowers_african_daisy.png) |
+| D | Dirt | ![dirt](../images/ferdinandsflowers_african_daisy.png) |
 
 ---
 ## Turkey Tail Brown Fan
@@ -696,8 +696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Black Dye | ![black_dye](../images/ferdinandsflowers_black_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Black Dye | ![black_dye](../images/ferdinandsflowers_dye_glass_black.png) |
 
 ---
 ## Vase Blue
@@ -705,8 +705,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_blue_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Blue Dye | ![blue_dye](../images/ferdinandsflowers_dye_glass_blue.png) |
 
 ---
 ## Vase Cyan
@@ -714,8 +714,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Cyan Dye | ![cyan_dye](../images/ferdinandsflowers_cyan_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Cyan Dye | ![cyan_dye](../images/ferdinandsflowers_dye_glass_cyan.png) |
 
 ---
 ## Vase Green
@@ -723,8 +723,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Green Dye | ![green_dye](../images/ferdinandsflowers_green_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Green Dye | ![green_dye](../images/ferdinandsflowers_dye_glass_green.png) |
 
 ---
 ## Vase Light Blue
@@ -732,8 +732,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Light Blue Dye | ![light_blue_dye](../images/ferdinandsflowers_light_blue_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Light Blue Dye | ![light_blue_dye](../images/ferdinandsflowers_dye_glass_light_blue.png) |
 
 ---
 ## Vase Lime
@@ -741,8 +741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Lime Dye | ![lime_dye](../images/ferdinandsflowers_lime_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Lime Dye | ![lime_dye](../images/ferdinandsflowers_dye_glass_lime.png) |
 
 ---
 ## Vase Magenta
@@ -750,8 +750,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Magenta Dye | ![magenta_dye](../images/ferdinandsflowers_magenta_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Magenta Dye | ![magenta_dye](../images/ferdinandsflowers_dye_glass_magenta.png) |
 
 ---
 ## Vase Orange
@@ -759,8 +759,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Orange Dye | ![orange_dye](../images/ferdinandsflowers_orange_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Orange Dye | ![orange_dye](../images/ferdinandsflowers_dye_glass_orange.png) |
 
 ---
 ## Vase Pink
@@ -768,8 +768,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Pink Dye | ![pink_dye](../images/ferdinandsflowers_pink_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Pink Dye | ![pink_dye](../images/ferdinandsflowers_dye_glass_pink.png) |
 
 ---
 ## Vase Purple
@@ -777,8 +777,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_purple_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Purple Dye | ![purple_dye](../images/ferdinandsflowers_dye_glass_purple.png) |
 
 ---
 ## Vase Red
@@ -786,8 +786,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Red Dye | ![red_dye](../images/ferdinandsflowers_red_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Red Dye | ![red_dye](../images/ferdinandsflowers_dye_glass_red.png) |
 
 ---
 ## Vase White
@@ -795,8 +795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | White Dye | ![white_dye](../images/ferdinandsflowers_white_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | White Dye | ![white_dye](../images/ferdinandsflowers_dye_glass_white.png) |
 
 ---
 ## Vase Yellow
@@ -804,8 +804,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| X | Glass | ![glass](../images/ferdinandsflowers_glass.png) |
-| D | Yellow Dye | ![yellow_dye](../images/ferdinandsflowers_yellow_dye.png) |
+| X | Glass | ![glass](../images/ferdinandsflowers_dye_glass_black.png) |
+| D | Yellow Dye | ![yellow_dye](../images/ferdinandsflowers_dye_glass_yellow.png) |
 
 ---
 ## White Dye
@@ -813,7 +813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White | ![white](../images/ferdinandsflowers_white.png) |
+| - | White | ![white](../images/ferdinandsflowers_dye_glass_white.png) |
 
 ---
 ## {}
@@ -835,6 +835,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow | ![yellow](../images/ferdinandsflowers_yellow.png) |
+| - | Yellow | ![yellow](../images/ferdinandsflowers_dye_glass_yellow.png) |
 
 ---

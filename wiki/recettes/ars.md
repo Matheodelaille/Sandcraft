@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Starbuncle Charm | ![starbuncle_charm](../images/ars_starbuncle_charm.png) |
-| - | Water Wheel | ![water_wheel](../images/ars_water_wheel.png) |
+| - | Starbuncle Charm | ![starbuncle_charm](../images/ars_nouveau_starbuncle_charm.png) |
+| - | Water Wheel | ![water_wheel](../images/ars_arsenal_water_hat.png) |
 
 ---
 ## Advanced Prism
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Spell Prism | ![spell_prism](../images/ars_spell_prism.png) |
-| Q | Quartz | ![quartz](../images/ars_quartz.png) |
+| P | Spell Prism | ![spell_prism](../images/ars_elemental_spell_prism_base.png) |
+| Q | Quartz | ![quartz](../images/ars_arsenal_air_hat.png) |
 | S | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -75,7 +75,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spore Blossom Up | ![spore_blossom_up](../images/ars_spore_blossom_up.png) |
+| - | Spore Blossom Up | ![spore_blossom_up](../images/ars_elemental_thread_spore.png) |
 
 ---
 ## {}
@@ -167,9 +167,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Blaze Fiber | ![blaze_fiber](../images/ars_blaze_fiber.png) |
-| C | Chest | ![chest](../images/ars_chest.png) |
-| D | Diamond | ![diamond](../images/ars_diamond.png) |
+| M | Blaze Fiber | ![blaze_fiber](../images/ars_nouveau_blaze_fiber.png) |
+| C | Chest | ![chest](../images/ars_arsenal_air_hat.png) |
+| D | Diamond | ![diamond](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Curio Bag
@@ -177,8 +177,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
-| C | Chest | ![chest](../images/ars_chest.png) |
+| M | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
+| C | Chest | ![chest](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## {}
@@ -291,11 +291,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_yellow_archwood_log.png) |
-| - | Wilden Wing | ![wilden_wing](../images/ars_wilden_wing.png) |
+| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
+| - | Wilden Wing | ![wilden_wing](../images/ars_nouveau_wilden_wing.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
-| - | Feather | ![feather](../images/ars_feather.png) |
+| - | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
 
 ---
 ## {}
@@ -709,7 +709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spore Blossom | ![spore_blossom](../images/ars_spore_blossom.png) |
+| - | Spore Blossom | ![spore_blossom](../images/ars_elemental_thread_spore.png) |
 
 ---
 ## Stripped Yellow Archwood
@@ -717,7 +717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Yellow Archwood Log | ![stripped_yellow_archwood_log](../images/ars_stripped_yellow_archwood_log.png) |
+| # | Stripped Yellow Archwood Log | ![stripped_yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 
 ---
 ## Ritual Attraction
@@ -725,10 +725,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
 | - | Ingots/Iron | ![ingots/iron](../images/ars_ingots/iron.png) |
 | - | Ingots/Iron | ![ingots/iron](../images/ars_ingots/iron.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
 
 ---
 ## Ritual Detection
@@ -736,10 +736,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_yellow_archwood_log.png) |
-| - | Spider Eye | ![spider_eye](../images/ars_spider_eye.png) |
-| - | Spider Eye | ![spider_eye](../images/ars_spider_eye.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/ars_glowstone_dust.png) |
+| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
+| - | Spider Eye | ![spider_eye](../images/ars_nouveau_enchanters_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/ars_nouveau_enchanters_eye.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/ars_arsenal_air_hat.png) |
 | - | Storage Blocks/Source | ![storage_blocks/source](../images/ars_storage_blocks/source.png) |
 
 ---
@@ -748,10 +748,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_yellow_archwood_log.png) |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
-| - | Piston | ![piston](../images/ars_piston.png) |
+| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
+| - | Piston | ![piston](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Squirrels
@@ -759,10 +759,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_yellow_archwood_log.png) |
-| - | Starbuncle Shards | ![starbuncle_shards](../images/ars_starbuncle_shards.png) |
-| - | Sugar | ![sugar](../images/ars_sugar.png) |
-| - | Rabbit Foot | ![rabbit_foot](../images/ars_rabbit_foot.png) |
+| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
+| - | Starbuncle Shards | ![starbuncle_shards](../images/ars_nouveau_starbuncle_shards.png) |
+| - | Sugar | ![sugar](../images/ars_arsenal_air_hat.png) |
+| - | Rabbit Foot | ![rabbit_foot](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Tesla Coil
@@ -770,11 +770,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_yellow_archwood_log.png) |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
+| - | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
-| - | Lightning Rod | ![lightning_rod](../images/ars_lightning_rod.png) |
+| - | Lightning Rod | ![lightning_rod](../images/ars_nouveau_dowsing_rod_100.png) |
 | - | Storage Blocks/Source | ![storage_blocks/source](../images/ars_storage_blocks/source.png) |
 
 ---
@@ -839,7 +839,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_yellow_archwood_log.png) |
+| x | Yellow Archwood Log | ![yellow_archwood_log](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 
 ---
 ## {}
@@ -903,10 +903,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Archwood Slab | ![archwood_slab](../images/ars_archwood_slab.png) |
+| A | Archwood Slab | ![archwood_slab](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 | G | Nuggets/Gold | ![nuggets/gold](../images/ars_nuggets/gold.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/ars_dusts/redstone.png) |
-| S | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| S | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## {}
@@ -970,13 +970,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apprentice Spell Book | ![apprentice_spell_book](../images/ars_apprentice_spell_book.png) |
-| - | Fake Wilden Tribute | ![fake_wilden_tribute](../images/ars_fake_wilden_tribute.png) |
-| - | Emerald | ![emerald](../images/ars_emerald.png) |
-| - | Emerald | ![emerald](../images/ars_emerald.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
+| - | Apprentice Spell Book | ![apprentice_spell_book](../images/ars_elemental_spell_horn.png) |
+| - | Fake Wilden Tribute | ![fake_wilden_tribute](../images/ars_instrumentum_fake_wilden_tribute.png) |
+| - | Emerald | ![emerald](../images/ars_arsenal_air_hat.png) |
+| - | Emerald | ![emerald](../images/ars_arsenal_air_hat.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
 
 ---
 ## Copy Paste Spell Scroll
@@ -984,10 +984,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
-| - | Source Gem | ![source_gem](../images/ars_source_gem.png) |
-| - | Ink Sac | ![ink_sac](../images/ars_ink_sac.png) |
-| - | Feather | ![feather](../images/ars_feather.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
+| - | Source Gem | ![source_gem](../images/ars_nouveau_source_gem.png) |
+| - | Ink Sac | ![ink_sac](../images/ars_arsenal_air_hat.png) |
+| - | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
 
 ---
 ## {}
@@ -1065,9 +1065,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Source Gem | ![source_gem](../images/ars_source_gem.png) |
-| - | Lapis Lazuli | ![lapis_lazuli](../images/ars_lapis_lazuli.png) |
-| - | Flint | ![flint](../images/ars_flint.png) |
+| - | Source Gem | ![source_gem](../images/ars_nouveau_source_gem.png) |
+| - | Lapis Lazuli | ![lapis_lazuli](../images/ars_arsenal_air_hat.png) |
+| - | Flint | ![flint](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Runic Storage Stone
@@ -1075,7 +1075,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Runic Storage Stone | ![runic_storage_stone](../images/ars_runic_storage_stone.png) |
+| - | Runic Storage Stone | ![runic_storage_stone](../images/ars_instrumentum_runic_storage_stone.png) |
 
 ---
 ## Scroll Of Save Starbuncle
@@ -1083,10 +1083,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
 | - | Nuggets/Gold | ![nuggets/gold](../images/ars_nuggets/gold.png) |
-| - | Ink Sac | ![ink_sac](../images/ars_ink_sac.png) |
-| - | Feather | ![feather](../images/ars_feather.png) |
+| - | Ink Sac | ![ink_sac](../images/ars_arsenal_air_hat.png) |
+| - | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
 
 ---
 ## {}
@@ -1102,7 +1102,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
-| i | Wheat | ![wheat](../images/ars_wheat.png) |
+| i | Wheat | ![wheat](../images/ars_arsenal_air_hat.png) |
 | s | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -1111,9 +1111,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
-| - | Bucket | ![bucket](../images/ars_bucket.png) |
-| - | Snow Block | ![snow_block](../images/ars_snow_block.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
+| - | Bucket | ![bucket](../images/ars_nouveau_source_bucket.png) |
+| - | Snow Block | ![snow_block](../images/ars_nouveau_animate_block.png) |
 
 ---
 ## Alchemical Sourcelink
@@ -1122,7 +1122,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
-| i | Brewing Stand | ![brewing_stand](../images/ars_brewing_stand.png) |
+| i | Brewing Stand | ![brewing_stand](../images/ars_arsenal_air_hat.png) |
 | s | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -1145,8 +1145,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
-| - | Chests | ![chests](../images/ars_chests.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
+| - | Chests | ![chests](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Alteration Table
@@ -1154,8 +1154,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
-| y | Scribes Table | ![scribes_table](../images/ars_scribes_table.png) |
+| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
+| y | Scribes Table | ![scribes_table](../images/ars_nouveau_scribes_table.png) |
 
 ---
 ## {}
@@ -1177,8 +1177,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
-| - | Leather | ![leather](../images/ars_leather.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
+| - | Leather | ![leather](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## {}
@@ -1214,16 +1214,16 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Novice Spell Book | ![novice_spell_book](../images/ars_novice_spell_book.png) |
-| - | Obsidian | ![obsidian](../images/ars_obsidian.png) |
-| - | Diamond | ![diamond](../images/ars_diamond.png) |
-| - | Diamond | ![diamond](../images/ars_diamond.png) |
-| - | Diamond | ![diamond](../images/ars_diamond.png) |
-| - | Quartz Block | ![quartz_block](../images/ars_quartz_block.png) |
-| - | Quartz Block | ![quartz_block](../images/ars_quartz_block.png) |
-| - | Blaze Rod | ![blaze_rod](../images/ars_blaze_rod.png) |
-| - | Blaze Rod | ![blaze_rod](../images/ars_blaze_rod.png) |
-| y | Spell Book | ![spell_book](../images/ars_spell_book.png) |
+| - | Novice Spell Book | ![novice_spell_book](../images/ars_elemental_spell_horn.png) |
+| - | Obsidian | ![obsidian](../images/ars_arsenal_air_hat.png) |
+| - | Diamond | ![diamond](../images/ars_arsenal_air_hat.png) |
+| - | Diamond | ![diamond](../images/ars_arsenal_air_hat.png) |
+| - | Diamond | ![diamond](../images/ars_arsenal_air_hat.png) |
+| - | Quartz Block | ![quartz_block](../images/ars_nouveau_animate_block.png) |
+| - | Quartz Block | ![quartz_block](../images/ars_nouveau_animate_block.png) |
+| - | Blaze Rod | ![blaze_rod](../images/ars_nouveau_blaze_fiber.png) |
+| - | Blaze Rod | ![blaze_rod](../images/ars_nouveau_blaze_fiber.png) |
+| y | Spell Book | ![spell_book](../images/ars_elemental_spell_horn.png) |
 
 ---
 ## {}
@@ -1245,7 +1245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| x | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 | y | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 | z | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
@@ -1255,7 +1255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| x | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 | y | Nuggets/Gold | ![nuggets/gold](../images/ars_nuggets/gold.png) |
 | z | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
@@ -1265,7 +1265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Arcane Pedestal | ![arcane_pedestal](../images/ars_arcane_pedestal.png) |
+| - | Arcane Pedestal | ![arcane_pedestal](../images/ars_nouveau_arcane_pedestal.png) |
 
 ---
 ## {}
@@ -1301,15 +1301,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apprentice Spell Book | ![apprentice_spell_book](../images/ars_apprentice_spell_book.png) |
-| - | Nether Star | ![nether_star](../images/ars_nether_star.png) |
-| - | Wilden Tribute | ![wilden_tribute](../images/ars_wilden_tribute.png) |
-| - | Emerald | ![emerald](../images/ars_emerald.png) |
-| - | Emerald | ![emerald](../images/ars_emerald.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
-| - | Totem Of Undying | ![totem_of_undying](../images/ars_totem_of_undying.png) |
+| - | Apprentice Spell Book | ![apprentice_spell_book](../images/ars_elemental_spell_horn.png) |
+| - | Nether Star | ![nether_star](../images/ars_arsenal_air_hat.png) |
+| - | Wilden Tribute | ![wilden_tribute](../images/ars_instrumentum_fake_wilden_tribute.png) |
+| - | Emerald | ![emerald](../images/ars_arsenal_air_hat.png) |
+| - | Emerald | ![emerald](../images/ars_arsenal_air_hat.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
+| - | Totem Of Undying | ![totem_of_undying](../images/ars_arsenal_sigil_of_aethermancy.png) |
 
 ---
 ## Archwood Button
@@ -1317,7 +1317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| - | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Archwood Chest
@@ -1325,8 +1325,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
-| y | Gold Nugget | ![gold_nugget](../images/ars_gold_nugget.png) |
+| x | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
+| y | Gold Nugget | ![gold_nugget](../images/ars_nouveau_arcanists_hat_gold.png) |
 
 ---
 ## Archwood Door
@@ -1334,7 +1334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Archwood Fence
@@ -1342,8 +1342,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ars_stick.png) |
-| W | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Stick | ![stick](../images/ars_arsenal_air_hat.png) |
+| W | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Archwood Fence Gate
@@ -1351,8 +1351,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ars_stick.png) |
-| W | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Stick | ![stick](../images/ars_arsenal_air_hat.png) |
+| W | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Archwood Planks
@@ -1368,7 +1368,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Archwood Slab
@@ -1376,7 +1376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Archwood Stairs
@@ -1384,7 +1384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## Chest
@@ -1392,7 +1392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Archwood Chest | ![archwood_chest](../images/ars_archwood_chest.png) |
+| - | Archwood Chest | ![archwood_chest](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 
 ---
 ## Archwood Trapdoor
@@ -1400,7 +1400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| # | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## {}
@@ -1481,8 +1481,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Paper | ![paper](../images/ars_paper.png) |
-| y | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
+| x | Paper | ![paper](../images/ars_arsenal_air_hat.png) |
+| y | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
 
 ---
 ## Blank Thread
@@ -1490,7 +1490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
+| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
 | y | Nuggets/Gold | ![nuggets/gold](../images/ars_nuggets/gold.png) |
 
 ---
@@ -1527,9 +1527,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
-| - | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
-| - | Blaze Powder | ![blaze_powder](../images/ars_blaze_powder.png) |
+| - | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
+| - | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
+| - | Blaze Powder | ![blaze_powder](../images/ars_nouveau_blaze_fiber.png) |
 
 ---
 ## Blue Archwood Wood
@@ -1537,7 +1537,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Blue Archwood Log | ![blue_archwood_log](../images/ars_blue_archwood_log.png) |
+| x | Blue Archwood Log | ![blue_archwood_log](../images/ars_nouveau_blue_archwood_log.png) |
 
 ---
 ## Blue Sbed
@@ -1545,7 +1545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summon Bed | ![summon_bed](../images/ars_summon_bed.png) |
+| - | Summon Bed | ![summon_bed](../images/ars_elemental_thread_summon.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/ars_dyes/blue.png) |
 
 ---
@@ -1568,9 +1568,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Wilden Horn | ![wilden_horn](../images/ars_wilden_horn.png) |
-| - | Emerald | ![emerald](../images/ars_emerald.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Wilden Horn | ![wilden_horn](../images/ars_nouveau_wilden_horn.png) |
+| - | Emerald | ![emerald](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## {}
@@ -1585,7 +1585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Allow Scroll | ![allow_scroll](../images/ars_allow_scroll.png) |
+| - | Allow Scroll | ![allow_scroll](../images/ars_nouveau_allow_scroll.png) |
 
 ---
 ## Deny Scroll
@@ -1593,7 +1593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deny Scroll | ![deny_scroll](../images/ars_deny_scroll.png) |
+| - | Deny Scroll | ![deny_scroll](../images/ars_nouveau_deny_scroll.png) |
 
 ---
 ## End Stone
@@ -1601,8 +1601,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stone | ![stone](../images/ars_stone.png) |
-| y | Conjuration Essence | ![conjuration_essence](../images/ars_conjuration_essence.png) |
+| x | Stone | ![stone](../images/ars_instrumentum_runic_storage_stone.png) |
+| y | Conjuration Essence | ![conjuration_essence](../images/ars_nouveau_conjuration_essence.png) |
 
 ---
 ## Soul Sand
@@ -1610,8 +1610,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Sand | ![sand](../images/ars_sand.png) |
-| y | Conjuration Essence | ![conjuration_essence](../images/ars_conjuration_essence.png) |
+| x | Sand | ![sand](../images/ars_arsenal_air_hat.png) |
+| y | Conjuration Essence | ![conjuration_essence](../images/ars_nouveau_conjuration_essence.png) |
 
 ---
 ## {}
@@ -1801,8 +1801,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
-| - | Cobblestone | ![cobblestone](../images/ars_cobblestone.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
+| - | Cobblestone | ![cobblestone](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## {}
@@ -1845,7 +1845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| a | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 | x | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 
 ---
@@ -1870,8 +1870,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Apprentice Boots | ![apprentice_boots](../images/ars_apprentice_boots.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Apprentice Boots | ![apprentice_boots](../images/ars_nouveau_apprentice_boots.png) |
 
 ---
 ## Apprentice Hood
@@ -1879,8 +1879,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Apprentice Hood | ![apprentice_hood](../images/ars_apprentice_hood.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Apprentice Hood | ![apprentice_hood](../images/ars_nouveau_apprentice_hood.png) |
 
 ---
 ## Apprentice Leggings
@@ -1888,8 +1888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Apprentice Leggings | ![apprentice_leggings](../images/ars_apprentice_leggings.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Apprentice Leggings | ![apprentice_leggings](../images/ars_nouveau_apprentice_leggings.png) |
 
 ---
 ## Apprentice Robes
@@ -1897,8 +1897,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Apprentice Robes | ![apprentice_robes](../images/ars_apprentice_robes.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Apprentice Robes | ![apprentice_robes](../images/ars_nouveau_apprentice_robes.png) |
 
 ---
 ## Apprentice Spell Book
@@ -1906,8 +1906,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Apprentice Spell Book | ![apprentice_spell_book](../images/ars_apprentice_spell_book.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Apprentice Spell Book | ![apprentice_spell_book](../images/ars_elemental_spell_horn.png) |
 
 ---
 ## Archmage Boots
@@ -1915,8 +1915,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Archmage Boots | ![archmage_boots](../images/ars_archmage_boots.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Archmage Boots | ![archmage_boots](../images/ars_nouveau_archmage_boots.png) |
 
 ---
 ## Archmage Hood
@@ -1924,8 +1924,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Archmage Hood | ![archmage_hood](../images/ars_archmage_hood.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Archmage Hood | ![archmage_hood](../images/ars_nouveau_archmage_hood.png) |
 
 ---
 ## Archmage Leggings
@@ -1933,8 +1933,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Archmage Leggings | ![archmage_leggings](../images/ars_archmage_leggings.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Archmage Leggings | ![archmage_leggings](../images/ars_nouveau_archmage_leggings.png) |
 
 ---
 ## Archmage Robes
@@ -1942,8 +1942,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Archmage Robes | ![archmage_robes](../images/ars_archmage_robes.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Archmage Robes | ![archmage_robes](../images/ars_nouveau_archmage_robes.png) |
 
 ---
 ## Archmage Spell Book
@@ -1951,8 +1951,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Archmage Spell Book | ![archmage_spell_book](../images/ars_archmage_spell_book.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Archmage Spell Book | ![archmage_spell_book](../images/ars_elemental_spell_horn.png) |
 
 ---
 ## Novice Boots
@@ -1960,8 +1960,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Novice Boots | ![novice_boots](../images/ars_novice_boots.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Novice Boots | ![novice_boots](../images/ars_nouveau_novice_boots.png) |
 
 ---
 ## Novice Hood
@@ -1969,8 +1969,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Novice Hood | ![novice_hood](../images/ars_novice_hood.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Novice Hood | ![novice_hood](../images/ars_nouveau_novice_hood.png) |
 
 ---
 ## Novice Leggings
@@ -1978,8 +1978,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Novice Leggings | ![novice_leggings](../images/ars_novice_leggings.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Novice Leggings | ![novice_leggings](../images/ars_nouveau_novice_leggings.png) |
 
 ---
 ## Novice Robes
@@ -1987,8 +1987,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Novice Robes | ![novice_robes](../images/ars_novice_robes.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Novice Robes | ![novice_robes](../images/ars_nouveau_novice_robes.png) |
 
 ---
 ## Novice Spell Book
@@ -1996,8 +1996,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dyes | ![dyes](../images/ars_dyes.png) |
-| - | Novice Spell Book | ![novice_spell_book](../images/ars_novice_spell_book.png) |
+| - | Dyes | ![dyes](../images/ars_arsenal_air_hat.png) |
+| - | Novice Spell Book | ![novice_spell_book](../images/ars_elemental_spell_horn.png) |
 
 ---
 ## {}
@@ -2071,7 +2071,7 @@
 | d | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 | n | Nuggets/Gold | ![nuggets/gold](../images/ars_nuggets/gold.png) |
-| s | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| s | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## End Fiber
@@ -2079,9 +2079,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blaze Fiber | ![blaze_fiber](../images/ars_blaze_fiber.png) |
-| - | Blaze Fiber | ![blaze_fiber](../images/ars_blaze_fiber.png) |
-| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ars_popped_chorus_fruit.png) |
+| - | Blaze Fiber | ![blaze_fiber](../images/ars_nouveau_blaze_fiber.png) |
+| - | Blaze Fiber | ![blaze_fiber](../images/ars_nouveau_blaze_fiber.png) |
+| - | Popped Chorus Fruit | ![popped_chorus_fruit](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Experience Gem
@@ -2089,7 +2089,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Greater Experience Gem | ![greater_experience_gem](../images/ars_greater_experience_gem.png) |
+| - | Greater Experience Gem | ![greater_experience_gem](../images/ars_nouveau_greater_experience_gem.png) |
 
 ---
 ## Falseweave
@@ -2097,8 +2097,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Block | ![magebloom_block](../images/ars_magebloom_block.png) |
-| y | Air Essence | ![air_essence](../images/ars_air_essence.png) |
+| x | Magebloom Block | ![magebloom_block](../images/ars_nouveau_magebloom_block.png) |
+| y | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
 
 ---
 ## {}
@@ -2162,9 +2162,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fire Essence | ![fire_essence](../images/ars_fire_essence.png) |
-| - | Gunpowder | ![gunpowder](../images/ars_gunpowder.png) |
-| - | Coal | ![coal](../images/ars_coal.png) |
+| - | Fire Essence | ![fire_essence](../images/ars_nouveau_fire_essence.png) |
+| - | Gunpowder | ![gunpowder](../images/ars_arsenal_air_hat.png) |
+| - | Coal | ![coal](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Magma Block
@@ -2172,8 +2172,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stone | ![stone](../images/ars_stone.png) |
-| y | Fire Essence | ![fire_essence](../images/ars_fire_essence.png) |
+| x | Stone | ![stone](../images/ars_instrumentum_runic_storage_stone.png) |
+| y | Fire Essence | ![fire_essence](../images/ars_nouveau_fire_essence.png) |
 
 ---
 ## {}
@@ -2244,8 +2244,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Block | ![magebloom_block](../images/ars_magebloom_block.png) |
-| y | Abjuration Essence | ![abjuration_essence](../images/ars_abjuration_essence.png) |
+| x | Magebloom Block | ![magebloom_block](../images/ars_nouveau_magebloom_block.png) |
+| y | Abjuration Essence | ![abjuration_essence](../images/ars_nouveau_abjuration_essence.png) |
 
 ---
 ## Gilded Sourcestone Alternating Slab
@@ -2253,7 +2253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| # | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Stairs
@@ -2261,7 +2261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| # | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Stairs
@@ -2269,7 +2269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Slab
@@ -2277,7 +2277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone
@@ -2285,7 +2285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| - | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Slab
@@ -2293,7 +2293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| # | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Stairs
@@ -2301,7 +2301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| # | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Stairs
@@ -2309,7 +2309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Slab
@@ -2317,7 +2317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone
@@ -2325,7 +2325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| - | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Slab
@@ -2333,7 +2333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| # | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Stairs
@@ -2341,7 +2341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| # | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Stairs
@@ -2349,7 +2349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Slab
@@ -2357,7 +2357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone
@@ -2365,7 +2365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| - | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Slab
@@ -2373,7 +2373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| # | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Stairs
@@ -2381,7 +2381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| # | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Stairs
@@ -2389,7 +2389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Slab
@@ -2397,7 +2397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone
@@ -2405,7 +2405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| - | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Slab
@@ -2413,7 +2413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| # | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Stairs
@@ -2421,7 +2421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| # | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Stairs
@@ -2429,7 +2429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Slab
@@ -2437,7 +2437,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone
@@ -2445,7 +2445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| - | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## {}
@@ -3006,10 +3006,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Experience Gem | ![experience_gem](../images/ars_experience_gem.png) |
-| - | Experience Gem | ![experience_gem](../images/ars_experience_gem.png) |
-| - | Experience Gem | ![experience_gem](../images/ars_experience_gem.png) |
-| - | Experience Gem | ![experience_gem](../images/ars_experience_gem.png) |
+| - | Experience Gem | ![experience_gem](../images/ars_nouveau_experience_gem.png) |
+| - | Experience Gem | ![experience_gem](../images/ars_nouveau_experience_gem.png) |
+| - | Experience Gem | ![experience_gem](../images/ars_nouveau_experience_gem.png) |
+| - | Experience Gem | ![experience_gem](../images/ars_nouveau_experience_gem.png) |
 
 ---
 ## Green Archwood Wood
@@ -3017,7 +3017,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
+| x | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
 
 ---
 ## Green Sbed
@@ -3025,7 +3025,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summon Bed | ![summon_bed](../images/ars_summon_bed.png) |
+| - | Summon Bed | ![summon_bed](../images/ars_elemental_thread_summon.png) |
 | - | Dyes/Green | ![dyes/green](../images/ars_dyes/green.png) |
 
 ---
@@ -3041,7 +3041,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wilden Horn | ![wilden_horn](../images/ars_wilden_horn.png) |
+| - | Wilden Horn | ![wilden_horn](../images/ars_nouveau_wilden_horn.png) |
 
 ---
 ## {}
@@ -3084,7 +3084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| x | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 | y | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 
 ---
@@ -3156,9 +3156,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Glass | ![glass](../images/ars_glass.png) |
-| y | Observer | ![observer](../images/ars_observer.png) |
-| z | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| x | Glass | ![glass](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
+| y | Observer | ![observer](../images/ars_arsenal_air_hat.png) |
+| z | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## {}
@@ -3208,7 +3208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lily Pad | ![lily_pad](../images/ars_lily_pad.png) |
+| - | Lily Pad | ![lily_pad](../images/ars_nouveau_lily_flowing.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
@@ -3259,7 +3259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
+| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
 
 ---
 ## Magebloom Fiber
@@ -3267,7 +3267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magebloom Block | ![magebloom_block](../images/ars_magebloom_block.png) |
+| - | Magebloom Block | ![magebloom_block](../images/ars_nouveau_magebloom_block.png) |
 
 ---
 ## {}
@@ -3282,7 +3282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
 
 ---
 ## Pink Dye
@@ -3290,8 +3290,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
 
 ---
 ## Magelight Torch
@@ -3357,8 +3357,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Granite | ![granite](../images/ars_granite.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Granite | ![granite](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Red Archwood Sapling
@@ -3366,8 +3366,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
-| - | Purple Archwood Sapling | ![purple_archwood_sapling](../images/ars_purple_archwood_sapling.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
+| - | Purple Archwood Sapling | ![purple_archwood_sapling](../images/ars_nouveau_purple_archwood_sapling.png) |
 
 ---
 ## Calcite
@@ -3375,8 +3375,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Tuff | ![tuff](../images/ars_tuff.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Tuff | ![tuff](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Blue Archwood Sapling
@@ -3384,8 +3384,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
-| - | Red Archwood Sapling | ![red_archwood_sapling](../images/ars_red_archwood_sapling.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
+| - | Red Archwood Sapling | ![red_archwood_sapling](../images/ars_nouveau_red_archwood_sapling.png) |
 
 ---
 ## Deepslate
@@ -3393,8 +3393,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Calcite | ![calcite](../images/ars_calcite.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Calcite | ![calcite](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Diorite
@@ -3402,8 +3402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Andesite | ![andesite](../images/ars_andesite.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Andesite | ![andesite](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Green Archwood Sapling
@@ -3411,8 +3411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
-| - | Blue Archwood Sapling | ![blue_archwood_sapling](../images/ars_blue_archwood_sapling.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
+| - | Blue Archwood Sapling | ![blue_archwood_sapling](../images/ars_nouveau_blue_archwood_sapling.png) |
 
 ---
 ## Granite
@@ -3420,8 +3420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Diorite | ![diorite](../images/ars_diorite.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Diorite | ![diorite](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Grass Block
@@ -3429,8 +3429,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Moss Block | ![moss_block](../images/ars_moss_block.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Moss Block | ![moss_block](../images/ars_nouveau_animate_block.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Moss Block
@@ -3438,8 +3438,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Mycelium | ![mycelium](../images/ars_mycelium.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Mycelium | ![mycelium](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Mycelium
@@ -3447,8 +3447,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Grass Block | ![grass_block](../images/ars_grass_block.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Grass Block | ![grass_block](../images/ars_nouveau_animate_block.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Tuff
@@ -3456,8 +3456,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Deepslate | ![deepslate](../images/ars_deepslate.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Deepslate | ![deepslate](../images/ars_arsenal_air_hat.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## Purple Archwood Sapling
@@ -3465,8 +3465,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
-| - | Green Archwood Sapling | ![green_archwood_sapling](../images/ars_green_archwood_sapling.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
+| - | Green Archwood Sapling | ![green_archwood_sapling](../images/ars_nouveau_green_archwood_sapling.png) |
 
 ---
 ## Mimic Scroll
@@ -3474,8 +3474,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Allow Scroll | ![allow_scroll](../images/ars_allow_scroll.png) |
-| - | Chest | ![chest](../images/ars_chest.png) |
+| - | Allow Scroll | ![allow_scroll](../images/ars_nouveau_allow_scroll.png) |
+| - | Chest | ![chest](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Mirrorweave
@@ -3483,8 +3483,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Block | ![magebloom_block](../images/ars_magebloom_block.png) |
-| y | Conjuration Essence | ![conjuration_essence](../images/ars_conjuration_essence.png) |
+| x | Magebloom Block | ![magebloom_block](../images/ars_nouveau_magebloom_block.png) |
+| y | Conjuration Essence | ![conjuration_essence](../images/ars_nouveau_conjuration_essence.png) |
 
 ---
 ## Mob Jar
@@ -3492,8 +3492,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Glass | ![glass](../images/ars_glass.png) |
-| y | Archwood Slab | ![archwood_slab](../images/ars_archwood_slab.png) |
+| x | Glass | ![glass](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
+| y | Archwood Slab | ![archwood_slab](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 
 ---
 ## Ritual Moonfall
@@ -3501,8 +3501,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_blue_archwood_log.png) |
-| - | Wilden Wing | ![wilden_wing](../images/ars_wilden_wing.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_nouveau_blue_archwood_log.png) |
+| - | Wilden Wing | ![wilden_wing](../images/ars_nouveau_wilden_wing.png) |
 
 ---
 ## {}
@@ -3517,7 +3517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Leather | ![leather](../images/ars_leather.png) |
+| x | Leather | ![leather](../images/ars_arsenal_air_hat.png) |
 | y | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -3527,7 +3527,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
-| i | Mushroom Stew | ![mushroom_stew](../images/ars_mushroom_stew.png) |
+| i | Mushroom Stew | ![mushroom_stew](../images/ars_arsenal_air_hat.png) |
 | s | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -3564,11 +3564,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/ars_book.png) |
-| - | Iron Shovel | ![iron_shovel](../images/ars_iron_shovel.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/ars_iron_pickaxe.png) |
-| - | Iron Axe | ![iron_axe](../images/ars_iron_axe.png) |
-| - | Iron Sword | ![iron_sword](../images/ars_iron_sword.png) |
+| - | Book | ![book](../images/ars_nouveau_book_wyrm_lectern.png) |
+| - | Iron Shovel | ![iron_shovel](../images/ars_arsenal_air_hat.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/ars_arsenal_air_hat.png) |
+| - | Iron Axe | ![iron_axe](../images/ars_arsenal_air_hat.png) |
+| - | Iron Sword | ![iron_sword](../images/ars_nouveau_enchanters_sword.png) |
 
 ---
 ## Orange Sbed
@@ -3576,8 +3576,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
-| y | Feather | ![feather](../images/ars_feather.png) |
+| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
+| y | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
 
 ---
 ## {}
@@ -3620,7 +3620,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Arcane Platform | ![arcane_platform](../images/ars_arcane_platform.png) |
+| - | Arcane Platform | ![arcane_platform](../images/ars_nouveau_arcane_platform.png) |
 
 ---
 ## {}
@@ -3656,8 +3656,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potion Flask Amplify | ![potion_flask_amplify](../images/ars_potion_flask_amplify.png) |
-| - | Potion | ![potion](../images/ars_potion.png) |
+| - | Potion Flask Amplify | ![potion_flask_amplify](../images/ars_nouveau_potion_flask.png) |
+| - | Potion | ![potion](../images/ars_nouveau_potion_diffuser.png) |
 
 ---
 ## Potion Flask Extend Time
@@ -3665,8 +3665,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potion Flask Extend Time | ![potion_flask_extend_time](../images/ars_potion_flask_extend_time.png) |
-| - | Potion | ![potion](../images/ars_potion.png) |
+| - | Potion Flask Extend Time | ![potion_flask_extend_time](../images/ars_nouveau_extend_time.png) |
+| - | Potion | ![potion](../images/ars_nouveau_potion_diffuser.png) |
 
 ---
 ## {}
@@ -3681,8 +3681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potion Flask | ![potion_flask](../images/ars_potion_flask.png) |
-| - | Potion | ![potion](../images/ars_potion.png) |
+| - | Potion Flask | ![potion_flask](../images/ars_nouveau_potion_flask.png) |
+| - | Potion | ![potion](../images/ars_nouveau_potion_diffuser.png) |
 
 ---
 ## Potion Jar
@@ -3690,8 +3690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Source Jar | ![source_jar](../images/ars_source_jar.png) |
-| - | Abjuration Essence | ![abjuration_essence](../images/ars_abjuration_essence.png) |
+| - | Source Jar | ![source_jar](../images/ars_nouveau_source_jar.png) |
+| - | Abjuration Essence | ![abjuration_essence](../images/ars_nouveau_abjuration_essence.png) |
 
 ---
 ## Potion Jar
@@ -3699,7 +3699,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Potion Jar | ![potion_jar](../images/ars_potion_jar.png) |
+| - | Potion Jar | ![potion_jar](../images/ars_nouveau_potion_jar.png) |
 
 ---
 ## {}
@@ -3833,7 +3833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
+| x | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
 
 ---
 ## Purple Sbed
@@ -3841,7 +3841,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summon Bed | ![summon_bed](../images/ars_summon_bed.png) |
+| - | Summon Bed | ![summon_bed](../images/ars_elemental_thread_summon.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/ars_dyes/purple.png) |
 
 ---
@@ -3909,7 +3909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Red Archwood Log | ![red_archwood_log](../images/ars_red_archwood_log.png) |
+| x | Red Archwood Log | ![red_archwood_log](../images/ars_nouveau_red_archwood_log.png) |
 
 ---
 ## Red Sbed
@@ -3917,7 +3917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summon Bed | ![summon_bed](../images/ars_summon_bed.png) |
+| - | Summon Bed | ![summon_bed](../images/ars_elemental_thread_summon.png) |
 | - | Dyes/Red | ![dyes/red](../images/ars_dyes/red.png) |
 
 ---
@@ -3979,7 +3979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stable Warp Scroll | ![stable_warp_scroll](../images/ars_stable_warp_scroll.png) |
+| - | Stable Warp Scroll | ![stable_warp_scroll](../images/ars_nouveau_stable_warp_scroll.png) |
 
 ---
 ## Warp Scroll
@@ -3987,7 +3987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warp Scroll | ![warp_scroll](../images/ars_warp_scroll.png) |
+| - | Warp Scroll | ![warp_scroll](../images/ars_nouveau_stable_warp_scroll.png) |
 
 ---
 ## {}
@@ -4039,11 +4039,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Magic Shards | ![magic_shards](../images/ars_magic_shards.png) |
-| - | Magic Shards | ![magic_shards](../images/ars_magic_shards.png) |
-| - | Magic Shards | ![magic_shards](../images/ars_magic_shards.png) |
-| - | Lapis Block | ![lapis_block](../images/ars_lapis_block.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Magic Shards | ![magic_shards](../images/ars_elemental_siren_shards.png) |
+| - | Magic Shards | ![magic_shards](../images/ars_elemental_siren_shards.png) |
+| - | Magic Shards | ![magic_shards](../images/ars_elemental_siren_shards.png) |
+| - | Lapis Block | ![lapis_block](../images/ars_nouveau_animate_block.png) |
 
 ---
 ## Ritual Awakening
@@ -4051,11 +4051,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Red Archwood Sapling | ![red_archwood_sapling](../images/ars_red_archwood_sapling.png) |
-| - | Blue Archwood Sapling | ![blue_archwood_sapling](../images/ars_blue_archwood_sapling.png) |
-| - | Green Archwood Sapling | ![green_archwood_sapling](../images/ars_green_archwood_sapling.png) |
-| - | Purple Archwood Sapling | ![purple_archwood_sapling](../images/ars_purple_archwood_sapling.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Red Archwood Sapling | ![red_archwood_sapling](../images/ars_nouveau_red_archwood_sapling.png) |
+| - | Blue Archwood Sapling | ![blue_archwood_sapling](../images/ars_nouveau_blue_archwood_sapling.png) |
+| - | Green Archwood Sapling | ![green_archwood_sapling](../images/ars_nouveau_green_archwood_sapling.png) |
+| - | Purple Archwood Sapling | ![purple_archwood_sapling](../images/ars_nouveau_purple_archwood_sapling.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
@@ -4067,9 +4067,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
@@ -4080,7 +4080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Arcane Pedestal | ![arcane_pedestal](../images/ars_arcane_pedestal.png) |
+| - | Arcane Pedestal | ![arcane_pedestal](../images/ars_nouveau_arcane_pedestal.png) |
 | - | Storage Blocks/Source | ![storage_blocks/source](../images/ars_storage_blocks/source.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
@@ -4092,8 +4092,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Iron Pickaxe | ![iron_pickaxe](../images/ars_iron_pickaxe.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Iron Pickaxe | ![iron_pickaxe](../images/ars_arsenal_air_hat.png) |
 | - | Storage Blocks/Coal | ![storage_blocks/coal](../images/ars_storage_blocks/coal.png) |
 
 ---
@@ -4102,9 +4102,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Emerald Block | ![emerald_block](../images/ars_emerald_block.png) |
-| - | Ink Sac | ![ink_sac](../images/ars_ink_sac.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Emerald Block | ![emerald_block](../images/ars_nouveau_animate_block.png) |
+| - | Ink Sac | ![ink_sac](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Cloudshaping
@@ -4112,8 +4112,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_blue_archwood_log.png) |
-| - | Feather | ![feather](../images/ars_feather.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_nouveau_blue_archwood_log.png) |
+| - | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
 | - | Storage Blocks/Source | ![storage_blocks/source](../images/ars_storage_blocks/source.png) |
 
 ---
@@ -4122,9 +4122,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/ars_red_archwood_log.png) |
-| - | Sand | ![sand](../images/ars_sand.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/ars_nouveau_red_archwood_log.png) |
+| - | Sand | ![sand](../images/ars_arsenal_air_hat.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
 
 ---
 ## Ritual Conjure Island Plains
@@ -4132,9 +4132,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Grass Block | ![grass_block](../images/ars_grass_block.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Grass Block | ![grass_block](../images/ars_nouveau_animate_block.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
 
 ---
 ## Ritual Containment
@@ -4142,11 +4142,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
-| - | Glass Bottle | ![glass_bottle](../images/ars_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/ars_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/ars_glass_bottle.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
+| - | Glass Bottle | ![glass_bottle](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
 
 ---
 ## Ritual Disintegration
@@ -4154,13 +4154,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/ars_red_archwood_log.png) |
-| - | Golden Sword | ![golden_sword](../images/ars_golden_sword.png) |
-| - | Golden Sword | ![golden_sword](../images/ars_golden_sword.png) |
-| - | Golden Sword | ![golden_sword](../images/ars_golden_sword.png) |
-| - | Book | ![book](../images/ars_book.png) |
-| - | Book | ![book](../images/ars_book.png) |
-| - | Book | ![book](../images/ars_book.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/ars_nouveau_red_archwood_log.png) |
+| - | Golden Sword | ![golden_sword](../images/ars_nouveau_enchanters_sword.png) |
+| - | Golden Sword | ![golden_sword](../images/ars_nouveau_enchanters_sword.png) |
+| - | Golden Sword | ![golden_sword](../images/ars_nouveau_enchanters_sword.png) |
+| - | Book | ![book](../images/ars_nouveau_book_wyrm_lectern.png) |
+| - | Book | ![book](../images/ars_nouveau_book_wyrm_lectern.png) |
+| - | Book | ![book](../images/ars_nouveau_book_wyrm_lectern.png) |
 
 ---
 ## Ritual Fertility
@@ -4168,13 +4168,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Wheat | ![wheat](../images/ars_wheat.png) |
-| - | Wheat | ![wheat](../images/ars_wheat.png) |
-| - | Wheat | ![wheat](../images/ars_wheat.png) |
-| - | Golden Apple | ![golden_apple](../images/ars_golden_apple.png) |
-| - | Blaze Powder | ![blaze_powder](../images/ars_blaze_powder.png) |
-| - | Blaze Powder | ![blaze_powder](../images/ars_blaze_powder.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Wheat | ![wheat](../images/ars_arsenal_air_hat.png) |
+| - | Wheat | ![wheat](../images/ars_arsenal_air_hat.png) |
+| - | Wheat | ![wheat](../images/ars_arsenal_air_hat.png) |
+| - | Golden Apple | ![golden_apple](../images/ars_arsenal_air_hat.png) |
+| - | Blaze Powder | ![blaze_powder](../images/ars_nouveau_blaze_fiber.png) |
+| - | Blaze Powder | ![blaze_powder](../images/ars_nouveau_blaze_fiber.png) |
 
 ---
 ## Ritual Flight
@@ -4182,13 +4182,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Wilden Wing | ![wilden_wing](../images/ars_wilden_wing.png) |
-| - | Wilden Wing | ![wilden_wing](../images/ars_wilden_wing.png) |
-| - | Wilden Wing | ![wilden_wing](../images/ars_wilden_wing.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Wilden Wing | ![wilden_wing](../images/ars_nouveau_wilden_wing.png) |
+| - | Wilden Wing | ![wilden_wing](../images/ars_nouveau_wilden_wing.png) |
+| - | Wilden Wing | ![wilden_wing](../images/ars_nouveau_wilden_wing.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/ars_gems/diamond.png) |
-| - | Ender Pearl | ![ender_pearl](../images/ars_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/ars_nouveau_ender_inventory.png) |
 
 ---
 ## Ritual Flowering
@@ -4196,14 +4196,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Poppy | ![poppy](../images/ars_poppy.png) |
-| - | Poppy | ![poppy](../images/ars_poppy.png) |
-| - | Poppy | ![poppy](../images/ars_poppy.png) |
-| - | Dandelion | ![dandelion](../images/ars_dandelion.png) |
-| - | Dandelion | ![dandelion](../images/ars_dandelion.png) |
-| - | Dandelion | ![dandelion](../images/ars_dandelion.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Poppy | ![poppy](../images/ars_arsenal_air_hat.png) |
+| - | Poppy | ![poppy](../images/ars_arsenal_air_hat.png) |
+| - | Poppy | ![poppy](../images/ars_arsenal_air_hat.png) |
+| - | Dandelion | ![dandelion](../images/ars_arsenal_air_hat.png) |
+| - | Dandelion | ![dandelion](../images/ars_arsenal_air_hat.png) |
+| - | Dandelion | ![dandelion](../images/ars_arsenal_air_hat.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
 
 ---
 ## Ritual Forestation
@@ -4211,9 +4211,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Mendosteen Pod | ![mendosteen_pod](../images/ars_mendosteen_pod.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Mendosteen Pod | ![mendosteen_pod](../images/ars_nouveau_mendosteen_pod.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
 
 ---
 ## Ritual Gravity
@@ -4221,11 +4221,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
-| - | Feather | ![feather](../images/ars_feather.png) |
-| - | Anvil | ![anvil](../images/ars_anvil.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
+| - | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
+| - | Anvil | ![anvil](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Harvest
@@ -4233,9 +4233,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
-| - | Iron Hoe | ![iron_hoe](../images/ars_iron_hoe.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
+| - | Iron Hoe | ![iron_hoe](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Moonfall
@@ -4243,10 +4243,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_blue_archwood_log.png) |
-| - | Ink Sac | ![ink_sac](../images/ars_ink_sac.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_nouveau_blue_archwood_log.png) |
+| - | Ink Sac | ![ink_sac](../images/ars_arsenal_air_hat.png) |
 | - | Storage Blocks/Coal | ![storage_blocks/coal](../images/ars_storage_blocks/coal.png) |
-| - | Clock | ![clock](../images/ars_clock.png) |
+| - | Clock | ![clock](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Overgrowth
@@ -4254,12 +4254,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
-| - | Earth Essence | ![earth_essence](../images/ars_earth_essence.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
+| - | Earth Essence | ![earth_essence](../images/ars_nouveau_earth_essence.png) |
 
 ---
 ## Ritual Restoration
@@ -4267,9 +4267,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Archwood Log | ![green_archwood_log](../images/ars_green_archwood_log.png) |
-| - | Golden Apple | ![golden_apple](../images/ars_golden_apple.png) |
-| - | Abjuration Essence | ![abjuration_essence](../images/ars_abjuration_essence.png) |
+| - | Green Archwood Log | ![green_archwood_log](../images/ars_nouveau_green_archwood_log.png) |
+| - | Golden Apple | ![golden_apple](../images/ars_arsenal_air_hat.png) |
+| - | Abjuration Essence | ![abjuration_essence](../images/ars_nouveau_abjuration_essence.png) |
 
 ---
 ## Ritual Sanctuary
@@ -4277,9 +4277,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_blue_archwood_log.png) |
-| - | Water Essence | ![water_essence](../images/ars_water_essence.png) |
-| - | Sea Lantern | ![sea_lantern](../images/ars_sea_lantern.png) |
+| - | Blue Archwood Log | ![blue_archwood_log](../images/ars_nouveau_blue_archwood_log.png) |
+| - | Water Essence | ![water_essence](../images/ars_nouveau_water_essence.png) |
+| - | Sea Lantern | ![sea_lantern](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Scrying
@@ -4287,11 +4287,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Spider Eye | ![spider_eye](../images/ars_spider_eye.png) |
-| - | Spider Eye | ![spider_eye](../images/ars_spider_eye.png) |
-| - | Spider Eye | ![spider_eye](../images/ars_spider_eye.png) |
-| - | Glowstone | ![glowstone](../images/ars_glowstone.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Spider Eye | ![spider_eye](../images/ars_nouveau_enchanters_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/ars_nouveau_enchanters_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/ars_nouveau_enchanters_eye.png) |
+| - | Glowstone | ![glowstone](../images/ars_arsenal_air_hat.png) |
 | - | Storage Blocks/Source | ![storage_blocks/source](../images/ars_storage_blocks/source.png) |
 
 ---
@@ -4300,11 +4300,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/ars_red_archwood_log.png) |
-| - | Dandelion | ![dandelion](../images/ars_dandelion.png) |
-| - | Dandelion | ![dandelion](../images/ars_dandelion.png) |
-| - | Dandelion | ![dandelion](../images/ars_dandelion.png) |
-| - | Clock | ![clock](../images/ars_clock.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/ars_nouveau_red_archwood_log.png) |
+| - | Dandelion | ![dandelion](../images/ars_arsenal_air_hat.png) |
+| - | Dandelion | ![dandelion](../images/ars_arsenal_air_hat.png) |
+| - | Dandelion | ![dandelion](../images/ars_arsenal_air_hat.png) |
+| - | Clock | ![clock](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## Ritual Warping
@@ -4312,8 +4312,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Warp Scroll | ![warp_scroll](../images/ars_warp_scroll.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Warp Scroll | ![warp_scroll](../images/ars_nouveau_stable_warp_scroll.png) |
 
 ---
 ## Ritual Wilden Summon
@@ -4321,11 +4321,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Wilden Drop | ![wilden_drop](../images/ars_wilden_drop.png) |
-| - | Wilden Drop | ![wilden_drop](../images/ars_wilden_drop.png) |
-| - | Wilden Drop | ![wilden_drop](../images/ars_wilden_drop.png) |
-| - | Lapis Block | ![lapis_block](../images/ars_lapis_block.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Wilden Drop | ![wilden_drop](../images/ars_instrumentum_fake_wilden_tribute.png) |
+| - | Wilden Drop | ![wilden_drop](../images/ars_instrumentum_fake_wilden_tribute.png) |
+| - | Wilden Drop | ![wilden_drop](../images/ars_instrumentum_fake_wilden_tribute.png) |
+| - | Lapis Block | ![lapis_block](../images/ars_nouveau_animate_block.png) |
 
 ---
 ## Rotating Spell Turret
@@ -4333,7 +4333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Basic Spell Turret | ![basic_spell_turret](../images/ars_basic_spell_turret.png) |
+| - | Basic Spell Turret | ![basic_spell_turret](../images/ars_nouveau_basic_spell_turret.png) |
 
 ---
 ## Basic Spell Turret
@@ -4341,7 +4341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rotating Spell Turret | ![rotating_spell_turret](../images/ars_rotating_spell_turret.png) |
+| - | Rotating Spell Turret | ![rotating_spell_turret](../images/ars_nouveau_basic_spell_turret.png) |
 
 ---
 ## Runic Chalk
@@ -4349,9 +4349,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
-| - | Bone Meal | ![bone_meal](../images/ars_bone_meal.png) |
-| - | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
+| - | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
+| - | Bone Meal | ![bone_meal](../images/ars_arsenal_air_hat.png) |
+| - | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
 
 ---
 ## Sconce
@@ -4369,7 +4369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Archwood Slab | ![archwood_slab](../images/ars_archwood_slab.png) |
+| x | Archwood Slab | ![archwood_slab](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 | y | Nuggets/Gold | ![nuggets/gold](../images/ars_nuggets/gold.png) |
 | z | Logs/Archwood | ![logs/archwood](../images/ars_logs/archwood.png) |
 
@@ -4379,7 +4379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Eye | ![ender_eye](../images/ars_ender_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/ars_nouveau_enchanters_eye.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -4395,7 +4395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Scryer Scroll | ![scryer_scroll](../images/ars_scryer_scroll.png) |
+| - | Scryer Scroll | ![scryer_scroll](../images/ars_nouveau_scryer_scroll.png) |
 
 ---
 ## {}
@@ -4466,8 +4466,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Block | ![magebloom_block](../images/ars_magebloom_block.png) |
-| y | Manipulation Essence | ![manipulation_essence](../images/ars_manipulation_essence.png) |
+| x | Magebloom Block | ![magebloom_block](../images/ars_nouveau_magebloom_block.png) |
+| y | Manipulation Essence | ![manipulation_essence](../images/ars_nouveau_manipulation_essence.png) |
 
 ---
 ## {}
@@ -4510,7 +4510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| # | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Stairs
@@ -4518,7 +4518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| # | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Stairs
@@ -4526,7 +4526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Slab
@@ -4534,7 +4534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone
@@ -4542,7 +4542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| - | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Slab
@@ -4550,7 +4550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| # | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Stairs
@@ -4558,7 +4558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| # | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Stairs
@@ -4566,7 +4566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Slab
@@ -4574,7 +4574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone
@@ -4582,7 +4582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| - | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Slab
@@ -4590,7 +4590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| # | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Stairs
@@ -4598,7 +4598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| # | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Stairs
@@ -4606,7 +4606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Slab
@@ -4614,7 +4614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone
@@ -4622,7 +4622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| - | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Slab
@@ -4630,7 +4630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| # | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Stairs
@@ -4638,7 +4638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| # | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Stairs
@@ -4646,7 +4646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Slab
@@ -4654,7 +4654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone
@@ -4662,7 +4662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| - | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Slab
@@ -4670,7 +4670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| # | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Stairs
@@ -4678,7 +4678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| # | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Stairs
@@ -4686,7 +4686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Slab
@@ -4694,7 +4694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone
@@ -4702,7 +4702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| - | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Alternating Slab
@@ -4710,7 +4710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| # | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Stairs
@@ -4718,7 +4718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| # | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Stairs
@@ -4726,7 +4726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Slab
@@ -4734,7 +4734,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone
@@ -4742,7 +4742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| - | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Slab
@@ -4750,7 +4750,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| # | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Stairs
@@ -4758,7 +4758,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| # | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Stairs
@@ -4766,7 +4766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Slab
@@ -4774,7 +4774,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone
@@ -4782,7 +4782,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| - | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Slab
@@ -4790,7 +4790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| # | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Stairs
@@ -4798,7 +4798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| # | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Stairs
@@ -4806,7 +4806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Slab
@@ -4814,7 +4814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone
@@ -4822,7 +4822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| - | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Slab
@@ -4830,7 +4830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| # | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Stairs
@@ -4838,7 +4838,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| # | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Stairs
@@ -4846,7 +4846,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Slab
@@ -4854,7 +4854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone
@@ -4862,7 +4862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| - | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Slab
@@ -4870,7 +4870,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_smooth_sourcestone.png) |
+| # | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Slab
@@ -4878,7 +4878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| # | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Stairs
@@ -4886,7 +4886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| # | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Stairs
@@ -4894,7 +4894,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Slab
@@ -4902,7 +4902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone
@@ -4910,7 +4910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| - | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Stairs
@@ -4918,7 +4918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_smooth_sourcestone.png) |
+| # | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Stairs
@@ -4926,7 +4926,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_smooth_sourcestone.png) |
+| item | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Slab
@@ -4934,7 +4934,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_smooth_sourcestone.png) |
+| item | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone
@@ -4942,7 +4942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_smooth_sourcestone.png) |
+| - | Smooth Sourcestone | ![smooth_sourcestone](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Purple Dye
@@ -4950,7 +4950,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Source Berry | ![source_berry](../images/ars_source_berry.png) |
+| - | Source Berry | ![source_berry](../images/ars_nouveau_source_berry.png) |
 
 ---
 ## Sourcestone
@@ -4958,7 +4958,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stone | ![stone](../images/ars_stone.png) |
+| x | Stone | ![stone](../images/ars_instrumentum_runic_storage_stone.png) |
 | y | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -4967,7 +4967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone
@@ -4975,7 +4975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks
@@ -4983,7 +4983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Mosaic
@@ -4991,7 +4991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Basketweave
@@ -4999,7 +4999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating
@@ -5007,7 +5007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks
@@ -5015,7 +5015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks
@@ -5023,7 +5023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic
@@ -5031,7 +5031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave
@@ -5039,7 +5039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating
@@ -5047,7 +5047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Basketweave
@@ -5055,7 +5055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks
@@ -5063,7 +5063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks
@@ -5071,7 +5071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating
@@ -5079,7 +5079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Large Bricks
@@ -5087,7 +5087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Small Bricks
@@ -5095,7 +5095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Basketweave
@@ -5103,7 +5103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Mosaic
@@ -5111,7 +5111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating
@@ -5119,7 +5119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks
@@ -5127,7 +5127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Slab
@@ -5135,7 +5135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| # | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Stairs
@@ -5143,7 +5143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| # | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Stairs
@@ -5151,7 +5151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Slab
@@ -5159,7 +5159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone
@@ -5167,7 +5167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| - | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Basketweave Slab
@@ -5175,7 +5175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| # | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Stairs
@@ -5183,7 +5183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| # | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Stairs
@@ -5191,7 +5191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Slab
@@ -5199,7 +5199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone
@@ -5207,7 +5207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| - | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Large Bricks Slab
@@ -5215,7 +5215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| # | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Stairs
@@ -5223,7 +5223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| # | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Stairs
@@ -5231,7 +5231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Slab
@@ -5239,7 +5239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone
@@ -5247,7 +5247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| - | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Mosaic Slab
@@ -5255,7 +5255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| # | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Stairs
@@ -5263,7 +5263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| # | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Stairs
@@ -5271,7 +5271,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Slab
@@ -5279,7 +5279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone
@@ -5287,7 +5287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| - | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Small Bricks Slab
@@ -5295,7 +5295,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| # | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Stairs
@@ -5303,7 +5303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| # | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Stairs
@@ -5311,7 +5311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Slab
@@ -5319,7 +5319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone
@@ -5327,7 +5327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| - | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## {}
@@ -5357,7 +5357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Source Gem Block | ![source_gem_block](../images/ars_source_gem_block.png) |
+| - | Source Gem Block | ![source_gem_block](../images/ars_nouveau_source_gem_block.png) |
 
 ---
 ## Source Jar
@@ -5365,8 +5365,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Glass | ![glass](../images/ars_glass.png) |
-| y | Archwood Slab | ![archwood_slab](../images/ars_archwood_slab.png) |
+| x | Glass | ![glass](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
+| y | Archwood Slab | ![archwood_slab](../images/ars_elemental_stripped_yellow_archwood_log.png) |
 
 ---
 ## {}
@@ -5390,7 +5390,7 @@
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 | n | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/ars_storage_blocks/quartz.png) |
-| x | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| x | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## {}
@@ -5419,9 +5419,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Wilden Spike | ![wilden_spike](../images/ars_wilden_spike.png) |
-| y | Stick | ![stick](../images/ars_stick.png) |
-| z | Feather | ![feather](../images/ars_feather.png) |
+| x | Wilden Spike | ![wilden_spike](../images/ars_nouveau_wilden_spike.png) |
+| y | Stick | ![stick](../images/ars_arsenal_air_hat.png) |
+| z | Feather | ![feather](../images/ars_nouveau_thread_feather.png) |
 
 ---
 ## Orange Dye
@@ -5429,7 +5429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wilden Spike | ![wilden_spike](../images/ars_wilden_spike.png) |
+| - | Wilden Spike | ![wilden_spike](../images/ars_nouveau_wilden_spike.png) |
 
 ---
 ## {}
@@ -5465,8 +5465,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Tinted Glass | ![tinted_glass](../images/ars_tinted_glass.png) |
-| y | Source Gem | ![source_gem](../images/ars_source_gem.png) |
+| x | Tinted Glass | ![tinted_glass](../images/ars_nouveau_music_disc_thistle_the_sound_of_glass.png) |
+| y | Source Gem | ![source_gem](../images/ars_nouveau_source_gem.png) |
 
 ---
 ## {}
@@ -5488,7 +5488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Blue Archwood Log | ![stripped_blue_archwood_log](../images/ars_stripped_blue_archwood_log.png) |
+| # | Stripped Blue Archwood Log | ![stripped_blue_archwood_log](../images/ars_nouveau_stripped_blue_archwood_log.png) |
 
 ---
 ## Stripped Green Archwood Wood
@@ -5496,7 +5496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Green Archwood Log | ![stripped_green_archwood_log](../images/ars_stripped_green_archwood_log.png) |
+| # | Stripped Green Archwood Log | ![stripped_green_archwood_log](../images/ars_nouveau_stripped_green_archwood_log.png) |
 
 ---
 ## Stripped Purple Archwood Wood
@@ -5504,7 +5504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Purple Archwood Log | ![stripped_purple_archwood_log](../images/ars_stripped_purple_archwood_log.png) |
+| # | Stripped Purple Archwood Log | ![stripped_purple_archwood_log](../images/ars_nouveau_stripped_purple_archwood_log.png) |
 
 ---
 ## Stripped Red Archwood Wood
@@ -5512,7 +5512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Red Archwood Log | ![stripped_red_archwood_log](../images/ars_stripped_red_archwood_log.png) |
+| # | Stripped Red Archwood Log | ![stripped_red_archwood_log](../images/ars_nouveau_stripped_red_archwood_log.png) |
 
 ---
 ## {}
@@ -5527,8 +5527,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Archwood Log | ![red_archwood_log](../images/ars_red_archwood_log.png) |
-| - | Sunflower | ![sunflower](../images/ars_sunflower.png) |
+| - | Red Archwood Log | ![red_archwood_log](../images/ars_nouveau_red_archwood_log.png) |
+| - | Sunflower | ![sunflower](../images/ars_arsenal_air_hat.png) |
 
 ---
 ## {}
@@ -5754,7 +5754,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
-| i | Glistering Melon Slice | ![glistering_melon_slice](../images/ars_glistering_melon_slice.png) |
+| i | Glistering Melon Slice | ![glistering_melon_slice](../images/ars_arsenal_air_hat.png) |
 | s | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -5770,8 +5770,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Obsidian | ![obsidian](../images/ars_obsidian.png) |
-| y | Spell Prism | ![spell_prism](../images/ars_spell_prism.png) |
+| x | Obsidian | ![obsidian](../images/ars_arsenal_air_hat.png) |
+| y | Spell Prism | ![spell_prism](../images/ars_elemental_spell_prism_base.png) |
 
 ---
 ## Volcanic Sourcelink
@@ -5780,7 +5780,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
-| i | Lava Bucket | ![lava_bucket](../images/ars_lava_bucket.png) |
+| i | Lava Bucket | ![lava_bucket](../images/ars_nouveau_source_bucket.png) |
 | s | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 
 ---
@@ -5807,7 +5807,7 @@
 | - | Gems/Lapis | ![gems/lapis](../images/ars_gems/lapis.png) |
 | - | Gems/Lapis | ![gems/lapis](../images/ars_gems/lapis.png) |
 | - | Gems/Lapis | ![gems/lapis](../images/ars_gems/lapis.png) |
-| - | Blank Parchment | ![blank_parchment](../images/ars_blank_parchment.png) |
+| - | Blank Parchment | ![blank_parchment](../images/ars_nouveau_blank_parchment.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
@@ -5826,8 +5826,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Water Essence | ![water_essence](../images/ars_water_essence.png) |
-| - | Bucket | ![bucket](../images/ars_bucket.png) |
+| - | Water Essence | ![water_essence](../images/ars_nouveau_water_essence.png) |
+| - | Bucket | ![bucket](../images/ars_nouveau_source_bucket.png) |
 
 ---
 ## Obsidian
@@ -5835,8 +5835,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lava Bucket | ![lava_bucket](../images/ars_lava_bucket.png) |
-| - | Water Essence | ![water_essence](../images/ars_water_essence.png) |
+| - | Lava Bucket | ![lava_bucket](../images/ars_nouveau_source_bucket.png) |
+| - | Water Essence | ![water_essence](../images/ars_nouveau_water_essence.png) |
 
 ---
 ## {}
@@ -5851,11 +5851,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_purple_archwood_log.png) |
-| - | Emerald Block | ![emerald_block](../images/ars_emerald_block.png) |
-| - | Iron Sword | ![iron_sword](../images/ars_iron_sword.png) |
-| - | Bow | ![bow](../images/ars_bow.png) |
-| - | Lapis Block | ![lapis_block](../images/ars_lapis_block.png) |
+| - | Purple Archwood Log | ![purple_archwood_log](../images/ars_nouveau_purple_archwood_log.png) |
+| - | Emerald Block | ![emerald_block](../images/ars_nouveau_animate_block.png) |
+| - | Iron Sword | ![iron_sword](../images/ars_nouveau_enchanters_sword.png) |
+| - | Bow | ![bow](../images/ars_arsenal_air_hat.png) |
+| - | Lapis Block | ![lapis_block](../images/ars_nouveau_animate_block.png) |
 
 ---
 ## Leather
@@ -5863,7 +5863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wilden Wing | ![wilden_wing](../images/ars_wilden_wing.png) |
+| - | Wilden Wing | ![wilden_wing](../images/ars_nouveau_wilden_wing.png) |
 
 ---
 ## Blank Parchment
@@ -5871,7 +5871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spell Parchment | ![spell_parchment](../images/ars_spell_parchment.png) |
+| - | Spell Parchment | ![spell_parchment](../images/ars_elemental_spell_horn.png) |
 
 ---
 ## Starbuncle Shards
@@ -5879,7 +5879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Starbuncle Shards | ![starbuncle_shards](../images/ars_starbuncle_shards.png) |
+| - | Starbuncle Shards | ![starbuncle_shards](../images/ars_nouveau_starbuncle_shards.png) |
 
 ---
 ## {}
@@ -5894,7 +5894,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_magebloom_fiber.png) |
+| x | Magebloom Fiber | ![magebloom_fiber](../images/ars_nouveau_magebloom_fiber.png) |
 | y | Ingots/Gold | ![ingots/gold](../images/ars_ingots/gold.png) |
 
 ---
@@ -5904,7 +5904,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gems/Lapis | ![gems/lapis](../images/ars_gems/lapis.png) |
-| - | Book | ![book](../images/ars_book.png) |
+| - | Book | ![book](../images/ars_nouveau_book_wyrm_lectern.png) |
 
 ---
 ## {}
@@ -5933,7 +5933,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summon Bed | ![summon_bed](../images/ars_summon_bed.png) |
+| - | Summon Bed | ![summon_bed](../images/ars_elemental_thread_summon.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/ars_dyes/yellow.png) |
 
 ---
@@ -5944,11 +5944,11 @@
 | :--- | :--- | :--- |
 | - | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
 | - | Logs/Archwood | ![logs/archwood](../images/ars_logs/archwood.png) |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Mandrake Root | ![mandrake_root](../images/ars_mandrake_root.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Air Essence | ![air_essence](../images/ars_air_essence.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Mandrake Root | ![mandrake_root](../images/ars_arsenal_air_hat.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Air Essence | ![air_essence](../images/ars_nouveau_air_essence.png) |
 | - | Logs/Archwood | ![logs/archwood](../images/ars_logs/archwood.png) |
 
 ---
@@ -5958,8 +5958,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Gems/Source | ![gems/source](../images/ars_gems/source.png) |
-| S | Stick | ![stick](../images/ars_stick.png) |
-| W | Archwood Planks | ![archwood_planks](../images/ars_archwood_planks.png) |
+| S | Stick | ![stick](../images/ars_arsenal_air_hat.png) |
+| W | Archwood Planks | ![archwood_planks](../images/ars_nouveau_archwood_planks.png) |
 
 ---
 ## {}
@@ -5967,7 +5967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wet Magebloom Brush | ![wet_magebloom_brush](../images/ars_wet_magebloom_brush.png) |
+| - | Wet Magebloom Brush | ![wet_magebloom_brush](../images/ars_scalaes_wet_broom_brush.png) |
 
 ---
 ## Gilded Sourcestone Alternating Slab
@@ -5975,7 +5975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Wall
@@ -5983,7 +5983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Stairs
@@ -5991,7 +5991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| item | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Slab
@@ -5999,7 +5999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| B | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Stairs
@@ -6007,7 +6007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| B | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Alternating Wall
@@ -6015,7 +6015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_gilded_sourcestone_alternating.png) |
+| B | Gilded Sourcestone Alternating | ![gilded_sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Slab
@@ -6023,7 +6023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Wall
@@ -6031,7 +6031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Stairs
@@ -6039,7 +6039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| item | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Slab
@@ -6047,7 +6047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| B | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Stairs
@@ -6055,7 +6055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| B | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Basketweave Wall
@@ -6063,7 +6063,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_gilded_sourcestone_basketweave.png) |
+| B | Gilded Sourcestone Basketweave | ![gilded_sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Slab
@@ -6071,7 +6071,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Wall
@@ -6079,7 +6079,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Stairs
@@ -6087,7 +6087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| item | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Slab
@@ -6095,7 +6095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| B | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Stairs
@@ -6103,7 +6103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| B | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Large Bricks Wall
@@ -6111,7 +6111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_gilded_sourcestone_large_bricks.png) |
+| B | Gilded Sourcestone Large Bricks | ![gilded_sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Slab
@@ -6119,7 +6119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Wall
@@ -6127,7 +6127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Stairs
@@ -6135,7 +6135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| item | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Slab
@@ -6143,7 +6143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| B | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Stairs
@@ -6151,7 +6151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| B | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Mosaic Wall
@@ -6159,7 +6159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_gilded_sourcestone_mosaic.png) |
+| B | Gilded Sourcestone Mosaic | ![gilded_sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Slab
@@ -6167,7 +6167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Wall
@@ -6175,7 +6175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Stairs
@@ -6183,7 +6183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| item | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Slab
@@ -6191,7 +6191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| B | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Stairs
@@ -6199,7 +6199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| B | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Gilded Sourcestone Small Bricks Wall
@@ -6207,7 +6207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_gilded_sourcestone_small_bricks.png) |
+| B | Gilded Sourcestone Small Bricks | ![gilded_sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## {}
@@ -6264,7 +6264,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Wall
@@ -6272,7 +6272,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Stairs
@@ -6280,7 +6280,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| item | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Slab
@@ -6288,7 +6288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| B | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Stairs
@@ -6296,7 +6296,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| B | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Alternating Wall
@@ -6304,7 +6304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_smooth_gilded_sourcestone_alternating.png) |
+| B | Smooth Gilded Sourcestone Alternating | ![smooth_gilded_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Slab
@@ -6312,7 +6312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Wall
@@ -6320,7 +6320,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Stairs
@@ -6328,7 +6328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| item | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Slab
@@ -6336,7 +6336,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| B | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Stairs
@@ -6344,7 +6344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| B | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Basketweave Wall
@@ -6352,7 +6352,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_smooth_gilded_sourcestone_basketweave.png) |
+| B | Smooth Gilded Sourcestone Basketweave | ![smooth_gilded_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Slab
@@ -6360,7 +6360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Wall
@@ -6368,7 +6368,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Stairs
@@ -6376,7 +6376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| item | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Slab
@@ -6384,7 +6384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| B | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Stairs
@@ -6392,7 +6392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| B | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Large Bricks Wall
@@ -6400,7 +6400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_smooth_gilded_sourcestone_large_bricks.png) |
+| B | Smooth Gilded Sourcestone Large Bricks | ![smooth_gilded_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Slab
@@ -6408,7 +6408,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Wall
@@ -6416,7 +6416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Stairs
@@ -6424,7 +6424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| item | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Slab
@@ -6432,7 +6432,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| B | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Stairs
@@ -6440,7 +6440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| B | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Mosaic Wall
@@ -6448,7 +6448,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_smooth_gilded_sourcestone_mosaic.png) |
+| B | Smooth Gilded Sourcestone Mosaic | ![smooth_gilded_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Slab
@@ -6456,7 +6456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Wall
@@ -6464,7 +6464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Stairs
@@ -6472,7 +6472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| item | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Slab
@@ -6480,7 +6480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| B | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Stairs
@@ -6488,7 +6488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| B | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Gilded Sourcestone Small Bricks Wall
@@ -6496,7 +6496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_smooth_gilded_sourcestone_small_bricks.png) |
+| B | Smooth Gilded Sourcestone Small Bricks | ![smooth_gilded_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Alternating Slab
@@ -6504,7 +6504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Wall
@@ -6512,7 +6512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Stairs
@@ -6520,7 +6520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| item | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Slab
@@ -6528,7 +6528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| B | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Stairs
@@ -6536,7 +6536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| B | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Alternating Wall
@@ -6544,7 +6544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_smooth_sourcestone_alternating.png) |
+| B | Smooth Sourcestone Alternating | ![smooth_sourcestone_alternating](../images/ars_nouveau_smooth_gilded_sourcestone_alternating.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Slab
@@ -6552,7 +6552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Wall
@@ -6560,7 +6560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Stairs
@@ -6568,7 +6568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| item | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Slab
@@ -6576,7 +6576,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| B | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Stairs
@@ -6584,7 +6584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| B | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Basketweave Wall
@@ -6592,7 +6592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_smooth_sourcestone_basketweave.png) |
+| B | Smooth Sourcestone Basketweave | ![smooth_sourcestone_basketweave](../images/ars_nouveau_smooth_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Slab
@@ -6600,7 +6600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Wall
@@ -6608,7 +6608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Stairs
@@ -6616,7 +6616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| item | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Slab
@@ -6624,7 +6624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| B | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Stairs
@@ -6632,7 +6632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| B | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Large Bricks Wall
@@ -6640,7 +6640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_smooth_sourcestone_large_bricks.png) |
+| B | Smooth Sourcestone Large Bricks | ![smooth_sourcestone_large_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Slab
@@ -6648,7 +6648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Wall
@@ -6656,7 +6656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Stairs
@@ -6664,7 +6664,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| item | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Slab
@@ -6672,7 +6672,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| B | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Stairs
@@ -6680,7 +6680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| B | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Mosaic Wall
@@ -6688,7 +6688,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_smooth_sourcestone_mosaic.png) |
+| B | Smooth Sourcestone Mosaic | ![smooth_sourcestone_mosaic](../images/ars_nouveau_smooth_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Slab
@@ -6696,7 +6696,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Wall
@@ -6704,7 +6704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Stairs
@@ -6712,7 +6712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| item | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Slab
@@ -6720,7 +6720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| B | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Stairs
@@ -6728,7 +6728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| B | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Smooth Sourcestone Small Bricks Wall
@@ -6736,7 +6736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_smooth_sourcestone_small_bricks.png) |
+| B | Smooth Sourcestone Small Bricks | ![smooth_sourcestone_small_bricks](../images/ars_nouveau_smooth_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Slab
@@ -6744,7 +6744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Wall
@@ -6752,7 +6752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Stairs
@@ -6760,7 +6760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| item | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Slab
@@ -6768,7 +6768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Wall
@@ -6776,7 +6776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Stairs
@@ -6784,7 +6784,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| item | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Slab
@@ -6792,7 +6792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| B | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Stairs
@@ -6800,7 +6800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| B | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Alternating Wall
@@ -6808,7 +6808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_sourcestone_alternating.png) |
+| B | Sourcestone Alternating | ![sourcestone_alternating](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Basketweave Slab
@@ -6816,7 +6816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Wall
@@ -6824,7 +6824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Stairs
@@ -6832,7 +6832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| item | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Slab
@@ -6840,7 +6840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| B | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Stairs
@@ -6848,7 +6848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| B | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Basketweave Wall
@@ -6856,7 +6856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_sourcestone_basketweave.png) |
+| B | Sourcestone Basketweave | ![sourcestone_basketweave](../images/ars_nouveau_gilded_sourcestone_basketweave.png) |
 
 ---
 ## Sourcestone Large Bricks Slab
@@ -6864,7 +6864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Wall
@@ -6872,7 +6872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Stairs
@@ -6880,7 +6880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| item | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Slab
@@ -6888,7 +6888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| B | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Stairs
@@ -6896,7 +6896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| B | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Large Bricks Wall
@@ -6904,7 +6904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_sourcestone_large_bricks.png) |
+| B | Sourcestone Large Bricks | ![sourcestone_large_bricks](../images/ars_nouveau_gilded_sourcestone_large_bricks.png) |
 
 ---
 ## Sourcestone Mosaic Slab
@@ -6912,7 +6912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Wall
@@ -6920,7 +6920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Stairs
@@ -6928,7 +6928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| item | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Slab
@@ -6936,7 +6936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| B | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Stairs
@@ -6944,7 +6944,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| B | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Mosaic Wall
@@ -6952,7 +6952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_sourcestone_mosaic.png) |
+| B | Sourcestone Mosaic | ![sourcestone_mosaic](../images/ars_nouveau_gilded_sourcestone_mosaic.png) |
 
 ---
 ## Sourcestone Slab
@@ -6960,7 +6960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| B | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Small Bricks Slab
@@ -6968,7 +6968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Wall
@@ -6976,7 +6976,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Stairs
@@ -6984,7 +6984,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| item | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Slab
@@ -6992,7 +6992,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| B | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Stairs
@@ -7000,7 +7000,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| B | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Small Bricks Wall
@@ -7008,7 +7008,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_sourcestone_small_bricks.png) |
+| B | Sourcestone Small Bricks | ![sourcestone_small_bricks](../images/ars_nouveau_gilded_sourcestone_small_bricks.png) |
 
 ---
 ## Sourcestone Stairs
@@ -7016,7 +7016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| B | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## Sourcestone Wall
@@ -7024,7 +7024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sourcestone | ![sourcestone](../images/ars_sourcestone.png) |
+| B | Sourcestone | ![sourcestone](../images/ars_nouveau_gilded_sourcestone_alternating.png) |
 
 ---
 ## {}
@@ -7032,13 +7032,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Herb Enhanced Broom Brush | ![herb_enhanced_broom_brush](../images/ars_herb_enhanced_broom_brush.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Mandrake Root | ![mandrake_root](../images/ars_mandrake_root.png) |
-| - | Mandrake Flowers | ![mandrake_flowers](../images/ars_mandrake_flowers.png) |
-| - | Mandrake Root | ![mandrake_root](../images/ars_mandrake_root.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
-| - | Magebloom | ![magebloom](../images/ars_magebloom.png) |
+| - | Herb Enhanced Broom Brush | ![herb_enhanced_broom_brush](../images/ars_scalaes_broom_brush.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Mandrake Root | ![mandrake_root](../images/ars_arsenal_air_hat.png) |
+| - | Mandrake Flowers | ![mandrake_flowers](../images/ars_arsenal_air_hat.png) |
+| - | Mandrake Root | ![mandrake_root](../images/ars_arsenal_air_hat.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
+| - | Magebloom | ![magebloom](../images/ars_nouveau_magebloom.png) |
 
 ---

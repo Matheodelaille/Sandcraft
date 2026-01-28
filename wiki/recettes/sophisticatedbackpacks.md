@@ -50,7 +50,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_ender_pearls.png) |
+| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | L | Gems/Lapis | ![gems/lapis](../images/sophisticatedbackpacks_gems/lapis.png) |
 | P | Advanced Pickup Upgrade | ![advanced_pickup_upgrade](../images/sophisticatedbackpacks_advanced_pickup_upgrade.png) |
@@ -86,7 +86,7 @@
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/sophisticatedbackpacks_ingots/gold.png) |
-| I | Dispenser | ![dispenser](../images/sophisticatedbackpacks_dispenser.png) |
+| I | Dispenser | ![dispenser](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | P | Pump Upgrade | ![pump_upgrade](../images/sophisticatedbackpacks_pump_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
@@ -140,7 +140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Anvil | ![anvil](../images/sophisticatedbackpacks_anvil.png) |
+| A | Anvil | ![anvil](../images/sophisticatedbackpacks_anvil_upgrade.png) |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/sophisticatedbackpacks_chests/wooden.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
@@ -154,7 +154,7 @@
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/sophisticatedbackpacks_ingots/gold.png) |
-| H | Hopper | ![hopper](../images/sophisticatedbackpacks_hopper.png) |
+| H | Hopper | ![hopper](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 | S | Blasting Upgrade | ![blasting_upgrade](../images/sophisticatedbackpacks_blasting_upgrade.png) |
 
@@ -166,7 +166,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | S | Auto Smelting Upgrade | ![auto_smelting_upgrade](../images/sophisticatedbackpacks_auto_smelting_upgrade.png) |
-| T | Smooth Stone | ![smooth_stone](../images/sophisticatedbackpacks_smooth_stone.png) |
+| T | Smooth Stone | ![smooth_stone](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Auto Smelting Upgrade
@@ -176,7 +176,7 @@
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/sophisticatedbackpacks_ingots/gold.png) |
-| H | Hopper | ![hopper](../images/sophisticatedbackpacks_hopper.png) |
+| H | Hopper | ![hopper](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 | S | Smelting Upgrade | ![smelting_upgrade](../images/sophisticatedbackpacks_smelting_upgrade.png) |
 
@@ -188,7 +188,7 @@
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/sophisticatedbackpacks_ingots/gold.png) |
-| H | Hopper | ![hopper](../images/sophisticatedbackpacks_hopper.png) |
+| H | Hopper | ![hopper](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 | S | Smoking Upgrade | ![smoking_upgrade](../images/sophisticatedbackpacks_smoking_upgrade.png) |
 
@@ -198,7 +198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/sophisticatedbackpacks_logs.png) |
+| L | Logs | ![logs](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | S | Auto Smelting Upgrade | ![auto_smelting_upgrade](../images/sophisticatedbackpacks_auto_smelting_upgrade.png) |
 
 ---
@@ -208,8 +208,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/sophisticatedbackpacks_chests/wooden.png) |
-| L | Leather | ![leather](../images/sophisticatedbackpacks_leather.png) |
-| S | String | ![string](../images/sophisticatedbackpacks_string.png) |
+| L | Leather | ![leather](../images/sophisticatedbackpacks_leather_clips.png) |
+| S | String | ![string](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## {}
@@ -235,7 +235,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| F | Blast Furnace | ![blast_furnace](../images/sophisticatedbackpacks_blast_furnace.png) |
+| F | Blast Furnace | ![blast_furnace](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
@@ -247,7 +247,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | S | Smelting Upgrade | ![smelting_upgrade](../images/sophisticatedbackpacks_smelting_upgrade.png) |
-| T | Smooth Stone | ![smooth_stone](../images/sophisticatedbackpacks_smooth_stone.png) |
+| T | Smooth Stone | ![smooth_stone](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Chipped/Botanist Workbench Upgrade
@@ -258,7 +258,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Botanist Workbench | ![botanist_workbench](../images/sophisticatedbackpacks_botanist_workbench.png) |
+| W | Botanist Workbench | ![botanist_workbench](../images/sophisticatedbackpacks_botanist_workbench_upgrade.png) |
 
 ---
 ## Chipped/Carpenter Workbench Upgrade
@@ -269,7 +269,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Carpenters Table | ![carpenters_table](../images/sophisticatedbackpacks_carpenters_table.png) |
+| W | Carpenters Table | ![carpenters_table](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Compacting Upgrade
@@ -279,7 +279,7 @@
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| P | Piston | ![piston](../images/sophisticatedbackpacks_piston.png) |
+| P | Piston | ![piston](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
 ---
@@ -288,7 +288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Backpack | ![backpack](../images/sophisticatedbackpacks_backpack.png) |
+| B | Backpack | ![backpack](../images/sophisticatedbackpacks_backpack_border.png) |
 | C | Ingots/Copper | ![ingots/copper](../images/sophisticatedbackpacks_ingots/copper.png) |
 
 ---
@@ -298,9 +298,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| C | Chests | ![chests](../images/sophisticatedbackpacks_chests.png) |
+| C | Chests | ![chests](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| T | Crafting Table | ![crafting_table](../images/sophisticatedbackpacks_crafting_table.png) |
+| T | Crafting Table | ![crafting_table](../images/sophisticatedbackpacks_crafting_upgrade.png) |
 
 ---
 ## Deposit Upgrade
@@ -311,7 +311,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/sophisticatedbackpacks_chests/wooden.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| P | Piston | ![piston](../images/sophisticatedbackpacks_piston.png) |
+| P | Piston | ![piston](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
 ---
@@ -320,7 +320,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Gold Backpack | ![gold_backpack](../images/sophisticatedbackpacks_gold_backpack.png) |
+| B | Gold Backpack | ![gold_backpack](../images/sophisticatedbackpacks_backpack_border.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
 
 ---
@@ -330,8 +330,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| C | End Crystal | ![end_crystal](../images/sophisticatedbackpacks_end_crystal.png) |
-| S | Nether Stars | ![nether_stars](../images/sophisticatedbackpacks_nether_stars.png) |
+| C | End Crystal | ![end_crystal](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| S | Nether Stars | ![nether_stars](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Feeding Upgrade
@@ -339,11 +339,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Apple | ![golden_apple](../images/sophisticatedbackpacks_golden_apple.png) |
+| A | Golden Apple | ![golden_apple](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| C | Golden Carrot | ![golden_carrot](../images/sophisticatedbackpacks_golden_carrot.png) |
-| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_ender_pearls.png) |
-| M | Glistering Melon Slice | ![glistering_melon_slice](../images/sophisticatedbackpacks_glistering_melon_slice.png) |
+| C | Golden Carrot | ![golden_carrot](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| M | Glistering Melon Slice | ![glistering_melon_slice](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Filter Upgrade
@@ -353,7 +353,7 @@
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| S | String | ![string](../images/sophisticatedbackpacks_string.png) |
+| S | String | ![string](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Chipped/Glassblower Workbench Upgrade
@@ -364,7 +364,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Glassblower | ![glassblower](../images/sophisticatedbackpacks_glassblower.png) |
+| W | Glassblower | ![glassblower](../images/sophisticatedbackpacks_glassblower_workbench_upgrade.png) |
 
 ---
 ## Gold Backpack
@@ -372,7 +372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Backpack | ![iron_backpack](../images/sophisticatedbackpacks_iron_backpack.png) |
+| B | Iron Backpack | ![iron_backpack](../images/sophisticatedbackpacks_backpack_border.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/sophisticatedbackpacks_ingots/gold.png) |
 
 ---
@@ -383,8 +383,8 @@
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/sophisticatedbackpacks_gems/diamond.png) |
-| E | Ender Eye | ![ender_eye](../images/sophisticatedbackpacks_ender_eye.png) |
-| S | Nether Stars | ![nether_stars](../images/sophisticatedbackpacks_nether_stars.png) |
+| E | Ender Eye | ![ender_eye](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| S | Nether Stars | ![nether_stars](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Iron Backpack
@@ -392,7 +392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Backpack | ![backpack](../images/sophisticatedbackpacks_backpack.png) |
+| B | Backpack | ![backpack](../images/sophisticatedbackpacks_backpack_border.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 
 ---
@@ -401,7 +401,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Copper Backpack | ![copper_backpack](../images/sophisticatedbackpacks_copper_backpack.png) |
+| B | Copper Backpack | ![copper_backpack](../images/sophisticatedbackpacks_backpack_border.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 
 ---
@@ -412,7 +412,7 @@
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| J | Jukebox | ![jukebox](../images/sophisticatedbackpacks_jukebox.png) |
+| J | Jukebox | ![jukebox](../images/sophisticatedbackpacks_jukebox_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
 ---
@@ -421,7 +421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_ender_pearls.png) |
+| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | L | Gems/Lapis | ![gems/lapis](../images/sophisticatedbackpacks_gems/lapis.png) |
 | P | Pickup Upgrade | ![pickup_upgrade](../images/sophisticatedbackpacks_pickup_upgrade.png) |
@@ -436,7 +436,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Mason Table | ![mason_table](../images/sophisticatedbackpacks_mason_table.png) |
+| W | Mason Table | ![mason_table](../images/sophisticatedbackpacks_mason_workbench_upgrade.png) |
 
 ---
 ## Netherite Backpack
@@ -454,7 +454,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Alchemy Bench | ![alchemy_bench](../images/sophisticatedbackpacks_alchemy_bench.png) |
+| W | Alchemy Bench | ![alchemy_bench](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Pickup Upgrade
@@ -463,9 +463,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| P | Sticky Piston | ![sticky_piston](../images/sophisticatedbackpacks_sticky_piston.png) |
+| P | Sticky Piston | ![sticky_piston](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| S | String | ![string](../images/sophisticatedbackpacks_string.png) |
+| S | String | ![string](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Pump Upgrade
@@ -474,10 +474,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| G | Glass | ![glass](../images/sophisticatedbackpacks_glass.png) |
-| P | Piston | ![piston](../images/sophisticatedbackpacks_piston.png) |
-| S | Sticky Piston | ![sticky_piston](../images/sophisticatedbackpacks_sticky_piston.png) |
-| U | Bucket | ![bucket](../images/sophisticatedbackpacks_bucket.png) |
+| G | Glass | ![glass](../images/sophisticatedbackpacks_backpack_modules_glass.png) |
+| P | Piston | ![piston](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| S | Sticky Piston | ![sticky_piston](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| U | Bucket | ![bucket](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Refill Upgrade
@@ -487,7 +487,7 @@
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/sophisticatedbackpacks_chests/wooden.png) |
-| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_ender_pearls.png) |
+| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
@@ -500,7 +500,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/sophisticatedbackpacks_chests/wooden.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| P | Sticky Piston | ![sticky_piston](../images/sophisticatedbackpacks_sticky_piston.png) |
+| P | Sticky Piston | ![sticky_piston](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
 ---
@@ -512,7 +512,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Loom Table | ![loom_table](../images/sophisticatedbackpacks_loom_table.png) |
+| W | Loom Table | ![loom_table](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Smelting Upgrade
@@ -521,7 +521,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| F | Furnace | ![furnace](../images/sophisticatedbackpacks_furnace.png) |
+| F | Furnace | ![furnace](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
@@ -534,7 +534,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| S | Smoker | ![smoker](../images/sophisticatedbackpacks_smoker.png) |
+| S | Smoker | ![smoker](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Smoking Upgrade
@@ -542,7 +542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/sophisticatedbackpacks_logs.png) |
+| L | Logs | ![logs](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | S | Smelting Upgrade | ![smelting_upgrade](../images/sophisticatedbackpacks_smelting_upgrade.png) |
 
 ---
@@ -608,7 +608,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| S | Stonecutter | ![stonecutter](../images/sophisticatedbackpacks_stonecutter.png) |
+| S | Stonecutter | ![stonecutter](../images/sophisticatedbackpacks_stonecutter_upgrade.png) |
 
 ---
 ## Tank Upgrade
@@ -617,7 +617,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| G | Glass | ![glass](../images/sophisticatedbackpacks_glass.png) |
+| G | Glass | ![glass](../images/sophisticatedbackpacks_backpack_modules_glass.png) |
 
 ---
 ## Chipped/Tinkerer Workbench Upgrade
@@ -628,7 +628,7 @@
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| W | Tinkering Table | ![tinkering_table](../images/sophisticatedbackpacks_tinkering_table.png) |
+| W | Tinkering Table | ![tinkering_table](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Tool Swapper Upgrade
@@ -636,13 +636,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Wooden Axe | ![wooden_axe](../images/sophisticatedbackpacks_wooden_axe.png) |
+| A | Wooden Axe | ![wooden_axe](../images/sophisticatedbackpacks_empty_axe_slot.png) |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| P | Wooden Pickaxe | ![wooden_pickaxe](../images/sophisticatedbackpacks_wooden_pickaxe.png) |
+| P | Wooden Pickaxe | ![wooden_pickaxe](../images/sophisticatedbackpacks_empty_pickaxe_slot.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
-| S | Wooden Shovel | ![wooden_shovel](../images/sophisticatedbackpacks_wooden_shovel.png) |
-| W | Wooden Sword | ![wooden_sword](../images/sophisticatedbackpacks_wooden_sword.png) |
+| S | Wooden Shovel | ![wooden_shovel](../images/sophisticatedbackpacks_empty_shovel_slot.png) |
+| W | Wooden Sword | ![wooden_sword](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Upgrade Base
@@ -651,8 +651,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/sophisticatedbackpacks_ingots/iron.png) |
-| L | Leather | ![leather](../images/sophisticatedbackpacks_leather.png) |
-| S | String | ![string](../images/sophisticatedbackpacks_string.png) |
+| L | Leather | ![leather](../images/sophisticatedbackpacks_leather_clips.png) |
+| S | String | ![string](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 
 ---
 ## Void Upgrade
@@ -661,8 +661,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Upgrade Base | ![upgrade_base](../images/sophisticatedbackpacks_upgrade_base.png) |
-| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_ender_pearls.png) |
-| O | Obsidian | ![obsidian](../images/sophisticatedbackpacks_obsidian.png) |
+| E | Ender Pearls | ![ender_pearls](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| O | Obsidian | ![obsidian](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 
 ---
@@ -671,8 +671,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Experience Bottle | ![experience_bottle](../images/sophisticatedbackpacks_experience_bottle.png) |
-| E | Ender Eye | ![ender_eye](../images/sophisticatedbackpacks_ender_eye.png) |
+| C | Experience Bottle | ![experience_bottle](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
+| E | Ender Eye | ![ender_eye](../images/sophisticatedbackpacks_advanced_compacting_upgrade.png) |
 | P | Advanced Pump Upgrade | ![advanced_pump_upgrade](../images/sophisticatedbackpacks_advanced_pump_upgrade.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/sophisticatedbackpacks_dusts/redstone.png) |
 

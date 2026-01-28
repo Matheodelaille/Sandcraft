@@ -15,8 +15,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Snuffle Fluff Carpet | ![snuffle_fluff_carpet](../images/snuffles_snuffle_fluff_carpet.png) |
-| X | Powder Snow Bucket | ![powder_snow_bucket](../images/snuffles_powder_snow_bucket.png) |
+| # | Snuffle Fluff Carpet | ![snuffle_fluff_carpet](../images/snuffles_snuffle_fluff_carpet_tassels.png) |
+| X | Powder Snow Bucket | ![powder_snow_bucket](../images/snuffles_frosty_fluff.png) |
 
 ---
 ## Frosty Fluff
@@ -25,7 +25,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Snuffle Fluff | ![snuffle_fluff](../images/snuffles_snuffle_fluff.png) |
-| X | Powder Snow Bucket | ![powder_snow_bucket](../images/snuffles_powder_snow_bucket.png) |
+| X | Powder Snow Bucket | ![powder_snow_bucket](../images/snuffles_frosty_fluff.png) |
 
 ---
 ## Snuffle Fluff Carpet
@@ -33,7 +33,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Frosty Fluff Carpet | ![frosty_fluff_carpet](../images/snuffles_frosty_fluff_carpet.png) |
+| item | Frosty Fluff Carpet | ![frosty_fluff_carpet](../images/snuffles_frosty_fluff_carpet_tassels.png) |
 
 ---
 ## Snuffle Fluff Carpet

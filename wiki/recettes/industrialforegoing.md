@@ -308,15 +308,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
-| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_tinydryrubber.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
+| - | Tinydryrubber | ![tinydryrubber](../images/industrialforegoing_adult_filter.png) |
 
 ---
 ## {}
@@ -709,7 +709,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Black | ![dyes/black](../images/industrialforegoing_dyes/black.png) |
 
 ---
@@ -718,7 +718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/industrialforegoing_dyes/blue.png) |
 
 ---
@@ -727,7 +727,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/industrialforegoing_dyes/brown.png) |
 
 ---
@@ -736,7 +736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/industrialforegoing_dyes/cyan.png) |
 
 ---
@@ -745,7 +745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/industrialforegoing_dyes/gray.png) |
 
 ---
@@ -754,7 +754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Green | ![dyes/green](../images/industrialforegoing_dyes/green.png) |
 
 ---
@@ -763,7 +763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/industrialforegoing_dyes/light_blue.png) |
 
 ---
@@ -772,7 +772,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/industrialforegoing_dyes/light_gray.png) |
 
 ---
@@ -781,7 +781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/industrialforegoing_dyes/lime.png) |
 
 ---
@@ -790,7 +790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/industrialforegoing_dyes/magenta.png) |
 
 ---
@@ -799,7 +799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/industrialforegoing_dyes/orange.png) |
 
 ---
@@ -808,7 +808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/industrialforegoing_dyes/pink.png) |
 
 ---
@@ -817,7 +817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/industrialforegoing_dyes/purple.png) |
 
 ---
@@ -826,7 +826,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Red | ![dyes/red](../images/industrialforegoing_dyes/red.png) |
 
 ---
@@ -835,7 +835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/White | ![dyes/white](../images/industrialforegoing_dyes/white.png) |
 
 ---
@@ -844,7 +844,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_laser_lens15'}].png) |
+| - | Laser Lens15'}] | ![laser_lens15'}]](../images/industrialforegoing_fluid_laser_base_side.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/industrialforegoing_dyes/yellow.png) |
 
 ---
@@ -881,9 +881,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/industrialforegoing_book.png) |
-| - | Redstone | ![redstone](../images/industrialforegoing_redstone.png) |
-| - | Dirt | ![dirt](../images/industrialforegoing_dirt.png) |
+| - | Book | ![book](../images/industrialforegoing_adult_filter.png) |
+| - | Redstone | ![redstone](../images/industrialforegoing_redstone_inverted.png) |
+| - | Dirt | ![dirt](../images/industrialforegoing_mechanical_dirt_side.png) |
 
 ---
 ## {}
@@ -1192,7 +1192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dryrubber | ![dryrubber](../images/industrialforegoing_dryrubber.png) |
+| item | Dryrubber | ![dryrubber](../images/industrialforegoing_adult_filter.png) |
 
 ---
 ## {}

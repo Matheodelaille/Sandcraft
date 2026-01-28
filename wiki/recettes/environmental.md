@@ -7,10 +7,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/environmental_apple.png) |
-| - | Apple | ![apple](../images/environmental_apple.png) |
-| - | Sugar | ![sugar](../images/environmental_sugar.png) |
-| - | Eggs | ![eggs](../images/environmental_eggs.png) |
+| - | Apple | ![apple](../images/environmental_aka_matsuba.png) |
+| - | Apple | ![apple](../images/environmental_aka_matsuba.png) |
+| - | Sugar | ![sugar](../images/environmental_aka_matsuba.png) |
+| - | Eggs | ![eggs](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Blue Dye
@@ -26,7 +26,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wisteria Leaves | ![blue_wisteria_leaves](../images/environmental_blue_wisteria_leaves.png) |
+| # | Blue Wisteria Leaves | ![blue_wisteria_leaves](../images/environmental_blue_wisteria_flowers.png) |
 
 ---
 ## {}
@@ -146,7 +146,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cheerful Cherry Leaf Pile | ![cheerful_cherry_leaf_pile](../images/environmental_cheerful_cherry_leaf_pile.png) |
+| # | Cheerful Cherry Leaf Pile | ![cheerful_cherry_leaf_pile](../images/environmental_cheerful_cherry_leaves.png) |
 
 ---
 ## {}
@@ -236,7 +236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Cherry Planks | ![cherry_planks](../images/environmental_cherry_planks.png) |
 
 ---
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Cherry Planks | ![cherry_planks](../images/environmental_cherry_planks.png) |
 
 ---
@@ -290,7 +290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cherry Leaf Pile | ![cherry_leaf_pile](../images/environmental_cherry_leaf_pile.png) |
+| # | Cherry Leaf Pile | ![cherry_leaf_pile](../images/environmental_cheerful_cherry_leaves.png) |
 
 ---
 ## Cherry Pie
@@ -301,8 +301,8 @@
 | - | Fruits/Cherry | ![fruits/cherry](../images/environmental_fruits/cherry.png) |
 | - | Fruits/Cherry | ![fruits/cherry](../images/environmental_fruits/cherry.png) |
 | - | Fruits/Cherry | ![fruits/cherry](../images/environmental_fruits/cherry.png) |
-| - | Sugar | ![sugar](../images/environmental_sugar.png) |
-| - | Eggs | ![eggs](../images/environmental_eggs.png) |
+| - | Sugar | ![sugar](../images/environmental_aka_matsuba.png) |
+| - | Eggs | ![eggs](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Cherry Planks
@@ -310,7 +310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Logs | ![cherry_logs](../images/environmental_cherry_logs.png) |
+| - | Cherry Logs | ![cherry_logs](../images/environmental_cheerful_cherry_leaves.png) |
 
 ---
 ## {}
@@ -334,7 +334,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Cherry Planks | ![cherry_planks](../images/environmental_cherry_planks.png) |
-| X | Stick | ![stick](../images/environmental_stick.png) |
+| X | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Cherry Slab
@@ -395,7 +395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mud Brick Slab | ![mud_brick_slab](../images/environmental_mud_brick_slab.png) |
+| # | Mud Brick Slab | ![mud_brick_slab](../images/environmental_smooth_mud_slab.png) |
 
 ---
 ## Chiseled Mud Bricks
@@ -403,7 +403,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/environmental_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/environmental_chiseled_mud_bricks.png) |
 
 ---
 ## Cooked Duck
@@ -459,7 +459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dirt | ![dirt](../images/environmental_dirt.png) |
+| # | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Bricks
@@ -467,7 +467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Brick Slab
@@ -491,7 +491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Brick Stairs
@@ -515,7 +515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## {}
@@ -567,7 +567,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Tiles
@@ -591,7 +591,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Tile Slab
@@ -615,7 +615,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Tile Slab
@@ -647,7 +647,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Tile Stairs
@@ -714,7 +714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dirt | ![dirt](../images/environmental_dirt.png) |
+| item | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Dirt Tile Wall
@@ -782,8 +782,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Grass | ![grass](../images/environmental_grass.png) |
-| W | Wheat | ![wheat](../images/environmental_wheat.png) |
+| G | Grass | ![grass](../images/environmental_giant_tall_grass_bottom.png) |
+| W | Wheat | ![wheat](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Grass Thatch
@@ -791,8 +791,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Giant Tall Grass | ![giant_tall_grass](../images/environmental_giant_tall_grass.png) |
-| W | Wheat | ![wheat](../images/environmental_wheat.png) |
+| G | Giant Tall Grass | ![giant_tall_grass](../images/environmental_giant_tall_grass_bottom.png) |
+| W | Wheat | ![wheat](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Grass Thatch
@@ -800,8 +800,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Tall Grass | ![tall_grass](../images/environmental_tall_grass.png) |
-| W | Wheat | ![wheat](../images/environmental_wheat.png) |
+| G | Tall Grass | ![tall_grass](../images/environmental_giant_tall_grass_bottom.png) |
+| W | Wheat | ![wheat](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Grass Thatch Slab
@@ -882,7 +882,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Delphinium | ![blue_delphinium](../images/environmental_blue_delphinium.png) |
+| - | Blue Delphinium | ![blue_delphinium](../images/environmental_blue_delphinium_bottom.png) |
 
 ---
 ## Lime Dye
@@ -928,7 +928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moody Cherry Leaf Pile | ![moody_cherry_leaf_pile](../images/environmental_moody_cherry_leaf_pile.png) |
+| # | Moody Cherry Leaf Pile | ![moody_cherry_leaf_pile](../images/environmental_moody_cherry_leaves.png) |
 
 ---
 ## Mud
@@ -944,7 +944,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mud | ![mud](../images/environmental_mud.png) |
+| - | Mud | ![mud](../images/environmental_chiseled_mud_bricks.png) |
 
 ---
 ## Mud Ball
@@ -953,10 +953,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Buckets/Water | ![buckets/water](../images/environmental_buckets/water.png) |
-| - | Dirt | ![dirt](../images/environmental_dirt.png) |
-| - | Dirt | ![dirt](../images/environmental_dirt.png) |
-| - | Dirt | ![dirt](../images/environmental_dirt.png) |
-| - | Dirt | ![dirt](../images/environmental_dirt.png) |
+| - | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
+| - | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
+| - | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
+| - | Dirt | ![dirt](../images/environmental_dirt_bricks.png) |
 
 ---
 ## Orange Dye
@@ -964,7 +964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bird Of Paradise | ![bird_of_paradise](../images/environmental_bird_of_paradise.png) |
+| - | Bird Of Paradise | ![bird_of_paradise](../images/environmental_bird_of_paradise_bottom.png) |
 
 ---
 ## Orange Dye
@@ -1056,7 +1056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Pine Planks | ![pine_planks](../images/environmental_pine_planks.png) |
 
 ---
@@ -1065,7 +1065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Pine Planks | ![pine_planks](../images/environmental_pine_planks.png) |
 
 ---
@@ -1116,7 +1116,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pine Logs | ![pine_logs](../images/environmental_pine_logs.png) |
+| - | Pine Logs | ![pine_logs](../images/environmental_large_pine_boat.png) |
 
 ---
 ## {}
@@ -1140,7 +1140,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Pine Planks | ![pine_planks](../images/environmental_pine_planks.png) |
-| X | Stick | ![stick](../images/environmental_stick.png) |
+| X | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Pine Slab
@@ -1209,7 +1209,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Delphinium | ![pink_delphinium](../images/environmental_pink_delphinium.png) |
+| - | Pink Delphinium | ![pink_delphinium](../images/environmental_pink_delphinium_bottom.png) |
 
 ---
 ## Pink Dye
@@ -1225,7 +1225,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wisteria Leaves | ![pink_wisteria_leaves](../images/environmental_pink_wisteria_leaves.png) |
+| # | Pink Wisteria Leaves | ![pink_wisteria_leaves](../images/environmental_pink_wisteria_flowers.png) |
 
 ---
 ## {}
@@ -1261,7 +1261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Delphinium | ![purple_delphinium](../images/environmental_purple_delphinium.png) |
+| - | Purple Delphinium | ![purple_delphinium](../images/environmental_potted_purple_delphinium.png) |
 
 ---
 ## Purple Dye
@@ -1285,7 +1285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wisteria Leaves | ![purple_wisteria_leaves](../images/environmental_purple_wisteria_leaves.png) |
+| # | Purple Wisteria Leaves | ![purple_wisteria_leaves](../images/environmental_purple_wisteria_flowers.png) |
 
 ---
 ## {}
@@ -1345,8 +1345,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mud Bricks | ![mud_bricks](../images/environmental_mud_bricks.png) |
-| S | Mud Brick Slab | ![mud_brick_slab](../images/environmental_mud_brick_slab.png) |
+| # | Mud Bricks | ![mud_bricks](../images/environmental_chiseled_mud_bricks.png) |
+| S | Mud Brick Slab | ![mud_brick_slab](../images/environmental_smooth_mud_slab.png) |
 
 ---
 ## Smooth Mud
@@ -1354,7 +1354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Packed Mud | ![packed_mud](../images/environmental_packed_mud.png) |
+| item | Packed Mud | ![packed_mud](../images/environmental_chiseled_mud_bricks.png) |
 
 ---
 ## Smooth Mud Slab
@@ -1482,8 +1482,8 @@
 | - | Truffle | ![truffle](../images/environmental_truffle.png) |
 | - | Brown Mushroom | ![brown_mushroom](../images/environmental_brown_mushroom.png) |
 | - | Brown Mushroom | ![brown_mushroom](../images/environmental_brown_mushroom.png) |
-| - | Sugar | ![sugar](../images/environmental_sugar.png) |
-| - | Eggs | ![eggs](../images/environmental_eggs.png) |
+| - | Sugar | ![sugar](../images/environmental_aka_matsuba.png) |
+| - | Eggs | ![eggs](../images/environmental_aka_matsuba.png) |
 
 ---
 ## {}
@@ -1547,7 +1547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Delphinium | ![white_delphinium](../images/environmental_white_delphinium.png) |
+| - | White Delphinium | ![white_delphinium](../images/environmental_potted_white_delphinium.png) |
 
 ---
 ## White Dye
@@ -1563,7 +1563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wisteria Leaves | ![white_wisteria_leaves](../images/environmental_white_wisteria_leaves.png) |
+| # | White Wisteria Leaves | ![white_wisteria_leaves](../images/environmental_white_wisteria_flowers.png) |
 
 ---
 ## {}
@@ -1667,7 +1667,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Willow Planks | ![willow_planks](../images/environmental_willow_planks.png) |
 
 ---
@@ -1676,7 +1676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Willow Planks | ![willow_planks](../images/environmental_willow_planks.png) |
 
 ---
@@ -1727,7 +1727,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Willow Logs | ![willow_logs](../images/environmental_willow_logs.png) |
+| - | Willow Logs | ![willow_logs](../images/environmental_hanging_willow_leaves.png) |
 
 ---
 ## {}
@@ -1751,7 +1751,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Willow Planks | ![willow_planks](../images/environmental_willow_planks.png) |
-| X | Stick | ![stick](../images/environmental_stick.png) |
+| X | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Willow Slab
@@ -1880,7 +1880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Wisteria Planks | ![wisteria_planks](../images/environmental_wisteria_planks.png) |
 
 ---
@@ -1889,7 +1889,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/environmental_stick.png) |
+| # | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 | W | Wisteria Planks | ![wisteria_planks](../images/environmental_wisteria_planks.png) |
 
 ---
@@ -1940,7 +1940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wisteria Logs | ![wisteria_logs](../images/environmental_wisteria_logs.png) |
+| - | Wisteria Logs | ![wisteria_logs](../images/environmental_blue_wisteria_flowers.png) |
 
 ---
 ## {}
@@ -1964,7 +1964,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Wisteria Planks | ![wisteria_planks](../images/environmental_wisteria_planks.png) |
-| X | Stick | ![stick](../images/environmental_stick.png) |
+| X | Stick | ![stick](../images/environmental_aka_matsuba.png) |
 
 ---
 ## Wisteria Slab
@@ -2025,7 +2025,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yak Hair Block | ![yak_hair_block](../images/environmental_yak_hair_block.png) |
+| - | Yak Hair Block | ![yak_hair_block](../images/environmental_yak_hair_block_end.png) |
 
 ---
 ## Yak Hair Block
@@ -2049,8 +2049,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Leather | ![leather](../images/environmental_leather.png) |
-| B | Yak Hair Block | ![yak_hair_block](../images/environmental_yak_hair_block.png) |
+| # | Leather | ![leather](../images/environmental_aka_matsuba.png) |
+| B | Yak Hair Block | ![yak_hair_block](../images/environmental_yak_hair_block_end.png) |
 
 ---
 ## Yellow Dye

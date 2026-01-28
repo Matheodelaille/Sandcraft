@@ -7,15 +7,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Scrap | ![netherite_scrap](../images/createbigcannons_netherite_scrap.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
+| - | Netherite Scrap | ![netherite_scrap](../images/createbigcannons_bronze_scrap.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## {}
@@ -23,11 +23,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherite Scrap | ![netherite_scrap](../images/createbigcannons_netherite_scrap.png) |
-| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
-| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
-| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
-| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
+| - | Netherite Scrap | ![netherite_scrap](../images/createbigcannons_bronze_scrap.png) |
+| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
+| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
+| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
+| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
 
 ---
 ## Ap Autocannon Round
@@ -35,8 +35,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
+| C | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## Ap Shell
@@ -44,10 +44,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
-| T | Tnt | ![tnt](../images/createbigcannons_tnt.png) |
+| C | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
+| T | Tnt | ![tnt](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Ap Shot
@@ -55,9 +55,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
+| C | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -73,8 +73,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Ingot Brass | ![ingot_brass](../images/createbigcannons_ingot_brass.png) |
-| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
+| B | Ingot Brass | ![ingot_brass](../images/createbigcannons_cast_iron_ingot.png) |
+| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## {}
@@ -82,7 +82,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -90,7 +90,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -98,7 +98,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheet Brass | ![sheet_brass](../images/createbigcannons_sheet_brass.png) |
+| - | Sheet Brass | ![sheet_brass](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## {}
@@ -106,7 +106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheet Copper | ![sheet_copper](../images/createbigcannons_sheet_copper.png) |
+| - | Sheet Copper | ![sheet_copper](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## {}
@@ -114,7 +114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheet Copper | ![sheet_copper](../images/createbigcannons_sheet_copper.png) |
+| - | Sheet Copper | ![sheet_copper](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## {}
@@ -122,7 +122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
+| - | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## {}
@@ -130,7 +130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Bag Of Grapeshot
@@ -138,10 +138,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | String | ![string](../images/createbigcannons_string.png) |
+| D | String | ![string](../images/createbigcannons_ap_autocannon_round.png) |
 | L | Shot Balls | ![shot_balls](../images/createbigcannons_shot_balls.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
-| W | Wool | ![wool](../images/createbigcannons_wool.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
+| W | Wool | ![wool](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Basin Foundry Lid
@@ -149,7 +149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Andesite Alloy | ![andesite_alloy](../images/createbigcannons_andesite_alloy.png) |
+| A | Andesite Alloy | ![andesite_alloy](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Big Cartridge Sheet
@@ -157,7 +157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Sheet Brass | ![sheet_brass](../images/createbigcannons_sheet_brass.png) |
+| S | Sheet Brass | ![sheet_brass](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## Bronze Autocannon Barrel
@@ -172,7 +172,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Ingot Bronze | ![ingot_bronze](../images/createbigcannons_ingot_bronze.png) |
+| tag | Ingot Bronze | ![ingot_bronze](../images/createbigcannons_bronze_autocannon.png) |
 
 ---
 ## Bronze Cannon Barrel
@@ -201,8 +201,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cogwheel | ![cogwheel](../images/createbigcannons_cogwheel.png) |
-| I | Ingot Bronze | ![ingot_bronze](../images/createbigcannons_ingot_bronze.png) |
+| C | Cogwheel | ![cogwheel](../images/createbigcannons_ap_autocannon_round.png) |
+| I | Ingot Bronze | ![ingot_bronze](../images/createbigcannons_bronze_autocannon.png) |
 
 ---
 ## Built Up Nethersteel Cannon Barrel
@@ -238,10 +238,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_andesite_casing.png) |
-| H | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
-| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_piston_extension_pole.png) |
-| h | Nugget Iron | ![nugget_iron](../images/createbigcannons_nugget_iron.png) |
+| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_ap_autocannon_round.png) |
+| H | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_pole_contraption_bottom.png) |
+| h | Nugget Iron | ![nugget_iron](../images/createbigcannons_cast_iron_nugget.png) |
 
 ---
 ## Cannon Carriage
@@ -249,8 +249,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Planks | ![planks](../images/createbigcannons_planks.png) |
-| S | Shaft | ![shaft](../images/createbigcannons_shaft.png) |
+| P | Planks | ![planks](../images/createbigcannons_ap_autocannon_round.png) |
+| S | Shaft | ![shaft](../images/createbigcannons_cannon_mount_side_shaft.png) |
 | W | Pair Of Cannon Wheels | ![pair_of_cannon_wheels](../images/createbigcannons_pair_of_cannon_wheels.png) |
 
 ---
@@ -259,10 +259,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_andesite_casing.png) |
-| D | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_piston_extension_pole.png) |
-| p | Fluid Pipe | ![fluid_pipe](../images/createbigcannons_fluid_pipe.png) |
+| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_ap_autocannon_round.png) |
+| D | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_pole_contraption_bottom.png) |
+| p | Fluid Pipe | ![fluid_pipe](../images/createbigcannons_fluid_shell.png) |
 
 ---
 ## {}
@@ -270,7 +270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Cannon Loader
@@ -278,9 +278,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_andesite_casing.png) |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_piston_extension_pole.png) |
+| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_ap_autocannon_round.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_pole_contraption_bottom.png) |
 
 ---
 ## Cannon Mount
@@ -288,10 +288,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_andesite_casing.png) |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
-| S | Shaft | ![shaft](../images/createbigcannons_shaft.png) |
+| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_ap_autocannon_round.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| S | Shaft | ![shaft](../images/createbigcannons_cannon_mount_side_shaft.png) |
 
 ---
 ## Cannon Welder
@@ -299,10 +299,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Sheet Brass | ![sheet_brass](../images/createbigcannons_sheet_brass.png) |
-| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
-| V | Valve Handles | ![valve_handles](../images/createbigcannons_valve_handles.png) |
-| Z | Blaze Burner | ![blaze_burner](../images/createbigcannons_blaze_burner.png) |
+| B | Sheet Brass | ![sheet_brass](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| V | Valve Handles | ![valve_handles](../images/createbigcannons_ap_autocannon_round.png) |
+| Z | Blaze Burner | ![blaze_burner](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Casting Sand
@@ -310,10 +310,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/createbigcannons_sand.png) |
-| - | Sand | ![sand](../images/createbigcannons_sand.png) |
-| - | Dirt | ![dirt](../images/createbigcannons_dirt.png) |
-| - | Clay Ball | ![clay_ball](../images/createbigcannons_clay_ball.png) |
+| - | Sand | ![sand](../images/createbigcannons_casting_sand.png) |
+| - | Sand | ![sand](../images/createbigcannons_casting_sand.png) |
+| - | Dirt | ![dirt](../images/createbigcannons_ap_autocannon_round.png) |
+| - | Clay Ball | ![clay_ball](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Cast Iron Autocannon Barrel
@@ -328,7 +328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
+| tag | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## Cast Iron Cannon Barrel
@@ -357,8 +357,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cogwheel | ![cogwheel](../images/createbigcannons_cogwheel.png) |
-| I | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
+| C | Cogwheel | ![cogwheel](../images/createbigcannons_ap_autocannon_round.png) |
+| I | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## {}
@@ -366,10 +366,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blaze Powder | ![blaze_powder](../images/createbigcannons_blaze_powder.png) |
-| - | Magma Cream | ![magma_cream](../images/createbigcannons_magma_cream.png) |
-| - | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| - | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
+| - | Blaze Powder | ![blaze_powder](../images/createbigcannons_empty_powder_charge.png) |
+| - | Magma Cream | ![magma_cream](../images/createbigcannons_ap_autocannon_round.png) |
+| - | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| - | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
 
 ---
 ## Delayed Impact Fuze
@@ -387,9 +387,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Powder Charge | ![powder_charge](../images/createbigcannons_powder_charge.png) |
-| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
-| S | Shaft | ![shaft](../images/createbigcannons_shaft.png) |
-| X | Tnt | ![tnt](../images/createbigcannons_tnt.png) |
+| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| S | Shaft | ![shaft](../images/createbigcannons_cannon_mount_side_shaft.png) |
+| X | Tnt | ![tnt](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -405,8 +405,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/createbigcannons_string.png) |
-| W | Wool | ![wool](../images/createbigcannons_wool.png) |
+| S | String | ![string](../images/createbigcannons_ap_autocannon_round.png) |
+| W | Wool | ![wool](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -414,7 +414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Empty Autocannon Cartridge | ![empty_autocannon_cartridge](../images/createbigcannons_empty_autocannon_cartridge.png) |
+| item | Empty Autocannon Cartridge | ![empty_autocannon_cartridge](../images/createbigcannons_autocannon_ammo_container_top_empty.png) |
 
 ---
 ## Flak Autocannon Round
@@ -422,8 +422,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
+| C | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
 | S | Shot Balls | ![shot_balls](../images/createbigcannons_shot_balls.png) |
 
 ---
@@ -432,9 +432,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| P | Fluid Pipe | ![fluid_pipe](../images/createbigcannons_fluid_pipe.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| P | Fluid Pipe | ![fluid_pipe](../images/createbigcannons_fluid_shell.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -442,7 +442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/createbigcannons_unknown.png) |
+| - | Unknown | ![unknown](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -450,7 +450,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/createbigcannons_unknown.png) |
+| - | Unknown | ![unknown](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -458,7 +458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/createbigcannons_unknown.png) |
+| - | Unknown | ![unknown](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -466,7 +466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/createbigcannons_unknown.png) |
+| - | Unknown | ![unknown](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -474,7 +474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/createbigcannons_unknown.png) |
+| - | Unknown | ![unknown](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -482,7 +482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/createbigcannons_unknown.png) |
+| - | Unknown | ![unknown](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Hardened Nitro
@@ -498,9 +498,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
-| T | Tnt | ![tnt](../images/createbigcannons_tnt.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
+| T | Tnt | ![tnt](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Impact Fuze
@@ -508,8 +508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Dusts Redstone | ![dusts_redstone](../images/createbigcannons_dusts_redstone.png) |
-| T | Impact Fuze Head | ![impact_fuze_head](../images/createbigcannons_impact_fuze_head.png) |
+| R | Dusts Redstone | ![dusts_redstone](../images/createbigcannons_ap_autocannon_round.png) |
+| T | Impact Fuze Head | ![impact_fuze_head](../images/createbigcannons_delayed_impact_fuze.png) |
 
 ---
 ## Incomplete Bronze Autocannon Breech
@@ -594,7 +594,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Block | ![iron_block](../images/createbigcannons_iron_block.png) |
+| - | Iron Block | ![iron_block](../images/createbigcannons_cast_iron_block.png) |
 
 ---
 ## {}
@@ -602,7 +602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/createbigcannons_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## {}
@@ -610,7 +610,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Large Nethersteel Cannon Layer
@@ -632,8 +632,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| L | Logs | ![logs](../images/createbigcannons_logs.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| L | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Log Cannon End
@@ -641,9 +641,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| K | Wooden Buttons | ![wooden_buttons](../images/createbigcannons_wooden_buttons.png) |
-| L | Logs | ![logs](../images/createbigcannons_logs.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| K | Wooden Buttons | ![wooden_buttons](../images/createbigcannons_ap_autocannon_round.png) |
+| L | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Machine Gun Round
@@ -651,9 +651,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Nugget Copper | ![nugget_copper](../images/createbigcannons_nugget_copper.png) |
+| B | Nugget Copper | ![nugget_copper](../images/createbigcannons_cast_iron_nugget.png) |
 | C | Empty Machine Gun Round | ![empty_machine_gun_round](../images/createbigcannons_empty_machine_gun_round.png) |
-| P | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
+| P | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
 
 ---
 ## {}
@@ -661,7 +661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Medium Nethersteel Cannon Layer
@@ -683,7 +683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Bronze | ![block_bronze](../images/createbigcannons_block_bronze.png) |
+| - | Block Bronze | ![block_bronze](../images/createbigcannons_block.png) |
 
 ---
 ## {}
@@ -691,7 +691,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Bronze | ![ingot_bronze](../images/createbigcannons_ingot_bronze.png) |
+| - | Ingot Bronze | ![ingot_bronze](../images/createbigcannons_bronze_autocannon.png) |
 
 ---
 ## {}
@@ -699,7 +699,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Bronze | ![nugget_bronze](../images/createbigcannons_nugget_bronze.png) |
+| - | Nugget Bronze | ![nugget_bronze](../images/createbigcannons_bronze_autocannon.png) |
 
 ---
 ## {}
@@ -707,7 +707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Cast Iron | ![block_cast_iron](../images/createbigcannons_block_cast_iron.png) |
+| - | Block Cast Iron | ![block_cast_iron](../images/createbigcannons_cast_iron_block.png) |
 
 ---
 ## {}
@@ -715,7 +715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_ingot_cast_iron.png) |
+| - | Ingot Cast Iron | ![ingot_cast_iron](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## {}
@@ -723,7 +723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Cast Iron | ![nugget_cast_iron](../images/createbigcannons_nugget_cast_iron.png) |
+| - | Nugget Cast Iron | ![nugget_cast_iron](../images/createbigcannons_cast_iron_nugget.png) |
 
 ---
 ## {}
@@ -755,7 +755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Block Steel | ![block_steel](../images/createbigcannons_block_steel.png) |
+| - | Block Steel | ![block_steel](../images/createbigcannons_block.png) |
 
 ---
 ## {}
@@ -763,7 +763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
+| - | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
 
 ---
 ## {}
@@ -771,7 +771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nugget Steel | ![nugget_steel](../images/createbigcannons_nugget_steel.png) |
+| - | Nugget Steel | ![nugget_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
 
 ---
 ## Mortar Stone
@@ -779,8 +779,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/createbigcannons_stone.png) |
-| s | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
+| S | Stone | ![stone](../images/createbigcannons_mortar_stone.png) |
+| s | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Nethersteel Cannon Barrel
@@ -803,7 +803,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Nethersteel Ingot | ![nethersteel_ingot](../images/createbigcannons_nethersteel_ingot.png) |
-| S | Shaft | ![shaft](../images/createbigcannons_shaft.png) |
+| S | Shaft | ![shaft](../images/createbigcannons_cannon_mount_side_shaft.png) |
 
 ---
 ## {}
@@ -811,9 +811,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| - | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| - | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
+| - | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| - | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| - | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
 
 ---
 ## Pair Of Cannon Wheels
@@ -821,8 +821,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Logs | ![logs](../images/createbigcannons_logs.png) |
-| S | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
+| L | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
+| S | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## Powder Charge
@@ -847,7 +847,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Big Cartridge Sheet | ![big_cartridge_sheet](../images/createbigcannons_big_cartridge_sheet.png) |
+| item | Big Cartridge Sheet | ![big_cartridge_sheet](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## Proximity Fuze
@@ -855,10 +855,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/createbigcannons_iron_bars.png) |
-| C | Gems Quartz | ![gems_quartz](../images/createbigcannons_gems_quartz.png) |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| R | Dusts Redstone | ![dusts_redstone](../images/createbigcannons_dusts_redstone.png) |
+| A | Iron Bars | ![iron_bars](../images/createbigcannons_cast_iron_autocannon.png) |
+| C | Gems Quartz | ![gems_quartz](../images/createbigcannons_ap_autocannon_round.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| R | Dusts Redstone | ![dusts_redstone](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Quickfiring Mechanism
@@ -866,9 +866,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Large Cogwheel | ![large_cogwheel](../images/createbigcannons_large_cogwheel.png) |
-| L | Lever | ![lever](../images/createbigcannons_lever.png) |
-| c | Cogwheel | ![cogwheel](../images/createbigcannons_cogwheel.png) |
+| C | Large Cogwheel | ![large_cogwheel](../images/createbigcannons_ap_autocannon_round.png) |
+| L | Lever | ![lever](../images/createbigcannons_quickfiring_breech_lever.png) |
+| c | Cogwheel | ![cogwheel](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Ram Head
@@ -876,8 +876,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| H | Planks | ![planks](../images/createbigcannons_planks.png) |
-| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_piston_extension_pole.png) |
+| H | Planks | ![planks](../images/createbigcannons_ap_autocannon_round.png) |
+| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_pole_contraption_bottom.png) |
 
 ---
 ## Ram Rod
@@ -886,7 +886,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Ram Head | ![ram_head](../images/createbigcannons_ram_head.png) |
-| S | Stick | ![stick](../images/createbigcannons_stick.png) |
+| S | Stick | ![stick](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -902,7 +902,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Shot Balls
@@ -910,8 +910,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| i | Nugget Iron | ![nugget_iron](../images/createbigcannons_nugget_iron.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| i | Nugget Iron | ![nugget_iron](../images/createbigcannons_cast_iron_nugget.png) |
 
 ---
 ## Shrapnel Shell
@@ -919,10 +919,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
 | L | Shot Balls | ![shot_balls](../images/createbigcannons_shot_balls.png) |
-| P | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
+| P | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -930,7 +930,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## {}
@@ -938,7 +938,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Small Nethersteel Cannon Layer
@@ -960,9 +960,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| H | Hay Block | ![hay_block](../images/createbigcannons_hay_block.png) |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| P | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
+| H | Hay Block | ![hay_block](../images/createbigcannons_block.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| P | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## Solid Shot
@@ -970,9 +970,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_wooden_slabs.png) |
-| i | Nugget Iron | ![nugget_iron](../images/createbigcannons_nugget_iron.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/createbigcannons_ap_autocannon_round.png) |
+| i | Nugget Iron | ![nugget_iron](../images/createbigcannons_cast_iron_nugget.png) |
 
 ---
 ## {}
@@ -980,7 +980,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
+| - | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## {}
@@ -988,7 +988,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sheet Steel | ![sheet_steel](../images/createbigcannons_sheet_steel.png) |
+| - | Sheet Steel | ![sheet_steel](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## Steel Autocannon Barrel
@@ -1003,7 +1003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
+| tag | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
 
 ---
 ## Steel Cannon Barrel
@@ -1025,8 +1025,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
-| S | Shaft | ![shaft](../images/createbigcannons_shaft.png) |
+| I | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
+| S | Shaft | ![shaft](../images/createbigcannons_cannon_mount_side_shaft.png) |
 
 ---
 ## Steel Sliding Breechblock
@@ -1034,8 +1034,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cogwheel | ![cogwheel](../images/createbigcannons_cogwheel.png) |
-| I | Ingot Steel | ![ingot_steel](../images/createbigcannons_ingot_steel.png) |
+| C | Cogwheel | ![cogwheel](../images/createbigcannons_ap_autocannon_round.png) |
+| I | Ingot Steel | ![ingot_steel](../images/createbigcannons_built_up_steel_cannon_barrel_end.png) |
 
 ---
 ## Thick Nethersteel Cannon Chamber
@@ -1057,9 +1057,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Clock | ![clock](../images/createbigcannons_clock.png) |
-| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
-| R | Dusts Redstone | ![dusts_redstone](../images/createbigcannons_dusts_redstone.png) |
+| C | Clock | ![clock](../images/createbigcannons_ap_autocannon_round.png) |
+| I | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
+| R | Dusts Redstone | ![dusts_redstone](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Tracer Tip
@@ -1067,8 +1067,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dust Glowstone | ![dust_glowstone](../images/createbigcannons_dust_glowstone.png) |
-| - | Blaze Powder | ![blaze_powder](../images/createbigcannons_blaze_powder.png) |
+| - | Dust Glowstone | ![dust_glowstone](../images/createbigcannons_ap_autocannon_round.png) |
+| - | Blaze Powder | ![blaze_powder](../images/createbigcannons_empty_powder_charge.png) |
 
 ---
 ## Unbored Bronze Autocannon Barrel
@@ -1272,7 +1272,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Very Large Nethersteel Cannon Layer
@@ -1294,7 +1294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logs | ![logs](../images/createbigcannons_logs.png) |
+| - | Logs | ![logs](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Very Small Nethersteel Cannon Layer
@@ -1317,7 +1317,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Worm Head | ![worm_head](../images/createbigcannons_worm_head.png) |
-| S | Stick | ![stick](../images/createbigcannons_stick.png) |
+| S | Stick | ![stick](../images/createbigcannons_ap_autocannon_round.png) |
 
 ---
 ## Worm Head
@@ -1325,8 +1325,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| H | Iron Bars | ![iron_bars](../images/createbigcannons_iron_bars.png) |
-| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_piston_extension_pole.png) |
+| H | Iron Bars | ![iron_bars](../images/createbigcannons_cast_iron_autocannon.png) |
+| P | Piston Extension Pole | ![piston_extension_pole](../images/createbigcannons_pole_contraption_bottom.png) |
 
 ---
 ## Wrought Iron Cannon Chamber
@@ -1334,8 +1334,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
 
 ---
 ## Wrought Iron Cannon End
@@ -1343,9 +1343,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_sheet_iron.png) |
-| K | Ingot Iron | ![ingot_iron](../images/createbigcannons_ingot_iron.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| I | Sheet Iron | ![sheet_iron](../images/createbigcannons_autocannon_cartridge_sheet.png) |
+| K | Ingot Iron | ![ingot_iron](../images/createbigcannons_cast_iron_ingot.png) |
 
 ---
 ## Wrought Iron Drop Mortar End
@@ -1353,8 +1353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/createbigcannons_iron_bars.png) |
-| E | Wrought Iron Cannon End | ![wrought_iron_cannon_end](../images/createbigcannons_wrought_iron_cannon_end.png) |
+| B | Iron Bars | ![iron_bars](../images/createbigcannons_cast_iron_autocannon.png) |
+| E | Wrought Iron Cannon End | ![wrought_iron_cannon_end](../images/createbigcannons_wrought_iron_cannon_chamber_end.png) |
 
 ---
 ## Yaw Controller
@@ -1362,8 +1362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_andesite_casing.png) |
-| G | Gunpowder | ![gunpowder](../images/createbigcannons_gunpowder.png) |
-| S | Shaft | ![shaft](../images/createbigcannons_shaft.png) |
+| C | Andesite Casing | ![andesite_casing](../images/createbigcannons_ap_autocannon_round.png) |
+| G | Gunpowder | ![gunpowder](../images/createbigcannons_packed_gunpowder.png) |
+| S | Shaft | ![shaft](../images/createbigcannons_cannon_mount_side_shaft.png) |
 
 ---

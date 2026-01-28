@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| # | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Slab
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Stairs
@@ -23,7 +23,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| # | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Stairs
@@ -31,7 +31,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Vertical Slab
@@ -39,7 +39,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Coralstone Slab | ![acan_coralstone_slab](../images/upgrade_acan_coralstone_slab.png) |
+| # | Acan Coralstone Slab | ![acan_coralstone_slab](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Slab
@@ -47,7 +47,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Coralstone Vertical Slab | ![acan_coralstone_vertical_slab](../images/upgrade_acan_coralstone_vertical_slab.png) |
+| # | Acan Coralstone Vertical Slab | ![acan_coralstone_vertical_slab](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Vertical Slab
@@ -55,7 +55,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Wall
@@ -63,7 +63,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| # | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coralstone Wall
@@ -71,7 +71,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Acan Coral Block
@@ -79,7 +79,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Fans Corals | ![acan_fans_corals](../images/upgrade_acan_fans_corals.png) |
+| # | Acan Fans Corals | ![acan_fans_corals](../images/upgrade_aquatic_acan_coral.png) |
 
 ---
 ## Cyan Dye
@@ -87,7 +87,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acan Coral Fan'}] | ![acan_coral_fan'}]](../images/upgrade_acan_coral_fan'}].png) |
+| - | Acan Coral Fan'}] | ![acan_coral_fan'}]](../images/upgrade_aquatic_acan_coral.png) |
 
 ---
 ## Beachgrass Thatch
@@ -95,7 +95,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Beachgrass | ![beachgrass](../images/upgrade_beachgrass.png) |
+| # | Beachgrass | ![beachgrass](../images/upgrade_aquatic_beachgrass.png) |
 
 ---
 ## Beachgrass Thatch Slab
@@ -103,7 +103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Beachgrass Thatch | ![beachgrass_thatch](../images/upgrade_beachgrass_thatch.png) |
+| # | Beachgrass Thatch | ![beachgrass_thatch](../images/upgrade_aquatic_beachgrass_thatch.png) |
 
 ---
 ## Beachgrass Thatch Stairs
@@ -111,7 +111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Beachgrass Thatch | ![beachgrass_thatch](../images/upgrade_beachgrass_thatch.png) |
+| # | Beachgrass Thatch | ![beachgrass_thatch](../images/upgrade_aquatic_beachgrass_thatch.png) |
 
 ---
 ## Beachgrass Thatch Vertical Slab
@@ -119,7 +119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Beachgrass Thatch Slab | ![beachgrass_thatch_slab](../images/upgrade_beachgrass_thatch_slab.png) |
+| # | Beachgrass Thatch Slab | ![beachgrass_thatch_slab](../images/upgrade_aquatic_beachgrass_thatch.png) |
 
 ---
 ## Beachgrass Thatch Slab
@@ -127,7 +127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Beachgrass Thatch Vertical Slab | ![beachgrass_thatch_vertical_slab](../images/upgrade_beachgrass_thatch_vertical_slab.png) |
+| # | Beachgrass Thatch Vertical Slab | ![beachgrass_thatch_vertical_slab](../images/upgrade_aquatic_beachgrass_thatch.png) |
 
 ---
 ## Bedroll
@@ -135,8 +135,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather | ![leather](../images/upgrade_leather.png) |
-| W | Wool | ![wool](../images/upgrade_wool.png) |
+| L | Leather | ![leather](../images/upgrade_aquatic_bedroll_particles_leather.png) |
+| W | Wool | ![wool](../images/upgrade_aquatic_acan_coral.png) |
 
 ---
 ## Black Bedroll
@@ -144,8 +144,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Black Dye | ![black_dye](../images/upgrade_black_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Black Dye | ![black_dye](../images/upgrade_aquatic_bedroll_particles_black.png) |
 
 ---
 ## Blue Bedroll
@@ -153,8 +153,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Blue Dye | ![blue_dye](../images/upgrade_blue_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Blue Dye | ![blue_dye](../images/upgrade_aquatic_axolotl_bucket_blue.png) |
 
 ---
 ## Blue Pickerelweed Block
@@ -162,7 +162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_blue_pickerelweed.png) |
+| # | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_aquatic_blue_pickerelweed.png) |
 
 ---
 ## Blue Pickerelweed
@@ -170,7 +170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Pickerelweed Block | ![blue_pickerelweed_block](../images/upgrade_blue_pickerelweed_block.png) |
+| - | Blue Pickerelweed Block | ![blue_pickerelweed_block](../images/upgrade_aquatic_blue_pickerelweed_block_bottom.png) |
 
 ---
 ## Boiled Blue Pickerelweed Block
@@ -178,7 +178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boiled Blue Pickerelweed | ![boiled_blue_pickerelweed](../images/upgrade_boiled_blue_pickerelweed.png) |
+| # | Boiled Blue Pickerelweed | ![boiled_blue_pickerelweed](../images/upgrade_aquatic_blue_pickerelweed_boiled.png) |
 
 ---
 ## Boiled Blue Pickerelweed
@@ -186,7 +186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Boiled Blue Pickerelweed Block | ![boiled_blue_pickerelweed_block](../images/upgrade_boiled_blue_pickerelweed_block.png) |
+| - | Boiled Blue Pickerelweed Block | ![boiled_blue_pickerelweed_block](../images/upgrade_aquatic_boiled_blue_pickerelweed_block_bottom.png) |
 
 ---
 ## Boiled Blue Pickerelweed
@@ -194,7 +194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_blue_pickerelweed.png) |
+| item | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_aquatic_blue_pickerelweed.png) |
 
 ---
 ## Boiled Blue Pickerelweed
@@ -202,7 +202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_blue_pickerelweed.png) |
+| item | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_aquatic_blue_pickerelweed.png) |
 
 ---
 ## Boiled Blue Pickerelweed
@@ -210,7 +210,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_blue_pickerelweed.png) |
+| item | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_aquatic_blue_pickerelweed.png) |
 
 ---
 ## Boiled Purple Pickerelweed Block
@@ -218,7 +218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Boiled Purple Pickerelweed | ![boiled_purple_pickerelweed](../images/upgrade_boiled_purple_pickerelweed.png) |
+| # | Boiled Purple Pickerelweed | ![boiled_purple_pickerelweed](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Boiled Purple Pickerelweed
@@ -226,7 +226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Boiled Purple Pickerelweed Block | ![boiled_purple_pickerelweed_block](../images/upgrade_boiled_purple_pickerelweed_block.png) |
+| - | Boiled Purple Pickerelweed Block | ![boiled_purple_pickerelweed_block](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Boiled Purple Pickerelweed
@@ -234,7 +234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_purple_pickerelweed.png) |
+| item | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Boiled Purple Pickerelweed
@@ -242,7 +242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_purple_pickerelweed.png) |
+| item | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Boiled Purple Pickerelweed
@@ -250,7 +250,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_purple_pickerelweed.png) |
+| item | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Bone Meal
@@ -258,7 +258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
+| - | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
 
 ---
 ## Brain Coralstone Slab
@@ -266,7 +266,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| # | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Slab
@@ -274,7 +274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Stairs
@@ -282,7 +282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| # | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Stairs
@@ -290,7 +290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Vertical Slab
@@ -298,7 +298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coralstone Slab | ![brain_coralstone_slab](../images/upgrade_brain_coralstone_slab.png) |
+| # | Brain Coralstone Slab | ![brain_coralstone_slab](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Slab
@@ -306,7 +306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coralstone Vertical Slab | ![brain_coralstone_vertical_slab](../images/upgrade_brain_coralstone_vertical_slab.png) |
+| # | Brain Coralstone Vertical Slab | ![brain_coralstone_vertical_slab](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Vertical Slab
@@ -314,7 +314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Wall
@@ -322,7 +322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| # | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coralstone Wall
@@ -330,7 +330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Brain Coral Block
@@ -338,7 +338,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Fans Corals | ![brain_fans_corals](../images/upgrade_brain_fans_corals.png) |
+| # | Brain Fans Corals | ![brain_fans_corals](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Branch Coralstone Slab
@@ -346,7 +346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| # | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Slab
@@ -354,7 +354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Stairs
@@ -362,7 +362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| # | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Stairs
@@ -370,7 +370,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Vertical Slab
@@ -378,7 +378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Coralstone Slab | ![branch_coralstone_slab](../images/upgrade_branch_coralstone_slab.png) |
+| # | Branch Coralstone Slab | ![branch_coralstone_slab](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Slab
@@ -386,7 +386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Coralstone Vertical Slab | ![branch_coralstone_vertical_slab](../images/upgrade_branch_coralstone_vertical_slab.png) |
+| # | Branch Coralstone Vertical Slab | ![branch_coralstone_vertical_slab](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Vertical Slab
@@ -394,7 +394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Wall
@@ -402,7 +402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| # | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coralstone Wall
@@ -410,7 +410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Branch Coral Block
@@ -418,7 +418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Fans Corals | ![branch_fans_corals](../images/upgrade_branch_fans_corals.png) |
+| # | Branch Fans Corals | ![branch_fans_corals](../images/upgrade_aquatic_branch_coral.png) |
 
 ---
 ## Black Dye
@@ -426,7 +426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Branch Coral Fan'}] | ![branch_coral_fan'}]](../images/upgrade_branch_coral_fan'}].png) |
+| - | Branch Coral Fan'}] | ![branch_coral_fan'}]](../images/upgrade_aquatic_branch_coral.png) |
 
 ---
 ## Brown Bedroll
@@ -434,8 +434,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Brown Dye | ![brown_dye](../images/upgrade_brown_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Brown Dye | ![brown_dye](../images/upgrade_aquatic_bedroll_particles_brown.png) |
 
 ---
 ## Bubble Coralstone Slab
@@ -443,7 +443,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| # | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Slab
@@ -451,7 +451,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Stairs
@@ -459,7 +459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| # | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Stairs
@@ -467,7 +467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Vertical Slab
@@ -475,7 +475,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coralstone Slab | ![bubble_coralstone_slab](../images/upgrade_bubble_coralstone_slab.png) |
+| # | Bubble Coralstone Slab | ![bubble_coralstone_slab](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Slab
@@ -483,7 +483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coralstone Vertical Slab | ![bubble_coralstone_vertical_slab](../images/upgrade_bubble_coralstone_vertical_slab.png) |
+| # | Bubble Coralstone Vertical Slab | ![bubble_coralstone_vertical_slab](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Vertical Slab
@@ -491,7 +491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Wall
@@ -499,7 +499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| # | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coralstone Wall
@@ -507,7 +507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Bubble Coral Block
@@ -515,7 +515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Fans Corals | ![bubble_fans_corals](../images/upgrade_bubble_fans_corals.png) |
+| # | Bubble Fans Corals | ![bubble_fans_corals](../images/upgrade_aquatic_bubble_block.png) |
 
 ---
 ## Chiseled Acan Coralstone
@@ -523,7 +523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acan Coralstone Slab | ![acan_coralstone_slab](../images/upgrade_acan_coralstone_slab.png) |
+| # | Acan Coralstone Slab | ![acan_coralstone_slab](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Chiseled Acan Coralstone
@@ -531,7 +531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_acan_coralstone.png) |
+| item | Acan Coralstone | ![acan_coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Chiseled Brain Coralstone
@@ -539,7 +539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brain Coralstone Slab | ![brain_coralstone_slab](../images/upgrade_brain_coralstone_slab.png) |
+| # | Brain Coralstone Slab | ![brain_coralstone_slab](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Chiseled Brain Coralstone
@@ -547,7 +547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_brain_coralstone.png) |
+| item | Brain Coralstone | ![brain_coralstone](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Chiseled Branch Coralstone
@@ -555,7 +555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Branch Coralstone Slab | ![branch_coralstone_slab](../images/upgrade_branch_coralstone_slab.png) |
+| # | Branch Coralstone Slab | ![branch_coralstone_slab](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Chiseled Branch Coralstone
@@ -563,7 +563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_branch_coralstone.png) |
+| item | Branch Coralstone | ![branch_coralstone](../images/upgrade_aquatic_branch_coralstone.png) |
 
 ---
 ## Chiseled Bubble Coralstone
@@ -571,7 +571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bubble Coralstone Slab | ![bubble_coralstone_slab](../images/upgrade_bubble_coralstone_slab.png) |
+| # | Bubble Coralstone Slab | ![bubble_coralstone_slab](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Chiseled Bubble Coralstone
@@ -579,7 +579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_bubble_coralstone.png) |
+| item | Bubble Coralstone | ![bubble_coralstone](../images/upgrade_aquatic_bubble_coralstone.png) |
 
 ---
 ## Chiseled Chrome Coralstone
@@ -587,7 +587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Coralstone Slab | ![chrome_coralstone_slab](../images/upgrade_chrome_coralstone_slab.png) |
+| # | Chrome Coralstone Slab | ![chrome_coralstone_slab](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chiseled Chrome Coralstone
@@ -595,7 +595,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chiseled Coralstone
@@ -603,7 +603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coralstone Slab | ![coralstone_slab](../images/upgrade_coralstone_slab.png) |
+| # | Coralstone Slab | ![coralstone_slab](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Chiseled Coralstone
@@ -611,7 +611,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| item | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Chiseled Dead Coralstone
@@ -619,7 +619,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Coralstone Slab | ![dead_coralstone_slab](../images/upgrade_dead_coralstone_slab.png) |
+| # | Dead Coralstone Slab | ![dead_coralstone_slab](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Chiseled Dead Coralstone
@@ -627,7 +627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Chiseled Elder Prismarine Coralstone
@@ -635,7 +635,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Coralstone Slab | ![elder_prismarine_coralstone_slab](../images/upgrade_elder_prismarine_coralstone_slab.png) |
+| # | Elder Prismarine Coralstone Slab | ![elder_prismarine_coralstone_slab](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Chiseled Elder Prismarine Coralstone
@@ -643,7 +643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Chiseled Finger Coralstone
@@ -651,7 +651,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Coralstone Slab | ![finger_coralstone_slab](../images/upgrade_finger_coralstone_slab.png) |
+| # | Finger Coralstone Slab | ![finger_coralstone_slab](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Chiseled Finger Coralstone
@@ -659,7 +659,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Chiseled Fire Coralstone
@@ -667,7 +667,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coralstone Slab | ![fire_coralstone_slab](../images/upgrade_fire_coralstone_slab.png) |
+| # | Fire Coralstone Slab | ![fire_coralstone_slab](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Chiseled Fire Coralstone
@@ -675,7 +675,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Chiseled Horn Coralstone
@@ -683,7 +683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coralstone Slab | ![horn_coralstone_slab](../images/upgrade_horn_coralstone_slab.png) |
+| # | Horn Coralstone Slab | ![horn_coralstone_slab](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Chiseled Horn Coralstone
@@ -691,7 +691,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Chiseled Moss Coralstone
@@ -699,7 +699,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Coralstone Slab | ![moss_coralstone_slab](../images/upgrade_moss_coralstone_slab.png) |
+| # | Moss Coralstone Slab | ![moss_coralstone_slab](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Chiseled Moss Coralstone
@@ -707,7 +707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Chiseled Petal Coralstone
@@ -715,7 +715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Coralstone Slab | ![petal_coralstone_slab](../images/upgrade_petal_coralstone_slab.png) |
+| # | Petal Coralstone Slab | ![petal_coralstone_slab](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Chiseled Petal Coralstone
@@ -723,7 +723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Chiseled Pillow Coralstone
@@ -731,7 +731,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Coralstone Slab | ![pillow_coralstone_slab](../images/upgrade_pillow_coralstone_slab.png) |
+| # | Pillow Coralstone Slab | ![pillow_coralstone_slab](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Chiseled Pillow Coralstone
@@ -739,7 +739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Chiseled Prismarine Coralstone
@@ -747,7 +747,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Coralstone Slab | ![prismarine_coralstone_slab](../images/upgrade_prismarine_coralstone_slab.png) |
+| # | Prismarine Coralstone Slab | ![prismarine_coralstone_slab](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Chiseled Prismarine Coralstone
@@ -755,7 +755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Chiseled Rock Coralstone
@@ -763,7 +763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Coralstone Slab | ![rock_coralstone_slab](../images/upgrade_rock_coralstone_slab.png) |
+| # | Rock Coralstone Slab | ![rock_coralstone_slab](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Chiseled Rock Coralstone
@@ -771,7 +771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Chiseled Scute Shingles
@@ -779,7 +779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Shingle Slab | ![scute_shingle_slab](../images/upgrade_scute_shingle_slab.png) |
+| # | Scute Shingle Slab | ![scute_shingle_slab](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Chiseled Scute Shingles
@@ -787,7 +787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| item | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Chiseled Silk Coralstone
@@ -795,7 +795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Coralstone Slab | ![silk_coralstone_slab](../images/upgrade_silk_coralstone_slab.png) |
+| # | Silk Coralstone Slab | ![silk_coralstone_slab](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Chiseled Silk Coralstone
@@ -803,7 +803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Chiseled Star Coralstone
@@ -811,7 +811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Coralstone Slab | ![star_coralstone_slab](../images/upgrade_star_coralstone_slab.png) |
+| # | Star Coralstone Slab | ![star_coralstone_slab](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Chiseled Star Coralstone
@@ -819,7 +819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| item | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Chiseled Tooth Bricks
@@ -827,7 +827,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Brick Slab | ![tooth_brick_slab](../images/upgrade_tooth_brick_slab.png) |
+| # | Tooth Brick Slab | ![tooth_brick_slab](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Chiseled Tooth Bricks
@@ -835,7 +835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Chiseled Tube Coralstone
@@ -843,7 +843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coralstone Slab | ![tube_coralstone_slab](../images/upgrade_tube_coralstone_slab.png) |
+| # | Tube Coralstone Slab | ![tube_coralstone_slab](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Chiseled Tube Coralstone
@@ -851,7 +851,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Chrome Coralstone Slab
@@ -859,7 +859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| # | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Slab
@@ -867,7 +867,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Stairs
@@ -875,7 +875,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| # | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Stairs
@@ -883,7 +883,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Vertical Slab
@@ -891,7 +891,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Coralstone Slab | ![chrome_coralstone_slab](../images/upgrade_chrome_coralstone_slab.png) |
+| # | Chrome Coralstone Slab | ![chrome_coralstone_slab](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Slab
@@ -899,7 +899,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Coralstone Vertical Slab | ![chrome_coralstone_vertical_slab](../images/upgrade_chrome_coralstone_vertical_slab.png) |
+| # | Chrome Coralstone Vertical Slab | ![chrome_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Vertical Slab
@@ -907,7 +907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Wall
@@ -915,7 +915,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| # | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coralstone Wall
@@ -923,7 +923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_chrome_coralstone.png) |
+| item | Chrome Coralstone | ![chrome_coralstone](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Chrome Coral Block
@@ -931,7 +931,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chrome Fans Corals | ![chrome_fans_corals](../images/upgrade_chrome_fans_corals.png) |
+| # | Chrome Fans Corals | ![chrome_fans_corals](../images/upgrade_aquatic_chiseled_chrome_coralstone.png) |
 
 ---
 ## Gray Dye
@@ -939,7 +939,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chrome Coral Fan'}] | ![chrome_coral_fan'}]](../images/upgrade_chrome_coral_fan'}].png) |
+| - | Chrome Coral Fan'}] | ![chrome_coral_fan'}]](../images/upgrade_aquatic_chrome_coral.png) |
 
 ---
 ## Cooked Lionfish
@@ -947,7 +947,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lionfish | ![lionfish](../images/upgrade_lionfish.png) |
+| item | Lionfish | ![lionfish](../images/upgrade_aquatic_cooked_lionfish.png) |
 
 ---
 ## Cooked Lionfish
@@ -955,7 +955,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lionfish | ![lionfish](../images/upgrade_lionfish.png) |
+| item | Lionfish | ![lionfish](../images/upgrade_aquatic_cooked_lionfish.png) |
 
 ---
 ## Cooked Lionfish
@@ -963,7 +963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lionfish | ![lionfish](../images/upgrade_lionfish.png) |
+| item | Lionfish | ![lionfish](../images/upgrade_aquatic_cooked_lionfish.png) |
 
 ---
 ## Cooked Perch
@@ -971,7 +971,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Perch | ![perch](../images/upgrade_perch.png) |
+| item | Perch | ![perch](../images/upgrade_aquatic_cooked_perch.png) |
 
 ---
 ## Cooked Perch
@@ -979,7 +979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Perch | ![perch](../images/upgrade_perch.png) |
+| item | Perch | ![perch](../images/upgrade_aquatic_cooked_perch.png) |
 
 ---
 ## Cooked Perch
@@ -987,7 +987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Perch | ![perch](../images/upgrade_perch.png) |
+| item | Perch | ![perch](../images/upgrade_aquatic_cooked_perch.png) |
 
 ---
 ## Cooked Pike
@@ -995,7 +995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pike | ![pike](../images/upgrade_pike.png) |
+| item | Pike | ![pike](../images/upgrade_aquatic_cooked_pike.png) |
 
 ---
 ## Cooked Pike
@@ -1003,7 +1003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pike | ![pike](../images/upgrade_pike.png) |
+| item | Pike | ![pike](../images/upgrade_aquatic_cooked_pike.png) |
 
 ---
 ## Cooked Pike
@@ -1011,7 +1011,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pike | ![pike](../images/upgrade_pike.png) |
+| item | Pike | ![pike](../images/upgrade_aquatic_cooked_pike.png) |
 
 ---
 ## Coralstone
@@ -1019,8 +1019,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Nautilus Shell | ![nautilus_shell](../images/upgrade_nautilus_shell.png) |
-| F | Stone | ![stone](../images/upgrade_stone.png) |
+| N | Nautilus Shell | ![nautilus_shell](../images/upgrade_aquatic_nautilus_bucket.png) |
+| F | Stone | ![stone](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Coralstone Slab
@@ -1028,7 +1028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| # | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Slab
@@ -1036,7 +1036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| item | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Stairs
@@ -1044,7 +1044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| # | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Stairs
@@ -1052,7 +1052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| item | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Vertical Slab
@@ -1060,7 +1060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coralstone Slab | ![coralstone_slab](../images/upgrade_coralstone_slab.png) |
+| # | Coralstone Slab | ![coralstone_slab](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Slab
@@ -1068,7 +1068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coralstone Vertical Slab | ![coralstone_vertical_slab](../images/upgrade_coralstone_vertical_slab.png) |
+| # | Coralstone Vertical Slab | ![coralstone_vertical_slab](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Vertical Slab
@@ -1076,7 +1076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| item | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Wall
@@ -1084,7 +1084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| # | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Coralstone Wall
@@ -1092,7 +1092,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Coralstone | ![coralstone](../images/upgrade_coralstone.png) |
+| item | Coralstone | ![coralstone](../images/upgrade_aquatic_acan_coralstone.png) |
 
 ---
 ## Cyan Bedroll
@@ -1100,8 +1100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Cyan Dye | ![cyan_dye](../images/upgrade_cyan_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Cyan Dye | ![cyan_dye](../images/upgrade_aquatic_axolotl_bucket_cyan.png) |
 
 ---
 ## Cyan Dye
@@ -1109,7 +1109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_blue_pickerelweed.png) |
+| - | Blue Pickerelweed | ![blue_pickerelweed](../images/upgrade_aquatic_blue_pickerelweed.png) |
 
 ---
 ## Dead Acan Coral Block
@@ -1117,7 +1117,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Acan Fans Corals | ![dead_acan_fans_corals](../images/upgrade_dead_acan_fans_corals.png) |
+| # | Dead Acan Fans Corals | ![dead_acan_fans_corals](../images/upgrade_aquatic_dead_acan_coral.png) |
 
 ---
 ## Dead Brain Coral Block
@@ -1125,7 +1125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Brain Fans Corals | ![dead_brain_fans_corals](../images/upgrade_dead_brain_fans_corals.png) |
+| # | Dead Brain Fans Corals | ![dead_brain_fans_corals](../images/upgrade_aquatic_brain_coralstone.png) |
 
 ---
 ## Dead Branch Coral Block
@@ -1133,7 +1133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Branch Fans Corals | ![dead_branch_fans_corals](../images/upgrade_dead_branch_fans_corals.png) |
+| # | Dead Branch Fans Corals | ![dead_branch_fans_corals](../images/upgrade_aquatic_dead_branch_coral.png) |
 
 ---
 ## Dead Bubble Coral Block
@@ -1141,7 +1141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Bubble Fans Corals | ![dead_bubble_fans_corals](../images/upgrade_dead_bubble_fans_corals.png) |
+| # | Dead Bubble Fans Corals | ![dead_bubble_fans_corals](../images/upgrade_aquatic_bubble_block.png) |
 
 ---
 ## Dead Chrome Coral Block
@@ -1149,7 +1149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Chrome Fans Corals | ![dead_chrome_fans_corals](../images/upgrade_dead_chrome_fans_corals.png) |
+| # | Dead Chrome Fans Corals | ![dead_chrome_fans_corals](../images/upgrade_aquatic_dead_chrome_coral.png) |
 
 ---
 ## Dead Coralstone Slab
@@ -1157,7 +1157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| # | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Slab
@@ -1165,7 +1165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Stairs
@@ -1173,7 +1173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| # | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Stairs
@@ -1181,7 +1181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Vertical Slab
@@ -1189,7 +1189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Coralstone Slab | ![dead_coralstone_slab](../images/upgrade_dead_coralstone_slab.png) |
+| # | Dead Coralstone Slab | ![dead_coralstone_slab](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Slab
@@ -1197,7 +1197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Coralstone Vertical Slab | ![dead_coralstone_vertical_slab](../images/upgrade_dead_coralstone_vertical_slab.png) |
+| # | Dead Coralstone Vertical Slab | ![dead_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Vertical Slab
@@ -1205,7 +1205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Wall
@@ -1213,7 +1213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| # | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Coralstone Wall
@@ -1221,7 +1221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_dead_coralstone.png) |
+| item | Dead Coralstone | ![dead_coralstone](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Finger Coral Block
@@ -1229,7 +1229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Finger Fans Corals | ![dead_finger_fans_corals](../images/upgrade_dead_finger_fans_corals.png) |
+| # | Dead Finger Fans Corals | ![dead_finger_fans_corals](../images/upgrade_aquatic_dead_finger_coral.png) |
 
 ---
 ## Dead Fire Coral Block
@@ -1237,7 +1237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Fire Fans Corals | ![dead_fire_fans_corals](../images/upgrade_dead_fire_fans_corals.png) |
+| # | Dead Fire Fans Corals | ![dead_fire_fans_corals](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Horn Coral Block
@@ -1245,7 +1245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Horn Fans Corals | ![dead_horn_fans_corals](../images/upgrade_dead_horn_fans_corals.png) |
+| # | Dead Horn Fans Corals | ![dead_horn_fans_corals](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Dead Moss Coral Block
@@ -1253,7 +1253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Moss Fans Corals | ![dead_moss_fans_corals](../images/upgrade_dead_moss_fans_corals.png) |
+| # | Dead Moss Fans Corals | ![dead_moss_fans_corals](../images/upgrade_aquatic_dead_moss_coral.png) |
 
 ---
 ## Dead Petal Coral Block
@@ -1261,7 +1261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Petal Fans Corals | ![dead_petal_fans_corals](../images/upgrade_dead_petal_fans_corals.png) |
+| # | Dead Petal Fans Corals | ![dead_petal_fans_corals](../images/upgrade_aquatic_dead_petal_coral.png) |
 
 ---
 ## Dead Pillow Coral Block
@@ -1269,7 +1269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Pillow Fans Corals | ![dead_pillow_fans_corals](../images/upgrade_dead_pillow_fans_corals.png) |
+| # | Dead Pillow Fans Corals | ![dead_pillow_fans_corals](../images/upgrade_aquatic_dead_pillow_coral.png) |
 
 ---
 ## Dead Rock Coral Block
@@ -1277,7 +1277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Rock Fans Corals | ![dead_rock_fans_corals](../images/upgrade_dead_rock_fans_corals.png) |
+| # | Dead Rock Fans Corals | ![dead_rock_fans_corals](../images/upgrade_aquatic_dead_rock_coral.png) |
 
 ---
 ## Dead Silk Coral Block
@@ -1285,7 +1285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Silk Fans Corals | ![dead_silk_fans_corals](../images/upgrade_dead_silk_fans_corals.png) |
+| # | Dead Silk Fans Corals | ![dead_silk_fans_corals](../images/upgrade_aquatic_dead_silk_coral.png) |
 
 ---
 ## Dead Star Coral Block
@@ -1293,7 +1293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Star Fans Corals | ![dead_star_fans_corals](../images/upgrade_dead_star_fans_corals.png) |
+| # | Dead Star Fans Corals | ![dead_star_fans_corals](../images/upgrade_aquatic_dead_star_coral.png) |
 
 ---
 ## Dead Tube Coral Block
@@ -1301,7 +1301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dead Tube Fans Corals | ![dead_tube_fans_corals](../images/upgrade_dead_tube_fans_corals.png) |
+| # | Dead Tube Fans Corals | ![dead_tube_fans_corals](../images/upgrade_aquatic_chiseled_dead_coralstone.png) |
 
 ---
 ## Driftwood
@@ -1309,7 +1309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Log | ![driftwood_log](../images/upgrade_driftwood_log.png) |
+| # | Driftwood Log | ![driftwood_log](../images/upgrade_aquatic_driftwood_log.png) |
 
 ---
 ## {}
@@ -1331,7 +1331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| B | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## {}
@@ -1346,7 +1346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| - | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## {}
@@ -1362,7 +1362,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chests/Wooden | ![chests/wooden](../images/upgrade_chests/wooden.png) |
-| - | Driftwood Boat | ![driftwood_boat](../images/upgrade_driftwood_boat.png) |
+| - | Driftwood Boat | ![driftwood_boat](../images/upgrade_aquatic_driftwood_boat.png) |
 
 ---
 ## {}
@@ -1377,7 +1377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## Driftwood Fence
@@ -1385,8 +1385,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/upgrade_stick.png) |
-| W | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Stick | ![stick](../images/upgrade_aquatic_acan_coral.png) |
+| W | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## Driftwood Fence Gate
@@ -1394,8 +1394,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/upgrade_stick.png) |
-| W | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Stick | ![stick](../images/upgrade_aquatic_acan_coral.png) |
+| W | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## {}
@@ -1417,7 +1417,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Driftwood Logs | ![driftwood_logs](../images/upgrade_driftwood_logs.png) |
+| - | Driftwood Logs | ![driftwood_logs](../images/upgrade_aquatic_driftwood_beehive_end.png) |
 
 ---
 ## Driftwood Post
@@ -1425,7 +1425,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Driftwood | ![driftwood](../images/upgrade_driftwood.png) |
+| F | Driftwood | ![driftwood](../images/upgrade_aquatic_driftwood_beehive_end.png) |
 
 ---
 ## Driftwood Pressure Plate
@@ -1433,7 +1433,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## Driftwood Sign
@@ -1441,7 +1441,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/upgrade_rods/wooden.png) |
 
 ---
@@ -1450,7 +1450,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## Driftwood Stairs
@@ -1458,7 +1458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## Driftwood Trapdoor
@@ -1466,7 +1466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_driftwood_planks.png) |
+| # | Driftwood Planks | ![driftwood_planks](../images/upgrade_aquatic_driftwood_planks.png) |
 
 ---
 ## {}
@@ -1481,7 +1481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Slab | ![driftwood_slab](../images/upgrade_driftwood_slab.png) |
+| # | Driftwood Slab | ![driftwood_slab](../images/upgrade_aquatic_driftwood_beehive_end.png) |
 
 ---
 ## Driftwood Slab
@@ -1489,7 +1489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Driftwood Vertical Slab | ![driftwood_vertical_slab](../images/upgrade_driftwood_vertical_slab.png) |
+| # | Driftwood Vertical Slab | ![driftwood_vertical_slab](../images/upgrade_aquatic_driftwood_beehive_end.png) |
 
 ---
 ## Elder Prismarine Coralstone Slab
@@ -1497,7 +1497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| # | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Slab
@@ -1505,7 +1505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Stairs
@@ -1513,7 +1513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| # | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Stairs
@@ -1521,7 +1521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Vertical Slab
@@ -1529,7 +1529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Coralstone Slab | ![elder_prismarine_coralstone_slab](../images/upgrade_elder_prismarine_coralstone_slab.png) |
+| # | Elder Prismarine Coralstone Slab | ![elder_prismarine_coralstone_slab](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Slab
@@ -1537,7 +1537,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Coralstone Vertical Slab | ![elder_prismarine_coralstone_vertical_slab](../images/upgrade_elder_prismarine_coralstone_vertical_slab.png) |
+| # | Elder Prismarine Coralstone Vertical Slab | ![elder_prismarine_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Vertical Slab
@@ -1545,7 +1545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Wall
@@ -1553,7 +1553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| # | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coralstone Wall
@@ -1561,7 +1561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_elder_prismarine_coralstone.png) |
+| item | Elder Prismarine Coralstone | ![elder_prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Elder Prismarine Coral Block
@@ -1569,7 +1569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Elder Prismarine Fans Corals | ![elder_prismarine_fans_corals](../images/upgrade_elder_prismarine_fans_corals.png) |
+| # | Elder Prismarine Fans Corals | ![elder_prismarine_fans_corals](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Finger Coralstone Slab
@@ -1577,7 +1577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| # | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Slab
@@ -1585,7 +1585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Stairs
@@ -1593,7 +1593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| # | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Stairs
@@ -1601,7 +1601,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Vertical Slab
@@ -1609,7 +1609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Coralstone Slab | ![finger_coralstone_slab](../images/upgrade_finger_coralstone_slab.png) |
+| # | Finger Coralstone Slab | ![finger_coralstone_slab](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Slab
@@ -1617,7 +1617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Coralstone Vertical Slab | ![finger_coralstone_vertical_slab](../images/upgrade_finger_coralstone_vertical_slab.png) |
+| # | Finger Coralstone Vertical Slab | ![finger_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Vertical Slab
@@ -1625,7 +1625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Wall
@@ -1633,7 +1633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| # | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coralstone Wall
@@ -1641,7 +1641,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_finger_coralstone.png) |
+| item | Finger Coralstone | ![finger_coralstone](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Finger Coral Block
@@ -1649,7 +1649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Finger Fans Corals | ![finger_fans_corals](../images/upgrade_finger_fans_corals.png) |
+| # | Finger Fans Corals | ![finger_fans_corals](../images/upgrade_aquatic_chiseled_finger_coralstone.png) |
 
 ---
 ## Orange Dye
@@ -1657,7 +1657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Finger Coral Fan'}] | ![finger_coral_fan'}]](../images/upgrade_finger_coral_fan'}].png) |
+| - | Finger Coral Fan'}] | ![finger_coral_fan'}]](../images/upgrade_aquatic_dead_finger_coral.png) |
 
 ---
 ## Fire Coralstone Slab
@@ -1665,7 +1665,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| # | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Slab
@@ -1673,7 +1673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Stairs
@@ -1681,7 +1681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| # | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Stairs
@@ -1689,7 +1689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Vertical Slab
@@ -1697,7 +1697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coralstone Slab | ![fire_coralstone_slab](../images/upgrade_fire_coralstone_slab.png) |
+| # | Fire Coralstone Slab | ![fire_coralstone_slab](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Slab
@@ -1705,7 +1705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coralstone Vertical Slab | ![fire_coralstone_vertical_slab](../images/upgrade_fire_coralstone_vertical_slab.png) |
+| # | Fire Coralstone Vertical Slab | ![fire_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Vertical Slab
@@ -1713,7 +1713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Wall
@@ -1721,7 +1721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| # | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coralstone Wall
@@ -1729,7 +1729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_fire_coralstone.png) |
+| item | Fire Coralstone | ![fire_coralstone](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Fire Coral Block
@@ -1737,7 +1737,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Fire Fans Corals | ![fire_fans_corals](../images/upgrade_fire_fans_corals.png) |
+| # | Fire Fans Corals | ![fire_fans_corals](../images/upgrade_aquatic_chiseled_fire_coralstone.png) |
 
 ---
 ## Pink Dye
@@ -1745,7 +1745,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flowering Rush | ![flowering_rush](../images/upgrade_flowering_rush.png) |
+| - | Flowering Rush | ![flowering_rush](../images/upgrade_aquatic_flowering_rush.png) |
 
 ---
 ## Glass Door
@@ -1753,7 +1753,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glass | ![glass](../images/upgrade_glass.png) |
+| # | Glass | ![glass](../images/upgrade_aquatic_glass_door.png) |
 
 ---
 ## Glass Trapdoor
@@ -1761,7 +1761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glass | ![glass](../images/upgrade_glass.png) |
+| # | Glass | ![glass](../images/upgrade_aquatic_glass_door.png) |
 
 ---
 ## Gray Bedroll
@@ -1769,8 +1769,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Gray Dye | ![gray_dye](../images/upgrade_gray_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Gray Dye | ![gray_dye](../images/upgrade_aquatic_bedroll_particles_gray.png) |
 
 ---
 ## Green Bedroll
@@ -1778,8 +1778,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Green Dye | ![green_dye](../images/upgrade_green_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Green Dye | ![green_dye](../images/upgrade_aquatic_bedroll_particles_green.png) |
 
 ---
 ## Horn Coralstone Slab
@@ -1787,7 +1787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| # | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Slab
@@ -1795,7 +1795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Stairs
@@ -1803,7 +1803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| # | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Stairs
@@ -1811,7 +1811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Vertical Slab
@@ -1819,7 +1819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coralstone Slab | ![horn_coralstone_slab](../images/upgrade_horn_coralstone_slab.png) |
+| # | Horn Coralstone Slab | ![horn_coralstone_slab](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Slab
@@ -1827,7 +1827,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coralstone Vertical Slab | ![horn_coralstone_vertical_slab](../images/upgrade_horn_coralstone_vertical_slab.png) |
+| # | Horn Coralstone Vertical Slab | ![horn_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Vertical Slab
@@ -1835,7 +1835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Wall
@@ -1843,7 +1843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| # | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coralstone Wall
@@ -1851,7 +1851,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_horn_coralstone.png) |
+| item | Horn Coralstone | ![horn_coralstone](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Horn Coral Block
@@ -1859,7 +1859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Horn Fans Corals | ![horn_fans_corals](../images/upgrade_horn_fans_corals.png) |
+| # | Horn Fans Corals | ![horn_fans_corals](../images/upgrade_aquatic_chiseled_horn_coralstone.png) |
 
 ---
 ## Kelp
@@ -1867,7 +1867,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kelp Block | ![kelp_block](../images/upgrade_kelp_block.png) |
+| - | Kelp Block | ![kelp_block](../images/upgrade_aquatic_kelp_block_bottom.png) |
 
 ---
 ## Kelpy Cobblestone
@@ -1875,8 +1875,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kelp | ![kelp](../images/upgrade_kelp.png) |
-| - | Cobblestone | ![cobblestone](../images/upgrade_cobblestone.png) |
+| - | Kelp | ![kelp](../images/upgrade_aquatic_kelp_block_bottom.png) |
+| - | Cobblestone | ![cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Slab
@@ -1884,7 +1884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| # | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Slab
@@ -1892,7 +1892,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Stairs
@@ -1900,7 +1900,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| # | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Stairs
@@ -1908,7 +1908,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Vertical Slab
@@ -1916,7 +1916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Cobblestone Slab | ![kelpy_cobblestone_slab](../images/upgrade_kelpy_cobblestone_slab.png) |
+| # | Kelpy Cobblestone Slab | ![kelpy_cobblestone_slab](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Slab
@@ -1924,7 +1924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Cobblestone Vertical Slab | ![kelpy_cobblestone_vertical_slab](../images/upgrade_kelpy_cobblestone_vertical_slab.png) |
+| # | Kelpy Cobblestone Vertical Slab | ![kelpy_cobblestone_vertical_slab](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Vertical Slab
@@ -1932,7 +1932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Wall
@@ -1940,7 +1940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| # | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Cobblestone Wall
@@ -1948,7 +1948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_kelpy_cobblestone.png) |
+| item | Kelpy Cobblestone | ![kelpy_cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Kelpy Stone Bricks
@@ -1956,8 +1956,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Kelp | ![kelp](../images/upgrade_kelp.png) |
-| - | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| - | Kelp | ![kelp](../images/upgrade_aquatic_kelp_block_bottom.png) |
+| - | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Slab
@@ -1965,7 +1965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| # | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Slab
@@ -1973,7 +1973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Stairs
@@ -1981,7 +1981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| # | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Stairs
@@ -1989,7 +1989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Vertical Slab
@@ -1997,7 +1997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Stone Brick Slab | ![kelpy_stone_brick_slab](../images/upgrade_kelpy_stone_brick_slab.png) |
+| # | Kelpy Stone Brick Slab | ![kelpy_stone_brick_slab](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Slab
@@ -2005,7 +2005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Stone Brick Vertical Slab | ![kelpy_stone_brick_vertical_slab](../images/upgrade_kelpy_stone_brick_vertical_slab.png) |
+| # | Kelpy Stone Brick Vertical Slab | ![kelpy_stone_brick_vertical_slab](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Vertical Slab
@@ -2013,7 +2013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Wall
@@ -2021,7 +2021,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| # | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelpy Stone Brick Wall
@@ -2029,7 +2029,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_kelpy_stone_bricks.png) |
+| item | Kelpy Stone Bricks | ![kelpy_stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Kelp Block
@@ -2037,7 +2037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Kelp | ![kelp](../images/upgrade_kelp.png) |
+| # | Kelp | ![kelp](../images/upgrade_aquatic_kelp_block_bottom.png) |
 
 ---
 ## {}
@@ -2059,8 +2059,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Light Blue Dye | ![light_blue_dye](../images/upgrade_light_blue_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/upgrade_aquatic_bedroll_particles_light_blue.png) |
 
 ---
 ## Light Gray Bedroll
@@ -2068,8 +2068,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Light Gray Dye | ![light_gray_dye](../images/upgrade_light_gray_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/upgrade_aquatic_bedroll_particles_light_gray.png) |
 
 ---
 ## Lime Bedroll
@@ -2077,8 +2077,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Lime Dye | ![lime_dye](../images/upgrade_lime_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Lime Dye | ![lime_dye](../images/upgrade_aquatic_bedroll_particles_lime.png) |
 
 ---
 ## Luminous Prismarine
@@ -2086,8 +2086,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Prismarine Shard | ![prismarine_shard](../images/upgrade_prismarine_shard.png) |
-| I | Glow Ink Sac | ![glow_ink_sac](../images/upgrade_glow_ink_sac.png) |
+| S | Prismarine Shard | ![prismarine_shard](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
+| I | Glow Ink Sac | ![glow_ink_sac](../images/upgrade_aquatic_glow_squid_bucket.png) |
 
 ---
 ## Luminous Prismarine Slab
@@ -2095,7 +2095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_luminous_prismarine.png) |
+| # | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Luminous Prismarine Slab
@@ -2103,7 +2103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_luminous_prismarine.png) |
+| item | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Luminous Prismarine Stairs
@@ -2111,7 +2111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_luminous_prismarine.png) |
+| # | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Luminous Prismarine Stairs
@@ -2119,7 +2119,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_luminous_prismarine.png) |
+| item | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Luminous Prismarine Slab
@@ -2127,7 +2127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Luminous Prismarine Vertical Slab | ![luminous_prismarine_vertical_slab](../images/upgrade_luminous_prismarine_vertical_slab.png) |
+| - | Luminous Prismarine Vertical Slab | ![luminous_prismarine_vertical_slab](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Luminous Prismarine Vertical Slab
@@ -2135,7 +2135,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_luminous_prismarine.png) |
+| item | Luminous Prismarine | ![luminous_prismarine](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Luminous Prismarine Vertical Slab
@@ -2143,7 +2143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Luminous Prismarine Slab | ![luminous_prismarine_slab](../images/upgrade_luminous_prismarine_slab.png) |
+| S | Luminous Prismarine Slab | ![luminous_prismarine_slab](../images/upgrade_aquatic_luminous_elder_prismarine.png) |
 
 ---
 ## Magenta Bedroll
@@ -2151,8 +2151,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Magenta Dye | ![magenta_dye](../images/upgrade_magenta_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Magenta Dye | ![magenta_dye](../images/upgrade_aquatic_bedroll_particles_magenta.png) |
 
 ---
 ## Magenta Dye
@@ -2160,7 +2160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry | ![mulberry](../images/upgrade_mulberry.png) |
+| - | Mulberry | ![mulberry](../images/upgrade_aquatic_double_mulberry_vine_overlay_stage0.png) |
 
 ---
 ## Moss Coralstone Slab
@@ -2168,7 +2168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| # | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Slab
@@ -2176,7 +2176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Stairs
@@ -2184,7 +2184,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| # | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Stairs
@@ -2192,7 +2192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Vertical Slab
@@ -2200,7 +2200,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Coralstone Slab | ![moss_coralstone_slab](../images/upgrade_moss_coralstone_slab.png) |
+| # | Moss Coralstone Slab | ![moss_coralstone_slab](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Slab
@@ -2208,7 +2208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Coralstone Vertical Slab | ![moss_coralstone_vertical_slab](../images/upgrade_moss_coralstone_vertical_slab.png) |
+| # | Moss Coralstone Vertical Slab | ![moss_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Vertical Slab
@@ -2216,7 +2216,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Wall
@@ -2224,7 +2224,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| # | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coralstone Wall
@@ -2232,7 +2232,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_moss_coralstone.png) |
+| item | Moss Coralstone | ![moss_coralstone](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Moss Coral Block
@@ -2240,7 +2240,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moss Fans Corals | ![moss_fans_corals](../images/upgrade_moss_fans_corals.png) |
+| # | Moss Fans Corals | ![moss_fans_corals](../images/upgrade_aquatic_chiseled_moss_coralstone.png) |
 
 ---
 ## Green Dye
@@ -2248,7 +2248,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Moss Coral Fan'}] | ![moss_coral_fan'}]](../images/upgrade_moss_coral_fan'}].png) |
+| - | Moss Coral Fan'}] | ![moss_coral_fan'}]](../images/upgrade_aquatic_dead_moss_coral.png) |
 
 ---
 ## Mulberry
@@ -2256,7 +2256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Punnet | ![mulberry_punnet](../images/upgrade_mulberry_punnet.png) |
+| - | Mulberry Punnet | ![mulberry_punnet](../images/upgrade_aquatic_mulberry_punnet_bottom.png) |
 
 ---
 ## Mulberry Bread
@@ -2264,8 +2264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Jam Bottle | ![mulberry_jam_bottle](../images/upgrade_mulberry_jam_bottle.png) |
-| - | Bread | ![bread](../images/upgrade_bread.png) |
+| - | Mulberry Jam Bottle | ![mulberry_jam_bottle](../images/upgrade_aquatic_mulberry_jam_bottle.png) |
+| - | Bread | ![bread](../images/upgrade_aquatic_mulberry_bread.png) |
 
 ---
 ## Mulberry Jam Block
@@ -2273,7 +2273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mulberry Jam Bottle | ![mulberry_jam_bottle](../images/upgrade_mulberry_jam_bottle.png) |
+| S | Mulberry Jam Bottle | ![mulberry_jam_bottle](../images/upgrade_aquatic_mulberry_jam_bottle.png) |
 
 ---
 ## Mulberry Jam Bottle
@@ -2281,9 +2281,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry | ![mulberry](../images/upgrade_mulberry.png) |
-| - | Sugar | ![sugar](../images/upgrade_sugar.png) |
-| - | Glass Bottle | ![glass_bottle](../images/upgrade_glass_bottle.png) |
+| - | Mulberry | ![mulberry](../images/upgrade_aquatic_double_mulberry_vine_overlay_stage0.png) |
+| - | Sugar | ![sugar](../images/upgrade_aquatic_acan_coral.png) |
+| - | Glass Bottle | ![glass_bottle](../images/upgrade_aquatic_glass_door.png) |
 
 ---
 ## Mulberry Jam Bottle
@@ -2291,11 +2291,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Jam Block | ![mulberry_jam_block](../images/upgrade_mulberry_jam_block.png) |
-| - | Glass Bottle | ![glass_bottle](../images/upgrade_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/upgrade_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/upgrade_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/upgrade_glass_bottle.png) |
+| - | Mulberry Jam Block | ![mulberry_jam_block](../images/upgrade_aquatic_mulberry_jam_block_bottom.png) |
+| - | Glass Bottle | ![glass_bottle](../images/upgrade_aquatic_glass_door.png) |
+| - | Glass Bottle | ![glass_bottle](../images/upgrade_aquatic_glass_door.png) |
+| - | Glass Bottle | ![glass_bottle](../images/upgrade_aquatic_glass_door.png) |
+| - | Glass Bottle | ![glass_bottle](../images/upgrade_aquatic_glass_door.png) |
 
 ---
 ## Mulberry Pie
@@ -2303,9 +2303,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry | ![mulberry](../images/upgrade_mulberry.png) |
-| - | Sugar | ![sugar](../images/upgrade_sugar.png) |
-| - | Eggs | ![eggs](../images/upgrade_eggs.png) |
+| - | Mulberry | ![mulberry](../images/upgrade_aquatic_double_mulberry_vine_overlay_stage0.png) |
+| - | Sugar | ![sugar](../images/upgrade_aquatic_acan_coral.png) |
+| - | Eggs | ![eggs](../images/upgrade_aquatic_acan_coral.png) |
 
 ---
 ## Mulberry Punnet
@@ -2313,7 +2313,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mulberry | ![mulberry](../images/upgrade_mulberry.png) |
+| # | Mulberry | ![mulberry](../images/upgrade_aquatic_double_mulberry_vine_overlay_stage0.png) |
 
 ---
 ## Music Disc Atlantis
@@ -2321,7 +2321,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Disc Fragment Atlantis | ![disc_fragment_atlantis](../images/upgrade_disc_fragment_atlantis.png) |
+| S | Disc Fragment Atlantis | ![disc_fragment_atlantis](../images/upgrade_aquatic_disc_fragment_atlantis.png) |
 
 ---
 ## Nautilus Shell
@@ -2329,7 +2329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Embedded Ammonite | ![embedded_ammonite](../images/upgrade_embedded_ammonite.png) |
+| item | Embedded Ammonite | ![embedded_ammonite](../images/upgrade_aquatic_embedded_ammonite.png) |
 
 ---
 ## Nautilus Shell
@@ -2337,7 +2337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Embedded Ammonite | ![embedded_ammonite](../images/upgrade_embedded_ammonite.png) |
+| item | Embedded Ammonite | ![embedded_ammonite](../images/upgrade_aquatic_embedded_ammonite.png) |
 
 ---
 ## Ochre Kelp
@@ -2345,7 +2345,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ochre Kelp Block | ![ochre_kelp_block](../images/upgrade_ochre_kelp_block.png) |
+| - | Ochre Kelp Block | ![ochre_kelp_block](../images/upgrade_aquatic_ochre_kelp_block_bottom.png) |
 
 ---
 ## Ochre Kelpy Cobblestone
@@ -2353,8 +2353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ochre Kelp | ![ochre_kelp](../images/upgrade_ochre_kelp.png) |
-| - | Cobblestone | ![cobblestone](../images/upgrade_cobblestone.png) |
+| - | Ochre Kelp | ![ochre_kelp](../images/upgrade_aquatic_ochre_kelp.png) |
+| - | Cobblestone | ![cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Slab
@@ -2362,7 +2362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| # | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Slab
@@ -2370,7 +2370,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Stairs
@@ -2378,7 +2378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| # | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Stairs
@@ -2386,7 +2386,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Vertical Slab
@@ -2394,7 +2394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Cobblestone Slab | ![ochre_kelpy_cobblestone_slab](../images/upgrade_ochre_kelpy_cobblestone_slab.png) |
+| # | Ochre Kelpy Cobblestone Slab | ![ochre_kelpy_cobblestone_slab](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Slab
@@ -2402,7 +2402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Cobblestone Vertical Slab | ![ochre_kelpy_cobblestone_vertical_slab](../images/upgrade_ochre_kelpy_cobblestone_vertical_slab.png) |
+| # | Ochre Kelpy Cobblestone Vertical Slab | ![ochre_kelpy_cobblestone_vertical_slab](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Vertical Slab
@@ -2410,7 +2410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Wall
@@ -2418,7 +2418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| # | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Cobblestone Wall
@@ -2426,7 +2426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_ochre_kelpy_cobblestone.png) |
+| item | Ochre Kelpy Cobblestone | ![ochre_kelpy_cobblestone](../images/upgrade_aquatic_ochre_kelpy_cobblestone.png) |
 
 ---
 ## Ochre Kelpy Stone Bricks
@@ -2434,8 +2434,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ochre Kelp | ![ochre_kelp](../images/upgrade_ochre_kelp.png) |
-| - | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| - | Ochre Kelp | ![ochre_kelp](../images/upgrade_aquatic_ochre_kelp.png) |
+| - | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Slab
@@ -2443,7 +2443,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| # | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Slab
@@ -2451,7 +2451,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Stairs
@@ -2459,7 +2459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| # | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Stairs
@@ -2467,7 +2467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Vertical Slab
@@ -2475,7 +2475,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Stone Brick Slab | ![ochre_kelpy_stone_brick_slab](../images/upgrade_ochre_kelpy_stone_brick_slab.png) |
+| # | Ochre Kelpy Stone Brick Slab | ![ochre_kelpy_stone_brick_slab](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Slab
@@ -2483,7 +2483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Stone Brick Vertical Slab | ![ochre_kelpy_stone_brick_vertical_slab](../images/upgrade_ochre_kelpy_stone_brick_vertical_slab.png) |
+| # | Ochre Kelpy Stone Brick Vertical Slab | ![ochre_kelpy_stone_brick_vertical_slab](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Vertical Slab
@@ -2491,7 +2491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Wall
@@ -2499,7 +2499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| # | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelpy Stone Brick Wall
@@ -2507,7 +2507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_ochre_kelpy_stone_bricks.png) |
+| item | Ochre Kelpy Stone Bricks | ![ochre_kelpy_stone_bricks](../images/upgrade_aquatic_ochre_kelpy_stone_bricks.png) |
 
 ---
 ## Ochre Kelp Block
@@ -2515,7 +2515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ochre Kelp | ![ochre_kelp](../images/upgrade_ochre_kelp.png) |
+| # | Ochre Kelp | ![ochre_kelp](../images/upgrade_aquatic_ochre_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -2523,7 +2523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelp | ![ochre_kelp](../images/upgrade_ochre_kelp.png) |
+| item | Ochre Kelp | ![ochre_kelp](../images/upgrade_aquatic_ochre_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -2531,7 +2531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelp | ![ochre_kelp](../images/upgrade_ochre_kelp.png) |
+| item | Ochre Kelp | ![ochre_kelp](../images/upgrade_aquatic_ochre_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -2539,7 +2539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ochre Kelp | ![ochre_kelp](../images/upgrade_ochre_kelp.png) |
+| item | Ochre Kelp | ![ochre_kelp](../images/upgrade_aquatic_ochre_kelp.png) |
 
 ---
 ## Orange Bedroll
@@ -2547,8 +2547,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Orange Dye | ![orange_dye](../images/upgrade_orange_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Orange Dye | ![orange_dye](../images/upgrade_aquatic_bedroll_particles_orange.png) |
 
 ---
 ## Petal Coralstone Slab
@@ -2556,7 +2556,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| # | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Slab
@@ -2564,7 +2564,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Stairs
@@ -2572,7 +2572,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| # | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Stairs
@@ -2580,7 +2580,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Vertical Slab
@@ -2588,7 +2588,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Coralstone Slab | ![petal_coralstone_slab](../images/upgrade_petal_coralstone_slab.png) |
+| # | Petal Coralstone Slab | ![petal_coralstone_slab](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Slab
@@ -2596,7 +2596,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Coralstone Vertical Slab | ![petal_coralstone_vertical_slab](../images/upgrade_petal_coralstone_vertical_slab.png) |
+| # | Petal Coralstone Vertical Slab | ![petal_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Vertical Slab
@@ -2604,7 +2604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Wall
@@ -2612,7 +2612,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| # | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coralstone Wall
@@ -2620,7 +2620,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_petal_coralstone.png) |
+| item | Petal Coralstone | ![petal_coralstone](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Petal Coral Block
@@ -2628,7 +2628,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Petal Fans Corals | ![petal_fans_corals](../images/upgrade_petal_fans_corals.png) |
+| # | Petal Fans Corals | ![petal_fans_corals](../images/upgrade_aquatic_chiseled_petal_coralstone.png) |
 
 ---
 ## Light Blue Dye
@@ -2636,7 +2636,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Petal Coral Fan'}] | ![petal_coral_fan'}]](../images/upgrade_petal_coral_fan'}].png) |
+| - | Petal Coral Fan'}] | ![petal_coral_fan'}]](../images/upgrade_aquatic_dead_petal_coral.png) |
 
 ---
 ## Pillow Coralstone Slab
@@ -2644,7 +2644,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| # | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Slab
@@ -2652,7 +2652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Stairs
@@ -2660,7 +2660,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| # | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Stairs
@@ -2668,7 +2668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Vertical Slab
@@ -2676,7 +2676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Coralstone Slab | ![pillow_coralstone_slab](../images/upgrade_pillow_coralstone_slab.png) |
+| # | Pillow Coralstone Slab | ![pillow_coralstone_slab](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Slab
@@ -2684,7 +2684,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Coralstone Vertical Slab | ![pillow_coralstone_vertical_slab](../images/upgrade_pillow_coralstone_vertical_slab.png) |
+| # | Pillow Coralstone Vertical Slab | ![pillow_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Vertical Slab
@@ -2692,7 +2692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Wall
@@ -2700,7 +2700,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| # | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coralstone Wall
@@ -2708,7 +2708,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_pillow_coralstone.png) |
+| item | Pillow Coralstone | ![pillow_coralstone](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## Pillow Coral Block
@@ -2716,7 +2716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pillow Fans Corals | ![pillow_fans_corals](../images/upgrade_pillow_fans_corals.png) |
+| # | Pillow Fans Corals | ![pillow_fans_corals](../images/upgrade_aquatic_chiseled_pillow_coralstone.png) |
 
 ---
 ## White Dye
@@ -2724,7 +2724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pillow Coral Fan'}] | ![pillow_coral_fan'}]](../images/upgrade_pillow_coral_fan'}].png) |
+| - | Pillow Coral Fan'}] | ![pillow_coral_fan'}]](../images/upgrade_aquatic_dead_pillow_coral.png) |
 
 ---
 ## Pink Bedroll
@@ -2732,8 +2732,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Pink Dye | ![pink_dye](../images/upgrade_pink_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Pink Dye | ![pink_dye](../images/upgrade_aquatic_bedroll_particles_pink.png) |
 
 ---
 ## Pink Dye
@@ -2741,7 +2741,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Searocket | ![pink_searocket](../images/upgrade_pink_searocket.png) |
+| - | Pink Searocket | ![pink_searocket](../images/upgrade_aquatic_pink_searocket.png) |
 
 ---
 ## Polar Kelp
@@ -2749,7 +2749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polar Kelp Block | ![polar_kelp_block](../images/upgrade_polar_kelp_block.png) |
+| - | Polar Kelp Block | ![polar_kelp_block](../images/upgrade_aquatic_polar_kelp_block_bottom.png) |
 
 ---
 ## Polar Kelpy Cobblestone
@@ -2757,8 +2757,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polar Kelp | ![polar_kelp](../images/upgrade_polar_kelp.png) |
-| - | Cobblestone | ![cobblestone](../images/upgrade_cobblestone.png) |
+| - | Polar Kelp | ![polar_kelp](../images/upgrade_aquatic_polar_kelp.png) |
+| - | Cobblestone | ![cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Slab
@@ -2766,7 +2766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| # | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Slab
@@ -2774,7 +2774,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Stairs
@@ -2782,7 +2782,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| # | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Stairs
@@ -2790,7 +2790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Vertical Slab
@@ -2798,7 +2798,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Cobblestone Slab | ![polar_kelpy_cobblestone_slab](../images/upgrade_polar_kelpy_cobblestone_slab.png) |
+| # | Polar Kelpy Cobblestone Slab | ![polar_kelpy_cobblestone_slab](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Slab
@@ -2806,7 +2806,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Cobblestone Vertical Slab | ![polar_kelpy_cobblestone_vertical_slab](../images/upgrade_polar_kelpy_cobblestone_vertical_slab.png) |
+| # | Polar Kelpy Cobblestone Vertical Slab | ![polar_kelpy_cobblestone_vertical_slab](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Vertical Slab
@@ -2814,7 +2814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Wall
@@ -2822,7 +2822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| # | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Cobblestone Wall
@@ -2830,7 +2830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_polar_kelpy_cobblestone.png) |
+| item | Polar Kelpy Cobblestone | ![polar_kelpy_cobblestone](../images/upgrade_aquatic_polar_kelpy_cobblestone.png) |
 
 ---
 ## Polar Kelpy Stone Bricks
@@ -2838,8 +2838,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Polar Kelp | ![polar_kelp](../images/upgrade_polar_kelp.png) |
-| - | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| - | Polar Kelp | ![polar_kelp](../images/upgrade_aquatic_polar_kelp.png) |
+| - | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Slab
@@ -2847,7 +2847,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| # | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Slab
@@ -2855,7 +2855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Stairs
@@ -2863,7 +2863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| # | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Stairs
@@ -2871,7 +2871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Vertical Slab
@@ -2879,7 +2879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Stone Brick Slab | ![polar_kelpy_stone_brick_slab](../images/upgrade_polar_kelpy_stone_brick_slab.png) |
+| # | Polar Kelpy Stone Brick Slab | ![polar_kelpy_stone_brick_slab](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Slab
@@ -2887,7 +2887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Stone Brick Vertical Slab | ![polar_kelpy_stone_brick_vertical_slab](../images/upgrade_polar_kelpy_stone_brick_vertical_slab.png) |
+| # | Polar Kelpy Stone Brick Vertical Slab | ![polar_kelpy_stone_brick_vertical_slab](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Vertical Slab
@@ -2895,7 +2895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Wall
@@ -2903,7 +2903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| # | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelpy Stone Brick Wall
@@ -2911,7 +2911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_polar_kelpy_stone_bricks.png) |
+| item | Polar Kelpy Stone Bricks | ![polar_kelpy_stone_bricks](../images/upgrade_aquatic_polar_kelpy_stone_bricks.png) |
 
 ---
 ## Polar Kelp Block
@@ -2919,7 +2919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polar Kelp | ![polar_kelp](../images/upgrade_polar_kelp.png) |
+| # | Polar Kelp | ![polar_kelp](../images/upgrade_aquatic_polar_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -2927,7 +2927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelp | ![polar_kelp](../images/upgrade_polar_kelp.png) |
+| item | Polar Kelp | ![polar_kelp](../images/upgrade_aquatic_polar_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -2935,7 +2935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelp | ![polar_kelp](../images/upgrade_polar_kelp.png) |
+| item | Polar Kelp | ![polar_kelp](../images/upgrade_aquatic_polar_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -2943,7 +2943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polar Kelp | ![polar_kelp](../images/upgrade_polar_kelp.png) |
+| item | Polar Kelp | ![polar_kelp](../images/upgrade_aquatic_polar_kelp.png) |
 
 ---
 ## Prismarine Coralstone Slab
@@ -2951,7 +2951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| # | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Slab
@@ -2959,7 +2959,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Stairs
@@ -2967,7 +2967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| # | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Stairs
@@ -2975,7 +2975,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Vertical Slab
@@ -2983,7 +2983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Coralstone Slab | ![prismarine_coralstone_slab](../images/upgrade_prismarine_coralstone_slab.png) |
+| # | Prismarine Coralstone Slab | ![prismarine_coralstone_slab](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Slab
@@ -2991,7 +2991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Coralstone Vertical Slab | ![prismarine_coralstone_vertical_slab](../images/upgrade_prismarine_coralstone_vertical_slab.png) |
+| # | Prismarine Coralstone Vertical Slab | ![prismarine_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Vertical Slab
@@ -2999,7 +2999,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Wall
@@ -3007,7 +3007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| # | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coralstone Wall
@@ -3015,7 +3015,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_prismarine_coralstone.png) |
+| item | Prismarine Coralstone | ![prismarine_coralstone](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Coral Block
@@ -3023,7 +3023,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Fans Corals | ![prismarine_fans_corals](../images/upgrade_prismarine_fans_corals.png) |
+| # | Prismarine Fans Corals | ![prismarine_fans_corals](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Rod
@@ -3031,7 +3031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Shard | ![prismarine_shard](../images/upgrade_prismarine_shard.png) |
+| # | Prismarine Shard | ![prismarine_shard](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Prismarine Rod Bundle
@@ -3039,7 +3039,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Prismarine Rod | ![prismarine_rod](../images/upgrade_prismarine_rod.png) |
+| # | Prismarine Rod | ![prismarine_rod](../images/upgrade_aquatic_prismarine_rod.png) |
 
 ---
 ## Prismarine Rod
@@ -3047,7 +3047,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Prismarine Rod Bundle | ![prismarine_rod_bundle](../images/upgrade_prismarine_rod_bundle.png) |
+| - | Prismarine Rod Bundle | ![prismarine_rod_bundle](../images/upgrade_aquatic_prismarine_rod_bundle_side.png) |
 
 ---
 ## Purple Bedroll
@@ -3055,8 +3055,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Purple Dye | ![purple_dye](../images/upgrade_purple_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Purple Dye | ![purple_dye](../images/upgrade_aquatic_bedroll_particles_purple.png) |
 
 ---
 ## Purple Dye
@@ -3064,7 +3064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_purple_pickerelweed.png) |
+| - | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Purple Pickerelweed Block
@@ -3072,7 +3072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_purple_pickerelweed.png) |
+| # | Purple Pickerelweed | ![purple_pickerelweed](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Purple Pickerelweed
@@ -3080,7 +3080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Pickerelweed Block | ![purple_pickerelweed_block](../images/upgrade_purple_pickerelweed_block.png) |
+| - | Purple Pickerelweed Block | ![purple_pickerelweed_block](../images/upgrade_aquatic_boiled_purple_pickerelweed_block_bottom.png) |
 
 ---
 ## Red Bedroll
@@ -3088,8 +3088,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Red Dye | ![red_dye](../images/upgrade_red_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Red Dye | ![red_dye](../images/upgrade_aquatic_bedroll_particles_red.png) |
 
 ---
 ## {}
@@ -3111,7 +3111,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## {}
@@ -3126,7 +3126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| - | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## {}
@@ -3142,7 +3142,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chests/Wooden | ![chests/wooden](../images/upgrade_chests/wooden.png) |
-| - | River Boat | ![river_boat](../images/upgrade_river_boat.png) |
+| - | River Boat | ![river_boat](../images/upgrade_aquatic_large_river_boat.png) |
 
 ---
 ## {}
@@ -3157,7 +3157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## River Fence
@@ -3165,8 +3165,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/upgrade_stick.png) |
-| W | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | Stick | ![stick](../images/upgrade_aquatic_acan_coral.png) |
+| W | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## River Fence Gate
@@ -3174,8 +3174,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/upgrade_stick.png) |
-| W | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | Stick | ![stick](../images/upgrade_aquatic_acan_coral.png) |
+| W | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## {}
@@ -3190,8 +3190,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | River Leaves | ![river_leaves](../images/upgrade_river_leaves.png) |
-| W | River Logs | ![river_logs](../images/upgrade_river_logs.png) |
+| L | River Leaves | ![river_leaves](../images/upgrade_aquatic_river_leaves.png) |
+| W | River Logs | ![river_logs](../images/upgrade_aquatic_large_river_boat.png) |
 
 ---
 ## {}
@@ -3206,7 +3206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Leaves | ![river_leaves](../images/upgrade_river_leaves.png) |
+| # | River Leaves | ![river_leaves](../images/upgrade_aquatic_river_leaves.png) |
 
 ---
 ## {}
@@ -3228,7 +3228,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | River Logs | ![river_logs](../images/upgrade_river_logs.png) |
+| - | River Logs | ![river_logs](../images/upgrade_aquatic_large_river_boat.png) |
 
 ---
 ## River Post
@@ -3236,7 +3236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | River Wood | ![river_wood](../images/upgrade_river_wood.png) |
+| F | River Wood | ![river_wood](../images/upgrade_aquatic_large_river_boat.png) |
 
 ---
 ## River Pressure Plate
@@ -3244,7 +3244,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## River Sign
@@ -3252,7 +3252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/upgrade_rods/wooden.png) |
 
 ---
@@ -3261,7 +3261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## River Stairs
@@ -3269,7 +3269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## River Trapdoor
@@ -3277,7 +3277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Planks | ![river_planks](../images/upgrade_river_planks.png) |
+| # | River Planks | ![river_planks](../images/upgrade_aquatic_river_planks.png) |
 
 ---
 ## {}
@@ -3292,7 +3292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Slab | ![river_slab](../images/upgrade_river_slab.png) |
+| # | River Slab | ![river_slab](../images/upgrade_aquatic_large_river_boat.png) |
 
 ---
 ## River Slab
@@ -3300,7 +3300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Vertical Slab | ![river_vertical_slab](../images/upgrade_river_vertical_slab.png) |
+| # | River Vertical Slab | ![river_vertical_slab](../images/upgrade_aquatic_large_river_boat.png) |
 
 ---
 ## River Wood
@@ -3308,7 +3308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | River Log | ![river_log](../images/upgrade_river_log.png) |
+| # | River Log | ![river_log](../images/upgrade_aquatic_river_log.png) |
 
 ---
 ## Rock Coralstone Slab
@@ -3316,7 +3316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| # | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Slab
@@ -3324,7 +3324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Stairs
@@ -3332,7 +3332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| # | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Stairs
@@ -3340,7 +3340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Vertical Slab
@@ -3348,7 +3348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Coralstone Slab | ![rock_coralstone_slab](../images/upgrade_rock_coralstone_slab.png) |
+| # | Rock Coralstone Slab | ![rock_coralstone_slab](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Slab
@@ -3356,7 +3356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Coralstone Vertical Slab | ![rock_coralstone_vertical_slab](../images/upgrade_rock_coralstone_vertical_slab.png) |
+| # | Rock Coralstone Vertical Slab | ![rock_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Vertical Slab
@@ -3364,7 +3364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Wall
@@ -3372,7 +3372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| # | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coralstone Wall
@@ -3380,7 +3380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_rock_coralstone.png) |
+| item | Rock Coralstone | ![rock_coralstone](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Rock Coral Block
@@ -3388,7 +3388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rock Fans Corals | ![rock_fans_corals](../images/upgrade_rock_fans_corals.png) |
+| # | Rock Fans Corals | ![rock_fans_corals](../images/upgrade_aquatic_chiseled_rock_coralstone.png) |
 
 ---
 ## Brown Dye
@@ -3396,7 +3396,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rock Coral Fan'}] | ![rock_coral_fan'}]](../images/upgrade_rock_coral_fan'}].png) |
+| - | Rock Coral Fan'}] | ![rock_coral_fan'}]](../images/upgrade_aquatic_dead_rock_coral.png) |
 
 ---
 ## Scute Block
@@ -3404,7 +3404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute | ![scute](../images/upgrade_scute.png) |
+| # | Scute | ![scute](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute
@@ -3412,7 +3412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Scute Block | ![scute_block](../images/upgrade_scute_block.png) |
+| - | Scute Block | ![scute_block](../images/upgrade_aquatic_scute_block_bottom.png) |
 
 ---
 ## Scute Pavement Slab
@@ -3420,7 +3420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| # | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Slab
@@ -3428,7 +3428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| item | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Stairs
@@ -3436,7 +3436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| # | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Stairs
@@ -3444,7 +3444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| item | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Vertical Slab
@@ -3452,7 +3452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Pavement Slab | ![scute_pavement_slab](../images/upgrade_scute_pavement_slab.png) |
+| # | Scute Pavement Slab | ![scute_pavement_slab](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Slab
@@ -3460,7 +3460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Pavement Vertical Slab | ![scute_pavement_vertical_slab](../images/upgrade_scute_pavement_vertical_slab.png) |
+| # | Scute Pavement Vertical Slab | ![scute_pavement_vertical_slab](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Vertical Slab
@@ -3468,7 +3468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| item | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Wall
@@ -3476,7 +3476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| # | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Pavement Wall
@@ -3484,7 +3484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Pavement | ![scute_pavement](../images/upgrade_scute_pavement.png) |
+| item | Scute Pavement | ![scute_pavement](../images/upgrade_aquatic_scute_pavement.png) |
 
 ---
 ## Scute Shingles
@@ -3492,8 +3492,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Scute | ![scute](../images/upgrade_scute.png) |
-| F | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| N | Scute | ![scute](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
+| F | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Scute Shingle Slab
@@ -3501,7 +3501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| # | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Slab
@@ -3509,7 +3509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| item | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Stairs
@@ -3517,7 +3517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| # | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Stairs
@@ -3525,7 +3525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| item | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Vertical Slab
@@ -3533,7 +3533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Shingle Slab | ![scute_shingle_slab](../images/upgrade_scute_shingle_slab.png) |
+| # | Scute Shingle Slab | ![scute_shingle_slab](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Slab
@@ -3541,7 +3541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Shingle Vertical Slab | ![scute_shingle_vertical_slab](../images/upgrade_scute_shingle_vertical_slab.png) |
+| # | Scute Shingle Vertical Slab | ![scute_shingle_vertical_slab](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Vertical Slab
@@ -3549,7 +3549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| item | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Wall
@@ -3557,7 +3557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| # | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Shingle Wall
@@ -3565,7 +3565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Scute Shingles | ![scute_shingles](../images/upgrade_scute_shingles.png) |
+| item | Scute Shingles | ![scute_shingles](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
 
 ---
 ## Scute Pavement
@@ -3573,8 +3573,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Scute | ![scute](../images/upgrade_scute.png) |
-| F | Smooth Stone | ![smooth_stone](../images/upgrade_smooth_stone.png) |
+| N | Scute | ![scute](../images/upgrade_aquatic_chiseled_scute_shingles.png) |
+| F | Smooth Stone | ![smooth_stone](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Silk Coralstone Slab
@@ -3582,7 +3582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| # | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Slab
@@ -3590,7 +3590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Stairs
@@ -3598,7 +3598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| # | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Stairs
@@ -3606,7 +3606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Vertical Slab
@@ -3614,7 +3614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Coralstone Slab | ![silk_coralstone_slab](../images/upgrade_silk_coralstone_slab.png) |
+| # | Silk Coralstone Slab | ![silk_coralstone_slab](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Slab
@@ -3622,7 +3622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Coralstone Vertical Slab | ![silk_coralstone_vertical_slab](../images/upgrade_silk_coralstone_vertical_slab.png) |
+| # | Silk Coralstone Vertical Slab | ![silk_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Vertical Slab
@@ -3630,7 +3630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Wall
@@ -3638,7 +3638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| # | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coralstone Wall
@@ -3646,7 +3646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_silk_coralstone.png) |
+| item | Silk Coralstone | ![silk_coralstone](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Silk Coral Block
@@ -3654,7 +3654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Silk Fans Corals | ![silk_fans_corals](../images/upgrade_silk_fans_corals.png) |
+| # | Silk Fans Corals | ![silk_fans_corals](../images/upgrade_aquatic_chiseled_silk_coralstone.png) |
 
 ---
 ## Purple Dye
@@ -3662,7 +3662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Silk Coral Fan'}] | ![silk_coral_fan'}]](../images/upgrade_silk_coral_fan'}].png) |
+| - | Silk Coral Fan'}] | ![silk_coral_fan'}]](../images/upgrade_aquatic_dead_silk_coral.png) |
 
 ---
 ## Star Coralstone Slab
@@ -3670,7 +3670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| # | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Slab
@@ -3678,7 +3678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| item | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Stairs
@@ -3686,7 +3686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| # | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Stairs
@@ -3694,7 +3694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| item | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Vertical Slab
@@ -3702,7 +3702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Coralstone Slab | ![star_coralstone_slab](../images/upgrade_star_coralstone_slab.png) |
+| # | Star Coralstone Slab | ![star_coralstone_slab](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Slab
@@ -3710,7 +3710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Coralstone Vertical Slab | ![star_coralstone_vertical_slab](../images/upgrade_star_coralstone_vertical_slab.png) |
+| # | Star Coralstone Vertical Slab | ![star_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Vertical Slab
@@ -3718,7 +3718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| item | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Wall
@@ -3726,7 +3726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| # | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coralstone Wall
@@ -3734,7 +3734,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Star Coralstone | ![star_coralstone](../images/upgrade_star_coralstone.png) |
+| item | Star Coralstone | ![star_coralstone](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Star Coral Block
@@ -3742,7 +3742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Star Fans Corals | ![star_fans_corals](../images/upgrade_star_fans_corals.png) |
+| # | Star Fans Corals | ![star_fans_corals](../images/upgrade_aquatic_chiseled_star_coralstone.png) |
 
 ---
 ## Lime Dye
@@ -3750,7 +3750,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Star Coral Fan'}] | ![star_coral_fan'}]](../images/upgrade_star_coral_fan'}].png) |
+| - | Star Coral Fan'}] | ![star_coral_fan'}]](../images/upgrade_aquatic_dead_star_coral.png) |
 
 ---
 ## Stripped Driftwood
@@ -3758,7 +3758,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Driftwood Log | ![stripped_driftwood_log](../images/upgrade_stripped_driftwood_log.png) |
+| # | Stripped Driftwood Log | ![stripped_driftwood_log](../images/upgrade_aquatic_driftwood_log_top_stripped.png) |
 
 ---
 ## Stripped Driftwood Post
@@ -3766,7 +3766,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped Driftwood | ![stripped_driftwood](../images/upgrade_stripped_driftwood.png) |
+| F | Stripped Driftwood | ![stripped_driftwood](../images/upgrade_aquatic_driftwood_log_top_stripped.png) |
 
 ---
 ## Stripped River Post
@@ -3774,7 +3774,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stripped River Wood | ![stripped_river_wood](../images/upgrade_stripped_river_wood.png) |
+| F | Stripped River Wood | ![stripped_river_wood](../images/upgrade_aquatic_stripped_river_log.png) |
 
 ---
 ## Stripped River Wood
@@ -3782,7 +3782,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped River Log | ![stripped_river_log](../images/upgrade_stripped_river_log.png) |
+| # | Stripped River Log | ![stripped_river_log](../images/upgrade_aquatic_stripped_river_log.png) |
 
 ---
 ## Thorny Kelp
@@ -3790,7 +3790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thorny Kelp Block | ![thorny_kelp_block](../images/upgrade_thorny_kelp_block.png) |
+| - | Thorny Kelp Block | ![thorny_kelp_block](../images/upgrade_aquatic_thorny_kelp_block_bottom.png) |
 
 ---
 ## Thorny Kelpy Cobblestone
@@ -3798,8 +3798,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thorny Kelp | ![thorny_kelp](../images/upgrade_thorny_kelp.png) |
-| - | Cobblestone | ![cobblestone](../images/upgrade_cobblestone.png) |
+| - | Thorny Kelp | ![thorny_kelp](../images/upgrade_aquatic_thorny_kelp.png) |
+| - | Cobblestone | ![cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Slab
@@ -3807,7 +3807,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| # | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Slab
@@ -3815,7 +3815,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Stairs
@@ -3823,7 +3823,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| # | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Stairs
@@ -3831,7 +3831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Vertical Slab
@@ -3839,7 +3839,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Cobblestone Slab | ![thorny_kelpy_cobblestone_slab](../images/upgrade_thorny_kelpy_cobblestone_slab.png) |
+| # | Thorny Kelpy Cobblestone Slab | ![thorny_kelpy_cobblestone_slab](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Slab
@@ -3847,7 +3847,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Cobblestone Vertical Slab | ![thorny_kelpy_cobblestone_vertical_slab](../images/upgrade_thorny_kelpy_cobblestone_vertical_slab.png) |
+| # | Thorny Kelpy Cobblestone Vertical Slab | ![thorny_kelpy_cobblestone_vertical_slab](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Vertical Slab
@@ -3855,7 +3855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Wall
@@ -3863,7 +3863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| # | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Cobblestone Wall
@@ -3871,7 +3871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_thorny_kelpy_cobblestone.png) |
+| item | Thorny Kelpy Cobblestone | ![thorny_kelpy_cobblestone](../images/upgrade_aquatic_thorny_kelpy_cobblestone.png) |
 
 ---
 ## Thorny Kelpy Stone Bricks
@@ -3879,8 +3879,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thorny Kelp | ![thorny_kelp](../images/upgrade_thorny_kelp.png) |
-| - | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| - | Thorny Kelp | ![thorny_kelp](../images/upgrade_aquatic_thorny_kelp.png) |
+| - | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Slab
@@ -3888,7 +3888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| # | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Slab
@@ -3896,7 +3896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Stairs
@@ -3904,7 +3904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| # | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Stairs
@@ -3912,7 +3912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Vertical Slab
@@ -3920,7 +3920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Stone Brick Slab | ![thorny_kelpy_stone_brick_slab](../images/upgrade_thorny_kelpy_stone_brick_slab.png) |
+| # | Thorny Kelpy Stone Brick Slab | ![thorny_kelpy_stone_brick_slab](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Slab
@@ -3928,7 +3928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Stone Brick Vertical Slab | ![thorny_kelpy_stone_brick_vertical_slab](../images/upgrade_thorny_kelpy_stone_brick_vertical_slab.png) |
+| # | Thorny Kelpy Stone Brick Vertical Slab | ![thorny_kelpy_stone_brick_vertical_slab](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Vertical Slab
@@ -3936,7 +3936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Wall
@@ -3944,7 +3944,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| # | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelpy Stone Brick Wall
@@ -3952,7 +3952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_thorny_kelpy_stone_bricks.png) |
+| item | Thorny Kelpy Stone Bricks | ![thorny_kelpy_stone_bricks](../images/upgrade_aquatic_thorny_kelpy_stone_bricks.png) |
 
 ---
 ## Thorny Kelp Block
@@ -3960,7 +3960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thorny Kelp | ![thorny_kelp](../images/upgrade_thorny_kelp.png) |
+| # | Thorny Kelp | ![thorny_kelp](../images/upgrade_aquatic_thorny_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -3968,7 +3968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelp | ![thorny_kelp](../images/upgrade_thorny_kelp.png) |
+| item | Thorny Kelp | ![thorny_kelp](../images/upgrade_aquatic_thorny_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -3976,7 +3976,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelp | ![thorny_kelp](../images/upgrade_thorny_kelp.png) |
+| item | Thorny Kelp | ![thorny_kelp](../images/upgrade_aquatic_thorny_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -3984,7 +3984,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Thorny Kelp | ![thorny_kelp](../images/upgrade_thorny_kelp.png) |
+| item | Thorny Kelp | ![thorny_kelp](../images/upgrade_aquatic_thorny_kelp.png) |
 
 ---
 ## Tongue Kelp
@@ -3992,7 +3992,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tongue Kelp Block | ![tongue_kelp_block](../images/upgrade_tongue_kelp_block.png) |
+| - | Tongue Kelp Block | ![tongue_kelp_block](../images/upgrade_aquatic_tongue_kelp_block_bottom.png) |
 
 ---
 ## Tongue Kelpy Cobblestone
@@ -4000,8 +4000,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tongue Kelp | ![tongue_kelp](../images/upgrade_tongue_kelp.png) |
-| - | Cobblestone | ![cobblestone](../images/upgrade_cobblestone.png) |
+| - | Tongue Kelp | ![tongue_kelp](../images/upgrade_aquatic_tongue_kelp.png) |
+| - | Cobblestone | ![cobblestone](../images/upgrade_aquatic_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Slab
@@ -4009,7 +4009,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| # | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Slab
@@ -4017,7 +4017,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Stairs
@@ -4025,7 +4025,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| # | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Stairs
@@ -4033,7 +4033,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Vertical Slab
@@ -4041,7 +4041,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Cobblestone Slab | ![tongue_kelpy_cobblestone_slab](../images/upgrade_tongue_kelpy_cobblestone_slab.png) |
+| # | Tongue Kelpy Cobblestone Slab | ![tongue_kelpy_cobblestone_slab](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Slab
@@ -4049,7 +4049,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Cobblestone Vertical Slab | ![tongue_kelpy_cobblestone_vertical_slab](../images/upgrade_tongue_kelpy_cobblestone_vertical_slab.png) |
+| # | Tongue Kelpy Cobblestone Vertical Slab | ![tongue_kelpy_cobblestone_vertical_slab](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Vertical Slab
@@ -4057,7 +4057,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Wall
@@ -4065,7 +4065,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| # | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Cobblestone Wall
@@ -4073,7 +4073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_tongue_kelpy_cobblestone.png) |
+| item | Tongue Kelpy Cobblestone | ![tongue_kelpy_cobblestone](../images/upgrade_aquatic_tongue_kelpy_cobblestone.png) |
 
 ---
 ## Tongue Kelpy Stone Bricks
@@ -4081,8 +4081,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tongue Kelp | ![tongue_kelp](../images/upgrade_tongue_kelp.png) |
-| - | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| - | Tongue Kelp | ![tongue_kelp](../images/upgrade_aquatic_tongue_kelp.png) |
+| - | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Slab
@@ -4090,7 +4090,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| # | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Slab
@@ -4098,7 +4098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Stairs
@@ -4106,7 +4106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| # | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Stairs
@@ -4114,7 +4114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Vertical Slab
@@ -4122,7 +4122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Stone Brick Slab | ![tongue_kelpy_stone_brick_slab](../images/upgrade_tongue_kelpy_stone_brick_slab.png) |
+| # | Tongue Kelpy Stone Brick Slab | ![tongue_kelpy_stone_brick_slab](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Slab
@@ -4130,7 +4130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Stone Brick Vertical Slab | ![tongue_kelpy_stone_brick_vertical_slab](../images/upgrade_tongue_kelpy_stone_brick_vertical_slab.png) |
+| # | Tongue Kelpy Stone Brick Vertical Slab | ![tongue_kelpy_stone_brick_vertical_slab](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Vertical Slab
@@ -4138,7 +4138,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Wall
@@ -4146,7 +4146,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| # | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelpy Stone Brick Wall
@@ -4154,7 +4154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_tongue_kelpy_stone_bricks.png) |
+| item | Tongue Kelpy Stone Bricks | ![tongue_kelpy_stone_bricks](../images/upgrade_aquatic_tongue_kelpy_stone_bricks.png) |
 
 ---
 ## Tongue Kelp Block
@@ -4162,7 +4162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tongue Kelp | ![tongue_kelp](../images/upgrade_tongue_kelp.png) |
+| # | Tongue Kelp | ![tongue_kelp](../images/upgrade_aquatic_tongue_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -4170,7 +4170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelp | ![tongue_kelp](../images/upgrade_tongue_kelp.png) |
+| item | Tongue Kelp | ![tongue_kelp](../images/upgrade_aquatic_tongue_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -4178,7 +4178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelp | ![tongue_kelp](../images/upgrade_tongue_kelp.png) |
+| item | Tongue Kelp | ![tongue_kelp](../images/upgrade_aquatic_tongue_kelp.png) |
 
 ---
 ## Dried Kelp
@@ -4186,7 +4186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tongue Kelp | ![tongue_kelp](../images/upgrade_tongue_kelp.png) |
+| item | Tongue Kelp | ![tongue_kelp](../images/upgrade_aquatic_tongue_kelp.png) |
 
 ---
 ## Tooth Block
@@ -4194,7 +4194,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
+| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
 
 ---
 ## Tooth Bricks
@@ -4202,8 +4202,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
-| F | Stone Bricks | ![stone_bricks](../images/upgrade_stone_bricks.png) |
+| N | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
+| F | Stone Bricks | ![stone_bricks](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Tooth Brick Slab
@@ -4211,7 +4211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| # | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Slab
@@ -4219,7 +4219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Stairs
@@ -4227,7 +4227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| # | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Stairs
@@ -4235,7 +4235,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Vertical Slab
@@ -4243,7 +4243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Brick Slab | ![tooth_brick_slab](../images/upgrade_tooth_brick_slab.png) |
+| # | Tooth Brick Slab | ![tooth_brick_slab](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Slab
@@ -4251,7 +4251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Brick Vertical Slab | ![tooth_brick_vertical_slab](../images/upgrade_tooth_brick_vertical_slab.png) |
+| # | Tooth Brick Vertical Slab | ![tooth_brick_vertical_slab](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Vertical Slab
@@ -4259,7 +4259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Wall
@@ -4267,7 +4267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| # | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Brick Wall
@@ -4275,7 +4275,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_tooth_bricks.png) |
+| item | Tooth Bricks | ![tooth_bricks](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Door
@@ -4283,7 +4283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
+| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
 
 ---
 ## Thrasher Tooth
@@ -4291,7 +4291,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tooth Block | ![tooth_block](../images/upgrade_tooth_block.png) |
+| - | Tooth Block | ![tooth_block](../images/upgrade_aquatic_tooth_block.png) |
 
 ---
 ## Tooth Lantern
@@ -4299,8 +4299,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/upgrade_prismarine_crystals.png) |
+| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/upgrade_aquatic_chiseled_elder_prismarine_coralstone.png) |
 
 ---
 ## Tooth Slab
@@ -4308,7 +4308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| # | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Tooth Slab
@@ -4316,7 +4316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Tooth Stairs
@@ -4324,7 +4324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| # | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Tooth Stairs
@@ -4332,7 +4332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Tooth Tiles
@@ -4340,8 +4340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
-| F | Smooth Stone | ![smooth_stone](../images/upgrade_smooth_stone.png) |
+| N | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
+| F | Smooth Stone | ![smooth_stone](../images/upgrade_aquatic_kelpy_stone_bricks.png) |
 
 ---
 ## Tooth Trapdoor
@@ -4349,7 +4349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
+| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
 
 ---
 ## Tooth Vertical Slab
@@ -4357,7 +4357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Slab | ![tooth_slab](../images/upgrade_tooth_slab.png) |
+| # | Tooth Slab | ![tooth_slab](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Slab
@@ -4365,7 +4365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Vertical Slab | ![tooth_vertical_slab](../images/upgrade_tooth_vertical_slab.png) |
+| # | Tooth Vertical Slab | ![tooth_vertical_slab](../images/upgrade_aquatic_chiseled_tooth_bricks.png) |
 
 ---
 ## Tooth Vertical Slab
@@ -4373,7 +4373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Tooth Wall
@@ -4381,7 +4381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| # | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Tooth Wall
@@ -4389,7 +4389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_tooth_tiles.png) |
+| item | Tooth Tiles | ![tooth_tiles](../images/upgrade_aquatic_tooth_tiles.png) |
 
 ---
 ## Trident
@@ -4397,8 +4397,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_thrasher_tooth.png) |
-| / | Prismarine Rod | ![prismarine_rod](../images/upgrade_prismarine_rod.png) |
+| # | Thrasher Tooth | ![thrasher_tooth](../images/upgrade_aquatic_thrasher_tooth.png) |
+| / | Prismarine Rod | ![prismarine_rod](../images/upgrade_aquatic_prismarine_rod.png) |
 
 ---
 ## Tube Coralstone Slab
@@ -4406,7 +4406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| # | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Slab
@@ -4414,7 +4414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Stairs
@@ -4422,7 +4422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| # | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Stairs
@@ -4430,7 +4430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Vertical Slab
@@ -4438,7 +4438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coralstone Slab | ![tube_coralstone_slab](../images/upgrade_tube_coralstone_slab.png) |
+| # | Tube Coralstone Slab | ![tube_coralstone_slab](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Slab
@@ -4446,7 +4446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coralstone Vertical Slab | ![tube_coralstone_vertical_slab](../images/upgrade_tube_coralstone_vertical_slab.png) |
+| # | Tube Coralstone Vertical Slab | ![tube_coralstone_vertical_slab](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Vertical Slab
@@ -4454,7 +4454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Wall
@@ -4462,7 +4462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| # | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coralstone Wall
@@ -4470,7 +4470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_tube_coralstone.png) |
+| item | Tube Coralstone | ![tube_coralstone](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## Tube Coral Block
@@ -4478,7 +4478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Tube Fans Corals | ![tube_fans_corals](../images/upgrade_tube_fans_corals.png) |
+| # | Tube Fans Corals | ![tube_fans_corals](../images/upgrade_aquatic_chiseled_tube_coralstone.png) |
 
 ---
 ## {}
@@ -4514,8 +4514,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | White Dye | ![white_dye](../images/upgrade_white_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | White Dye | ![white_dye](../images/upgrade_aquatic_bedroll_particles_white.png) |
 
 ---
 ## White Dye
@@ -4523,7 +4523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Searocket | ![white_searocket](../images/upgrade_white_searocket.png) |
+| - | White Searocket | ![white_searocket](../images/upgrade_aquatic_white_searocket.png) |
 
 ---
 ## Yellow Bedroll
@@ -4531,7 +4531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bedrolls | ![bedrolls](../images/upgrade_bedrolls.png) |
-| - | Yellow Dye | ![yellow_dye](../images/upgrade_yellow_dye.png) |
+| - | Bedrolls | ![bedrolls](../images/upgrade_aquatic_acan_coral.png) |
+| - | Yellow Dye | ![yellow_dye](../images/upgrade_aquatic_bedroll_particles_yellow.png) |
 
 ---

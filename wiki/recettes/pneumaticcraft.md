@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Air Compressor | ![air_compressor](../images/pneumaticcraft_air_compressor.png) |
+| C | Air Compressor | ![air_compressor](../images/pneumaticcraft_air_canister.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Advanced Liquid Compressor
@@ -17,9 +17,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Liquid Compressor | ![liquid_compressor](../images/pneumaticcraft_liquid_compressor.png) |
+| C | Liquid Compressor | ![liquid_compressor](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Advanced Pressure Tube
@@ -34,10 +34,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Pearl | ![ender_pearl](../images/pneumaticcraft_ender_pearl.png) |
-| H | Omnidirectional Hopper | ![omnidirectional_hopper](../images/pneumaticcraft_omnidirectional_hopper.png) |
-| S | Nether Star | ![nether_star](../images/pneumaticcraft_nether_star.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| E | Ender Pearl | ![ender_pearl](../images/pneumaticcraft_ender_visor.png) |
+| H | Omnidirectional Hopper | ![omnidirectional_hopper](../images/pneumaticcraft_aerial_interface_front.png) |
+| S | Nether Star | ![nether_star](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | W | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
@@ -48,7 +48,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Air Cannon
@@ -56,10 +56,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Cannon Barrel | ![cannon_barrel](../images/pneumaticcraft_cannon_barrel.png) |
-| H | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| S | Stone Base | ![stone_base](../images/pneumaticcraft_stone_base.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| B | Cannon Barrel | ![cannon_barrel](../images/pneumaticcraft_vortex_cannon.png) |
+| H | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| S | Stone Base | ![stone_base](../images/pneumaticcraft_compressed_stone.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Air Compressor
@@ -67,9 +67,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Furnace | ![furnace](../images/pneumaticcraft_furnace.png) |
-| I | Reinforced Stone Bricks | ![reinforced_stone_bricks](../images/pneumaticcraft_reinforced_stone_bricks.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| F | Furnace | ![furnace](../images/pneumaticcraft_aerial_interface_front.png) |
+| I | Reinforced Stone Bricks | ![reinforced_stone_bricks](../images/pneumaticcraft_reinforced_bricks.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Air Grate Module
@@ -77,8 +77,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_iron_bars.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_compressed_iron_block.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Amadron Tablet
@@ -88,7 +88,7 @@
 | :--- | :--- | :--- |
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
 | G | Gps Tool | ![gps_tool](../images/pneumaticcraft_gps_tool.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## {}
@@ -119,7 +119,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
 
 ---
@@ -130,7 +130,7 @@
 | :--- | :--- | :--- |
 | B | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Assembly Drill
@@ -151,7 +151,7 @@
 | :--- | :--- | :--- |
 | B | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| H | Hopper | ![hopper](../images/pneumaticcraft_hopper.png) |
+| H | Hopper | ![hopper](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -160,7 +160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Assembly Io Unit Import | ![assembly_io_unit_import](../images/pneumaticcraft_assembly_io_unit_import.png) |
+| - | Assembly Io Unit Import | ![assembly_io_unit_import](../images/pneumaticcraft_network_io_port.png) |
 
 ---
 ## Assembly Io Unit Import
@@ -170,7 +170,7 @@
 | :--- | :--- | :--- |
 | B | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| H | Hopper | ![hopper](../images/pneumaticcraft_hopper.png) |
+| H | Hopper | ![hopper](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -179,7 +179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Assembly Io Unit Export | ![assembly_io_unit_export](../images/pneumaticcraft_assembly_io_unit_export.png) |
+| - | Assembly Io Unit Export | ![assembly_io_unit_export](../images/pneumaticcraft_network_io_port.png) |
 
 ---
 ## Assembly Laser
@@ -201,7 +201,7 @@
 | B | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## {}
@@ -230,7 +230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Wool Carpets | ![wool_carpets](../images/pneumaticcraft_wool_carpets.png) |
+| C | Wool Carpets | ![wool_carpets](../images/pneumaticcraft_aerial_interface_front.png) |
 | G | Glycerol | ![glycerol](../images/pneumaticcraft_glycerol.png) |
 
 ---
@@ -288,8 +288,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Fermented Spider Eye | ![fermented_spider_eye](../images/pneumaticcraft_fermented_spider_eye.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| C | Fermented Spider Eye | ![fermented_spider_eye](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
@@ -322,7 +322,7 @@
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
 | D | Dyes/Blue | ![dyes/blue](../images/pneumaticcraft_dyes/blue.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Lever | ![lever](../images/pneumaticcraft_lever.png) |
+| L | Lever | ![lever](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -337,8 +337,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_wall.png) |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| I | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_pillar.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -353,8 +353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Charging Station | ![charging_station](../images/pneumaticcraft_charging_station.png) |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| C | Charging Station | ![charging_station](../images/pneumaticcraft_charging.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Charging Station
@@ -362,9 +362,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Brick | ![brick](../images/pneumaticcraft_brick.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| P | Brick | ![brick](../images/pneumaticcraft_compressed_brick_pillar.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Charging Upgrade
@@ -372,9 +372,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Charging Module | ![charging_module](../images/pneumaticcraft_charging_module.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| C | Charging Module | ![charging_module](../images/pneumaticcraft_charging.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -406,8 +406,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chips | ![chips](../images/pneumaticcraft_chips.png) |
-| - | Cooked Cod | ![cooked_cod](../images/pneumaticcraft_cooked_cod.png) |
-| - | Paper | ![paper](../images/pneumaticcraft_paper.png) |
+| - | Cooked Cod | ![cooked_cod](../images/pneumaticcraft_cod_n_chips.png) |
+| - | Paper | ![paper](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -437,7 +437,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
-| S | Hopper | ![hopper](../images/pneumaticcraft_hopper.png) |
+| S | Hopper | ![hopper](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -484,7 +484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Compressed Brick Slab | ![compressed_brick_slab](../images/pneumaticcraft_compressed_brick_slab.png) |
+| B | Compressed Brick Slab | ![compressed_brick_slab](../images/pneumaticcraft_compressed_brick_pillar.png) |
 
 ---
 ## Compressed Brick Pillar
@@ -588,7 +588,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Leather Boots | ![leather_boots](../images/pneumaticcraft_leather_boots.png) |
+| L | Leather Boots | ![leather_boots](../images/pneumaticcraft_compressed_iron_boots.png) |
 
 ---
 ## Compressed Iron Chestplate
@@ -597,7 +597,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Leather Chestplate | ![leather_chestplate](../images/pneumaticcraft_leather_chestplate.png) |
+| L | Leather Chestplate | ![leather_chestplate](../images/pneumaticcraft_compressed_iron_chestplate.png) |
 
 ---
 ## {}
@@ -622,7 +622,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Leather Helmet | ![leather_helmet](../images/pneumaticcraft_leather_helmet.png) |
+| L | Leather Helmet | ![leather_helmet](../images/pneumaticcraft_compressed_iron_helmet.png) |
 
 ---
 ## {}
@@ -646,7 +646,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Leather Leggings | ![leather_leggings](../images/pneumaticcraft_leather_leggings.png) |
+| L | Leather Leggings | ![leather_leggings](../images/pneumaticcraft_compressed_iron_leggings.png) |
 
 ---
 ## {}
@@ -661,7 +661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Compressed Stone Slab | ![compressed_stone_slab](../images/pneumaticcraft_compressed_stone_slab.png) |
+| B | Compressed Stone Slab | ![compressed_stone_slab](../images/pneumaticcraft_compressed_stone_slab_side.png) |
 
 ---
 ## Compressed Stone Slab
@@ -686,7 +686,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Gps Tool | ![gps_tool](../images/pneumaticcraft_gps_tool.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
 ---
@@ -732,7 +732,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
-| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
 
 ---
@@ -763,7 +763,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Dispenser | ![dispenser](../images/pneumaticcraft_dispenser.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Gems/Quartz | ![gems/quartz](../images/pneumaticcraft_gems/quartz.png) |
 
 ---
@@ -772,7 +772,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Display Table | ![display_table](../images/pneumaticcraft_display_table.png) |
+| - | Display Table | ![display_table](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Display Table
@@ -781,7 +781,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
 
 ---
 ## Display Table
@@ -789,7 +789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Display Shelf | ![display_shelf](../images/pneumaticcraft_display_shelf.png) |
+| - | Display Shelf | ![display_shelf](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Drill Pipe
@@ -797,7 +797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Drone
@@ -835,9 +835,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_iron_bars.png) |
-| C | Advanced Air Compressor | ![advanced_air_compressor](../images/pneumaticcraft_advanced_air_compressor.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_compressed_iron_block.png) |
+| C | Advanced Air Compressor | ![advanced_air_compressor](../images/pneumaticcraft_air_canister.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
 
 ---
@@ -847,7 +847,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Elevator Base
@@ -856,7 +856,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Elevator Caller
@@ -864,9 +864,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone Button | ![stone_button](../images/pneumaticcraft_stone_button.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| R | Stone | ![stone](../images/pneumaticcraft_stone.png) |
+| B | Stone Button | ![stone_button](../images/pneumaticcraft_compressed_stone.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| R | Stone | ![stone](../images/pneumaticcraft_compressed_stone.png) |
 
 ---
 ## Elevator Frame
@@ -883,8 +883,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Elytra | ![elytra](../images/pneumaticcraft_elytra.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | End Rod | ![end_rod](../images/pneumaticcraft_end_rod.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | End Rod | ![end_rod](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -928,9 +928,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Carved Pumpkin | ![carved_pumpkin](../images/pneumaticcraft_carved_pumpkin.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Chorus Flower | ![chorus_flower](../images/pneumaticcraft_chorus_flower.png) |
+| C | Carved Pumpkin | ![carved_pumpkin](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Chorus Flower | ![chorus_flower](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Entity Tracker Upgrade
@@ -938,9 +938,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Fermented Spider Eye | ![fermented_spider_eye](../images/pneumaticcraft_fermented_spider_eye.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Bones | ![bones](../images/pneumaticcraft_bones.png) |
+| C | Fermented Spider Eye | ![fermented_spider_eye](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Bones | ![bones](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -955,11 +955,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass Panes | ![glass_panes](../images/pneumaticcraft_glass_panes.png) |
-| O | Obsidian | ![obsidian](../images/pneumaticcraft_obsidian.png) |
-| S | Reinforced Brick Slab | ![reinforced_brick_slab](../images/pneumaticcraft_reinforced_brick_slab.png) |
-| T | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
-| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_wall.png) |
+| G | Glass Panes | ![glass_panes](../images/pneumaticcraft_aerial_interface_front.png) |
+| O | Obsidian | ![obsidian](../images/pneumaticcraft_aerial_interface_front.png) |
+| S | Reinforced Brick Slab | ![reinforced_brick_slab](../images/pneumaticcraft_reinforced_brick_pillar.png) |
+| T | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_pillar.png) |
 
 ---
 ## {}
@@ -1030,9 +1030,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Black Wool | ![black_wool](../images/pneumaticcraft_black_wool.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| C | Black Wool | ![black_wool](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Flow Detector Module
@@ -1041,7 +1041,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Turbine Blade | ![turbine_blade](../images/pneumaticcraft_turbine_blade.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Fluid Mixer
@@ -1049,10 +1049,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
-| T | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
-| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_wall.png) |
+| T | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_pillar.png) |
 
 ---
 ## Flux Compressor
@@ -1064,9 +1064,9 @@
 | F | Storage Blocks/Redstone | ![storage_blocks/redstone](../images/pneumaticcraft_storage_blocks/redstone.png) |
 | G | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 | P | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| Q | Blast Furnace | ![blast_furnace](../images/pneumaticcraft_blast_furnace.png) |
+| Q | Blast Furnace | ![blast_furnace](../images/pneumaticcraft_aerial_interface_front.png) |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -1088,9 +1088,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| G | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Gilded Upgrade
@@ -1098,8 +1098,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Gilded Blackstone | ![gilded_blackstone](../images/pneumaticcraft_gilded_blackstone.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| C | Gilded Blackstone | ![gilded_blackstone](../images/pneumaticcraft_gilded.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
 
 ---
@@ -1118,9 +1118,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
-| G | Glass Panes | ![glass_panes](../images/pneumaticcraft_glass_panes.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| G | Glass Panes | ![glass_panes](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Gps Tool
@@ -1137,7 +1137,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
-| S | Iron Sword | ![iron_sword](../images/pneumaticcraft_iron_sword.png) |
+| S | Iron Sword | ![iron_sword](../images/pneumaticcraft_compressed_iron_block.png) |
 
 ---
 ## Gun Ammo
@@ -1145,7 +1145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gunpowder | ![gunpowder](../images/pneumaticcraft_gunpowder.png) |
+| - | Gunpowder | ![gunpowder](../images/pneumaticcraft_aerial_interface_front.png) |
 | - | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
 
@@ -1166,8 +1166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Tnt | ![tnt](../images/pneumaticcraft_tnt.png) |
-| 2 | Tnt | ![tnt](../images/pneumaticcraft_tnt.png) |
+| 1 | Tnt | ![tnt](../images/pneumaticcraft_aerial_interface_front.png) |
+| 2 | Tnt | ![tnt](../images/pneumaticcraft_aerial_interface_front.png) |
 | A | Gun Ammo | ![gun_ammo](../images/pneumaticcraft_gun_ammo.png) |
 | C | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
@@ -1177,8 +1177,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Ice | ![ice](../images/pneumaticcraft_ice.png) |
-| 2 | Ice | ![ice](../images/pneumaticcraft_ice.png) |
+| 1 | Ice | ![ice](../images/pneumaticcraft_aerial_interface_front.png) |
+| 2 | Ice | ![ice](../images/pneumaticcraft_aerial_interface_front.png) |
 | A | Gun Ammo | ![gun_ammo](../images/pneumaticcraft_gun_ammo.png) |
 | C | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
@@ -1207,7 +1207,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | 1 | Storage Blocks/Gold | ![storage_blocks/gold](../images/pneumaticcraft_storage_blocks/gold.png) |
-| 2 | Obsidian | ![obsidian](../images/pneumaticcraft_obsidian.png) |
+| 2 | Obsidian | ![obsidian](../images/pneumaticcraft_aerial_interface_front.png) |
 | A | Gun Ammo | ![gun_ammo](../images/pneumaticcraft_gun_ammo.png) |
 | C | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
@@ -1218,7 +1218,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
-| S | Crops | ![crops](../images/pneumaticcraft_crops.png) |
+| S | Crops | ![crops](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Heat Frame
@@ -1226,7 +1226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Furnace | ![furnace](../images/pneumaticcraft_furnace.png) |
+| F | Furnace | ![furnace](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -1244,7 +1244,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_iron_bars.png) |
+| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_compressed_iron_block.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
@@ -1256,7 +1256,7 @@
 | :--- | :--- | :--- |
 | N | Ingots/Netherite | ![ingots/netherite](../images/pneumaticcraft_ingots/netherite.png) |
 | R | Reinforced Air Canister | ![reinforced_air_canister](../images/pneumaticcraft_reinforced_air_canister.png) |
-| T | Large Tank | ![large_tank](../images/pneumaticcraft_large_tank.png) |
+| T | Large Tank | ![large_tank](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -1279,8 +1279,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Planks | ![planks](../images/pneumaticcraft_planks.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Planks | ![planks](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -1295,9 +1295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Clock | ![clock](../images/pneumaticcraft_clock.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Apple | ![apple](../images/pneumaticcraft_apple.png) |
+| C | Clock | ![clock](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Apple | ![apple](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Jackhammer
@@ -1310,7 +1310,7 @@
 | D | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | P | Plastic | ![plastic](../images/pneumaticcraft_plastic.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Jet Boots Upgrade 1
@@ -1318,9 +1318,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Advanced Air Compressor | ![advanced_air_compressor](../images/pneumaticcraft_advanced_air_compressor.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| C | Advanced Air Compressor | ![advanced_air_compressor](../images/pneumaticcraft_air_canister.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | V | Vortex Cannon | ![vortex_cannon](../images/pneumaticcraft_vortex_cannon.png) |
 
 ---
@@ -1330,8 +1330,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| F | Feather | ![feather](../images/pneumaticcraft_feather.png) |
-| U | Jet Boots Upgrade 1 | ![jet_boots_upgrade_1](../images/pneumaticcraft_jet_boots_upgrade_1.png) |
+| F | Feather | ![feather](../images/pneumaticcraft_aerial_interface_front.png) |
+| U | Jet Boots Upgrade 1 | ![jet_boots_upgrade_1](../images/pneumaticcraft_jet_boots.png) |
 | V | Vortex Cannon | ![vortex_cannon](../images/pneumaticcraft_vortex_cannon.png) |
 
 ---
@@ -1340,9 +1340,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Rod | ![blaze_rod](../images/pneumaticcraft_blaze_rod.png) |
-| T | Ghast Tear | ![ghast_tear](../images/pneumaticcraft_ghast_tear.png) |
-| U | Jet Boots Upgrade 2 | ![jet_boots_upgrade_2](../images/pneumaticcraft_jet_boots_upgrade_2.png) |
+| B | Blaze Rod | ![blaze_rod](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Ghast Tear | ![ghast_tear](../images/pneumaticcraft_aerial_interface_front.png) |
+| U | Jet Boots Upgrade 2 | ![jet_boots_upgrade_2](../images/pneumaticcraft_jet_boots.png) |
 | V | Vortex Cannon | ![vortex_cannon](../images/pneumaticcraft_vortex_cannon.png) |
 
 ---
@@ -1351,10 +1351,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Phantom Membrane | ![phantom_membrane](../images/pneumaticcraft_phantom_membrane.png) |
-| N | Nether Star | ![nether_star](../images/pneumaticcraft_nether_star.png) |
-| P | Potion | ![potion](../images/pneumaticcraft_potion.png) |
-| U | Jet Boots Upgrade 3 | ![jet_boots_upgrade_3](../images/pneumaticcraft_jet_boots_upgrade_3.png) |
+| M | Phantom Membrane | ![phantom_membrane](../images/pneumaticcraft_aerial_interface_front.png) |
+| N | Nether Star | ![nether_star](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Potion | ![potion](../images/pneumaticcraft_aerial_interface_front.png) |
+| U | Jet Boots Upgrade 3 | ![jet_boots_upgrade_3](../images/pneumaticcraft_jet_boots.png) |
 | V | Vortex Cannon | ![vortex_cannon](../images/pneumaticcraft_vortex_cannon.png) |
 
 ---
@@ -1363,10 +1363,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dragon Breath | ![dragon_breath](../images/pneumaticcraft_dragon_breath.png) |
+| D | Dragon Breath | ![dragon_breath](../images/pneumaticcraft_aerial_interface_front.png) |
 | E | Elytra | ![elytra](../images/pneumaticcraft_elytra.png) |
-| R | End Rod | ![end_rod](../images/pneumaticcraft_end_rod.png) |
-| U | Jet Boots Upgrade 4 | ![jet_boots_upgrade_4](../images/pneumaticcraft_jet_boots_upgrade_4.png) |
+| R | End Rod | ![end_rod](../images/pneumaticcraft_aerial_interface_front.png) |
+| U | Jet Boots Upgrade 4 | ![jet_boots_upgrade_4](../images/pneumaticcraft_jet_boots.png) |
 | V | Vortex Cannon | ![vortex_cannon](../images/pneumaticcraft_vortex_cannon.png) |
 
 ---
@@ -1376,9 +1376,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| P | Piston | ![piston](../images/pneumaticcraft_piston.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| P | Piston | ![piston](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | V | Vortex Cannon | ![vortex_cannon](../images/pneumaticcraft_vortex_cannon.png) |
 
 ---
@@ -1388,9 +1388,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| P | Piston | ![piston](../images/pneumaticcraft_piston.png) |
-| S | Slime Block | ![slime_block](../images/pneumaticcraft_slime_block.png) |
-| U | Jumping Upgrade 1 | ![jumping_upgrade_1](../images/pneumaticcraft_jumping_upgrade_1.png) |
+| P | Piston | ![piston](../images/pneumaticcraft_aerial_interface_front.png) |
+| S | Slime Block | ![slime_block](../images/pneumaticcraft_block_tracker.png) |
+| U | Jumping Upgrade 1 | ![jumping_upgrade_1](../images/pneumaticcraft_upgrade_frame_1.png) |
 
 ---
 ## Jumping Upgrade 3
@@ -1399,9 +1399,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| J | Potion | ![potion](../images/pneumaticcraft_potion.png) |
-| P | Piston | ![piston](../images/pneumaticcraft_piston.png) |
-| U | Jumping Upgrade 2 | ![jumping_upgrade_2](../images/pneumaticcraft_jumping_upgrade_2.png) |
+| J | Potion | ![potion](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Piston | ![piston](../images/pneumaticcraft_aerial_interface_front.png) |
+| U | Jumping Upgrade 2 | ![jumping_upgrade_2](../images/pneumaticcraft_upgrade_frame_2.png) |
 
 ---
 ## Jumping Upgrade 4
@@ -1410,9 +1410,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
-| J | Potion | ![potion](../images/pneumaticcraft_potion.png) |
-| P | Piston | ![piston](../images/pneumaticcraft_piston.png) |
-| U | Jumping Upgrade 3 | ![jumping_upgrade_3](../images/pneumaticcraft_jumping_upgrade_3.png) |
+| J | Potion | ![potion](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Piston | ![piston](../images/pneumaticcraft_aerial_interface_front.png) |
+| U | Jumping Upgrade 3 | ![jumping_upgrade_3](../images/pneumaticcraft_upgrade_frame_3.png) |
 
 ---
 ## {}
@@ -1427,8 +1427,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
-| G | Glass Panes | ![glass_panes](../images/pneumaticcraft_glass_panes.png) |
+| B | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| G | Glass Panes | ![glass_panes](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -1445,9 +1445,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
-| M | Medium Tank | ![medium_tank](../images/pneumaticcraft_medium_tank.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| M | Medium Tank | ![medium_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Liquid Compressor
@@ -1455,10 +1455,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
-| C | Air Compressor | ![air_compressor](../images/pneumaticcraft_air_compressor.png) |
-| L | Leather | ![leather](../images/pneumaticcraft_leather.png) |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| B | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| C | Air Compressor | ![air_compressor](../images/pneumaticcraft_air_canister.png) |
+| L | Leather | ![leather](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Liquid Hopper
@@ -1466,8 +1466,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| H | Hopper | ![hopper](../images/pneumaticcraft_hopper.png) |
-| T | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
+| H | Hopper | ![hopper](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Logistics Configurator
@@ -1478,7 +1478,7 @@
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
 | D | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Lever | ![lever](../images/pneumaticcraft_lever.png) |
+| L | Lever | ![lever](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Logistics Core
@@ -1506,7 +1506,7 @@
 | :--- | :--- | :--- |
 | C | Logistics Core | ![logistics_core](../images/pneumaticcraft_logistics_core.png) |
 | D | Dyes/Purple | ![dyes/purple](../images/pneumaticcraft_dyes/purple.png) |
-| P | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| P | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## Logistics Frame Active Provider
@@ -1514,7 +1514,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logistics Frame Active Provider | ![logistics_frame_active_provider](../images/pneumaticcraft_logistics_frame_active_provider.png) |
+| - | Logistics Frame Active Provider | ![logistics_frame_active_provider](../images/pneumaticcraft_frame.png) |
 
 ---
 ## Logistics Frame Default Storage
@@ -1524,7 +1524,7 @@
 | :--- | :--- | :--- |
 | C | Logistics Core | ![logistics_core](../images/pneumaticcraft_logistics_core.png) |
 | D | Dyes/Green | ![dyes/green](../images/pneumaticcraft_dyes/green.png) |
-| P | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| P | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## Logistics Frame Default Storage
@@ -1532,7 +1532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logistics Frame Default Storage | ![logistics_frame_default_storage](../images/pneumaticcraft_logistics_frame_default_storage.png) |
+| - | Logistics Frame Default Storage | ![logistics_frame_default_storage](../images/pneumaticcraft_frame.png) |
 
 ---
 ## Logistics Frame Passive Provider
@@ -1542,7 +1542,7 @@
 | :--- | :--- | :--- |
 | C | Logistics Core | ![logistics_core](../images/pneumaticcraft_logistics_core.png) |
 | D | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
-| P | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| P | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## Logistics Frame Passive Provider
@@ -1550,7 +1550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logistics Frame Passive Provider | ![logistics_frame_passive_provider](../images/pneumaticcraft_logistics_frame_passive_provider.png) |
+| - | Logistics Frame Passive Provider | ![logistics_frame_passive_provider](../images/pneumaticcraft_frame.png) |
 
 ---
 ## Logistics Frame Requester
@@ -1560,7 +1560,7 @@
 | :--- | :--- | :--- |
 | C | Logistics Core | ![logistics_core](../images/pneumaticcraft_logistics_core.png) |
 | D | Dyes/Blue | ![dyes/blue](../images/pneumaticcraft_dyes/blue.png) |
-| P | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| P | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## Logistics Frame Requester
@@ -1568,7 +1568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logistics Frame Requester | ![logistics_frame_requester](../images/pneumaticcraft_logistics_frame_requester.png) |
+| - | Logistics Frame Requester | ![logistics_frame_requester](../images/pneumaticcraft_frame.png) |
 
 ---
 ## Logistics Frame Storage
@@ -1578,7 +1578,7 @@
 | :--- | :--- | :--- |
 | C | Logistics Core | ![logistics_core](../images/pneumaticcraft_logistics_core.png) |
 | D | Dyes/Yellow | ![dyes/yellow](../images/pneumaticcraft_dyes/yellow.png) |
-| P | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| P | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## Logistics Frame Storage
@@ -1586,7 +1586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Logistics Frame Storage | ![logistics_frame_storage](../images/pneumaticcraft_logistics_frame_storage.png) |
+| - | Logistics Frame Storage | ![logistics_frame_storage](../images/pneumaticcraft_frame.png) |
 
 ---
 ## Logistics Module
@@ -1596,7 +1596,7 @@
 | :--- | :--- | :--- |
 | C | Logistics Core | ![logistics_core](../images/pneumaticcraft_logistics_core.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -1653,8 +1653,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| C | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -1672,11 +1672,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone Base | ![stone_base](../images/pneumaticcraft_stone_base.png) |
+| B | Stone Base | ![stone_base](../images/pneumaticcraft_compressed_stone.png) |
 | G | Gears/Compressed Iron | ![gears/compressed_iron](../images/pneumaticcraft_gears/compressed_iron.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Red Dye | ![red_dye](../images/pneumaticcraft_red_dye.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| R | Red Dye | ![red_dye](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Medium Tank
@@ -1685,9 +1685,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| S | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| S | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Memory Stick
@@ -1698,8 +1698,8 @@
 | D | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
 | E | Gems/Emerald | ![gems/emerald](../images/pneumaticcraft_gems/emerald.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| S | Soul Sand | ![soul_sand](../images/pneumaticcraft_soul_sand.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| S | Soul Sand | ![soul_sand](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Micromissiles
@@ -1707,10 +1707,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Fire Charge | ![fire_charge](../images/pneumaticcraft_fire_charge.png) |
+| F | Fire Charge | ![fire_charge](../images/pneumaticcraft_aerial_interface_front.png) |
 | P | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| T | Tnt | ![tnt](../images/pneumaticcraft_tnt.png) |
-| W | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| T | Tnt | ![tnt](../images/pneumaticcraft_aerial_interface_front.png) |
+| W | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## {}
@@ -1726,11 +1726,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
-| B | Cannon Barrel | ![cannon_barrel](../images/pneumaticcraft_cannon_barrel.png) |
+| B | Cannon Barrel | ![cannon_barrel](../images/pneumaticcraft_vortex_cannon.png) |
 | C | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
 | G | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Lever | ![lever](../images/pneumaticcraft_lever.png) |
+| L | Lever | ![lever](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Minigun Upgrade
@@ -1739,8 +1739,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Minigun | ![minigun](../images/pneumaticcraft_minigun.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Gunpowder | ![gunpowder](../images/pneumaticcraft_gunpowder.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Gunpowder | ![gunpowder](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -1756,7 +1756,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
 ---
@@ -1780,7 +1780,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Dyes/Blue | ![dyes/blue](../images/pneumaticcraft_dyes/blue.png) |
-| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
 
 ---
@@ -1790,7 +1790,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Dyes/Gray | ![dyes/gray](../images/pneumaticcraft_dyes/gray.png) |
-| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
 
 ---
@@ -1820,7 +1820,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Dyes/Lime | ![dyes/lime](../images/pneumaticcraft_dyes/lime.png) |
-| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| E | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | X | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
 
 ---
@@ -1829,9 +1829,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Pressure Chamber Glass | ![pressure_chamber_glass](../images/pneumaticcraft_pressure_chamber_glass.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| N | Potion | ![potion](../images/pneumaticcraft_potion.png) |
+| G | Pressure Chamber Glass | ![pressure_chamber_glass](../images/pneumaticcraft_pressure_chamber_wall.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| N | Potion | ![potion](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Obsidian
@@ -1934,7 +1934,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Black | ![dyes/black](../images/pneumaticcraft_dyes/black.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Blue
@@ -1943,7 +1943,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Blue | ![dyes/blue](../images/pneumaticcraft_dyes/blue.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Brown
@@ -1952,7 +1952,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Brown | ![dyes/brown](../images/pneumaticcraft_dyes/brown.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Cyan
@@ -1961,7 +1961,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Cyan | ![dyes/cyan](../images/pneumaticcraft_dyes/cyan.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Gray
@@ -1970,7 +1970,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Gray | ![dyes/gray](../images/pneumaticcraft_dyes/gray.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Green
@@ -1979,7 +1979,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Green | ![dyes/green](../images/pneumaticcraft_dyes/green.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Light Blue
@@ -1988,7 +1988,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/pneumaticcraft_dyes/light_blue.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Light Gray
@@ -1997,7 +1997,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/pneumaticcraft_dyes/light_gray.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Lime
@@ -2006,7 +2006,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Lime | ![dyes/lime](../images/pneumaticcraft_dyes/lime.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Magenta
@@ -2015,7 +2015,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Magenta | ![dyes/magenta](../images/pneumaticcraft_dyes/magenta.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Orange
@@ -2024,7 +2024,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Orange | ![dyes/orange](../images/pneumaticcraft_dyes/orange.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Pink
@@ -2033,7 +2033,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Pink | ![dyes/pink](../images/pneumaticcraft_dyes/pink.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Purple
@@ -2042,7 +2042,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Purple | ![dyes/purple](../images/pneumaticcraft_dyes/purple.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Red
@@ -2051,7 +2051,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick White
@@ -2060,7 +2060,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/White | ![dyes/white](../images/pneumaticcraft_dyes/white.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Plastic Brick Yellow
@@ -2069,7 +2069,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Yellow | ![dyes/yellow](../images/pneumaticcraft_dyes/yellow.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## {}
@@ -2091,7 +2091,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Plastic Bricks | ![plastic_bricks](../images/pneumaticcraft_plastic_bricks.png) |
+| tag | Plastic Bricks | ![plastic_bricks](../images/pneumaticcraft_compressed_bricks.png) |
 
 ---
 ## Plastic
@@ -2099,7 +2099,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Smooth Plastic Bricks | ![smooth_plastic_bricks](../images/pneumaticcraft_smooth_plastic_bricks.png) |
+| tag | Smooth Plastic Bricks | ![smooth_plastic_bricks](../images/pneumaticcraft_compressed_bricks.png) |
 
 ---
 ## Pneumatic Boots
@@ -2127,9 +2127,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Cannon Barrel | ![cannon_barrel](../images/pneumaticcraft_cannon_barrel.png) |
+| B | Cannon Barrel | ![cannon_barrel](../images/pneumaticcraft_vortex_cannon.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Pneumatic Door
@@ -2147,7 +2147,7 @@
 | :--- | :--- | :--- |
 | C | Pneumatic Cylinder | ![pneumatic_cylinder](../images/pneumaticcraft_pneumatic_cylinder.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Pneumatic Dynamo
@@ -2158,7 +2158,7 @@
 | G | Compressed Iron Gear | ![compressed_iron_gear](../images/pneumaticcraft_compressed_iron_gear.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | P | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Pneumatic Helmet
@@ -2190,7 +2190,7 @@
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
 | D | Dyes/Orange | ![dyes/orange](../images/pneumaticcraft_dyes/orange.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Lever | ![lever](../images/pneumaticcraft_lever.png) |
+| L | Lever | ![lever](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## {}
@@ -2212,7 +2212,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/pneumaticcraft_glass.png) |
+| G | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Reinforced Bricks | ![reinforced_bricks](../images/pneumaticcraft_reinforced_bricks.png) |
 
 ---
@@ -2221,7 +2221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass | ![glass](../images/pneumaticcraft_glass.png) |
+| - | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
@@ -2230,7 +2230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass | ![glass](../images/pneumaticcraft_glass.png) |
+| - | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
@@ -2242,7 +2242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hopper | ![hopper](../images/pneumaticcraft_hopper.png) |
+| - | Hopper | ![hopper](../images/pneumaticcraft_aerial_interface_front.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
@@ -2259,7 +2259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| - | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
@@ -2268,7 +2268,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| - | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | - | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
@@ -2299,7 +2299,7 @@
 | :--- | :--- | :--- |
 | G | Pressure Gauge | ![pressure_gauge](../images/pneumaticcraft_pressure_gauge.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Pressure Tube
@@ -2307,7 +2307,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/pneumaticcraft_glass.png) |
+| G | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -2318,7 +2318,7 @@
 | :--- | :--- | :--- |
 | E | Empty Spawner | ![empty_spawner](../images/pneumaticcraft_empty_spawner.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Printed Circuit Board
@@ -2337,10 +2337,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| D | Drone | ![drone](../images/pneumaticcraft_drone.png) |
+| D | Drone | ![drone](../images/pneumaticcraft_drone_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | N | Network Registry | ![network_registry](../images/pneumaticcraft_network_registry.png) |
-| P | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| P | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | R | Remote | ![remote](../images/pneumaticcraft_remote.png) |
 
 ---
@@ -2351,7 +2351,7 @@
 | :--- | :--- | :--- |
 | B | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 | G | Glass Panes/Black | ![glass_panes/black](../images/pneumaticcraft_glass_panes/black.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | R | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
 | T | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
 
@@ -2362,7 +2362,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## {}
@@ -2377,9 +2377,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Bow | ![bow](../images/pneumaticcraft_bow.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Arrows | ![arrows](../images/pneumaticcraft_arrows.png) |
+| C | Bow | ![bow](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Arrows | ![arrows](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Raw Salmon Tempura
@@ -2387,7 +2387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Salmon | ![salmon](../images/pneumaticcraft_salmon.png) |
+| - | Salmon | ![salmon](../images/pneumaticcraft_raw_salmon_tempura.png) |
 | - | Sourdough | ![sourdough](../images/pneumaticcraft_sourdough.png) |
 
 ---
@@ -2396,9 +2396,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Repeater | ![repeater](../images/pneumaticcraft_repeater.png) |
+| D | Repeater | ![repeater](../images/pneumaticcraft_aerial_interface_front.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Red Dye
@@ -2414,8 +2414,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| T | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| T | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Refinery Output
@@ -2424,8 +2424,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
-| G | Glass | ![glass](../images/pneumaticcraft_glass.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
+| G | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
 
 ---
 ## Regulator Tube Module
@@ -2433,8 +2433,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Safety Tube Module | ![safety_tube_module](../images/pneumaticcraft_safety_tube_module.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| S | Safety Tube Module | ![safety_tube_module](../images/pneumaticcraft_module_expansion_card.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Reinforced Air Canister
@@ -2444,7 +2444,7 @@
 | :--- | :--- | :--- |
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Reinforced Bricks
@@ -2484,7 +2484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Reinforced Brick Slab | ![reinforced_brick_slab](../images/pneumaticcraft_reinforced_brick_slab.png) |
+| B | Reinforced Brick Slab | ![reinforced_brick_slab](../images/pneumaticcraft_reinforced_brick_pillar.png) |
 
 ---
 ## Reinforced Brick Pillar
@@ -2575,8 +2575,8 @@
 | C | Chests/Wooden | ![chests/wooden](../images/pneumaticcraft_chests/wooden.png) |
 | G | Nuggets/Gold | ![nuggets/gold](../images/pneumaticcraft_nuggets/gold.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| O | Obsidian | ![obsidian](../images/pneumaticcraft_obsidian.png) |
-| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_wall.png) |
+| O | Obsidian | ![obsidian](../images/pneumaticcraft_aerial_interface_front.png) |
+| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_pillar.png) |
 
 ---
 ## Reinforced Chest Kit
@@ -2584,8 +2584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Reinforced Chest | ![reinforced_chest](../images/pneumaticcraft_reinforced_chest.png) |
-| S | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| C | Reinforced Chest | ![reinforced_chest](../images/pneumaticcraft_reinforced_chest_kit.png) |
+| S | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## {}
@@ -2600,7 +2600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone | ![stone](../images/pneumaticcraft_stone.png) |
+| B | Stone | ![stone](../images/pneumaticcraft_compressed_stone.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -2609,7 +2609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
+| B | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
 
 ---
 ## Reinforced Stone Slab
@@ -2645,8 +2645,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Pressure Gauge | ![pressure_gauge](../images/pneumaticcraft_pressure_gauge.png) |
-| L | Lever | ![lever](../images/pneumaticcraft_lever.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| L | Lever | ![lever](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -2661,10 +2661,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| R | Regulator Tube Module | ![regulator_tube_module](../images/pneumaticcraft_regulator_tube_module.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| R | Regulator Tube Module | ![regulator_tube_module](../images/pneumaticcraft_module_expansion_card.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Search Upgrade
@@ -2672,9 +2672,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Golden Carrot | ![golden_carrot](../images/pneumaticcraft_golden_carrot.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Ender Eye | ![ender_eye](../images/pneumaticcraft_ender_eye.png) |
+| C | Golden Carrot | ![golden_carrot](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Ender Eye | ![ender_eye](../images/pneumaticcraft_ender_visor.png) |
 
 ---
 ## Security Station
@@ -2684,7 +2684,7 @@
 | :--- | :--- | :--- |
 | B | Glass Panes/Black | ![glass_panes/black](../images/pneumaticcraft_glass_panes/black.png) |
 | D | Dyes/Gray | ![dyes/gray](../images/pneumaticcraft_dyes/gray.png) |
-| G | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| G | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 | P | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 | T | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
 
@@ -2694,9 +2694,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Safety Tube Module | ![safety_tube_module](../images/pneumaticcraft_safety_tube_module.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Obsidian | ![obsidian](../images/pneumaticcraft_obsidian.png) |
+| C | Safety Tube Module | ![safety_tube_module](../images/pneumaticcraft_module_expansion_card.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Obsidian | ![obsidian](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Seismic Sensor
@@ -2704,10 +2704,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Note Block | ![note_block](../images/pneumaticcraft_note_block.png) |
-| G | Glass | ![glass](../images/pneumaticcraft_glass.png) |
-| R | Repeater | ![repeater](../images/pneumaticcraft_repeater.png) |
-| T | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| C | Note Block | ![note_block](../images/pneumaticcraft_block_tracker.png) |
+| G | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
+| R | Repeater | ![repeater](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Sentry Turret
@@ -2717,7 +2717,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | M | Minigun | ![minigun](../images/pneumaticcraft_minigun.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
 
 ---
 ## Small Tank
@@ -2725,8 +2725,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_iron_bars.png) |
-| G | Glass | ![glass](../images/pneumaticcraft_glass.png) |
+| B | Iron Bars | ![iron_bars](../images/pneumaticcraft_compressed_iron_block.png) |
+| G | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -2735,9 +2735,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Reinforced Chest | ![reinforced_chest](../images/pneumaticcraft_reinforced_chest.png) |
+| C | Reinforced Chest | ![reinforced_chest](../images/pneumaticcraft_reinforced_chest_kit.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/pneumaticcraft_gems/diamond.png) |
-| H | Omnidirectional Hopper | ![omnidirectional_hopper](../images/pneumaticcraft_omnidirectional_hopper.png) |
+| H | Omnidirectional Hopper | ![omnidirectional_hopper](../images/pneumaticcraft_aerial_interface_front.png) |
 | P | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
 
 ---
@@ -2746,8 +2746,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Smart Chest | ![smart_chest](../images/pneumaticcraft_smart_chest.png) |
-| S | Stick | ![stick](../images/pneumaticcraft_stick.png) |
+| C | Smart Chest | ![smart_chest](../images/pneumaticcraft_smart_chest_kit.png) |
+| S | Stick | ![stick](../images/pneumaticcraft_memory_stick.png) |
 
 ---
 ## Smooth Plastic Brick Black
@@ -2755,7 +2755,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Black | ![plastic_brick_black](../images/pneumaticcraft_plastic_brick_black.png) |
+| - | Plastic Brick Black | ![plastic_brick_black](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Blue
@@ -2763,7 +2763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Blue | ![plastic_brick_blue](../images/pneumaticcraft_plastic_brick_blue.png) |
+| - | Plastic Brick Blue | ![plastic_brick_blue](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Brown
@@ -2771,7 +2771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Brown | ![plastic_brick_brown](../images/pneumaticcraft_plastic_brick_brown.png) |
+| - | Plastic Brick Brown | ![plastic_brick_brown](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Cyan
@@ -2779,7 +2779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Cyan | ![plastic_brick_cyan](../images/pneumaticcraft_plastic_brick_cyan.png) |
+| - | Plastic Brick Cyan | ![plastic_brick_cyan](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Gray
@@ -2787,7 +2787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Gray | ![plastic_brick_gray](../images/pneumaticcraft_plastic_brick_gray.png) |
+| - | Plastic Brick Gray | ![plastic_brick_gray](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Green
@@ -2795,7 +2795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Green | ![plastic_brick_green](../images/pneumaticcraft_plastic_brick_green.png) |
+| - | Plastic Brick Green | ![plastic_brick_green](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Light Blue
@@ -2803,7 +2803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Light Blue | ![plastic_brick_light_blue](../images/pneumaticcraft_plastic_brick_light_blue.png) |
+| - | Plastic Brick Light Blue | ![plastic_brick_light_blue](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Light Gray
@@ -2811,7 +2811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Light Gray | ![plastic_brick_light_gray](../images/pneumaticcraft_plastic_brick_light_gray.png) |
+| - | Plastic Brick Light Gray | ![plastic_brick_light_gray](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Lime
@@ -2819,7 +2819,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Lime | ![plastic_brick_lime](../images/pneumaticcraft_plastic_brick_lime.png) |
+| - | Plastic Brick Lime | ![plastic_brick_lime](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Magenta
@@ -2827,7 +2827,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Magenta | ![plastic_brick_magenta](../images/pneumaticcraft_plastic_brick_magenta.png) |
+| - | Plastic Brick Magenta | ![plastic_brick_magenta](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Orange
@@ -2835,7 +2835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Orange | ![plastic_brick_orange](../images/pneumaticcraft_plastic_brick_orange.png) |
+| - | Plastic Brick Orange | ![plastic_brick_orange](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Pink
@@ -2843,7 +2843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Pink | ![plastic_brick_pink](../images/pneumaticcraft_plastic_brick_pink.png) |
+| - | Plastic Brick Pink | ![plastic_brick_pink](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Purple
@@ -2851,7 +2851,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Purple | ![plastic_brick_purple](../images/pneumaticcraft_plastic_brick_purple.png) |
+| - | Plastic Brick Purple | ![plastic_brick_purple](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Red
@@ -2859,7 +2859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Red | ![plastic_brick_red](../images/pneumaticcraft_plastic_brick_red.png) |
+| - | Plastic Brick Red | ![plastic_brick_red](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick White
@@ -2867,7 +2867,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick White | ![plastic_brick_white](../images/pneumaticcraft_plastic_brick_white.png) |
+| - | Plastic Brick White | ![plastic_brick_white](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## Smooth Plastic Brick Yellow
@@ -2875,7 +2875,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plastic Brick Yellow | ![plastic_brick_yellow](../images/pneumaticcraft_plastic_brick_yellow.png) |
+| - | Plastic Brick Yellow | ![plastic_brick_yellow](../images/pneumaticcraft_plastic_brick_bottom.png) |
 
 ---
 ## {}
@@ -2907,7 +2907,7 @@
 | B | Compressed Iron Block | ![compressed_iron_block](../images/pneumaticcraft_compressed_iron_block.png) |
 | G | Compressed Iron Gear | ![compressed_iron_gear](../images/pneumaticcraft_compressed_iron_gear.png) |
 | P | Printed Circuit Board | ![printed_circuit_board](../images/pneumaticcraft_printed_circuit_board.png) |
-| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_advanced_pressure_tube.png) |
+| T | Advanced Pressure Tube | ![advanced_pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | W | Solar Cell | ![solar_cell](../images/pneumaticcraft_solar_cell.png) |
 
 ---
@@ -2938,7 +2938,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Dusts/Flour | ![dusts/flour](../images/pneumaticcraft_dusts/flour.png) |
-| Y | Unknown | ![unknown](../images/pneumaticcraft_unknown.png) |
+| Y | Unknown | ![unknown](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Sourdough Bread
@@ -2954,7 +2954,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Ghast Tear | ![ghast_tear](../images/pneumaticcraft_ghast_tear.png) |
+| G | Ghast Tear | ![ghast_tear](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -2971,7 +2971,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Gems/Emerald | ![gems/emerald](../images/pneumaticcraft_gems/emerald.png) |
-| G | Pressure Chamber Glass | ![pressure_chamber_glass](../images/pneumaticcraft_pressure_chamber_glass.png) |
+| G | Pressure Chamber Glass | ![pressure_chamber_glass](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -2980,11 +2980,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spawner Agitator | ![spawner_agitator](../images/pneumaticcraft_spawner_agitator.png) |
+| A | Spawner Agitator | ![spawner_agitator](../images/pneumaticcraft_empty_spawner.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| O | Obsidian | ![obsidian](../images/pneumaticcraft_obsidian.png) |
-| P | Drill Pipe | ![drill_pipe](../images/pneumaticcraft_drill_pipe.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| O | Obsidian | ![obsidian](../images/pneumaticcraft_aerial_interface_front.png) |
+| P | Drill Pipe | ![drill_pipe](../images/pneumaticcraft_drill_bit.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 | W | Pressure Chamber Wall | ![pressure_chamber_wall](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
@@ -2993,9 +2993,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Lubricant | ![lubricant](../images/pneumaticcraft_lubricant.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Sugar | ![sugar](../images/pneumaticcraft_sugar.png) |
+| C | Lubricant | ![lubricant](../images/pneumaticcraft_lubricant_flow.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Sugar | ![sugar](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Speed Upgrade
@@ -3003,8 +3003,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Lubricant | ![lubricant](../images/pneumaticcraft_lubricant.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| C | Lubricant | ![lubricant](../images/pneumaticcraft_lubricant_flow.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Glycerol | ![glycerol](../images/pneumaticcraft_glycerol.png) |
 
 ---
@@ -3020,9 +3020,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Beds | ![beds](../images/pneumaticcraft_beds.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| C | Beds | ![beds](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Stomp Upgrade
@@ -3030,9 +3030,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Tnt | ![tnt](../images/pneumaticcraft_tnt.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
-| X | Piston | ![piston](../images/pneumaticcraft_piston.png) |
+| C | Tnt | ![tnt](../images/pneumaticcraft_aerial_interface_front.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
+| X | Piston | ![piston](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Stone Base
@@ -3040,8 +3040,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone | ![stone](../images/pneumaticcraft_stone.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| S | Stone | ![stone](../images/pneumaticcraft_compressed_stone.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Tag Workbench
@@ -3049,8 +3049,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Writable Book | ![writable_book](../images/pneumaticcraft_writable_book.png) |
-| D | Display Table | ![display_table](../images/pneumaticcraft_display_table.png) |
+| B | Writable Book | ![writable_book](../images/pneumaticcraft_aerial_interface_front.png) |
+| D | Display Table | ![display_table](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Thermal Compressor
@@ -3058,10 +3058,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Air Compressor | ![air_compressor](../images/pneumaticcraft_air_compressor.png) |
+| A | Air Compressor | ![air_compressor](../images/pneumaticcraft_air_canister.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| P | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/pneumaticcraft_heavy_weighted_pressure_plate.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| P | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/pneumaticcraft_gun_ammo_weighted.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Thermal Lagging
@@ -3069,8 +3069,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/pneumaticcraft_glass.png) |
-| W | Wool | ![wool](../images/pneumaticcraft_wool.png) |
+| G | Glass | ![glass](../images/pneumaticcraft_aerial_interface_front.png) |
+| W | Wool | ![wool](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Thermopneumatic Processing Plant
@@ -3078,9 +3078,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| T | Small Tank | ![small_tank](../images/pneumaticcraft_small_tank.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| T | Small Tank | ![small_tank](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Thermostat Module
@@ -3089,9 +3089,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
-| H | Heat Pipe | ![heat_pipe](../images/pneumaticcraft_heat_pipe.png) |
+| H | Heat Pipe | ![heat_pipe](../images/pneumaticcraft_aerial_interface_front.png) |
 | M | Manometer | ![manometer](../images/pneumaticcraft_manometer.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -3106,7 +3106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hopper | ![hopper](../images/pneumaticcraft_hopper.png) |
+| - | Hopper | ![hopper](../images/pneumaticcraft_aerial_interface_front.png) |
 | - | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -3122,8 +3122,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_wall.png) |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| I | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_pillar.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## {}
@@ -3163,9 +3163,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
-| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic_sheets.png) |
-| R | Repeater | ![repeater](../images/pneumaticcraft_repeater.png) |
+| C | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
+| P | Plastic Sheets | ![plastic_sheets](../images/pneumaticcraft_plastic.png) |
+| R | Repeater | ![repeater](../images/pneumaticcraft_aerial_interface_front.png) |
 | S | Seismic Sensor | ![seismic_sensor](../images/pneumaticcraft_seismic_sensor.png) |
 
 ---
@@ -3190,8 +3190,8 @@
 | :--- | :--- | :--- |
 | B | Pcb Blueprint | ![pcb_blueprint](../images/pneumaticcraft_pcb_blueprint.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/pneumaticcraft_redstone_lamp.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/pneumaticcraft_aerial_interface_front.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Vacuum Module
@@ -3199,8 +3199,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
-| V | Vacuum Pump | ![vacuum_pump](../images/pneumaticcraft_vacuum_pump.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
+| V | Vacuum Pump | ![vacuum_pump](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Vacuum Pump
@@ -3210,8 +3210,8 @@
 | :--- | :--- | :--- |
 | G | Pressure Gauge | ![pressure_gauge](../images/pneumaticcraft_pressure_gauge.png) |
 | R | Turbine Rotor | ![turbine_rotor](../images/pneumaticcraft_turbine_rotor.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Vacuum Trap
@@ -3219,12 +3219,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Eye | ![ender_eye](../images/pneumaticcraft_ender_eye.png) |
+| E | Ender Eye | ![ender_eye](../images/pneumaticcraft_ender_visor.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
-| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab.png) |
-| T | Iron Trapdoor | ![iron_trapdoor](../images/pneumaticcraft_iron_trapdoor.png) |
-| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_wall.png) |
+| P | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
+| S | Reinforced Stone Slab | ![reinforced_stone_slab](../images/pneumaticcraft_reinforced_stone_slab_side.png) |
+| T | Iron Trapdoor | ![iron_trapdoor](../images/pneumaticcraft_compressed_iron_block.png) |
+| W | Reinforced Brick Wall | ![reinforced_brick_wall](../images/pneumaticcraft_reinforced_brick_pillar.png) |
 
 ---
 ## {}
@@ -3247,7 +3247,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
-| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_components.png) |
+| L | Upgrade Components | ![upgrade_components](../images/pneumaticcraft_upgrade_frame_1.png) |
 | X | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 
 ---
@@ -3259,7 +3259,7 @@
 | C | Air Canister | ![air_canister](../images/pneumaticcraft_air_canister.png) |
 | D | Dyes/Yellow | ![dyes/yellow](../images/pneumaticcraft_dyes/yellow.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| L | Lever | ![lever](../images/pneumaticcraft_lever.png) |
+| L | Lever | ![lever](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Vortex Tube
@@ -3269,7 +3269,7 @@
 | :--- | :--- | :--- |
 | G | Ingots/Gold | ![ingots/gold](../images/pneumaticcraft_ingots/gold.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_tube.png) |
+| T | Pressure Tube | ![pressure_tube](../images/pneumaticcraft_pressure_chamber_wall.png) |
 
 ---
 ## Wall Lamp Black
@@ -3278,7 +3278,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Black | ![dyes/black](../images/pneumaticcraft_dyes/black.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3289,7 +3289,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Blue | ![dyes/blue](../images/pneumaticcraft_dyes/blue.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3300,7 +3300,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Brown | ![dyes/brown](../images/pneumaticcraft_dyes/brown.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3311,7 +3311,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Cyan | ![dyes/cyan](../images/pneumaticcraft_dyes/cyan.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3322,7 +3322,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Gray | ![dyes/gray](../images/pneumaticcraft_dyes/gray.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3333,7 +3333,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Green | ![dyes/green](../images/pneumaticcraft_dyes/green.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3344,9 +3344,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Black | ![dyes/black](../images/pneumaticcraft_dyes/black.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Blue
@@ -3355,9 +3355,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Blue | ![dyes/blue](../images/pneumaticcraft_dyes/blue.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Brown
@@ -3366,9 +3366,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Brown | ![dyes/brown](../images/pneumaticcraft_dyes/brown.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Cyan
@@ -3377,9 +3377,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Cyan | ![dyes/cyan](../images/pneumaticcraft_dyes/cyan.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Gray
@@ -3388,9 +3388,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Gray | ![dyes/gray](../images/pneumaticcraft_dyes/gray.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Green
@@ -3399,9 +3399,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Green | ![dyes/green](../images/pneumaticcraft_dyes/green.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Light Blue
@@ -3410,9 +3410,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/pneumaticcraft_dyes/light_blue.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Light Gray
@@ -3421,9 +3421,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/pneumaticcraft_dyes/light_gray.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Lime
@@ -3432,9 +3432,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Lime | ![dyes/lime](../images/pneumaticcraft_dyes/lime.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Magenta
@@ -3443,9 +3443,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Magenta | ![dyes/magenta](../images/pneumaticcraft_dyes/magenta.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Orange
@@ -3454,9 +3454,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Orange | ![dyes/orange](../images/pneumaticcraft_dyes/orange.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Pink
@@ -3465,9 +3465,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Pink | ![dyes/pink](../images/pneumaticcraft_dyes/pink.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Purple
@@ -3476,9 +3476,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Purple | ![dyes/purple](../images/pneumaticcraft_dyes/purple.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Red
@@ -3487,9 +3487,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted White
@@ -3498,9 +3498,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/White | ![dyes/white](../images/pneumaticcraft_dyes/white.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Inverted Yellow
@@ -3509,9 +3509,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Yellow | ![dyes/yellow](../images/pneumaticcraft_dyes/yellow.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
-| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_redstone_torch.png) |
+| R | Redstone Torch | ![redstone_torch](../images/pneumaticcraft_aerial_interface_front.png) |
 
 ---
 ## Wall Lamp Light Blue
@@ -3520,7 +3520,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/pneumaticcraft_dyes/light_blue.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3531,7 +3531,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/pneumaticcraft_dyes/light_gray.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3542,7 +3542,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Lime | ![dyes/lime](../images/pneumaticcraft_dyes/lime.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3553,7 +3553,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Magenta | ![dyes/magenta](../images/pneumaticcraft_dyes/magenta.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3564,7 +3564,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Orange | ![dyes/orange](../images/pneumaticcraft_dyes/orange.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3575,7 +3575,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Pink | ![dyes/pink](../images/pneumaticcraft_dyes/pink.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3586,7 +3586,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Purple | ![dyes/purple](../images/pneumaticcraft_dyes/purple.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3597,7 +3597,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Red | ![dyes/red](../images/pneumaticcraft_dyes/red.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3608,7 +3608,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/White | ![dyes/white](../images/pneumaticcraft_dyes/white.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 
@@ -3619,7 +3619,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dyes/Yellow | ![dyes/yellow](../images/pneumaticcraft_dyes/yellow.png) |
-| G | Glowstone | ![glowstone](../images/pneumaticcraft_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/pneumaticcraft_aerial_interface_front.png) |
 | I | Ingots/Compressed Iron | ![ingots/compressed_iron](../images/pneumaticcraft_ingots/compressed_iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pneumaticcraft_dusts/redstone.png) |
 

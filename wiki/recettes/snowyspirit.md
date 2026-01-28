@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
-| - | Honeycomb | ![honeycomb](../images/snowyspirit_honeycomb.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
+| - | Honeycomb | ![honeycomb](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Candy Cane Block
@@ -27,7 +27,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Candy Cane Block | ![candy_cane_block](../images/snowyspirit_candy_cane_block.png) |
+| - | Candy Cane Block | ![candy_cane_block](../images/snowyspirit_candy_cane.png) |
 
 ---
 ## Eggnog
@@ -36,9 +36,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ginger | ![ginger](../images/snowyspirit_ginger.png) |
-| - | Egg | ![egg](../images/snowyspirit_egg.png) |
-| - | Milk Bucket | ![milk_bucket](../images/snowyspirit_milk_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/snowyspirit_glass_bottle.png) |
+| - | Egg | ![egg](../images/snowyspirit_boat_mask.png) |
+| - | Milk Bucket | ![milk_bucket](../images/snowyspirit_boat_mask.png) |
+| - | Glass Bottle | ![glass_bottle](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gingerbread
@@ -47,9 +47,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ginger | ![ginger](../images/snowyspirit_ginger.png) |
-| - | Wheat | ![wheat](../images/snowyspirit_wheat.png) |
-| - | Wheat | ![wheat](../images/snowyspirit_wheat.png) |
-| - | Wheat | ![wheat](../images/snowyspirit_wheat.png) |
+| - | Wheat | ![wheat](../images/snowyspirit_boat_mask.png) |
+| - | Wheat | ![wheat](../images/snowyspirit_boat_mask.png) |
+| - | Wheat | ![wheat](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gingerbread
@@ -57,7 +57,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hay Block | ![hay_block](../images/snowyspirit_hay_block.png) |
+| - | Hay Block | ![hay_block](../images/snowyspirit_gingerbread_block.png) |
 | - | Ginger | ![ginger](../images/snowyspirit_ginger.png) |
 | - | Ginger | ![ginger](../images/snowyspirit_ginger.png) |
 | - | Ginger | ![ginger](../images/snowyspirit_ginger.png) |
@@ -68,8 +68,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gingerbreads | ![gingerbreads](../images/snowyspirit_gingerbreads.png) |
-| - | Gumdrops | ![gumdrops](../images/snowyspirit_gumdrops.png) |
+| - | Gingerbreads | ![gingerbreads](../images/snowyspirit_boat_mask.png) |
+| - | Gumdrops | ![gumdrops](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gingerbread Door
@@ -77,7 +77,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gingerbreads | ![gingerbreads](../images/snowyspirit_gingerbreads.png) |
+| # | Gingerbreads | ![gingerbreads](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gingerbread Frosted
@@ -85,8 +85,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gingerbread | ![gingerbread](../images/snowyspirit_gingerbread.png) |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Gingerbread | ![gingerbread](../images/snowyspirit_gingerbread_block.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gingerbread Slab
@@ -94,7 +94,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gingerbread | ![gingerbread](../images/snowyspirit_gingerbread.png) |
+| # | Gingerbread | ![gingerbread](../images/snowyspirit_gingerbread_block.png) |
 
 ---
 ## Gingerbread Slab
@@ -102,7 +102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gingerbread Vertical Slab | ![gingerbread_vertical_slab](../images/snowyspirit_gingerbread_vertical_slab.png) |
+| - | Gingerbread Vertical Slab | ![gingerbread_vertical_slab](../images/snowyspirit_gingerbread_block.png) |
 
 ---
 ## Gingerbread Stairs
@@ -110,7 +110,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gingerbread | ![gingerbread](../images/snowyspirit_gingerbread.png) |
+| # | Gingerbread | ![gingerbread](../images/snowyspirit_gingerbread_block.png) |
 
 ---
 ## Gingerbread Trapdoor
@@ -118,7 +118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gingerbreads | ![gingerbreads](../images/snowyspirit_gingerbreads.png) |
+| # | Gingerbreads | ![gingerbreads](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gingerbread Vertical Slab
@@ -126,7 +126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 1 | Gingerbread Slab | ![gingerbread_slab](../images/snowyspirit_gingerbread_slab.png) |
+| 1 | Gingerbread Slab | ![gingerbread_slab](../images/snowyspirit_gingerbread_block.png) |
 
 ---
 ## Gingerbread Slab
@@ -134,7 +134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gingerbread Vertical Slab | ![gingerbread_vertical_slab](../images/snowyspirit_gingerbread_vertical_slab.png) |
+| - | Gingerbread Vertical Slab | ![gingerbread_vertical_slab](../images/snowyspirit_gingerbread_block.png) |
 
 ---
 ## Ginger Crate
@@ -150,7 +150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ginger Crate | ![ginger_crate](../images/snowyspirit_ginger_crate.png) |
+| - | Ginger Crate | ![ginger_crate](../images/snowyspirit_ginger_crate_side.png) |
 
 ---
 ## Glow Lights Black
@@ -158,9 +158,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Black | ![dyes/black](../images/snowyspirit_dyes/black.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Blue
@@ -168,9 +168,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/snowyspirit_dyes/blue.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Brown
@@ -178,9 +178,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/snowyspirit_dyes/brown.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Cyan
@@ -188,9 +188,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/snowyspirit_dyes/cyan.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Gray
@@ -198,9 +198,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/snowyspirit_dyes/gray.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Green
@@ -208,9 +208,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Green | ![dyes/green](../images/snowyspirit_dyes/green.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Light Blue
@@ -218,9 +218,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/snowyspirit_dyes/light_blue.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Light Gray
@@ -228,9 +228,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/snowyspirit_dyes/light_gray.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Lime
@@ -238,9 +238,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/snowyspirit_dyes/lime.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Magenta
@@ -248,9 +248,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/snowyspirit_dyes/magenta.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Orange
@@ -258,9 +258,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/snowyspirit_dyes/orange.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Pink
@@ -268,9 +268,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/snowyspirit_dyes/pink.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Prismatic
@@ -278,9 +278,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
-| - | Diamond | ![diamond](../images/snowyspirit_diamond.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
+| - | Diamond | ![diamond](../images/snowyspirit_boat_mask.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Purple
@@ -288,9 +288,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/snowyspirit_dyes/purple.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Red
@@ -298,9 +298,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Red | ![dyes/red](../images/snowyspirit_dyes/red.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights White
@@ -308,9 +308,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/White | ![dyes/white](../images/snowyspirit_dyes/white.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Glow Lights Yellow
@@ -318,9 +318,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/snowyspirit_dyes/yellow.png) |
-| - | String | ![string](../images/snowyspirit_string.png) |
+| - | String | ![string](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Gumdrop Black
@@ -328,7 +328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Black | ![dyes/black](../images/snowyspirit_dyes/black.png) |
 
 ---
@@ -337,7 +337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/snowyspirit_dyes/blue.png) |
 
 ---
@@ -346,7 +346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/snowyspirit_dyes/brown.png) |
 
 ---
@@ -355,7 +355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/snowyspirit_dyes/cyan.png) |
 
 ---
@@ -364,7 +364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/snowyspirit_dyes/gray.png) |
 
 ---
@@ -373,7 +373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Green | ![dyes/green](../images/snowyspirit_dyes/green.png) |
 
 ---
@@ -382,7 +382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/snowyspirit_dyes/light_blue.png) |
 
 ---
@@ -391,7 +391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/snowyspirit_dyes/light_gray.png) |
 
 ---
@@ -400,7 +400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/snowyspirit_dyes/lime.png) |
 
 ---
@@ -409,7 +409,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/snowyspirit_dyes/magenta.png) |
 
 ---
@@ -418,7 +418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/snowyspirit_dyes/orange.png) |
 
 ---
@@ -427,7 +427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/snowyspirit_dyes/pink.png) |
 
 ---
@@ -436,7 +436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/snowyspirit_dyes/purple.png) |
 
 ---
@@ -445,7 +445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Red | ![dyes/red](../images/snowyspirit_dyes/red.png) |
 
 ---
@@ -454,7 +454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/White | ![dyes/white](../images/snowyspirit_dyes/white.png) |
 
 ---
@@ -463,7 +463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/snowyspirit_sugar.png) |
+| - | Sugar | ![sugar](../images/snowyspirit_boat_mask.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/snowyspirit_dyes/yellow.png) |
 
 ---
@@ -480,8 +480,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/snowyspirit_oak_planks.png) |
-| S | Stick | ![stick](../images/snowyspirit_stick.png) |
+| # | Oak Planks | ![oak_planks](../images/snowyspirit_sled_dark_oak.png) |
+| S | Stick | ![stick](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Snow Globe
@@ -489,8 +489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glass | ![glass](../images/snowyspirit_glass.png) |
-| S | Smooth Stone Slab | ![smooth_stone_slab](../images/snowyspirit_smooth_stone_slab.png) |
+| # | Glass | ![glass](../images/snowyspirit_boat_mask.png) |
+| S | Smooth Stone Slab | ![smooth_stone_slab](../images/snowyspirit_boat_mask.png) |
 
 ---
 ## Wreath
@@ -498,6 +498,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Leaves | ![leaves](../images/snowyspirit_leaves.png) |
+| # | Leaves | ![leaves](../images/snowyspirit_boat_mask.png) |
 
 ---

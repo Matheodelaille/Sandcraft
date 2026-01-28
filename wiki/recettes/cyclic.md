@@ -15,8 +15,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
-| o | Blackstone | ![blackstone](../images/cyclic_blackstone.png) |
-| s | Creeper Head | ![creeper_head](../images/cyclic_creeper_head.png) |
+| o | Blackstone | ![blackstone](../images/cyclic_0.png) |
+| s | Creeper Head | ![creeper_head](../images/cyclic_creeper.png) |
 
 ---
 ## Amethyst Shard
@@ -24,7 +24,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_block.png) |
+| - | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Amethyst Axe
@@ -32,8 +32,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Amethyst Hoe
@@ -41,8 +41,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Amethyst Pickaxe
@@ -50,8 +50,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Amethyst Shovel
@@ -59,8 +59,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Amethyst Sword
@@ -68,8 +68,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ##  1000}
@@ -77,7 +77,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Andesite | ![andesite](../images/cyclic_andesite.png) |
+| - | Andesite | ![andesite](../images/cyclic_0.png) |
 
 ---
 ## Andesite
@@ -93,9 +93,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Bone Block | ![bone_block](../images/cyclic_bone_block.png) |
+| i | Bone Block | ![bone_block](../images/cyclic_block_workbench_front.png) |
 | d | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
-| r | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| r | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Antimatter Wand
@@ -104,8 +104,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Dyes/Blue | ![dyes/blue](../images/cyclic_dyes/blue.png) |
-| s | Sponge | ![sponge](../images/cyclic_sponge.png) |
-| g | Sugar | ![sugar](../images/cyclic_sugar.png) |
+| s | Sponge | ![sponge](../images/cyclic_sponge_lava.png) |
+| g | Sugar | ![sugar](../images/cyclic_0.png) |
 
 ---
 ## Anti Beacon
@@ -113,7 +113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Sponge Milk | ![sponge_milk](../images/cyclic_sponge_milk.png) |
+| b | Sponge Milk | ![sponge_milk](../images/cyclic_milk_bottle.png) |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
 | s | Glass/Dark | ![glass/dark](../images/cyclic_glass/dark.png) |
 
@@ -124,7 +124,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | r | Redstone | ![redstone](../images/cyclic_redstone.png) |
-| i | Iron Block | ![iron_block](../images/cyclic_iron_block.png) |
+| i | Iron Block | ![iron_block](../images/cyclic_block_workbench_front.png) |
 | d | Diamond | ![diamond](../images/cyclic_diamond.png) |
 | e | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
@@ -135,7 +135,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
-| d | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
+| d | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
 | r | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
 | f | Fireball | ![fireball](../images/cyclic_fireball.png) |
 
@@ -145,7 +145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Anvil | ![anvil](../images/cyclic_anvil.png) |
+| s | Anvil | ![anvil](../images/cyclic_0.png) |
 | d | Storage Blocks/Iron | ![storage_blocks/iron](../images/cyclic_storage_blocks/iron.png) |
 
 ---
@@ -154,8 +154,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Honey | ![apple_honey](../images/cyclic_apple_honey.png) |
-| c | Bone Block | ![bone_block](../images/cyclic_bone_block.png) |
+| a | Apple Honey | ![apple_honey](../images/cyclic_apple_0.png) |
+| c | Bone Block | ![bone_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Apple Chocolate
@@ -163,8 +163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Honey | ![apple_honey](../images/cyclic_apple_honey.png) |
-| c | Cocoa Beans | ![cocoa_beans](../images/cyclic_cocoa_beans.png) |
+| a | Apple Honey | ![apple_honey](../images/cyclic_apple_0.png) |
+| c | Cocoa Beans | ![cocoa_beans](../images/cyclic_0.png) |
 
 ---
 ## Apple Chorus
@@ -172,9 +172,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_chocolate.png) |
-| c | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus_fruit.png) |
-| s | Sugar | ![sugar](../images/cyclic_sugar.png) |
+| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_0.png) |
+| c | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus.png) |
+| s | Sugar | ![sugar](../images/cyclic_0.png) |
 
 ---
 ## Apple Ender
@@ -182,8 +182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Honey | ![apple_honey](../images/cyclic_apple_honey.png) |
-| c | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
+| a | Apple Honey | ![apple_honey](../images/cyclic_apple_0.png) |
+| c | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
 
 ---
 ## Apple Honey
@@ -191,8 +191,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple | ![apple](../images/cyclic_apple.png) |
-| h | Honey Block | ![honey_block](../images/cyclic_honey_block.png) |
+| a | Apple | ![apple](../images/cyclic_apple_0.png) |
+| h | Honey Block | ![honey_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Apple Iron
@@ -200,8 +200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Honey | ![apple_honey](../images/cyclic_apple_honey.png) |
-| c | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| a | Apple Honey | ![apple_honey](../images/cyclic_apple_0.png) |
+| c | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 
 ---
 ## Apple Lapis
@@ -209,8 +209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Honey | ![apple_honey](../images/cyclic_apple_honey.png) |
-| c | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_lapis_lazuli.png) |
+| a | Apple Honey | ![apple_honey](../images/cyclic_apple_0.png) |
+| c | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_carrot_lapis.png) |
 
 ---
 ## Apple Lofty Stature
@@ -220,8 +220,8 @@
 | :--- | :--- | :--- |
 | a | Dyes/Cyan | ![dyes/cyan](../images/cyclic_dyes/cyan.png) |
 | b | Dyes/Orange | ![dyes/orange](../images/cyclic_dyes/orange.png) |
-| c | Eggs | ![eggs](../images/cyclic_eggs.png) |
-| d | Apple | ![apple](../images/cyclic_apple.png) |
+| c | Eggs | ![eggs](../images/cyclic_0.png) |
+| d | Apple | ![apple](../images/cyclic_apple_0.png) |
 
 ---
 ## Apple Prismarine
@@ -229,8 +229,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Honey | ![apple_honey](../images/cyclic_apple_honey.png) |
-| c | Prismarine Shard | ![prismarine_shard](../images/cyclic_prismarine_shard.png) |
+| a | Apple Honey | ![apple_honey](../images/cyclic_apple_0.png) |
+| c | Prismarine Shard | ![prismarine_shard](../images/cyclic_prismarine.png) |
 
 ---
 ## Apple Sprout
@@ -238,7 +238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple | ![apple](../images/cyclic_apple.png) |
+| a | Apple | ![apple](../images/cyclic_apple_0.png) |
 
 ---
 ## Apple Sprout Diamond
@@ -246,7 +246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_chocolate.png) |
+| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_0.png) |
 | c | Diamond | ![diamond](../images/cyclic_diamond.png) |
 
 ---
@@ -255,7 +255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_chocolate.png) |
+| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_0.png) |
 | c | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -272,8 +272,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| b | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/cyclic_heavy_weighted_pressure_plate.png) |
-| a | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
+| b | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/cyclic_mob_antimagnet_plate_back.png) |
+| a | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
 
 ---
 ## Battery Clay
@@ -281,9 +281,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Copper Ingot | ![copper_ingot](../images/cyclic_copper_ingot.png) |
+| c | Copper Ingot | ![copper_ingot](../images/cyclic_copper.png) |
 | b | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
-| a | Clay Ball | ![clay_ball](../images/cyclic_clay_ball.png) |
+| a | Clay Ball | ![clay_ball](../images/cyclic_battery_clay.png) |
 
 ---
 ## Obsidian
@@ -299,7 +299,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Storage Blocks/Redstone | ![storage_blocks/redstone](../images/cyclic_storage_blocks/redstone.png) |
-| c | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_block.png) |
+| c | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_axe.png) |
 | s | Glass/Dark | ![glass/dark](../images/cyclic_glass/dark.png) |
 
 ---
@@ -322,9 +322,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Leaves | ![leaves](../images/cyclic_leaves.png) |
-| i | Small Flowers | ![small_flowers](../images/cyclic_small_flowers.png) |
-| p | Saplings | ![saplings](../images/cyclic_saplings.png) |
+| s | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
+| i | Small Flowers | ![small_flowers](../images/cyclic_0.png) |
+| p | Saplings | ![saplings](../images/cyclic_0.png) |
 
 ---
 ## Blaze Powder
@@ -340,7 +340,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Yellow | ![dyes/yellow](../images/cyclic_dyes/yellow.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -379,8 +379,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| g | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| f | Stick | ![stick](../images/cyclic_stick.png) |
+| g | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| f | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Boomerang Damage
@@ -389,8 +389,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | d | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| g | Flint | ![flint](../images/cyclic_flint.png) |
-| f | Purple Concrete | ![purple_concrete](../images/cyclic_purple_concrete.png) |
+| g | Flint | ![flint](../images/cyclic_flint_block.png) |
+| f | Purple Concrete | ![purple_concrete](../images/cyclic_conveyor_purple_corner.png) |
 
 ---
 ## Boomerang Stun
@@ -400,7 +400,7 @@
 | :--- | :--- | :--- |
 | d | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
 | g | Redstone | ![redstone](../images/cyclic_redstone.png) |
-| f | Stick | ![stick](../images/cyclic_stick.png) |
+| f | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Breaker
@@ -409,11 +409,11 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | l | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| o | Mossy Cobblestone Slab | ![mossy_cobblestone_slab](../images/cyclic_mossy_cobblestone_slab.png) |
+| o | Mossy Cobblestone Slab | ![mossy_cobblestone_slab](../images/cyclic_mossy.png) |
 | g | Copper Pickaxe | ![copper_pickaxe](../images/cyclic_copper_pickaxe.png) |
 | t | Copper Shovel | ![copper_shovel](../images/cyclic_copper_shovel.png) |
-| s | Dispenser | ![dispenser](../images/cyclic_dispenser.png) |
-| r | Tripwire Hook | ![tripwire_hook](../images/cyclic_tripwire_hook.png) |
+| s | Dispenser | ![dispenser](../images/cyclic_0.png) |
+| r | Tripwire Hook | ![tripwire_hook](../images/cyclic_0.png) |
 
 ---
 ## Build Scepter
@@ -421,8 +421,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
-| g | Lapis Block | ![lapis_block](../images/cyclic_lapis_block.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
+| g | Lapis Block | ![lapis_block](../images/cyclic_block_workbench_front.png) |
 | o | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -431,8 +431,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Basalt | ![basalt](../images/cyclic_basalt.png) |
-| - | Stone Button | ![stone_button](../images/cyclic_stone_button.png) |
+| - | Basalt | ![basalt](../images/cyclic_0.png) |
+| - | Stone Button | ![stone_button](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Button Blackstone
@@ -440,8 +440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone | ![blackstone](../images/cyclic_blackstone.png) |
-| - | Stone Button | ![stone_button](../images/cyclic_stone_button.png) |
+| - | Blackstone | ![blackstone](../images/cyclic_0.png) |
+| - | Stone Button | ![stone_button](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Cable Wrench
@@ -449,9 +449,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | t | Redstone | ![redstone](../images/cyclic_redstone.png) |
-| h | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/cyclic_heavy_weighted_pressure_plate.png) |
+| h | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/cyclic_mob_antimagnet_plate_back.png) |
 
 ---
 ## Candle
@@ -459,7 +459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 
 ---
 ## Black Candle
@@ -467,7 +467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Black | ![dyes/black](../images/cyclic_dyes/black.png) |
 
 ---
@@ -476,7 +476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/cyclic_dyes/blue.png) |
 
 ---
@@ -485,7 +485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/cyclic_dyes/brown.png) |
 
 ---
@@ -494,7 +494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/cyclic_dyes/cyan.png) |
 
 ---
@@ -503,7 +503,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/cyclic_dyes/gray.png) |
 
 ---
@@ -512,7 +512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Green | ![dyes/green](../images/cyclic_dyes/green.png) |
 
 ---
@@ -521,7 +521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/cyclic_dyes/light_blue.png) |
 
 ---
@@ -530,7 +530,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/cyclic_dyes/light_gray.png) |
 
 ---
@@ -539,7 +539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/cyclic_dyes/lime.png) |
 
 ---
@@ -548,7 +548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/cyclic_dyes/magenta.png) |
 
 ---
@@ -557,7 +557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/cyclic_dyes/orange.png) |
 
 ---
@@ -566,7 +566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/cyclic_dyes/pink.png) |
 
 ---
@@ -575,7 +575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/cyclic_dyes/purple.png) |
 
 ---
@@ -584,7 +584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Red | ![dyes/red](../images/cyclic_dyes/red.png) |
 
 ---
@@ -593,7 +593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/White | ![dyes/white](../images/cyclic_dyes/white.png) |
 
 ---
@@ -602,7 +602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/cyclic_dyes/yellow.png) |
 
 ---
@@ -611,8 +611,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Paper | ![paper](../images/cyclic_paper.png) |
-| b | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
+| p | Paper | ![paper](../images/cyclic_carbon_paper.png) |
+| b | Charcoal | ![charcoal](../images/cyclic_0.png) |
 
 ---
 ## String
@@ -627,9 +627,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Golden Carrot | ![golden_carrot](../images/cyclic_golden_carrot.png) |
-| d | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| k | Cake | ![cake](../images/cyclic_cake.png) |
+| c | Golden Carrot | ![golden_carrot](../images/cyclic_carrot_diamond.png) |
+| d | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| k | Cake | ![cake](../images/cyclic_inventory_cake.png) |
 
 ---
 ## Cask
@@ -637,9 +637,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Barrel | ![barrel](../images/cyclic_barrel.png) |
-| r | Logs | ![logs](../images/cyclic_logs.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| s | Barrel | ![barrel](../images/cyclic_0.png) |
+| r | Logs | ![logs](../images/cyclic_0.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Cask
@@ -698,8 +698,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| i | Iron Block | ![iron_block](../images/cyclic_iron_block.png) |
-| w | Spider Eye | ![spider_eye](../images/cyclic_spider_eye.png) |
+| i | Iron Block | ![iron_block](../images/cyclic_block_workbench_front.png) |
+| w | Spider Eye | ![spider_eye](../images/cyclic_ender_eye_reuse.png) |
 
 ---
 ## Charm Antipotion
@@ -707,9 +707,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| g | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| f | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_fermented_spider_eye.png) |
+| x | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| g | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| f | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_ender_eye_reuse.png) |
 | a | Storage Blocks/Ender Pearl | ![storage_blocks/ender_pearl](../images/cyclic_storage_blocks/ender_pearl.png) |
 
 ---
@@ -719,10 +719,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Emerald | ![emerald](../images/cyclic_emerald.png) |
-| f | Blaze Powder | ![blaze_powder](../images/cyclic_blaze_powder.png) |
+| f | Blaze Powder | ![blaze_powder](../images/cyclic_0.png) |
 | a | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| b | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue_concrete_powder.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| b | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Charm Boostpotion
@@ -730,9 +730,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| f | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_fermented_spider_eye.png) |
-| a | Apple Lapis | ![apple_lapis](../images/cyclic_apple_lapis.png) |
+| g | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| f | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_ender_eye_reuse.png) |
+| a | Apple Lapis | ![apple_lapis](../images/cyclic_apple_0.png) |
 | b | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -741,8 +741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| d | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_lime_concrete_powder.png) |
+| g | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| d | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_conveyor_lime_corner.png) |
 | f | Fireball | ![fireball](../images/cyclic_fireball.png) |
 | a | Storage Blocks/Ender Pearl | ![storage_blocks/ender_pearl](../images/cyclic_storage_blocks/ender_pearl.png) |
 | b | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
@@ -754,7 +754,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Diamond | ![diamond](../images/cyclic_diamond.png) |
-| f | Blaze Powder | ![blaze_powder](../images/cyclic_blaze_powder.png) |
+| f | Blaze Powder | ![blaze_powder](../images/cyclic_0.png) |
 | a | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -764,7 +764,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| i | Iron Block | ![iron_block](../images/cyclic_iron_block.png) |
+| i | Iron Block | ![iron_block](../images/cyclic_block_workbench_front.png) |
 | w | Fireball | ![fireball](../images/cyclic_fireball.png) |
 
 ---
@@ -773,9 +773,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Feathers | ![feathers](../images/cyclic_feathers.png) |
+| f | Feathers | ![feathers](../images/cyclic_0.png) |
 | g | Ingots/Gold | ![ingots/gold](../images/cyclic_ingots/gold.png) |
-| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye.png) |
+| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye_reuse.png) |
 | q | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -784,8 +784,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Glowstone | ![glowstone](../images/cyclic_glowstone.png) |
-| f | Purple Wool | ![purple_wool](../images/cyclic_purple_wool.png) |
+| g | Glowstone | ![glowstone](../images/cyclic_0.png) |
+| f | Purple Wool | ![purple_wool](../images/cyclic_conveyor_purple_corner.png) |
 | a | Sleeping Mat | ![sleeping_mat](../images/cyclic_sleeping_mat.png) |
 
 ---
@@ -795,7 +795,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Diamond | ![diamond](../images/cyclic_diamond.png) |
-| f | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| f | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 | a | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
 ---
@@ -804,10 +804,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Cobweb | ![cobweb](../images/cyclic_cobweb.png) |
-| g | Nether Bricks | ![nether_bricks](../images/cyclic_nether_bricks.png) |
-| f | Feathers | ![feathers](../images/cyclic_feathers.png) |
-| a | Diamond Boots | ![diamond_boots](../images/cyclic_diamond_boots.png) |
+| s | Cobweb | ![cobweb](../images/cyclic_0.png) |
+| g | Nether Bricks | ![nether_bricks](../images/cyclic_mattock_nether.png) |
+| f | Feathers | ![feathers](../images/cyclic_0.png) |
+| a | Diamond Boots | ![diamond_boots](../images/cyclic_apple_diamond_7.png) |
 
 ---
 ## Charm Luck
@@ -816,9 +816,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Redstone | ![redstone](../images/cyclic_redstone.png) |
-| f | Brain Coral Block | ![brain_coral_block](../images/cyclic_brain_coral_block.png) |
+| f | Brain Coral Block | ![brain_coral_block](../images/cyclic_block_workbench_front.png) |
 | a | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
-| b | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/cyclic_light_weighted_pressure_plate.png) |
+| b | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/cyclic_conveyor_light_blue_corner.png) |
 
 ---
 ## Charm Magicdefense
@@ -826,9 +826,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Polished Blackstone Pressure Plate | ![polished_blackstone_pressure_plate](../images/cyclic_polished_blackstone_pressure_plate.png) |
+| c | Polished Blackstone Pressure Plate | ![polished_blackstone_pressure_plate](../images/cyclic_mob_antimagnet_plate_back.png) |
 | g | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| f | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
+| f | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
 | a | Heart Empty | ![heart_empty](../images/cyclic_heart_empty.png) |
 
 ---
@@ -839,7 +839,7 @@
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 | i | Storage Blocks/Iron | ![storage_blocks/iron](../images/cyclic_storage_blocks/iron.png) |
-| w | Sugar | ![sugar](../images/cyclic_sugar.png) |
+| w | Sugar | ![sugar](../images/cyclic_0.png) |
 
 ---
 ## Charm Starvation
@@ -847,10 +847,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Cookie | ![cookie](../images/cyclic_cookie.png) |
-| f | Cake | ![cake](../images/cyclic_cake.png) |
-| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_chocolate.png) |
-| i | Ghast Tear | ![ghast_tear](../images/cyclic_ghast_tear.png) |
+| g | Cookie | ![cookie](../images/cyclic_0.png) |
+| f | Cake | ![cake](../images/cyclic_inventory_cake.png) |
+| a | Apple Chocolate | ![apple_chocolate](../images/cyclic_apple_0.png) |
+| i | Ghast Tear | ![ghast_tear](../images/cyclic_0.png) |
 
 ---
 ## Charm Stealthpotion
@@ -859,8 +859,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
-| g | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| f | Gunpowder | ![gunpowder](../images/cyclic_gunpowder.png) |
+| g | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| f | Gunpowder | ![gunpowder](../images/cyclic_0.png) |
 | a | Redstone | ![redstone](../images/cyclic_redstone.png) |
 
 ---
@@ -869,9 +869,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| f | End Crystal | ![end_crystal](../images/cyclic_end_crystal.png) |
-| a | Apple Ender | ![apple_ender](../images/cyclic_apple_ender.png) |
+| g | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| f | End Crystal | ![end_crystal](../images/cyclic_conveyor_end.png) |
+| a | Apple Ender | ![apple_ender](../images/cyclic_apple_0.png) |
 
 ---
 ## Charm Torch
@@ -879,9 +879,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coal Block | ![coal_block](../images/cyclic_coal_block.png) |
+| c | Coal Block | ![coal_block](../images/cyclic_block_workbench_front.png) |
 | t | Torch | ![torch](../images/cyclic_torch.png) |
-| i | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
+| i | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
 | a | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -890,10 +890,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Coal Block | ![coal_block](../images/cyclic_coal_block.png) |
+| c | Coal Block | ![coal_block](../images/cyclic_block_workbench_front.png) |
 | t | Torch | ![torch](../images/cyclic_torch.png) |
 | i | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
-| a | Charm Torch | ![charm_torch](../images/cyclic_charm_torch.png) |
+| a | Charm Torch | ![charm_torch](../images/cyclic_charm_home.png) |
 
 ---
 ## Charm Ultimate
@@ -901,11 +901,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Gray Concrete | ![gray_concrete](../images/cyclic_gray_concrete.png) |
-| w | Charm Wither | ![charm_wither](../images/cyclic_charm_wither.png) |
-| f | Charm Fire | ![charm_fire](../images/cyclic_charm_fire.png) |
-| a | Charm Antidote | ![charm_antidote](../images/cyclic_charm_antidote.png) |
-| v | Charm Void | ![charm_void](../images/cyclic_charm_void.png) |
+| s | Gray Concrete | ![gray_concrete](../images/cyclic_conveyor_gray_corner.png) |
+| w | Charm Wither | ![charm_wither](../images/cyclic_charm_home.png) |
+| f | Charm Fire | ![charm_fire](../images/cyclic_charm_home.png) |
+| a | Charm Antidote | ![charm_antidote](../images/cyclic_antidote.png) |
+| v | Charm Void | ![charm_void](../images/cyclic_charm_home.png) |
 | g | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
 ---
@@ -914,10 +914,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| p | Poisonous Potato | ![poisonous_potato](../images/cyclic_poisonous_potato.png) |
-| f | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_fermented_spider_eye.png) |
-| a | Apple Bone | ![apple_bone](../images/cyclic_apple_bone.png) |
+| g | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| p | Poisonous Potato | ![poisonous_potato](../images/cyclic_0.png) |
+| f | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_ender_eye_reuse.png) |
+| a | Apple Bone | ![apple_bone](../images/cyclic_apple_0.png) |
 
 ---
 ## Charm Void
@@ -926,8 +926,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| i | End Stone | ![end_stone](../images/cyclic_end_stone.png) |
-| w | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| i | End Stone | ![end_stone](../images/cyclic_conveyor_end.png) |
+| w | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Charm Water
@@ -935,10 +935,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Blue Orchid | ![blue_orchid](../images/cyclic_blue_orchid.png) |
-| f | Lily Pad | ![lily_pad](../images/cyclic_lily_pad.png) |
-| i | Gold Ingot | ![gold_ingot](../images/cyclic_gold_ingot.png) |
-| a | Apple Prismarine | ![apple_prismarine](../images/cyclic_apple_prismarine.png) |
+| e | Blue Orchid | ![blue_orchid](../images/cyclic_blue.png) |
+| f | Lily Pad | ![lily_pad](../images/cyclic_0.png) |
+| i | Gold Ingot | ![gold_ingot](../images/cyclic_gold.png) |
+| a | Apple Prismarine | ![apple_prismarine](../images/cyclic_apple_0.png) |
 
 ---
 ## Charm Wing
@@ -946,9 +946,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Feathers | ![feathers](../images/cyclic_feathers.png) |
-| i | Leather | ![leather](../images/cyclic_leather.png) |
-| e | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| w | Feathers | ![feathers](../images/cyclic_0.png) |
+| i | Leather | ![leather](../images/cyclic_0.png) |
+| e | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 | g | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -958,8 +958,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| i | Iron Block | ![iron_block](../images/cyclic_iron_block.png) |
-| w | Wither Rose | ![wither_rose](../images/cyclic_wither_rose.png) |
+| i | Iron Block | ![iron_block](../images/cyclic_block_workbench_front.png) |
+| w | Wither Rose | ![wither_rose](../images/cyclic_wither.png) |
 
 ---
 ## Charm World
@@ -967,8 +967,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Feathers | ![feathers](../images/cyclic_feathers.png) |
-| g | Gold Ingot | ![gold_ingot](../images/cyclic_gold_ingot.png) |
+| f | Feathers | ![feathers](../images/cyclic_0.png) |
+| g | Gold Ingot | ![gold_ingot](../images/cyclic_gold.png) |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 | q | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/cyclic_storage_blocks/quartz.png) |
 
@@ -980,7 +980,7 @@
 | :--- | :--- | :--- |
 | x | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
 | g | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| d | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_gray_concrete_powder.png) |
+| d | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_conveyor_gray_corner.png) |
 | a | Experience Food | ![experience_food](../images/cyclic_experience_food.png) |
 
 ---
@@ -989,9 +989,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Vine | ![vine](../images/cyclic_vine.png) |
-| f | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_lapis_lazuli.png) |
-| a | Charm Xp Blocker | ![charm_xp_blocker](../images/cyclic_charm_xp_blocker.png) |
+| g | Vine | ![vine](../images/cyclic_0.png) |
+| f | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_carrot_lapis.png) |
+| a | Charm Xp Blocker | ![charm_xp_blocker](../images/cyclic_xp_blocker.png) |
 
 ---
 ## Stick
@@ -1006,9 +1006,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Glowstone Dust | ![glowstone_dust](../images/cyclic_glowstone_dust.png) |
-| l | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus_fruit.png) |
-| a | Apple Ender | ![apple_ender](../images/cyclic_apple_ender.png) |
+| g | Glowstone Dust | ![glowstone_dust](../images/cyclic_0.png) |
+| l | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus.png) |
+| a | Apple Ender | ![apple_ender](../images/cyclic_apple_0.png) |
 
 ---
 ## Chorus Spectral
@@ -1016,9 +1016,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_fermented_spider_eye.png) |
-| l | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus_fruit.png) |
-| a | Apple Iron | ![apple_iron](../images/cyclic_apple_iron.png) |
+| g | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_ender_eye_reuse.png) |
+| l | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus.png) |
+| a | Apple Iron | ![apple_iron](../images/cyclic_apple_0.png) |
 
 ---
 ## Clay Ball
@@ -1026,7 +1026,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Clay | ![clay](../images/cyclic_clay.png) |
+| - | Clay | ![clay](../images/cyclic_battery_clay.png) |
 
 ---
 ## Clock
@@ -1036,7 +1036,7 @@
 | :--- | :--- | :--- |
 | i | Nuggets/Iron | ![nuggets/iron](../images/cyclic_nuggets/iron.png) |
 | r | Dusts/Redstone | ![dusts/redstone](../images/cyclic_dusts/redstone.png) |
-| q | Repeater | ![repeater](../images/cyclic_repeater.png) |
+| q | Repeater | ![repeater](../images/cyclic_0.png) |
 
 ---
 ## Cloud
@@ -1044,9 +1044,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Cobweb | ![cobweb](../images/cyclic_cobweb.png) |
-| p | Sea Pickle | ![sea_pickle](../images/cyclic_sea_pickle.png) |
-| c | Snowball | ![snowball](../images/cyclic_snowball.png) |
+| m | Cobweb | ![cobweb](../images/cyclic_0.png) |
+| p | Sea Pickle | ![sea_pickle](../images/cyclic_0.png) |
+| c | Snowball | ![snowball](../images/cyclic_0.png) |
 
 ---
 ## Cloud Membrane
@@ -1070,7 +1070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Coarse Dirt
@@ -1078,7 +1078,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Gravel
@@ -1093,9 +1093,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_lapis_lazuli.png) |
-| g | Dropper | ![dropper](../images/cyclic_dropper.png) |
-| r | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| l | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_carrot_lapis.png) |
+| g | Dropper | ![dropper](../images/cyclic_0.png) |
+| r | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 | h | Hopper | ![hopper](../images/cyclic_hopper.png) |
 | q | Flint Block | ![flint_block](../images/cyclic_flint_block.png) |
 
@@ -1109,7 +1109,7 @@
 | g | Bucket | ![bucket](../images/cyclic_bucket.png) |
 | r | Storage Blocks/Iron | ![storage_blocks/iron](../images/cyclic_storage_blocks/iron.png) |
 | h | Hopper | ![hopper](../images/cyclic_hopper.png) |
-| q | Comparator | ![comparator](../images/cyclic_comparator.png) |
+| q | Comparator | ![comparator](../images/cyclic_0.png) |
 
 ---
 ## Compressed Cobblestone
@@ -1117,15 +1117,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Cobblestone
@@ -1133,7 +1133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Compressed Cobblestone | ![compressed_cobblestone](../images/cyclic_compressed_cobblestone.png) |
+| - | Compressed Cobblestone | ![compressed_cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Computer Shape
@@ -1141,10 +1141,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Repeater | ![repeater](../images/cyclic_repeater.png) |
+| i | Repeater | ![repeater](../images/cyclic_0.png) |
 | p | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
-| f | Iron Block | ![iron_block](../images/cyclic_iron_block.png) |
-| o | Green Concrete | ![green_concrete](../images/cyclic_green_concrete.png) |
+| f | Iron Block | ![iron_block](../images/cyclic_block_workbench_front.png) |
+| o | Green Concrete | ![green_concrete](../images/cyclic_conveyor_green_corner.png) |
 
 ---
 ## Black Concrete Powder
@@ -1376,7 +1376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| r | Rail | ![rail](../images/cyclic_rail.png) |
+| r | Rail | ![rail](../images/cyclic_0.png) |
 | c | Dusts/Redstone | ![dusts/redstone](../images/cyclic_dusts/redstone.png) |
 
 ---
@@ -1385,7 +1385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -1411,7 +1411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -1460,7 +1460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -1477,7 +1477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -1487,7 +1487,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | n | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| t | Soul Torch | ![soul_torch](../images/cyclic_soul_torch.png) |
+| t | Soul Torch | ![soul_torch](../images/cyclic_copper_soul_lantern.png) |
 
 ---
 ## Copper Sword
@@ -1495,7 +1495,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -1504,10 +1504,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Crafting Table | ![crafting_table](../images/cyclic_crafting_table.png) |
+| c | Crafting Table | ![crafting_table](../images/cyclic_crafting_bag.png) |
 | d | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| x | Sticky Piston | ![sticky_piston](../images/cyclic_sticky_piston.png) |
-| p | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_block.png) |
+| x | Sticky Piston | ![sticky_piston](../images/cyclic_0.png) |
+| p | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Crafting Bag
@@ -1525,7 +1525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| t | Crafting Table | ![crafting_table](../images/cyclic_crafting_table.png) |
+| t | Crafting Table | ![crafting_table](../images/cyclic_crafting_bag.png) |
 | s | Rods/Wooden | ![rods/wooden](../images/cyclic_rods/wooden.png) |
 
 ---
@@ -1534,9 +1534,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
+| s | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
 | r | Chests/Wooden | ![chests/wooden](../images/cyclic_chests/wooden.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Crate Mini
@@ -1544,8 +1544,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Signs | ![signs](../images/cyclic_signs.png) |
-| r | Stick | ![stick](../images/cyclic_stick.png) |
+| s | Signs | ![signs](../images/cyclic_0.png) |
+| r | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Crusher
@@ -1573,7 +1573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Diamond Boots | ![diamond_boots](../images/cyclic_diamond_boots.png) |
+| d | Diamond Boots | ![diamond_boots](../images/cyclic_apple_diamond_7.png) |
 | c | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
 ---
@@ -1582,7 +1582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Diamond Chestplate | ![diamond_chestplate](../images/cyclic_diamond_chestplate.png) |
+| d | Diamond Chestplate | ![diamond_chestplate](../images/cyclic_apple_diamond_7.png) |
 | c | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
 ---
@@ -1591,7 +1591,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Diamond Helmet | ![diamond_helmet](../images/cyclic_diamond_helmet.png) |
+| d | Diamond Helmet | ![diamond_helmet](../images/cyclic_apple_diamond_7.png) |
 | c | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
 ---
@@ -1609,7 +1609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Diamond Leggings | ![diamond_leggings](../images/cyclic_diamond_leggings.png) |
+| d | Diamond Leggings | ![diamond_leggings](../images/cyclic_apple_diamond_7.png) |
 | c | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 
 ---
@@ -1645,7 +1645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Tinted Glass | ![tinted_glass](../images/cyclic_tinted_glass.png) |
+| item | Tinted Glass | ![tinted_glass](../images/cyclic_dark_glass.png) |
 
 ---
 ## Dark Glass Connected
@@ -1670,7 +1670,7 @@
 | :--- | :--- | :--- |
 | r | Dusts/Redstone | ![dusts/redstone](../images/cyclic_dusts/redstone.png) |
 | q | Gems/Quartz | ![gems/quartz](../images/cyclic_gems/quartz.png) |
-| c | Observer | ![observer](../images/cyclic_observer.png) |
+| c | Observer | ![observer](../images/cyclic_0.png) |
 | d | Gems/Diamond | ![gems/diamond](../images/cyclic_gems/diamond.png) |
 
 ---
@@ -1681,7 +1681,7 @@
 | :--- | :--- | :--- |
 | r | Dusts/Redstone | ![dusts/redstone](../images/cyclic_dusts/redstone.png) |
 | q | Gems/Quartz | ![gems/quartz](../images/cyclic_gems/quartz.png) |
-| c | Observer | ![observer](../images/cyclic_observer.png) |
+| c | Observer | ![observer](../images/cyclic_0.png) |
 | d | Gems/Lapis | ![gems/lapis](../images/cyclic_gems/lapis.png) |
 
 ---
@@ -1690,9 +1690,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| r | Daylight Detector | ![daylight_detector](../images/cyclic_daylight_detector.png) |
-| q | Daylight Detector | ![daylight_detector](../images/cyclic_daylight_detector.png) |
-| c | Observer | ![observer](../images/cyclic_observer.png) |
+| r | Daylight Detector | ![daylight_detector](../images/cyclic_0.png) |
+| q | Daylight Detector | ![daylight_detector](../images/cyclic_0.png) |
+| c | Observer | ![observer](../images/cyclic_0.png) |
 
 ---
 ## Iron Nugget
@@ -1707,9 +1707,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| r | Daylight Detector | ![daylight_detector](../images/cyclic_daylight_detector.png) |
-| q | Observer | ![observer](../images/cyclic_observer.png) |
-| c | Tripwire Hook | ![tripwire_hook](../images/cyclic_tripwire_hook.png) |
+| r | Daylight Detector | ![daylight_detector](../images/cyclic_0.png) |
+| q | Observer | ![observer](../images/cyclic_0.png) |
+| c | Tripwire Hook | ![tripwire_hook](../images/cyclic_0.png) |
 
 ---
 ## Diamond Carrot Health
@@ -1717,7 +1717,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Golden Carrot | ![golden_carrot](../images/cyclic_golden_carrot.png) |
+| c | Golden Carrot | ![golden_carrot](../images/cyclic_carrot_diamond.png) |
 | d | Diamond | ![diamond](../images/cyclic_diamond.png) |
 
 ---
@@ -1733,7 +1733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| t | Stone Crafting Materials | ![stone_crafting_materials](../images/cyclic_stone_crafting_materials.png) |
+| t | Stone Crafting Materials | ![stone_crafting_materials](../images/cyclic_crafting_bag.png) |
 | s | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 
 ---
@@ -1742,7 +1742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diorite | ![diorite](../images/cyclic_diorite.png) |
+| - | Diorite | ![diorite](../images/cyclic_0.png) |
 
 ---
 ## Diorite
@@ -1758,7 +1758,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Coarse Dirt
@@ -1773,7 +1773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Disenchanter
@@ -1783,8 +1783,8 @@
 | :--- | :--- | :--- |
 | e | Storage Blocks/Emerald | ![storage_blocks/emerald](../images/cyclic_storage_blocks/emerald.png) |
 | a | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
-| t | Enchanting Table | ![enchanting_table](../images/cyclic_enchanting_table.png) |
-| o | Obsidian Pressure Plate | ![obsidian_pressure_plate](../images/cyclic_obsidian_pressure_plate.png) |
+| t | Enchanting Table | ![enchanting_table](../images/cyclic_0.png) |
+| o | Obsidian Pressure Plate | ![obsidian_pressure_plate](../images/cyclic_gem_obsidian.png) |
 
 ---
 ## Dispenser
@@ -1792,9 +1792,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| r | Dropper | ![dropper](../images/cyclic_dropper.png) |
-| s | String | ![string](../images/cyclic_string.png) |
-| t | Stick | ![stick](../images/cyclic_stick.png) |
+| r | Dropper | ![dropper](../images/cyclic_0.png) |
+| s | String | ![string](../images/cyclic_0.png) |
+| t | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Doorbell
@@ -1802,8 +1802,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Wooden Buttons | ![wooden_buttons](../images/cyclic_wooden_buttons.png) |
-| r | Note Block | ![note_block](../images/cyclic_note_block.png) |
+| i | Wooden Buttons | ![wooden_buttons](../images/cyclic_0.png) |
+| r | Note Block | ![note_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Dropper
@@ -1811,7 +1811,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Dropper | ![dropper](../images/cyclic_dropper.png) |
+| d | Dropper | ![dropper](../images/cyclic_0.png) |
 | g | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 | p | Storage Blocks/Iron | ![storage_blocks/iron](../images/cyclic_storage_blocks/iron.png) |
@@ -1997,9 +1997,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye.png) |
+| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye_reuse.png) |
 | d | Storage Blocks/Quartz | ![storage_blocks/quartz](../images/cyclic_storage_blocks/quartz.png) |
-| g | Redstone Lamp | ![redstone_lamp](../images/cyclic_redstone_lamp.png) |
+| g | Redstone Lamp | ![redstone_lamp](../images/cyclic_carrot_redstone.png) |
 
 ---
 ## Emerald Axe
@@ -2007,7 +2007,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -2024,7 +2024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Golden Carrot | ![golden_carrot](../images/cyclic_golden_carrot.png) |
+| c | Golden Carrot | ![golden_carrot](../images/cyclic_carrot_diamond.png) |
 | d | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -2049,7 +2049,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -2073,7 +2073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -2082,7 +2082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -2091,7 +2091,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | c | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -2100,9 +2100,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
-| s | Ender Chest | ![ender_chest](../images/cyclic_ender_chest.png) |
+| p | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
+| s | Ender Chest | ![ender_chest](../images/cyclic_carrot_ender.png) |
 | q | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -2111,9 +2111,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Book | ![book](../images/cyclic_book.png) |
-| c | Eye Redstone | ![eye_redstone](../images/cyclic_eye_redstone.png) |
-| p | End Rod | ![end_rod](../images/cyclic_end_rod.png) |
+| a | Book | ![book](../images/cyclic_ender_book.png) |
+| c | Eye Redstone | ![eye_redstone](../images/cyclic_carrot_redstone.png) |
+| p | End Rod | ![end_rod](../images/cyclic_conveyor_end.png) |
 
 ---
 ## Ender Controller
@@ -2121,10 +2121,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
+| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
-| p | Purpur Block | ![purpur_block](../images/cyclic_purpur_block.png) |
-| b | Ender Shelf | ![ender_shelf](../images/cyclic_ender_shelf.png) |
+| p | Purpur Block | ![purpur_block](../images/cyclic_block_workbench_front.png) |
+| b | Ender Shelf | ![ender_shelf](../images/cyclic_ender_shelf_front.png) |
 
 ---
 ## Ender Pearl
@@ -2139,8 +2139,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye.png) |
-| s | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
+| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye_reuse.png) |
+| s | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
 
 ---
 ## Ender Fishing
@@ -2148,8 +2148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| - | Fishing Rod | ![fishing_rod](../images/cyclic_fishing_rod.png) |
+| - | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| - | Fishing Rod | ![fishing_rod](../images/cyclic_ender_fishing.png) |
 
 ---
 ## Ender Item Shelf
@@ -2157,7 +2157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Wooden Pressure Plates | ![wooden_pressure_plates](../images/cyclic_wooden_pressure_plates.png) |
+| s | Wooden Pressure Plates | ![wooden_pressure_plates](../images/cyclic_0.png) |
 
 ---
 ## Ender Pearl Mounted
@@ -2165,9 +2165,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| r | Gold Block | ![gold_block](../images/cyclic_gold_block.png) |
-| s | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
+| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| r | Gold Block | ![gold_block](../images/cyclic_block_workbench_front.png) |
+| s | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
 
 ---
 ## Ender Pearl Mounted
@@ -2175,8 +2175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| r | Saddle | ![saddle](../images/cyclic_saddle.png) |
+| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| r | Saddle | ![saddle](../images/cyclic_0.png) |
 | s | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -2185,8 +2185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| r | Lapis Block | ![lapis_block](../images/cyclic_lapis_block.png) |
+| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| r | Lapis Block | ![lapis_block](../images/cyclic_block_workbench_front.png) |
 | s | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -2195,9 +2195,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| r | Lapis Block | ![lapis_block](../images/cyclic_lapis_block.png) |
-| s | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
+| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| r | Lapis Block | ![lapis_block](../images/cyclic_block_workbench_front.png) |
+| s | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
 
 ---
 ## Ender Shelf
@@ -2205,8 +2205,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Purpur Block | ![purpur_block](../images/cyclic_purpur_block.png) |
-| b | Bookshelves | ![bookshelves](../images/cyclic_bookshelves.png) |
+| p | Purpur Block | ![purpur_block](../images/cyclic_block_workbench_front.png) |
+| b | Bookshelves | ![bookshelves](../images/cyclic_0.png) |
 
 ---
 ## Ender Torch
@@ -2214,7 +2214,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leaves | ![leaves](../images/cyclic_leaves.png) |
+| - | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
 | - | Torch | ![torch](../images/cyclic_torch.png) |
 
 ---
@@ -2237,7 +2237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stone Brick Stairs | ![stone_brick_stairs](../images/cyclic_stone_brick_stairs.png) |
+| s | Stone Brick Stairs | ![stone_brick_stairs](../images/cyclic_mattock_stone.png) |
 | i | Redstone | ![redstone](../images/cyclic_redstone.png) |
 
 ---
@@ -2247,7 +2247,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Gray | ![dyes/gray](../images/cyclic_dyes/gray.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -2264,10 +2264,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Cobweb | ![cobweb](../images/cyclic_cobweb.png) |
+| w | Cobweb | ![cobweb](../images/cyclic_0.png) |
 | a | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| d | Blaze Rod | ![blaze_rod](../images/cyclic_blaze_rod.png) |
-| c | Purple Stained Glass | ![purple_stained_glass](../images/cyclic_purple_stained_glass.png) |
+| d | Blaze Rod | ![blaze_rod](../images/cyclic_0.png) |
+| c | Purple Stained Glass | ![purple_stained_glass](../images/cyclic_conveyor_purple_corner.png) |
 
 ---
 ## Experience Pylon
@@ -2275,12 +2275,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| v | Vine | ![vine](../images/cyclic_vine.png) |
+| v | Vine | ![vine](../images/cyclic_0.png) |
 | h | Hopper | ![hopper](../images/cyclic_hopper.png) |
 | i | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 | g | Dyes/Lime | ![dyes/lime](../images/cyclic_dyes/lime.png) |
 | r | Fireball | ![fireball](../images/cyclic_fireball.png) |
-| s | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| s | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Eye Redstone
@@ -2288,7 +2288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye.png) |
+| e | Ender Eye | ![ender_eye](../images/cyclic_ender_eye_reuse.png) |
 
 ---
 ## Ender Eye
@@ -2296,7 +2296,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Eye Redstone | ![eye_redstone](../images/cyclic_eye_redstone.png) |
+| e | Eye Redstone | ![eye_redstone](../images/cyclic_carrot_redstone.png) |
 
 ---
 ## Eye Teleport
@@ -2304,7 +2304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
+| e | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
 
 ---
 ## Ender Pearl
@@ -2312,7 +2312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| e | Eye Teleport | ![eye_teleport](../images/cyclic_eye_teleport.png) |
+| e | Eye Teleport | ![eye_teleport](../images/cyclic_ender_eye_reuse.png) |
 
 ---
 ## Fan
@@ -2320,9 +2320,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
-| r | Repeater | ![repeater](../images/cyclic_repeater.png) |
-| s | Stone Slab | ![stone_slab](../images/cyclic_stone_slab.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
+| r | Repeater | ![repeater](../images/cyclic_0.png) |
+| s | Stone Slab | ![stone_slab](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Fan Slab
@@ -2330,7 +2330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| f | Fan | ![fan](../images/cyclic_fan.png) |
+| f | Fan | ![fan](../images/cyclic_fan_blades_off.png) |
 | s | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 
 ---
@@ -2347,7 +2347,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Purple | ![dyes/purple](../images/cyclic_dyes/purple.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -2364,7 +2364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Fire Charge | ![fire_charge](../images/cyclic_fire_charge.png) |
+| item | Fire Charge | ![fire_charge](../images/cyclic_fire.png) |
 
 ---
 ## Fireball Dark
@@ -2373,8 +2373,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fireball | ![fireball](../images/cyclic_fireball.png) |
-| - | Dark Prismarine | ![dark_prismarine](../images/cyclic_dark_prismarine.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus_fruit.png) |
+| - | Dark Prismarine | ![dark_prismarine](../images/cyclic_dark_e.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus.png) |
 
 ---
 ## Fireplace
@@ -2382,8 +2382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Brick Slab | ![brick_slab](../images/cyclic_brick_slab.png) |
-| r | Netherrack | ![netherrack](../images/cyclic_netherrack.png) |
+| b | Brick Slab | ![brick_slab](../images/cyclic_0.png) |
+| r | Netherrack | ![netherrack](../images/cyclic_0.png) |
 | f | Fireball | ![fireball](../images/cyclic_fireball.png) |
 
 ---
@@ -2392,9 +2392,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Tripwire Hook | ![tripwire_hook](../images/cyclic_tripwire_hook.png) |
+| w | Tripwire Hook | ![tripwire_hook](../images/cyclic_0.png) |
 | r | Dyes/Red | ![dyes/red](../images/cyclic_dyes/red.png) |
-| i | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/cyclic_heavy_weighted_pressure_plate.png) |
+| i | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/cyclic_mob_antimagnet_plate_back.png) |
 
 ---
 ## Fire Scepter
@@ -2404,8 +2404,8 @@
 | :--- | :--- | :--- |
 | g | Fireball | ![fireball](../images/cyclic_fireball.png) |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
-| n | Gold Block | ![gold_block](../images/cyclic_gold_block.png) |
-| s | Blaze Rod | ![blaze_rod](../images/cyclic_blaze_rod.png) |
+| n | Gold Block | ![gold_block](../images/cyclic_block_workbench_front.png) |
+| s | Blaze Rod | ![blaze_rod](../images/cyclic_0.png) |
 
 ---
 ## Fisher
@@ -2413,7 +2413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Cobweb | ![cobweb](../images/cyclic_cobweb.png) |
+| w | Cobweb | ![cobweb](../images/cyclic_0.png) |
 | p | Chests/Trapped | ![chests/trapped](../images/cyclic_chests/trapped.png) |
 | f | Storage Blocks/Emerald | ![storage_blocks/emerald](../images/cyclic_storage_blocks/emerald.png) |
 
@@ -2423,15 +2423,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
-| - | Flint | ![flint](../images/cyclic_flint.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
+| - | Flint | ![flint](../images/cyclic_flint_block.png) |
 
 ---
 ## Flint
@@ -2447,9 +2447,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Clay Ball | ![clay_ball](../images/cyclic_clay_ball.png) |
+| l | Clay Ball | ![clay_ball](../images/cyclic_battery_clay.png) |
 | d | Dyes/Cyan | ![dyes/cyan](../images/cyclic_dyes/cyan.png) |
-| b | Leather | ![leather](../images/cyclic_leather.png) |
+| b | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Brown Dye
@@ -2489,8 +2489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Brick Stairs | ![brick_stairs](../images/cyclic_brick_stairs.png) |
-| i | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
+| s | Brick Stairs | ![brick_stairs](../images/cyclic_0.png) |
+| i | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
 
 ---
 ## Flute Summoning
@@ -2498,9 +2498,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| c | Candles | ![candles](../images/cyclic_candles.png) |
-| s | Signs | ![signs](../images/cyclic_signs.png) |
+| a | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| c | Candles | ![candles](../images/cyclic_0.png) |
+| s | Signs | ![signs](../images/cyclic_0.png) |
 
 ---
 ## Forester
@@ -2510,8 +2510,8 @@
 | :--- | :--- | :--- |
 | a | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 | o | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
-| x | Logs | ![logs](../images/cyclic_logs.png) |
-| r | Observer | ![observer](../images/cyclic_observer.png) |
+| x | Logs | ![logs](../images/cyclic_0.png) |
+| r | Observer | ![observer](../images/cyclic_0.png) |
 
 ---
 ## {}
@@ -2729,10 +2729,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Lava Bucket | ![lava_bucket](../images/cyclic_lava_bucket.png) |
-| i | Piston | ![piston](../images/cyclic_piston.png) |
-| b | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
-| c | Repeater | ![repeater](../images/cyclic_repeater.png) |
+| p | Lava Bucket | ![lava_bucket](../images/cyclic_bucket.png) |
+| i | Piston | ![piston](../images/cyclic_0.png) |
+| b | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
+| c | Repeater | ![repeater](../images/cyclic_0.png) |
 
 ---
 ## Generator Food
@@ -2740,10 +2740,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Target | ![target](../images/cyclic_target.png) |
+| p | Target | ![target](../images/cyclic_target_off.png) |
 | i | Gold Bars | ![gold_bars](../images/cyclic_gold_bars.png) |
 | b | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
-| c | Redstone Torch | ![redstone_torch](../images/cyclic_redstone_torch.png) |
+| c | Redstone Torch | ![redstone_torch](../images/cyclic_carrot_redstone.png) |
 
 ---
 ## Generator Fuel
@@ -2751,10 +2751,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| p | Coal Block | ![coal_block](../images/cyclic_coal_block.png) |
-| i | Piston | ![piston](../images/cyclic_piston.png) |
+| p | Coal Block | ![coal_block](../images/cyclic_block_workbench_front.png) |
+| i | Piston | ![piston](../images/cyclic_0.png) |
 | b | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
-| c | Redstone Torch | ![redstone_torch](../images/cyclic_redstone_torch.png) |
+| c | Redstone Torch | ![redstone_torch](../images/cyclic_carrot_redstone.png) |
 
 ---
 ## Generator Item
@@ -2763,7 +2763,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Storage Blocks/Ender Eye | ![storage_blocks/ender_eye](../images/cyclic_storage_blocks/ender_eye.png) |
-| p | Observer | ![observer](../images/cyclic_observer.png) |
+| p | Observer | ![observer](../images/cyclic_0.png) |
 | i | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 | c | Gold Bars | ![gold_bars](../images/cyclic_gold_bars.png) |
 
@@ -2774,7 +2774,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
-| p | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| p | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 | b | Storage Blocks/Lapis | ![storage_blocks/lapis](../images/cyclic_storage_blocks/lapis.png) |
 | c | Gold Chain | ![gold_chain](../images/cyclic_gold_chain.png) |
 
@@ -2784,8 +2784,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | String | ![string](../images/cyclic_string.png) |
-| i | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| s | String | ![string](../images/cyclic_0.png) |
+| i | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | r | Dyes/Gray | ![dyes/gray](../images/cyclic_dyes/gray.png) |
 
 ---
@@ -2794,8 +2794,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | String | ![string](../images/cyclic_string.png) |
-| i | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| s | String | ![string](../images/cyclic_0.png) |
+| i | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | r | Membrane | ![membrane](../images/cyclic_membrane.png) |
 
 ---
@@ -2804,9 +2804,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| - | Blackstone | ![blackstone](../images/cyclic_blackstone.png) |
-| - | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
+| - | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| - | Blackstone | ![blackstone](../images/cyclic_0.png) |
+| - | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
 
 ---
 ## Glass Connected
@@ -2814,7 +2814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glass | ![glass](../images/cyclic_glass.png) |
+| item | Glass | ![glass](../images/cyclic_dark_glass.png) |
 
 ---
 ## Glass Connected
@@ -2822,7 +2822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glass | ![glass](../images/cyclic_glass.png) |
+| item | Glass | ![glass](../images/cyclic_dark_glass.png) |
 
 ---
 ## Glass
@@ -2830,7 +2830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glass Connected | ![glass_connected](../images/cyclic_glass_connected.png) |
+| item | Glass Connected | ![glass_connected](../images/cyclic_dark_glass.png) |
 
 ---
 ## Glove Climb
@@ -2838,10 +2838,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
+| s | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
 | i | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| k | Scute | ![scute](../images/cyclic_scute.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| k | Scute | ![scute](../images/cyclic_0.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Glowstone Dust
@@ -2857,7 +2857,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | i | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| o | Glowstone | ![glowstone](../images/cyclic_glowstone.png) |
+| o | Glowstone | ![glowstone](../images/cyclic_0.png) |
 
 ---
 ##  1000}
@@ -2865,7 +2865,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone | ![glowstone](../images/cyclic_glowstone.png) |
+| - | Glowstone | ![glowstone](../images/cyclic_0.png) |
 
 ---
 ## Glowstone
@@ -2873,7 +2873,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/cyclic_netherrack.png) |
+| - | Netherrack | ![netherrack](../images/cyclic_0.png) |
 
 ---
 ## Glowstone Dust
@@ -2935,7 +2935,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | n | Nuggets/Gold | ![nuggets/gold](../images/cyclic_nuggets/gold.png) |
-| t | Soul Torch | ![soul_torch](../images/cyclic_soul_torch.png) |
+| t | Soul Torch | ![soul_torch](../images/cyclic_copper_soul_lantern.png) |
 
 ---
 ##  1000}
@@ -2943,7 +2943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Granite | ![granite](../images/cyclic_granite.png) |
+| - | Granite | ![granite](../images/cyclic_0.png) |
 
 ---
 ## Granite
@@ -2966,7 +2966,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gravel | ![gravel](../images/cyclic_gravel.png) |
+| - | Gravel | ![gravel](../images/cyclic_0.png) |
 
 ---
 ## Gravel
@@ -2974,7 +2974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gravel | ![gravel](../images/cyclic_gravel.png) |
+| - | Gravel | ![gravel](../images/cyclic_0.png) |
 
 ---
 ## Guide Book
@@ -2983,7 +2983,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
-| - | Book | ![book](../images/cyclic_book.png) |
+| - | Book | ![book](../images/cyclic_ender_book.png) |
 
 ---
 ## Harvester
@@ -2993,9 +2993,9 @@
 | :--- | :--- | :--- |
 | r | Emerald | ![emerald](../images/cyclic_emerald.png) |
 | g | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
-| b | Biomass | ![biomass](../images/cyclic_biomass.png) |
+| b | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
 | s | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| o | Obsidian Pressure Plate | ![obsidian_pressure_plate](../images/cyclic_obsidian_pressure_plate.png) |
+| o | Obsidian Pressure Plate | ![obsidian_pressure_plate](../images/cyclic_gem_obsidian.png) |
 
 ---
 ## Heart
@@ -3003,14 +3003,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Rabbit Stew | ![rabbit_stew](../images/cyclic_rabbit_stew.png) |
-| b | Lily Pad | ![lily_pad](../images/cyclic_lily_pad.png) |
+| a | Rabbit Stew | ![rabbit_stew](../images/cyclic_0.png) |
+| b | Lily Pad | ![lily_pad](../images/cyclic_0.png) |
 | c | Diamond | ![diamond](../images/cyclic_diamond.png) |
-| d | Cake | ![cake](../images/cyclic_cake.png) |
+| d | Cake | ![cake](../images/cyclic_inventory_cake.png) |
 | e | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
-| f | Enchanted Golden Apple | ![enchanted_golden_apple](../images/cyclic_enchanted_golden_apple.png) |
-| g | Emerald Block | ![emerald_block](../images/cyclic_emerald_block.png) |
-| h | Poisonous Potato | ![poisonous_potato](../images/cyclic_poisonous_potato.png) |
+| f | Enchanted Golden Apple | ![enchanted_golden_apple](../images/cyclic_apple_0.png) |
+| g | Emerald Block | ![emerald_block](../images/cyclic_apple_emerald_7.png) |
+| h | Poisonous Potato | ![poisonous_potato](../images/cyclic_0.png) |
 | i | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
 
 ---
@@ -3019,10 +3019,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Pumpkin Pie | ![pumpkin_pie](../images/cyclic_pumpkin_pie.png) |
-| b | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_fermented_spider_eye.png) |
-| c | Beetroot | ![beetroot](../images/cyclic_beetroot.png) |
-| d | Cookie | ![cookie](../images/cyclic_cookie.png) |
+| a | Pumpkin Pie | ![pumpkin_pie](../images/cyclic_0.png) |
+| b | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_ender_eye_reuse.png) |
+| c | Beetroot | ![beetroot](../images/cyclic_0.png) |
+| d | Cookie | ![cookie](../images/cyclic_0.png) |
 
 ---
 ## Iron Nugget
@@ -3037,7 +3037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Brick | ![brick](../images/cyclic_brick.png) |
+| b | Brick | ![brick](../images/cyclic_0.png) |
 | c | Hopper | ![hopper](../images/cyclic_hopper.png) |
 
 ---
@@ -3053,7 +3053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Ice | ![ice](../images/cyclic_ice.png) |
+| c | Ice | ![ice](../images/cyclic_ice_scepter.png) |
 | d | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
 | s | Redstone | ![redstone](../images/cyclic_redstone.png) |
 | i | Nuggets/Gold | ![nuggets/gold](../images/cyclic_nuggets/gold.png) |
@@ -3064,12 +3064,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Chest | ![ender_chest](../images/cyclic_ender_chest.png) |
-| - | Pumpkin Pie | ![pumpkin_pie](../images/cyclic_pumpkin_pie.png) |
-| - | Cake | ![cake](../images/cyclic_cake.png) |
-| - | Cookie | ![cookie](../images/cyclic_cookie.png) |
+| - | Ender Chest | ![ender_chest](../images/cyclic_carrot_ender.png) |
+| - | Pumpkin Pie | ![pumpkin_pie](../images/cyclic_0.png) |
+| - | Cake | ![cake](../images/cyclic_inventory_cake.png) |
+| - | Cookie | ![cookie](../images/cyclic_0.png) |
 | - | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| - | Poisonous Potato | ![poisonous_potato](../images/cyclic_poisonous_potato.png) |
+| - | Poisonous Potato | ![poisonous_potato](../images/cyclic_0.png) |
 | - | Gems/Prismarine | ![gems/prismarine](../images/cyclic_gems/prismarine.png) |
 | - | Gems/Emerald | ![gems/emerald](../images/cyclic_gems/emerald.png) |
 | - | Gems/Quartz | ![gems/quartz](../images/cyclic_gems/quartz.png) |
@@ -3115,7 +3115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Brick Stairs | ![brick_stairs](../images/cyclic_brick_stairs.png) |
+| s | Brick Stairs | ![brick_stairs](../images/cyclic_0.png) |
 | i | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
 
 ---
@@ -3138,8 +3138,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| m | Honeycomb | ![honeycomb](../images/cyclic_honeycomb.png) |
-| l | Redstone Lamp | ![redstone_lamp](../images/cyclic_redstone_lamp.png) |
+| m | Honeycomb | ![honeycomb](../images/cyclic_0.png) |
+| l | Redstone Lamp | ![redstone_lamp](../images/cyclic_carrot_redstone.png) |
 
 ---
 ## Lapis Carrot Variant
@@ -3147,8 +3147,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Golden Carrot | ![golden_carrot](../images/cyclic_golden_carrot.png) |
-| d | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_lapis_lazuli.png) |
+| c | Golden Carrot | ![golden_carrot](../images/cyclic_carrot_diamond.png) |
+| d | Lapis Lazuli | ![lapis_lazuli](../images/cyclic_carrot_lapis.png) |
 
 ---
 ## Lapis Lazuli
@@ -3174,9 +3174,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | t | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
-| b | Diamond Block | ![diamond_block](../images/cyclic_diamond_block.png) |
-| q | Dark Prismarine | ![dark_prismarine](../images/cyclic_dark_prismarine.png) |
-| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
+| b | Diamond Block | ![diamond_block](../images/cyclic_apple_diamond_7.png) |
+| q | Dark Prismarine | ![dark_prismarine](../images/cyclic_dark_e.png) |
+| c | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Lead
@@ -3184,7 +3184,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 
 ---
 ## Leather
@@ -3220,9 +3220,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Smooth Stone Slab | ![smooth_stone_slab](../images/cyclic_smooth_stone_slab.png) |
-| s | Stone Button | ![stone_button](../images/cyclic_stone_button.png) |
-| t | Lever | ![lever](../images/cyclic_lever.png) |
+| l | Smooth Stone Slab | ![smooth_stone_slab](../images/cyclic_mattock_stone.png) |
+| s | Stone Button | ![stone_button](../images/cyclic_mattock_stone.png) |
+| t | Lever | ![lever](../images/cyclic_lever_remote.png) |
 
 ---
 ## Lightning Scepter
@@ -3231,9 +3231,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | g | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
-| o | Glowstone | ![glowstone](../images/cyclic_glowstone.png) |
-| n | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| s | Blaze Rod | ![blaze_rod](../images/cyclic_blaze_rod.png) |
+| o | Glowstone | ![glowstone](../images/cyclic_0.png) |
+| n | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| s | Blaze Rod | ![blaze_rod](../images/cyclic_0.png) |
 
 ---
 ## Light Camo
@@ -3241,7 +3241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Glowstone Dust | ![glowstone_dust](../images/cyclic_glowstone_dust.png) |
+| o | Glowstone Dust | ![glowstone_dust](../images/cyclic_0.png) |
 | s | Dark Glass | ![dark_glass](../images/cyclic_dark_glass.png) |
 
 ---
@@ -3251,7 +3251,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Blue | ![dyes/blue](../images/cyclic_dyes/blue.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -3260,7 +3260,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Location Data | ![location_data](../images/cyclic_location_data.png) |
+| - | Location Data | ![location_data](../images/cyclic_blockstate_data.png) |
 
 ---
 ## Stick
@@ -3275,8 +3275,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Copper Ingot | ![copper_ingot](../images/cyclic_copper_ingot.png) |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
+| c | Copper Ingot | ![copper_ingot](../images/cyclic_copper.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Magic Net
@@ -3284,10 +3284,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| l | Coral Blocks | ![coral_blocks](../images/cyclic_coral_blocks.png) |
+| i | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| l | Coral Blocks | ![coral_blocks](../images/cyclic_0.png) |
 | a | Dyes/Cyan | ![dyes/cyan](../images/cyclic_dyes/cyan.png) |
-| q | Snowball | ![snowball](../images/cyclic_snowball.png) |
+| q | Snowball | ![snowball](../images/cyclic_0.png) |
 
 ---
 ## Magic Net
@@ -3295,10 +3295,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Gold Ingot | ![gold_ingot](../images/cyclic_gold_ingot.png) |
-| l | Vines | ![vines](../images/cyclic_vines.png) |
+| i | Gold Ingot | ![gold_ingot](../images/cyclic_gold.png) |
+| l | Vines | ![vines](../images/cyclic_0.png) |
 | a | Dyes/Cyan | ![dyes/cyan](../images/cyclic_dyes/cyan.png) |
-| q | Ice | ![ice](../images/cyclic_ice.png) |
+| q | Ice | ![ice](../images/cyclic_ice_scepter.png) |
 
 ---
 ## Magma Cream
@@ -3321,7 +3321,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| b | Planks | ![planks](../images/cyclic_planks.png) |
+| b | Planks | ![planks](../images/cyclic_0.png) |
 | x | Dyes/Purple | ![dyes/purple](../images/cyclic_dyes/purple.png) |
 
 ---
@@ -3349,7 +3349,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | o | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
-| e | Logs | ![logs](../images/cyclic_logs.png) |
+| e | Logs | ![logs](../images/cyclic_0.png) |
 
 ---
 ## Melon Slice
@@ -3357,7 +3357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon | ![melon](../images/cyclic_melon.png) |
+| - | Melon | ![melon](../images/cyclic_0.png) |
 
 ---
 ## Melter
@@ -3365,11 +3365,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Quartz | ![quartz](../images/cyclic_quartz.png) |
+| l | Quartz | ![quartz](../images/cyclic_quartz_black.png) |
 | g | Glass/Colorless | ![glass/colorless](../images/cyclic_glass/colorless.png) |
-| r | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
+| r | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
 | h | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
-| q | Furnace | ![furnace](../images/cyclic_furnace.png) |
+| q | Furnace | ![furnace](../images/cyclic_0.png) |
 
 ---
 ##  1000}
@@ -3377,8 +3377,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| - | Bamboo | ![bamboo](../images/cyclic_bamboo.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| - | Bamboo | ![bamboo](../images/cyclic_0.png) |
 
 ---
 ##  500}
@@ -3386,8 +3386,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime Ball | ![blood_slime_ball](../images/cyclic_blood_slime_ball.png) |
-| - | Blood Slime Ball | ![blood_slime_ball](../images/cyclic_blood_slime_ball.png) |
+| - | Blood Slime Ball | ![blood_slime_ball](../images/cyclic_blood.png) |
+| - | Blood Slime Ball | ![blood_slime_ball](../images/cyclic_blood.png) |
 
 ---
 ##  250}
@@ -3395,7 +3395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime Ball | ![blood_slime_ball](../images/cyclic_blood_slime_ball.png) |
+| - | Blood Slime Ball | ![blood_slime_ball](../images/cyclic_blood.png) |
 
 ---
 ##  4500}
@@ -3403,8 +3403,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime | ![blood_slime](../images/cyclic_blood_slime.png) |
-| - | Blood Slime | ![blood_slime](../images/cyclic_blood_slime.png) |
+| - | Blood Slime | ![blood_slime](../images/cyclic_blood.png) |
+| - | Blood Slime | ![blood_slime](../images/cyclic_blood.png) |
 
 ---
 ##  2250}
@@ -3412,7 +3412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blood Slime | ![blood_slime](../images/cyclic_blood_slime.png) |
+| - | Blood Slime | ![blood_slime](../images/cyclic_blood.png) |
 
 ---
 ##  500}
@@ -3420,8 +3420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime Ball | ![sky_slime_ball](../images/cyclic_sky_slime_ball.png) |
-| - | Sky Slime Ball | ![sky_slime_ball](../images/cyclic_sky_slime_ball.png) |
+| - | Sky Slime Ball | ![sky_slime_ball](../images/cyclic_0.png) |
+| - | Sky Slime Ball | ![sky_slime_ball](../images/cyclic_0.png) |
 
 ---
 ##  250}
@@ -3429,7 +3429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime Ball | ![sky_slime_ball](../images/cyclic_sky_slime_ball.png) |
+| - | Sky Slime Ball | ![sky_slime_ball](../images/cyclic_0.png) |
 
 ---
 ##  4500}
@@ -3437,8 +3437,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime | ![sky_slime](../images/cyclic_sky_slime.png) |
-| - | Sky Slime | ![sky_slime](../images/cyclic_sky_slime.png) |
+| - | Sky Slime | ![sky_slime](../images/cyclic_0.png) |
+| - | Sky Slime | ![sky_slime](../images/cyclic_0.png) |
 
 ---
 ##  2250}
@@ -3446,7 +3446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sky Slime | ![sky_slime](../images/cyclic_sky_slime.png) |
+| - | Sky Slime | ![sky_slime](../images/cyclic_0.png) |
 
 ---
 ##  2000}
@@ -3464,7 +3464,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Experience Food | ![experience_food](../images/cyclic_experience_food.png) |
-| - | Blaze Rod | ![blaze_rod](../images/cyclic_blaze_rod.png) |
+| - | Blaze Rod | ![blaze_rod](../images/cyclic_0.png) |
 
 ---
 ##  1020}
@@ -3473,7 +3473,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Experience Food | ![experience_food](../images/cyclic_experience_food.png) |
-| - | Bones | ![bones](../images/cyclic_bones.png) |
+| - | Bones | ![bones](../images/cyclic_0.png) |
 
 ---
 ##  1050}
@@ -3482,7 +3482,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Experience Food | ![experience_food](../images/cyclic_experience_food.png) |
-| - | Rotten Flesh | ![rotten_flesh](../images/cyclic_rotten_flesh.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/cyclic_0.png) |
 
 ---
 ##  1200}
@@ -3491,7 +3491,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Experience Food | ![experience_food](../images/cyclic_experience_food.png) |
-| - | Ghast Tear | ![ghast_tear](../images/cyclic_ghast_tear.png) |
+| - | Ghast Tear | ![ghast_tear](../images/cyclic_0.png) |
 
 ---
 ##  1200}
@@ -3500,7 +3500,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Experience Food | ![experience_food](../images/cyclic_experience_food.png) |
-| - | Wither Rose | ![wither_rose](../images/cyclic_wither_rose.png) |
+| - | Wither Rose | ![wither_rose](../images/cyclic_wither.png) |
 
 ---
 ##  1000}
@@ -3508,8 +3508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
 
 ---
 ##  500}
@@ -3517,7 +3517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
 
 ---
 ##  500}
@@ -3525,8 +3525,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
 
 ---
 ##  250}
@@ -3534,7 +3534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
 
 ---
 ##  4500}
@@ -3542,8 +3542,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Block | ![slime_block](../images/cyclic_slime_block.png) |
-| - | Slime Block | ![slime_block](../images/cyclic_slime_block.png) |
+| - | Slime Block | ![slime_block](../images/cyclic_block_workbench_front.png) |
+| - | Slime Block | ![slime_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  2250}
@@ -3551,7 +3551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Block | ![slime_block](../images/cyclic_slime_block.png) |
+| - | Slime Block | ![slime_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  2000}
@@ -3559,8 +3559,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Block | ![honey_block](../images/cyclic_honey_block.png) |
-| - | Honey Block | ![honey_block](../images/cyclic_honey_block.png) |
+| - | Honey Block | ![honey_block](../images/cyclic_block_workbench_front.png) |
+| - | Honey Block | ![honey_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  1000}
@@ -3568,7 +3568,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Block | ![honey_block](../images/cyclic_honey_block.png) |
+| - | Honey Block | ![honey_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  500}
@@ -3576,8 +3576,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Bottle | ![honey_bottle](../images/cyclic_honey_bottle.png) |
-| - | Honey Bottle | ![honey_bottle](../images/cyclic_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/cyclic_honey.png) |
+| - | Honey Bottle | ![honey_bottle](../images/cyclic_honey.png) |
 
 ---
 ##  250}
@@ -3585,7 +3585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honey Bottle | ![honey_bottle](../images/cyclic_honey_bottle.png) |
+| - | Honey Bottle | ![honey_bottle](../images/cyclic_honey.png) |
 
 ---
 ##  2000}
@@ -3593,8 +3593,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice | ![ice](../images/cyclic_ice.png) |
-| - | Ice | ![ice](../images/cyclic_ice.png) |
+| - | Ice | ![ice](../images/cyclic_ice_scepter.png) |
+| - | Ice | ![ice](../images/cyclic_ice_scepter.png) |
 
 ---
 ##  1000}
@@ -3602,7 +3602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ice | ![ice](../images/cyclic_ice.png) |
+| - | Ice | ![ice](../images/cyclic_ice_scepter.png) |
 
 ---
 ##  1000}
@@ -3610,8 +3610,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| - | Kelp | ![kelp](../images/cyclic_kelp.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| - | Kelp | ![kelp](../images/cyclic_0.png) |
 
 ---
 ##  2000}
@@ -3619,8 +3619,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
-| - | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
+| - | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
+| - | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  1000}
@@ -3628,7 +3628,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
+| - | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  200}
@@ -3636,8 +3636,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Cream | ![magma_cream](../images/cyclic_magma_cream.png) |
-| - | Magma Cream | ![magma_cream](../images/cyclic_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/cyclic_magma.png) |
+| - | Magma Cream | ![magma_cream](../images/cyclic_magma.png) |
 
 ---
 ##  100}
@@ -3645,7 +3645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magma Cream | ![magma_cream](../images/cyclic_magma_cream.png) |
+| - | Magma Cream | ![magma_cream](../images/cyclic_magma.png) |
 
 ---
 ##  1000}
@@ -3671,8 +3671,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime Ball | ![ender_slime_ball](../images/cyclic_ender_slime_ball.png) |
-| - | Ender Slime Ball | ![ender_slime_ball](../images/cyclic_ender_slime_ball.png) |
+| - | Ender Slime Ball | ![ender_slime_ball](../images/cyclic_carrot_ender.png) |
+| - | Ender Slime Ball | ![ender_slime_ball](../images/cyclic_carrot_ender.png) |
 
 ---
 ##  250}
@@ -3680,7 +3680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime Ball | ![ender_slime_ball](../images/cyclic_ender_slime_ball.png) |
+| - | Ender Slime Ball | ![ender_slime_ball](../images/cyclic_carrot_ender.png) |
 
 ---
 ##  4500}
@@ -3688,8 +3688,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime | ![ender_slime](../images/cyclic_ender_slime.png) |
-| - | Ender Slime | ![ender_slime](../images/cyclic_ender_slime.png) |
+| - | Ender Slime | ![ender_slime](../images/cyclic_carrot_ender.png) |
+| - | Ender Slime | ![ender_slime](../images/cyclic_carrot_ender.png) |
 
 ---
 ##  2250}
@@ -3697,7 +3697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Slime | ![ender_slime](../images/cyclic_ender_slime.png) |
+| - | Ender Slime | ![ender_slime](../images/cyclic_carrot_ender.png) |
 
 ---
 ##  1000}
@@ -3705,8 +3705,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| - | Seeds | ![seeds](../images/cyclic_seeds.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| - | Seeds | ![seeds](../images/cyclic_0.png) |
 
 ---
 ##  500}
@@ -3714,8 +3714,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
 
 ---
 ##  250}
@@ -3723,7 +3723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
 
 ---
 ##  4500}
@@ -3731,8 +3731,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Block | ![slime_block](../images/cyclic_slime_block.png) |
-| - | Slime Block | ![slime_block](../images/cyclic_slime_block.png) |
+| - | Slime Block | ![slime_block](../images/cyclic_block_workbench_front.png) |
+| - | Slime Block | ![slime_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  2250}
@@ -3740,7 +3740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Block | ![slime_block](../images/cyclic_slime_block.png) |
+| - | Slime Block | ![slime_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  200}
@@ -3748,8 +3748,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Snow Block | ![snow_block](../images/cyclic_snow_block.png) |
-| - | Snow Block | ![snow_block](../images/cyclic_snow_block.png) |
+| - | Snow Block | ![snow_block](../images/cyclic_block_workbench_front.png) |
+| - | Snow Block | ![snow_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ##  100}
@@ -3757,7 +3757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Candles | ![candles](../images/cyclic_candles.png) |
+| - | Candles | ![candles](../images/cyclic_0.png) |
 
 ---
 ## Membrane
@@ -3765,7 +3765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| a | Phantom Membrane | ![phantom_membrane](../images/cyclic_phantom_membrane.png) |
+| a | Phantom Membrane | ![phantom_membrane](../images/cyclic_altar_phantom.png) |
 
 ---
 ## Milk Bottle
@@ -3773,10 +3773,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Milk Bucket | ![milk_bucket](../images/cyclic_milk_bucket.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
+| - | Milk Bucket | ![milk_bucket](../images/cyclic_bucket.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
 
 ---
 ## Miner
@@ -3788,7 +3788,7 @@
 | o | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
 | g | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
 | r | Storage Blocks/Lapis | ![storage_blocks/lapis](../images/cyclic_storage_blocks/lapis.png) |
-| s | Iron Pickaxe | ![iron_pickaxe](../images/cyclic_iron_pickaxe.png) |
+| s | Iron Pickaxe | ![iron_pickaxe](../images/cyclic_amethyst_pickaxe.png) |
 
 ---
 ## Rotten Flesh
@@ -3803,8 +3803,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Netherbrick Hoe
@@ -3812,8 +3812,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Netherbrick Pickaxe
@@ -3821,8 +3821,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Netherbrick Shovel
@@ -3830,8 +3830,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Netherbrick Sword
@@ -3839,8 +3839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Netherite Bars
@@ -3882,7 +3882,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | n | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
-| t | Soul Torch | ![soul_torch](../images/cyclic_soul_torch.png) |
+| t | Soul Torch | ![soul_torch](../images/cyclic_copper_soul_lantern.png) |
 
 ---
 ## Netherite Nugget
@@ -3906,7 +3906,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/cyclic_netherrack.png) |
+| - | Netherrack | ![netherrack](../images/cyclic_0.png) |
 
 ---
 ## Netherrack
@@ -3914,7 +3914,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/cyclic_netherrack.png) |
+| - | Netherrack | ![netherrack](../images/cyclic_0.png) |
 
 ---
 ## Nether Wart
@@ -3922,7 +3922,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart Block | ![nether_wart_block](../images/cyclic_nether_wart_block.png) |
+| - | Nether Wart Block | ![nether_wart_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## No Soliciting
@@ -3930,8 +3930,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Copper Pressure Plate | ![copper_pressure_plate](../images/cyclic_copper_pressure_plate.png) |
-| b | Basalt | ![basalt](../images/cyclic_basalt.png) |
+| o | Copper Pressure Plate | ![copper_pressure_plate](../images/cyclic_copper.png) |
+| b | Basalt | ![basalt](../images/cyclic_0.png) |
 | s | Glass/Colorless | ![glass/colorless](../images/cyclic_glass/colorless.png) |
 
 ---
@@ -3955,7 +3955,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
-| p | Stone Pressure Plate | ![stone_pressure_plate](../images/cyclic_stone_pressure_plate.png) |
+| p | Stone Pressure Plate | ![stone_pressure_plate](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Offset Scepter
@@ -3963,7 +3963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 | g | Emerald | ![emerald](../images/cyclic_emerald.png) |
 | o | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
@@ -3996,8 +3996,8 @@
 | :--- | :--- | :--- |
 | b | Dyes/Light Blue | ![dyes/light_blue](../images/cyclic_dyes/light_blue.png) |
 | c | Crafter | ![crafter](../images/cyclic_crafter.png) |
-| t | Dropper | ![dropper](../images/cyclic_dropper.png) |
-| f | Piston | ![piston](../images/cyclic_piston.png) |
+| t | Dropper | ![dropper](../images/cyclic_0.png) |
+| f | Piston | ![piston](../images/cyclic_0.png) |
 
 ---
 ## Ice
@@ -4019,8 +4019,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Candles | ![candles](../images/cyclic_candles.png) |
-| g | Calcite | ![calcite](../images/cyclic_calcite.png) |
+| d | Candles | ![candles](../images/cyclic_0.png) |
+| g | Calcite | ![calcite](../images/cyclic_0.png) |
 | s | Emerald | ![emerald](../images/cyclic_emerald.png) |
 
 ---
@@ -4029,10 +4029,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Copper Ingot | ![copper_ingot](../images/cyclic_copper_ingot.png) |
-| p | Dispenser | ![dispenser](../images/cyclic_dispenser.png) |
-| f | Generator Item | ![generator_item](../images/cyclic_generator_item.png) |
-| o | Observer | ![observer](../images/cyclic_observer.png) |
+| i | Copper Ingot | ![copper_ingot](../images/cyclic_copper.png) |
+| p | Dispenser | ![dispenser](../images/cyclic_0.png) |
+| f | Generator Item | ![generator_item](../images/cyclic_back_item.png) |
+| o | Observer | ![observer](../images/cyclic_0.png) |
 
 ---
 ## Peat Fuel
@@ -4048,7 +4048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Biomass | ![biomass](../images/cyclic_biomass.png) |
+| b | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
 | c | Peat Fuel | ![peat_fuel](../images/cyclic_peat_fuel.png) |
 
 ---
@@ -4057,9 +4057,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| c | Dirt | ![dirt](../images/cyclic_dirt.png) |
-| d | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
+| b | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| c | Dirt | ![dirt](../images/cyclic_0.png) |
+| d | Charcoal | ![charcoal](../images/cyclic_0.png) |
 
 ---
 ## Peat Unbaked
@@ -4067,9 +4067,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| c | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
-| d | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
+| b | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| c | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
+| d | Charcoal | ![charcoal](../images/cyclic_0.png) |
 
 ---
 ## Peat Unbaked
@@ -4077,9 +4077,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| c | Podzol | ![podzol](../images/cyclic_podzol.png) |
-| d | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
+| b | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| c | Podzol | ![podzol](../images/cyclic_0.png) |
+| d | Charcoal | ![charcoal](../images/cyclic_0.png) |
 
 ---
 ## Placer
@@ -4087,10 +4087,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Cobblestone Slab | ![cobblestone_slab](../images/cyclic_cobblestone_slab.png) |
+| o | Cobblestone Slab | ![cobblestone_slab](../images/cyclic_0.png) |
 | g | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
-| s | Dropper | ![dropper](../images/cyclic_dropper.png) |
-| r | Andesite | ![andesite](../images/cyclic_andesite.png) |
+| s | Dropper | ![dropper](../images/cyclic_0.png) |
+| r | Andesite | ![andesite](../images/cyclic_0.png) |
 | b | Redstone | ![redstone](../images/cyclic_redstone.png) |
 
 ---
@@ -4099,10 +4099,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Cobblestone Slab | ![cobblestone_slab](../images/cyclic_cobblestone_slab.png) |
+| o | Cobblestone Slab | ![cobblestone_slab](../images/cyclic_0.png) |
 | g | Bucket | ![bucket](../images/cyclic_bucket.png) |
 | r | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| b | Placer | ![placer](../images/cyclic_placer.png) |
+| b | Placer | ![placer](../images/cyclic_fluid_placer_arrow.png) |
 
 ---
 ## Stick
@@ -4117,9 +4117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
+| s | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
 | g | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
-| i | Leather | ![leather](../images/cyclic_leather.png) |
+| i | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Plate Launch Redstone
@@ -4127,9 +4127,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
-| g | Repeater | ![repeater](../images/cyclic_repeater.png) |
-| i | Leather | ![leather](../images/cyclic_leather.png) |
+| s | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
+| g | Repeater | ![repeater](../images/cyclic_0.png) |
+| i | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ##  1000}
@@ -4137,7 +4137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Podzol | ![podzol](../images/cyclic_podzol.png) |
+| - | Podzol | ![podzol](../images/cyclic_0.png) |
 
 ---
 ## Podzol
@@ -4145,7 +4145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Rotten Flesh
@@ -4190,7 +4190,7 @@
 | :--- | :--- | :--- |
 | i | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 | d | Diamond | ![diamond](../images/cyclic_diamond.png) |
-| g | Light Blue Stained Glass | ![light_blue_stained_glass](../images/cyclic_light_blue_stained_glass.png) |
+| g | Light Blue Stained Glass | ![light_blue_stained_glass](../images/cyclic_conveyor_light_blue_corner.png) |
 
 ---
 ## Quartz
@@ -4198,7 +4198,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Block | ![quartz_block](../images/cyclic_quartz_block.png) |
+| - | Quartz Block | ![quartz_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Quartz
@@ -4213,8 +4213,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Leather | ![leather](../images/cyclic_leather.png) |
-| f | Arrow | ![arrow](../images/cyclic_arrow.png) |
+| g | Leather | ![leather](../images/cyclic_0.png) |
+| f | Arrow | ![arrow](../images/cyclic_fluid_placer_arrow.png) |
 | a | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -4223,8 +4223,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Leather | ![leather](../images/cyclic_leather.png) |
-| f | Arrow | ![arrow](../images/cyclic_arrow.png) |
+| g | Leather | ![leather](../images/cyclic_0.png) |
+| f | Arrow | ![arrow](../images/cyclic_fluid_placer_arrow.png) |
 | a | Lightning Scepter | ![lightning_scepter](../images/cyclic_lightning_scepter.png) |
 
 ---
@@ -4241,7 +4241,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | p | Dyes/Purple | ![dyes/purple](../images/cyclic_dyes/purple.png) |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 | g | Redstone | ![redstone](../images/cyclic_redstone.png) |
 | o | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
@@ -4258,7 +4258,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Golden Carrot | ![golden_carrot](../images/cyclic_golden_carrot.png) |
+| c | Golden Carrot | ![golden_carrot](../images/cyclic_carrot_diamond.png) |
 | d | Redstone | ![redstone](../images/cyclic_redstone.png) |
 
 ---
@@ -4302,7 +4302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sand | ![red_sand](../images/cyclic_red_sand.png) |
+| - | Red Sand | ![red_sand](../images/cyclic_conveyor_red_corner.png) |
 
 ---
 ##  1000}
@@ -4310,7 +4310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sandstone | ![red_sandstone](../images/cyclic_red_sandstone.png) |
+| - | Red Sandstone | ![red_sandstone](../images/cyclic_conveyor_red_corner.png) |
 
 ---
 ## Red Sandstone
@@ -4318,7 +4318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/cyclic_sand.png) |
+| - | Sand | ![sand](../images/cyclic_0.png) |
 
 ---
 ## Red Sand
@@ -4326,7 +4326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/cyclic_sand.png) |
+| - | Sand | ![sand](../images/cyclic_0.png) |
 
 ---
 ## Repeater
@@ -4335,7 +4335,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | b | Stone | ![stone](../images/cyclic_stone.png) |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | r | Redstone | ![redstone](../images/cyclic_redstone.png) |
 
 ---
@@ -4344,8 +4344,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
-| g | Gold Block | ![gold_block](../images/cyclic_gold_block.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
+| g | Gold Block | ![gold_block](../images/cyclic_block_workbench_front.png) |
 | o | Ingots/Copper | ![ingots/copper](../images/cyclic_ingots/copper.png) |
 
 ---
@@ -4354,9 +4354,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | t | Stone | ![stone](../images/cyclic_stone.png) |
-| h | Wooden Hoe | ![wooden_hoe](../images/cyclic_wooden_hoe.png) |
+| h | Wooden Hoe | ![wooden_hoe](../images/cyclic_amethyst_hoe.png) |
 
 ---
 ## Rotator
@@ -4365,8 +4365,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | o | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| s | Piston | ![piston](../images/cyclic_piston.png) |
-| l | Logs | ![logs](../images/cyclic_logs.png) |
+| s | Piston | ![piston](../images/cyclic_0.png) |
+| l | Logs | ![logs](../images/cyclic_0.png) |
 | m | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 
 ---
@@ -4375,7 +4375,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sand | ![sand](../images/cyclic_sand.png) |
+| - | Sand | ![sand](../images/cyclic_0.png) |
 
 ---
 ##  1000}
@@ -4383,7 +4383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| - | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Sandstone Axe
@@ -4391,8 +4391,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Sandstone Hoe
@@ -4400,8 +4400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Sandstone Pickaxe
@@ -4409,8 +4409,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Sandstone Shovel
@@ -4418,8 +4418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Sandstone
@@ -4435,8 +4435,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Stick | ![stick](../images/cyclic_stick.png) |
-| c | Sandstone | ![sandstone](../images/cyclic_sandstone.png) |
+| d | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| c | Sandstone | ![sandstone](../images/cyclic_sandstone_axe.png) |
 
 ---
 ## Sand
@@ -4444,7 +4444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gravel | ![gravel](../images/cyclic_gravel.png) |
+| - | Gravel | ![gravel](../images/cyclic_0.png) |
 
 ---
 ## Stick
@@ -4459,7 +4459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Scaffold Replace
@@ -4467,8 +4467,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
-| d | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| d | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Scaffold Responsive
@@ -4476,7 +4476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | d | Dyes/Red | ![dyes/red](../images/cyclic_dyes/red.png) |
 
 ---
@@ -4486,8 +4486,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
-| f | Anvil | ![anvil](../images/cyclic_anvil.png) |
-| i | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
+| f | Anvil | ![anvil](../images/cyclic_0.png) |
+| i | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
 | r | Dyes/Red | ![dyes/red](../images/cyclic_dyes/red.png) |
 | g | Dyes/Green | ![dyes/green](../images/cyclic_dyes/green.png) |
 | b | Dyes/Blue | ![dyes/blue](../images/cyclic_dyes/blue.png) |
@@ -4498,9 +4498,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
-| t | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
-| h | Stone Hoe | ![stone_hoe](../images/cyclic_stone_hoe.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| t | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
+| h | Stone Hoe | ![stone_hoe](../images/cyclic_amethyst_hoe.png) |
 
 ---
 ## Scythe Forage
@@ -4508,9 +4508,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
-| t | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
-| h | Golden Pickaxe | ![golden_pickaxe](../images/cyclic_golden_pickaxe.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| t | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
+| h | Golden Pickaxe | ![golden_pickaxe](../images/cyclic_amethyst_pickaxe.png) |
 
 ---
 ## Scythe Harvest
@@ -4518,8 +4518,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Stick | ![stick](../images/cyclic_stick.png) |
-| d | Iron Hoe | ![iron_hoe](../images/cyclic_iron_hoe.png) |
+| i | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| d | Iron Hoe | ![iron_hoe](../images/cyclic_amethyst_hoe.png) |
 | r | Nuggets/Copper | ![nuggets/copper](../images/cyclic_nuggets/copper.png) |
 
 ---
@@ -4528,9 +4528,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/cyclic_stick.png) |
-| t | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
-| h | Stone Axe | ![stone_axe](../images/cyclic_stone_axe.png) |
+| s | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| t | Charcoal | ![charcoal](../images/cyclic_0.png) |
+| h | Stone Axe | ![stone_axe](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Prismarine Crystals
@@ -4546,7 +4546,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Green | ![dyes/green](../images/cyclic_dyes/green.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -4564,7 +4564,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Red | ![dyes/red](../images/cyclic_dyes/red.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -4581,8 +4581,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| r | Shears | ![shears](../images/cyclic_shears.png) |
-| e | Stone Tool Materials | ![stone_tool_materials](../images/cyclic_stone_tool_materials.png) |
+| r | Shears | ![shears](../images/cyclic_shears_flint.png) |
+| e | Stone Tool Materials | ![stone_tool_materials](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Shears Flint
@@ -4590,9 +4590,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Stick | ![stick](../images/cyclic_stick.png) |
+| i | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | o | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
-| s | String | ![string](../images/cyclic_string.png) |
+| s | String | ![string](../images/cyclic_0.png) |
 
 ---
 ## Shears Obsidian
@@ -4600,7 +4600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
 
 ---
@@ -4609,8 +4609,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/cyclic_planks.png) |
-| o | Bones | ![bones](../images/cyclic_bones.png) |
+| W | Planks | ![planks](../images/cyclic_0.png) |
+| o | Bones | ![bones](../images/cyclic_0.png) |
 
 ---
 ## Shield Flint
@@ -4618,7 +4618,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/cyclic_planks.png) |
+| W | Planks | ![planks](../images/cyclic_0.png) |
 | o | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
 
 ---
@@ -4627,8 +4627,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/cyclic_planks.png) |
-| o | Leather | ![leather](../images/cyclic_leather.png) |
+| W | Planks | ![planks](../images/cyclic_0.png) |
+| o | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Shield Obsidian
@@ -4636,7 +4636,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/cyclic_planks.png) |
+| W | Planks | ![planks](../images/cyclic_0.png) |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
 
 ---
@@ -4645,8 +4645,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Stick | ![stick](../images/cyclic_stick.png) |
-| o | Logs | ![logs](../images/cyclic_logs.png) |
+| W | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| o | Logs | ![logs](../images/cyclic_0.png) |
 
 ---
 ## Stick
@@ -4661,8 +4661,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
-| r | Red Wool | ![red_wool](../images/cyclic_red_wool.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
+| r | Red Wool | ![red_wool](../images/cyclic_conveyor_red_corner.png) |
 
 ---
 ## Slingshot
@@ -4670,10 +4670,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| t | Stick | ![stick](../images/cyclic_stick.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
-| s | String | ![string](../images/cyclic_string.png) |
+| o | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| t | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
+| s | String | ![string](../images/cyclic_0.png) |
 
 ---
 ## Soil
@@ -4681,9 +4681,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Dirt | ![dirt](../images/cyclic_dirt.png) |
-| m | Lily Pad | ![lily_pad](../images/cyclic_lily_pad.png) |
-| b | Biomass | ![biomass](../images/cyclic_biomass.png) |
+| l | Dirt | ![dirt](../images/cyclic_0.png) |
+| m | Lily Pad | ![lily_pad](../images/cyclic_0.png) |
+| b | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
 
 ---
 ## Solidifier
@@ -4691,10 +4691,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Quartz | ![quartz](../images/cyclic_quartz.png) |
+| l | Quartz | ![quartz](../images/cyclic_quartz_black.png) |
 | g | Glass/Colorless | ![glass/colorless](../images/cyclic_glass/colorless.png) |
 | r | Storage Blocks/Lapis | ![storage_blocks/lapis](../images/cyclic_storage_blocks/lapis.png) |
-| h | Obsidian Pressure Plate | ![obsidian_pressure_plate](../images/cyclic_obsidian_pressure_plate.png) |
+| h | Obsidian Pressure Plate | ![obsidian_pressure_plate](../images/cyclic_gem_obsidian.png) |
 | q | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 
 ---
@@ -4703,9 +4703,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fire Charge | ![fire_charge](../images/cyclic_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/cyclic_fire.png) |
 | - | Dusts/Redstone | ![dusts/redstone](../images/cyclic_dusts/redstone.png) |
-| - | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
+| - | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Gem Amber
@@ -4713,7 +4713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fire Charge | ![fire_charge](../images/cyclic_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/cyclic_fire.png) |
 | - | Storage Blocks/Redstone | ![storage_blocks/redstone](../images/cyclic_storage_blocks/redstone.png) |
 | - | Ingots/Gold | ![ingots/gold](../images/cyclic_ingots/gold.png) |
 
@@ -4723,9 +4723,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/cyclic_apple.png) |
-| - | Apple | ![apple](../images/cyclic_apple.png) |
-| - | Apple | ![apple](../images/cyclic_apple.png) |
+| - | Apple | ![apple](../images/cyclic_apple_0.png) |
+| - | Apple | ![apple](../images/cyclic_apple_0.png) |
+| - | Apple | ![apple](../images/cyclic_apple_0.png) |
 
 ---
 ## Apple Honey
@@ -4733,7 +4733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple | ![apple](../images/cyclic_apple.png) |
+| - | Apple | ![apple](../images/cyclic_apple_0.png) |
 
 ---
 ## Enchanted Golden Apple
@@ -4741,9 +4741,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple Diamond | ![apple_diamond](../images/cyclic_apple_diamond.png) |
+| - | Apple Diamond | ![apple_diamond](../images/cyclic_apple_diamond_7.png) |
 | - | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
-| - | Golden Apple | ![golden_apple](../images/cyclic_golden_apple.png) |
+| - | Golden Apple | ![golden_apple](../images/cyclic_apple_0.png) |
 
 ---
 ## Grass Block
@@ -4751,9 +4751,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Grass Block
@@ -4761,7 +4761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Farmland
@@ -4769,9 +4769,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Farmland
@@ -4779,7 +4779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Biomass
@@ -4787,9 +4787,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leaves | ![leaves](../images/cyclic_leaves.png) |
-| - | Flowers | ![flowers](../images/cyclic_flowers.png) |
-| - | Coals | ![coals](../images/cyclic_coals.png) |
+| - | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
+| - | Flowers | ![flowers](../images/cyclic_0.png) |
+| - | Coals | ![coals](../images/cyclic_0.png) |
 
 ---
 ## Biomass
@@ -4797,9 +4797,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leaves | ![leaves](../images/cyclic_leaves.png) |
-| - | Leaves | ![leaves](../images/cyclic_leaves.png) |
-| - | Leaves | ![leaves](../images/cyclic_leaves.png) |
+| - | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
+| - | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
+| - | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
 
 ---
 ## Biomass
@@ -4807,7 +4807,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leaves | ![leaves](../images/cyclic_leaves.png) |
+| - | Leaves | ![leaves](../images/cyclic_scythe_leaves.png) |
 
 ---
 ## Podzol
@@ -4815,9 +4815,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Clay
@@ -4825,9 +4825,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terracotta | ![terracotta](../images/cyclic_terracotta.png) |
-| - | Terracotta | ![terracotta](../images/cyclic_terracotta.png) |
-| - | Terracotta | ![terracotta](../images/cyclic_terracotta.png) |
+| - | Terracotta | ![terracotta](../images/cyclic_0.png) |
+| - | Terracotta | ![terracotta](../images/cyclic_0.png) |
+| - | Terracotta | ![terracotta](../images/cyclic_0.png) |
 
 ---
 ## Clay
@@ -4835,7 +4835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terracotta | ![terracotta](../images/cyclic_terracotta.png) |
+| - | Terracotta | ![terracotta](../images/cyclic_0.png) |
 
 ---
 ## Black Concrete
@@ -4843,9 +4843,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Concrete Powder | ![black_concrete_powder](../images/cyclic_black_concrete_powder.png) |
-| - | Black Concrete Powder | ![black_concrete_powder](../images/cyclic_black_concrete_powder.png) |
-| - | Black Concrete Powder | ![black_concrete_powder](../images/cyclic_black_concrete_powder.png) |
+| - | Black Concrete Powder | ![black_concrete_powder](../images/cyclic_black.png) |
+| - | Black Concrete Powder | ![black_concrete_powder](../images/cyclic_black.png) |
+| - | Black Concrete Powder | ![black_concrete_powder](../images/cyclic_black.png) |
 
 ---
 ## Blue Concrete
@@ -4853,9 +4853,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue_concrete_powder.png) |
-| - | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue_concrete_powder.png) |
-| - | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue_concrete_powder.png) |
+| - | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue.png) |
+| - | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue.png) |
+| - | Blue Concrete Powder | ![blue_concrete_powder](../images/cyclic_blue.png) |
 
 ---
 ## Brown Concrete
@@ -4863,9 +4863,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Concrete Powder | ![brown_concrete_powder](../images/cyclic_brown_concrete_powder.png) |
-| - | Brown Concrete Powder | ![brown_concrete_powder](../images/cyclic_brown_concrete_powder.png) |
-| - | Brown Concrete Powder | ![brown_concrete_powder](../images/cyclic_brown_concrete_powder.png) |
+| - | Brown Concrete Powder | ![brown_concrete_powder](../images/cyclic_conveyor_brown_corner.png) |
+| - | Brown Concrete Powder | ![brown_concrete_powder](../images/cyclic_conveyor_brown_corner.png) |
+| - | Brown Concrete Powder | ![brown_concrete_powder](../images/cyclic_conveyor_brown_corner.png) |
 
 ---
 ## Cyan Concrete
@@ -4873,9 +4873,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/cyclic_cyan_concrete_powder.png) |
-| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/cyclic_cyan_concrete_powder.png) |
-| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/cyclic_cyan_concrete_powder.png) |
+| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/cyclic_conveyor_cyan_corner.png) |
+| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/cyclic_conveyor_cyan_corner.png) |
+| - | Cyan Concrete Powder | ![cyan_concrete_powder](../images/cyclic_conveyor_cyan_corner.png) |
 
 ---
 ## Gray Concrete
@@ -4883,9 +4883,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_gray_concrete_powder.png) |
-| - | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_gray_concrete_powder.png) |
-| - | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_gray_concrete_powder.png) |
+| - | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_conveyor_gray_corner.png) |
+| - | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_conveyor_gray_corner.png) |
+| - | Gray Concrete Powder | ![gray_concrete_powder](../images/cyclic_conveyor_gray_corner.png) |
 
 ---
 ## Green Concrete
@@ -4893,9 +4893,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Concrete Powder | ![green_concrete_powder](../images/cyclic_green_concrete_powder.png) |
-| - | Green Concrete Powder | ![green_concrete_powder](../images/cyclic_green_concrete_powder.png) |
-| - | Green Concrete Powder | ![green_concrete_powder](../images/cyclic_green_concrete_powder.png) |
+| - | Green Concrete Powder | ![green_concrete_powder](../images/cyclic_conveyor_green_corner.png) |
+| - | Green Concrete Powder | ![green_concrete_powder](../images/cyclic_conveyor_green_corner.png) |
+| - | Green Concrete Powder | ![green_concrete_powder](../images/cyclic_conveyor_green_corner.png) |
 
 ---
 ## Light Blue Concrete
@@ -4903,9 +4903,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/cyclic_light_blue_concrete_powder.png) |
-| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/cyclic_light_blue_concrete_powder.png) |
-| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/cyclic_light_blue_concrete_powder.png) |
+| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/cyclic_conveyor_light_blue_corner.png) |
+| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/cyclic_conveyor_light_blue_corner.png) |
+| - | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/cyclic_conveyor_light_blue_corner.png) |
 
 ---
 ## Light Gray Concrete
@@ -4913,9 +4913,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/cyclic_light_gray_concrete_powder.png) |
-| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/cyclic_light_gray_concrete_powder.png) |
-| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/cyclic_light_gray_concrete_powder.png) |
+| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/cyclic_conveyor_light_gray_corner.png) |
+| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/cyclic_conveyor_light_gray_corner.png) |
+| - | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/cyclic_conveyor_light_gray_corner.png) |
 
 ---
 ## Lime Concrete
@@ -4923,9 +4923,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_lime_concrete_powder.png) |
-| - | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_lime_concrete_powder.png) |
-| - | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_lime_concrete_powder.png) |
+| - | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_conveyor_lime_corner.png) |
+| - | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_conveyor_lime_corner.png) |
+| - | Lime Concrete Powder | ![lime_concrete_powder](../images/cyclic_conveyor_lime_corner.png) |
 
 ---
 ## Magenta Concrete
@@ -4933,9 +4933,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/cyclic_magenta_concrete_powder.png) |
-| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/cyclic_magenta_concrete_powder.png) |
-| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/cyclic_magenta_concrete_powder.png) |
+| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/cyclic_conveyor_magenta_corner.png) |
+| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/cyclic_conveyor_magenta_corner.png) |
+| - | Magenta Concrete Powder | ![magenta_concrete_powder](../images/cyclic_conveyor_magenta_corner.png) |
 
 ---
 ## Orange Concrete
@@ -4943,9 +4943,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Concrete Powder | ![orange_concrete_powder](../images/cyclic_orange_concrete_powder.png) |
-| - | Orange Concrete Powder | ![orange_concrete_powder](../images/cyclic_orange_concrete_powder.png) |
-| - | Orange Concrete Powder | ![orange_concrete_powder](../images/cyclic_orange_concrete_powder.png) |
+| - | Orange Concrete Powder | ![orange_concrete_powder](../images/cyclic_conveyor_orange_corner.png) |
+| - | Orange Concrete Powder | ![orange_concrete_powder](../images/cyclic_conveyor_orange_corner.png) |
+| - | Orange Concrete Powder | ![orange_concrete_powder](../images/cyclic_conveyor_orange_corner.png) |
 
 ---
 ## Pink Concrete
@@ -4953,9 +4953,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Concrete Powder | ![pink_concrete_powder](../images/cyclic_pink_concrete_powder.png) |
-| - | Pink Concrete Powder | ![pink_concrete_powder](../images/cyclic_pink_concrete_powder.png) |
-| - | Pink Concrete Powder | ![pink_concrete_powder](../images/cyclic_pink_concrete_powder.png) |
+| - | Pink Concrete Powder | ![pink_concrete_powder](../images/cyclic_conveyor_pink_corner.png) |
+| - | Pink Concrete Powder | ![pink_concrete_powder](../images/cyclic_conveyor_pink_corner.png) |
+| - | Pink Concrete Powder | ![pink_concrete_powder](../images/cyclic_conveyor_pink_corner.png) |
 
 ---
 ## Purple Concrete
@@ -4963,9 +4963,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Concrete Powder | ![purple_concrete_powder](../images/cyclic_purple_concrete_powder.png) |
-| - | Purple Concrete Powder | ![purple_concrete_powder](../images/cyclic_purple_concrete_powder.png) |
-| - | Purple Concrete Powder | ![purple_concrete_powder](../images/cyclic_purple_concrete_powder.png) |
+| - | Purple Concrete Powder | ![purple_concrete_powder](../images/cyclic_conveyor_purple_corner.png) |
+| - | Purple Concrete Powder | ![purple_concrete_powder](../images/cyclic_conveyor_purple_corner.png) |
+| - | Purple Concrete Powder | ![purple_concrete_powder](../images/cyclic_conveyor_purple_corner.png) |
 
 ---
 ## Red Concrete
@@ -4973,9 +4973,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Concrete Powder | ![red_concrete_powder](../images/cyclic_red_concrete_powder.png) |
-| - | Red Concrete Powder | ![red_concrete_powder](../images/cyclic_red_concrete_powder.png) |
-| - | Red Concrete Powder | ![red_concrete_powder](../images/cyclic_red_concrete_powder.png) |
+| - | Red Concrete Powder | ![red_concrete_powder](../images/cyclic_conveyor_red_corner.png) |
+| - | Red Concrete Powder | ![red_concrete_powder](../images/cyclic_conveyor_red_corner.png) |
+| - | Red Concrete Powder | ![red_concrete_powder](../images/cyclic_conveyor_red_corner.png) |
 
 ---
 ## White Concrete
@@ -4983,9 +4983,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Concrete Powder | ![white_concrete_powder](../images/cyclic_white_concrete_powder.png) |
-| - | White Concrete Powder | ![white_concrete_powder](../images/cyclic_white_concrete_powder.png) |
-| - | White Concrete Powder | ![white_concrete_powder](../images/cyclic_white_concrete_powder.png) |
+| - | White Concrete Powder | ![white_concrete_powder](../images/cyclic_conveyor_white_corner.png) |
+| - | White Concrete Powder | ![white_concrete_powder](../images/cyclic_conveyor_white_corner.png) |
+| - | White Concrete Powder | ![white_concrete_powder](../images/cyclic_conveyor_white_corner.png) |
 
 ---
 ## Yellow Concrete
@@ -4993,9 +4993,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/cyclic_yellow_concrete_powder.png) |
-| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/cyclic_yellow_concrete_powder.png) |
-| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/cyclic_yellow_concrete_powder.png) |
+| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/cyclic_conveyor_yellow_corner.png) |
+| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/cyclic_conveyor_yellow_corner.png) |
+| - | Yellow Concrete Powder | ![yellow_concrete_powder](../images/cyclic_conveyor_yellow_corner.png) |
 
 ---
 ## Brain Coral
@@ -5003,9 +5003,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Brain Coral | ![dead_brain_coral](../images/cyclic_dead_brain_coral.png) |
-| - | Brain Coral | ![brain_coral](../images/cyclic_brain_coral.png) |
-| - | Dead Brain Coral | ![dead_brain_coral](../images/cyclic_dead_brain_coral.png) |
+| - | Dead Brain Coral | ![dead_brain_coral](../images/cyclic_0.png) |
+| - | Brain Coral | ![brain_coral](../images/cyclic_0.png) |
+| - | Dead Brain Coral | ![dead_brain_coral](../images/cyclic_0.png) |
 
 ---
 ## Brain Coral Block
@@ -5013,9 +5013,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Brain Coral Block | ![dead_brain_coral_block](../images/cyclic_dead_brain_coral_block.png) |
-| - | Brain Coral Block | ![brain_coral_block](../images/cyclic_brain_coral_block.png) |
-| - | Dead Brain Coral Block | ![dead_brain_coral_block](../images/cyclic_dead_brain_coral_block.png) |
+| - | Dead Brain Coral Block | ![dead_brain_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Brain Coral Block | ![brain_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Dead Brain Coral Block | ![dead_brain_coral_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Brain Coral Fan
@@ -5023,9 +5023,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Brain Coral Fan | ![dead_brain_coral_fan](../images/cyclic_dead_brain_coral_fan.png) |
-| - | Brain Coral Fan | ![brain_coral_fan](../images/cyclic_brain_coral_fan.png) |
-| - | Dead Brain Coral Fan | ![dead_brain_coral_fan](../images/cyclic_dead_brain_coral_fan.png) |
+| - | Dead Brain Coral Fan | ![dead_brain_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Brain Coral Fan | ![brain_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Dead Brain Coral Fan | ![dead_brain_coral_fan](../images/cyclic_fan_blades_off.png) |
 
 ---
 ## Bubble Coral
@@ -5033,9 +5033,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Bubble Coral | ![dead_bubble_coral](../images/cyclic_dead_bubble_coral.png) |
-| - | Bubble Coral | ![bubble_coral](../images/cyclic_bubble_coral.png) |
-| - | Dead Bubble Coral | ![dead_bubble_coral](../images/cyclic_dead_bubble_coral.png) |
+| - | Dead Bubble Coral | ![dead_bubble_coral](../images/cyclic_0.png) |
+| - | Bubble Coral | ![bubble_coral](../images/cyclic_0.png) |
+| - | Dead Bubble Coral | ![dead_bubble_coral](../images/cyclic_0.png) |
 
 ---
 ## Bubble Coral Block
@@ -5043,9 +5043,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Bubble Coral Block | ![dead_bubble_coral_block](../images/cyclic_dead_bubble_coral_block.png) |
-| - | Bubble Coral Block | ![bubble_coral_block](../images/cyclic_bubble_coral_block.png) |
-| - | Dead Bubble Coral Block | ![dead_bubble_coral_block](../images/cyclic_dead_bubble_coral_block.png) |
+| - | Dead Bubble Coral Block | ![dead_bubble_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Bubble Coral Block | ![bubble_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Dead Bubble Coral Block | ![dead_bubble_coral_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Bubble Coral Fan
@@ -5053,9 +5053,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Bubble Coral Fan | ![dead_bubble_coral_fan](../images/cyclic_dead_bubble_coral_fan.png) |
-| - | Bubble Coral Fan | ![bubble_coral_fan](../images/cyclic_bubble_coral_fan.png) |
-| - | Dead Bubble Coral Fan | ![dead_bubble_coral_fan](../images/cyclic_dead_bubble_coral_fan.png) |
+| - | Dead Bubble Coral Fan | ![dead_bubble_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Bubble Coral Fan | ![bubble_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Dead Bubble Coral Fan | ![dead_bubble_coral_fan](../images/cyclic_fan_blades_off.png) |
 
 ---
 ## Fire Coral
@@ -5063,9 +5063,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Fire Coral | ![dead_fire_coral](../images/cyclic_dead_fire_coral.png) |
-| - | Fire Coral | ![fire_coral](../images/cyclic_fire_coral.png) |
-| - | Dead Fire Coral | ![dead_fire_coral](../images/cyclic_dead_fire_coral.png) |
+| - | Dead Fire Coral | ![dead_fire_coral](../images/cyclic_fire.png) |
+| - | Fire Coral | ![fire_coral](../images/cyclic_fire.png) |
+| - | Dead Fire Coral | ![dead_fire_coral](../images/cyclic_fire.png) |
 
 ---
 ## Fire Coral Block
@@ -5073,9 +5073,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Fire Coral Block | ![dead_fire_coral_block](../images/cyclic_dead_fire_coral_block.png) |
-| - | Fire Coral Block | ![fire_coral_block](../images/cyclic_fire_coral_block.png) |
-| - | Dead Fire Coral Block | ![dead_fire_coral_block](../images/cyclic_dead_fire_coral_block.png) |
+| - | Dead Fire Coral Block | ![dead_fire_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Fire Coral Block | ![fire_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Dead Fire Coral Block | ![dead_fire_coral_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Fire Coral Fan
@@ -5083,9 +5083,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Fire Coral Fan | ![dead_fire_coral_fan](../images/cyclic_dead_fire_coral_fan.png) |
-| - | Fire Coral Fan | ![fire_coral_fan](../images/cyclic_fire_coral_fan.png) |
-| - | Dead Fire Coral Fan | ![dead_fire_coral_fan](../images/cyclic_dead_fire_coral_fan.png) |
+| - | Dead Fire Coral Fan | ![dead_fire_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Fire Coral Fan | ![fire_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Dead Fire Coral Fan | ![dead_fire_coral_fan](../images/cyclic_fan_blades_off.png) |
 
 ---
 ## Horn Coral
@@ -5093,9 +5093,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Horn Coral | ![dead_horn_coral](../images/cyclic_dead_horn_coral.png) |
-| - | Horn Coral | ![horn_coral](../images/cyclic_horn_coral.png) |
-| - | Dead Horn Coral | ![dead_horn_coral](../images/cyclic_dead_horn_coral.png) |
+| - | Dead Horn Coral | ![dead_horn_coral](../images/cyclic_0.png) |
+| - | Horn Coral | ![horn_coral](../images/cyclic_0.png) |
+| - | Dead Horn Coral | ![dead_horn_coral](../images/cyclic_0.png) |
 
 ---
 ## Horn Coral Block
@@ -5103,9 +5103,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Horn Coral Block | ![dead_horn_coral_block](../images/cyclic_dead_horn_coral_block.png) |
-| - | Horn Coral Block | ![horn_coral_block](../images/cyclic_horn_coral_block.png) |
-| - | Dead Horn Coral Block | ![dead_horn_coral_block](../images/cyclic_dead_horn_coral_block.png) |
+| - | Dead Horn Coral Block | ![dead_horn_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Horn Coral Block | ![horn_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Dead Horn Coral Block | ![dead_horn_coral_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Horn Coral Fan
@@ -5113,9 +5113,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Horn Coral Fan | ![dead_horn_coral_fan](../images/cyclic_dead_horn_coral_fan.png) |
-| - | Horn Coral Fan | ![horn_coral_fan](../images/cyclic_horn_coral_fan.png) |
-| - | Dead Horn Coral Fan | ![dead_horn_coral_fan](../images/cyclic_dead_horn_coral_fan.png) |
+| - | Dead Horn Coral Fan | ![dead_horn_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Horn Coral Fan | ![horn_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Dead Horn Coral Fan | ![dead_horn_coral_fan](../images/cyclic_fan_blades_off.png) |
 
 ---
 ## Tube Coral Fan
@@ -5123,9 +5123,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_dead_tube_coral_fan.png) |
-| - | Tube Coral Fan | ![tube_coral_fan](../images/cyclic_tube_coral_fan.png) |
-| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_dead_tube_coral_fan.png) |
+| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Tube Coral Fan | ![tube_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_fan_blades_off.png) |
 
 ---
 ## Tube Coral Block
@@ -5133,9 +5133,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Tube Coral Block | ![dead_tube_coral_block](../images/cyclic_dead_tube_coral_block.png) |
-| - | Tube Coral Block | ![tube_coral_block](../images/cyclic_tube_coral_block.png) |
-| - | Dead Tube Coral Block | ![dead_tube_coral_block](../images/cyclic_dead_tube_coral_block.png) |
+| - | Dead Tube Coral Block | ![dead_tube_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Tube Coral Block | ![tube_coral_block](../images/cyclic_block_workbench_front.png) |
+| - | Dead Tube Coral Block | ![dead_tube_coral_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Tube Coral Fan
@@ -5143,9 +5143,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_dead_tube_coral_fan.png) |
-| - | Tube Coral Fan | ![tube_coral_fan](../images/cyclic_tube_coral_fan.png) |
-| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_dead_tube_coral_fan.png) |
+| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Tube Coral Fan | ![tube_coral_fan](../images/cyclic_fan_blades_off.png) |
+| - | Dead Tube Coral Fan | ![dead_tube_coral_fan](../images/cyclic_fan_blades_off.png) |
 
 ---
 ## Sand
@@ -5153,9 +5153,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass | ![glass](../images/cyclic_glass.png) |
-| - | Glass | ![glass](../images/cyclic_glass.png) |
-| - | Glass | ![glass](../images/cyclic_glass.png) |
+| - | Glass | ![glass](../images/cyclic_dark_glass.png) |
+| - | Glass | ![glass](../images/cyclic_dark_glass.png) |
+| - | Glass | ![glass](../images/cyclic_dark_glass.png) |
 
 ---
 ## Sand
@@ -5163,7 +5163,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass | ![glass](../images/cyclic_glass.png) |
+| - | Glass | ![glass](../images/cyclic_dark_glass.png) |
 
 ---
 ## Peat Unbaked
@@ -5171,9 +5171,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| - | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| - | Charcoal | ![charcoal](../images/cyclic_0.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Gravel
@@ -5181,9 +5181,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Cake
@@ -5191,9 +5191,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Egg | ![egg](../images/cyclic_egg.png) |
-| - | Wheat | ![wheat](../images/cyclic_wheat.png) |
-| - | Egg | ![egg](../images/cyclic_egg.png) |
+| - | Egg | ![egg](../images/cyclic_0.png) |
+| - | Wheat | ![wheat](../images/cyclic_0.png) |
+| - | Egg | ![egg](../images/cyclic_0.png) |
 
 ---
 ## Golden Carrot
@@ -5201,9 +5201,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carrot | ![carrot](../images/cyclic_carrot.png) |
-| - | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| - | Carrot | ![carrot](../images/cyclic_carrot.png) |
+| - | Carrot | ![carrot](../images/cyclic_carrot_diamond.png) |
+| - | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| - | Carrot | ![carrot](../images/cyclic_carrot_diamond.png) |
 
 ---
 ## Honeycomb Block
@@ -5211,9 +5211,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeycomb | ![honeycomb](../images/cyclic_honeycomb.png) |
-| - | Honeycomb | ![honeycomb](../images/cyclic_honeycomb.png) |
-| - | Honeycomb | ![honeycomb](../images/cyclic_honeycomb.png) |
+| - | Honeycomb | ![honeycomb](../images/cyclic_0.png) |
+| - | Honeycomb | ![honeycomb](../images/cyclic_0.png) |
+| - | Honeycomb | ![honeycomb](../images/cyclic_0.png) |
 
 ---
 ## Cookie
@@ -5221,9 +5221,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wheat | ![wheat](../images/cyclic_wheat.png) |
-| - | Cocoa Beans | ![cocoa_beans](../images/cyclic_cocoa_beans.png) |
-| - | Wheat | ![wheat](../images/cyclic_wheat.png) |
+| - | Wheat | ![wheat](../images/cyclic_0.png) |
+| - | Cocoa Beans | ![cocoa_beans](../images/cyclic_0.png) |
+| - | Wheat | ![wheat](../images/cyclic_0.png) |
 
 ---
 ## Beehive
@@ -5231,9 +5231,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/cyclic_chest.png) |
-| - | Honeycomb | ![honeycomb](../images/cyclic_honeycomb.png) |
-| - | Stick | ![stick](../images/cyclic_stick.png) |
+| - | Chest | ![chest](../images/cyclic_0.png) |
+| - | Honeycomb | ![honeycomb](../images/cyclic_0.png) |
+| - | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Glistering Melon Slice
@@ -5241,9 +5241,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Melon Slice | ![melon_slice](../images/cyclic_melon_slice.png) |
-| - | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
-| - | Melon Slice | ![melon_slice](../images/cyclic_melon_slice.png) |
+| - | Melon Slice | ![melon_slice](../images/cyclic_0.png) |
+| - | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
+| - | Melon Slice | ![melon_slice](../images/cyclic_0.png) |
 
 ---
 ## Bee Nest
@@ -5251,9 +5251,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeycomb Block | ![honeycomb_block](../images/cyclic_honeycomb_block.png) |
-| - | Honeycomb | ![honeycomb](../images/cyclic_honeycomb.png) |
-| - | Honeycomb Block | ![honeycomb_block](../images/cyclic_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/cyclic_block_workbench_front.png) |
+| - | Honeycomb | ![honeycomb](../images/cyclic_0.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Pumpkin Pie
@@ -5261,9 +5261,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Egg | ![egg](../images/cyclic_egg.png) |
-| - | Pumpkin | ![pumpkin](../images/cyclic_pumpkin.png) |
-| - | Egg | ![egg](../images/cyclic_egg.png) |
+| - | Egg | ![egg](../images/cyclic_0.png) |
+| - | Pumpkin | ![pumpkin](../images/cyclic_0.png) |
+| - | Egg | ![egg](../images/cyclic_0.png) |
 
 ---
 ## Honey Block
@@ -5271,9 +5271,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick | ![stick](../images/cyclic_stick.png) |
-| - | Stick | ![stick](../images/cyclic_stick.png) |
-| - | Stick | ![stick](../images/cyclic_stick.png) |
+| - | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| - | Stick | ![stick](../images/cyclic_crafting_stick.png) |
+| - | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Honey Block
@@ -5281,7 +5281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stick | ![stick](../images/cyclic_stick.png) |
+| - | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 
 ---
 ## Honey Bottle
@@ -5289,9 +5289,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
 
 ---
 ## Ice
@@ -5299,9 +5299,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Snow Block | ![snow_block](../images/cyclic_snow_block.png) |
-| - | Snow Block | ![snow_block](../images/cyclic_snow_block.png) |
-| - | Snow Block | ![snow_block](../images/cyclic_snow_block.png) |
+| - | Snow Block | ![snow_block](../images/cyclic_block_workbench_front.png) |
+| - | Snow Block | ![snow_block](../images/cyclic_block_workbench_front.png) |
+| - | Snow Block | ![snow_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Ice
@@ -5309,7 +5309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Snow Block | ![snow_block](../images/cyclic_snow_block.png) |
+| - | Snow Block | ![snow_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Magma Block
@@ -5317,9 +5317,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gravel | ![gravel](../images/cyclic_gravel.png) |
-| - | Gravel | ![gravel](../images/cyclic_gravel.png) |
-| - | Gravel | ![gravel](../images/cyclic_gravel.png) |
+| - | Gravel | ![gravel](../images/cyclic_0.png) |
+| - | Gravel | ![gravel](../images/cyclic_0.png) |
+| - | Gravel | ![gravel](../images/cyclic_0.png) |
 
 ---
 ## Nether Bricks
@@ -5327,9 +5327,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Red Nether Bricks
@@ -5337,9 +5337,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
-| - | Nether Wart | ![nether_wart](../images/cyclic_nether_wart.png) |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
+| - | Nether Wart | ![nether_wart](../images/cyclic_mattock_nether.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Nether Bricks
@@ -5347,9 +5347,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
-| - | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
+| - | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 
 ---
 ## Magma Cream
@@ -5357,9 +5357,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
 
 ---
 ## Magma Cream
@@ -5367,7 +5367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
+| - | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
 
 ---
 ## Magma Block
@@ -5393,9 +5393,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Egg | ![egg](../images/cyclic_egg.png) |
-| - | Wheat | ![wheat](../images/cyclic_wheat.png) |
-| - | Sugar | ![sugar](../images/cyclic_sugar.png) |
+| - | Egg | ![egg](../images/cyclic_0.png) |
+| - | Wheat | ![wheat](../images/cyclic_0.png) |
+| - | Sugar | ![sugar](../images/cyclic_0.png) |
 
 ---
 ## Mossy Stone Bricks
@@ -5403,9 +5403,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/cyclic_stone_bricks.png) |
-| - | Stone Bricks | ![stone_bricks](../images/cyclic_stone_bricks.png) |
-| - | Stone Bricks | ![stone_bricks](../images/cyclic_stone_bricks.png) |
+| - | Stone Bricks | ![stone_bricks](../images/cyclic_mattock_stone.png) |
+| - | Stone Bricks | ![stone_bricks](../images/cyclic_mattock_stone.png) |
+| - | Stone Bricks | ![stone_bricks](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Mossy Stone Bricks
@@ -5413,7 +5413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/cyclic_stone_bricks.png) |
+| - | Stone Bricks | ![stone_bricks](../images/cyclic_mattock_stone.png) |
 
 ---
 ## Mossy Cobblestone
@@ -5421,9 +5421,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Mossy Cobblestone
@@ -5431,7 +5431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Moss Block
@@ -5439,7 +5439,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coarse Dirt | ![coarse_dirt](../images/cyclic_coarse_dirt.png) |
+| - | Coarse Dirt | ![coarse_dirt](../images/cyclic_0.png) |
 
 ---
 ## Mycelium
@@ -5447,9 +5447,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mushrooms | ![mushrooms](../images/cyclic_mushrooms.png) |
-| - | Mushrooms | ![mushrooms](../images/cyclic_mushrooms.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Mushrooms | ![mushrooms](../images/cyclic_0.png) |
+| - | Mushrooms | ![mushrooms](../images/cyclic_0.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Gem Obsidian
@@ -5459,7 +5459,7 @@
 | :--- | :--- | :--- |
 | - | Gems/Emerald | ![gems/emerald](../images/cyclic_gems/emerald.png) |
 | - | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| - | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_block.png) |
+| - | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_axe.png) |
 
 ---
 ## Gem Obsidian
@@ -5469,7 +5469,7 @@
 | :--- | :--- | :--- |
 | - | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
 | - | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| - | Wither Rose | ![wither_rose](../images/cyclic_wither_rose.png) |
+| - | Wither Rose | ![wither_rose](../images/cyclic_wither.png) |
 
 ---
 ## Obsidian
@@ -5477,9 +5477,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
-| - | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
+| - | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Gem Obsidian
@@ -5489,7 +5489,7 @@
 | :--- | :--- | :--- |
 | - | Gems/Emerald | ![gems/emerald](../images/cyclic_gems/emerald.png) |
 | - | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus_fruit.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/cyclic_chorus.png) |
 
 ---
 ## Dirt Path
@@ -5497,9 +5497,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
-| - | Grass Block | ![grass_block](../images/cyclic_grass_block.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
+| - | Grass Block | ![grass_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Peat Unbaked
@@ -5507,9 +5507,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Biomass | ![biomass](../images/cyclic_biomass.png) |
-| - | Charcoal | ![charcoal](../images/cyclic_charcoal.png) |
-| - | Dirt | ![dirt](../images/cyclic_dirt.png) |
+| - | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
+| - | Charcoal | ![charcoal](../images/cyclic_0.png) |
+| - | Dirt | ![dirt](../images/cyclic_0.png) |
 
 ---
 ## Peat Fuel Enriched
@@ -5537,9 +5537,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
 
 ---
 ## Slime Block
@@ -5547,7 +5547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slime Ball | ![slime_ball](../images/cyclic_slime_ball.png) |
+| - | Slime Ball | ![slime_ball](../images/cyclic_0.png) |
 
 ---
 ## Large Fern
@@ -5555,7 +5555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fern | ![fern](../images/cyclic_fern.png) |
+| - | Fern | ![fern](../images/cyclic_0.png) |
 
 ---
 ## Tall Grass
@@ -5563,7 +5563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass | ![grass](../images/cyclic_grass.png) |
+| - | Grass | ![grass](../images/cyclic_0.png) |
 
 ---
 ## Experience Bottle
@@ -5571,9 +5571,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
 
 ---
 ## Experience Bottle
@@ -5581,7 +5581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/cyclic_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/cyclic_dark_glass.png) |
 
 ---
 ## Experience Food
@@ -5589,9 +5589,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sugar | ![sugar](../images/cyclic_sugar.png) |
-| - | Sugar | ![sugar](../images/cyclic_sugar.png) |
-| - | Sugar | ![sugar](../images/cyclic_sugar.png) |
+| - | Sugar | ![sugar](../images/cyclic_0.png) |
+| - | Sugar | ![sugar](../images/cyclic_0.png) |
+| - | Sugar | ![sugar](../images/cyclic_0.png) |
 
 ---
 ## Soulstone
@@ -5599,9 +5599,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| o | Nether Stars | ![nether_stars](../images/cyclic_nether_stars.png) |
+| o | Nether Stars | ![nether_stars](../images/cyclic_mattock_nether.png) |
 | i | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
-| g | Totem Of Undying | ![totem_of_undying](../images/cyclic_totem_of_undying.png) |
+| g | Totem Of Undying | ![totem_of_undying](../images/cyclic_0.png) |
 
 ---
 ##  1000}
@@ -5609,7 +5609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Sand | ![soul_sand](../images/cyclic_soul_sand.png) |
+| - | Soul Sand | ![soul_sand](../images/cyclic_copper_soul_lantern.png) |
 
 ---
 ## Soul Sand
@@ -5617,7 +5617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Netherrack | ![netherrack](../images/cyclic_netherrack.png) |
+| - | Netherrack | ![netherrack](../images/cyclic_0.png) |
 
 ---
 ## Soul Soil
@@ -5633,7 +5633,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | o | Dyes/Orange | ![dyes/orange](../images/cyclic_dyes/orange.png) |
-| s | White Terracotta | ![white_terracotta](../images/cyclic_white_terracotta.png) |
+| s | White Terracotta | ![white_terracotta](../images/cyclic_conveyor_white_corner.png) |
 
 ---
 ## Soundproofing Ghost
@@ -5651,7 +5651,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | a | Dyes/Orange | ![dyes/orange](../images/cyclic_dyes/orange.png) |
-| c | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
+| c | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
 | p | Carbon Paper | ![carbon_paper](../images/cyclic_carbon_paper.png) |
 
 ---
@@ -5668,7 +5668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Note Block | ![note_block](../images/cyclic_note_block.png) |
+| s | Note Block | ![note_block](../images/cyclic_block_workbench_front.png) |
 | r | Redstone | ![redstone](../images/cyclic_redstone.png) |
 
 ---
@@ -5677,8 +5677,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Note Block | ![note_block](../images/cyclic_note_block.png) |
-| r | Jukebox | ![jukebox](../images/cyclic_jukebox.png) |
+| s | Note Block | ![note_block](../images/cyclic_block_workbench_front.png) |
+| r | Jukebox | ![jukebox](../images/cyclic_0.png) |
 
 ---
 ## Spark
@@ -5686,9 +5686,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Candles | ![candles](../images/cyclic_candles.png) |
+| - | Candles | ![candles](../images/cyclic_0.png) |
 | - | Dusts/Glowstone | ![dusts/glowstone](../images/cyclic_dusts/glowstone.png) |
-| - | Torches | ![torches](../images/cyclic_torches.png) |
+| - | Torches | ![torches](../images/cyclic_0.png) |
 
 ---
 ## Spawner Seeker
@@ -5696,9 +5696,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Nether Wart | ![nether_wart](../images/cyclic_nether_wart.png) |
-| s | Mossy Cobblestone | ![mossy_cobblestone](../images/cyclic_mossy_cobblestone.png) |
-| p | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
+| w | Nether Wart | ![nether_wart](../images/cyclic_mattock_nether.png) |
+| s | Mossy Cobblestone | ![mossy_cobblestone](../images/cyclic_mossy.png) |
+| p | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
 | d | Dyes/Purple | ![dyes/purple](../images/cyclic_dyes/purple.png) |
 
 ---
@@ -5718,9 +5718,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| b | Bone Block | ![bone_block](../images/cyclic_bone_block.png) |
-| o | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
-| f | Gold Nugget | ![gold_nugget](../images/cyclic_gold_nugget.png) |
+| b | Bone Block | ![bone_block](../images/cyclic_block_workbench_front.png) |
+| o | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
+| f | Gold Nugget | ![gold_nugget](../images/cyclic_copper_nugget.png) |
 
 ---
 ## Spell Water
@@ -5729,9 +5729,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | e | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
-| b | Lapis Block | ![lapis_block](../images/cyclic_lapis_block.png) |
-| o | Magma Cream | ![magma_cream](../images/cyclic_magma_cream.png) |
-| f | Ice | ![ice](../images/cyclic_ice.png) |
+| b | Lapis Block | ![lapis_block](../images/cyclic_block_workbench_front.png) |
+| o | Magma Cream | ![magma_cream](../images/cyclic_magma.png) |
+| f | Ice | ![ice](../images/cyclic_ice_scepter.png) |
 
 ---
 ## Spelunker
@@ -5739,7 +5739,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| b | Stick | ![stick](../images/cyclic_stick.png) |
+| b | Stick | ![stick](../images/cyclic_crafting_stick.png) |
 | s | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
 | g | Dyes/Light Blue | ![dyes/light_blue](../images/cyclic_dyes/light_blue.png) |
 
@@ -5749,8 +5749,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Spider Eye | ![spider_eye](../images/cyclic_spider_eye.png) |
-| t | Spikes Iron | ![spikes_iron](../images/cyclic_spikes_iron.png) |
+| s | Spider Eye | ![spider_eye](../images/cyclic_ender_eye_reuse.png) |
+| t | Spikes Iron | ![spikes_iron](../images/cyclic_spikes_iron_base_down.png) |
 
 ---
 ## Spikes Diamond
@@ -5759,7 +5759,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Diamond | ![diamond](../images/cyclic_diamond.png) |
-| t | Spikes Iron | ![spikes_iron](../images/cyclic_spikes_iron.png) |
+| t | Spikes Iron | ![spikes_iron](../images/cyclic_spikes_iron_base_down.png) |
 
 ---
 ## Spikes Fire
@@ -5768,7 +5768,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Fireball | ![fireball](../images/cyclic_fireball.png) |
-| t | Spikes Iron | ![spikes_iron](../images/cyclic_spikes_iron.png) |
+| t | Spikes Iron | ![spikes_iron](../images/cyclic_spikes_iron_base_down.png) |
 
 ---
 ## Spikes Iron
@@ -5776,9 +5776,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
-| t | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
-| r | Repeater | ![repeater](../images/cyclic_repeater.png) |
+| s | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
+| t | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
+| r | Repeater | ![repeater](../images/cyclic_0.png) |
 
 ---
 ## Sponge Lava
@@ -5786,9 +5786,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| t | Sponge | ![sponge](../images/cyclic_sponge.png) |
-| s | Tuff | ![tuff](../images/cyclic_tuff.png) |
-| i | Magma Block | ![magma_block](../images/cyclic_magma_block.png) |
+| t | Sponge | ![sponge](../images/cyclic_sponge_lava.png) |
+| s | Tuff | ![tuff](../images/cyclic_0.png) |
+| i | Magma Block | ![magma_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Lead
@@ -5796,7 +5796,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cyclic_string.png) |
+| - | String | ![string](../images/cyclic_0.png) |
 
 ---
 ## Sprinkler
@@ -5804,9 +5804,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Cauldron | ![cauldron](../images/cyclic_cauldron.png) |
+| d | Cauldron | ![cauldron](../images/cyclic_0.png) |
 | c | Terra Glass | ![terra_glass](../images/cyclic_terra_glass.png) |
-| b | Hopper Fluid | ![hopper_fluid](../images/cyclic_hopper_fluid.png) |
+| b | Hopper Fluid | ![hopper_fluid](../images/cyclic_back_fluid.png) |
 
 ---
 ## Sponge Milk
@@ -5814,9 +5814,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sponge | ![sponge](../images/cyclic_sponge.png) |
+| - | Sponge | ![sponge](../images/cyclic_sponge_lava.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/cyclic_dyes/magenta.png) |
-| - | Sponge | ![sponge](../images/cyclic_sponge.png) |
+| - | Sponge | ![sponge](../images/cyclic_sponge_lava.png) |
 
 ---
 ## Stirrups
@@ -5824,9 +5824,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 | d | Lead | ![lead](../images/cyclic_lead.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Stirrups Reverse
@@ -5834,9 +5834,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Gold Ingot | ![gold_ingot](../images/cyclic_gold_ingot.png) |
+| i | Gold Ingot | ![gold_ingot](../images/cyclic_gold.png) |
 | d | Lead | ![lead](../images/cyclic_lead.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ##  1000}
@@ -5860,7 +5860,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 | d | Diamond | ![diamond](../images/cyclic_diamond.png) |
 | c | Crate | ![crate](../images/cyclic_crate.png) |
 
@@ -5870,10 +5870,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| l | Quartz | ![quartz](../images/cyclic_quartz.png) |
-| g | Dropper | ![dropper](../images/cyclic_dropper.png) |
-| r | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
-| h | Observer | ![observer](../images/cyclic_observer.png) |
+| l | Quartz | ![quartz](../images/cyclic_quartz_black.png) |
+| g | Dropper | ![dropper](../images/cyclic_0.png) |
+| r | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
+| h | Observer | ![observer](../images/cyclic_0.png) |
 | q | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -5883,7 +5883,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Stone | ![stone](../images/cyclic_stone.png) |
-| c | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
+| c | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Sturdy Stone
@@ -5892,7 +5892,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | s | Stone | ![stone](../images/cyclic_stone.png) |
-| c | Cobblestone | ![cobblestone](../images/cyclic_cobblestone.png) |
+| c | Cobblestone | ![cobblestone](../images/cyclic_0.png) |
 
 ---
 ## Sugar
@@ -5917,7 +5917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tank | ![tank](../images/cyclic_tank.png) |
+| - | Tank | ![tank](../images/cyclic_tank_base.png) |
 
 ---
 ## Teleport
@@ -5925,8 +5925,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | End Stone | ![end_stone](../images/cyclic_end_stone.png) |
-| c | Calcite | ![calcite](../images/cyclic_calcite.png) |
+| s | End Stone | ![end_stone](../images/cyclic_conveyor_end.png) |
+| c | Calcite | ![calcite](../images/cyclic_0.png) |
 | n | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
 
 ---
@@ -5952,7 +5952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Lime Stained Glass | ![lime_stained_glass](../images/cyclic_lime_stained_glass.png) |
+| g | Lime Stained Glass | ![lime_stained_glass](../images/cyclic_conveyor_lime_corner.png) |
 | o | Terra Preta | ![terra_preta](../images/cyclic_terra_preta.png) |
 
 ---
@@ -5961,7 +5961,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Biomass | ![biomass](../images/cyclic_biomass.png) |
+| c | Biomass | ![biomass](../images/cyclic_peat_biomass.png) |
 | i | Peat Unbaked | ![peat_unbaked](../images/cyclic_peat_unbaked.png) |
 
 ---
@@ -5970,9 +5970,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Clay | ![clay](../images/cyclic_clay.png) |
-| s | String | ![string](../images/cyclic_string.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| c | Clay | ![clay](../images/cyclic_battery_clay.png) |
+| s | String | ![string](../images/cyclic_0.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Tile Transporter Empty
@@ -5980,9 +5980,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Slimeballs | ![slimeballs](../images/cyclic_slimeballs.png) |
-| s | String | ![string](../images/cyclic_string.png) |
-| l | Leather | ![leather](../images/cyclic_leather.png) |
+| c | Slimeballs | ![slimeballs](../images/cyclic_0.png) |
+| s | String | ![string](../images/cyclic_0.png) |
+| l | Leather | ![leather](../images/cyclic_0.png) |
 
 ---
 ## Amethyst Shard
@@ -6004,9 +6004,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Ingot | ![gold_ingot](../images/cyclic_gold_ingot.png) |
-| c | Coal Block | ![coal_block](../images/cyclic_coal_block.png) |
-| l | Logs | ![logs](../images/cyclic_logs.png) |
+| g | Gold Ingot | ![gold_ingot](../images/cyclic_gold.png) |
+| c | Coal Block | ![coal_block](../images/cyclic_block_workbench_front.png) |
+| l | Logs | ![logs](../images/cyclic_0.png) |
 
 ---
 ## Toxic Carrot
@@ -6014,10 +6014,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Golden Carrot | ![golden_carrot](../images/cyclic_golden_carrot.png) |
-| b | Beetroot | ![beetroot](../images/cyclic_beetroot.png) |
-| p | Poisonous Potato | ![poisonous_potato](../images/cyclic_poisonous_potato.png) |
-| d | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_fermented_spider_eye.png) |
+| c | Golden Carrot | ![golden_carrot](../images/cyclic_carrot_diamond.png) |
+| b | Beetroot | ![beetroot](../images/cyclic_0.png) |
+| p | Poisonous Potato | ![poisonous_potato](../images/cyclic_0.png) |
+| d | Fermented Spider Eye | ![fermented_spider_eye](../images/cyclic_ender_eye_reuse.png) |
 
 ---
 ## Trash
@@ -6025,8 +6025,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| n | Iron Nugget | ![iron_nugget](../images/cyclic_iron_nugget.png) |
-| s | Iron Ingot | ![iron_ingot](../images/cyclic_iron_ingot.png) |
+| n | Iron Nugget | ![iron_nugget](../images/cyclic_copper_nugget.png) |
+| s | Iron Ingot | ![iron_ingot](../images/cyclic_iron.png) |
 | c | Chests/Wooden | ![chests/wooden](../images/cyclic_chests/wooden.png) |
 
 ---
@@ -6045,7 +6045,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
-| r | Repeater | ![repeater](../images/cyclic_repeater.png) |
+| r | Repeater | ![repeater](../images/cyclic_0.png) |
 
 ---
 ## Uncrafter
@@ -6053,7 +6053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| c | Calcite | ![calcite](../images/cyclic_calcite.png) |
+| c | Calcite | ![calcite](../images/cyclic_0.png) |
 | s | Gem Obsidian | ![gem_obsidian](../images/cyclic_gem_obsidian.png) |
 | o | Obsidian | ![obsidian](../images/cyclic_obsidian.png) |
 | g | Nuggets/Netherite | ![nuggets/netherite](../images/cyclic_nuggets/netherite.png) |
@@ -6066,8 +6066,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | o | Storage Blocks/Flint | ![storage_blocks/flint](../images/cyclic_storage_blocks/flint.png) |
-| s | Dispenser | ![dispenser](../images/cyclic_dispenser.png) |
-| l | Tripwire Hook | ![tripwire_hook](../images/cyclic_tripwire_hook.png) |
+| s | Dispenser | ![dispenser](../images/cyclic_0.png) |
+| l | Tripwire Hook | ![tripwire_hook](../images/cyclic_0.png) |
 | m | Storage Blocks/Cobblestone | ![storage_blocks/cobblestone](../images/cyclic_storage_blocks/cobblestone.png) |
 | r | Ingots/Gold | ![ingots/gold](../images/cyclic_ingots/gold.png) |
 
@@ -6077,11 +6077,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Gold Ingot | ![gold_ingot](../images/cyclic_gold_ingot.png) |
-| c | Ghast Tear | ![ghast_tear](../images/cyclic_ghast_tear.png) |
-| r | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl.png) |
-| b | Red Mushroom | ![red_mushroom](../images/cyclic_red_mushroom.png) |
-| x | Brown Mushroom | ![brown_mushroom](../images/cyclic_brown_mushroom.png) |
+| d | Gold Ingot | ![gold_ingot](../images/cyclic_gold.png) |
+| c | Ghast Tear | ![ghast_tear](../images/cyclic_0.png) |
+| r | Ender Pearl | ![ender_pearl](../images/cyclic_ender_pearl_mounted.png) |
+| b | Red Mushroom | ![red_mushroom](../images/cyclic_conveyor_red_corner.png) |
+| x | Brown Mushroom | ![brown_mushroom](../images/cyclic_conveyor_brown_corner.png) |
 
 ---
 ## Wand Missile
@@ -6090,8 +6090,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | c | Diamond | ![diamond](../images/cyclic_diamond.png) |
-| r | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| b | Copper Ingot | ![copper_ingot](../images/cyclic_copper_ingot.png) |
+| r | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| b | Copper Ingot | ![copper_ingot](../images/cyclic_copper.png) |
 
 ---
 ## Water Candle
@@ -6099,10 +6099,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| d | Candles | ![candles](../images/cyclic_candles.png) |
-| g | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/cyclic_light_weighted_pressure_plate.png) |
-| s | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_block.png) |
-| q | Quartz | ![quartz](../images/cyclic_quartz.png) |
+| d | Candles | ![candles](../images/cyclic_0.png) |
+| g | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/cyclic_conveyor_light_blue_corner.png) |
+| s | Amethyst Block | ![amethyst_block](../images/cyclic_amethyst_axe.png) |
+| q | Quartz | ![quartz](../images/cyclic_quartz_black.png) |
 
 ---
 ##  1000}
@@ -6110,7 +6110,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Honeycomb Block | ![honeycomb_block](../images/cyclic_honeycomb_block.png) |
+| - | Honeycomb Block | ![honeycomb_block](../images/cyclic_block_workbench_front.png) |
 
 ---
 ## Waxed Redstone
@@ -6118,7 +6118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Block | ![redstone_block](../images/cyclic_redstone_block.png) |
+| - | Redstone Block | ![redstone_block](../images/cyclic_waxed_redstone_block.png) |
 
 ---
 ## Beehive
@@ -6126,7 +6126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/cyclic_chest.png) |
+| - | Chest | ![chest](../images/cyclic_0.png) |
 
 ---
 ## Lamp
@@ -6134,7 +6134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Lamp | ![redstone_lamp](../images/cyclic_redstone_lamp.png) |
+| - | Redstone Lamp | ![redstone_lamp](../images/cyclic_carrot_redstone.png) |
 
 ---
 ## Wireless Energy
@@ -6142,9 +6142,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
-| c | Comparator | ![comparator](../images/cyclic_comparator.png) |
-| r | Nether Brick | ![nether_brick](../images/cyclic_nether_brick.png) |
+| i | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
+| c | Comparator | ![comparator](../images/cyclic_0.png) |
+| r | Nether Brick | ![nether_brick](../images/cyclic_mattock_nether.png) |
 | g | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
 ---
@@ -6153,8 +6153,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
-| c | Comparator | ![comparator](../images/cyclic_comparator.png) |
+| i | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
+| c | Comparator | ![comparator](../images/cyclic_0.png) |
 | r | Bucket | ![bucket](../images/cyclic_bucket.png) |
 | g | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
@@ -6164,8 +6164,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Bars | ![iron_bars](../images/cyclic_iron_bars.png) |
-| c | Comparator | ![comparator](../images/cyclic_comparator.png) |
+| i | Iron Bars | ![iron_bars](../images/cyclic_copper_bars.png) |
+| c | Comparator | ![comparator](../images/cyclic_0.png) |
 | r | Diamond | ![diamond](../images/cyclic_diamond.png) |
 | g | Gem Amber | ![gem_amber](../images/cyclic_gem_amber.png) |
 
@@ -6175,8 +6175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| q | Bone Block | ![bone_block](../images/cyclic_bone_block.png) |
+| i | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| q | Bone Block | ![bone_block](../images/cyclic_block_workbench_front.png) |
 | s | Dusts/Redstone | ![dusts/redstone](../images/cyclic_dusts/redstone.png) |
 
 ---
@@ -6185,9 +6185,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_shard.png) |
-| q | Copper Ingot | ![copper_ingot](../images/cyclic_copper_ingot.png) |
-| s | Repeater | ![repeater](../images/cyclic_repeater.png) |
+| i | Amethyst Shard | ![amethyst_shard](../images/cyclic_amethyst_axe.png) |
+| q | Copper Ingot | ![copper_ingot](../images/cyclic_copper.png) |
+| s | Repeater | ![repeater](../images/cyclic_0.png) |
 
 ---
 ## Stick
@@ -6209,8 +6209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crafting Table | ![crafting_table](../images/cyclic_crafting_table.png) |
-| - | Stone Tool Materials | ![stone_tool_materials](../images/cyclic_stone_tool_materials.png) |
-| - | Stone Tool Materials | ![stone_tool_materials](../images/cyclic_stone_tool_materials.png) |
+| - | Crafting Table | ![crafting_table](../images/cyclic_crafting_bag.png) |
+| - | Stone Tool Materials | ![stone_tool_materials](../images/cyclic_mattock_stone.png) |
+| - | Stone Tool Materials | ![stone_tool_materials](../images/cyclic_mattock_stone.png) |
 
 ---

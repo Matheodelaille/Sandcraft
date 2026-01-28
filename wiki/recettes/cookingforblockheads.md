@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Black Dyes | ![black_dyes](../images/cookingforblockheads_black_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Black Dyes | ![black_dyes](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Blue Kitchen Floor
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Blue Dyes | ![blue_dyes](../images/cookingforblockheads_blue_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Blue Dyes | ![blue_dyes](../images/cookingforblockheads_blue_kitchen_floor.png) |
 
 ---
 ## Brown Kitchen Floor
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Brown Dyes | ![brown_dyes](../images/cookingforblockheads_brown_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Brown Dyes | ![brown_dyes](../images/cookingforblockheads_brown_kitchen_floor.png) |
 
 ---
 ## Cooking Table
@@ -34,8 +34,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stones | ![stones](../images/cookingforblockheads_stones.png) |
-| C | Terracotta | ![terracotta](../images/cookingforblockheads_terracotta.png) |
+| S | Stones | ![stones](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Terracotta | ![terracotta](../images/cookingforblockheads_black_kitchen_floor.png) |
 | B | Crafting Book | ![crafting_book](../images/cookingforblockheads_crafting_book.png) |
 
 ---
@@ -44,8 +44,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Crafting Table | ![crafting_table](../images/cookingforblockheads_crafting_table.png) |
-| D | Diamonds | ![diamonds](../images/cookingforblockheads_diamonds.png) |
+| C | Crafting Table | ![crafting_table](../images/cookingforblockheads_cooking_table_front.png) |
+| D | Diamonds | ![diamonds](../images/cookingforblockheads_black_kitchen_floor.png) |
 | B | Recipe Book | ![recipe_book](../images/cookingforblockheads_recipe_book.png) |
 
 ---
@@ -54,8 +54,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Cyan Dyes | ![cyan_dyes](../images/cookingforblockheads_cyan_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Cyan Dyes | ![cyan_dyes](../images/cookingforblockheads_cyan_kitchen_floor.png) |
 
 ---
 ## Fridge
@@ -63,8 +63,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Wooden Chests | ![wooden_chests](../images/cookingforblockheads_wooden_chests.png) |
-| - | Iron Door | ![iron_door](../images/cookingforblockheads_iron_door.png) |
+| - | Wooden Chests | ![wooden_chests](../images/cookingforblockheads_black_kitchen_floor.png) |
+| - | Iron Door | ![iron_door](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Fruit Basket
@@ -72,8 +72,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Wooden Slabs | ![wooden_slabs](../images/cookingforblockheads_wooden_slabs.png) |
-| P | Wooden Pressure Plates | ![wooden_pressure_plates](../images/cookingforblockheads_wooden_pressure_plates.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/cookingforblockheads_black_kitchen_floor.png) |
+| P | Wooden Pressure Plates | ![wooden_pressure_plates](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Gray Kitchen Floor
@@ -81,8 +81,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Gray Dyes | ![gray_dyes](../images/cookingforblockheads_gray_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Gray Dyes | ![gray_dyes](../images/cookingforblockheads_gray_kitchen_floor.png) |
 
 ---
 ## Green Kitchen Floor
@@ -90,8 +90,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Green Dyes | ![green_dyes](../images/cookingforblockheads_green_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Green Dyes | ![green_dyes](../images/cookingforblockheads_green_kitchen_floor.png) |
 
 ---
 ## Hanging Corner
@@ -99,7 +99,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Terracotta | ![terracotta](../images/cookingforblockheads_terracotta.png) |
+| C | Terracotta | ![terracotta](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Heating Unit
@@ -107,9 +107,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nuggets | ![iron_nuggets](../images/cookingforblockheads_iron_nuggets.png) |
-| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_iron_ingots.png) |
-| C | Comparator | ![comparator](../images/cookingforblockheads_comparator.png) |
+| N | Iron Nuggets | ![iron_nuggets](../images/cookingforblockheads_black_kitchen_floor.png) |
+| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Comparator | ![comparator](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Ice Unit
@@ -117,9 +117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Snowball | ![snowball](../images/cookingforblockheads_snowball.png) |
-| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_iron_ingots.png) |
-| C | Comparator | ![comparator](../images/cookingforblockheads_comparator.png) |
+| S | Snowball | ![snowball](../images/cookingforblockheads_black_kitchen_floor.png) |
+| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Comparator | ![comparator](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Cabinet
@@ -127,8 +127,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Terracotta | ![terracotta](../images/cookingforblockheads_terracotta.png) |
-| B | Wooden Chests | ![wooden_chests](../images/cookingforblockheads_wooden_chests.png) |
+| C | Terracotta | ![terracotta](../images/cookingforblockheads_black_kitchen_floor.png) |
+| B | Wooden Chests | ![wooden_chests](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Corner
@@ -136,8 +136,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stones | ![stones](../images/cookingforblockheads_stones.png) |
-| C | Terracotta | ![terracotta](../images/cookingforblockheads_terracotta.png) |
+| S | Stones | ![stones](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Terracotta | ![terracotta](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Counter
@@ -145,9 +145,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stones | ![stones](../images/cookingforblockheads_stones.png) |
-| C | Terracotta | ![terracotta](../images/cookingforblockheads_terracotta.png) |
-| B | Wooden Chests | ![wooden_chests](../images/cookingforblockheads_wooden_chests.png) |
+| S | Stones | ![stones](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Terracotta | ![terracotta](../images/cookingforblockheads_black_kitchen_floor.png) |
+| B | Wooden Chests | ![wooden_chests](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## White Kitchen Floor
@@ -155,8 +155,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Coal Block | ![coal_block](../images/cookingforblockheads_coal_block.png) |
-| W | Quartz Block | ![quartz_block](../images/cookingforblockheads_quartz_block.png) |
+| B | Coal Block | ![coal_block](../images/cookingforblockheads_black_kitchen_floor.png) |
+| W | Quartz Block | ![quartz_block](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## White Kitchen Floor
@@ -164,8 +164,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | White Concrete | ![white_concrete](../images/cookingforblockheads_white_concrete.png) |
-| W | Black Concrete | ![black_concrete](../images/cookingforblockheads_black_concrete.png) |
+| B | White Concrete | ![white_concrete](../images/cookingforblockheads_black_kitchen_floor.png) |
+| W | Black Concrete | ![black_concrete](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Light Blue Kitchen Floor
@@ -173,8 +173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Light Blue Dyes | ![light_blue_dyes](../images/cookingforblockheads_light_blue_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Light Blue Dyes | ![light_blue_dyes](../images/cookingforblockheads_light_blue_kitchen_floor.png) |
 
 ---
 ## Light Gray Kitchen Floor
@@ -182,8 +182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Light Gray Dyes | ![light_gray_dyes](../images/cookingforblockheads_light_gray_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Light Gray Dyes | ![light_gray_dyes](../images/cookingforblockheads_light_gray_kitchen_floor.png) |
 
 ---
 ## Lime Kitchen Floor
@@ -191,8 +191,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Lime Dyes | ![lime_dyes](../images/cookingforblockheads_lime_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Lime Dyes | ![lime_dyes](../images/cookingforblockheads_lime_kitchen_floor.png) |
 
 ---
 ## Magenta Kitchen Floor
@@ -200,8 +200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Magenta Dyes | ![magenta_dyes](../images/cookingforblockheads_magenta_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Magenta Dyes | ![magenta_dyes](../images/cookingforblockheads_magenta_kitchen_floor.png) |
 
 ---
 ## Milk Jar
@@ -209,9 +209,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/cookingforblockheads_glass.png) |
-| P | Planks | ![planks](../images/cookingforblockheads_planks.png) |
-| M | Milk Bucket | ![milk_bucket](../images/cookingforblockheads_milk_bucket.png) |
+| G | Glass | ![glass](../images/cookingforblockheads_milk_glass.png) |
+| P | Planks | ![planks](../images/cookingforblockheads_black_kitchen_floor.png) |
+| M | Milk Bucket | ![milk_bucket](../images/cookingforblockheads_milk.png) |
 
 ---
 ## No Filter Edition
@@ -227,8 +227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Orange Dyes | ![orange_dyes](../images/cookingforblockheads_orange_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Orange Dyes | ![orange_dyes](../images/cookingforblockheads_orange_kitchen_floor.png) |
 
 ---
 ## Oven
@@ -236,9 +236,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_iron_ingots.png) |
-| G | Black Stained Glass | ![black_stained_glass](../images/cookingforblockheads_black_stained_glass.png) |
-| F | Furnace | ![furnace](../images/cookingforblockheads_furnace.png) |
+| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_black_kitchen_floor.png) |
+| G | Black Stained Glass | ![black_stained_glass](../images/cookingforblockheads_black_kitchen_floor.png) |
+| F | Furnace | ![furnace](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Pink Kitchen Floor
@@ -246,8 +246,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Pink Dyes | ![pink_dyes](../images/cookingforblockheads_pink_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Pink Dyes | ![pink_dyes](../images/cookingforblockheads_pink_kitchen_floor.png) |
 
 ---
 ## Preservation Chamber
@@ -255,9 +255,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/cookingforblockheads_redstone.png) |
-| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_iron_ingots.png) |
-| C | Comparator | ![comparator](../images/cookingforblockheads_comparator.png) |
+| R | Redstone | ![redstone](../images/cookingforblockheads_black_kitchen_floor.png) |
+| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Comparator | ![comparator](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Purple Kitchen Floor
@@ -265,8 +265,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Purple Dyes | ![purple_dyes](../images/cookingforblockheads_purple_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Purple Dyes | ![purple_dyes](../images/cookingforblockheads_purple_kitchen_floor.png) |
 
 ---
 ## Recipe Book
@@ -274,7 +274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Book | ![book](../images/cookingforblockheads_book.png) |
+| item | Book | ![book](../images/cookingforblockheads_crafting_book.png) |
 
 ---
 ## Recipe Book
@@ -290,8 +290,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Red Dyes | ![red_dyes](../images/cookingforblockheads_red_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Red Dyes | ![red_dyes](../images/cookingforblockheads_red_kitchen_floor.png) |
 
 ---
 ## Sink
@@ -299,9 +299,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_iron_ingots.png) |
-| C | Terracotta | ![terracotta](../images/cookingforblockheads_terracotta.png) |
-| B | Water Bucket | ![water_bucket](../images/cookingforblockheads_water_bucket.png) |
+| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_black_kitchen_floor.png) |
+| C | Terracotta | ![terracotta](../images/cookingforblockheads_black_kitchen_floor.png) |
+| B | Water Bucket | ![water_bucket](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Spice Rack
@@ -309,7 +309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Wooden Slabs | ![wooden_slabs](../images/cookingforblockheads_wooden_slabs.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Toaster
@@ -317,10 +317,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_iron_ingots.png) |
-| B | Stone Button | ![stone_button](../images/cookingforblockheads_stone_button.png) |
-| D | Iron Trapdoor | ![iron_trapdoor](../images/cookingforblockheads_iron_trapdoor.png) |
-| L | Lava Bucket | ![lava_bucket](../images/cookingforblockheads_lava_bucket.png) |
+| I | Iron Ingots | ![iron_ingots](../images/cookingforblockheads_black_kitchen_floor.png) |
+| B | Stone Button | ![stone_button](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Iron Trapdoor | ![iron_trapdoor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| L | Lava Bucket | ![lava_bucket](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Tool Rack
@@ -328,8 +328,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Wooden Slabs | ![wooden_slabs](../images/cookingforblockheads_wooden_slabs.png) |
-| I | Iron Nuggets | ![iron_nuggets](../images/cookingforblockheads_iron_nuggets.png) |
+| S | Wooden Slabs | ![wooden_slabs](../images/cookingforblockheads_black_kitchen_floor.png) |
+| I | Iron Nuggets | ![iron_nuggets](../images/cookingforblockheads_black_kitchen_floor.png) |
 
 ---
 ## Yellow Kitchen Floor
@@ -337,7 +337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_white_kitchen_floor.png) |
-| D | Yellow Dyes | ![yellow_dyes](../images/cookingforblockheads_yellow_dyes.png) |
+| F | White Kitchen Floor | ![white_kitchen_floor](../images/cookingforblockheads_black_kitchen_floor.png) |
+| D | Yellow Dyes | ![yellow_dyes](../images/cookingforblockheads_yellow_kitchen_floor.png) |
 
 ---

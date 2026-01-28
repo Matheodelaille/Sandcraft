@@ -66,7 +66,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Apple Logs | ![apple_logs](../images/terraqueous_apple_logs.png) |
+| - | Apple Logs | ![apple_logs](../images/terraqueous_apple.png) |
 
 ---
 ## Apple Pressure Plate
@@ -84,7 +84,7 @@
 | :--- | :--- | :--- |
 | - | Apple | ![apple](../images/terraqueous_apple.png) |
 | - | Apple Leaves | ![apple_leaves](../images/terraqueous_apple_leaves.png) |
-| - | Apple Logs | ![apple_logs](../images/terraqueous_apple_logs.png) |
+| - | Apple Logs | ![apple_logs](../images/terraqueous_apple.png) |
 
 ---
 ## Apple Sign
@@ -134,7 +134,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Gems/Endimium | ![gems/endimium](../images/terraqueous_gems/endimium.png) |
-| M | Phantom Membrane | ![phantom_membrane](../images/terraqueous_phantom_membrane.png) |
+| M | Phantom Membrane | ![phantom_membrane](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Auspicious Garden Fence
@@ -142,7 +142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Trickster Bloom | ![trickster_bloom](../images/terraqueous_trickster_bloom.png) |
+| F | Trickster Bloom | ![trickster_bloom](../images/terraqueous_trickster_bloom_cluster.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/terraqueous_ingots/iron.png) |
 
 ---
@@ -202,7 +202,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Banana Logs | ![banana_logs](../images/terraqueous_banana_logs.png) |
+| - | Banana Logs | ![banana_logs](../images/terraqueous_banana.png) |
 
 ---
 ## Banana Pressure Plate
@@ -220,7 +220,7 @@
 | :--- | :--- | :--- |
 | - | Banana | ![banana](../images/terraqueous_banana.png) |
 | - | Banana Leaves | ![banana_leaves](../images/terraqueous_banana_leaves.png) |
-| - | Banana Logs | ![banana_logs](../images/terraqueous_banana_logs.png) |
+| - | Banana Logs | ![banana_logs](../images/terraqueous_banana.png) |
 
 ---
 ## Banana Sign
@@ -269,7 +269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium_blocks.png) |
+| # | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium.png) |
 
 ---
 ## Beveled Endimium Block
@@ -277,7 +277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Endimium Blocks | ![endimium_blocks](../images/terraqueous_endimium_blocks.png) |
+| # | Endimium Blocks | ![endimium_blocks](../images/terraqueous_doodad_endimium.png) |
 
 ---
 ## Black Concrete Capital
@@ -285,7 +285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Concrete | ![black_concrete](../images/terraqueous_black_concrete.png) |
+| # | Black Concrete | ![black_concrete](../images/terraqueous_black_column_capital_body.png) |
 
 ---
 ## Black Concrete Column
@@ -293,7 +293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Concrete | ![black_concrete](../images/terraqueous_black_concrete.png) |
+| # | Black Concrete | ![black_concrete](../images/terraqueous_black_column_capital_body.png) |
 
 ---
 ## Black Concrete Edge
@@ -301,8 +301,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Black Concrete Powder | ![black_concrete_powder](../images/terraqueous_black_concrete_powder.png) |
-| # | Black Concrete | ![black_concrete](../images/terraqueous_black_concrete.png) |
+| @ | Black Concrete Powder | ![black_concrete_powder](../images/terraqueous_black_column_capital_body.png) |
+| # | Black Concrete | ![black_concrete](../images/terraqueous_black_column_capital_body.png) |
 
 ---
 ## Black Dye
@@ -310,7 +310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Pansy | ![black_pansy](../images/terraqueous_black_pansy.png) |
+| - | Black Pansy | ![black_pansy](../images/terraqueous_black_pansy_cluster.png) |
 
 ---
 ## Black Dye
@@ -318,7 +318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Rose | ![black_rose](../images/terraqueous_black_rose.png) |
+| - | Black Rose | ![black_rose](../images/terraqueous_black_rose_cluster.png) |
 
 ---
 ## Blue Concrete Capital
@@ -326,7 +326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Concrete | ![blue_concrete](../images/terraqueous_blue_concrete.png) |
+| # | Blue Concrete | ![blue_concrete](../images/terraqueous_blue_column_capital_body.png) |
 
 ---
 ## Blue Concrete Column
@@ -334,7 +334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Concrete | ![blue_concrete](../images/terraqueous_blue_concrete.png) |
+| # | Blue Concrete | ![blue_concrete](../images/terraqueous_blue_column_capital_body.png) |
 
 ---
 ## Blue Concrete Edge
@@ -342,8 +342,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Blue Concrete Powder | ![blue_concrete_powder](../images/terraqueous_blue_concrete_powder.png) |
-| # | Blue Concrete | ![blue_concrete](../images/terraqueous_blue_concrete.png) |
+| @ | Blue Concrete Powder | ![blue_concrete_powder](../images/terraqueous_blue_column_capital_body.png) |
+| # | Blue Concrete | ![blue_concrete](../images/terraqueous_blue_column_capital_body.png) |
 
 ---
 ## Blue Dye
@@ -351,7 +351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Trickster Bloom | ![trickster_bloom](../images/terraqueous_trickster_bloom.png) |
+| - | Trickster Bloom | ![trickster_bloom](../images/terraqueous_trickster_bloom_cluster.png) |
 
 ---
 ## Brown Concrete Capital
@@ -359,7 +359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Concrete | ![brown_concrete](../images/terraqueous_brown_concrete.png) |
+| # | Brown Concrete | ![brown_concrete](../images/terraqueous_brown_column_capital_body.png) |
 
 ---
 ## Brown Concrete Column
@@ -367,7 +367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Concrete | ![brown_concrete](../images/terraqueous_brown_concrete.png) |
+| # | Brown Concrete | ![brown_concrete](../images/terraqueous_brown_column_capital_body.png) |
 
 ---
 ## Brown Concrete Edge
@@ -375,8 +375,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Brown Concrete Powder | ![brown_concrete_powder](../images/terraqueous_brown_concrete_powder.png) |
-| # | Brown Concrete | ![brown_concrete](../images/terraqueous_brown_concrete.png) |
+| @ | Brown Concrete Powder | ![brown_concrete_powder](../images/terraqueous_brown_column_capital_body.png) |
+| # | Brown Concrete | ![brown_concrete](../images/terraqueous_brown_column_capital_body.png) |
 
 ---
 ## Brown Dye
@@ -384,7 +384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Burdock | ![burdock](../images/terraqueous_burdock.png) |
+| - | Burdock | ![burdock](../images/terraqueous_burdock_cluster.png) |
 
 ---
 ## Burnium Belt
@@ -394,8 +394,8 @@
 | :--- | :--- | :--- |
 | C | Gems/Burnium | ![gems/burnium](../images/terraqueous_gems/burnium.png) |
 | G | Nuggets/Gold | ![nuggets/gold](../images/terraqueous_nuggets/gold.png) |
-| M | Magma Cream | ![magma_cream](../images/terraqueous_magma_cream.png) |
-| L | Leather | ![leather](../images/terraqueous_leather.png) |
+| M | Magma Cream | ![magma_cream](../images/terraqueous_amethyst_dust.png) |
+| L | Leather | ![leather](../images/terraqueous_leather_scraps.png) |
 
 ---
 ## Burnium Block
@@ -412,7 +412,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dusts/Coal | ![dusts/coal](../images/terraqueous_dusts/coal.png) |
-| - | Blaze Powder | ![blaze_powder](../images/terraqueous_blaze_powder.png) |
+| - | Blaze Powder | ![blaze_powder](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Burnium Gem
@@ -420,7 +420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium_blocks.png) |
+| - | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium.png) |
 
 ---
 ## Burnium Gem
@@ -436,7 +436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cactus | ![cactus](../images/terraqueous_cactus.png) |
+| - | Cactus | ![cactus](../images/terraqueous_cactus_fruit.png) |
 | - | Pricklypear | ![pricklypear](../images/terraqueous_pricklypear.png) |
 
 ---
@@ -496,7 +496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Logs | ![cherry_logs](../images/terraqueous_cherry_logs.png) |
+| - | Cherry Logs | ![cherry_logs](../images/terraqueous_cherry.png) |
 
 ---
 ## Cherry Pressure Plate
@@ -514,7 +514,7 @@
 | :--- | :--- | :--- |
 | - | Cherry | ![cherry](../images/terraqueous_cherry.png) |
 | - | Cherry Leaves | ![cherry_leaves](../images/terraqueous_cherry_leaves.png) |
-| - | Cherry Logs | ![cherry_logs](../images/terraqueous_cherry_logs.png) |
+| - | Cherry Logs | ![cherry_logs](../images/terraqueous_cherry.png) |
 
 ---
 ## Cherry Sign
@@ -564,7 +564,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Storm Cloud | ![storm_cloud](../images/terraqueous_storm_cloud.png) |
-| @ | Cloud Workbench | ![cloud_workbench](../images/terraqueous_cloud_workbench.png) |
+| @ | Cloud Workbench | ![cloud_workbench](../images/terraqueous_dense_cloud.png) |
 
 ---
 ## Cloud Craftfurnace
@@ -573,7 +573,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Storm Cloud | ![storm_cloud](../images/terraqueous_storm_cloud.png) |
-| @ | Cloud Furnace | ![cloud_furnace](../images/terraqueous_cloud_furnace.png) |
+| @ | Cloud Furnace | ![cloud_furnace](../images/terraqueous_dense_cloud.png) |
 
 ---
 ## Cloud Furnace
@@ -668,7 +668,7 @@
 | - | Coconut | ![coconut](../images/terraqueous_coconut.png) |
 | - | Coconut | ![coconut](../images/terraqueous_coconut.png) |
 | - | Coconut | ![coconut](../images/terraqueous_coconut.png) |
-| - | Bucket | ![bucket](../images/terraqueous_bucket.png) |
+| - | Bucket | ![bucket](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Coconut Planks
@@ -676,7 +676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coconut Logs | ![coconut_logs](../images/terraqueous_coconut_logs.png) |
+| - | Coconut Logs | ![coconut_logs](../images/terraqueous_coconut.png) |
 
 ---
 ## Coconut Pressure Plate
@@ -694,7 +694,7 @@
 | :--- | :--- | :--- |
 | - | Coconut | ![coconut](../images/terraqueous_coconut.png) |
 | - | Coconut Leaves | ![coconut_leaves](../images/terraqueous_coconut_leaves.png) |
-| - | Coconut Logs | ![coconut_logs](../images/terraqueous_coconut_logs.png) |
+| - | Coconut Logs | ![coconut_logs](../images/terraqueous_coconut.png) |
 
 ---
 ## Coconut Sign
@@ -746,7 +746,7 @@
 | R | Dyes/Red | ![dyes/red](../images/terraqueous_dyes/red.png) |
 | G | Dyes/Green | ![dyes/green](../images/terraqueous_dyes/green.png) |
 | B | Dyes/Blue | ![dyes/blue](../images/terraqueous_dyes/blue.png) |
-| P | Glass Panes | ![glass_panes](../images/terraqueous_glass_panes.png) |
+| P | Glass Panes | ![glass_panes](../images/terraqueous_apple_door_glass.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/terraqueous_ingots/iron.png) |
 
 ---
@@ -771,8 +771,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/terraqueous_stone.png) |
-| @ | Workbench | ![workbench](../images/terraqueous_workbench.png) |
+| # | Stone | ![stone](../images/terraqueous_doodad_burnium_stone.png) |
+| @ | Workbench | ![workbench](../images/terraqueous_workbench_side.png) |
 
 ---
 ## Craftfurnace
@@ -780,8 +780,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/terraqueous_stone.png) |
-| @ | Furnace | ![furnace](../images/terraqueous_furnace.png) |
+| # | Stone | ![stone](../images/terraqueous_doodad_burnium_stone.png) |
+| @ | Furnace | ![furnace](../images/terraqueous_furnace_front_off.png) |
 
 ---
 ## Cyan Concrete Capital
@@ -789,7 +789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Concrete | ![cyan_concrete](../images/terraqueous_cyan_concrete.png) |
+| # | Cyan Concrete | ![cyan_concrete](../images/terraqueous_cyan_column_capital_body.png) |
 
 ---
 ## Cyan Concrete Column
@@ -797,7 +797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Concrete | ![cyan_concrete](../images/terraqueous_cyan_concrete.png) |
+| # | Cyan Concrete | ![cyan_concrete](../images/terraqueous_cyan_column_capital_body.png) |
 
 ---
 ## Cyan Concrete Edge
@@ -805,8 +805,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Cyan Concrete Powder | ![cyan_concrete_powder](../images/terraqueous_cyan_concrete_powder.png) |
-| # | Cyan Concrete | ![cyan_concrete](../images/terraqueous_cyan_concrete.png) |
+| @ | Cyan Concrete Powder | ![cyan_concrete_powder](../images/terraqueous_cyan_column_capital_body.png) |
+| # | Cyan Concrete | ![cyan_concrete](../images/terraqueous_cyan_column_capital_body.png) |
 
 ---
 ## Cyan Dye
@@ -814,7 +814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Leichtlinii | ![leichtlinii](../images/terraqueous_leichtlinii.png) |
+| - | Leichtlinii | ![leichtlinii](../images/terraqueous_leichtlinii_cluster.png) |
 
 ---
 ## Deathvine
@@ -889,7 +889,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | W | Dense Cloud | ![dense_cloud](../images/terraqueous_dense_cloud.png) |
 
 ---
@@ -898,7 +898,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | W | Dense Cloud | ![dense_cloud](../images/terraqueous_dense_cloud.png) |
 
 ---
@@ -924,7 +924,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Dense Cloud | ![dense_cloud](../images/terraqueous_dense_cloud.png) |
-| X | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| X | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 
 ---
 ## Dense Cloud Slab
@@ -972,8 +972,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/terraqueous_book.png) |
-| - | Ender Eye | ![ender_eye](../images/terraqueous_ender_eye.png) |
+| - | Book | ![book](../images/terraqueous_ender_book.png) |
+| - | Ender Eye | ![ender_eye](../images/terraqueous_ender_book.png) |
 
 ---
 ## Ender Pearl
@@ -989,7 +989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| O | Obsidian | ![obsidian](../images/terraqueous_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/terraqueous_amethyst_dust.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/terraqueous_gems/diamond.png) |
 | B | Ender Book | ![ender_book](../images/terraqueous_ender_book.png) |
 
@@ -1016,7 +1016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Endimium Blocks | ![endimium_blocks](../images/terraqueous_endimium_blocks.png) |
+| - | Endimium Blocks | ![endimium_blocks](../images/terraqueous_doodad_endimium.png) |
 
 ---
 ## Endimium Gem
@@ -1032,9 +1032,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Trickster Bloom | ![trickster_bloom](../images/terraqueous_trickster_bloom.png) |
+| F | Trickster Bloom | ![trickster_bloom](../images/terraqueous_trickster_bloom_cluster.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/terraqueous_ingots/iron.png) |
-| Z | Rotten Flesh | ![rotten_flesh](../images/terraqueous_rotten_flesh.png) |
+| Z | Rotten Flesh | ![rotten_flesh](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Glass
@@ -1042,7 +1042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Doodad Glassshards | ![doodad_glassshards](../images/terraqueous_doodad_glassshards.png) |
+| item | Doodad Glassshards | ![doodad_glassshards](../images/terraqueous_doodad_bone.png) |
 
 ---
 ## Glass Pane
@@ -1069,7 +1069,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Paper | ![paper](../images/terraqueous_paper.png) |
+| P | Paper | ![paper](../images/terraqueous_paper_block.png) |
 | G | Dusts/Glowstone | ![dusts/glowstone](../images/terraqueous_dusts/glowstone.png) |
 
 ---
@@ -1078,7 +1078,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| V | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| V | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | G | Dusts/Glowstone | ![dusts/glowstone](../images/terraqueous_dusts/glowstone.png) |
 
 ---
@@ -1123,7 +1123,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Concrete | ![gray_concrete](../images/terraqueous_gray_concrete.png) |
+| # | Gray Concrete | ![gray_concrete](../images/terraqueous_gray_column_capital_body.png) |
 
 ---
 ## Gray Concrete Column
@@ -1131,7 +1131,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Concrete | ![gray_concrete](../images/terraqueous_gray_concrete.png) |
+| # | Gray Concrete | ![gray_concrete](../images/terraqueous_gray_column_capital_body.png) |
 
 ---
 ## Gray Concrete Edge
@@ -1139,8 +1139,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Gray Concrete Powder | ![gray_concrete_powder](../images/terraqueous_gray_concrete_powder.png) |
-| # | Gray Concrete | ![gray_concrete](../images/terraqueous_gray_concrete.png) |
+| @ | Gray Concrete Powder | ![gray_concrete_powder](../images/terraqueous_gray_column_capital_body.png) |
+| # | Gray Concrete | ![gray_concrete](../images/terraqueous_gray_column_capital_body.png) |
 
 ---
 ## Gray Dye
@@ -1148,7 +1148,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Ghost | ![gray_ghost](../images/terraqueous_gray_ghost.png) |
+| - | Gray Ghost | ![gray_ghost](../images/terraqueous_gray_ghost_cluster.png) |
 
 ---
 ## Green Concrete Capital
@@ -1156,7 +1156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Concrete | ![green_concrete](../images/terraqueous_green_concrete.png) |
+| # | Green Concrete | ![green_concrete](../images/terraqueous_green_column_capital_body.png) |
 
 ---
 ## Green Concrete Column
@@ -1164,7 +1164,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Concrete | ![green_concrete](../images/terraqueous_green_concrete.png) |
+| # | Green Concrete | ![green_concrete](../images/terraqueous_green_column_capital_body.png) |
 
 ---
 ## Green Concrete Edge
@@ -1172,8 +1172,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Green Concrete Powder | ![green_concrete_powder](../images/terraqueous_green_concrete_powder.png) |
-| # | Green Concrete | ![green_concrete](../images/terraqueous_green_concrete.png) |
+| @ | Green Concrete Powder | ![green_concrete_powder](../images/terraqueous_green_column_capital_body.png) |
+| # | Green Concrete | ![green_concrete](../images/terraqueous_green_column_capital_body.png) |
 
 ---
 ## Green Dye
@@ -1181,7 +1181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fern | ![fern](../images/terraqueous_fern.png) |
+| - | Fern | ![fern](../images/terraqueous_fern_cluster.png) |
 
 ---
 ## Green Dye
@@ -1189,7 +1189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Cactus | ![cactus](../images/terraqueous_cactus.png) |
+| item | Cactus | ![cactus](../images/terraqueous_cactus_fruit.png) |
 
 ---
 ## Hammer
@@ -1198,7 +1198,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Storage Blocks/Iron | ![storage_blocks/iron](../images/terraqueous_storage_blocks/iron.png) |
-| L | Logs | ![logs](../images/terraqueous_logs.png) |
+| L | Logs | ![logs](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Hay Block
@@ -1206,7 +1206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Loose Hay | ![loose_hay](../images/terraqueous_loose_hay.png) |
+| # | Loose Hay | ![loose_hay](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Iron Fence
@@ -1316,7 +1316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lemon Logs | ![lemon_logs](../images/terraqueous_lemon_logs.png) |
+| - | Lemon Logs | ![lemon_logs](../images/terraqueous_lemon.png) |
 
 ---
 ## Lemon Pressure Plate
@@ -1334,7 +1334,7 @@
 | :--- | :--- | :--- |
 | - | Lemon | ![lemon](../images/terraqueous_lemon.png) |
 | - | Lemon Leaves | ![lemon_leaves](../images/terraqueous_lemon_leaves.png) |
-| - | Lemon Logs | ![lemon_logs](../images/terraqueous_lemon_logs.png) |
+| - | Lemon Logs | ![lemon_logs](../images/terraqueous_lemon.png) |
 
 ---
 ## Lemon Sign
@@ -1392,7 +1392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Concrete | ![light_blue_concrete](../images/terraqueous_light_blue_concrete.png) |
+| # | Light Blue Concrete | ![light_blue_concrete](../images/terraqueous_light_blue_column_capital_body.png) |
 
 ---
 ## Light Blue Concrete Column
@@ -1400,7 +1400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Concrete | ![light_blue_concrete](../images/terraqueous_light_blue_concrete.png) |
+| # | Light Blue Concrete | ![light_blue_concrete](../images/terraqueous_light_blue_column_capital_body.png) |
 
 ---
 ## Light Blue Concrete Edge
@@ -1408,8 +1408,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/terraqueous_light_blue_concrete_powder.png) |
-| # | Light Blue Concrete | ![light_blue_concrete](../images/terraqueous_light_blue_concrete.png) |
+| @ | Light Blue Concrete Powder | ![light_blue_concrete_powder](../images/terraqueous_light_blue_column_capital_body.png) |
+| # | Light Blue Concrete | ![light_blue_concrete](../images/terraqueous_light_blue_column_capital_body.png) |
 
 ---
 ## Light Blue Dye
@@ -1417,7 +1417,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bluebell | ![bluebell](../images/terraqueous_bluebell.png) |
+| - | Bluebell | ![bluebell](../images/terraqueous_bluebell_cluster.png) |
 
 ---
 ## Light Cloud
@@ -1425,7 +1425,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 
 ---
 ## Light Cloud Button
@@ -1474,7 +1474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| @ | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | # | Light Cloud | ![light_cloud](../images/terraqueous_light_cloud.png) |
 
 ---
@@ -1483,7 +1483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | W | Light Cloud | ![light_cloud](../images/terraqueous_light_cloud.png) |
 
 ---
@@ -1492,7 +1492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | W | Light Cloud | ![light_cloud](../images/terraqueous_light_cloud.png) |
 
 ---
@@ -1518,7 +1518,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Light Cloud | ![light_cloud](../images/terraqueous_light_cloud.png) |
-| X | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| X | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 
 ---
 ## Light Cloud Slab
@@ -1550,7 +1550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Concrete | ![light_gray_concrete](../images/terraqueous_light_gray_concrete.png) |
+| # | Light Gray Concrete | ![light_gray_concrete](../images/terraqueous_light_gray_column_capital_body.png) |
 
 ---
 ## Light Gray Concrete Column
@@ -1558,7 +1558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Concrete | ![light_gray_concrete](../images/terraqueous_light_gray_concrete.png) |
+| # | Light Gray Concrete | ![light_gray_concrete](../images/terraqueous_light_gray_column_capital_body.png) |
 
 ---
 ## Light Gray Concrete Edge
@@ -1566,8 +1566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/terraqueous_light_gray_concrete_powder.png) |
-| # | Light Gray Concrete | ![light_gray_concrete](../images/terraqueous_light_gray_concrete.png) |
+| @ | Light Gray Concrete Powder | ![light_gray_concrete_powder](../images/terraqueous_light_gray_column_capital_body.png) |
+| # | Light Gray Concrete | ![light_gray_concrete](../images/terraqueous_light_gray_column_capital_body.png) |
 
 ---
 ## Light Gray Dye
@@ -1575,7 +1575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ghost Plant | ![ghost_plant](../images/terraqueous_ghost_plant.png) |
+| - | Ghost Plant | ![ghost_plant](../images/terraqueous_ghost_plant_cluster.png) |
 
 ---
 ## Lime Concrete Capital
@@ -1583,7 +1583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Concrete | ![lime_concrete](../images/terraqueous_lime_concrete.png) |
+| # | Lime Concrete | ![lime_concrete](../images/terraqueous_lime_column_capital_body.png) |
 
 ---
 ## Lime Concrete Column
@@ -1591,7 +1591,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Concrete | ![lime_concrete](../images/terraqueous_lime_concrete.png) |
+| # | Lime Concrete | ![lime_concrete](../images/terraqueous_lime_column_capital_body.png) |
 
 ---
 ## Lime Concrete Edge
@@ -1599,8 +1599,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Lime Concrete Powder | ![lime_concrete_powder](../images/terraqueous_lime_concrete_powder.png) |
-| # | Lime Concrete | ![lime_concrete](../images/terraqueous_lime_concrete.png) |
+| @ | Lime Concrete Powder | ![lime_concrete_powder](../images/terraqueous_lime_column_capital_body.png) |
+| # | Lime Concrete | ![lime_concrete](../images/terraqueous_lime_column_capital_body.png) |
 
 ---
 ## Lime Dye
@@ -1608,7 +1608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Little Lime Hydrangea | ![little_lime_hydrangea](../images/terraqueous_little_lime_hydrangea.png) |
+| - | Little Lime Hydrangea | ![little_lime_hydrangea](../images/terraqueous_little_lime_hydrangea_cluster.png) |
 
 ---
 ## Loose Hay
@@ -1616,7 +1616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hay Block | ![hay_block](../images/terraqueous_hay_block.png) |
+| - | Hay Block | ![hay_block](../images/terraqueous_burnium_block.png) |
 
 ---
 ## Loose Hay
@@ -1624,7 +1624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Thresh | ![thresh](../images/terraqueous_thresh.png) |
+| - | Thresh | ![thresh](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Magenta Concrete Capital
@@ -1632,7 +1632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Concrete | ![magenta_concrete](../images/terraqueous_magenta_concrete.png) |
+| # | Magenta Concrete | ![magenta_concrete](../images/terraqueous_magenta_column_capital_body.png) |
 
 ---
 ## Magenta Concrete Column
@@ -1640,7 +1640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Concrete | ![magenta_concrete](../images/terraqueous_magenta_concrete.png) |
+| # | Magenta Concrete | ![magenta_concrete](../images/terraqueous_magenta_column_capital_body.png) |
 
 ---
 ## Magenta Concrete Edge
@@ -1648,8 +1648,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Magenta Concrete Powder | ![magenta_concrete_powder](../images/terraqueous_magenta_concrete_powder.png) |
-| # | Magenta Concrete | ![magenta_concrete](../images/terraqueous_magenta_concrete.png) |
+| @ | Magenta Concrete Powder | ![magenta_concrete_powder](../images/terraqueous_magenta_column_capital_body.png) |
+| # | Magenta Concrete | ![magenta_concrete](../images/terraqueous_magenta_column_capital_body.png) |
 
 ---
 ## Magenta Dye
@@ -1657,7 +1657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Primrose | ![primrose](../images/terraqueous_primrose.png) |
+| - | Primrose | ![primrose](../images/terraqueous_primrose_cluster.png) |
 
 ---
 ## Mango Boat
@@ -1716,7 +1716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mango Logs | ![mango_logs](../images/terraqueous_mango_logs.png) |
+| - | Mango Logs | ![mango_logs](../images/terraqueous_mango.png) |
 
 ---
 ## Mango Pressure Plate
@@ -1734,7 +1734,7 @@
 | :--- | :--- | :--- |
 | - | Mango | ![mango](../images/terraqueous_mango.png) |
 | - | Mango Leaves | ![mango_leaves](../images/terraqueous_mango_leaves.png) |
-| - | Mango Logs | ![mango_logs](../images/terraqueous_mango_logs.png) |
+| - | Mango Logs | ![mango_logs](../images/terraqueous_mango.png) |
 
 ---
 ## Mango Sign
@@ -1791,7 +1791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium_blocks.png) |
+| # | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium.png) |
 
 ---
 ## Mitred Endimium Block
@@ -1799,7 +1799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Endimium Blocks | ![endimium_blocks](../images/terraqueous_endimium_blocks.png) |
+| # | Endimium Blocks | ![endimium_blocks](../images/terraqueous_doodad_endimium.png) |
 
 ---
 ## Mulberry Boat
@@ -1858,7 +1858,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mulberry Logs | ![mulberry_logs](../images/terraqueous_mulberry_logs.png) |
+| - | Mulberry Logs | ![mulberry_logs](../images/terraqueous_mulberry.png) |
 
 ---
 ## Mulberry Pressure Plate
@@ -1876,7 +1876,7 @@
 | :--- | :--- | :--- |
 | - | Mulberry | ![mulberry](../images/terraqueous_mulberry.png) |
 | - | Mulberry Leaves | ![mulberry_leaves](../images/terraqueous_mulberry_leaves.png) |
-| - | Mulberry Logs | ![mulberry_logs](../images/terraqueous_mulberry_logs.png) |
+| - | Mulberry Logs | ![mulberry_logs](../images/terraqueous_mulberry.png) |
 
 ---
 ## Mulberry Sign
@@ -1926,7 +1926,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Storage Blocks/Iron | ![storage_blocks/iron](../images/terraqueous_storage_blocks/iron.png) |
-| L | Logs | ![logs](../images/terraqueous_logs.png) |
+| L | Logs | ![logs](../images/terraqueous_amethyst_dust.png) |
 | B | Burnium | ![burnium](../images/terraqueous_burnium.png) |
 | E | Endimium | ![endimium](../images/terraqueous_endimium.png) |
 
@@ -1961,7 +1961,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Concrete | ![orange_concrete](../images/terraqueous_orange_concrete.png) |
+| # | Orange Concrete | ![orange_concrete](../images/terraqueous_orange.png) |
 
 ---
 ## Orange Concrete Column
@@ -1969,7 +1969,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Concrete | ![orange_concrete](../images/terraqueous_orange_concrete.png) |
+| # | Orange Concrete | ![orange_concrete](../images/terraqueous_orange.png) |
 
 ---
 ## Orange Concrete Edge
@@ -1977,8 +1977,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Orange Concrete Powder | ![orange_concrete_powder](../images/terraqueous_orange_concrete_powder.png) |
-| # | Orange Concrete | ![orange_concrete](../images/terraqueous_orange_concrete.png) |
+| @ | Orange Concrete Powder | ![orange_concrete_powder](../images/terraqueous_orange.png) |
+| # | Orange Concrete | ![orange_concrete](../images/terraqueous_orange.png) |
 
 ---
 ## Orange Door
@@ -1994,7 +1994,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Marigold | ![marigold](../images/terraqueous_marigold.png) |
+| - | Marigold | ![marigold](../images/terraqueous_marigold_cluster.png) |
 
 ---
 ## Orange Fence
@@ -2020,7 +2020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Logs | ![orange_logs](../images/terraqueous_orange_logs.png) |
+| - | Orange Logs | ![orange_logs](../images/terraqueous_orange.png) |
 
 ---
 ## Orange Pressure Plate
@@ -2038,7 +2038,7 @@
 | :--- | :--- | :--- |
 | - | Orange | ![orange](../images/terraqueous_orange.png) |
 | - | Orange Leaves | ![orange_leaves](../images/terraqueous_orange_leaves.png) |
-| - | Orange Logs | ![orange_logs](../images/terraqueous_orange_logs.png) |
+| - | Orange Logs | ![orange_logs](../images/terraqueous_orange.png) |
 
 ---
 ## Orange Sign
@@ -2087,7 +2087,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Paper | ![paper](../images/terraqueous_paper.png) |
+| # | Paper | ![paper](../images/terraqueous_paper_block.png) |
 
 ---
 ## Paper
@@ -2104,8 +2104,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/terraqueous_rods/wooden.png) |
-| P | Paper | ![paper](../images/terraqueous_paper.png) |
-| T | Torch | ![torch](../images/terraqueous_torch.png) |
+| P | Paper | ![paper](../images/terraqueous_paper_block.png) |
+| T | Torch | ![torch](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Peach Boat
@@ -2164,7 +2164,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Peach Logs | ![peach_logs](../images/terraqueous_peach_logs.png) |
+| - | Peach Logs | ![peach_logs](../images/terraqueous_peach.png) |
 
 ---
 ## Peach Pressure Plate
@@ -2182,7 +2182,7 @@
 | :--- | :--- | :--- |
 | - | Peach | ![peach](../images/terraqueous_peach.png) |
 | - | Peach Leaves | ![peach_leaves](../images/terraqueous_peach_leaves.png) |
-| - | Peach Logs | ![peach_logs](../images/terraqueous_peach_logs.png) |
+| - | Peach Logs | ![peach_logs](../images/terraqueous_peach.png) |
 
 ---
 ## Peach Sign
@@ -2282,7 +2282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pear Logs | ![pear_logs](../images/terraqueous_pear_logs.png) |
+| - | Pear Logs | ![pear_logs](../images/terraqueous_pear.png) |
 
 ---
 ## Pear Pressure Plate
@@ -2300,7 +2300,7 @@
 | :--- | :--- | :--- |
 | - | Pear | ![pear](../images/terraqueous_pear.png) |
 | - | Pear Leaves | ![pear_leaves](../images/terraqueous_pear_leaves.png) |
-| - | Pear Logs | ![pear_logs](../images/terraqueous_pear_logs.png) |
+| - | Pear Logs | ![pear_logs](../images/terraqueous_pear.png) |
 
 ---
 ## Pear Sign
@@ -2350,8 +2350,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/terraqueous_rods/wooden.png) |
-| H | Wooden Slabs | ![wooden_slabs](../images/terraqueous_wooden_slabs.png) |
-| P | Planks | ![planks](../images/terraqueous_planks.png) |
+| H | Wooden Slabs | ![wooden_slabs](../images/terraqueous_amethyst_dust.png) |
+| P | Planks | ![planks](../images/terraqueous_apple_planks.png) |
 
 ---
 ## Pergola Roof
@@ -2360,8 +2360,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/terraqueous_rods/wooden.png) |
-| H | Wooden Slabs | ![wooden_slabs](../images/terraqueous_wooden_slabs.png) |
-| P | Planks | ![planks](../images/terraqueous_planks.png) |
+| H | Wooden Slabs | ![wooden_slabs](../images/terraqueous_amethyst_dust.png) |
+| P | Planks | ![planks](../images/terraqueous_apple_planks.png) |
 
 ---
 ## Pergola Wall
@@ -2370,8 +2370,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Rods/Wooden | ![rods/wooden](../images/terraqueous_rods/wooden.png) |
-| H | Wooden Slabs | ![wooden_slabs](../images/terraqueous_wooden_slabs.png) |
-| P | Planks | ![planks](../images/terraqueous_planks.png) |
+| H | Wooden Slabs | ![wooden_slabs](../images/terraqueous_amethyst_dust.png) |
+| P | Planks | ![planks](../images/terraqueous_apple_planks.png) |
 
 ---
 ## Picket Fence
@@ -2398,7 +2398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Concrete | ![pink_concrete](../images/terraqueous_pink_concrete.png) |
+| # | Pink Concrete | ![pink_concrete](../images/terraqueous_blossom_pink.png) |
 
 ---
 ## Pink Concrete Column
@@ -2406,7 +2406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Concrete | ![pink_concrete](../images/terraqueous_pink_concrete.png) |
+| # | Pink Concrete | ![pink_concrete](../images/terraqueous_blossom_pink.png) |
 
 ---
 ## Pink Concrete Edge
@@ -2414,8 +2414,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Pink Concrete Powder | ![pink_concrete_powder](../images/terraqueous_pink_concrete_powder.png) |
-| # | Pink Concrete | ![pink_concrete](../images/terraqueous_pink_concrete.png) |
+| @ | Pink Concrete Powder | ![pink_concrete_powder](../images/terraqueous_blossom_pink.png) |
+| # | Pink Concrete | ![pink_concrete](../images/terraqueous_blossom_pink.png) |
 
 ---
 ## Pink Dye
@@ -2423,7 +2423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rose | ![rose](../images/terraqueous_rose.png) |
+| - | Rose | ![rose](../images/terraqueous_black_rose_cluster.png) |
 
 ---
 ## Planter
@@ -2490,7 +2490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Plum Logs | ![plum_logs](../images/terraqueous_plum_logs.png) |
+| - | Plum Logs | ![plum_logs](../images/terraqueous_plum.png) |
 
 ---
 ## Plum Pressure Plate
@@ -2508,7 +2508,7 @@
 | :--- | :--- | :--- |
 | - | Plum | ![plum](../images/terraqueous_plum.png) |
 | - | Plum Leaves | ![plum_leaves](../images/terraqueous_plum_leaves.png) |
-| - | Plum Logs | ![plum_logs](../images/terraqueous_plum_logs.png) |
+| - | Plum Logs | ![plum_logs](../images/terraqueous_plum.png) |
 
 ---
 ## Plum Sign
@@ -2557,7 +2557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Concrete | ![purple_concrete](../images/terraqueous_purple_concrete.png) |
+| # | Purple Concrete | ![purple_concrete](../images/terraqueous_purple_column_capital_body.png) |
 
 ---
 ## Purple Concrete Column
@@ -2565,7 +2565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Concrete | ![purple_concrete](../images/terraqueous_purple_concrete.png) |
+| # | Purple Concrete | ![purple_concrete](../images/terraqueous_purple_column_capital_body.png) |
 
 ---
 ## Purple Concrete Edge
@@ -2573,8 +2573,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Purple Concrete Powder | ![purple_concrete_powder](../images/terraqueous_purple_concrete_powder.png) |
-| # | Purple Concrete | ![purple_concrete](../images/terraqueous_purple_concrete.png) |
+| @ | Purple Concrete Powder | ![purple_concrete_powder](../images/terraqueous_purple_column_capital_body.png) |
+| # | Purple Concrete | ![purple_concrete](../images/terraqueous_purple_column_capital_body.png) |
 
 ---
 ## Purple Dye
@@ -2582,7 +2582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lavender | ![lavender](../images/terraqueous_lavender.png) |
+| - | Lavender | ![lavender](../images/terraqueous_lavender_cluster.png) |
 
 ---
 ## Red Concrete Capital
@@ -2590,7 +2590,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Concrete | ![red_concrete](../images/terraqueous_red_concrete.png) |
+| # | Red Concrete | ![red_concrete](../images/terraqueous_red_column_capital_body.png) |
 
 ---
 ## Red Concrete Column
@@ -2598,7 +2598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Concrete | ![red_concrete](../images/terraqueous_red_concrete.png) |
+| # | Red Concrete | ![red_concrete](../images/terraqueous_red_column_capital_body.png) |
 
 ---
 ## Red Concrete Edge
@@ -2606,8 +2606,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Red Concrete Powder | ![red_concrete_powder](../images/terraqueous_red_concrete_powder.png) |
-| # | Red Concrete | ![red_concrete](../images/terraqueous_red_concrete.png) |
+| @ | Red Concrete Powder | ![red_concrete_powder](../images/terraqueous_red_column_capital_body.png) |
+| # | Red Concrete | ![red_concrete](../images/terraqueous_red_column_capital_body.png) |
 
 ---
 ## Red Dye
@@ -2615,7 +2615,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Carnation | ![carnation](../images/terraqueous_carnation.png) |
+| - | Carnation | ![carnation](../images/terraqueous_carnation_cluster.png) |
 
 ---
 ## Red Sandstone
@@ -2647,7 +2647,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/terraqueous_ingots/iron.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/terraqueous_rods/wooden.png) |
-| C | String | ![string](../images/terraqueous_string.png) |
+| C | String | ![string](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Small Flowerpot
@@ -2663,7 +2663,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Flower Pot | ![flower_pot](../images/terraqueous_flower_pot.png) |
+| - | Flower Pot | ![flower_pot](../images/terraqueous_banana_stalk_flower.png) |
 
 ---
 ## Smooth Burnium Block
@@ -2671,7 +2671,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium_blocks.png) |
+| # | Burnium Blocks | ![burnium_blocks](../images/terraqueous_burnium.png) |
 
 ---
 ## Smooth Endimium Block
@@ -2679,7 +2679,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Endimium Blocks | ![endimium_blocks](../images/terraqueous_endimium_blocks.png) |
+| # | Endimium Blocks | ![endimium_blocks](../images/terraqueous_doodad_endimium.png) |
 
 ---
 ## Speed Strip
@@ -2754,7 +2754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | W | Storm Cloud | ![storm_cloud](../images/terraqueous_storm_cloud.png) |
 
 ---
@@ -2763,7 +2763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| # | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 | W | Storm Cloud | ![storm_cloud](../images/terraqueous_storm_cloud.png) |
 
 ---
@@ -2789,7 +2789,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Storm Cloud | ![storm_cloud](../images/terraqueous_storm_cloud.png) |
-| X | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
+| X | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
 
 ---
 ## Storm Cloud Slab
@@ -2821,7 +2821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Apple Log | ![stripped_apple_log](../images/terraqueous_stripped_apple_log.png) |
+| # | Stripped Apple Log | ![stripped_apple_log](../images/terraqueous_apple_log_stripped.png) |
 
 ---
 ## Stripped Banana Wood
@@ -2829,7 +2829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Banana Log | ![stripped_banana_log](../images/terraqueous_stripped_banana_log.png) |
+| # | Stripped Banana Log | ![stripped_banana_log](../images/terraqueous_banana_log_stripped.png) |
 
 ---
 ## Stripped Cherry Wood
@@ -2837,7 +2837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Cherry Log | ![stripped_cherry_log](../images/terraqueous_stripped_cherry_log.png) |
+| # | Stripped Cherry Log | ![stripped_cherry_log](../images/terraqueous_cherry_log_stripped.png) |
 
 ---
 ## Stripped Coconut Wood
@@ -2845,7 +2845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Coconut Log | ![stripped_coconut_log](../images/terraqueous_stripped_coconut_log.png) |
+| # | Stripped Coconut Log | ![stripped_coconut_log](../images/terraqueous_coconut_log_stripped.png) |
 
 ---
 ## Stripped Lemon Wood
@@ -2853,7 +2853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Lemon Log | ![stripped_lemon_log](../images/terraqueous_stripped_lemon_log.png) |
+| # | Stripped Lemon Log | ![stripped_lemon_log](../images/terraqueous_lemon_log_stripped.png) |
 
 ---
 ## Stripped Mango Wood
@@ -2861,7 +2861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Mango Log | ![stripped_mango_log](../images/terraqueous_stripped_mango_log.png) |
+| # | Stripped Mango Log | ![stripped_mango_log](../images/terraqueous_mango_log_stripped.png) |
 
 ---
 ## Stripped Orange Wood
@@ -2869,7 +2869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Orange Log | ![stripped_orange_log](../images/terraqueous_stripped_orange_log.png) |
+| # | Stripped Orange Log | ![stripped_orange_log](../images/terraqueous_orange_log_stripped.png) |
 
 ---
 ## Stripped Peach Wood
@@ -2877,7 +2877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Peach Log | ![stripped_peach_log](../images/terraqueous_stripped_peach_log.png) |
+| # | Stripped Peach Log | ![stripped_peach_log](../images/terraqueous_peach_log_stripped.png) |
 
 ---
 ## Stripped Pear Wood
@@ -2885,7 +2885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Pear Log | ![stripped_pear_log](../images/terraqueous_stripped_pear_log.png) |
+| # | Stripped Pear Log | ![stripped_pear_log](../images/terraqueous_pear_log_stripped.png) |
 
 ---
 ## Stripped Plum Wood
@@ -2893,7 +2893,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Plum Log | ![stripped_plum_log](../images/terraqueous_stripped_plum_log.png) |
+| # | Stripped Plum Log | ![stripped_plum_log](../images/terraqueous_plum_log_stripped.png) |
 
 ---
 ## Brick
@@ -2901,7 +2901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Cloud Talisman | ![baked_cloud_talisman](../images/terraqueous_baked_cloud_talisman.png) |
+| - | Baked Cloud Talisman | ![baked_cloud_talisman](../images/terraqueous_talisman_cloud_baked.png) |
 
 ---
 ## Clay Ball
@@ -2909,7 +2909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unbaked Cloud Talisman | ![unbaked_cloud_talisman](../images/terraqueous_unbaked_cloud_talisman.png) |
+| - | Unbaked Cloud Talisman | ![unbaked_cloud_talisman](../images/terraqueous_talisman_cloud_unbaked.png) |
 
 ---
 ## Thresh
@@ -2917,7 +2917,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Loose Hay | ![loose_hay](../images/terraqueous_loose_hay.png) |
+| - | Loose Hay | ![loose_hay](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Flower Pot
@@ -2925,7 +2925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Small Flowerpot | ![small_flowerpot](../images/terraqueous_small_flowerpot.png) |
+| - | Small Flowerpot | ![small_flowerpot](../images/terraqueous_flowerpot_small.png) |
 
 ---
 ## Vapor Lantern
@@ -2934,8 +2934,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Light Cloud | ![light_cloud](../images/terraqueous_light_cloud.png) |
-| V | Vapor Block | ![vapor_block](../images/terraqueous_vapor_block.png) |
-| T | Torch | ![torch](../images/terraqueous_torch.png) |
+| V | Vapor Block | ![vapor_block](../images/terraqueous_burnium_block.png) |
+| T | Torch | ![torch](../images/terraqueous_amethyst_dust.png) |
 
 ---
 ## Water Pearl
@@ -2943,8 +2943,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Ender Pearls | ![ender_pearls](../images/terraqueous_ender_pearls.png) |
-| B | Water Bucket | ![water_bucket](../images/terraqueous_water_bucket.png) |
+| P | Ender Pearls | ![ender_pearls](../images/terraqueous_ender_book.png) |
+| B | Water Bucket | ![water_bucket](../images/terraqueous_water_pearl.png) |
 | C | Dusts/Prismarine | ![dusts/prismarine](../images/terraqueous_dusts/prismarine.png) |
 | S | Gems/Prismarine | ![gems/prismarine](../images/terraqueous_gems/prismarine.png) |
 
@@ -2954,7 +2954,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Concrete | ![white_concrete](../images/terraqueous_white_concrete.png) |
+| # | White Concrete | ![white_concrete](../images/terraqueous_blossom_white.png) |
 
 ---
 ## White Concrete Column
@@ -2962,7 +2962,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Concrete | ![white_concrete](../images/terraqueous_white_concrete.png) |
+| # | White Concrete | ![white_concrete](../images/terraqueous_blossom_white.png) |
 
 ---
 ## White Concrete Edge
@@ -2970,8 +2970,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | White Concrete Powder | ![white_concrete_powder](../images/terraqueous_white_concrete_powder.png) |
-| # | White Concrete | ![white_concrete](../images/terraqueous_white_concrete.png) |
+| @ | White Concrete Powder | ![white_concrete_powder](../images/terraqueous_blossom_white.png) |
+| # | White Concrete | ![white_concrete](../images/terraqueous_blossom_white.png) |
 
 ---
 ## White Dye
@@ -2979,7 +2979,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calla Lily | ![calla_lily](../images/terraqueous_calla_lily.png) |
+| - | Calla Lily | ![calla_lily](../images/terraqueous_calla_lily_cluster.png) |
 
 ---
 ## White Dye
@@ -2987,7 +2987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Trillium | ![trillium](../images/terraqueous_trillium.png) |
+| - | Trillium | ![trillium](../images/terraqueous_trillium_cluster.png) |
 
 ---
 ## Yellow Concrete Capital
@@ -2995,7 +2995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Concrete | ![yellow_concrete](../images/terraqueous_yellow_concrete.png) |
+| # | Yellow Concrete | ![yellow_concrete](../images/terraqueous_yellow_column_capital_body.png) |
 
 ---
 ## Yellow Concrete Column
@@ -3003,7 +3003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Concrete | ![yellow_concrete](../images/terraqueous_yellow_concrete.png) |
+| # | Yellow Concrete | ![yellow_concrete](../images/terraqueous_yellow_column_capital_body.png) |
 
 ---
 ## Yellow Concrete Edge
@@ -3011,8 +3011,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| @ | Yellow Concrete Powder | ![yellow_concrete_powder](../images/terraqueous_yellow_concrete_powder.png) |
-| # | Yellow Concrete | ![yellow_concrete](../images/terraqueous_yellow_concrete.png) |
+| @ | Yellow Concrete Powder | ![yellow_concrete_powder](../images/terraqueous_yellow_column_capital_body.png) |
+| # | Yellow Concrete | ![yellow_concrete](../images/terraqueous_yellow_column_capital_body.png) |
 
 ---
 ## Yellow Dye
@@ -3020,6 +3020,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Daffodil | ![daffodil](../images/terraqueous_daffodil.png) |
+| - | Daffodil | ![daffodil](../images/terraqueous_daffodil_cluster.png) |
 
 ---

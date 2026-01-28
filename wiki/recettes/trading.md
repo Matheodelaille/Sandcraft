@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Electron Tube | ![electron_tube](../images/trading_electron_tube.png) |
-| D | Depot | ![depot](../images/trading_depot.png) |
+| T | Electron Tube | ![electron_tube](../images/trading_floor_trading_depot.png) |
+| D | Depot | ![depot](../images/trading_floor_trading_depot.png) |
 
 ---

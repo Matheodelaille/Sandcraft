@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/alexsmobs_book.png) |
-| - | Animal Dictionary Ingredient | ![animal_dictionary_ingredient](../images/alexsmobs_animal_dictionary_ingredient.png) |
+| - | Book | ![book](../images/alexsmobs_0.png) |
+| - | Animal Dictionary Ingredient | ![animal_dictionary_ingredient](../images/alexsmobs_animal_dictionary.png) |
 | - | Dyes/Green | ![dyes/green](../images/alexsmobs_dyes/green.png) |
 
 ---
@@ -33,7 +33,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/alexsmobs_paper.png) |
+| - | Paper | ![paper](../images/alexsmobs_0.png) |
 | - | Kangaroo Hide | ![kangaroo_hide](../images/alexsmobs_kangaroo_hide.png) |
 
 ---
@@ -42,7 +42,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/alexsmobs_paper.png) |
+| - | Paper | ![paper](../images/alexsmobs_0.png) |
 | - | Emu Feather | ![emu_feather](../images/alexsmobs_emu_feather.png) |
 
 ---
@@ -51,7 +51,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/alexsmobs_paper.png) |
+| - | Paper | ![paper](../images/alexsmobs_0.png) |
 | - | Bear Fur | ![bear_fur](../images/alexsmobs_bear_fur.png) |
 
 ---
@@ -60,7 +60,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/alexsmobs_paper.png) |
+| - | Paper | ![paper](../images/alexsmobs_0.png) |
 | - | Shed Snake Skin | ![shed_snake_skin](../images/alexsmobs_shed_snake_skin.png) |
 
 ---
@@ -69,7 +69,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Paper | ![paper](../images/alexsmobs_paper.png) |
+| - | Paper | ![paper](../images/alexsmobs_0.png) |
 | - | Tarantula Hawk Wing Fragment | ![tarantula_hawk_wing_fragment](../images/alexsmobs_tarantula_hawk_wing_fragment.png) |
 
 ---
@@ -78,7 +78,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Bison Fur Block | ![bison_fur_block](../images/alexsmobs_bison_fur_block.png) |
+| F | Bison Fur Block | ![bison_fur_block](../images/alexsmobs_bison_fur.png) |
 
 ---
 ## Bison Fur Block
@@ -94,7 +94,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bison Fur Block | ![bison_fur_block](../images/alexsmobs_bison_fur_block.png) |
+| - | Bison Fur Block | ![bison_fur_block](../images/alexsmobs_bison_fur.png) |
 
 ---
 ## Brown Wool
@@ -112,7 +112,7 @@
 | :--- | :--- | :--- |
 | S | Blood Sac | ![blood_sac](../images/alexsmobs_blood_sac.png) |
 | P | Mosquito Proboscis | ![mosquito_proboscis](../images/alexsmobs_mosquito_proboscis.png) |
-| B | Nether Brick | ![nether_brick](../images/alexsmobs_nether_brick.png) |
+| B | Nether Brick | ![nether_brick](../images/alexsmobs_0.png) |
 
 ---
 ## Boiled Emu Egg
@@ -160,8 +160,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fishing Rod | ![fishing_rod](../images/alexsmobs_fishing_rod.png) |
-| - | Chorus Fruit | ![chorus_fruit](../images/alexsmobs_chorus_fruit.png) |
+| - | Fishing Rod | ![fishing_rod](../images/alexsmobs_0.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/alexsmobs_chorus_on_a_stick.png) |
 
 ---
 ## Cockroach Wing
@@ -273,7 +273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cod | ![cod](../images/alexsmobs_cod.png) |
+| - | Cod | ![cod](../images/alexsmobs_cosmic_cod.png) |
 
 ---
 ## Crocodile Chestplate
@@ -319,7 +319,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Capsid | ![capsid](../images/alexsmobs_capsid.png) |
-| E | End Stone | ![end_stone](../images/alexsmobs_end_stone.png) |
+| E | End Stone | ![end_stone](../images/alexsmobs_end_pirate_door.png) |
 | I | Nuggets/Iron | ![nuggets/iron](../images/alexsmobs_nuggets/iron.png) |
 
 ---
@@ -329,7 +329,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Echolocator | ![echolocator](../images/alexsmobs_echolocator.png) |
-| P | Ender Pearl | ![ender_pearl](../images/alexsmobs_ender_pearl.png) |
+| P | Ender Pearl | ![ender_pearl](../images/alexsmobs_ender_residue_0.png) |
 
 ---
 ## Falconry Glove
@@ -338,7 +338,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Bear Fur | ![bear_fur](../images/alexsmobs_bear_fur.png) |
-| L | Leather | ![leather](../images/alexsmobs_leather.png) |
+| L | Leather | ![leather](../images/alexsmobs_0.png) |
 
 ---
 ## Falconry Hood
@@ -347,7 +347,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Roadrunner Feather | ![roadrunner_feather](../images/alexsmobs_roadrunner_feather.png) |
-| L | Leather | ![leather](../images/alexsmobs_leather.png) |
+| L | Leather | ![leather](../images/alexsmobs_0.png) |
 
 ---
 ## Falconry Hood
@@ -356,7 +356,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Roadrunner Feather | ![roadrunner_feather](../images/alexsmobs_roadrunner_feather.png) |
-| L | Leather | ![leather](../images/alexsmobs_leather.png) |
+| L | Leather | ![leather](../images/alexsmobs_0.png) |
 
 ---
 ## Fish Oil
@@ -364,7 +364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/alexsmobs_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/alexsmobs_komodo_spit_bottle.png) |
 | - | Blobfish | ![blobfish](../images/alexsmobs_blobfish.png) |
 | - | Blobfish | ![blobfish](../images/alexsmobs_blobfish.png) |
 | - | Blobfish | ![blobfish](../images/alexsmobs_blobfish.png) |
@@ -377,7 +377,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dropbear Claw | ![dropbear_claw](../images/alexsmobs_dropbear_claw.png) |
-| - | Flint | ![flint](../images/alexsmobs_flint.png) |
+| - | Flint | ![flint](../images/alexsmobs_0.png) |
 
 ---
 ## Flying Fish Boots
@@ -386,7 +386,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Flying Fish | ![flying_fish](../images/alexsmobs_flying_fish.png) |
-| S | String | ![string](../images/alexsmobs_string.png) |
+| S | String | ![string](../images/alexsmobs_0.png) |
 
 ---
 ## Frontier Cap
@@ -396,7 +396,7 @@
 | :--- | :--- | :--- |
 | H | Bear Fur | ![bear_fur](../images/alexsmobs_bear_fur.png) |
 | T | Raccoon Tail | ![raccoon_tail](../images/alexsmobs_raccoon_tail.png) |
-| C | Leather Helmet | ![leather_helmet](../images/alexsmobs_leather_helmet.png) |
+| C | Leather Helmet | ![leather_helmet](../images/alexsmobs_froststalker_helmet.png) |
 
 ---
 ## Frontier Cap
@@ -406,7 +406,7 @@
 | :--- | :--- | :--- |
 | H | Bear Fur | ![bear_fur](../images/alexsmobs_bear_fur.png) |
 | T | Raccoon Tail | ![raccoon_tail](../images/alexsmobs_raccoon_tail.png) |
-| C | Leather Helmet | ![leather_helmet](../images/alexsmobs_leather_helmet.png) |
+| C | Leather Helmet | ![leather_helmet](../images/alexsmobs_froststalker_helmet.png) |
 
 ---
 ## Froststalker Helmet
@@ -415,7 +415,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Froststalker Horn | ![froststalker_horn](../images/alexsmobs_froststalker_horn.png) |
-| I | Packed Ice | ![packed_ice](../images/alexsmobs_packed_ice.png) |
+| I | Packed Ice | ![packed_ice](../images/alexsmobs_0.png) |
 
 ---
 ## Gustmaker
@@ -424,8 +424,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Guster Eye | ![guster_eye](../images/alexsmobs_guster_eye.png) |
-| S | Cut Sandstone | ![cut_sandstone](../images/alexsmobs_cut_sandstone.png) |
-| R | Redstone | ![redstone](../images/alexsmobs_redstone.png) |
+| S | Cut Sandstone | ![cut_sandstone](../images/alexsmobs_0.png) |
+| R | Redstone | ![redstone](../images/alexsmobs_0.png) |
 
 ---
 ## Hemolymph Blaster
@@ -445,9 +445,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass Bottle | ![glass_bottle](../images/alexsmobs_glass_bottle.png) |
-| F | Sunflower | ![sunflower](../images/alexsmobs_sunflower.png) |
-| P | Copper Ingot | ![copper_ingot](../images/alexsmobs_copper_ingot.png) |
+| G | Glass Bottle | ![glass_bottle](../images/alexsmobs_komodo_spit_bottle.png) |
+| F | Sunflower | ![sunflower](../images/alexsmobs_0.png) |
+| P | Copper Ingot | ![copper_ingot](../images/alexsmobs_0.png) |
 
 ---
 ## Kangaroo Burger
@@ -455,7 +455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bread | ![bread](../images/alexsmobs_bread.png) |
+| B | Bread | ![bread](../images/alexsmobs_0.png) |
 | K | Cooked Kangaroo Meat | ![cooked_kangaroo_meat](../images/alexsmobs_cooked_kangaroo_meat.png) |
 
 ---
@@ -473,7 +473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Bottle | ![glass_bottle](../images/alexsmobs_glass_bottle.png) |
+| - | Glass Bottle | ![glass_bottle](../images/alexsmobs_komodo_spit_bottle.png) |
 | - | Komodo Spit | ![komodo_spit](../images/alexsmobs_komodo_spit.png) |
 | - | Komodo Spit | ![komodo_spit](../images/alexsmobs_komodo_spit.png) |
 | - | Komodo Spit | ![komodo_spit](../images/alexsmobs_komodo_spit.png) |
@@ -495,7 +495,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Planks | ![planks](../images/alexsmobs_planks.png) |
+| P | Planks | ![planks](../images/alexsmobs_purpur_planks.png) |
 | R | Rattlesnake Rattle | ![rattlesnake_rattle](../images/alexsmobs_rattlesnake_rattle.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/alexsmobs_rods/wooden.png) |
 
@@ -514,7 +514,7 @@
 | :--- | :--- | :--- |
 | A | Moose Antler | ![moose_antler](../images/alexsmobs_moose_antler.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/alexsmobs_ingots/iron.png) |
-| S | String | ![string](../images/alexsmobs_string.png) |
+| S | String | ![string](../images/alexsmobs_0.png) |
 
 ---
 ## Mosquito Larva
@@ -531,7 +531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Music Discs | ![music_discs](../images/alexsmobs_music_discs.png) |
+| - | Music Discs | ![music_discs](../images/alexsmobs_music_disc_daze.png) |
 
 ---
 ## Mysterious Worm
@@ -548,8 +548,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Guster Eye | ![guster_eye](../images/alexsmobs_guster_eye.png) |
-| L | Leather | ![leather](../images/alexsmobs_leather.png) |
-| S | Sand | ![sand](../images/alexsmobs_sand.png) |
+| L | Leather | ![leather](../images/alexsmobs_0.png) |
+| S | Sand | ![sand](../images/alexsmobs_pocket_sand.png) |
 
 ---
 ## Pupfish Locator
@@ -558,7 +558,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Echolocator | ![echolocator](../images/alexsmobs_echolocator.png) |
-| S | Slime Ball | ![slime_ball](../images/alexsmobs_slime_ball.png) |
+| S | Slime Ball | ![slime_ball](../images/alexsmobs_banana_slug_slime.png) |
 | B | Fish Bones | ![fish_bones](../images/alexsmobs_fish_bones.png) |
 
 ---
@@ -568,7 +568,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Rainbow Jelly | ![rainbow_jelly](../images/alexsmobs_rainbow_jelly.png) |
-| G | Glass | ![glass](../images/alexsmobs_glass.png) |
+| G | Glass | ![glass](../images/alexsmobs_rainbow_glass.png) |
 
 ---
 ## Roadrunner Boots
@@ -577,8 +577,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Roadrunner Feather | ![roadrunner_feather](../images/alexsmobs_roadrunner_feather.png) |
-| B | Leather Boots | ![leather_boots](../images/alexsmobs_leather_boots.png) |
-| S | Chiseled Sandstone | ![chiseled_sandstone](../images/alexsmobs_chiseled_sandstone.png) |
+| B | Leather Boots | ![leather_boots](../images/alexsmobs_flying_fish_boots.png) |
+| S | Chiseled Sandstone | ![chiseled_sandstone](../images/alexsmobs_0.png) |
 
 ---
 ## Rocky Chestplate
@@ -594,9 +594,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Sculk | ![sculk](../images/alexsmobs_sculk.png) |
+| F | Sculk | ![sculk](../images/alexsmobs_0.png) |
 | S | Skreecher Soul | ![skreecher_soul](../images/alexsmobs_skreecher_soul.png) |
-| B | Bone Block | ![bone_block](../images/alexsmobs_bone_block.png) |
+| B | Bone Block | ![bone_block](../images/alexsmobs_banana_slug_slime_block.png) |
 
 ---
 ## Shark Tooth Arrow
@@ -606,7 +606,7 @@
 | :--- | :--- | :--- |
 | T | Shark Tooth | ![shark_tooth](../images/alexsmobs_shark_tooth.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/alexsmobs_rods/wooden.png) |
-| K | Kelp | ![kelp](../images/alexsmobs_kelp.png) |
+| K | Kelp | ![kelp](../images/alexsmobs_0.png) |
 
 ---
 ## Shattered Dimensional Carver
@@ -623,8 +623,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Serrated Shark Tooth | ![serrated_shark_tooth](../images/alexsmobs_serrated_shark_tooth.png) |
-| P | Prismarine Bricks | ![prismarine_bricks](../images/alexsmobs_prismarine_bricks.png) |
-| H | Heart Of The Sea | ![heart_of_the_sea](../images/alexsmobs_heart_of_the_sea.png) |
+| P | Prismarine Bricks | ![prismarine_bricks](../images/alexsmobs_0.png) |
+| H | Heart Of The Sea | ![heart_of_the_sea](../images/alexsmobs_soul_heart.png) |
 | T | Shark Tooth | ![shark_tooth](../images/alexsmobs_shark_tooth.png) |
 
 ---
@@ -633,10 +633,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/alexsmobs_bowl.png) |
+| - | Bowl | ![bowl](../images/alexsmobs_0.png) |
 | - | Banana Peel | ![banana_peel](../images/alexsmobs_banana_peel.png) |
-| - | Brown Mushroom | ![brown_mushroom](../images/alexsmobs_brown_mushroom.png) |
-| - | Bone | ![bone](../images/alexsmobs_bone.png) |
+| - | Brown Mushroom | ![brown_mushroom](../images/alexsmobs_0.png) |
+| - | Bone | ![bone](../images/alexsmobs_bone_serpent_tooth.png) |
 
 ---
 ## Spiked Turtle Shell
@@ -645,7 +645,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Spiked Scute | ![spiked_scute](../images/alexsmobs_spiked_scute.png) |
-| C | Turtle Helmet | ![turtle_helmet](../images/alexsmobs_turtle_helmet.png) |
+| C | Turtle Helmet | ![turtle_helmet](../images/alexsmobs_froststalker_helmet.png) |
 
 ---
 ## Squid Grapple
@@ -654,8 +654,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | T | Lost Tentacle | ![lost_tentacle](../images/alexsmobs_lost_tentacle.png) |
-| B | Crossbow | ![crossbow](../images/alexsmobs_crossbow.png) |
-| C | Copper Ingot | ![copper_ingot](../images/alexsmobs_copper_ingot.png) |
+| B | Crossbow | ![crossbow](../images/alexsmobs_0.png) |
+| C | Copper Ingot | ![copper_ingot](../images/alexsmobs_0.png) |
 
 ---
 ## Stink Ray
@@ -665,7 +665,7 @@
 | :--- | :--- | :--- |
 | S | Stink Bottle | ![stink_bottle](../images/alexsmobs_stink_bottle.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/alexsmobs_ingots/iron.png) |
-| H | Hopper | ![hopper](../images/alexsmobs_hopper.png) |
+| H | Hopper | ![hopper](../images/alexsmobs_0.png) |
 
 ---
 ## Straddleboard
@@ -683,7 +683,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Straddlite | ![straddlite](../images/alexsmobs_straddlite.png) |
-| L | String | ![string](../images/alexsmobs_string.png) |
+| L | String | ![string](../images/alexsmobs_0.png) |
 
 ---
 ## Straddle Saddle
@@ -692,7 +692,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Straddlite | ![straddlite](../images/alexsmobs_straddlite.png) |
-| E | Saddle | ![saddle](../images/alexsmobs_saddle.png) |
+| E | Saddle | ![saddle](../images/alexsmobs_straddle_saddle.png) |
 
 ---
 ## Straddlite Block
@@ -717,7 +717,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | W | Tarantula Hawk Wing | ![tarantula_hawk_wing](../images/alexsmobs_tarantula_hawk_wing.png) |
-| E | Elytra | ![elytra](../images/alexsmobs_elytra.png) |
+| E | Elytra | ![elytra](../images/alexsmobs_tarantula_hawk_elytra.png) |
 
 ---
 ## Tarantula Hawk Wing
@@ -743,9 +743,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Nether Star | ![nether_star](../images/alexsmobs_nether_star.png) |
+| N | Nether Star | ![nether_star](../images/alexsmobs_0.png) |
 | S | Farseer Arm | ![farseer_arm](../images/alexsmobs_farseer_arm.png) |
-| O | Obsidian | ![obsidian](../images/alexsmobs_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/alexsmobs_0.png) |
 
 ---
 ## Vine Lasso
@@ -753,8 +753,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Lead | ![lead](../images/alexsmobs_lead.png) |
-| V | Vine | ![vine](../images/alexsmobs_vine.png) |
+| L | Lead | ![lead](../images/alexsmobs_0.png) |
+| V | Vine | ![vine](../images/alexsmobs_vine_lasso.png) |
 | S | Shed Snake Skin | ![shed_snake_skin](../images/alexsmobs_shed_snake_skin.png) |
 
 ---
@@ -773,7 +773,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Void Worm Beak | ![void_worm_beak](../images/alexsmobs_void_worm_beak.png) |
-| E | Ender Pearl | ![ender_pearl](../images/alexsmobs_ender_pearl.png) |
-| P | Purpur Block | ![purpur_block](../images/alexsmobs_purpur_block.png) |
+| E | Ender Pearl | ![ender_pearl](../images/alexsmobs_ender_residue_0.png) |
+| P | Purpur Block | ![purpur_block](../images/alexsmobs_banana_slug_slime_block.png) |
 
 ---

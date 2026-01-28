@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Door
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Fence
@@ -23,8 +23,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ad_stick.png) |
-| W | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
+| W | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Fence Gate
@@ -32,8 +32,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ad_stick.png) |
-| W | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
+| W | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Ladder
@@ -41,7 +41,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Planks
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Aeronos Caps | ![aeronos_caps](../images/ad_aeronos_caps.png) |
+| - | Aeronos Caps | ![aeronos_caps](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Aeronos Slab
@@ -57,7 +57,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Stairs
@@ -65,7 +65,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Aeronos Trapdoor
@@ -73,7 +73,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Aeronos Planks | ![aeronos_planks](../images/ad_aeronos_planks.png) |
+| # | Aeronos Planks | ![aeronos_planks](../images/ad_astra_aeronos_planks.png) |
 
 ---
 ## Airlock
@@ -81,8 +81,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Blocks | ![steel_blocks](../images/ad_steel_blocks.png) |
-| C | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
+| # | Steel Blocks | ![steel_blocks](../images/ad_astra_energizer_steel_arm.png) |
+| C | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## {}
@@ -244,8 +244,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Book | ![book](../images/ad_book.png) |
-| S | Steel Ingot | ![steel_ingot](../images/ad_steel_ingot.png) |
+| # | Book | ![book](../images/ad_astra_aeronos_cap.png) |
+| S | Steel Ingot | ![steel_ingot](../images/ad_astra_steel_ingot.png) |
 
 ---
 ## Black Flag
@@ -253,8 +253,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/ad_black_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Black Wool | ![black_wool](../images/ad_astra_black_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Blue Flag
@@ -262,8 +262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/ad_blue_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Blue Wool | ![blue_wool](../images/ad_astra_blue_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Brown Flag
@@ -271,8 +271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/ad_brown_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Brown Wool | ![brown_wool](../images/ad_astra_brown_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## {}
@@ -364,8 +364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Copper Ingot | ![copper_ingot](../images/ad_copper_ingot.png) |
-| P | Steel Plate | ![steel_plate](../images/ad_steel_plate.png) |
+| I | Copper Ingot | ![copper_ingot](../images/ad_astra_calorite_ingot.png) |
+| P | Steel Plate | ![steel_plate](../images/ad_astra_steel_plate.png) |
 
 ---
 ## Calorite Block
@@ -373,7 +373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Ingot | ![calorite_ingot](../images/ad_calorite_ingot.png) |
+| # | Calorite Ingot | ![calorite_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## Calorite Engine
@@ -381,9 +381,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| E | Engine Frame | ![engine_frame](../images/ad_engine_frame.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| E | Engine Frame | ![engine_frame](../images/ad_astra_engine_frame.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
 
 ---
 ## Calorite Ingot
@@ -391,7 +391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calorite Block | ![calorite_block](../images/ad_calorite_block.png) |
+| - | Calorite Block | ![calorite_block](../images/ad_astra_calorite_block.png) |
 
 ---
 ## Calorite Ingot
@@ -399,7 +399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Calorite Ore | ![deepslate_calorite_ore](../images/ad_deepslate_calorite_ore.png) |
+| item | Deepslate Calorite Ore | ![deepslate_calorite_ore](../images/ad_astra_deepslate_calorite_ore.png) |
 
 ---
 ## Calorite Ingot
@@ -407,7 +407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Calorite | ![raw_calorite](../images/ad_raw_calorite.png) |
+| item | Raw Calorite | ![raw_calorite](../images/ad_astra_raw_calorite.png) |
 
 ---
 ## Calorite Ingot
@@ -415,7 +415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Calorite Ore | ![venus_calorite_ore](../images/ad_venus_calorite_ore.png) |
+| item | Venus Calorite Ore | ![venus_calorite_ore](../images/ad_astra_venus_calorite_ore.png) |
 
 ---
 ## Calorite Ingot
@@ -423,7 +423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Nugget | ![calorite_nugget](../images/ad_calorite_nugget.png) |
+| # | Calorite Nugget | ![calorite_nugget](../images/ad_astra_calorite_nugget.png) |
 
 ---
 ## Calorite Ingot
@@ -431,7 +431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Calorite Ore | ![deepslate_calorite_ore](../images/ad_deepslate_calorite_ore.png) |
+| item | Deepslate Calorite Ore | ![deepslate_calorite_ore](../images/ad_astra_deepslate_calorite_ore.png) |
 
 ---
 ## Calorite Ingot
@@ -439,7 +439,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Calorite | ![raw_calorite](../images/ad_raw_calorite.png) |
+| item | Raw Calorite | ![raw_calorite](../images/ad_astra_raw_calorite.png) |
 
 ---
 ## Calorite Ingot
@@ -447,7 +447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Calorite Ore | ![venus_calorite_ore](../images/ad_venus_calorite_ore.png) |
+| item | Venus Calorite Ore | ![venus_calorite_ore](../images/ad_astra_venus_calorite_ore.png) |
 
 ---
 ## Calorite Nugget
@@ -455,7 +455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calorite Ingot | ![calorite_ingot](../images/ad_calorite_ingot.png) |
+| - | Calorite Ingot | ![calorite_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## Calorite Pillar
@@ -463,7 +463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| # | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Pillar
@@ -471,7 +471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| item | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Plate
@@ -479,8 +479,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hammer | ![hammer](../images/ad_hammer.png) |
-| - | Calorite Ingots | ![calorite_ingots](../images/ad_calorite_ingots.png) |
+| - | Hammer | ![hammer](../images/ad_astra_hammer.png) |
+| - | Calorite Ingots | ![calorite_ingots](../images/ad_astra_calorite_block.png) |
 
 ---
 ## {}
@@ -495,8 +495,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
-| | | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
+| | | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
 
 ---
 ## Calorite Plating Button
@@ -504,7 +504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| - | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Plating Pressure Plate
@@ -512,7 +512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| # | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Plating Slab
@@ -520,7 +520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| # | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Plating Slab
@@ -528,7 +528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| item | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Plating Stairs
@@ -536,7 +536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| # | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Plating Stairs
@@ -544,7 +544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Calorite Plating | ![calorite_plating](../images/ad_calorite_plating.png) |
+| item | Calorite Plating | ![calorite_plating](../images/ad_astra_calorite_plating.png) |
 
 ---
 ## Calorite Sliding Door
@@ -552,9 +552,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Blocks | ![calorite_blocks](../images/ad_calorite_blocks.png) |
-| C | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| P | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
+| # | Calorite Blocks | ![calorite_blocks](../images/ad_astra_calorite_block.png) |
+| C | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| P | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Calorite Tank
@@ -562,9 +562,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| U | Bucket | ![bucket](../images/ad_bucket.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| U | Bucket | ![bucket](../images/ad_astra_cryo_fuel_bucket.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## {}
@@ -712,7 +712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cheese Block | ![cheese_block](../images/ad_cheese_block.png) |
+| - | Cheese Block | ![cheese_block](../images/ad_astra_cheese_block.png) |
 
 ---
 ## Cheese Block
@@ -720,7 +720,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cheese | ![cheese](../images/ad_cheese.png) |
+| # | Cheese | ![cheese](../images/ad_astra_cheese.png) |
 
 ---
 ## Cheese
@@ -728,7 +728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Cheese Ore | ![moon_cheese_ore](../images/ad_moon_cheese_ore.png) |
+| item | Moon Cheese Ore | ![moon_cheese_ore](../images/ad_astra_moon_ore_cheese.png) |
 
 ---
 ## Cheese
@@ -736,7 +736,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Cheese Ore | ![moon_cheese_ore](../images/ad_moon_cheese_ore.png) |
+| item | Moon Cheese Ore | ![moon_cheese_ore](../images/ad_astra_moon_ore_cheese.png) |
 
 ---
 ## Chiseled Glacio Stone Bricks
@@ -744,7 +744,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone Brick Slab | ![glacio_stone_brick_slab](../images/ad_glacio_stone_brick_slab.png) |
+| # | Glacio Stone Brick Slab | ![glacio_stone_brick_slab](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Chiseled Glacio Stone Bricks
@@ -752,7 +752,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| item | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Chiseled Glacio Stone Slab
@@ -760,7 +760,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_chiseled_glacio_stone_bricks.png) |
+| # | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Chiseled Glacio Stone Slab
@@ -768,7 +768,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_chiseled_glacio_stone_bricks.png) |
+| item | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Chiseled Glacio Stone Stairs
@@ -776,7 +776,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_chiseled_glacio_stone_bricks.png) |
+| # | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Chiseled Glacio Stone Stairs
@@ -784,7 +784,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_chiseled_glacio_stone_bricks.png) |
+| item | Chiseled Glacio Stone Bricks | ![chiseled_glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Chiseled Mars Stone Bricks
@@ -792,7 +792,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone Brick Slab | ![mars_stone_brick_slab](../images/ad_mars_stone_brick_slab.png) |
+| # | Mars Stone Brick Slab | ![mars_stone_brick_slab](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Chiseled Mars Stone Bricks
@@ -800,7 +800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| item | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Chiseled Mars Stone Slab
@@ -808,7 +808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_chiseled_mars_stone_bricks.png) |
+| # | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Chiseled Mars Stone Slab
@@ -816,7 +816,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_chiseled_mars_stone_bricks.png) |
+| item | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Chiseled Mars Stone Stairs
@@ -824,7 +824,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_chiseled_mars_stone_bricks.png) |
+| # | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Chiseled Mars Stone Stairs
@@ -832,7 +832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_chiseled_mars_stone_bricks.png) |
+| item | Chiseled Mars Stone Bricks | ![chiseled_mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Chiseled Mercury Stone Bricks
@@ -840,7 +840,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone Brick Slab | ![mercury_stone_brick_slab](../images/ad_mercury_stone_brick_slab.png) |
+| # | Mercury Stone Brick Slab | ![mercury_stone_brick_slab](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Chiseled Mercury Stone Bricks
@@ -848,7 +848,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| item | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Chiseled Mercury Stone Slab
@@ -856,7 +856,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_chiseled_mercury_stone_bricks.png) |
+| # | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Chiseled Mercury Stone Slab
@@ -864,7 +864,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_chiseled_mercury_stone_bricks.png) |
+| item | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Chiseled Mercury Stone Stairs
@@ -872,7 +872,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_chiseled_mercury_stone_bricks.png) |
+| # | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Chiseled Mercury Stone Stairs
@@ -880,7 +880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_chiseled_mercury_stone_bricks.png) |
+| item | Chiseled Mercury Stone Bricks | ![chiseled_mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Chiseled Moon Stone Bricks
@@ -888,7 +888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone Brick Slab | ![moon_stone_brick_slab](../images/ad_moon_stone_brick_slab.png) |
+| # | Moon Stone Brick Slab | ![moon_stone_brick_slab](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Chiseled Moon Stone Bricks
@@ -896,7 +896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| item | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Chiseled Moon Stone Slab
@@ -904,7 +904,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_chiseled_moon_stone_bricks.png) |
+| # | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Chiseled Moon Stone Slab
@@ -912,7 +912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_chiseled_moon_stone_bricks.png) |
+| item | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Chiseled Moon Stone Stairs
@@ -920,7 +920,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_chiseled_moon_stone_bricks.png) |
+| # | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Chiseled Moon Stone Stairs
@@ -928,7 +928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_chiseled_moon_stone_bricks.png) |
+| item | Chiseled Moon Stone Bricks | ![chiseled_moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Chiseled Permafrost Bricks
@@ -936,7 +936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Brick Slab | ![permafrost_brick_slab](../images/ad_permafrost_brick_slab.png) |
+| # | Permafrost Brick Slab | ![permafrost_brick_slab](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Chiseled Permafrost Bricks
@@ -944,7 +944,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost | ![permafrost](../images/ad_permafrost.png) |
+| item | Permafrost | ![permafrost](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Chiseled Permafrost Brick Slab
@@ -952,7 +952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_chiseled_permafrost_bricks.png) |
+| # | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Chiseled Permafrost Brick Slab
@@ -960,7 +960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_chiseled_permafrost_bricks.png) |
+| item | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Chiseled Permafrost Brick Stairs
@@ -968,7 +968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_chiseled_permafrost_bricks.png) |
+| # | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Chiseled Permafrost Brick Stairs
@@ -976,7 +976,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_chiseled_permafrost_bricks.png) |
+| item | Chiseled Permafrost Bricks | ![chiseled_permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Chiseled Venus Stone Bricks
@@ -984,7 +984,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone Brick Slab | ![venus_stone_brick_slab](../images/ad_venus_stone_brick_slab.png) |
+| # | Venus Stone Brick Slab | ![venus_stone_brick_slab](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Chiseled Venus Stone Bricks
@@ -992,7 +992,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| item | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Chiseled Venus Stone Slab
@@ -1000,7 +1000,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_chiseled_venus_stone_bricks.png) |
+| # | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Chiseled Venus Stone Slab
@@ -1008,7 +1008,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_chiseled_venus_stone_bricks.png) |
+| item | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Chiseled Venus Stone Stairs
@@ -1016,7 +1016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_chiseled_venus_stone_bricks.png) |
+| # | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Chiseled Venus Stone Stairs
@@ -1024,7 +1024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_chiseled_venus_stone_bricks.png) |
+| item | Chiseled Venus Stone Bricks | ![chiseled_venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## {}
@@ -1116,7 +1116,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Coal Ore | ![glacio_coal_ore](../images/ad_glacio_coal_ore.png) |
+| item | Glacio Coal Ore | ![glacio_coal_ore](../images/ad_astra_glacio_coal_ore.png) |
 
 ---
 ## Coal
@@ -1124,7 +1124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Coal Ore | ![venus_coal_ore](../images/ad_venus_coal_ore.png) |
+| item | Venus Coal Ore | ![venus_coal_ore](../images/ad_astra_venus_coal_ore.png) |
 
 ---
 ## Coal
@@ -1132,7 +1132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Coal Ore | ![glacio_coal_ore](../images/ad_glacio_coal_ore.png) |
+| item | Glacio Coal Ore | ![glacio_coal_ore](../images/ad_astra_glacio_coal_ore.png) |
 
 ---
 ## Coal
@@ -1140,7 +1140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Coal Ore | ![venus_coal_ore](../images/ad_venus_coal_ore.png) |
+| item | Venus Coal Ore | ![venus_coal_ore](../images/ad_astra_venus_coal_ore.png) |
 
 ---
 ## Coal Generator
@@ -1148,9 +1148,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
-| F | Furnace | ![furnace](../images/ad_furnace.png) |
-| I | Iron Ingot | ![iron_ingot](../images/ad_iron_ingot.png) |
+| # | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
+| F | Furnace | ![furnace](../images/ad_astra_aeronos_cap.png) |
+| I | Iron Ingot | ![iron_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## Compressor
@@ -1158,8 +1158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
-| P | Piston | ![piston](../images/ad_piston.png) |
+| # | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
+| P | Piston | ![piston](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Copper Ingot
@@ -1167,7 +1167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Copper Ore | ![glacio_copper_ore](../images/ad_glacio_copper_ore.png) |
+| item | Glacio Copper Ore | ![glacio_copper_ore](../images/ad_astra_glacio_copper_ore.png) |
 
 ---
 ## Copper Ingot
@@ -1175,7 +1175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Copper Ore | ![glacio_copper_ore](../images/ad_glacio_copper_ore.png) |
+| item | Glacio Copper Ore | ![glacio_copper_ore](../images/ad_astra_glacio_copper_ore.png) |
 
 ---
 ## Cracked Glacio Stone Bricks
@@ -1183,7 +1183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Cracked Mars Stone Bricks
@@ -1191,7 +1191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Cracked Mercury Stone Bricks
@@ -1199,7 +1199,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Cracked Moon Stone Bricks
@@ -1207,7 +1207,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_moon_stone_bricks.png) |
+| item | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Cracked Permafrost Bricks
@@ -1215,7 +1215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Cracked Venus Sandstone Bricks
@@ -1223,7 +1223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Cracked Venus Stone Bricks
@@ -1231,7 +1231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Cryo Freezer
@@ -1239,10 +1239,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| B | Ostrum Block | ![ostrum_block](../images/ad_ostrum_block.png) |
-| O | Ostrum Ingot | ![ostrum_ingot](../images/ad_ostrum_ingot.png) |
-| T | Ostrum Tank | ![ostrum_tank](../images/ad_ostrum_tank.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| B | Ostrum Block | ![ostrum_block](../images/ad_astra_ostrum_block.png) |
+| O | Ostrum Ingot | ![ostrum_ingot](../images/ad_astra_ostrum_ingot.png) |
+| T | Ostrum Tank | ![ostrum_tank](../images/ad_astra_ostrum_tank.png) |
 
 ---
 ## {}
@@ -1278,8 +1278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/ad_cyan_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Cyan Wool | ![cyan_wool](../images/ad_astra_cyan_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Desh Block
@@ -1287,7 +1287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Ingot | ![desh_ingot](../images/ad_desh_ingot.png) |
+| # | Desh Ingot | ![desh_ingot](../images/ad_astra_desh_ingot.png) |
 
 ---
 ## Desh Cable
@@ -1295,8 +1295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| C | Copper Ingot | ![copper_ingot](../images/ad_copper_ingot.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| C | Copper Ingot | ![copper_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## Desh Engine
@@ -1304,9 +1304,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| E | Engine Frame | ![engine_frame](../images/ad_engine_frame.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| E | Engine Frame | ![engine_frame](../images/ad_astra_engine_frame.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
 
 ---
 ## Desh Fluid Pipe
@@ -1314,8 +1314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| C | Glass | ![glass](../images/ad_glass.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| C | Glass | ![glass](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Desh Ingot
@@ -1323,7 +1323,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Desh Block | ![desh_block](../images/ad_desh_block.png) |
+| - | Desh Block | ![desh_block](../images/ad_astra_desh_block.png) |
 
 ---
 ## Desh Ingot
@@ -1331,7 +1331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Desh Ore | ![deepslate_desh_ore](../images/ad_deepslate_desh_ore.png) |
+| item | Deepslate Desh Ore | ![deepslate_desh_ore](../images/ad_astra_deepslate_desh_ore.png) |
 
 ---
 ## Desh Ingot
@@ -1339,7 +1339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Desh Ore | ![moon_desh_ore](../images/ad_moon_desh_ore.png) |
+| item | Moon Desh Ore | ![moon_desh_ore](../images/ad_astra_moon_ore_desh.png) |
 
 ---
 ## Desh Ingot
@@ -1347,7 +1347,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Desh | ![raw_desh](../images/ad_raw_desh.png) |
+| item | Raw Desh | ![raw_desh](../images/ad_astra_raw_desh.png) |
 
 ---
 ## Desh Ingot
@@ -1355,7 +1355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Nugget | ![desh_nugget](../images/ad_desh_nugget.png) |
+| # | Desh Nugget | ![desh_nugget](../images/ad_astra_desh_nugget.png) |
 
 ---
 ## Desh Ingot
@@ -1363,7 +1363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Desh Ore | ![deepslate_desh_ore](../images/ad_deepslate_desh_ore.png) |
+| item | Deepslate Desh Ore | ![deepslate_desh_ore](../images/ad_astra_deepslate_desh_ore.png) |
 
 ---
 ## Desh Ingot
@@ -1371,7 +1371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Desh Ore | ![moon_desh_ore](../images/ad_moon_desh_ore.png) |
+| item | Moon Desh Ore | ![moon_desh_ore](../images/ad_astra_moon_ore_desh.png) |
 
 ---
 ## Desh Ingot
@@ -1379,7 +1379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Desh | ![raw_desh](../images/ad_raw_desh.png) |
+| item | Raw Desh | ![raw_desh](../images/ad_astra_raw_desh.png) |
 
 ---
 ## Desh Nugget
@@ -1387,7 +1387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Desh Ingot | ![desh_ingot](../images/ad_desh_ingot.png) |
+| - | Desh Ingot | ![desh_ingot](../images/ad_astra_desh_ingot.png) |
 
 ---
 ## Desh Pillar
@@ -1395,7 +1395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| # | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Pillar
@@ -1403,7 +1403,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| item | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Plate
@@ -1411,8 +1411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hammer | ![hammer](../images/ad_hammer.png) |
-| - | Desh Ingots | ![desh_ingots](../images/ad_desh_ingots.png) |
+| - | Hammer | ![hammer](../images/ad_astra_hammer.png) |
+| - | Desh Ingots | ![desh_ingots](../images/ad_astra_deepslate_desh_ore.png) |
 
 ---
 ## {}
@@ -1427,8 +1427,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
-| | | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
+| | | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
 
 ---
 ## Desh Plating Button
@@ -1436,7 +1436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| - | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Plating Pressure Plate
@@ -1444,7 +1444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| # | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Plating Slab
@@ -1452,7 +1452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| # | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Plating Slab
@@ -1460,7 +1460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| item | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Plating Stairs
@@ -1468,7 +1468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| # | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Plating Stairs
@@ -1476,7 +1476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Desh Plating | ![desh_plating](../images/ad_desh_plating.png) |
+| item | Desh Plating | ![desh_plating](../images/ad_astra_desh_plating.png) |
 
 ---
 ## Desh Sliding Door
@@ -1484,9 +1484,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Blocks | ![desh_blocks](../images/ad_desh_blocks.png) |
-| C | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| P | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
+| # | Desh Blocks | ![desh_blocks](../images/ad_astra_deepslate_desh_ore.png) |
+| C | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| P | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Desh Tank
@@ -1494,9 +1494,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| U | Bucket | ![bucket](../images/ad_bucket.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| U | Bucket | ![bucket](../images/ad_astra_cryo_fuel_bucket.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Diamond
@@ -1504,7 +1504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Diamond Ore | ![mars_diamond_ore](../images/ad_mars_diamond_ore.png) |
+| item | Mars Diamond Ore | ![mars_diamond_ore](../images/ad_astra_mars_ore_diamond.png) |
 
 ---
 ## Diamond
@@ -1512,7 +1512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Diamond Ore | ![venus_diamond_ore](../images/ad_venus_diamond_ore.png) |
+| item | Venus Diamond Ore | ![venus_diamond_ore](../images/ad_astra_venus_diamond_ore.png) |
 
 ---
 ## Diamond
@@ -1520,7 +1520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Diamond Ore | ![mars_diamond_ore](../images/ad_mars_diamond_ore.png) |
+| item | Mars Diamond Ore | ![mars_diamond_ore](../images/ad_astra_mars_ore_diamond.png) |
 
 ---
 ## Diamond
@@ -1528,7 +1528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Diamond Ore | ![venus_diamond_ore](../images/ad_venus_diamond_ore.png) |
+| item | Venus Diamond Ore | ![venus_diamond_ore](../images/ad_astra_venus_diamond_ore.png) |
 
 ---
 ## Energizer
@@ -1536,10 +1536,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| B | Ostrum Block | ![ostrum_block](../images/ad_ostrum_block.png) |
-| D | Diamond Block | ![diamond_block](../images/ad_diamond_block.png) |
-| I | Diamond | ![diamond](../images/ad_diamond.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| B | Ostrum Block | ![ostrum_block](../images/ad_astra_ostrum_block.png) |
+| D | Diamond Block | ![diamond_block](../images/ad_astra_calorite_block.png) |
+| I | Diamond | ![diamond](../images/ad_astra_mars_ore_diamond.png) |
 
 ---
 ## Engine Fan
@@ -1547,8 +1547,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Engine Frame
@@ -1556,8 +1556,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## {}
@@ -1859,8 +1859,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Ingots | ![steel_ingots](../images/ad_steel_ingots.png) |
-| - | Flint | ![flint](../images/ad_flint.png) |
+| - | Steel Ingots | ![steel_ingots](../images/ad_astra_energizer_steel_arm.png) |
+| - | Flint | ![flint](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Fluid Pipe Duct
@@ -1868,9 +1868,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/ad_glass.png) |
-| I | Desh Ingot | ![desh_ingot](../images/ad_desh_ingot.png) |
-| P | Desh Plate | ![desh_plate](../images/ad_desh_plate.png) |
+| G | Glass | ![glass](../images/ad_astra_aeronos_cap.png) |
+| I | Desh Ingot | ![desh_ingot](../images/ad_astra_desh_ingot.png) |
+| P | Desh Plate | ![desh_plate](../images/ad_astra_desh_plate.png) |
 
 ---
 ## {}
@@ -1885,9 +1885,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| B | Bucket | ![bucket](../images/ad_bucket.png) |
-| F | Furnace | ![furnace](../images/ad_furnace.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| B | Bucket | ![bucket](../images/ad_astra_cryo_fuel_bucket.png) |
+| F | Furnace | ![furnace](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Glacian Button
@@ -1895,7 +1895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| - | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Door
@@ -1903,7 +1903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Fence
@@ -1911,8 +1911,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ad_stick.png) |
-| W | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
+| W | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Fence Gate
@@ -1920,8 +1920,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ad_stick.png) |
-| W | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
+| W | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Planks
@@ -1929,7 +1929,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glacian Logs | ![glacian_logs](../images/ad_glacian_logs.png) |
+| - | Glacian Logs | ![glacian_logs](../images/ad_astra_glacian_door.png) |
 
 ---
 ## Glacian Pressure Plate
@@ -1937,7 +1937,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Sign
@@ -1945,8 +1945,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
-| X | Stick | ![stick](../images/ad_stick.png) |
+| # | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
+| X | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Glacian Slab
@@ -1954,7 +1954,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Stairs
@@ -1962,7 +1962,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacian Trapdoor
@@ -1970,7 +1970,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Planks | ![glacian_planks](../images/ad_glacian_planks.png) |
+| # | Glacian Planks | ![glacian_planks](../images/ad_astra_glacian_planks.png) |
 
 ---
 ## Glacio Cobblestone Slab
@@ -1978,7 +1978,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_glacio_cobblestone.png) |
+| # | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_astra_glacio_cobblestone.png) |
 
 ---
 ## Glacio Cobblestone Slab
@@ -1986,7 +1986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_glacio_cobblestone.png) |
+| item | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_astra_glacio_cobblestone.png) |
 
 ---
 ## Glacio Cobblestone Stairs
@@ -1994,7 +1994,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_glacio_cobblestone.png) |
+| # | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_astra_glacio_cobblestone.png) |
 
 ---
 ## Glacio Cobblestone Stairs
@@ -2002,7 +2002,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_glacio_cobblestone.png) |
+| item | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_astra_glacio_cobblestone.png) |
 
 ---
 ## Glacio Pillar
@@ -2010,7 +2010,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Pillar
@@ -2018,7 +2018,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Bricks
@@ -2026,7 +2026,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| S | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Bricks
@@ -2034,7 +2034,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Glacio Stone | ![polished_glacio_stone](../images/ad_polished_glacio_stone.png) |
+| item | Polished Glacio Stone | ![polished_glacio_stone](../images/ad_astra_polished_glacio_stone.png) |
 
 ---
 ## Glacio Stone Brick Slab
@@ -2042,7 +2042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Brick Slab
@@ -2050,7 +2050,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Brick Stairs
@@ -2058,7 +2058,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Brick Stairs
@@ -2066,7 +2066,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| item | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Brick Wall
@@ -2074,7 +2074,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_glacio_stone_bricks.png) |
+| # | Glacio Stone Bricks | ![glacio_stone_bricks](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone
@@ -2082,7 +2082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_glacio_cobblestone.png) |
+| item | Glacio Cobblestone | ![glacio_cobblestone](../images/ad_astra_glacio_cobblestone.png) |
 
 ---
 ## Glacio Stone Slab
@@ -2090,7 +2090,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| # | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Slab
@@ -2098,7 +2098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| item | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Stairs
@@ -2106,7 +2106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| # | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glacio Stone Stairs
@@ -2114,7 +2114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| item | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Glowing Calorite Pillar
@@ -2122,9 +2122,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| B | Orange Dye | ![orange_dye](../images/ad_orange_dye.png) |
-| G | Glowstone | ![glowstone](../images/ad_glowstone.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| B | Orange Dye | ![orange_dye](../images/ad_astra_energizer_side_orange.png) |
+| G | Glowstone | ![glowstone](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Glowing Desh Pillar
@@ -2132,9 +2132,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| B | Red Dye | ![red_dye](../images/ad_red_dye.png) |
-| G | Glowstone | ![glowstone](../images/ad_glowstone.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| B | Red Dye | ![red_dye](../images/ad_astra_energizer_side_red.png) |
+| G | Glowstone | ![glowstone](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Glowing Iron Pillar
@@ -2142,9 +2142,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
-| B | Light Blue Dye | ![light_blue_dye](../images/ad_light_blue_dye.png) |
-| G | Glowstone | ![glowstone](../images/ad_glowstone.png) |
+| # | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
+| B | Light Blue Dye | ![light_blue_dye](../images/ad_astra_light_blue_flag.png) |
+| G | Glowstone | ![glowstone](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Glowing Ostrum Pillar
@@ -2152,9 +2152,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| B | Lime Dye | ![lime_dye](../images/ad_lime_dye.png) |
-| G | Glowstone | ![glowstone](../images/ad_glowstone.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| B | Lime Dye | ![lime_dye](../images/ad_astra_lime_flag.png) |
+| G | Glowstone | ![glowstone](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Glowing Steel Pillar
@@ -2162,9 +2162,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| B | Purple Dye | ![purple_dye](../images/ad_purple_dye.png) |
-| G | Glowstone | ![glowstone](../images/ad_glowstone.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| B | Purple Dye | ![purple_dye](../images/ad_astra_purple_flag.png) |
+| G | Glowstone | ![glowstone](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Gold Ingot
@@ -2172,7 +2172,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Gold Ore | ![venus_gold_ore](../images/ad_venus_gold_ore.png) |
+| item | Venus Gold Ore | ![venus_gold_ore](../images/ad_astra_venus_gold_ore.png) |
 
 ---
 ## Gold Ingot
@@ -2180,7 +2180,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Gold Ore | ![venus_gold_ore](../images/ad_venus_gold_ore.png) |
+| item | Venus Gold Ore | ![venus_gold_ore](../images/ad_astra_venus_gold_ore.png) |
 
 ---
 ## Gray Flag
@@ -2188,8 +2188,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/ad_gray_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Gray Wool | ![gray_wool](../images/ad_astra_gray_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Green Flag
@@ -2197,8 +2197,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/ad_green_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Green Wool | ![green_wool](../images/ad_astra_energizer_side_green.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Hammer
@@ -2206,8 +2206,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Ingot | ![iron_ingot](../images/ad_iron_ingot.png) |
-| | | Stick | ![stick](../images/ad_stick.png) |
+| # | Iron Ingot | ![iron_ingot](../images/ad_astra_calorite_ingot.png) |
+| | | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Ice
@@ -2215,7 +2215,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Ice Shard | ![ice_shard](../images/ad_ice_shard.png) |
+| S | Ice Shard | ![ice_shard](../images/ad_astra_deepslate_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2223,7 +2223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Ice Shard Ore | ![deepslate_ice_shard_ore](../images/ad_deepslate_ice_shard_ore.png) |
+| item | Deepslate Ice Shard Ore | ![deepslate_ice_shard_ore](../images/ad_astra_deepslate_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2231,7 +2231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Ice Shard Ore | ![glacio_ice_shard_ore](../images/ad_glacio_ice_shard_ore.png) |
+| item | Glacio Ice Shard Ore | ![glacio_ice_shard_ore](../images/ad_astra_glacio_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2239,7 +2239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Ice Shard Ore | ![mars_ice_shard_ore](../images/ad_mars_ice_shard_ore.png) |
+| item | Mars Ice Shard Ore | ![mars_ice_shard_ore](../images/ad_astra_mars_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2247,7 +2247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Ice Shard Ore | ![moon_ice_shard_ore](../images/ad_moon_ice_shard_ore.png) |
+| item | Moon Ice Shard Ore | ![moon_ice_shard_ore](../images/ad_astra_moon_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2255,7 +2255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Ice Shard Ore | ![deepslate_ice_shard_ore](../images/ad_deepslate_ice_shard_ore.png) |
+| item | Deepslate Ice Shard Ore | ![deepslate_ice_shard_ore](../images/ad_astra_deepslate_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2263,7 +2263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Ice Shard Ore | ![glacio_ice_shard_ore](../images/ad_glacio_ice_shard_ore.png) |
+| item | Glacio Ice Shard Ore | ![glacio_ice_shard_ore](../images/ad_astra_glacio_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2271,7 +2271,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Ice Shard Ore | ![mars_ice_shard_ore](../images/ad_mars_ice_shard_ore.png) |
+| item | Mars Ice Shard Ore | ![mars_ice_shard_ore](../images/ad_astra_mars_ice_shard_ore.png) |
 
 ---
 ## Ice Shard
@@ -2279,7 +2279,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Ice Shard Ore | ![moon_ice_shard_ore](../images/ad_moon_ice_shard_ore.png) |
+| item | Moon Ice Shard Ore | ![moon_ice_shard_ore](../images/ad_astra_moon_ice_shard_ore.png) |
 
 ---
 ## Iron Ingot
@@ -2287,7 +2287,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Iron Ore | ![glacio_iron_ore](../images/ad_glacio_iron_ore.png) |
+| item | Glacio Iron Ore | ![glacio_iron_ore](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Iron Ingot
@@ -2295,7 +2295,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Iron Ore | ![mars_iron_ore](../images/ad_mars_iron_ore.png) |
+| item | Mars Iron Ore | ![mars_iron_ore](../images/ad_astra_mars_ore_iron.png) |
 
 ---
 ## Iron Ingot
@@ -2303,7 +2303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Iron Ore | ![mercury_iron_ore](../images/ad_mercury_iron_ore.png) |
+| item | Mercury Iron Ore | ![mercury_iron_ore](../images/ad_astra_mercury_iron_ore.png) |
 
 ---
 ## Iron Ingot
@@ -2311,7 +2311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Iron Ore | ![moon_iron_ore](../images/ad_moon_iron_ore.png) |
+| item | Moon Iron Ore | ![moon_iron_ore](../images/ad_astra_moon_ore_iron.png) |
 
 ---
 ## Iron Ingot
@@ -2319,7 +2319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Iron Ore | ![glacio_iron_ore](../images/ad_glacio_iron_ore.png) |
+| item | Glacio Iron Ore | ![glacio_iron_ore](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Iron Ingot
@@ -2327,7 +2327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Iron Ore | ![mars_iron_ore](../images/ad_mars_iron_ore.png) |
+| item | Mars Iron Ore | ![mars_iron_ore](../images/ad_astra_mars_ore_iron.png) |
 
 ---
 ## Iron Ingot
@@ -2335,7 +2335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Iron Ore | ![mercury_iron_ore](../images/ad_mercury_iron_ore.png) |
+| item | Mercury Iron Ore | ![mercury_iron_ore](../images/ad_astra_mercury_iron_ore.png) |
 
 ---
 ## Iron Ingot
@@ -2343,7 +2343,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Iron Ore | ![moon_iron_ore](../images/ad_moon_iron_ore.png) |
+| item | Moon Iron Ore | ![moon_iron_ore](../images/ad_astra_moon_ore_iron.png) |
 
 ---
 ## Iron Pillar
@@ -2351,7 +2351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Pillar
@@ -2359,7 +2359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| item | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Plate
@@ -2367,8 +2367,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hammer | ![hammer](../images/ad_hammer.png) |
-| - | Iron Ingot | ![iron_ingot](../images/ad_iron_ingot.png) |
+| - | Hammer | ![hammer](../images/ad_astra_hammer.png) |
+| - | Iron Ingot | ![iron_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## {}
@@ -2383,7 +2383,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
+| # | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Iron Plating Button
@@ -2391,7 +2391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| - | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Plating Pressure Plate
@@ -2399,7 +2399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Plating Slab
@@ -2407,7 +2407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Plating Slab
@@ -2415,7 +2415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| item | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Plating Stairs
@@ -2423,7 +2423,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Plating Stairs
@@ -2431,7 +2431,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
+| item | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
 
 ---
 ## Iron Rod
@@ -2439,7 +2439,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
+| # | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Iron Sliding Door
@@ -2447,9 +2447,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Block | ![iron_block](../images/ad_iron_block.png) |
-| C | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
-| P | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
+| # | Iron Block | ![iron_block](../images/ad_astra_calorite_block.png) |
+| C | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
+| P | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Jet Suit
@@ -2457,11 +2457,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| B | Calorite Blocks | ![calorite_blocks](../images/ad_calorite_blocks.png) |
-| E | Calorite Engine | ![calorite_engine](../images/ad_calorite_engine.png) |
-| N | Netherite Space Suit | ![netherite_space_suit](../images/ad_netherite_space_suit.png) |
-| T | Calorite Tank | ![calorite_tank](../images/ad_calorite_tank.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| B | Calorite Blocks | ![calorite_blocks](../images/ad_astra_calorite_block.png) |
+| E | Calorite Engine | ![calorite_engine](../images/ad_astra_calorite_engine.png) |
+| N | Netherite Space Suit | ![netherite_space_suit](../images/ad_astra_netherite_space_suit.png) |
+| T | Calorite Tank | ![calorite_tank](../images/ad_astra_calorite_tank.png) |
 
 ---
 ## Jet Suit Boots
@@ -2469,9 +2469,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| B | Calorite Blocks | ![calorite_blocks](../images/ad_calorite_blocks.png) |
-| N | Netherite Space Boots | ![netherite_space_boots](../images/ad_netherite_space_boots.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| B | Calorite Blocks | ![calorite_blocks](../images/ad_astra_calorite_block.png) |
+| N | Netherite Space Boots | ![netherite_space_boots](../images/ad_astra_netherite_space_boots.png) |
 
 ---
 ## Jet Suit Helmet
@@ -2479,9 +2479,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| G | Glass | ![glass](../images/ad_glass.png) |
-| N | Netherite Space Helmet | ![netherite_space_helmet](../images/ad_netherite_space_helmet.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| G | Glass | ![glass](../images/ad_astra_aeronos_cap.png) |
+| N | Netherite Space Helmet | ![netherite_space_helmet](../images/ad_astra_netherite_space_helmet.png) |
 
 ---
 ## Jet Suit Pants
@@ -2489,8 +2489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Calorite Plates | ![calorite_plates](../images/ad_calorite_plates.png) |
-| N | Netherite Space Pants | ![netherite_space_pants](../images/ad_netherite_space_pants.png) |
+| # | Calorite Plates | ![calorite_plates](../images/ad_astra_calorite_block.png) |
+| N | Netherite Space Pants | ![netherite_space_pants](../images/ad_astra_netherite_space_pants.png) |
 
 ---
 ## Lapis Lazuli
@@ -2498,7 +2498,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Lapis Ore | ![glacio_lapis_ore](../images/ad_glacio_lapis_ore.png) |
+| item | Glacio Lapis Ore | ![glacio_lapis_ore](../images/ad_astra_glacio_lapis_ore.png) |
 
 ---
 ## Lapis Lazuli
@@ -2506,7 +2506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Lapis Ore | ![glacio_lapis_ore](../images/ad_glacio_lapis_ore.png) |
+| item | Glacio Lapis Ore | ![glacio_lapis_ore](../images/ad_astra_glacio_lapis_ore.png) |
 
 ---
 ## Launch Pad
@@ -2514,8 +2514,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| | | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| | | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## {}
@@ -2705,8 +2705,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/ad_light_blue_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/ad_astra_light_blue_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Light Gray Flag
@@ -2714,8 +2714,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/ad_light_gray_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/ad_astra_light_gray_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Lime Flag
@@ -2723,8 +2723,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/ad_lime_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Lime Wool | ![lime_wool](../images/ad_astra_lime_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Magenta Flag
@@ -2732,8 +2732,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/ad_magenta_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Magenta Wool | ![magenta_wool](../images/ad_astra_magenta_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Marked Iron Pillar
@@ -2741,9 +2741,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plates | ![iron_plates](../images/ad_iron_plates.png) |
-| B | Black Dye | ![black_dye](../images/ad_black_dye.png) |
-| Y | Yellow Dye | ![yellow_dye](../images/ad_yellow_dye.png) |
+| # | Iron Plates | ![iron_plates](../images/ad_astra_glacio_iron_ore.png) |
+| B | Black Dye | ![black_dye](../images/ad_astra_black_flag.png) |
+| Y | Yellow Dye | ![yellow_dye](../images/ad_astra_energizer_side_yellow.png) |
 
 ---
 ## Mars Cobblestone Slab
@@ -2751,7 +2751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Cobblestone | ![mars_cobblestone](../images/ad_mars_cobblestone.png) |
+| # | Mars Cobblestone | ![mars_cobblestone](../images/ad_astra_mars_cobblestone.png) |
 
 ---
 ## Mars Cobblestone Slab
@@ -2759,7 +2759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Cobblestone | ![mars_cobblestone](../images/ad_mars_cobblestone.png) |
+| item | Mars Cobblestone | ![mars_cobblestone](../images/ad_astra_mars_cobblestone.png) |
 
 ---
 ## Mars Cobblestone Stairs
@@ -2767,7 +2767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Cobblestone | ![mars_cobblestone](../images/ad_mars_cobblestone.png) |
+| # | Mars Cobblestone | ![mars_cobblestone](../images/ad_astra_mars_cobblestone.png) |
 
 ---
 ## Mars Cobblestone Stairs
@@ -2775,7 +2775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Cobblestone | ![mars_cobblestone](../images/ad_mars_cobblestone.png) |
+| item | Mars Cobblestone | ![mars_cobblestone](../images/ad_astra_mars_cobblestone.png) |
 
 ---
 ## Mars Pillar
@@ -2783,7 +2783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Pillar
@@ -2791,7 +2791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Bricks
@@ -2799,7 +2799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| S | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Bricks
@@ -2807,7 +2807,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Mars Stone | ![polished_mars_stone](../images/ad_polished_mars_stone.png) |
+| item | Polished Mars Stone | ![polished_mars_stone](../images/ad_astra_polished_mars_stone.png) |
 
 ---
 ## Mars Stone Brick Slab
@@ -2815,7 +2815,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Brick Slab
@@ -2823,7 +2823,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Brick Stairs
@@ -2831,7 +2831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Brick Stairs
@@ -2839,7 +2839,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| item | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Brick Wall
@@ -2847,7 +2847,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_mars_stone_bricks.png) |
+| # | Mars Stone Bricks | ![mars_stone_bricks](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone
@@ -2855,7 +2855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Cobblestone | ![mars_cobblestone](../images/ad_mars_cobblestone.png) |
+| item | Mars Cobblestone | ![mars_cobblestone](../images/ad_astra_mars_cobblestone.png) |
 
 ---
 ## Mars Stone Slab
@@ -2863,7 +2863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| # | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Slab
@@ -2871,7 +2871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| item | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Stairs
@@ -2879,7 +2879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| # | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Mars Stone Stairs
@@ -2887,7 +2887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| item | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## {}
@@ -3252,7 +3252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_mercury_cobblestone.png) |
+| # | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_astra_mercury_cobblestone.png) |
 
 ---
 ## Mercury Cobblestone Slab
@@ -3260,7 +3260,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_mercury_cobblestone.png) |
+| item | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_astra_mercury_cobblestone.png) |
 
 ---
 ## Mercury Cobblestone Stairs
@@ -3268,7 +3268,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_mercury_cobblestone.png) |
+| # | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_astra_mercury_cobblestone.png) |
 
 ---
 ## Mercury Cobblestone Stairs
@@ -3276,7 +3276,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_mercury_cobblestone.png) |
+| item | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_astra_mercury_cobblestone.png) |
 
 ---
 ## Mercury Pillar
@@ -3284,7 +3284,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Pillar
@@ -3292,7 +3292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Bricks
@@ -3300,7 +3300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| S | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Bricks
@@ -3308,7 +3308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_polished_mercury_stone.png) |
+| item | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_astra_polished_mercury_stone.png) |
 
 ---
 ## Mercury Stone Brick Slab
@@ -3316,7 +3316,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Brick Slab
@@ -3324,7 +3324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Brick Stairs
@@ -3332,7 +3332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Brick Stairs
@@ -3340,7 +3340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| item | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Brick Wall
@@ -3348,7 +3348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_mercury_stone_bricks.png) |
+| # | Mercury Stone Bricks | ![mercury_stone_bricks](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone
@@ -3356,7 +3356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_mercury_cobblestone.png) |
+| item | Mercury Cobblestone | ![mercury_cobblestone](../images/ad_astra_mercury_cobblestone.png) |
 
 ---
 ## Mercury Stone Slab
@@ -3364,7 +3364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| # | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Slab
@@ -3372,7 +3372,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| item | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Stairs
@@ -3380,7 +3380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| # | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Mercury Stone Stairs
@@ -3388,7 +3388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| item | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Moon Cobblestone Slab
@@ -3396,7 +3396,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Cobblestone | ![moon_cobblestone](../images/ad_moon_cobblestone.png) |
+| # | Moon Cobblestone | ![moon_cobblestone](../images/ad_astra_moon_cobblestone.png) |
 
 ---
 ## Moon Cobblestone Slab
@@ -3404,7 +3404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Cobblestone | ![moon_cobblestone](../images/ad_moon_cobblestone.png) |
+| item | Moon Cobblestone | ![moon_cobblestone](../images/ad_astra_moon_cobblestone.png) |
 
 ---
 ## Moon Cobblestone Stairs
@@ -3412,7 +3412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Cobblestone | ![moon_cobblestone](../images/ad_moon_cobblestone.png) |
+| # | Moon Cobblestone | ![moon_cobblestone](../images/ad_astra_moon_cobblestone.png) |
 
 ---
 ## Moon Cobblestone Stairs
@@ -3420,7 +3420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Cobblestone | ![moon_cobblestone](../images/ad_moon_cobblestone.png) |
+| item | Moon Cobblestone | ![moon_cobblestone](../images/ad_astra_moon_cobblestone.png) |
 
 ---
 ## Moon Pillar
@@ -3428,7 +3428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_moon_stone_bricks.png) |
+| # | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Pillar
@@ -3436,7 +3436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_moon_stone_bricks.png) |
+| item | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Bricks
@@ -3444,7 +3444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| S | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Bricks
@@ -3452,7 +3452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Moon Stone | ![polished_moon_stone](../images/ad_polished_moon_stone.png) |
+| item | Polished Moon Stone | ![polished_moon_stone](../images/ad_astra_polished_moon_stone.png) |
 
 ---
 ## Moon Stone Brick Slab
@@ -3460,7 +3460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| # | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Brick Slab
@@ -3468,7 +3468,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| item | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Brick Stairs
@@ -3476,7 +3476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_moon_stone_bricks.png) |
+| # | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Brick Stairs
@@ -3484,7 +3484,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_moon_stone_bricks.png) |
+| item | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Brick Wall
@@ -3492,7 +3492,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_moon_stone_bricks.png) |
+| # | Moon Stone Bricks | ![moon_stone_bricks](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone
@@ -3500,7 +3500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Cobblestone | ![moon_cobblestone](../images/ad_moon_cobblestone.png) |
+| item | Moon Cobblestone | ![moon_cobblestone](../images/ad_astra_moon_cobblestone.png) |
 
 ---
 ## Moon Stone Slab
@@ -3508,7 +3508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| # | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Slab
@@ -3516,7 +3516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| item | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Stairs
@@ -3524,7 +3524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| # | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Moon Stone Stairs
@@ -3532,7 +3532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| item | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Nasa Workbench
@@ -3540,12 +3540,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| B | Steel Blocks | ![steel_blocks](../images/ad_steel_blocks.png) |
-| C | Crafting Table | ![crafting_table](../images/ad_crafting_table.png) |
-| L | Lever | ![lever](../images/ad_lever.png) |
-| R | Redstone Block | ![redstone_block](../images/ad_redstone_block.png) |
-| T | Redstone Torch | ![redstone_torch](../images/ad_redstone_torch.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| B | Steel Blocks | ![steel_blocks](../images/ad_astra_energizer_steel_arm.png) |
+| C | Crafting Table | ![crafting_table](../images/ad_astra_aeronos_cap.png) |
+| L | Lever | ![lever](../images/ad_astra_aeronos_cap.png) |
+| R | Redstone Block | ![redstone_block](../images/ad_astra_calorite_block.png) |
+| T | Redstone Torch | ![redstone_torch](../images/ad_astra_extinguished_torch.png) |
 
 ---
 ## Netherite Space Boots
@@ -3553,9 +3553,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| D | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| N | Netherite Boots | ![netherite_boots](../images/ad_netherite_boots.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| D | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| N | Netherite Boots | ![netherite_boots](../images/ad_astra_netherite_space_boots.png) |
 
 ---
 ## Netherite Space Helmet
@@ -3563,9 +3563,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| G | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
-| N | Netherite Helmet | ![netherite_helmet](../images/ad_netherite_helmet.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| G | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
+| N | Netherite Helmet | ![netherite_helmet](../images/ad_astra_netherite_space_helmet.png) |
 
 ---
 ## Netherite Space Pants
@@ -3573,9 +3573,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| D | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| N | Netherite Leggings | ![netherite_leggings](../images/ad_netherite_leggings.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| D | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| N | Netherite Leggings | ![netherite_leggings](../images/ad_astra_netherite_space_boots.png) |
 
 ---
 ## Netherite Space Suit
@@ -3583,10 +3583,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| N | Netherite Chestplate | ![netherite_chestplate](../images/ad_netherite_chestplate.png) |
-| O | Oxygen Gear | ![oxygen_gear](../images/ad_oxygen_gear.png) |
-| T | Oxygen Tank | ![oxygen_tank](../images/ad_oxygen_tank.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| N | Netherite Chestplate | ![netherite_chestplate](../images/ad_astra_netherite_space_boots.png) |
+| O | Oxygen Gear | ![oxygen_gear](../images/ad_astra_oxygen_gear.png) |
+| T | Oxygen Tank | ![oxygen_tank](../images/ad_astra_oxygen_tank.png) |
 
 ---
 ## Orange Flag
@@ -3594,8 +3594,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/ad_orange_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Orange Wool | ![orange_wool](../images/ad_astra_energizer_side_orange.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Ostrum Block
@@ -3603,7 +3603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Ingot | ![ostrum_ingot](../images/ad_ostrum_ingot.png) |
+| # | Ostrum Ingot | ![ostrum_ingot](../images/ad_astra_ostrum_ingot.png) |
 
 ---
 ## Ostrum Engine
@@ -3611,9 +3611,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| E | Engine Frame | ![engine_frame](../images/ad_engine_frame.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| E | Engine Frame | ![engine_frame](../images/ad_astra_engine_frame.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
 
 ---
 ## Ostrum Fluid Pipe
@@ -3621,8 +3621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| C | Glass | ![glass](../images/ad_glass.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| C | Glass | ![glass](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Ostrum Ingot
@@ -3630,7 +3630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ostrum Block | ![ostrum_block](../images/ad_ostrum_block.png) |
+| - | Ostrum Block | ![ostrum_block](../images/ad_astra_ostrum_block.png) |
 
 ---
 ## Ostrum Ingot
@@ -3638,7 +3638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Ostrum Ore | ![deepslate_ostrum_ore](../images/ad_deepslate_ostrum_ore.png) |
+| item | Deepslate Ostrum Ore | ![deepslate_ostrum_ore](../images/ad_astra_deepslate_ostrum_ore.png) |
 
 ---
 ## Ostrum Ingot
@@ -3646,7 +3646,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Ostrum Ore | ![mars_ostrum_ore](../images/ad_mars_ostrum_ore.png) |
+| item | Mars Ostrum Ore | ![mars_ostrum_ore](../images/ad_astra_mars_ore_ostrum.png) |
 
 ---
 ## Ostrum Ingot
@@ -3654,7 +3654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Ostrum | ![raw_ostrum](../images/ad_raw_ostrum.png) |
+| item | Raw Ostrum | ![raw_ostrum](../images/ad_astra_raw_ostrum.png) |
 
 ---
 ## Ostrum Ingot
@@ -3662,7 +3662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Nugget | ![ostrum_nugget](../images/ad_ostrum_nugget.png) |
+| # | Ostrum Nugget | ![ostrum_nugget](../images/ad_astra_ostrum_nugget.png) |
 
 ---
 ## Ostrum Ingot
@@ -3670,7 +3670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Ostrum Ore | ![deepslate_ostrum_ore](../images/ad_deepslate_ostrum_ore.png) |
+| item | Deepslate Ostrum Ore | ![deepslate_ostrum_ore](../images/ad_astra_deepslate_ostrum_ore.png) |
 
 ---
 ## Ostrum Ingot
@@ -3678,7 +3678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Ostrum Ore | ![mars_ostrum_ore](../images/ad_mars_ostrum_ore.png) |
+| item | Mars Ostrum Ore | ![mars_ostrum_ore](../images/ad_astra_mars_ore_ostrum.png) |
 
 ---
 ## Ostrum Ingot
@@ -3686,7 +3686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Raw Ostrum | ![raw_ostrum](../images/ad_raw_ostrum.png) |
+| item | Raw Ostrum | ![raw_ostrum](../images/ad_astra_raw_ostrum.png) |
 
 ---
 ## Ostrum Nugget
@@ -3694,7 +3694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ostrum Ingot | ![ostrum_ingot](../images/ad_ostrum_ingot.png) |
+| - | Ostrum Ingot | ![ostrum_ingot](../images/ad_astra_ostrum_ingot.png) |
 
 ---
 ## Ostrum Pillar
@@ -3702,7 +3702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| # | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Pillar
@@ -3710,7 +3710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| item | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Plate
@@ -3718,8 +3718,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hammer | ![hammer](../images/ad_hammer.png) |
-| - | Ostrum Ingots | ![ostrum_ingots](../images/ad_ostrum_ingots.png) |
+| - | Hammer | ![hammer](../images/ad_astra_hammer.png) |
+| - | Ostrum Ingots | ![ostrum_ingots](../images/ad_astra_deepslate_ostrum_ore.png) |
 
 ---
 ## {}
@@ -3734,8 +3734,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
-| | | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
+| | | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
 
 ---
 ## Ostrum Plating Button
@@ -3743,7 +3743,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| - | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Plating Pressure Plate
@@ -3751,7 +3751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| # | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Plating Slab
@@ -3759,7 +3759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| # | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Plating Slab
@@ -3767,7 +3767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| item | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Plating Stairs
@@ -3775,7 +3775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| # | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Plating Stairs
@@ -3783,7 +3783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Ostrum Plating | ![ostrum_plating](../images/ad_ostrum_plating.png) |
+| item | Ostrum Plating | ![ostrum_plating](../images/ad_astra_ostrum_plating.png) |
 
 ---
 ## Ostrum Sliding Door
@@ -3791,9 +3791,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Blocks | ![ostrum_blocks](../images/ad_ostrum_blocks.png) |
-| C | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| P | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
+| # | Ostrum Blocks | ![ostrum_blocks](../images/ad_astra_deepslate_ostrum_ore.png) |
+| C | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| P | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Ostrum Tank
@@ -3801,9 +3801,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| U | Bucket | ![bucket](../images/ad_bucket.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| U | Bucket | ![bucket](../images/ad_astra_cryo_fuel_bucket.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Oxygen Distributor
@@ -3811,11 +3811,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
-| G | Oxygen Gear | ![oxygen_gear](../images/ad_oxygen_gear.png) |
-| L | Oxygen Loader | ![oxygen_loader](../images/ad_oxygen_loader.png) |
-| T | Oxygen Tank | ![oxygen_tank](../images/ad_oxygen_tank.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
+| G | Oxygen Gear | ![oxygen_gear](../images/ad_astra_oxygen_gear.png) |
+| L | Oxygen Loader | ![oxygen_loader](../images/ad_astra_oxygen_loader_front.png) |
+| T | Oxygen Tank | ![oxygen_tank](../images/ad_astra_oxygen_tank.png) |
 
 ---
 ## {}
@@ -3837,8 +3837,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Oxygen Loader
@@ -3846,11 +3846,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
-| L | Lightning Rod | ![lightning_rod](../images/ad_lightning_rod.png) |
-| R | Redstone Block | ![redstone_block](../images/ad_redstone_block.png) |
-| T | Oxygen Tank | ![oxygen_tank](../images/ad_oxygen_tank.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
+| L | Lightning Rod | ![lightning_rod](../images/ad_astra_iron_rod.png) |
+| R | Redstone Block | ![redstone_block](../images/ad_astra_calorite_block.png) |
+| T | Oxygen Tank | ![oxygen_tank](../images/ad_astra_oxygen_tank.png) |
 
 ---
 ## Oxygen Sensor
@@ -3858,11 +3858,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Ostrum Plates | ![ostrum_plates](../images/ad_ostrum_plates.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/ad_redstone_lamp.png) |
-| O | Ostrum Ingot | ![ostrum_ingot](../images/ad_ostrum_ingot.png) |
-| V | Observer | ![observer](../images/ad_observer.png) |
+| # | Ostrum Plates | ![ostrum_plates](../images/ad_astra_deepslate_ostrum_ore.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/ad_astra_aeronos_cap.png) |
+| O | Ostrum Ingot | ![ostrum_ingot](../images/ad_astra_ostrum_ingot.png) |
+| V | Observer | ![observer](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Oxygen Tank
@@ -3870,8 +3870,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Permafrost Bricks
@@ -3879,7 +3879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Permafrost | ![permafrost](../images/ad_permafrost.png) |
+| S | Permafrost | ![permafrost](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Bricks
@@ -3887,7 +3887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost | ![permafrost](../images/ad_permafrost.png) |
+| item | Permafrost | ![permafrost](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Brick Slab
@@ -3895,7 +3895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Brick Slab
@@ -3903,7 +3903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Brick Stairs
@@ -3911,7 +3911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Brick Stairs
@@ -3919,7 +3919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Brick Wall
@@ -3927,7 +3927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Pillar
@@ -3935,7 +3935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| # | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Pillar
@@ -3943,7 +3943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| item | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Permafrost Tiles
@@ -3951,7 +3951,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Permafrost Bricks | ![permafrost_bricks](../images/ad_permafrost_bricks.png) |
+| S | Permafrost Bricks | ![permafrost_bricks](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Pink Flag
@@ -3959,8 +3959,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/ad_pink_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Pink Wool | ![pink_wool](../images/ad_astra_pink_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Polished Conglomerate
@@ -3968,7 +3968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Conglomerate | ![conglomerate](../images/ad_conglomerate.png) |
+| S | Conglomerate | ![conglomerate](../images/ad_astra_conglomerate.png) |
 
 ---
 ## Polished Conglomerate
@@ -3976,7 +3976,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Conglomerate | ![conglomerate](../images/ad_conglomerate.png) |
+| item | Conglomerate | ![conglomerate](../images/ad_astra_conglomerate.png) |
 
 ---
 ## Polished Glacio Stone
@@ -3984,7 +3984,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| S | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Polished Glacio Stone
@@ -3992,7 +3992,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glacio Stone | ![glacio_stone](../images/ad_glacio_stone.png) |
+| item | Glacio Stone | ![glacio_stone](../images/ad_astra_chiseled_glacio_stone_bricks.png) |
 
 ---
 ## Polished Glacio Stone Slab
@@ -4000,7 +4000,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Glacio Stone | ![polished_glacio_stone](../images/ad_polished_glacio_stone.png) |
+| # | Polished Glacio Stone | ![polished_glacio_stone](../images/ad_astra_polished_glacio_stone.png) |
 
 ---
 ## Polished Glacio Stone Slab
@@ -4008,7 +4008,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Glacio Stone | ![polished_glacio_stone](../images/ad_polished_glacio_stone.png) |
+| item | Polished Glacio Stone | ![polished_glacio_stone](../images/ad_astra_polished_glacio_stone.png) |
 
 ---
 ## Polished Mars Stone
@@ -4016,7 +4016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| S | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Polished Mars Stone
@@ -4024,7 +4024,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mars Stone | ![mars_stone](../images/ad_mars_stone.png) |
+| item | Mars Stone | ![mars_stone](../images/ad_astra_chiseled_mars_stone_bricks.png) |
 
 ---
 ## Polished Mars Stone Slab
@@ -4032,7 +4032,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Mars Stone | ![polished_mars_stone](../images/ad_polished_mars_stone.png) |
+| # | Polished Mars Stone | ![polished_mars_stone](../images/ad_astra_polished_mars_stone.png) |
 
 ---
 ## Polished Mars Stone Slab
@@ -4040,7 +4040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Mars Stone | ![polished_mars_stone](../images/ad_polished_mars_stone.png) |
+| item | Polished Mars Stone | ![polished_mars_stone](../images/ad_astra_polished_mars_stone.png) |
 
 ---
 ## Polished Mars Stone Stairs
@@ -4048,7 +4048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Mars Stone | ![polished_mars_stone](../images/ad_polished_mars_stone.png) |
+| # | Polished Mars Stone | ![polished_mars_stone](../images/ad_astra_polished_mars_stone.png) |
 
 ---
 ## Polished Mars Stone Stairs
@@ -4056,7 +4056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Mars Stone | ![polished_mars_stone](../images/ad_polished_mars_stone.png) |
+| item | Polished Mars Stone | ![polished_mars_stone](../images/ad_astra_polished_mars_stone.png) |
 
 ---
 ## Polished Mercury Stone
@@ -4064,7 +4064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| S | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Polished Mercury Stone
@@ -4072,7 +4072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mercury Stone | ![mercury_stone](../images/ad_mercury_stone.png) |
+| item | Mercury Stone | ![mercury_stone](../images/ad_astra_chiseled_mercury_stone_bricks.png) |
 
 ---
 ## Polished Mercury Stone Slab
@@ -4080,7 +4080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_polished_mercury_stone.png) |
+| # | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_astra_polished_mercury_stone.png) |
 
 ---
 ## Polished Mercury Stone Slab
@@ -4088,7 +4088,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_polished_mercury_stone.png) |
+| item | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_astra_polished_mercury_stone.png) |
 
 ---
 ## Polished Mercury Stone Stairs
@@ -4096,7 +4096,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_polished_mercury_stone.png) |
+| # | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_astra_polished_mercury_stone.png) |
 
 ---
 ## Polished Mercury Stone Stairs
@@ -4104,7 +4104,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_polished_mercury_stone.png) |
+| item | Polished Mercury Stone | ![polished_mercury_stone](../images/ad_astra_polished_mercury_stone.png) |
 
 ---
 ## Polished Moon Stone
@@ -4112,7 +4112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| S | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Polished Moon Stone
@@ -4120,7 +4120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Moon Stone | ![moon_stone](../images/ad_moon_stone.png) |
+| item | Moon Stone | ![moon_stone](../images/ad_astra_chiseled_moon_stone_bricks.png) |
 
 ---
 ## Polished Moon Stone Slab
@@ -4128,7 +4128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Moon Stone | ![polished_moon_stone](../images/ad_polished_moon_stone.png) |
+| # | Polished Moon Stone | ![polished_moon_stone](../images/ad_astra_polished_moon_stone.png) |
 
 ---
 ## Polished Moon Stone Slab
@@ -4136,7 +4136,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Moon Stone | ![polished_moon_stone](../images/ad_polished_moon_stone.png) |
+| item | Polished Moon Stone | ![polished_moon_stone](../images/ad_astra_polished_moon_stone.png) |
 
 ---
 ## Polished Moon Stone Stairs
@@ -4144,7 +4144,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Moon Stone | ![polished_moon_stone](../images/ad_polished_moon_stone.png) |
+| # | Polished Moon Stone | ![polished_moon_stone](../images/ad_astra_polished_moon_stone.png) |
 
 ---
 ## Polished Moon Stone Stairs
@@ -4152,7 +4152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Moon Stone | ![polished_moon_stone](../images/ad_polished_moon_stone.png) |
+| item | Polished Moon Stone | ![polished_moon_stone](../images/ad_astra_polished_moon_stone.png) |
 
 ---
 ## Polished Permafrost
@@ -4160,7 +4160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Permafrost | ![permafrost](../images/ad_permafrost.png) |
+| S | Permafrost | ![permafrost](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Polished Permafrost
@@ -4168,7 +4168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Permafrost | ![permafrost](../images/ad_permafrost.png) |
+| item | Permafrost | ![permafrost](../images/ad_astra_chiseled_permafrost_bricks.png) |
 
 ---
 ## Polished Permafrost Slab
@@ -4176,7 +4176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Permafrost | ![polished_permafrost](../images/ad_polished_permafrost.png) |
+| # | Polished Permafrost | ![polished_permafrost](../images/ad_astra_polished_permafrost.png) |
 
 ---
 ## Polished Permafrost Slab
@@ -4184,7 +4184,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Permafrost | ![polished_permafrost](../images/ad_polished_permafrost.png) |
+| item | Polished Permafrost | ![polished_permafrost](../images/ad_astra_polished_permafrost.png) |
 
 ---
 ## Polished Permafrost Stairs
@@ -4192,7 +4192,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Permafrost | ![polished_permafrost](../images/ad_polished_permafrost.png) |
+| # | Polished Permafrost | ![polished_permafrost](../images/ad_astra_polished_permafrost.png) |
 
 ---
 ## Polished Permafrost Stairs
@@ -4200,7 +4200,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Permafrost | ![polished_permafrost](../images/ad_polished_permafrost.png) |
+| item | Polished Permafrost | ![polished_permafrost](../images/ad_astra_polished_permafrost.png) |
 
 ---
 ## Polished Venus Stone
@@ -4208,7 +4208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| S | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Polished Venus Stone
@@ -4216,7 +4216,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| item | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Polished Venus Stone Slab
@@ -4224,7 +4224,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Venus Stone | ![polished_venus_stone](../images/ad_polished_venus_stone.png) |
+| # | Polished Venus Stone | ![polished_venus_stone](../images/ad_astra_polished_venus_stone.png) |
 
 ---
 ## Polished Venus Stone Slab
@@ -4232,7 +4232,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Venus Stone | ![polished_venus_stone](../images/ad_polished_venus_stone.png) |
+| item | Polished Venus Stone | ![polished_venus_stone](../images/ad_astra_polished_venus_stone.png) |
 
 ---
 ## Polished Venus Stone Stairs
@@ -4240,7 +4240,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Venus Stone | ![polished_venus_stone](../images/ad_polished_venus_stone.png) |
+| # | Polished Venus Stone | ![polished_venus_stone](../images/ad_astra_polished_venus_stone.png) |
 
 ---
 ## Polished Venus Stone Stairs
@@ -4248,7 +4248,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Venus Stone | ![polished_venus_stone](../images/ad_polished_venus_stone.png) |
+| item | Polished Venus Stone | ![polished_venus_stone](../images/ad_astra_polished_venus_stone.png) |
 
 ---
 ## Purple Flag
@@ -4256,8 +4256,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/ad_purple_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Purple Wool | ![purple_wool](../images/ad_astra_purple_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Raw Calorite
@@ -4265,7 +4265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Calorite Block | ![raw_calorite_block](../images/ad_raw_calorite_block.png) |
+| - | Raw Calorite Block | ![raw_calorite_block](../images/ad_astra_raw_calorite_block.png) |
 
 ---
 ## Raw Calorite Block
@@ -4273,7 +4273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Raw Calorite | ![raw_calorite](../images/ad_raw_calorite.png) |
+| # | Raw Calorite | ![raw_calorite](../images/ad_astra_raw_calorite.png) |
 
 ---
 ## Raw Desh
@@ -4281,7 +4281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Desh Block | ![raw_desh_block](../images/ad_raw_desh_block.png) |
+| - | Raw Desh Block | ![raw_desh_block](../images/ad_astra_raw_desh_block.png) |
 
 ---
 ## Raw Desh Block
@@ -4289,7 +4289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Raw Desh | ![raw_desh](../images/ad_raw_desh.png) |
+| # | Raw Desh | ![raw_desh](../images/ad_astra_raw_desh.png) |
 
 ---
 ## Raw Ostrum
@@ -4297,7 +4297,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Raw Ostrum Block | ![raw_ostrum_block](../images/ad_raw_ostrum_block.png) |
+| - | Raw Ostrum Block | ![raw_ostrum_block](../images/ad_astra_raw_ostrum_block.png) |
 
 ---
 ## Raw Ostrum Block
@@ -4305,7 +4305,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Raw Ostrum | ![raw_ostrum](../images/ad_raw_ostrum.png) |
+| # | Raw Ostrum | ![raw_ostrum](../images/ad_astra_raw_ostrum.png) |
 
 ---
 ## Red Flag
@@ -4313,8 +4313,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/ad_red_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Red Wool | ![red_wool](../images/ad_astra_energizer_side_red.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Reinforced Door
@@ -4322,9 +4322,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Blocks | ![steel_blocks](../images/ad_steel_blocks.png) |
-| G | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
-| O | Obsidian | ![obsidian](../images/ad_obsidian.png) |
+| # | Steel Blocks | ![steel_blocks](../images/ad_astra_energizer_steel_arm.png) |
+| G | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
+| O | Obsidian | ![obsidian](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Rocket Fin
@@ -4332,7 +4332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## Rocket Nose Cone
@@ -4340,8 +4340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| | | Lightning Rod | ![lightning_rod](../images/ad_lightning_rod.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| | | Lightning Rod | ![lightning_rod](../images/ad_astra_iron_rod.png) |
 
 ---
 ## {}
@@ -4937,9 +4937,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| G | Blue Stained Glass | ![blue_stained_glass](../images/ad_blue_stained_glass.png) |
-| S | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| G | Blue Stained Glass | ![blue_stained_glass](../images/ad_astra_blue_flag.png) |
+| S | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## Soul Torch
@@ -4947,8 +4947,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Extinguished Torch | ![extinguished_torch](../images/ad_extinguished_torch.png) |
-| S | Soul Soil | ![soul_soil](../images/ad_soul_soil.png) |
+| # | Extinguished Torch | ![extinguished_torch](../images/ad_astra_extinguished_torch.png) |
+| S | Soul Soil | ![soul_soil](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Space Boots
@@ -4956,8 +4956,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Ingots | ![steel_ingots](../images/ad_steel_ingots.png) |
-| W | White Wool | ![white_wool](../images/ad_white_wool.png) |
+| # | Steel Ingots | ![steel_ingots](../images/ad_astra_energizer_steel_arm.png) |
+| W | White Wool | ![white_wool](../images/ad_astra_white_flag.png) |
 
 ---
 ## Space Helmet
@@ -4965,8 +4965,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Ingots | ![steel_ingots](../images/ad_steel_ingots.png) |
-| G | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
+| # | Steel Ingots | ![steel_ingots](../images/ad_astra_energizer_steel_arm.png) |
+| G | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Space Pants
@@ -4974,8 +4974,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Ingots | ![steel_ingots](../images/ad_steel_ingots.png) |
-| W | White Wool | ![white_wool](../images/ad_white_wool.png) |
+| # | Steel Ingots | ![steel_ingots](../images/ad_astra_energizer_steel_arm.png) |
+| W | White Wool | ![white_wool](../images/ad_astra_white_flag.png) |
 
 ---
 ## {}
@@ -4983,10 +4983,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Space Suit
@@ -4994,10 +4994,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Ingots | ![steel_ingots](../images/ad_steel_ingots.png) |
-| O | Oxygen Gear | ![oxygen_gear](../images/ad_oxygen_gear.png) |
-| T | Oxygen Tank | ![oxygen_tank](../images/ad_oxygen_tank.png) |
-| W | White Wool | ![white_wool](../images/ad_white_wool.png) |
+| # | Steel Ingots | ![steel_ingots](../images/ad_astra_energizer_steel_arm.png) |
+| O | Oxygen Gear | ![oxygen_gear](../images/ad_astra_oxygen_gear.png) |
+| T | Oxygen Tank | ![oxygen_tank](../images/ad_astra_oxygen_tank.png) |
+| W | White Wool | ![white_wool](../images/ad_astra_white_flag.png) |
 
 ---
 ## Steel Block
@@ -5005,7 +5005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Ingot | ![steel_ingot](../images/ad_steel_ingot.png) |
+| # | Steel Ingot | ![steel_ingot](../images/ad_astra_steel_ingot.png) |
 
 ---
 ## Steel Cable
@@ -5013,8 +5013,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| C | Copper Ingot | ![copper_ingot](../images/ad_copper_ingot.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| C | Copper Ingot | ![copper_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## Steel Door
@@ -5022,7 +5022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## Steel Engine
@@ -5030,9 +5030,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| E | Engine Frame | ![engine_frame](../images/ad_engine_frame.png) |
-| F | Engine Fan | ![engine_fan](../images/ad_engine_fan.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| E | Engine Frame | ![engine_frame](../images/ad_astra_engine_frame.png) |
+| F | Engine Fan | ![engine_fan](../images/ad_astra_calorite_engine.png) |
 
 ---
 ## Steel Ingot
@@ -5040,7 +5040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Block | ![steel_block](../images/ad_steel_block.png) |
+| - | Steel Block | ![steel_block](../images/ad_astra_steel_block.png) |
 
 ---
 ## Steel Ingot
@@ -5048,7 +5048,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Ingot | ![iron_ingot](../images/ad_iron_ingot.png) |
+| item | Iron Ingot | ![iron_ingot](../images/ad_astra_calorite_ingot.png) |
 
 ---
 ## Steel Ingot
@@ -5056,7 +5056,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Nugget | ![steel_nugget](../images/ad_steel_nugget.png) |
+| # | Steel Nugget | ![steel_nugget](../images/ad_astra_steel_nugget.png) |
 
 ---
 ## Steel Nugget
@@ -5064,7 +5064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Ingot | ![steel_ingot](../images/ad_steel_ingot.png) |
+| - | Steel Ingot | ![steel_ingot](../images/ad_astra_steel_ingot.png) |
 
 ---
 ## Steel Pillar
@@ -5072,7 +5072,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| # | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Pillar
@@ -5080,7 +5080,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| item | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Plate
@@ -5088,8 +5088,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hammer | ![hammer](../images/ad_hammer.png) |
-| - | Steel Ingots | ![steel_ingots](../images/ad_steel_ingots.png) |
+| - | Hammer | ![hammer](../images/ad_astra_hammer.png) |
+| - | Steel Ingots | ![steel_ingots](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## {}
@@ -5104,8 +5104,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Plating | ![iron_plating](../images/ad_iron_plating.png) |
-| | | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
+| # | Iron Plating | ![iron_plating](../images/ad_astra_iron_plating.png) |
+| | | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## Steel Plating Button
@@ -5113,7 +5113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| - | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Plating Pressure Plate
@@ -5121,7 +5121,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| # | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Plating Slab
@@ -5129,7 +5129,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| # | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Plating Slab
@@ -5137,7 +5137,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| item | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Plating Stairs
@@ -5145,7 +5145,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| # | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Plating Stairs
@@ -5153,7 +5153,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Steel Plating | ![steel_plating](../images/ad_steel_plating.png) |
+| item | Steel Plating | ![steel_plating](../images/ad_astra_steel_plating.png) |
 
 ---
 ## Steel Sliding Door
@@ -5161,9 +5161,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Blocks | ![steel_blocks](../images/ad_steel_blocks.png) |
-| C | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| P | Glass Pane | ![glass_pane](../images/ad_glass_pane.png) |
+| # | Steel Blocks | ![steel_blocks](../images/ad_astra_energizer_steel_arm.png) |
+| C | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| P | Glass Pane | ![glass_pane](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Steel Tank
@@ -5171,9 +5171,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| U | Bucket | ![bucket](../images/ad_bucket.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| U | Bucket | ![bucket](../images/ad_astra_cryo_fuel_bucket.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Steel Trapdoor
@@ -5181,7 +5181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
 
 ---
 ## Stripped Glacian Log
@@ -5189,7 +5189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glacian Log | ![glacian_log](../images/ad_glacian_log.png) |
+| # | Glacian Log | ![glacian_log](../images/ad_astra_glacian_log.png) |
 
 ---
 ## Strophar Chest
@@ -5197,7 +5197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Door
@@ -5205,7 +5205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Fence
@@ -5213,8 +5213,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ad_stick.png) |
-| W | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
+| W | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Fence Gate
@@ -5222,8 +5222,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/ad_stick.png) |
-| W | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Stick | ![stick](../images/ad_astra_aeronos_cap.png) |
+| W | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Ladder
@@ -5231,7 +5231,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Planks
@@ -5239,7 +5239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Strophar Caps | ![strophar_caps](../images/ad_strophar_caps.png) |
+| - | Strophar Caps | ![strophar_caps](../images/ad_astra_strophar_cap.png) |
 
 ---
 ## Strophar Slab
@@ -5247,7 +5247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Stairs
@@ -5255,7 +5255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## Strophar Trapdoor
@@ -5263,7 +5263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Strophar Planks | ![strophar_planks](../images/ad_strophar_planks.png) |
+| # | Strophar Planks | ![strophar_planks](../images/ad_astra_strophar_planks.png) |
 
 ---
 ## {}
@@ -5271,20 +5271,20 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## Tier 1 Rover
@@ -5292,12 +5292,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wheel | ![wheel](../images/ad_wheel.png) |
-| D | Desh Blocks | ![desh_blocks](../images/ad_desh_blocks.png) |
-| E | Desh Engine | ![desh_engine](../images/ad_desh_engine.png) |
-| P | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| S | Steel Blocks | ![steel_blocks](../images/ad_steel_blocks.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Wheel | ![wheel](../images/ad_astra_wheel.png) |
+| D | Desh Blocks | ![desh_blocks](../images/ad_astra_deepslate_desh_ore.png) |
+| E | Desh Engine | ![desh_engine](../images/ad_astra_engine_desh.png) |
+| P | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| S | Steel Blocks | ![steel_blocks](../images/ad_astra_energizer_steel_arm.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## {}
@@ -5305,20 +5305,20 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## {}
@@ -5326,20 +5326,20 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## {}
@@ -5347,20 +5347,20 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
-| - | Unknown | ![unknown](../images/ad_unknown.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
+| - | Unknown | ![unknown](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## {}
@@ -5529,7 +5529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Venus Cobblestone Slab
@@ -5537,7 +5537,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Cobblestone | ![venus_cobblestone](../images/ad_venus_cobblestone.png) |
+| # | Venus Cobblestone | ![venus_cobblestone](../images/ad_astra_venus_cobblestone.png) |
 
 ---
 ## Venus Cobblestone Slab
@@ -5545,7 +5545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Cobblestone | ![venus_cobblestone](../images/ad_venus_cobblestone.png) |
+| item | Venus Cobblestone | ![venus_cobblestone](../images/ad_astra_venus_cobblestone.png) |
 
 ---
 ## Venus Cobblestone Stairs
@@ -5553,7 +5553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Cobblestone | ![venus_cobblestone](../images/ad_venus_cobblestone.png) |
+| # | Venus Cobblestone | ![venus_cobblestone](../images/ad_astra_venus_cobblestone.png) |
 
 ---
 ## Venus Cobblestone Stairs
@@ -5561,7 +5561,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Cobblestone | ![venus_cobblestone](../images/ad_venus_cobblestone.png) |
+| item | Venus Cobblestone | ![venus_cobblestone](../images/ad_astra_venus_cobblestone.png) |
 
 ---
 ## Venus Pillar
@@ -5569,7 +5569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Pillar
@@ -5577,7 +5577,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Sandstone
@@ -5585,7 +5585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Venus Sand | ![venus_sand](../images/ad_venus_sand.png) |
+| S | Venus Sand | ![venus_sand](../images/ad_astra_venus_sand.png) |
 
 ---
 ## Venus Sandstone Bricks
@@ -5593,7 +5593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Venus Sandstone | ![venus_sandstone](../images/ad_venus_sandstone.png) |
+| S | Venus Sandstone | ![venus_sandstone](../images/ad_astra_cracked_venus_sandstone_bricks.png) |
 
 ---
 ## Venus Sandstone Bricks
@@ -5601,7 +5601,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Sandstone | ![venus_sandstone](../images/ad_venus_sandstone.png) |
+| item | Venus Sandstone | ![venus_sandstone](../images/ad_astra_cracked_venus_sandstone_bricks.png) |
 
 ---
 ## Venus Sandstone Brick Slab
@@ -5609,7 +5609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_venus_sandstone_bricks.png) |
+| # | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_astra_cracked_venus_sandstone_bricks.png) |
 
 ---
 ## Venus Sandstone Brick Slab
@@ -5617,7 +5617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_venus_sandstone_bricks.png) |
+| item | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_astra_cracked_venus_sandstone_bricks.png) |
 
 ---
 ## Venus Sandstone Brick Stairs
@@ -5625,7 +5625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_venus_sandstone_bricks.png) |
+| # | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_astra_cracked_venus_sandstone_bricks.png) |
 
 ---
 ## Venus Sandstone Brick Stairs
@@ -5633,7 +5633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_venus_sandstone_bricks.png) |
+| item | Venus Sandstone Bricks | ![venus_sandstone_bricks](../images/ad_astra_cracked_venus_sandstone_bricks.png) |
 
 ---
 ## Venus Stone Bricks
@@ -5641,7 +5641,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| S | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Bricks
@@ -5649,7 +5649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Venus Stone | ![polished_venus_stone](../images/ad_polished_venus_stone.png) |
+| item | Polished Venus Stone | ![polished_venus_stone](../images/ad_astra_polished_venus_stone.png) |
 
 ---
 ## Venus Stone Brick Slab
@@ -5657,7 +5657,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Brick Slab
@@ -5665,7 +5665,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Brick Stairs
@@ -5673,7 +5673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Brick Stairs
@@ -5681,7 +5681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| item | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Brick Wall
@@ -5689,7 +5689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_venus_stone_bricks.png) |
+| # | Venus Stone Bricks | ![venus_stone_bricks](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone
@@ -5697,7 +5697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Cobblestone | ![venus_cobblestone](../images/ad_venus_cobblestone.png) |
+| item | Venus Cobblestone | ![venus_cobblestone](../images/ad_astra_venus_cobblestone.png) |
 
 ---
 ## Venus Stone Slab
@@ -5705,7 +5705,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| # | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Slab
@@ -5713,7 +5713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| item | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Stairs
@@ -5721,7 +5721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| # | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## Venus Stone Stairs
@@ -5729,7 +5729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venus Stone | ![venus_stone](../images/ad_venus_stone.png) |
+| item | Venus Stone | ![venus_stone](../images/ad_astra_chiseled_venus_stone_bricks.png) |
 
 ---
 ## {}
@@ -5933,9 +5933,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
-| D | Dispenser | ![dispenser](../images/ad_dispenser.png) |
-| H | Hopper | ![hopper](../images/ad_hopper.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
+| D | Dispenser | ![dispenser](../images/ad_astra_aeronos_cap.png) |
+| H | Hopper | ![hopper](../images/ad_astra_aeronos_cap.png) |
 
 ---
 ## {}
@@ -6034,8 +6034,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Steel Plates | ![steel_plates](../images/ad_steel_plates.png) |
-| B | Black Dye | ![black_dye](../images/ad_black_dye.png) |
+| # | Steel Plates | ![steel_plates](../images/ad_astra_energizer_steel_arm.png) |
+| B | Black Dye | ![black_dye](../images/ad_astra_black_flag.png) |
 
 ---
 ## White Flag
@@ -6043,8 +6043,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/ad_white_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | White Wool | ![white_wool](../images/ad_astra_white_flag.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---
 ## Wrench
@@ -6052,7 +6052,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Desh Plates | ![desh_plates](../images/ad_desh_plates.png) |
+| # | Desh Plates | ![desh_plates](../images/ad_astra_deepslate_desh_ore.png) |
 
 ---
 ## Yellow Flag
@@ -6060,7 +6060,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/ad_yellow_wool.png) |
-| | | Iron Rods | ![iron_rods](../images/ad_iron_rods.png) |
+| # | Yellow Wool | ![yellow_wool](../images/ad_astra_energizer_side_yellow.png) |
+| | | Iron Rods | ![iron_rods](../images/ad_astra_glacio_iron_ore.png) |
 
 ---

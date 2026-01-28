@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/graveyard_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/graveyard_acacia_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -16,7 +16,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/graveyard_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/graveyard_birch_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -25,7 +25,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blackstone | ![blackstone](../images/graveyard_blackstone.png) |
+| # | Blackstone | ![blackstone](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Black Urn
@@ -33,7 +33,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Glazed Terracotta | ![black_glazed_terracotta](../images/graveyard_black_glazed_terracotta.png) |
+| # | Black Glazed Terracotta | ![black_glazed_terracotta](../images/graveyard_black_terracotta_urn.png) |
 
 ---
 ## Blue Urn
@@ -41,7 +41,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/graveyard_blue_glazed_terracotta.png) |
+| # | Blue Glazed Terracotta | ![blue_glazed_terracotta](../images/graveyard_blue_terracotta_urn.png) |
 
 ---
 ## Bone Dagger
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bone | ![bone](../images/graveyard_bone.png) |
+| # | Bone | ![bone](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Bone Remains
@@ -57,7 +57,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Bricks Gravestone
@@ -65,7 +65,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bricks | ![bricks](../images/graveyard_bricks.png) |
+| # | Bricks | ![bricks](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Brown Urn
@@ -73,7 +73,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/graveyard_brown_glazed_terracotta.png) |
+| # | Brown Glazed Terracotta | ![brown_glazed_terracotta](../images/graveyard_brown_terracotta_urn.png) |
 
 ---
 ## Candle Holder
@@ -89,7 +89,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobblestone | ![cobblestone](../images/graveyard_cobblestone.png) |
+| # | Cobblestone | ![cobblestone](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Cracked Blackstone Gravestone
@@ -97,7 +97,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/graveyard_cracked_polished_blackstone_bricks.png) |
+| # | Cracked Polished Blackstone Bricks | ![cracked_polished_blackstone_bricks](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Creeper Skeleton
@@ -105,7 +105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Crimson Coffin
@@ -113,7 +113,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/graveyard_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/graveyard_crimson_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -122,7 +122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/graveyard_cyan_glazed_terracotta.png) |
+| # | Cyan Glazed Terracotta | ![cyan_glazed_terracotta](../images/graveyard_cyan_terracotta_urn.png) |
 
 ---
 ## Dark Iron Bars
@@ -155,7 +155,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Corruption | ![corruption](../images/graveyard_corruption.png) |
-| - | Iron Ingot | ![iron_ingot](../images/graveyard_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
 ## Dark Iron Ingot
@@ -179,7 +179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/graveyard_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/graveyard_dark_oak_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -188,7 +188,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Deepslate | ![deepslate](../images/graveyard_deepslate.png) |
+| # | Deepslate | ![deepslate](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Fire Brazier
@@ -197,7 +197,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
-| Y | Logs | ![logs](../images/graveyard_logs.png) |
+| Y | Logs | ![logs](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Gilded Blackstone Gravestone
@@ -205,7 +205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gilded Blackstone | ![gilded_blackstone](../images/graveyard_gilded_blackstone.png) |
+| # | Gilded Blackstone | ![gilded_blackstone](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Gravestone
@@ -213,7 +213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Polished Basalt | ![polished_basalt](../images/graveyard_polished_basalt.png) |
+| # | Polished Basalt | ![polished_basalt](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Gray Urn
@@ -221,7 +221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/graveyard_gray_glazed_terracotta.png) |
+| # | Gray Glazed Terracotta | ![gray_glazed_terracotta](../images/graveyard_gray_terracotta_urn.png) |
 
 ---
 ## Green Urn
@@ -229,7 +229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Glazed Terracotta | ![green_glazed_terracotta](../images/graveyard_green_glazed_terracotta.png) |
+| # | Green Glazed Terracotta | ![green_glazed_terracotta](../images/graveyard_green_terracotta_urn.png) |
 
 ---
 ## Hanged Skeleton
@@ -237,7 +237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Hanged Wither Skeleton
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Jungle Coffin
@@ -253,7 +253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/graveyard_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/graveyard_jungle_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -262,7 +262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Laterally Lying Wither Skeleton
@@ -270,7 +270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Leaning Skeleton
@@ -278,7 +278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Leaning Wither Skeleton
@@ -286,7 +286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Light Blue Urn
@@ -294,7 +294,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/graveyard_light_blue_glazed_terracotta.png) |
+| # | Light Blue Glazed Terracotta | ![light_blue_glazed_terracotta](../images/graveyard_light_blue_terracotta_urn.png) |
 
 ---
 ## Light Gray Urn
@@ -302,7 +302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/graveyard_light_gray_glazed_terracotta.png) |
+| # | Light Gray Glazed Terracotta | ![light_gray_glazed_terracotta](../images/graveyard_light_gray_terracotta_urn.png) |
 
 ---
 ## Lime Urn
@@ -310,7 +310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/graveyard_lime_glazed_terracotta.png) |
+| # | Lime Glazed Terracotta | ![lime_glazed_terracotta](../images/graveyard_lime_terracotta_urn.png) |
 
 ---
 ## Lying Skeleton
@@ -318,7 +318,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Lying Wither Skeleton
@@ -326,7 +326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Magenta Urn
@@ -334,7 +334,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/graveyard_magenta_glazed_terracotta.png) |
+| # | Magenta Glazed Terracotta | ![magenta_glazed_terracotta](../images/graveyard_magenta_terracotta_urn.png) |
 
 ---
 ## Mangrove Coffin
@@ -342,7 +342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/graveyard_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/graveyard_mangrove_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -351,7 +351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Cobblestone | ![mossy_cobblestone](../images/graveyard_mossy_cobblestone.png) |
+| # | Mossy Cobblestone | ![mossy_cobblestone](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Mossy Stone Bricks Gravestone
@@ -359,7 +359,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mossy Stone Bricks | ![mossy_stone_bricks](../images/graveyard_mossy_stone_bricks.png) |
+| # | Mossy Stone Bricks | ![mossy_stone_bricks](../images/graveyard_corrupted_stone.png) |
 
 ---
 ## Oak Coffin
@@ -367,7 +367,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/graveyard_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/graveyard_dark_oak_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -376,7 +376,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/graveyard_orange_glazed_terracotta.png) |
+| # | Orange Glazed Terracotta | ![orange_glazed_terracotta](../images/graveyard_orange_terracotta_urn.png) |
 
 ---
 ## Black Urn
@@ -384,7 +384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bone | ![bone](../images/graveyard_bone.png) |
+| # | Bone | ![bone](../images/graveyard_bone_dagger.png) |
 | Y | Corruption | ![corruption](../images/graveyard_corruption.png) |
 | X | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
@@ -394,7 +394,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobbled Deepslate | ![cobbled_deepslate](../images/graveyard_cobbled_deepslate.png) |
+| # | Cobbled Deepslate | ![cobbled_deepslate](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Pink Urn
@@ -402,7 +402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/graveyard_pink_glazed_terracotta.png) |
+| # | Pink Glazed Terracotta | ![pink_glazed_terracotta](../images/graveyard_pink_terracotta_urn.png) |
 
 ---
 ## Purple Urn
@@ -410,7 +410,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/graveyard_purple_glazed_terracotta.png) |
+| # | Purple Glazed Terracotta | ![purple_glazed_terracotta](../images/graveyard_purple_terracotta_urn.png) |
 
 ---
 ## Quartz Bricks Gravestone
@@ -418,7 +418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Quartz Bricks | ![quartz_bricks](../images/graveyard_quartz_bricks.png) |
+| # | Quartz Bricks | ![quartz_bricks](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Red Sandstone Gravestone
@@ -426,7 +426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Sandstone | ![red_sandstone](../images/graveyard_red_sandstone.png) |
+| # | Red Sandstone | ![red_sandstone](../images/graveyard_red_terracotta_urn.png) |
 
 ---
 ## Red Urn
@@ -434,7 +434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Glazed Terracotta | ![red_glazed_terracotta](../images/graveyard_red_glazed_terracotta.png) |
+| # | Red Glazed Terracotta | ![red_glazed_terracotta](../images/graveyard_red_terracotta_urn.png) |
 
 ---
 ## Sandstone Gravestone
@@ -442,7 +442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sandstone | ![sandstone](../images/graveyard_sandstone.png) |
+| # | Sandstone | ![sandstone](../images/graveyard_acacia_coffin.png) |
 
 ---
 ## Sarcophagus
@@ -450,7 +450,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cobbled Deepslate | ![cobbled_deepslate](../images/graveyard_cobbled_deepslate.png) |
+| # | Cobbled Deepslate | ![cobbled_deepslate](../images/graveyard_acacia_coffin.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -459,7 +459,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Skull On Pike
@@ -467,7 +467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Skull Pile
@@ -475,7 +475,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Skull With Rib Cage
@@ -483,7 +483,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Small Black Urn
@@ -491,7 +491,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Terracotta | ![black_terracotta](../images/graveyard_black_terracotta.png) |
+| # | Black Terracotta | ![black_terracotta](../images/graveyard_black_terracotta_urn.png) |
 
 ---
 ## Small Blue Urn
@@ -499,7 +499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Terracotta | ![blue_terracotta](../images/graveyard_blue_terracotta.png) |
+| # | Blue Terracotta | ![blue_terracotta](../images/graveyard_blue_terracotta_urn.png) |
 
 ---
 ## Small Brown Urn
@@ -507,7 +507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Terracotta | ![brown_terracotta](../images/graveyard_brown_terracotta.png) |
+| # | Brown Terracotta | ![brown_terracotta](../images/graveyard_brown_terracotta_urn.png) |
 
 ---
 ## Small Cyan Urn
@@ -515,7 +515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Terracotta | ![cyan_terracotta](../images/graveyard_cyan_terracotta.png) |
+| # | Cyan Terracotta | ![cyan_terracotta](../images/graveyard_cyan_terracotta_urn.png) |
 
 ---
 ## Small Gray Urn
@@ -523,7 +523,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Terracotta | ![gray_terracotta](../images/graveyard_gray_terracotta.png) |
+| # | Gray Terracotta | ![gray_terracotta](../images/graveyard_gray_terracotta_urn.png) |
 
 ---
 ## Small Green Urn
@@ -531,7 +531,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Terracotta | ![green_terracotta](../images/graveyard_green_terracotta.png) |
+| # | Green Terracotta | ![green_terracotta](../images/graveyard_green_terracotta_urn.png) |
 
 ---
 ## Small Light Blue Urn
@@ -539,7 +539,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Terracotta | ![light_blue_terracotta](../images/graveyard_light_blue_terracotta.png) |
+| # | Light Blue Terracotta | ![light_blue_terracotta](../images/graveyard_light_blue_terracotta_urn.png) |
 
 ---
 ## Small Light Gray Urn
@@ -547,7 +547,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Terracotta | ![light_gray_terracotta](../images/graveyard_light_gray_terracotta.png) |
+| # | Light Gray Terracotta | ![light_gray_terracotta](../images/graveyard_light_gray_terracotta_urn.png) |
 
 ---
 ## Small Lime Urn
@@ -555,7 +555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Terracotta | ![lime_terracotta](../images/graveyard_lime_terracotta.png) |
+| # | Lime Terracotta | ![lime_terracotta](../images/graveyard_lime_terracotta_urn.png) |
 
 ---
 ## Small Magenta Urn
@@ -563,7 +563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Terracotta | ![magenta_terracotta](../images/graveyard_magenta_terracotta.png) |
+| # | Magenta Terracotta | ![magenta_terracotta](../images/graveyard_magenta_terracotta_urn.png) |
 
 ---
 ## Small Orange Urn
@@ -571,7 +571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Terracotta | ![orange_terracotta](../images/graveyard_orange_terracotta.png) |
+| # | Orange Terracotta | ![orange_terracotta](../images/graveyard_orange_terracotta_urn.png) |
 
 ---
 ## Small Pink Urn
@@ -579,7 +579,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Terracotta | ![pink_terracotta](../images/graveyard_pink_terracotta.png) |
+| # | Pink Terracotta | ![pink_terracotta](../images/graveyard_pink_terracotta_urn.png) |
 
 ---
 ## Small Purple Urn
@@ -587,7 +587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Terracotta | ![purple_terracotta](../images/graveyard_purple_terracotta.png) |
+| # | Purple Terracotta | ![purple_terracotta](../images/graveyard_purple_terracotta_urn.png) |
 
 ---
 ## Small Red Urn
@@ -595,7 +595,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Terracotta | ![red_terracotta](../images/graveyard_red_terracotta.png) |
+| # | Red Terracotta | ![red_terracotta](../images/graveyard_red_terracotta_urn.png) |
 
 ---
 ## Small White Urn
@@ -603,7 +603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Terracotta | ![white_terracotta](../images/graveyard_white_terracotta.png) |
+| # | White Terracotta | ![white_terracotta](../images/graveyard_white_terracotta_urn.png) |
 
 ---
 ## Small Yellow Urn
@@ -611,7 +611,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Terracotta | ![yellow_terracotta](../images/graveyard_yellow_terracotta.png) |
+| # | Yellow Terracotta | ![yellow_terracotta](../images/graveyard_yellow_terracotta_urn.png) |
 
 ---
 ## Soul Fire Brazier
@@ -620,7 +620,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
-| Y | Soul Soil | ![soul_soil](../images/graveyard_soul_soil.png) |
+| Y | Soul Soil | ![soul_soil](../images/graveyard_soul_fire_brazier_item.png) |
 
 ---
 ## Spruce Coffin
@@ -628,7 +628,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/graveyard_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/graveyard_rotten_spruce_planks.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -637,7 +637,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone Bricks | ![stone_bricks](../images/graveyard_stone_bricks.png) |
+| # | Stone Bricks | ![stone_bricks](../images/graveyard_corrupted_stone.png) |
 
 ---
 ## Torso Pile
@@ -645,7 +645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Warped Coffin
@@ -653,7 +653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/graveyard_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/graveyard_rotten_spruce_planks.png) |
 | Z | Dark Iron Ingot | ![dark_iron_ingot](../images/graveyard_dark_iron_ingot.png) |
 
 ---
@@ -662,7 +662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Glazed Terracotta | ![white_glazed_terracotta](../images/graveyard_white_glazed_terracotta.png) |
+| # | White Glazed Terracotta | ![white_glazed_terracotta](../images/graveyard_white_terracotta_urn.png) |
 
 ---
 ## Wither Bone Remains
@@ -670,7 +670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Wither Skeleton Hand
@@ -678,7 +678,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Wither Skull On Pike
@@ -686,7 +686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Wither Skull Pile
@@ -694,7 +694,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Wither Skull With Rib Cage
@@ -702,7 +702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Wither Torso Pile
@@ -710,7 +710,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bone Block | ![bone_block](../images/graveyard_bone_block.png) |
+| item | Bone Block | ![bone_block](../images/graveyard_bone_dagger.png) |
 
 ---
 ## Yellow Urn
@@ -718,6 +718,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/graveyard_yellow_glazed_terracotta.png) |
+| # | Yellow Glazed Terracotta | ![yellow_glazed_terracotta](../images/graveyard_yellow_terracotta_urn.png) |
 
 ---

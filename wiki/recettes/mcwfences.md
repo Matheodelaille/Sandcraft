@@ -22,8 +22,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwfences_acacia_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Acacia Horse Fence
@@ -31,8 +31,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Acacia Log | ![acacia_log](../images/mcwfences_acacia_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Acacia Picket Fence
@@ -40,9 +40,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwfences_acacia_planks.png) |
-| C | Acacia Log | ![acacia_log](../images/mcwfences_acacia_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwfences_acacia_leaves.png) |
+| C | Acacia Log | ![acacia_log](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Acacia Pyramid Gate
@@ -50,9 +50,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwfences_acacia_log.png) |
-| C | Acacia Planks | ![acacia_planks](../images/mcwfences_acacia_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwfences_acacia_leaves.png) |
+| C | Acacia Planks | ![acacia_planks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Acacia Stockade Fence
@@ -60,8 +60,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfences_acacia_log.png) |
-| B | Acacia Planks | ![acacia_planks](../images/mcwfences_acacia_planks.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfences_acacia_leaves.png) |
+| B | Acacia Planks | ![acacia_planks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Acacia Wired Fence
@@ -69,9 +69,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwfences_acacia_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwfences_acacia_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Andesite Grass Topped Wall
@@ -79,9 +79,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Andesite | ![polished_andesite](../images/mcwfences_polished_andesite.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Andesite | ![andesite](../images/mcwfences_andesite.png) |
+| A | Polished Andesite | ![polished_andesite](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Andesite | ![andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Andesite Pillar Wall
@@ -89,8 +89,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Andesite | ![polished_andesite](../images/mcwfences_polished_andesite.png) |
-| B | Andesite | ![andesite](../images/mcwfences_andesite.png) |
+| A | Polished Andesite | ![polished_andesite](../images/mcwfences_acacia_leaves.png) |
+| B | Andesite | ![andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Andesite Railing Gate
@@ -98,8 +98,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Polished Andesite | ![polished_andesite](../images/mcwfences_polished_andesite.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Polished Andesite | ![polished_andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Andesite Railing Gate
@@ -107,7 +107,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwfences_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Azalea Hedge
@@ -115,7 +115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Azalea Leaves | ![azalea_leaves](../images/mcwfences_azalea_leaves.png) |
+| A | Azalea Leaves | ![azalea_leaves](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -130,7 +130,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwfences_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -153,8 +153,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Birch Log | ![birch_log](../images/mcwfences_birch_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Birch Log | ![birch_log](../images/mcwfences_birch_leaves.png) |
 
 ---
 ## Birch Horse Fence
@@ -162,8 +162,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Birch Log | ![birch_log](../images/mcwfences_birch_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Birch Log | ![birch_log](../images/mcwfences_birch_leaves.png) |
 
 ---
 ## Birch Picket Fence
@@ -171,9 +171,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwfences_birch_planks.png) |
-| C | Birch Log | ![birch_log](../images/mcwfences_birch_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwfences_birch_leaves.png) |
+| C | Birch Log | ![birch_log](../images/mcwfences_birch_leaves.png) |
 
 ---
 ## Birch Pyramid Gate
@@ -181,9 +181,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Birch Log | ![birch_log](../images/mcwfences_birch_log.png) |
-| C | Birch Planks | ![birch_planks](../images/mcwfences_birch_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Birch Log | ![birch_log](../images/mcwfences_birch_leaves.png) |
+| C | Birch Planks | ![birch_planks](../images/mcwfences_birch_leaves.png) |
 
 ---
 ## Birch Stockade Fence
@@ -191,8 +191,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfences_birch_log.png) |
-| B | Birch Planks | ![birch_planks](../images/mcwfences_birch_planks.png) |
+| A | Birch Log | ![birch_log](../images/mcwfences_birch_leaves.png) |
+| B | Birch Planks | ![birch_planks](../images/mcwfences_birch_leaves.png) |
 
 ---
 ## Birch Wired Fence
@@ -200,9 +200,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Birch Log | ![birch_log](../images/mcwfences_birch_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Birch Log | ![birch_log](../images/mcwfences_birch_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -217,8 +217,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_polished_blackstone_bricks.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Blackstone Grass Topped Wall
@@ -226,9 +226,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_polished_blackstone_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Blackstone | ![blackstone](../images/mcwfences_blackstone.png) |
+| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Blackstone | ![blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Blackstone Pillar Wall
@@ -236,8 +236,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_polished_blackstone_bricks.png) |
-| B | Blackstone | ![blackstone](../images/mcwfences_blackstone.png) |
+| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Blackstone | ![blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Blackstone Railing Gate
@@ -245,8 +245,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Polished Blackstone | ![polished_blackstone](../images/mcwfences_polished_blackstone.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Polished Blackstone | ![polished_blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Blackstone Railing Gate
@@ -254,7 +254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwfences_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -269,8 +269,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwfences_crimson_stem.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Crimson Horse Fence
@@ -278,8 +278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfences_crimson_stem.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Crimson Picket Fence
@@ -287,9 +287,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwfences_crimson_planks.png) |
-| C | Crimson Stem | ![crimson_stem](../images/mcwfences_crimson_stem.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwfences_acacia_leaves.png) |
+| C | Crimson Stem | ![crimson_stem](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Crimson Pyramid Gate
@@ -297,9 +297,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwfences_crimson_stem.png) |
-| C | Crimson Planks | ![crimson_planks](../images/mcwfences_crimson_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwfences_acacia_leaves.png) |
+| C | Crimson Planks | ![crimson_planks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Crimson Stockade Fence
@@ -307,8 +307,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfences_crimson_stem.png) |
-| B | Crimson Planks | ![crimson_planks](../images/mcwfences_crimson_planks.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfences_acacia_leaves.png) |
+| B | Crimson Planks | ![crimson_planks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Crimson Wired Fence
@@ -316,9 +316,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwfences_crimson_stem.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwfences_acacia_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -341,8 +341,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Dark Oak Horse Fence
@@ -350,8 +350,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Dark Oak Picket Fence
@@ -359,9 +359,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwfences_dark_oak_planks.png) |
-| C | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwfences_dark_oak_leaves.png) |
+| C | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Dark Oak Pyramid Gate
@@ -369,9 +369,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_log.png) |
-| C | Dark Oak Planks | ![dark_oak_planks](../images/mcwfences_dark_oak_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_leaves.png) |
+| C | Dark Oak Planks | ![dark_oak_planks](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Dark Oak Stockade Fence
@@ -379,8 +379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_log.png) |
-| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwfences_dark_oak_planks.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_leaves.png) |
+| B | Dark Oak Planks | ![dark_oak_planks](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Dark Oak Wired Fence
@@ -388,9 +388,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwfences_dark_oak_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -405,9 +405,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Deepslate Tiles | ![deepslate_tiles](../images/mcwfences_deepslate_tiles.png) |
+| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Deepslate Tiles | ![deepslate_tiles](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Brick Pillar Wall
@@ -415,8 +415,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
-| B | Deepslate Tiles | ![deepslate_tiles](../images/mcwfences_deepslate_tiles.png) |
+| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Deepslate Tiles | ![deepslate_tiles](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Brick Railing Gate
@@ -424,8 +424,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Brick Railing Gate
@@ -433,7 +433,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
+| item | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Grass Topped Wall
@@ -441,9 +441,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Deepslate | ![polished_deepslate](../images/mcwfences_polished_deepslate.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Deepslate | ![deepslate](../images/mcwfences_deepslate.png) |
+| A | Polished Deepslate | ![polished_deepslate](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Deepslate | ![deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Pillar Wall
@@ -451,8 +451,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Deepslate | ![polished_deepslate](../images/mcwfences_polished_deepslate.png) |
-| B | Deepslate | ![deepslate](../images/mcwfences_deepslate.png) |
+| A | Polished Deepslate | ![polished_deepslate](../images/mcwfences_acacia_leaves.png) |
+| B | Deepslate | ![deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Railing Gate
@@ -460,8 +460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Deepslate | ![deepslate](../images/mcwfences_deepslate.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Deepslate | ![deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Deepslate Railing Gate
@@ -469,7 +469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Deepslate | ![polished_deepslate](../images/mcwfences_polished_deepslate.png) |
+| item | Polished Deepslate | ![polished_deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Diorite Grass Topped Wall
@@ -477,9 +477,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Diorite | ![polished_diorite](../images/mcwfences_polished_diorite.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Diorite | ![diorite](../images/mcwfences_diorite.png) |
+| A | Polished Diorite | ![polished_diorite](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Diorite | ![diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Diorite Pillar Wall
@@ -487,8 +487,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Diorite | ![polished_diorite](../images/mcwfences_polished_diorite.png) |
-| B | Diorite | ![diorite](../images/mcwfences_diorite.png) |
+| A | Polished Diorite | ![polished_diorite](../images/mcwfences_acacia_leaves.png) |
+| B | Diorite | ![diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Diorite Railing Gate
@@ -496,8 +496,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Polished Diorite | ![polished_diorite](../images/mcwfences_polished_diorite.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Polished Diorite | ![polished_diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Diorite Railing Gate
@@ -505,7 +505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwfences_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -520,9 +520,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | End Stone | ![end_stone](../images/mcwfences_end_stone.png) |
+| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | End Stone | ![end_stone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## End Brick Pillar Wall
@@ -530,8 +530,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
-| B | End Stone | ![end_stone](../images/mcwfences_end_stone.png) |
+| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | End Stone | ![end_stone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## End Brick Railing Gate
@@ -539,8 +539,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## End Brick Railing Gate
@@ -548,7 +548,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
+| item | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Flowering Azalea Hedge
@@ -556,7 +556,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/mcwfences_flowering_azalea_leaves.png) |
+| A | Flowering Azalea Leaves | ![flowering_azalea_leaves](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Granite Grass Topped Wall
@@ -564,9 +564,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Granite | ![polished_granite](../images/mcwfences_polished_granite.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Granite | ![granite](../images/mcwfences_granite.png) |
+| A | Polished Granite | ![polished_granite](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Granite | ![granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Granite Pillar Wall
@@ -574,8 +574,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Granite | ![polished_granite](../images/mcwfences_polished_granite.png) |
-| B | Granite | ![granite](../images/mcwfences_granite.png) |
+| A | Polished Granite | ![polished_granite](../images/mcwfences_acacia_leaves.png) |
+| B | Granite | ![granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Granite Railing Gate
@@ -583,8 +583,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Polished Granite | ![polished_granite](../images/mcwfences_polished_granite.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Polished Granite | ![polished_granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Granite Railing Gate
@@ -592,7 +592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwfences_granite.png) |
+| item | Granite | ![granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -607,8 +607,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Nugget | ![iron_nugget](../images/mcwfences_iron_nugget.png) |
-| B | Iron Ingot | ![iron_ingot](../images/mcwfences_iron_ingot.png) |
+| A | Iron Nugget | ![iron_nugget](../images/mcwfences_iron_bar.png) |
+| B | Iron Ingot | ![iron_ingot](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -631,8 +631,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwfences_jungle_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwfences_jungle_leaves.png) |
 
 ---
 ## Jungle Horse Fence
@@ -640,8 +640,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Jungle Log | ![jungle_log](../images/mcwfences_jungle_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfences_jungle_leaves.png) |
 
 ---
 ## Jungle Picket Fence
@@ -649,9 +649,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwfences_jungle_planks.png) |
-| C | Jungle Log | ![jungle_log](../images/mcwfences_jungle_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwfences_jungle_leaves.png) |
+| C | Jungle Log | ![jungle_log](../images/mcwfences_jungle_leaves.png) |
 
 ---
 ## Jungle Pyramid Gate
@@ -659,9 +659,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwfences_jungle_log.png) |
-| C | Jungle Planks | ![jungle_planks](../images/mcwfences_jungle_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwfences_jungle_leaves.png) |
+| C | Jungle Planks | ![jungle_planks](../images/mcwfences_jungle_leaves.png) |
 
 ---
 ## Jungle Stockade Fence
@@ -669,8 +669,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfences_jungle_log.png) |
-| B | Jungle Planks | ![jungle_planks](../images/mcwfences_jungle_planks.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfences_jungle_leaves.png) |
+| B | Jungle Planks | ![jungle_planks](../images/mcwfences_jungle_leaves.png) |
 
 ---
 ## Jungle Wired Fence
@@ -678,9 +678,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwfences_jungle_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwfences_jungle_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -703,8 +703,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_leaves.png) |
 
 ---
 ## Mangrove Horse Fence
@@ -712,8 +712,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_leaves.png) |
 
 ---
 ## Mangrove Picket Fence
@@ -721,9 +721,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwfences_mangrove_planks.png) |
-| C | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwfences_mangrove_leaves.png) |
+| C | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_leaves.png) |
 
 ---
 ## Mangrove Pyramid Gate
@@ -731,9 +731,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_log.png) |
-| C | Mangrove Planks | ![mangrove_planks](../images/mcwfences_mangrove_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_leaves.png) |
+| C | Mangrove Planks | ![mangrove_planks](../images/mcwfences_mangrove_leaves.png) |
 
 ---
 ## Mangrove Stockade Fence
@@ -741,8 +741,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_log.png) |
-| B | Mangrove Planks | ![mangrove_planks](../images/mcwfences_mangrove_planks.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_leaves.png) |
+| B | Mangrove Planks | ![mangrove_planks](../images/mcwfences_mangrove_leaves.png) |
 
 ---
 ## Mangrove Wired Fence
@@ -750,9 +750,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwfences_mangrove_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Modern Andesite Wall
@@ -760,8 +760,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Andesite | ![polished_andesite](../images/mcwfences_polished_andesite.png) |
-| B | Andesite | ![andesite](../images/mcwfences_andesite.png) |
+| A | Polished Andesite | ![polished_andesite](../images/mcwfences_acacia_leaves.png) |
+| B | Andesite | ![andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Andesite Wall
@@ -769,7 +769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwfences_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Blackstone Wall
@@ -777,8 +777,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_polished_blackstone_bricks.png) |
-| B | Blackstone | ![blackstone](../images/mcwfences_blackstone.png) |
+| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Blackstone | ![blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Blackstone Wall
@@ -786,7 +786,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwfences_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Deepslate Brick Wall
@@ -794,8 +794,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
-| B | Deepslate Tiles | ![deepslate_tiles](../images/mcwfences_deepslate_tiles.png) |
+| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Deepslate Tiles | ![deepslate_tiles](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Deepslate Brick Wall
@@ -803,7 +803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
+| item | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Deepslate Wall
@@ -811,8 +811,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Deepslate | ![polished_deepslate](../images/mcwfences_polished_deepslate.png) |
-| B | Deepslate | ![deepslate](../images/mcwfences_deepslate.png) |
+| A | Polished Deepslate | ![polished_deepslate](../images/mcwfences_acacia_leaves.png) |
+| B | Deepslate | ![deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Deepslate Wall
@@ -820,7 +820,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Deepslate | ![polished_deepslate](../images/mcwfences_polished_deepslate.png) |
+| item | Polished Deepslate | ![polished_deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Diorite Wall
@@ -828,8 +828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Diorite | ![polished_diorite](../images/mcwfences_polished_diorite.png) |
-| B | Diorite | ![diorite](../images/mcwfences_diorite.png) |
+| A | Polished Diorite | ![polished_diorite](../images/mcwfences_acacia_leaves.png) |
+| B | Diorite | ![diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Diorite Wall
@@ -837,7 +837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwfences_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern End Brick Wall
@@ -845,8 +845,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
-| B | End Stone | ![end_stone](../images/mcwfences_end_stone.png) |
+| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | End Stone | ![end_stone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern End Brick Wall
@@ -854,7 +854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
+| item | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Granite Wall
@@ -862,8 +862,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Granite | ![polished_granite](../images/mcwfences_polished_granite.png) |
-| B | Granite | ![granite](../images/mcwfences_granite.png) |
+| A | Polished Granite | ![polished_granite](../images/mcwfences_acacia_leaves.png) |
+| B | Granite | ![granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Granite Wall
@@ -871,7 +871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwfences_granite.png) |
+| item | Granite | ![granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Mud Brick Wall
@@ -879,8 +879,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Packed Mud | ![packed_mud](../images/mcwfences_packed_mud.png) |
-| B | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| A | Packed Mud | ![packed_mud](../images/mcwfences_acacia_leaves.png) |
+| B | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Mud Brick Wall
@@ -888,7 +888,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Nether Brick Wall
@@ -896,8 +896,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
-| B | Netherrack | ![netherrack](../images/mcwfences_netherrack.png) |
+| A | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Netherrack | ![netherrack](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Nether Brick Wall
@@ -905,7 +905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Prismarine Wall
@@ -913,8 +913,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwfences_prismarine_bricks.png) |
-| B | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Prismarine Wall
@@ -922,7 +922,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| item | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Quartz Wall
@@ -930,8 +930,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Quartz Bricks | ![quartz_bricks](../images/mcwfences_quartz_bricks.png) |
-| B | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| A | Quartz Bricks | ![quartz_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Modern Quartz Wall
@@ -939,7 +939,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| item | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Modern Red Sandstone Wall
@@ -947,8 +947,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_smooth_red_sandstone.png) |
-| B | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_acacia_leaves.png) |
+| B | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Red Sandstone Wall
@@ -956,7 +956,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Sandstone Wall
@@ -964,8 +964,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_smooth_sandstone.png) |
-| B | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_acacia_leaves.png) |
+| B | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Sandstone Wall
@@ -973,7 +973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Stone Brick Wall
@@ -981,8 +981,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
-| B | Cobblestone | ![cobblestone](../images/mcwfences_cobblestone.png) |
+| A | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Cobblestone | ![cobblestone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Modern Stone Brick Wall
@@ -990,7 +990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1005,9 +1005,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Packed Mud | ![packed_mud](../images/mcwfences_packed_mud.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| A | Packed Mud | ![packed_mud](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Mud Brick Pillar Wall
@@ -1015,8 +1015,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Packed Mud | ![packed_mud](../images/mcwfences_packed_mud.png) |
-| B | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| A | Packed Mud | ![packed_mud](../images/mcwfences_acacia_leaves.png) |
+| B | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Mud Brick Railing Gate
@@ -1024,8 +1024,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Mud Brick Railing Gate
@@ -1033,7 +1033,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1048,9 +1048,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Netherrack | ![netherrack](../images/mcwfences_netherrack.png) |
+| A | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Netherrack | ![netherrack](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Nether Brick Pillar Wall
@@ -1058,8 +1058,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
-| B | Netherrack | ![netherrack](../images/mcwfences_netherrack.png) |
+| A | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Netherrack | ![netherrack](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Nether Brick Railing Gate
@@ -1067,8 +1067,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Nether Brick Railing Gate
@@ -1076,7 +1076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1099,8 +1099,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Oak Log | ![oak_log](../images/mcwfences_oak_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Oak Log | ![oak_log](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Oak Horse Fence
@@ -1108,8 +1108,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Oak Log | ![oak_log](../images/mcwfences_oak_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Oak Log | ![oak_log](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Oak Picket Fence
@@ -1117,9 +1117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwfences_oak_planks.png) |
-| C | Oak Log | ![oak_log](../images/mcwfences_oak_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwfences_dark_oak_leaves.png) |
+| C | Oak Log | ![oak_log](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Oak Pyramid Gate
@@ -1127,9 +1127,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Oak Log | ![oak_log](../images/mcwfences_oak_log.png) |
-| C | Oak Planks | ![oak_planks](../images/mcwfences_oak_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Oak Log | ![oak_log](../images/mcwfences_dark_oak_leaves.png) |
+| C | Oak Planks | ![oak_planks](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Oak Stockade Fence
@@ -1137,8 +1137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfences_oak_log.png) |
-| B | Oak Planks | ![oak_planks](../images/mcwfences_oak_planks.png) |
+| A | Oak Log | ![oak_log](../images/mcwfences_dark_oak_leaves.png) |
+| B | Oak Planks | ![oak_planks](../images/mcwfences_dark_oak_leaves.png) |
 
 ---
 ## Oak Wired Fence
@@ -1146,9 +1146,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Oak Log | ![oak_log](../images/mcwfences_oak_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Oak Log | ![oak_log](../images/mcwfences_dark_oak_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -1163,9 +1163,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwfences_prismarine_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Prismarine Pillar Wall
@@ -1173,8 +1173,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwfences_prismarine_bricks.png) |
-| B | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| A | Prismarine Bricks | ![prismarine_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Prismarine Railing Gate
@@ -1182,8 +1182,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Prismarine Railing Gate
@@ -1191,7 +1191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| item | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1206,9 +1206,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Quartz Bricks | ![quartz_bricks](../images/mcwfences_quartz_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| A | Quartz Bricks | ![quartz_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Quartz Pillar Wall
@@ -1216,8 +1216,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Quartz Bricks | ![quartz_bricks](../images/mcwfences_quartz_bricks.png) |
-| B | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| A | Quartz Bricks | ![quartz_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Quartz Railing Gate
@@ -1225,8 +1225,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Quartz Railing Gate
@@ -1234,7 +1234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| item | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Railing Andesite Wall
@@ -1242,8 +1242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Andesite | ![polished_andesite](../images/mcwfences_polished_andesite.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Polished Andesite | ![polished_andesite](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Andesite Wall
@@ -1251,7 +1251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Andesite | ![andesite](../images/mcwfences_andesite.png) |
+| item | Andesite | ![andesite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Blackstone Wall
@@ -1259,8 +1259,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_polished_blackstone_bricks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Polished Blackstone Bricks | ![polished_blackstone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Blackstone Wall
@@ -1268,7 +1268,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blackstone | ![blackstone](../images/mcwfences_blackstone.png) |
+| item | Blackstone | ![blackstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Deepslate Brick Wall
@@ -1276,8 +1276,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Deepslate Brick Wall
@@ -1285,7 +1285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_deepslate_bricks.png) |
+| item | Deepslate Bricks | ![deepslate_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Deepslate Wall
@@ -1293,8 +1293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Deepslate | ![deepslate](../images/mcwfences_deepslate.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Deepslate | ![deepslate](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Deepslate Wall
@@ -1302,7 +1302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Polished Deepslate | ![polished_deepslate](../images/mcwfences_polished_deepslate.png) |
+| item | Polished Deepslate | ![polished_deepslate](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Diorite Wall
@@ -1310,8 +1310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Diorite | ![polished_diorite](../images/mcwfences_polished_diorite.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Polished Diorite | ![polished_diorite](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Diorite Wall
@@ -1319,7 +1319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Diorite | ![diorite](../images/mcwfences_diorite.png) |
+| item | Diorite | ![diorite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing End Brick Wall
@@ -1327,8 +1327,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing End Brick Wall
@@ -1336,7 +1336,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_end_stone_bricks.png) |
+| item | End Stone Bricks | ![end_stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Granite Wall
@@ -1344,8 +1344,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Polished Granite | ![polished_granite](../images/mcwfences_polished_granite.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Polished Granite | ![polished_granite](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Granite Wall
@@ -1353,7 +1353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Granite | ![granite](../images/mcwfences_granite.png) |
+| item | Granite | ![granite](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Mud Brick Wall
@@ -1361,8 +1361,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Mud Brick Wall
@@ -1370,7 +1370,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mud Bricks | ![mud_bricks](../images/mcwfences_mud_bricks.png) |
+| item | Mud Bricks | ![mud_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Nether Brick Wall
@@ -1378,8 +1378,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Nether Brick Wall
@@ -1387,7 +1387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Nether Bricks | ![nether_bricks](../images/mcwfences_nether_bricks.png) |
+| item | Nether Bricks | ![nether_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Prismarine Wall
@@ -1395,8 +1395,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Prismarine Wall
@@ -1404,7 +1404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Prismarine | ![prismarine](../images/mcwfences_prismarine.png) |
+| item | Prismarine | ![prismarine](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Quartz Wall
@@ -1412,8 +1412,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Quartz Wall
@@ -1421,7 +1421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Quartz Block | ![quartz_block](../images/mcwfences_quartz_block.png) |
+| item | Quartz Block | ![quartz_block](../images/mcwfences_grass_block_top.png) |
 
 ---
 ## Railing Red Sandstone Wall
@@ -1429,8 +1429,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_smooth_red_sandstone.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Red Sandstone Wall
@@ -1438,7 +1438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Sandstone Wall
@@ -1446,8 +1446,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_smooth_sandstone.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Sandstone Wall
@@ -1455,7 +1455,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Railing Stone Brick Wall
@@ -1463,8 +1463,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
-| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Railing Stone Brick Wall
@@ -1472,7 +1472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Red Sandstone Grass Topped Wall
@@ -1480,9 +1480,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_smooth_red_sandstone.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Red Sandstone Pillar Wall
@@ -1490,8 +1490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_smooth_red_sandstone.png) |
-| B | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| A | Smooth Red Sandstone | ![smooth_red_sandstone](../images/mcwfences_acacia_leaves.png) |
+| B | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Red Sandstone Railing Gate
@@ -1499,8 +1499,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Red Sandstone Railing Gate
@@ -1508,7 +1508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Sandstone | ![red_sandstone](../images/mcwfences_red_sandstone.png) |
+| item | Red Sandstone | ![red_sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1523,9 +1523,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_smooth_sandstone.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Sandstone Pillar Wall
@@ -1533,8 +1533,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_smooth_sandstone.png) |
-| B | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| A | Smooth Sandstone | ![smooth_sandstone](../images/mcwfences_acacia_leaves.png) |
+| B | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Sandstone Railing Gate
@@ -1542,8 +1542,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Sandstone Railing Gate
@@ -1551,7 +1551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sandstone | ![sandstone](../images/mcwfences_sandstone.png) |
+| item | Sandstone | ![sandstone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1574,8 +1574,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwfences_spruce_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwfences_spruce_leaves.png) |
 
 ---
 ## Spruce Horse Fence
@@ -1583,8 +1583,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Spruce Log | ![spruce_log](../images/mcwfences_spruce_log.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfences_spruce_leaves.png) |
 
 ---
 ## Spruce Picket Fence
@@ -1592,9 +1592,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwfences_spruce_planks.png) |
-| C | Spruce Log | ![spruce_log](../images/mcwfences_spruce_log.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwfences_spruce_leaves.png) |
+| C | Spruce Log | ![spruce_log](../images/mcwfences_spruce_leaves.png) |
 
 ---
 ## Spruce Pyramid Gate
@@ -1602,9 +1602,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwfences_spruce_log.png) |
-| C | Spruce Planks | ![spruce_planks](../images/mcwfences_spruce_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwfences_spruce_leaves.png) |
+| C | Spruce Planks | ![spruce_planks](../images/mcwfences_spruce_leaves.png) |
 
 ---
 ## Spruce Stockade Fence
@@ -1612,8 +1612,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfences_spruce_log.png) |
-| B | Spruce Planks | ![spruce_planks](../images/mcwfences_spruce_planks.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfences_spruce_leaves.png) |
+| B | Spruce Planks | ![spruce_planks](../images/mcwfences_spruce_leaves.png) |
 
 ---
 ## Spruce Wired Fence
@@ -1621,9 +1621,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwfences_spruce_log.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwfences_spruce_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## {}
@@ -1638,8 +1638,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
-| B | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
+| A | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
+| B | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Stone Brick Railing Gate
@@ -1647,7 +1647,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
+| item | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Stone Grass Topped Wall
@@ -1655,9 +1655,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
-| G | Dirt | ![dirt](../images/mcwfences_dirt.png) |
-| B | Cobblestone | ![cobblestone](../images/mcwfences_cobblestone.png) |
+| A | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| G | Dirt | ![dirt](../images/mcwfences_acacia_leaves.png) |
+| B | Cobblestone | ![cobblestone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Stone Pillar Wall
@@ -1665,8 +1665,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stone Bricks | ![stone_bricks](../images/mcwfences_stone_bricks.png) |
-| B | Cobblestone | ![cobblestone](../images/mcwfences_cobblestone.png) |
+| A | Stone Bricks | ![stone_bricks](../images/mcwfences_acacia_leaves.png) |
+| B | Cobblestone | ![cobblestone](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## {}
@@ -1681,8 +1681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwfences_warped_stem.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Warped Horse Fence
@@ -1690,8 +1690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stick | ![stick](../images/mcwfences_stick.png) |
-| A | Warped Stem | ![warped_stem](../images/mcwfences_warped_stem.png) |
+| B | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Warped Picket Fence
@@ -1699,9 +1699,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwfences_warped_planks.png) |
-| C | Warped Stem | ![warped_stem](../images/mcwfences_warped_stem.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwfences_acacia_leaves.png) |
+| C | Warped Stem | ![warped_stem](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Warped Pyramid Gate
@@ -1709,9 +1709,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwfences_warped_stem.png) |
-| C | Warped Planks | ![warped_planks](../images/mcwfences_warped_planks.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwfences_acacia_leaves.png) |
+| C | Warped Planks | ![warped_planks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Warped Stockade Fence
@@ -1719,8 +1719,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfences_warped_stem.png) |
-| B | Warped Planks | ![warped_planks](../images/mcwfences_warped_planks.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfences_acacia_leaves.png) |
+| B | Warped Planks | ![warped_planks](../images/mcwfences_acacia_leaves.png) |
 
 ---
 ## Warped Wired Fence
@@ -1728,9 +1728,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwfences_warped_stem.png) |
-| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bars.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwfences_acacia_leaves.png) |
+| C | Iron Bars | ![iron_bars](../images/mcwfences_iron_bar.png) |
 
 ---
 ## Wooden Cheval De Frise
@@ -1738,7 +1738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stick | ![stick](../images/mcwfences_stick.png) |
-| B | Logs | ![logs](../images/mcwfences_logs.png) |
+| A | Stick | ![stick](../images/mcwfences_acacia_leaves.png) |
+| B | Logs | ![logs](../images/mcwfences_acacia_leaves.png) |
 
 ---

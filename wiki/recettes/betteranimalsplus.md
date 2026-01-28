@@ -63,7 +63,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Stick | ![stick](../images/betteranimalsplus_stick.png) |
+| s | Stick | ![stick](../images/betteranimalsplus_advancement_icon_badger.png) |
 | b | Blubber | ![blubber](../images/betteranimalsplus_blubber.png) |
 
 ---
@@ -112,7 +112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pheasantraw | ![pheasantraw](../images/betteranimalsplus_pheasantraw.png) |
+| item | Pheasantraw | ![pheasantraw](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Turkey Cooked
@@ -120,7 +120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Turkey Raw | ![turkey_raw](../images/betteranimalsplus_turkey_raw.png) |
+| item | Turkey Raw | ![turkey_raw](../images/betteranimalsplus_turkey_block_slice_1_raw.png) |
 
 ---
 ## Turkey Leg Cooked
@@ -136,7 +136,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venisonraw | ![venisonraw](../images/betteranimalsplus_venisonraw.png) |
+| item | Venisonraw | ![venisonraw](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Crab Meat Cooked
@@ -176,7 +176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Eggs Common | ![eggs_common](../images/betteranimalsplus_eggs_common.png) |
+| tag | Eggs Common | ![eggs_common](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Gold Ingot
@@ -192,8 +192,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pelts | ![pelts](../images/betteranimalsplus_pelts.png) |
-| - | Pelts | ![pelts](../images/betteranimalsplus_pelts.png) |
+| - | Pelts | ![pelts](../images/betteranimalsplus_advancement_icon_badger.png) |
+| - | Pelts | ![pelts](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Pheasantcooked
@@ -201,7 +201,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pheasantraw | ![pheasantraw](../images/betteranimalsplus_pheasantraw.png) |
+| item | Pheasantraw | ![pheasantraw](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Pheasantcooked
@@ -209,7 +209,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Pheasantraw | ![pheasantraw](../images/betteranimalsplus_pheasantraw.png) |
+| item | Pheasantraw | ![pheasantraw](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Turkey Cooked
@@ -217,7 +217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Turkey Raw | ![turkey_raw](../images/betteranimalsplus_turkey_raw.png) |
+| item | Turkey Raw | ![turkey_raw](../images/betteranimalsplus_turkey_block_slice_1_raw.png) |
 
 ---
 ## Turkey Leg Cooked
@@ -241,7 +241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Turkey Raw | ![turkey_raw](../images/betteranimalsplus_turkey_raw.png) |
+| item | Turkey Raw | ![turkey_raw](../images/betteranimalsplus_turkey_block_slice_1_raw.png) |
 
 ---
 ## Venisoncooked
@@ -249,7 +249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venisonraw | ![venisonraw](../images/betteranimalsplus_venisonraw.png) |
+| item | Venisonraw | ![venisonraw](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Venisoncooked
@@ -257,7 +257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Venisonraw | ![venisonraw](../images/betteranimalsplus_venisonraw.png) |
+| item | Venisonraw | ![venisonraw](../images/betteranimalsplus_advancement_icon_badger.png) |
 
 ---
 ## Wolf Cape Arctic

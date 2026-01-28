@@ -79,7 +79,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Cherry Boat | ![cherry_boat](../images/biomesoplenty_cherry_boat.png) |
 
 ---
@@ -96,7 +96,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Cherry Planks | ![cherry_planks](../images/biomesoplenty_cherry_planks.png) |
 
 ---
@@ -105,7 +105,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Cherry Planks | ![cherry_planks](../images/biomesoplenty_cherry_planks.png) |
 
 ---
@@ -114,7 +114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cherry Logs | ![cherry_logs](../images/biomesoplenty_cherry_logs.png) |
+| - | Cherry Logs | ![cherry_logs](../images/biomesoplenty_cherry_boat.png) |
 
 ---
 ## Cherry Pressure Plate
@@ -131,7 +131,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Cherry Planks | ![cherry_planks](../images/biomesoplenty_cherry_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Cherry Slab
@@ -171,7 +171,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Sandstone Slab | ![black_sandstone_slab](../images/biomesoplenty_black_sandstone_slab.png) |
+| # | Black Sandstone Slab | ![black_sandstone_slab](../images/biomesoplenty_black_sandstone.png) |
 
 ---
 ## Chiseled Black Sandstone
@@ -187,7 +187,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Sandstone Slab | ![orange_sandstone_slab](../images/biomesoplenty_orange_sandstone_slab.png) |
+| # | Orange Sandstone Slab | ![orange_sandstone_slab](../images/biomesoplenty_chiseled_orange_sandstone.png) |
 
 ---
 ## Chiseled Orange Sandstone
@@ -203,7 +203,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Sandstone Slab | ![white_sandstone_slab](../images/biomesoplenty_white_sandstone_slab.png) |
+| # | White Sandstone Slab | ![white_sandstone_slab](../images/biomesoplenty_chiseled_white_sandstone.png) |
 
 ---
 ## Chiseled White Sandstone
@@ -363,7 +363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Dead Boat | ![dead_boat](../images/biomesoplenty_dead_boat.png) |
 
 ---
@@ -380,7 +380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Dead Planks | ![dead_planks](../images/biomesoplenty_dead_planks.png) |
 
 ---
@@ -389,7 +389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Dead Planks | ![dead_planks](../images/biomesoplenty_dead_planks.png) |
 
 ---
@@ -398,7 +398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dead Logs | ![dead_logs](../images/biomesoplenty_dead_logs.png) |
+| - | Dead Logs | ![dead_logs](../images/biomesoplenty_dead_boat.png) |
 
 ---
 ## Dead Pressure Plate
@@ -415,7 +415,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Dead Planks | ![dead_planks](../images/biomesoplenty_dead_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Dead Slab
@@ -471,7 +471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Fir Boat | ![fir_boat](../images/biomesoplenty_fir_boat.png) |
 
 ---
@@ -488,7 +488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Fir Planks | ![fir_planks](../images/biomesoplenty_fir_planks.png) |
 
 ---
@@ -497,7 +497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Fir Planks | ![fir_planks](../images/biomesoplenty_fir_planks.png) |
 
 ---
@@ -506,7 +506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Fir Logs | ![fir_logs](../images/biomesoplenty_fir_logs.png) |
+| - | Fir Logs | ![fir_logs](../images/biomesoplenty_fir_boat.png) |
 
 ---
 ## Fir Pressure Plate
@@ -523,7 +523,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Fir Planks | ![fir_planks](../images/biomesoplenty_fir_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Fir Slab
@@ -587,7 +587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Hellbark Boat | ![hellbark_boat](../images/biomesoplenty_hellbark_boat.png) |
 
 ---
@@ -604,7 +604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Hellbark Planks | ![hellbark_planks](../images/biomesoplenty_hellbark_planks.png) |
 
 ---
@@ -613,7 +613,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Hellbark Planks | ![hellbark_planks](../images/biomesoplenty_hellbark_planks.png) |
 
 ---
@@ -622,7 +622,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Hellbark Logs | ![hellbark_logs](../images/biomesoplenty_hellbark_logs.png) |
+| - | Hellbark Logs | ![hellbark_logs](../images/biomesoplenty_hellbark_boat.png) |
 
 ---
 ## Hellbark Pressure Plate
@@ -639,7 +639,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Hellbark Planks | ![hellbark_planks](../images/biomesoplenty_hellbark_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Hellbark Slab
@@ -695,7 +695,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Jacaranda Boat | ![jacaranda_boat](../images/biomesoplenty_jacaranda_boat.png) |
 
 ---
@@ -712,7 +712,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Jacaranda Planks | ![jacaranda_planks](../images/biomesoplenty_jacaranda_planks.png) |
 
 ---
@@ -721,7 +721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Jacaranda Planks | ![jacaranda_planks](../images/biomesoplenty_jacaranda_planks.png) |
 
 ---
@@ -730,7 +730,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jacaranda Logs | ![jacaranda_logs](../images/biomesoplenty_jacaranda_logs.png) |
+| - | Jacaranda Logs | ![jacaranda_logs](../images/biomesoplenty_jacaranda_boat.png) |
 
 ---
 ## Jacaranda Pressure Plate
@@ -747,7 +747,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Jacaranda Planks | ![jacaranda_planks](../images/biomesoplenty_jacaranda_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Jacaranda Slab
@@ -787,7 +787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Hydrangea | ![blue_hydrangea](../images/biomesoplenty_blue_hydrangea.png) |
+| - | Blue Hydrangea | ![blue_hydrangea](../images/biomesoplenty_blue_hydrangea_bottom.png) |
 
 ---
 ## Light Blue Dye
@@ -795,7 +795,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Icy Iris | ![icy_iris](../images/biomesoplenty_icy_iris.png) |
+| - | Icy Iris | ![icy_iris](../images/biomesoplenty_icy_iris_bottom.png) |
 
 ---
 ## Magenta Dye
@@ -827,7 +827,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Magic Boat | ![magic_boat](../images/biomesoplenty_magic_boat.png) |
 
 ---
@@ -844,7 +844,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Magic Planks | ![magic_planks](../images/biomesoplenty_magic_planks.png) |
 
 ---
@@ -853,7 +853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Magic Planks | ![magic_planks](../images/biomesoplenty_magic_planks.png) |
 
 ---
@@ -862,7 +862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magic Logs | ![magic_logs](../images/biomesoplenty_magic_logs.png) |
+| - | Magic Logs | ![magic_logs](../images/biomesoplenty_magic_boat.png) |
 
 ---
 ## Magic Pressure Plate
@@ -879,7 +879,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Magic Planks | ![magic_planks](../images/biomesoplenty_magic_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Magic Slab
@@ -935,7 +935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Mahogany Boat | ![mahogany_boat](../images/biomesoplenty_mahogany_boat.png) |
 
 ---
@@ -952,7 +952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Mahogany Planks | ![mahogany_planks](../images/biomesoplenty_mahogany_planks.png) |
 
 ---
@@ -961,7 +961,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Mahogany Planks | ![mahogany_planks](../images/biomesoplenty_mahogany_planks.png) |
 
 ---
@@ -970,7 +970,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mahogany Logs | ![mahogany_logs](../images/biomesoplenty_mahogany_logs.png) |
+| - | Mahogany Logs | ![mahogany_logs](../images/biomesoplenty_mahogany_boat.png) |
 
 ---
 ## Mahogany Pressure Plate
@@ -987,7 +987,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Mahogany Planks | ![mahogany_planks](../images/biomesoplenty_mahogany_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Mahogany Slab
@@ -1027,7 +1027,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cobblestone | ![cobblestone](../images/biomesoplenty_cobblestone.png) |
+| - | Cobblestone | ![cobblestone](../images/biomesoplenty_barley_bottom.png) |
 | - | Willow Vine | ![willow_vine](../images/biomesoplenty_willow_vine.png) |
 
 ---
@@ -1036,7 +1036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/biomesoplenty_stone_bricks.png) |
+| - | Stone Bricks | ![stone_bricks](../images/biomesoplenty_barley_bottom.png) |
 | - | Willow Vine | ![willow_vine](../images/biomesoplenty_willow_vine.png) |
 
 ---
@@ -1140,7 +1140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Palm Boat | ![palm_boat](../images/biomesoplenty_palm_boat.png) |
 
 ---
@@ -1157,7 +1157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Palm Planks | ![palm_planks](../images/biomesoplenty_palm_planks.png) |
 
 ---
@@ -1166,7 +1166,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Palm Planks | ![palm_planks](../images/biomesoplenty_palm_planks.png) |
 
 ---
@@ -1175,7 +1175,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Palm Logs | ![palm_logs](../images/biomesoplenty_palm_logs.png) |
+| - | Palm Logs | ![palm_logs](../images/biomesoplenty_palm_boat.png) |
 
 ---
 ## Palm Pressure Plate
@@ -1192,7 +1192,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Palm Planks | ![palm_planks](../images/biomesoplenty_palm_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Palm Slab
@@ -1256,7 +1256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Tall Lavender | ![tall_lavender](../images/biomesoplenty_tall_lavender.png) |
+| - | Tall Lavender | ![tall_lavender](../images/biomesoplenty_tall_lavender_bottom.png) |
 
 ---
 ## Purple Dye
@@ -1272,10 +1272,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Baked Potato | ![baked_potato](../images/biomesoplenty_baked_potato.png) |
-| - | Cooked Rabbit | ![cooked_rabbit](../images/biomesoplenty_cooked_rabbit.png) |
-| - | Bowl | ![bowl](../images/biomesoplenty_bowl.png) |
-| - | Carrot | ![carrot](../images/biomesoplenty_carrot.png) |
+| - | Baked Potato | ![baked_potato](../images/biomesoplenty_barley_bottom.png) |
+| - | Cooked Rabbit | ![cooked_rabbit](../images/biomesoplenty_barley_bottom.png) |
+| - | Bowl | ![bowl](../images/biomesoplenty_barley_bottom.png) |
+| - | Carrot | ![carrot](../images/biomesoplenty_barley_bottom.png) |
 | - | Toadstool | ![toadstool](../images/biomesoplenty_toadstool.png) |
 
 ---
@@ -1300,7 +1300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Redwood Boat | ![redwood_boat](../images/biomesoplenty_redwood_boat.png) |
 
 ---
@@ -1317,7 +1317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Redwood Planks | ![redwood_planks](../images/biomesoplenty_redwood_planks.png) |
 
 ---
@@ -1326,7 +1326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Redwood Planks | ![redwood_planks](../images/biomesoplenty_redwood_planks.png) |
 
 ---
@@ -1335,7 +1335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redwood Logs | ![redwood_logs](../images/biomesoplenty_redwood_logs.png) |
+| - | Redwood Logs | ![redwood_logs](../images/biomesoplenty_portal_track_mip_redwood.png) |
 
 ---
 ## Redwood Pressure Plate
@@ -1352,7 +1352,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Redwood Planks | ![redwood_planks](../images/biomesoplenty_redwood_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Redwood Slab
@@ -1416,7 +1416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_smooth_black_sandstone.png) |
+| # | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_black_sandstone.png) |
 
 ---
 ## Smooth Black Sandstone Slab
@@ -1424,7 +1424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_smooth_black_sandstone.png) |
+| item | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_black_sandstone.png) |
 
 ---
 ## Smooth Black Sandstone Stairs
@@ -1432,7 +1432,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_smooth_black_sandstone.png) |
+| # | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_black_sandstone.png) |
 
 ---
 ## Smooth Black Sandstone Stairs
@@ -1440,7 +1440,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_smooth_black_sandstone.png) |
+| item | Smooth Black Sandstone | ![smooth_black_sandstone](../images/biomesoplenty_black_sandstone.png) |
 
 ---
 ## Smooth Orange Sandstone
@@ -1456,7 +1456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_smooth_orange_sandstone.png) |
+| # | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_chiseled_orange_sandstone.png) |
 
 ---
 ## Smooth Orange Sandstone Slab
@@ -1464,7 +1464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_smooth_orange_sandstone.png) |
+| item | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_chiseled_orange_sandstone.png) |
 
 ---
 ## Smooth Orange Sandstone Stairs
@@ -1472,7 +1472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_smooth_orange_sandstone.png) |
+| # | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_chiseled_orange_sandstone.png) |
 
 ---
 ## Smooth Orange Sandstone Stairs
@@ -1480,7 +1480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_smooth_orange_sandstone.png) |
+| item | Smooth Orange Sandstone | ![smooth_orange_sandstone](../images/biomesoplenty_chiseled_orange_sandstone.png) |
 
 ---
 ## Smooth White Sandstone
@@ -1496,7 +1496,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_smooth_white_sandstone.png) |
+| # | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_chiseled_white_sandstone.png) |
 
 ---
 ## Smooth White Sandstone Slab
@@ -1504,7 +1504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_smooth_white_sandstone.png) |
+| item | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_chiseled_white_sandstone.png) |
 
 ---
 ## Smooth White Sandstone Stairs
@@ -1512,7 +1512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_smooth_white_sandstone.png) |
+| # | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_chiseled_white_sandstone.png) |
 
 ---
 ## Smooth White Sandstone Stairs
@@ -1520,7 +1520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_smooth_white_sandstone.png) |
+| item | Smooth White Sandstone | ![smooth_white_sandstone](../images/biomesoplenty_chiseled_white_sandstone.png) |
 
 ---
 ## Stripped Cherry Wood
@@ -1632,7 +1632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Umbran Boat | ![umbran_boat](../images/biomesoplenty_umbran_boat.png) |
 
 ---
@@ -1649,7 +1649,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Umbran Planks | ![umbran_planks](../images/biomesoplenty_umbran_planks.png) |
 
 ---
@@ -1658,7 +1658,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Umbran Planks | ![umbran_planks](../images/biomesoplenty_umbran_planks.png) |
 
 ---
@@ -1667,7 +1667,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Umbran Logs | ![umbran_logs](../images/biomesoplenty_umbran_logs.png) |
+| - | Umbran Logs | ![umbran_logs](../images/biomesoplenty_portal_track_mip_umbran.png) |
 
 ---
 ## Umbran Pressure Plate
@@ -1684,7 +1684,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Umbran Planks | ![umbran_planks](../images/biomesoplenty_umbran_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Umbran Slab
@@ -1796,7 +1796,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chest | ![chest](../images/biomesoplenty_chest.png) |
+| - | Chest | ![chest](../images/biomesoplenty_cherry_chest_boat.png) |
 | - | Willow Boat | ![willow_boat](../images/biomesoplenty_willow_boat.png) |
 
 ---
@@ -1813,7 +1813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Willow Planks | ![willow_planks](../images/biomesoplenty_willow_planks.png) |
 
 ---
@@ -1822,7 +1822,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| # | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 | W | Willow Planks | ![willow_planks](../images/biomesoplenty_willow_planks.png) |
 
 ---
@@ -1831,7 +1831,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Willow Logs | ![willow_logs](../images/biomesoplenty_willow_logs.png) |
+| - | Willow Logs | ![willow_logs](../images/biomesoplenty_portal_track_mip_willow.png) |
 
 ---
 ## Willow Pressure Plate
@@ -1848,7 +1848,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Willow Planks | ![willow_planks](../images/biomesoplenty_willow_planks.png) |
-| X | Stick | ![stick](../images/biomesoplenty_stick.png) |
+| X | Stick | ![stick](../images/biomesoplenty_barley_bottom.png) |
 
 ---
 ## Willow Slab
@@ -1888,6 +1888,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Goldenrod | ![goldenrod](../images/biomesoplenty_goldenrod.png) |
+| - | Goldenrod | ![goldenrod](../images/biomesoplenty_goldenrod_bottom.png) |
 
 ---

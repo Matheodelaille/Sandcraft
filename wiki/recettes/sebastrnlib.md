@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Book | ![book](../images/sebastrnlib_book.png) |
-| - | Red Wool | ![red_wool](../images/sebastrnlib_red_wool.png) |
+| - | Book | ![book](../images/sebastrnlib_guidebook.png) |
+| - | Red Wool | ![red_wool](../images/sebastrnlib_guidebook.png) |
 
 ---

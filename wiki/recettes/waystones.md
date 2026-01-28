@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Dyes | ![black_dyes](../images/waystones_black_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Black Dyes | ![black_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Blue Sharestone
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Dyes | ![blue_dyes](../images/waystones_blue_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Blue Dyes | ![blue_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Bound Scroll
@@ -25,10 +25,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Purple Dyes | ![purple_dyes](../images/waystones_purple_dyes.png) |
-| G | Gold Nuggets | ![gold_nuggets](../images/waystones_gold_nuggets.png) |
-| E | Ender Pearl | ![ender_pearl](../images/waystones_ender_pearl.png) |
-| P | Paper | ![paper](../images/waystones_paper.png) |
+| D | Purple Dyes | ![purple_dyes](../images/waystones_andesite_waystone.png) |
+| G | Gold Nuggets | ![gold_nuggets](../images/waystones_andesite_waystone.png) |
+| E | Ender Pearl | ![ender_pearl](../images/waystones_andesite_waystone.png) |
+| P | Paper | ![paper](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Brown Sharestone
@@ -36,8 +36,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Dyes | ![brown_dyes](../images/waystones_brown_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Brown Dyes | ![brown_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Sharestone
@@ -45,8 +45,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bone Meal | ![bone_meal](../images/waystones_bone_meal.png) |
-| - | Dyed Sharestone | ![dyed_sharestone](../images/waystones_dyed_sharestone.png) |
+| - | Bone Meal | ![bone_meal](../images/waystones_andesite_waystone.png) |
+| - | Dyed Sharestone | ![dyed_sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Cyan Sharestone
@@ -54,8 +54,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Dyes | ![cyan_dyes](../images/waystones_cyan_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Cyan Dyes | ![cyan_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Gray Sharestone
@@ -63,8 +63,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Dyes | ![gray_dyes](../images/waystones_gray_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Gray Dyes | ![gray_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Green Sharestone
@@ -72,8 +72,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Dyes | ![green_dyes](../images/waystones_green_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Green Dyes | ![green_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Light Blue Sharestone
@@ -81,8 +81,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Dyes | ![light_blue_dyes](../images/waystones_light_blue_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Light Blue Dyes | ![light_blue_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Light Gray Sharestone
@@ -90,8 +90,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Dyes | ![light_gray_dyes](../images/waystones_light_gray_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Light Gray Dyes | ![light_gray_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Lime Sharestone
@@ -99,8 +99,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Dyes | ![lime_dyes](../images/waystones_lime_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Lime Dyes | ![lime_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Magenta Sharestone
@@ -108,8 +108,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Dyes | ![magenta_dyes](../images/waystones_magenta_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Magenta Dyes | ![magenta_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Mossy Waystone
@@ -117,9 +117,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Mossy Stone Bricks | ![mossy_stone_bricks](../images/waystones_mossy_stone_bricks.png) |
+| S | Mossy Stone Bricks | ![mossy_stone_bricks](../images/waystones_mossy_andesite_waystone.png) |
 | W | Warp Stone | ![warp_stone](../images/waystones_warp_stone.png) |
-| O | Obsidian | ![obsidian](../images/waystones_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Mossy Waystone
@@ -127,10 +127,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Waystone | ![waystone](../images/waystones_waystone.png) |
-| - | Vine | ![vine](../images/waystones_vine.png) |
-| - | Vine | ![vine](../images/waystones_vine.png) |
-| - | Vine | ![vine](../images/waystones_vine.png) |
+| - | Waystone | ![waystone](../images/waystones_andesite_waystone.png) |
+| - | Vine | ![vine](../images/waystones_andesite_waystone.png) |
+| - | Vine | ![vine](../images/waystones_andesite_waystone.png) |
+| - | Vine | ![vine](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Orange Sharestone
@@ -138,8 +138,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Dyes | ![orange_dyes](../images/waystones_orange_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Orange Dyes | ![orange_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Pink Sharestone
@@ -147,8 +147,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Dyes | ![pink_dyes](../images/waystones_pink_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Pink Dyes | ![pink_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Portstone
@@ -156,9 +156,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone Bricks | ![stone_bricks](../images/waystones_stone_bricks.png) |
+| S | Stone Bricks | ![stone_bricks](../images/waystones_warp_stone.png) |
 | W | Warp Stone | ![warp_stone](../images/waystones_warp_stone.png) |
-| B | Polished Andesite | ![polished_andesite](../images/waystones_polished_andesite.png) |
+| B | Polished Andesite | ![polished_andesite](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Purple Sharestone
@@ -166,8 +166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Dyes | ![purple_dyes](../images/waystones_purple_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Purple Dyes | ![purple_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Red Sharestone
@@ -175,8 +175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Dyes | ![red_dyes](../images/waystones_red_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Red Dyes | ![red_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Return Scroll
@@ -184,9 +184,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gold Nuggets | ![gold_nuggets](../images/waystones_gold_nuggets.png) |
-| E | Purple Dyes | ![purple_dyes](../images/waystones_purple_dyes.png) |
-| P | Paper | ![paper](../images/waystones_paper.png) |
+| G | Gold Nuggets | ![gold_nuggets](../images/waystones_andesite_waystone.png) |
+| E | Purple Dyes | ![purple_dyes](../images/waystones_andesite_waystone.png) |
+| P | Paper | ![paper](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Sandy Waystone
@@ -194,9 +194,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Chiseled Sandstone | ![chiseled_sandstone](../images/waystones_chiseled_sandstone.png) |
+| S | Chiseled Sandstone | ![chiseled_sandstone](../images/waystones_chiseled_sandstone_waystone.png) |
 | W | Warp Stone | ![warp_stone](../images/waystones_warp_stone.png) |
-| O | Obsidian | ![obsidian](../images/waystones_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Sharestone
@@ -204,9 +204,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone Bricks | ![stone_bricks](../images/waystones_stone_bricks.png) |
+| S | Stone Bricks | ![stone_bricks](../images/waystones_warp_stone.png) |
 | W | Warp Stone | ![warp_stone](../images/waystones_warp_stone.png) |
-| O | Obsidian | ![obsidian](../images/waystones_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Warp Dust
@@ -214,8 +214,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/waystones_ender_pearl.png) |
-| - | Amethyst Shard | ![amethyst_shard](../images/waystones_amethyst_shard.png) |
+| - | Ender Pearl | ![ender_pearl](../images/waystones_andesite_waystone.png) |
+| - | Amethyst Shard | ![amethyst_shard](../images/waystones_attuned_shard.png) |
 
 ---
 ## Warp Plate
@@ -224,8 +224,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | W | Warp Dust | ![warp_dust](../images/waystones_warp_dust.png) |
-| F | Flint | ![flint](../images/waystones_flint.png) |
-| S | Stone Bricks | ![stone_bricks](../images/waystones_stone_bricks.png) |
+| F | Flint | ![flint](../images/waystones_andesite_waystone.png) |
+| S | Stone Bricks | ![stone_bricks](../images/waystones_warp_stone.png) |
 
 ---
 ## Warp Scroll
@@ -233,10 +233,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gold Nuggets | ![gold_nuggets](../images/waystones_gold_nuggets.png) |
-| E | Ender Pearl | ![ender_pearl](../images/waystones_ender_pearl.png) |
-| P | Paper | ![paper](../images/waystones_paper.png) |
-| D | Purple Dyes | ![purple_dyes](../images/waystones_purple_dyes.png) |
+| G | Gold Nuggets | ![gold_nuggets](../images/waystones_andesite_waystone.png) |
+| E | Ender Pearl | ![ender_pearl](../images/waystones_andesite_waystone.png) |
+| P | Paper | ![paper](../images/waystones_andesite_waystone.png) |
+| D | Purple Dyes | ![purple_dyes](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Warp Stone
@@ -244,9 +244,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Emeralds | ![emeralds](../images/waystones_emeralds.png) |
-| E | Ender Pearl | ![ender_pearl](../images/waystones_ender_pearl.png) |
-| D | Amethyst Shard | ![amethyst_shard](../images/waystones_amethyst_shard.png) |
+| G | Emeralds | ![emeralds](../images/waystones_andesite_waystone.png) |
+| E | Ender Pearl | ![ender_pearl](../images/waystones_andesite_waystone.png) |
+| D | Amethyst Shard | ![amethyst_shard](../images/waystones_attuned_shard.png) |
 
 ---
 ## Waystone
@@ -254,9 +254,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone Bricks | ![stone_bricks](../images/waystones_stone_bricks.png) |
+| S | Stone Bricks | ![stone_bricks](../images/waystones_warp_stone.png) |
 | W | Warp Stone | ![warp_stone](../images/waystones_warp_stone.png) |
-| O | Obsidian | ![obsidian](../images/waystones_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/waystones_andesite_waystone.png) |
 
 ---
 ## White Sharestone
@@ -264,8 +264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Dyes | ![white_dyes](../images/waystones_white_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | White Dyes | ![white_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---
 ## Yellow Sharestone
@@ -273,7 +273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Dyes | ![yellow_dyes](../images/waystones_yellow_dyes.png) |
-| - | Sharestone | ![sharestone](../images/waystones_sharestone.png) |
+| - | Yellow Dyes | ![yellow_dyes](../images/waystones_andesite_waystone.png) |
+| - | Sharestone | ![sharestone](../images/waystones_andesite_waystone.png) |
 
 ---

@@ -231,9 +231,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Sand | ![sand](../images/engineersdecor_sand.png) |
-| G | Gravel | ![gravel](../images/engineersdecor_gravel.png) |
-| D | Dirt | ![dirt](../images/engineersdecor_dirt.png) |
+| S | Sand | ![sand](../images/engineersdecor_dense_grit_sand_texture0.png) |
+| G | Gravel | ![gravel](../images/engineersdecor_clinker_brick_pole_side.png) |
+| D | Dirt | ![dirt](../images/engineersdecor_dense_grit_dirt_texture0.png) |
 
 ---
 ## Dense Grit Dirt Block
@@ -241,9 +241,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gravel | ![gravel](../images/engineersdecor_gravel.png) |
-| D | Dirt | ![dirt](../images/engineersdecor_dirt.png) |
-| C | Cobblestone | ![cobblestone](../images/engineersdecor_cobblestone.png) |
+| G | Gravel | ![gravel](../images/engineersdecor_clinker_brick_pole_side.png) |
+| D | Dirt | ![dirt](../images/engineersdecor_dense_grit_dirt_texture0.png) |
+| C | Cobblestone | ![cobblestone](../images/engineersdecor_clinker_brick_pole_side.png) |
 
 ---
 ## {}

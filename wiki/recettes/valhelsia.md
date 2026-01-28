@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -16,7 +16,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| S | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| S | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -35,7 +35,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -44,7 +44,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -53,7 +53,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -62,7 +62,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -71,8 +71,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| S | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| S | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -81,7 +81,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -90,7 +90,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -99,8 +99,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -109,8 +109,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Black Birch Chair
@@ -118,8 +118,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -128,8 +128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Black Crimson Chair
@@ -137,8 +137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -147,8 +147,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Black Curtain
@@ -156,7 +156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -165,8 +165,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -175,8 +175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Black Fabric Desk Lamp
@@ -184,8 +184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -194,8 +194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -204,8 +204,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Black Mangrove Chair
@@ -213,8 +213,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -223,8 +223,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Black Oak Chair
@@ -232,8 +232,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -242,8 +242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Black Spruce Chair
@@ -251,8 +251,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -261,8 +261,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Black Upholstered Acacia Chair
@@ -270,8 +270,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -280,8 +280,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -290,8 +290,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -300,8 +300,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -310,8 +310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -320,8 +320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -330,8 +330,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -340,8 +340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -350,8 +350,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -360,8 +360,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -370,8 +370,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -380,8 +380,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -390,8 +390,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -400,8 +400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -410,8 +410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -420,8 +420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -430,8 +430,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -440,8 +440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -450,8 +450,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -460,8 +460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Carpet | ![black_carpet](../images/valhelsia_black_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Black Carpet | ![black_carpet](../images/valhelsia_furniture_black.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Blue Acacia Chair
@@ -469,8 +469,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -479,8 +479,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Blue Birch Chair
@@ -488,8 +488,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -498,8 +498,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Blue Crimson Chair
@@ -507,8 +507,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -517,8 +517,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Blue Curtain
@@ -526,7 +526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -535,8 +535,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -545,8 +545,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Blue Fabric Desk Lamp
@@ -554,8 +554,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -564,8 +564,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -574,8 +574,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Blue Mangrove Chair
@@ -583,8 +583,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -593,8 +593,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Blue Oak Chair
@@ -602,8 +602,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -612,8 +612,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Blue Spruce Chair
@@ -621,8 +621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -631,8 +631,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Blue Upholstered Acacia Chair
@@ -640,8 +640,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -650,8 +650,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -660,8 +660,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -670,8 +670,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -680,8 +680,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -690,8 +690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -700,8 +700,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -710,8 +710,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -720,8 +720,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -730,8 +730,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -740,8 +740,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -750,8 +750,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -760,8 +760,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -770,8 +770,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -780,8 +780,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -790,8 +790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -800,8 +800,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -810,8 +810,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -820,8 +820,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -830,8 +830,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Carpet | ![blue_carpet](../images/valhelsia_blue_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Blue Carpet | ![blue_carpet](../images/valhelsia_furniture_blue.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Brown Acacia Chair
@@ -839,8 +839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -849,8 +849,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Brown Birch Chair
@@ -858,8 +858,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -868,8 +868,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Brown Crimson Chair
@@ -877,8 +877,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -887,8 +887,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Brown Curtain
@@ -896,7 +896,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -905,8 +905,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -915,8 +915,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Brown Fabric Desk Lamp
@@ -924,8 +924,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -934,8 +934,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -944,8 +944,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Brown Mangrove Chair
@@ -953,8 +953,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -963,8 +963,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Brown Oak Chair
@@ -972,8 +972,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -982,8 +982,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Brown Spruce Chair
@@ -991,8 +991,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1001,8 +1001,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Brown Upholstered Acacia Chair
@@ -1010,8 +1010,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1020,8 +1020,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1030,8 +1030,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1040,8 +1040,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1050,8 +1050,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1060,8 +1060,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1070,8 +1070,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1080,8 +1080,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1090,8 +1090,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1100,8 +1100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1110,8 +1110,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1120,8 +1120,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1130,8 +1130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1140,8 +1140,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1150,8 +1150,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1160,8 +1160,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1170,8 +1170,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1180,8 +1180,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1190,8 +1190,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1200,8 +1200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Carpet | ![brown_carpet](../images/valhelsia_brown_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Brown Carpet | ![brown_carpet](../images/valhelsia_furniture_brown.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Crimson Chair
@@ -1209,7 +1209,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1218,7 +1218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1227,8 +1227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| S | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| S | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1237,7 +1237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1246,7 +1246,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1255,8 +1255,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1265,8 +1265,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Cyan Birch Chair
@@ -1274,8 +1274,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1284,8 +1284,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Cyan Crimson Chair
@@ -1293,8 +1293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1303,8 +1303,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Cyan Curtain
@@ -1312,7 +1312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1321,8 +1321,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1331,8 +1331,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Cyan Fabric Desk Lamp
@@ -1340,8 +1340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1350,8 +1350,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1360,8 +1360,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Cyan Mangrove Chair
@@ -1369,8 +1369,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1379,8 +1379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Cyan Oak Chair
@@ -1388,8 +1388,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1398,8 +1398,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Cyan Spruce Chair
@@ -1407,8 +1407,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1417,8 +1417,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Cyan Upholstered Acacia Chair
@@ -1426,8 +1426,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1436,8 +1436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1446,8 +1446,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1456,8 +1456,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1466,8 +1466,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1476,8 +1476,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1486,8 +1486,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1496,8 +1496,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1506,8 +1506,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1516,8 +1516,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1526,8 +1526,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1536,8 +1536,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1546,8 +1546,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1556,8 +1556,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1566,8 +1566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1576,8 +1576,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1586,8 +1586,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1596,8 +1596,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1606,8 +1606,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1616,8 +1616,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_cyan_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Cyan Carpet | ![cyan_carpet](../images/valhelsia_furniture_cyan.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Dark Oak Chair
@@ -1625,7 +1625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1634,7 +1634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1643,8 +1643,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1653,7 +1653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1662,7 +1662,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1671,8 +1671,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1681,8 +1681,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Gray Birch Chair
@@ -1690,8 +1690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1700,8 +1700,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Gray Crimson Chair
@@ -1709,8 +1709,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1719,8 +1719,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Gray Curtain
@@ -1728,7 +1728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1737,8 +1737,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1747,8 +1747,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Gray Fabric Desk Lamp
@@ -1756,8 +1756,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1766,8 +1766,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1776,8 +1776,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Gray Mangrove Chair
@@ -1785,8 +1785,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1795,8 +1795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Gray Oak Chair
@@ -1804,8 +1804,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1814,8 +1814,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Gray Spruce Chair
@@ -1823,8 +1823,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1833,8 +1833,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Gray Upholstered Acacia Chair
@@ -1842,8 +1842,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1852,8 +1852,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1862,8 +1862,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1872,8 +1872,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1882,8 +1882,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1892,8 +1892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1902,8 +1902,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1912,8 +1912,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1922,8 +1922,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1932,8 +1932,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1942,8 +1942,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1952,8 +1952,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1962,8 +1962,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1972,8 +1972,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1982,8 +1982,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -1992,8 +1992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2002,8 +2002,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2012,8 +2012,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2022,8 +2022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2032,8 +2032,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Carpet | ![gray_carpet](../images/valhelsia_gray_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Gray Carpet | ![gray_carpet](../images/valhelsia_furniture_gray.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Green Acacia Chair
@@ -2041,8 +2041,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2051,8 +2051,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Green Birch Chair
@@ -2060,8 +2060,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2070,8 +2070,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Green Crimson Chair
@@ -2079,8 +2079,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2089,8 +2089,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Green Curtain
@@ -2098,7 +2098,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2107,8 +2107,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2117,8 +2117,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Green Fabric Desk Lamp
@@ -2126,8 +2126,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2136,8 +2136,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2146,8 +2146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Green Mangrove Chair
@@ -2155,8 +2155,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2165,8 +2165,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Green Oak Chair
@@ -2174,8 +2174,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2184,8 +2184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Green Spruce Chair
@@ -2193,8 +2193,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2203,8 +2203,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Green Upholstered Acacia Chair
@@ -2212,8 +2212,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2222,8 +2222,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2232,8 +2232,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2242,8 +2242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2252,8 +2252,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2262,8 +2262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2272,8 +2272,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2282,8 +2282,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2292,8 +2292,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2302,8 +2302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2312,8 +2312,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2322,8 +2322,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2332,8 +2332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2342,8 +2342,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2352,8 +2352,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2362,8 +2362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2372,8 +2372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2382,8 +2382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2392,8 +2392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2402,8 +2402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Carpet | ![green_carpet](../images/valhelsia_green_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Green Carpet | ![green_carpet](../images/valhelsia_furniture_green.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Hay Acacia Chair
@@ -2411,8 +2411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2421,8 +2421,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2431,8 +2431,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2441,8 +2441,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2451,8 +2451,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2461,8 +2461,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2471,8 +2471,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2481,8 +2481,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2491,8 +2491,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| H | Hay Block | ![hay_block](../images/valhelsia_hay_block.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| H | Hay Block | ![hay_block](../images/valhelsia_furniture_hay_acacia_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2501,7 +2501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2510,7 +2510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2519,8 +2519,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| S | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| S | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2529,7 +2529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2538,7 +2538,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2547,8 +2547,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2557,8 +2557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Light Blue Birch Chair
@@ -2566,8 +2566,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2576,8 +2576,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Light Blue Crimson Chair
@@ -2585,8 +2585,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2595,8 +2595,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Light Blue Curtain
@@ -2604,7 +2604,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2613,8 +2613,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2623,8 +2623,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Light Blue Fabric Desk Lamp
@@ -2632,8 +2632,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2642,8 +2642,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2652,8 +2652,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Light Blue Mangrove Chair
@@ -2661,8 +2661,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2671,8 +2671,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Light Blue Oak Chair
@@ -2680,8 +2680,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2690,8 +2690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Light Blue Spruce Chair
@@ -2699,8 +2699,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2709,8 +2709,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Light Blue Upholstered Acacia Chair
@@ -2718,8 +2718,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2728,8 +2728,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2738,8 +2738,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2748,8 +2748,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2758,8 +2758,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2768,8 +2768,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2778,8 +2778,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2788,8 +2788,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2798,8 +2798,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2808,8 +2808,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2818,8 +2818,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2828,8 +2828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2838,8 +2838,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2848,8 +2848,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2858,8 +2858,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2868,8 +2868,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2878,8 +2878,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2888,8 +2888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2898,8 +2898,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2908,8 +2908,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_light_blue_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Light Blue Carpet | ![light_blue_carpet](../images/valhelsia_furniture_light_blue.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Light Gray Acacia Chair
@@ -2917,8 +2917,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2927,8 +2927,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Light Gray Birch Chair
@@ -2936,8 +2936,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2946,8 +2946,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Light Gray Crimson Chair
@@ -2955,8 +2955,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2965,8 +2965,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Light Gray Curtain
@@ -2974,7 +2974,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2983,8 +2983,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -2993,8 +2993,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Light Gray Fabric Desk Lamp
@@ -3002,8 +3002,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3012,8 +3012,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3022,8 +3022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Light Gray Mangrove Chair
@@ -3031,8 +3031,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3041,8 +3041,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Light Gray Oak Chair
@@ -3050,8 +3050,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3060,8 +3060,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Light Gray Spruce Chair
@@ -3069,8 +3069,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3079,8 +3079,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Light Gray Upholstered Acacia Chair
@@ -3088,8 +3088,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3098,8 +3098,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3108,8 +3108,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3118,8 +3118,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3128,8 +3128,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3138,8 +3138,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3148,8 +3148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3158,8 +3158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3168,8 +3168,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3178,8 +3178,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3188,8 +3188,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3198,8 +3198,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3208,8 +3208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3218,8 +3218,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3228,8 +3228,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3238,8 +3238,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3248,8 +3248,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3258,8 +3258,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3268,8 +3268,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3278,8 +3278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_light_gray_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Light Gray Carpet | ![light_gray_carpet](../images/valhelsia_furniture_light_gray.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Lime Acacia Chair
@@ -3287,8 +3287,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3297,8 +3297,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Lime Birch Chair
@@ -3306,8 +3306,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3316,8 +3316,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Lime Crimson Chair
@@ -3325,8 +3325,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3335,8 +3335,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Lime Curtain
@@ -3344,7 +3344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3353,8 +3353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3363,8 +3363,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Lime Fabric Desk Lamp
@@ -3372,8 +3372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3382,8 +3382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3392,8 +3392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Lime Mangrove Chair
@@ -3401,8 +3401,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3411,8 +3411,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Lime Oak Chair
@@ -3420,8 +3420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3430,8 +3430,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Lime Spruce Chair
@@ -3439,8 +3439,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3449,8 +3449,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Lime Upholstered Acacia Chair
@@ -3458,8 +3458,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3468,8 +3468,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3478,8 +3478,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3488,8 +3488,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3498,8 +3498,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3508,8 +3508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3518,8 +3518,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3528,8 +3528,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3538,8 +3538,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3548,8 +3548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3558,8 +3558,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3568,8 +3568,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3578,8 +3578,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3588,8 +3588,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3598,8 +3598,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3608,8 +3608,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3618,8 +3618,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3628,8 +3628,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3638,8 +3638,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3648,8 +3648,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Carpet | ![lime_carpet](../images/valhelsia_lime_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Lime Carpet | ![lime_carpet](../images/valhelsia_furniture_lime.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Magenta Acacia Chair
@@ -3657,8 +3657,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3667,8 +3667,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Magenta Birch Chair
@@ -3676,8 +3676,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3686,8 +3686,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Magenta Crimson Chair
@@ -3695,8 +3695,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3705,8 +3705,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Magenta Curtain
@@ -3714,7 +3714,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3723,8 +3723,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3733,8 +3733,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Magenta Fabric Desk Lamp
@@ -3742,8 +3742,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3752,8 +3752,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3762,8 +3762,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Magenta Mangrove Chair
@@ -3771,8 +3771,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3781,8 +3781,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Magenta Oak Chair
@@ -3790,8 +3790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3800,8 +3800,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Magenta Spruce Chair
@@ -3809,8 +3809,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3819,8 +3819,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Magenta Upholstered Acacia Chair
@@ -3828,8 +3828,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3838,8 +3838,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3848,8 +3848,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3858,8 +3858,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3868,8 +3868,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3878,8 +3878,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3888,8 +3888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3898,8 +3898,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3908,8 +3908,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3918,8 +3918,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3928,8 +3928,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3938,8 +3938,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3948,8 +3948,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3958,8 +3958,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3968,8 +3968,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3978,8 +3978,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3988,8 +3988,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -3998,8 +3998,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4008,8 +4008,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4018,8 +4018,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_magenta_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Magenta Carpet | ![magenta_carpet](../images/valhelsia_furniture_magenta.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Mangrove Chair
@@ -4027,7 +4027,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4036,7 +4036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4045,8 +4045,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| S | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| S | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4055,7 +4055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4064,7 +4064,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4073,7 +4073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4082,7 +4082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4091,8 +4091,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| S | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| S | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4101,7 +4101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4110,7 +4110,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4119,8 +4119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4129,8 +4129,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Orange Birch Chair
@@ -4138,8 +4138,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4148,8 +4148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Orange Crimson Chair
@@ -4157,8 +4157,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4167,8 +4167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Orange Curtain
@@ -4176,7 +4176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4185,8 +4185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4195,8 +4195,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Orange Fabric Desk Lamp
@@ -4204,8 +4204,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4214,8 +4214,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4224,8 +4224,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Orange Mangrove Chair
@@ -4233,8 +4233,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4243,8 +4243,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Orange Oak Chair
@@ -4252,8 +4252,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4262,8 +4262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Orange Spruce Chair
@@ -4271,8 +4271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4281,8 +4281,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Orange Upholstered Acacia Chair
@@ -4290,8 +4290,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4300,8 +4300,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4310,8 +4310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4320,8 +4320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4330,8 +4330,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4340,8 +4340,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4350,8 +4350,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4360,8 +4360,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4370,8 +4370,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4380,8 +4380,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4390,8 +4390,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4400,8 +4400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4410,8 +4410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4420,8 +4420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4430,8 +4430,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4440,8 +4440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4450,8 +4450,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4460,8 +4460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4470,8 +4470,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4480,8 +4480,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Carpet | ![orange_carpet](../images/valhelsia_orange_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Orange Carpet | ![orange_carpet](../images/valhelsia_furniture_orange.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Pink Acacia Chair
@@ -4489,8 +4489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4499,8 +4499,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Pink Birch Chair
@@ -4508,8 +4508,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4518,8 +4518,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Pink Crimson Chair
@@ -4527,8 +4527,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4537,8 +4537,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Pink Curtain
@@ -4546,7 +4546,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4555,8 +4555,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4565,8 +4565,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Pink Fabric Desk Lamp
@@ -4574,8 +4574,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4584,8 +4584,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4594,8 +4594,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Pink Mangrove Chair
@@ -4603,8 +4603,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4613,8 +4613,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Pink Oak Chair
@@ -4622,8 +4622,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4632,8 +4632,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Pink Spruce Chair
@@ -4641,8 +4641,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4651,8 +4651,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Pink Upholstered Acacia Chair
@@ -4660,8 +4660,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4670,8 +4670,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4680,8 +4680,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4690,8 +4690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4700,8 +4700,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4710,8 +4710,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4720,8 +4720,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4730,8 +4730,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4740,8 +4740,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4750,8 +4750,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4760,8 +4760,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4770,8 +4770,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4780,8 +4780,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4790,8 +4790,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4800,8 +4800,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4810,8 +4810,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4820,8 +4820,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4830,8 +4830,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4840,8 +4840,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4850,8 +4850,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Carpet | ![pink_carpet](../images/valhelsia_pink_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Pink Carpet | ![pink_carpet](../images/valhelsia_furniture_pink.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Purple Acacia Chair
@@ -4859,8 +4859,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4869,8 +4869,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Purple Birch Chair
@@ -4878,8 +4878,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4888,8 +4888,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Purple Crimson Chair
@@ -4897,8 +4897,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4907,8 +4907,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Purple Curtain
@@ -4916,7 +4916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4925,8 +4925,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4935,8 +4935,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Purple Fabric Desk Lamp
@@ -4944,8 +4944,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4954,8 +4954,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4964,8 +4964,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Purple Mangrove Chair
@@ -4973,8 +4973,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -4983,8 +4983,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Purple Oak Chair
@@ -4992,8 +4992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5002,8 +5002,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Purple Spruce Chair
@@ -5011,8 +5011,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5021,8 +5021,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Purple Upholstered Acacia Chair
@@ -5030,8 +5030,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5040,8 +5040,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5050,8 +5050,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5060,8 +5060,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5070,8 +5070,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5080,8 +5080,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5090,8 +5090,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5100,8 +5100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5110,8 +5110,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5120,8 +5120,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5130,8 +5130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5140,8 +5140,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5150,8 +5150,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5160,8 +5160,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5170,8 +5170,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5180,8 +5180,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5190,8 +5190,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5200,8 +5200,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5210,8 +5210,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5220,8 +5220,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Carpet | ![purple_carpet](../images/valhelsia_purple_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Purple Carpet | ![purple_carpet](../images/valhelsia_furniture_purple.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Red Acacia Chair
@@ -5229,8 +5229,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5239,8 +5239,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Red Birch Chair
@@ -5248,8 +5248,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5258,8 +5258,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Red Crimson Chair
@@ -5267,8 +5267,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5277,8 +5277,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Red Curtain
@@ -5286,7 +5286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5295,8 +5295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5305,8 +5305,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Red Fabric Desk Lamp
@@ -5314,8 +5314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5324,8 +5324,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5334,8 +5334,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Red Mangrove Chair
@@ -5343,8 +5343,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5353,8 +5353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Red Oak Chair
@@ -5362,8 +5362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5372,8 +5372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Red Spruce Chair
@@ -5381,8 +5381,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5391,8 +5391,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Red Upholstered Acacia Chair
@@ -5400,8 +5400,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5410,8 +5410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5420,8 +5420,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5430,8 +5430,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5440,8 +5440,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5450,8 +5450,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5460,8 +5460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5470,8 +5470,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5480,8 +5480,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5490,8 +5490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5500,8 +5500,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5510,8 +5510,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5520,8 +5520,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5530,8 +5530,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5540,8 +5540,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5550,8 +5550,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5560,8 +5560,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5570,8 +5570,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5580,8 +5580,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5590,8 +5590,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Carpet | ![red_carpet](../images/valhelsia_red_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Red Carpet | ![red_carpet](../images/valhelsia_furniture_red.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Spruce Chair
@@ -5599,7 +5599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5608,7 +5608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5617,8 +5617,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| S | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| S | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5627,7 +5627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5636,7 +5636,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5645,7 +5645,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5654,7 +5654,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5663,8 +5663,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| S | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| S | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5673,7 +5673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5682,7 +5682,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5691,8 +5691,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5701,8 +5701,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## White Birch Chair
@@ -5710,8 +5710,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5720,8 +5720,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## White Crimson Chair
@@ -5729,8 +5729,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5739,8 +5739,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## White Curtain
@@ -5748,7 +5748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5757,8 +5757,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5767,8 +5767,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## White Fabric Desk Lamp
@@ -5776,8 +5776,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5786,8 +5786,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5796,8 +5796,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## White Mangrove Chair
@@ -5805,8 +5805,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5815,8 +5815,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## White Oak Chair
@@ -5824,8 +5824,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5834,8 +5834,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## White Spruce Chair
@@ -5843,8 +5843,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5853,8 +5853,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## White Upholstered Acacia Chair
@@ -5862,8 +5862,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5872,8 +5872,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5882,8 +5882,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5892,8 +5892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5902,8 +5902,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5912,8 +5912,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5922,8 +5922,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5932,8 +5932,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5942,8 +5942,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5952,8 +5952,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5962,8 +5962,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5972,8 +5972,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5982,8 +5982,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -5992,8 +5992,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6002,8 +6002,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6012,8 +6012,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6022,8 +6022,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6032,8 +6032,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6042,8 +6042,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6052,8 +6052,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Carpet | ![white_carpet](../images/valhelsia_white_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | White Carpet | ![white_carpet](../images/valhelsia_furniture_white.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## Yellow Acacia Chair
@@ -6061,8 +6061,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6071,8 +6071,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Acacia Table | ![acacia_table](../images/valhelsia_acacia_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Acacia Table | ![acacia_table](../images/valhelsia_furniture_acacia_table.png) |
 
 ---
 ## Yellow Birch Chair
@@ -6080,8 +6080,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6090,8 +6090,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Birch Table | ![birch_table](../images/valhelsia_birch_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Birch Table | ![birch_table](../images/valhelsia_furniture_birch_table.png) |
 
 ---
 ## Yellow Crimson Chair
@@ -6099,8 +6099,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6109,8 +6109,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Crimson Table | ![crimson_table](../images/valhelsia_crimson_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Crimson Table | ![crimson_table](../images/valhelsia_furniture_black_crimson_table.png) |
 
 ---
 ## Yellow Curtain
@@ -6118,7 +6118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6127,8 +6127,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6137,8 +6137,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_dark_oak_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Dark Oak Table | ![dark_oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Yellow Fabric Desk Lamp
@@ -6146,8 +6146,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_glowstone_dust.png) |
+| # | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6156,8 +6156,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6166,8 +6166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Jungle Table | ![jungle_table](../images/valhelsia_jungle_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Jungle Table | ![jungle_table](../images/valhelsia_furniture_black_jungle_table.png) |
 
 ---
 ## Yellow Mangrove Chair
@@ -6175,8 +6175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6185,8 +6185,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Mangrove Table | ![mangrove_table](../images/valhelsia_mangrove_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Mangrove Table | ![mangrove_table](../images/valhelsia_furniture_black_mangrove_table.png) |
 
 ---
 ## Yellow Oak Chair
@@ -6194,8 +6194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6204,8 +6204,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Oak Table | ![oak_table](../images/valhelsia_oak_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Oak Table | ![oak_table](../images/valhelsia_furniture_black_dark_oak_table.png) |
 
 ---
 ## Yellow Spruce Chair
@@ -6213,8 +6213,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6223,8 +6223,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Spruce Table | ![spruce_table](../images/valhelsia_spruce_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Spruce Table | ![spruce_table](../images/valhelsia_furniture_black_spruce_table.png) |
 
 ---
 ## Yellow Upholstered Acacia Chair
@@ -6232,8 +6232,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Planks | ![acacia_planks](../images/valhelsia_acacia_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Acacia Planks | ![acacia_planks](../images/valhelsia_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6242,8 +6242,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Slab | ![acacia_slab](../images/valhelsia_acacia_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Acacia Slab | ![acacia_slab](../images/valhelsia_furniture_acacia.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6252,8 +6252,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Planks | ![birch_planks](../images/valhelsia_birch_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Birch Planks | ![birch_planks](../images/valhelsia_furniture_birch.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6262,8 +6262,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Slab | ![birch_slab](../images/valhelsia_birch_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Birch Slab | ![birch_slab](../images/valhelsia_furniture_birch.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6272,8 +6272,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Planks | ![crimson_planks](../images/valhelsia_crimson_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Crimson Planks | ![crimson_planks](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6282,8 +6282,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Slab | ![crimson_slab](../images/valhelsia_crimson_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Crimson Slab | ![crimson_slab](../images/valhelsia_furniture_black_crimson_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6292,8 +6292,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_dark_oak_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Dark Oak Planks | ![dark_oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6302,8 +6302,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_dark_oak_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Dark Oak Slab | ![dark_oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6312,8 +6312,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Planks | ![jungle_planks](../images/valhelsia_jungle_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Jungle Planks | ![jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6322,8 +6322,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Slab | ![jungle_slab](../images/valhelsia_jungle_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Jungle Slab | ![jungle_slab](../images/valhelsia_furniture_black_jungle_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6332,8 +6332,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_mangrove_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Mangrove Planks | ![mangrove_planks](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6342,8 +6342,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_mangrove_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Mangrove Slab | ![mangrove_slab](../images/valhelsia_furniture_black_mangrove_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6352,8 +6352,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Planks | ![oak_planks](../images/valhelsia_oak_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Oak Planks | ![oak_planks](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6362,8 +6362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Slab | ![oak_slab](../images/valhelsia_oak_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Oak Slab | ![oak_slab](../images/valhelsia_furniture_black_dark_oak_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6372,8 +6372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Planks | ![spruce_planks](../images/valhelsia_spruce_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Spruce Planks | ![spruce_planks](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6382,8 +6382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Slab | ![spruce_slab](../images/valhelsia_spruce_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Spruce Slab | ![spruce_slab](../images/valhelsia_furniture_black_spruce_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6392,8 +6392,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6402,8 +6402,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Slab | ![warped_slab](../images/valhelsia_warped_slab.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Warped Slab | ![warped_slab](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6412,8 +6412,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Planks | ![warped_planks](../images/valhelsia_warped_planks.png) |
-| W | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Warped Planks | ![warped_planks](../images/valhelsia_furniture_black_warped_chair.png) |
+| W | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -6422,8 +6422,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_yellow_carpet.png) |
-| X | Warped Table | ![warped_table](../images/valhelsia_warped_table.png) |
+| # | Yellow Carpet | ![yellow_carpet](../images/valhelsia_furniture_yellow.png) |
+| X | Warped Table | ![warped_table](../images/valhelsia_furniture_black_warped_table.png) |
 
 ---
 ## {}
@@ -6438,7 +6438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Terracotta | ![black_terracotta](../images/valhelsia_black_terracotta.png) |
+| # | Black Terracotta | ![black_terracotta](../images/valhelsia_furniture_black.png) |
 
 ---
 ## Big Blue Glazed Jar
@@ -6446,7 +6446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Terracotta | ![blue_terracotta](../images/valhelsia_blue_terracotta.png) |
+| # | Blue Terracotta | ![blue_terracotta](../images/valhelsia_furniture_blue.png) |
 
 ---
 ## Big Brown Glazed Jar
@@ -6454,7 +6454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Terracotta | ![brown_terracotta](../images/valhelsia_brown_terracotta.png) |
+| # | Brown Terracotta | ![brown_terracotta](../images/valhelsia_furniture_brown.png) |
 
 ---
 ## Big Cyan Glazed Jar
@@ -6462,7 +6462,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Terracotta | ![cyan_terracotta](../images/valhelsia_cyan_terracotta.png) |
+| # | Cyan Terracotta | ![cyan_terracotta](../images/valhelsia_furniture_cyan.png) |
 
 ---
 ## Big Glazed Jar
@@ -6470,7 +6470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/valhelsia_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/valhelsia_furniture_acacia.png) |
 
 ---
 ## Big Gray Glazed Jar
@@ -6478,7 +6478,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Terracotta | ![gray_terracotta](../images/valhelsia_gray_terracotta.png) |
+| # | Gray Terracotta | ![gray_terracotta](../images/valhelsia_furniture_gray.png) |
 
 ---
 ## Big Green Glazed Jar
@@ -6486,7 +6486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Terracotta | ![green_terracotta](../images/valhelsia_green_terracotta.png) |
+| # | Green Terracotta | ![green_terracotta](../images/valhelsia_furniture_green.png) |
 
 ---
 ## Big Light Blue Glazed Jar
@@ -6494,7 +6494,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Terracotta | ![light_blue_terracotta](../images/valhelsia_light_blue_terracotta.png) |
+| # | Light Blue Terracotta | ![light_blue_terracotta](../images/valhelsia_furniture_light_blue.png) |
 
 ---
 ## Big Light Gray Glazed Jar
@@ -6502,7 +6502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Terracotta | ![light_gray_terracotta](../images/valhelsia_light_gray_terracotta.png) |
+| # | Light Gray Terracotta | ![light_gray_terracotta](../images/valhelsia_furniture_light_gray.png) |
 
 ---
 ## Big Lime Glazed Jar
@@ -6510,7 +6510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Terracotta | ![lime_terracotta](../images/valhelsia_lime_terracotta.png) |
+| # | Lime Terracotta | ![lime_terracotta](../images/valhelsia_furniture_lime.png) |
 
 ---
 ## Big Magenta Glazed Jar
@@ -6518,7 +6518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Terracotta | ![magenta_terracotta](../images/valhelsia_magenta_terracotta.png) |
+| # | Magenta Terracotta | ![magenta_terracotta](../images/valhelsia_furniture_magenta.png) |
 
 ---
 ## Big Orange Glazed Jar
@@ -6526,7 +6526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Terracotta | ![orange_terracotta](../images/valhelsia_orange_terracotta.png) |
+| # | Orange Terracotta | ![orange_terracotta](../images/valhelsia_furniture_orange.png) |
 
 ---
 ## Big Pink Glazed Jar
@@ -6534,7 +6534,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Terracotta | ![pink_terracotta](../images/valhelsia_pink_terracotta.png) |
+| # | Pink Terracotta | ![pink_terracotta](../images/valhelsia_furniture_pink.png) |
 
 ---
 ## Big Purple Glazed Jar
@@ -6542,7 +6542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Terracotta | ![purple_terracotta](../images/valhelsia_purple_terracotta.png) |
+| # | Purple Terracotta | ![purple_terracotta](../images/valhelsia_furniture_purple.png) |
 
 ---
 ## Big Red Glazed Jar
@@ -6550,7 +6550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Terracotta | ![red_terracotta](../images/valhelsia_red_terracotta.png) |
+| # | Red Terracotta | ![red_terracotta](../images/valhelsia_furniture_red.png) |
 
 ---
 ## Big White Glazed Jar
@@ -6558,7 +6558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Terracotta | ![white_terracotta](../images/valhelsia_white_terracotta.png) |
+| # | White Terracotta | ![white_terracotta](../images/valhelsia_furniture_white.png) |
 
 ---
 ## Big Yellow Glazed Jar
@@ -6566,7 +6566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Terracotta | ![yellow_terracotta](../images/valhelsia_yellow_terracotta.png) |
+| # | Yellow Terracotta | ![yellow_terracotta](../images/valhelsia_furniture_yellow.png) |
 
 ---
 ## {}
@@ -6581,7 +6581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Terracotta | ![black_terracotta](../images/valhelsia_black_terracotta.png) |
+| # | Black Terracotta | ![black_terracotta](../images/valhelsia_furniture_black.png) |
 
 ---
 ## Black Metal Framed Glass
@@ -6589,7 +6589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Stained Glass | ![black_stained_glass](../images/valhelsia_black_stained_glass.png) |
+| # | Black Stained Glass | ![black_stained_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -6598,7 +6598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Black Sleeping Bag
@@ -6606,7 +6606,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Black Wool | ![black_wool](../images/valhelsia_black_wool.png) |
+| # | Black Wool | ![black_wool](../images/valhelsia_furniture_black.png) |
 
 ---
 ## Black Sleeping Bag
@@ -6614,7 +6614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Black | ![dyes/black](../images/valhelsia_dyes/black.png) |
 
 ---
@@ -6623,7 +6623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Terracotta | ![blue_terracotta](../images/valhelsia_blue_terracotta.png) |
+| # | Blue Terracotta | ![blue_terracotta](../images/valhelsia_furniture_blue.png) |
 
 ---
 ## Blue Metal Framed Glass
@@ -6631,7 +6631,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Stained Glass | ![blue_stained_glass](../images/valhelsia_blue_stained_glass.png) |
+| # | Blue Stained Glass | ![blue_stained_glass](../images/valhelsia_structures_blue_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -6640,7 +6640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Blue Sleeping Bag
@@ -6648,7 +6648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blue Wool | ![blue_wool](../images/valhelsia_blue_wool.png) |
+| # | Blue Wool | ![blue_wool](../images/valhelsia_furniture_blue.png) |
 
 ---
 ## Blue Sleeping Bag
@@ -6656,7 +6656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Blue | ![dyes/blue](../images/valhelsia_dyes/blue.png) |
 
 ---
@@ -6665,7 +6665,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bone Pile Block | ![bone_pile_block](../images/valhelsia_bone_pile_block.png) |
+| - | Bone Pile Block | ![bone_pile_block](../images/valhelsia_structures_bone_pile_block.png) |
 
 ---
 ## Bone Pile
@@ -6673,7 +6673,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bone | ![bone](../images/valhelsia_bone.png) |
+| # | Bone | ![bone](../images/valhelsia_structures_bone_pile.png) |
 
 ---
 ## Bone Pile Block
@@ -6681,7 +6681,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bone | ![bone](../images/valhelsia_bone.png) |
+| # | Bone | ![bone](../images/valhelsia_structures_bone_pile.png) |
 
 ---
 ## Bone Pile Block
@@ -6689,7 +6689,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bone Pile | ![bone_pile](../images/valhelsia_bone_pile.png) |
+| # | Bone Pile | ![bone_pile](../images/valhelsia_structures_bone_pile.png) |
 
 ---
 ## Brazier
@@ -6698,8 +6698,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
-| * | Iron Bars | ![iron_bars](../images/valhelsia_iron_bars.png) |
-| X | Coals | ![coals](../images/valhelsia_coals.png) |
+| * | Iron Bars | ![iron_bars](../images/valhelsia_furniture_acacia.png) |
+| X | Coals | ![coals](../images/valhelsia_furniture_acacia.png) |
 
 ---
 ## Brown Glazed Jar
@@ -6707,7 +6707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Terracotta | ![brown_terracotta](../images/valhelsia_brown_terracotta.png) |
+| # | Brown Terracotta | ![brown_terracotta](../images/valhelsia_furniture_brown.png) |
 
 ---
 ## Brown Metal Framed Glass
@@ -6715,7 +6715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Stained Glass | ![brown_stained_glass](../images/valhelsia_brown_stained_glass.png) |
+| # | Brown Stained Glass | ![brown_stained_glass](../images/valhelsia_structures_brown_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -6724,7 +6724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Brown Sleeping Bag
@@ -6732,7 +6732,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Brown Wool | ![brown_wool](../images/valhelsia_brown_wool.png) |
+| # | Brown Wool | ![brown_wool](../images/valhelsia_furniture_brown.png) |
 
 ---
 ## Brown Sleeping Bag
@@ -6740,7 +6740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Brown | ![dyes/brown](../images/valhelsia_dyes/brown.png) |
 
 ---
@@ -6749,7 +6749,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Acacia Post | ![acacia_post](../images/valhelsia_acacia_post.png) |
+| # | Acacia Post | ![acacia_post](../images/valhelsia_structures_acacia_post.png) |
 
 ---
 ## Bundled Birch Posts
@@ -6757,7 +6757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Birch Post | ![birch_post](../images/valhelsia_birch_post.png) |
+| # | Birch Post | ![birch_post](../images/valhelsia_structures_birch_post.png) |
 
 ---
 ## Bundled Crimson Posts
@@ -6765,7 +6765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crimson Post | ![crimson_post](../images/valhelsia_crimson_post.png) |
+| # | Crimson Post | ![crimson_post](../images/valhelsia_structures_crimson_post.png) |
 
 ---
 ## Bundled Dark Oak Posts
@@ -6773,7 +6773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dark Oak Post | ![dark_oak_post](../images/valhelsia_dark_oak_post.png) |
+| # | Dark Oak Post | ![dark_oak_post](../images/valhelsia_structures_dark_oak_post.png) |
 
 ---
 ## Bundled Jungle Posts
@@ -6781,7 +6781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Post | ![jungle_post](../images/valhelsia_jungle_post.png) |
+| # | Jungle Post | ![jungle_post](../images/valhelsia_structures_jungle_post.png) |
 
 ---
 ## Bundled Oak Posts
@@ -6789,7 +6789,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Oak Post | ![oak_post](../images/valhelsia_oak_post.png) |
+| # | Oak Post | ![oak_post](../images/valhelsia_structures_dark_oak_post.png) |
 
 ---
 ## Bundled Spruce Posts
@@ -6797,7 +6797,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Spruce Post | ![spruce_post](../images/valhelsia_spruce_post.png) |
+| # | Spruce Post | ![spruce_post](../images/valhelsia_structures_spruce_post.png) |
 
 ---
 ## Bundled Stripped Acacia Posts
@@ -6805,7 +6805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Acacia Post | ![stripped_acacia_post](../images/valhelsia_stripped_acacia_post.png) |
+| # | Stripped Acacia Post | ![stripped_acacia_post](../images/valhelsia_structures_stripped_acacia_post.png) |
 
 ---
 ## Bundled Stripped Birch Posts
@@ -6813,7 +6813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Birch Post | ![stripped_birch_post](../images/valhelsia_stripped_birch_post.png) |
+| # | Stripped Birch Post | ![stripped_birch_post](../images/valhelsia_structures_stripped_birch_post.png) |
 
 ---
 ## Bundled Stripped Crimson Posts
@@ -6821,7 +6821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Crimson Post | ![stripped_crimson_post](../images/valhelsia_stripped_crimson_post.png) |
+| # | Stripped Crimson Post | ![stripped_crimson_post](../images/valhelsia_structures_stripped_crimson_post.png) |
 
 ---
 ## Bundled Stripped Dark Oak Posts
@@ -6829,7 +6829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Dark Oak Post | ![stripped_dark_oak_post](../images/valhelsia_stripped_dark_oak_post.png) |
+| # | Stripped Dark Oak Post | ![stripped_dark_oak_post](../images/valhelsia_structures_stripped_dark_oak_post.png) |
 
 ---
 ## Bundled Stripped Jungle Posts
@@ -6837,7 +6837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Jungle Post | ![stripped_jungle_post](../images/valhelsia_stripped_jungle_post.png) |
+| # | Stripped Jungle Post | ![stripped_jungle_post](../images/valhelsia_structures_stripped_jungle_post.png) |
 
 ---
 ## Bundled Stripped Oak Posts
@@ -6845,7 +6845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Oak Post | ![stripped_oak_post](../images/valhelsia_stripped_oak_post.png) |
+| # | Stripped Oak Post | ![stripped_oak_post](../images/valhelsia_structures_stripped_dark_oak_post.png) |
 
 ---
 ## Bundled Stripped Spruce Posts
@@ -6853,7 +6853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Spruce Post | ![stripped_spruce_post](../images/valhelsia_stripped_spruce_post.png) |
+| # | Stripped Spruce Post | ![stripped_spruce_post](../images/valhelsia_structures_stripped_spruce_post.png) |
 
 ---
 ## Bundled Stripped Warped Posts
@@ -6861,7 +6861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stripped Warped Post | ![stripped_warped_post](../images/valhelsia_stripped_warped_post.png) |
+| # | Stripped Warped Post | ![stripped_warped_post](../images/valhelsia_structures_stripped_warped_post.png) |
 
 ---
 ## Bundled Warped Posts
@@ -6869,7 +6869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Warped Post | ![warped_post](../images/valhelsia_warped_post.png) |
+| # | Warped Post | ![warped_post](../images/valhelsia_structures_stripped_warped_post.png) |
 
 ---
 ## Cracked Big Glazed Jar
@@ -6877,7 +6877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Big Glazed Jar | ![big_glazed_jar](../images/valhelsia_big_glazed_jar.png) |
+| item | Big Glazed Jar | ![big_glazed_jar](../images/valhelsia_structures_big_black_glazed_jar.png) |
 
 ---
 ## Cracked Glazed Jar
@@ -6885,7 +6885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glazed Jar | ![glazed_jar](../images/valhelsia_glazed_jar.png) |
+| item | Glazed Jar | ![glazed_jar](../images/valhelsia_structures_big_black_glazed_jar.png) |
 
 ---
 ## {}
@@ -7026,7 +7026,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Terracotta | ![cyan_terracotta](../images/valhelsia_cyan_terracotta.png) |
+| # | Cyan Terracotta | ![cyan_terracotta](../images/valhelsia_furniture_cyan.png) |
 
 ---
 ## Cyan Metal Framed Glass
@@ -7034,7 +7034,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Stained Glass | ![cyan_stained_glass](../images/valhelsia_cyan_stained_glass.png) |
+| # | Cyan Stained Glass | ![cyan_stained_glass](../images/valhelsia_structures_cyan_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7043,7 +7043,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Cyan Sleeping Bag
@@ -7051,7 +7051,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Cyan Wool | ![cyan_wool](../images/valhelsia_cyan_wool.png) |
+| # | Cyan Wool | ![cyan_wool](../images/valhelsia_furniture_cyan.png) |
 
 ---
 ## Cyan Sleeping Bag
@@ -7059,7 +7059,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Cyan | ![dyes/cyan](../images/valhelsia_dyes/cyan.png) |
 
 ---
@@ -7075,7 +7075,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Leather | ![leather](../images/valhelsia_leather.png) |
+| # | Leather | ![leather](../images/valhelsia_furniture_acacia.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -7084,7 +7084,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Terracotta | ![terracotta](../images/valhelsia_terracotta.png) |
+| # | Terracotta | ![terracotta](../images/valhelsia_furniture_acacia.png) |
 
 ---
 ## Gray Glazed Jar
@@ -7092,7 +7092,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Terracotta | ![gray_terracotta](../images/valhelsia_gray_terracotta.png) |
+| # | Gray Terracotta | ![gray_terracotta](../images/valhelsia_furniture_gray.png) |
 
 ---
 ## Gray Metal Framed Glass
@@ -7100,7 +7100,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Stained Glass | ![gray_stained_glass](../images/valhelsia_gray_stained_glass.png) |
+| # | Gray Stained Glass | ![gray_stained_glass](../images/valhelsia_structures_gray_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7109,7 +7109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Gray Sleeping Bag
@@ -7117,7 +7117,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Gray Wool | ![gray_wool](../images/valhelsia_gray_wool.png) |
+| # | Gray Wool | ![gray_wool](../images/valhelsia_furniture_gray.png) |
 
 ---
 ## Gray Sleeping Bag
@@ -7125,7 +7125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Gray | ![dyes/gray](../images/valhelsia_dyes/gray.png) |
 
 ---
@@ -7134,7 +7134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Terracotta | ![green_terracotta](../images/valhelsia_green_terracotta.png) |
+| # | Green Terracotta | ![green_terracotta](../images/valhelsia_furniture_green.png) |
 
 ---
 ## Green Metal Framed Glass
@@ -7142,7 +7142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Stained Glass | ![green_stained_glass](../images/valhelsia_green_stained_glass.png) |
+| # | Green Stained Glass | ![green_stained_glass](../images/valhelsia_structures_green_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7151,7 +7151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Green Sleeping Bag
@@ -7159,7 +7159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Green Wool | ![green_wool](../images/valhelsia_green_wool.png) |
+| # | Green Wool | ![green_wool](../images/valhelsia_furniture_green.png) |
 
 ---
 ## Green Sleeping Bag
@@ -7167,7 +7167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Green | ![dyes/green](../images/valhelsia_dyes/green.png) |
 
 ---
@@ -7183,7 +7183,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_lapidified_jungle_planks.png) |
+| - | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 
 ---
 ## Lapidified Jungle Fence
@@ -7191,7 +7191,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_lapidified_jungle_planks.png) |
+| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 | X | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
 
 ---
@@ -7201,7 +7201,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/valhelsia_rods/wooden.png) |
-| X | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_lapidified_jungle_planks.png) |
+| X | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 
 ---
 ## Lapidified Jungle Log
@@ -7209,8 +7209,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Jungle Log | ![jungle_log](../images/valhelsia_jungle_log.png) |
-| X | Vine | ![vine](../images/valhelsia_vine.png) |
+| # | Jungle Log | ![jungle_log](../images/valhelsia_structures_lapidified_jungle_log.png) |
+| X | Vine | ![vine](../images/valhelsia_furniture_acacia.png) |
 
 ---
 ## Lapidified Jungle Planks
@@ -7218,7 +7218,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lapidified Jungle Logs | ![lapidified_jungle_logs](../images/valhelsia_lapidified_jungle_logs.png) |
+| - | Lapidified Jungle Logs | ![lapidified_jungle_logs](../images/valhelsia_structures_lapidified_jungle_log.png) |
 
 ---
 ## {}
@@ -7233,7 +7233,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_lapidified_jungle_planks.png) |
+| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 
 ---
 ## Lapidified Jungle Slab
@@ -7241,7 +7241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_lapidified_jungle_planks.png) |
+| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 
 ---
 ## Lapidified Jungle Stairs
@@ -7249,7 +7249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_lapidified_jungle_planks.png) |
+| # | Lapidified Jungle Planks | ![lapidified_jungle_planks](../images/valhelsia_structures_lapidified_jungle_planks.png) |
 
 ---
 ## Lapidified Jungle Wood
@@ -7257,7 +7257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lapidified Jungle Log | ![lapidified_jungle_log](../images/valhelsia_lapidified_jungle_log.png) |
+| # | Lapidified Jungle Log | ![lapidified_jungle_log](../images/valhelsia_structures_lapidified_jungle_log.png) |
 
 ---
 ## Light Blue Glazed Jar
@@ -7265,7 +7265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Terracotta | ![light_blue_terracotta](../images/valhelsia_light_blue_terracotta.png) |
+| # | Light Blue Terracotta | ![light_blue_terracotta](../images/valhelsia_furniture_light_blue.png) |
 
 ---
 ## Light Blue Metal Framed Glass
@@ -7273,7 +7273,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Stained Glass | ![light_blue_stained_glass](../images/valhelsia_light_blue_stained_glass.png) |
+| # | Light Blue Stained Glass | ![light_blue_stained_glass](../images/valhelsia_structures_light_blue_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7282,7 +7282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Light Blue Sleeping Bag
@@ -7290,7 +7290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Blue Wool | ![light_blue_wool](../images/valhelsia_light_blue_wool.png) |
+| # | Light Blue Wool | ![light_blue_wool](../images/valhelsia_furniture_light_blue.png) |
 
 ---
 ## Light Blue Sleeping Bag
@@ -7298,7 +7298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Light Blue | ![dyes/light_blue](../images/valhelsia_dyes/light_blue.png) |
 
 ---
@@ -7307,7 +7307,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Terracotta | ![light_gray_terracotta](../images/valhelsia_light_gray_terracotta.png) |
+| # | Light Gray Terracotta | ![light_gray_terracotta](../images/valhelsia_furniture_light_gray.png) |
 
 ---
 ## Light Gray Metal Framed Glass
@@ -7315,7 +7315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Stained Glass | ![light_gray_stained_glass](../images/valhelsia_light_gray_stained_glass.png) |
+| # | Light Gray Stained Glass | ![light_gray_stained_glass](../images/valhelsia_structures_light_gray_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7324,7 +7324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Light Gray Sleeping Bag
@@ -7332,7 +7332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Light Gray Wool | ![light_gray_wool](../images/valhelsia_light_gray_wool.png) |
+| # | Light Gray Wool | ![light_gray_wool](../images/valhelsia_furniture_light_gray.png) |
 
 ---
 ## Light Gray Sleeping Bag
@@ -7340,7 +7340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Light Gray | ![dyes/light_gray](../images/valhelsia_dyes/light_gray.png) |
 
 ---
@@ -7349,7 +7349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Terracotta | ![lime_terracotta](../images/valhelsia_lime_terracotta.png) |
+| # | Lime Terracotta | ![lime_terracotta](../images/valhelsia_furniture_lime.png) |
 
 ---
 ## Lime Metal Framed Glass
@@ -7357,7 +7357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Stained Glass | ![lime_stained_glass](../images/valhelsia_lime_stained_glass.png) |
+| # | Lime Stained Glass | ![lime_stained_glass](../images/valhelsia_structures_lime_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7366,7 +7366,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Lime Sleeping Bag
@@ -7374,7 +7374,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lime Wool | ![lime_wool](../images/valhelsia_lime_wool.png) |
+| # | Lime Wool | ![lime_wool](../images/valhelsia_furniture_lime.png) |
 
 ---
 ## Lime Sleeping Bag
@@ -7382,7 +7382,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Lime | ![dyes/lime](../images/valhelsia_dyes/lime.png) |
 
 ---
@@ -7391,7 +7391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Terracotta | ![magenta_terracotta](../images/valhelsia_magenta_terracotta.png) |
+| # | Magenta Terracotta | ![magenta_terracotta](../images/valhelsia_furniture_magenta.png) |
 
 ---
 ## Magenta Metal Framed Glass
@@ -7399,7 +7399,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Stained Glass | ![magenta_stained_glass](../images/valhelsia_magenta_stained_glass.png) |
+| # | Magenta Stained Glass | ![magenta_stained_glass](../images/valhelsia_structures_magenta_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7408,7 +7408,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Magenta Sleeping Bag
@@ -7416,7 +7416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Magenta Wool | ![magenta_wool](../images/valhelsia_magenta_wool.png) |
+| # | Magenta Wool | ![magenta_wool](../images/valhelsia_furniture_magenta.png) |
 
 ---
 ## Magenta Sleeping Bag
@@ -7424,7 +7424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Magenta | ![dyes/magenta](../images/valhelsia_dyes/magenta.png) |
 
 ---
@@ -7442,7 +7442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## {}
@@ -7457,7 +7457,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Terracotta | ![orange_terracotta](../images/valhelsia_orange_terracotta.png) |
+| # | Orange Terracotta | ![orange_terracotta](../images/valhelsia_furniture_orange.png) |
 
 ---
 ## Orange Metal Framed Glass
@@ -7465,7 +7465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Stained Glass | ![orange_stained_glass](../images/valhelsia_orange_stained_glass.png) |
+| # | Orange Stained Glass | ![orange_stained_glass](../images/valhelsia_structures_orange_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7474,7 +7474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Orange Sleeping Bag
@@ -7482,7 +7482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Orange Wool | ![orange_wool](../images/valhelsia_orange_wool.png) |
+| # | Orange Wool | ![orange_wool](../images/valhelsia_furniture_orange.png) |
 
 ---
 ## Orange Sleeping Bag
@@ -7490,7 +7490,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Orange | ![dyes/orange](../images/valhelsia_dyes/orange.png) |
 
 ---
@@ -7499,8 +7499,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Bamboo | ![bamboo](../images/valhelsia_bamboo.png) |
-| X | Paper | ![paper](../images/valhelsia_paper.png) |
+| # | Bamboo | ![bamboo](../images/valhelsia_furniture_acacia.png) |
+| X | Paper | ![paper](../images/valhelsia_structures_paper_wall.png) |
 
 ---
 ## Pink Glazed Jar
@@ -7508,7 +7508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Terracotta | ![pink_terracotta](../images/valhelsia_pink_terracotta.png) |
+| # | Pink Terracotta | ![pink_terracotta](../images/valhelsia_furniture_pink.png) |
 
 ---
 ## Pink Metal Framed Glass
@@ -7516,7 +7516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Stained Glass | ![pink_stained_glass](../images/valhelsia_pink_stained_glass.png) |
+| # | Pink Stained Glass | ![pink_stained_glass](../images/valhelsia_structures_pink_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7525,7 +7525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Pink Sleeping Bag
@@ -7533,7 +7533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Pink Wool | ![pink_wool](../images/valhelsia_pink_wool.png) |
+| # | Pink Wool | ![pink_wool](../images/valhelsia_furniture_pink.png) |
 
 ---
 ## Pink Sleeping Bag
@@ -7541,7 +7541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Pink | ![dyes/pink](../images/valhelsia_dyes/pink.png) |
 
 ---
@@ -7550,7 +7550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Terracotta | ![purple_terracotta](../images/valhelsia_purple_terracotta.png) |
+| # | Purple Terracotta | ![purple_terracotta](../images/valhelsia_furniture_purple.png) |
 
 ---
 ## Purple Metal Framed Glass
@@ -7558,7 +7558,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Stained Glass | ![purple_stained_glass](../images/valhelsia_purple_stained_glass.png) |
+| # | Purple Stained Glass | ![purple_stained_glass](../images/valhelsia_structures_purple_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7567,7 +7567,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Purple Sleeping Bag
@@ -7575,7 +7575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purple Wool | ![purple_wool](../images/valhelsia_purple_wool.png) |
+| # | Purple Wool | ![purple_wool](../images/valhelsia_furniture_purple.png) |
 
 ---
 ## Purple Sleeping Bag
@@ -7583,7 +7583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Purple | ![dyes/purple](../images/valhelsia_dyes/purple.png) |
 
 ---
@@ -7592,7 +7592,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Terracotta | ![red_terracotta](../images/valhelsia_red_terracotta.png) |
+| # | Red Terracotta | ![red_terracotta](../images/valhelsia_furniture_red.png) |
 
 ---
 ## Red Metal Framed Glass
@@ -7600,7 +7600,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Stained Glass | ![red_stained_glass](../images/valhelsia_red_stained_glass.png) |
+| # | Red Stained Glass | ![red_stained_glass](../images/valhelsia_structures_red_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7609,7 +7609,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Red Sleeping Bag
@@ -7617,7 +7617,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Red Wool | ![red_wool](../images/valhelsia_red_wool.png) |
+| # | Red Wool | ![red_wool](../images/valhelsia_furniture_red.png) |
 
 ---
 ## Red Sleeping Bag
@@ -7625,7 +7625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Red | ![dyes/red](../images/valhelsia_dyes/red.png) |
 
 ---
@@ -7635,8 +7635,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
-| * | Iron Bars | ![iron_bars](../images/valhelsia_iron_bars.png) |
-| X | Soul Fire Base Blocks | ![soul_fire_base_blocks](../images/valhelsia_soul_fire_base_blocks.png) |
+| * | Iron Bars | ![iron_bars](../images/valhelsia_furniture_acacia.png) |
+| X | Soul Fire Base Blocks | ![soul_fire_base_blocks](../images/valhelsia_structures_soul_brazier_fire.png) |
 
 ---
 ## {}
@@ -7721,7 +7721,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Terracotta | ![white_terracotta](../images/valhelsia_white_terracotta.png) |
+| # | White Terracotta | ![white_terracotta](../images/valhelsia_furniture_white.png) |
 
 ---
 ## White Metal Framed Glass
@@ -7729,7 +7729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Stained Glass | ![white_stained_glass](../images/valhelsia_white_stained_glass.png) |
+| # | White Stained Glass | ![white_stained_glass](../images/valhelsia_structures_white_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7738,7 +7738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## White Sleeping Bag
@@ -7746,7 +7746,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | White Wool | ![white_wool](../images/valhelsia_white_wool.png) |
+| # | White Wool | ![white_wool](../images/valhelsia_furniture_white.png) |
 
 ---
 ## Yellow Glazed Jar
@@ -7754,7 +7754,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Terracotta | ![yellow_terracotta](../images/valhelsia_yellow_terracotta.png) |
+| # | Yellow Terracotta | ![yellow_terracotta](../images/valhelsia_furniture_yellow.png) |
 
 ---
 ## Yellow Metal Framed Glass
@@ -7762,7 +7762,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Stained Glass | ![yellow_stained_glass](../images/valhelsia_yellow_stained_glass.png) |
+| # | Yellow Stained Glass | ![yellow_stained_glass](../images/valhelsia_structures_yellow_metal_framed_glass.png) |
 | X | Ingots/Iron | ![ingots/iron](../images/valhelsia_ingots/iron.png) |
 
 ---
@@ -7771,7 +7771,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_metal_framed_glass.png) |
+| # | Metal Framed Glass | ![metal_framed_glass](../images/valhelsia_structures_black_metal_framed_glass.png) |
 
 ---
 ## Yellow Sleeping Bag
@@ -7779,7 +7779,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Yellow Wool | ![yellow_wool](../images/valhelsia_yellow_wool.png) |
+| # | Yellow Wool | ![yellow_wool](../images/valhelsia_furniture_yellow.png) |
 
 ---
 ## Yellow Sleeping Bag
@@ -7787,7 +7787,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_white_sleeping_bag.png) |
+| - | White Sleeping Bag | ![white_sleeping_bag](../images/valhelsia_structures_white_sleeping_bag.png) |
 | - | Dyes/Yellow | ![dyes/yellow](../images/valhelsia_dyes/yellow.png) |
 
 ---

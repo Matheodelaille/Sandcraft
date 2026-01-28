@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Acacia Fence | ![acacia_fence](../images/mcwbridges_acacia_fence.png) |
-| W | Acacia Log | ![acacia_log](../images/mcwbridges_acacia_log.png) |
+| F | Acacia Fence | ![acacia_fence](../images/mcwbridges_bridge_1.png) |
+| W | Acacia Log | ![acacia_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Acacia Log Bridge Middle
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Acacia Fence | ![acacia_fence](../images/mcwbridges_acacia_fence.png) |
-| W | Acacia Slab | ![acacia_slab](../images/mcwbridges_acacia_slab.png) |
+| F | Acacia Fence | ![acacia_fence](../images/mcwbridges_bridge_1.png) |
+| W | Acacia Slab | ![acacia_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Acacia Log Bridge Stair
@@ -25,7 +25,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Acacia Log Bridge Middle | ![acacia_log_bridge_middle](../images/mcwbridges_acacia_log_bridge_middle.png) |
+| F | Acacia Log Bridge Middle | ![acacia_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Acacia Log Bridge Middle
@@ -33,7 +33,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Log Bridge Stair | ![acacia_log_bridge_stair](../images/mcwbridges_acacia_log_bridge_stair.png) |
+| - | Acacia Log Bridge Stair | ![acacia_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Acacia Rail Bridge
@@ -41,8 +41,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Acacia Fence | ![acacia_fence](../images/mcwbridges_acacia_fence.png) |
-| W | Acacia Slab | ![acacia_slab](../images/mcwbridges_acacia_slab.png) |
+| F | Acacia Fence | ![acacia_fence](../images/mcwbridges_bridge_1.png) |
+| W | Acacia Slab | ![acacia_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Acacia Rope Bridge Stair
@@ -50,7 +50,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Acacia Bridge | ![rope_acacia_bridge](../images/mcwbridges_rope_acacia_bridge.png) |
+| F | Rope Acacia Bridge | ![rope_acacia_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Acacia Bridge
@@ -58,7 +58,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Acacia Rope Bridge Stair | ![acacia_rope_bridge_stair](../images/mcwbridges_acacia_rope_bridge_stair.png) |
+| - | Acacia Rope Bridge Stair | ![acacia_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Bamboo Bridge
@@ -66,8 +66,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Bamboo | ![bamboo](../images/mcwbridges_bamboo.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Bamboo | ![bamboo](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Bamboo Bridge Pier
@@ -75,8 +75,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Bamboo | ![bamboo](../images/mcwbridges_bamboo.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Bamboo | ![bamboo](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Bamboo Bridge Stair
@@ -84,7 +84,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Bamboo Bridge | ![bamboo_bridge](../images/mcwbridges_bamboo_bridge.png) |
+| F | Bamboo Bridge | ![bamboo_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Bamboo Bridge
@@ -92,7 +92,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bamboo Bridge Stair | ![bamboo_bridge_stair](../images/mcwbridges_bamboo_bridge_stair.png) |
+| - | Bamboo Bridge Stair | ![bamboo_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Birch Bridge Pier
@@ -100,8 +100,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Birch Fence | ![birch_fence](../images/mcwbridges_birch_fence.png) |
-| W | Birch Log | ![birch_log](../images/mcwbridges_birch_log.png) |
+| F | Birch Fence | ![birch_fence](../images/mcwbridges_bridge_1.png) |
+| W | Birch Log | ![birch_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Birch Log Bridge Middle
@@ -109,8 +109,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Birch Fence | ![birch_fence](../images/mcwbridges_birch_fence.png) |
-| W | Birch Slab | ![birch_slab](../images/mcwbridges_birch_slab.png) |
+| F | Birch Fence | ![birch_fence](../images/mcwbridges_bridge_1.png) |
+| W | Birch Slab | ![birch_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Birch Log Bridge Stair
@@ -118,7 +118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Birch Log Bridge Middle | ![birch_log_bridge_middle](../images/mcwbridges_birch_log_bridge_middle.png) |
+| F | Birch Log Bridge Middle | ![birch_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Birch Log Bridge Middle
@@ -126,7 +126,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Log Bridge Stair | ![birch_log_bridge_stair](../images/mcwbridges_birch_log_bridge_stair.png) |
+| - | Birch Log Bridge Stair | ![birch_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Birch Rail Bridge
@@ -134,8 +134,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Birch Fence | ![birch_fence](../images/mcwbridges_birch_fence.png) |
-| W | Birch Slab | ![birch_slab](../images/mcwbridges_birch_slab.png) |
+| F | Birch Fence | ![birch_fence](../images/mcwbridges_bridge_1.png) |
+| W | Birch Slab | ![birch_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Birch Rope Bridge Stair
@@ -143,7 +143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Birch Bridge | ![rope_birch_bridge](../images/mcwbridges_rope_birch_bridge.png) |
+| F | Rope Birch Bridge | ![rope_birch_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Birch Bridge
@@ -151,7 +151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Birch Rope Bridge Stair | ![birch_rope_bridge_stair](../images/mcwbridges_birch_rope_bridge_stair.png) |
+| - | Birch Rope Bridge Stair | ![birch_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Blackstone Bridge
@@ -159,8 +159,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Blackstone Wall | ![blackstone_wall](../images/mcwbridges_blackstone_wall.png) |
-| W | Blackstone Slab | ![blackstone_slab](../images/mcwbridges_blackstone_slab.png) |
+| F | Blackstone Wall | ![blackstone_wall](../images/mcwbridges_bridge_1.png) |
+| W | Blackstone Slab | ![blackstone_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Blackstone Bridge Pier
@@ -168,8 +168,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Blackstone Wall | ![blackstone_wall](../images/mcwbridges_blackstone_wall.png) |
-| W | Blackstone | ![blackstone](../images/mcwbridges_blackstone.png) |
+| F | Blackstone Wall | ![blackstone_wall](../images/mcwbridges_bridge_1.png) |
+| W | Blackstone | ![blackstone](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Blackstone Bridge Stair
@@ -177,7 +177,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Blackstone Bridge | ![blackstone_bridge](../images/mcwbridges_blackstone_bridge.png) |
+| F | Blackstone Bridge | ![blackstone_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Blackstone Bridge
@@ -185,7 +185,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blackstone Bridge Stair | ![blackstone_bridge_stair](../images/mcwbridges_blackstone_bridge_stair.png) |
+| - | Blackstone Bridge Stair | ![blackstone_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Brick Bridge
@@ -193,8 +193,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Brick Wall | ![brick_wall](../images/mcwbridges_brick_wall.png) |
-| W | Brick Slab | ![brick_slab](../images/mcwbridges_brick_slab.png) |
+| F | Brick Wall | ![brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Brick Slab | ![brick_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Brick Bridge Pier
@@ -202,8 +202,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Brick Wall | ![brick_wall](../images/mcwbridges_brick_wall.png) |
-| W | Bricks | ![bricks](../images/mcwbridges_bricks.png) |
+| F | Brick Wall | ![brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Bricks | ![bricks](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Brick Bridge Stair
@@ -211,7 +211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Brick Bridge | ![brick_bridge](../images/mcwbridges_brick_bridge.png) |
+| F | Brick Bridge | ![brick_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Brick Bridge
@@ -219,7 +219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brick Bridge Stair | ![brick_bridge_stair](../images/mcwbridges_brick_bridge_stair.png) |
+| - | Brick Bridge Stair | ![brick_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Crimson Bridge Pier
@@ -227,8 +227,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Crimson Fence | ![crimson_fence](../images/mcwbridges_crimson_fence.png) |
-| W | Crimson Stem | ![crimson_stem](../images/mcwbridges_crimson_stem.png) |
+| F | Crimson Fence | ![crimson_fence](../images/mcwbridges_bridge_1.png) |
+| W | Crimson Stem | ![crimson_stem](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Crimson Log Bridge Middle
@@ -236,8 +236,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Crimson Fence | ![crimson_fence](../images/mcwbridges_crimson_fence.png) |
-| W | Crimson Slab | ![crimson_slab](../images/mcwbridges_crimson_slab.png) |
+| F | Crimson Fence | ![crimson_fence](../images/mcwbridges_bridge_1.png) |
+| W | Crimson Slab | ![crimson_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Crimson Log Bridge Stair
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Crimson Log Bridge Middle | ![crimson_log_bridge_middle](../images/mcwbridges_crimson_log_bridge_middle.png) |
+| F | Crimson Log Bridge Middle | ![crimson_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Crimson Log Bridge Middle
@@ -253,7 +253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Log Bridge Stair | ![crimson_log_bridge_stair](../images/mcwbridges_crimson_log_bridge_stair.png) |
+| - | Crimson Log Bridge Stair | ![crimson_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Crimson Rail Bridge
@@ -261,8 +261,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Crimson Fence | ![crimson_fence](../images/mcwbridges_crimson_fence.png) |
-| W | Crimson Slab | ![crimson_slab](../images/mcwbridges_crimson_slab.png) |
+| F | Crimson Fence | ![crimson_fence](../images/mcwbridges_bridge_1.png) |
+| W | Crimson Slab | ![crimson_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Crimson Rope Bridge Stair
@@ -270,7 +270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Crimson Bridge | ![rope_crimson_bridge](../images/mcwbridges_rope_crimson_bridge.png) |
+| F | Rope Crimson Bridge | ![rope_crimson_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Crimson Bridge
@@ -278,7 +278,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crimson Rope Bridge Stair | ![crimson_rope_bridge_stair](../images/mcwbridges_crimson_rope_bridge_stair.png) |
+| - | Crimson Rope Bridge Stair | ![crimson_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dark Oak Bridge Pier
@@ -286,8 +286,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Dark Oak Fence | ![dark_oak_fence](../images/mcwbridges_dark_oak_fence.png) |
-| W | Dark Oak Log | ![dark_oak_log](../images/mcwbridges_dark_oak_log.png) |
+| F | Dark Oak Fence | ![dark_oak_fence](../images/mcwbridges_bridge_1.png) |
+| W | Dark Oak Log | ![dark_oak_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dark Oak Log Bridge Middle
@@ -295,8 +295,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Dark Oak Fence | ![dark_oak_fence](../images/mcwbridges_dark_oak_fence.png) |
-| W | Dark Oak Slab | ![dark_oak_slab](../images/mcwbridges_dark_oak_slab.png) |
+| F | Dark Oak Fence | ![dark_oak_fence](../images/mcwbridges_bridge_1.png) |
+| W | Dark Oak Slab | ![dark_oak_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dark Oak Log Bridge Stair
@@ -304,7 +304,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Dark Oak Log Bridge Middle | ![dark_oak_log_bridge_middle](../images/mcwbridges_dark_oak_log_bridge_middle.png) |
+| F | Dark Oak Log Bridge Middle | ![dark_oak_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dark Oak Log Bridge Middle
@@ -312,7 +312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Log Bridge Stair | ![dark_oak_log_bridge_stair](../images/mcwbridges_dark_oak_log_bridge_stair.png) |
+| - | Dark Oak Log Bridge Stair | ![dark_oak_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dark Oak Rail Bridge
@@ -320,8 +320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Dark Oak Fence | ![dark_oak_fence](../images/mcwbridges_dark_oak_fence.png) |
-| W | Dark Oak Slab | ![dark_oak_slab](../images/mcwbridges_dark_oak_slab.png) |
+| F | Dark Oak Fence | ![dark_oak_fence](../images/mcwbridges_bridge_1.png) |
+| W | Dark Oak Slab | ![dark_oak_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dark Oak Rope Bridge Stair
@@ -329,7 +329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Dark Oak Bridge | ![rope_dark_oak_bridge](../images/mcwbridges_rope_dark_oak_bridge.png) |
+| F | Rope Dark Oak Bridge | ![rope_dark_oak_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Dark Oak Bridge
@@ -337,7 +337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dark Oak Rope Bridge Stair | ![dark_oak_rope_bridge_stair](../images/mcwbridges_dark_oak_rope_bridge_stair.png) |
+| - | Dark Oak Rope Bridge Stair | ![dark_oak_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Brick Bridge
@@ -345,8 +345,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Deepslate Brick Wall | ![deepslate_brick_wall](../images/mcwbridges_deepslate_brick_wall.png) |
-| W | Deepslate Brick Slab | ![deepslate_brick_slab](../images/mcwbridges_deepslate_brick_slab.png) |
+| F | Deepslate Brick Wall | ![deepslate_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Deepslate Brick Slab | ![deepslate_brick_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Brick Bridge Pier
@@ -354,8 +354,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Deepslate Brick Wall | ![deepslate_brick_wall](../images/mcwbridges_deepslate_brick_wall.png) |
-| W | Deepslate Bricks | ![deepslate_bricks](../images/mcwbridges_deepslate_bricks.png) |
+| F | Deepslate Brick Wall | ![deepslate_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Deepslate Bricks | ![deepslate_bricks](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Brick Bridge Stair
@@ -363,7 +363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Deepslate Brick Bridge | ![deepslate_brick_bridge](../images/mcwbridges_deepslate_brick_bridge.png) |
+| F | Deepslate Brick Bridge | ![deepslate_brick_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Brick Bridge
@@ -371,7 +371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Brick Bridge Stair | ![deepslate_brick_bridge_stair](../images/mcwbridges_deepslate_brick_bridge_stair.png) |
+| - | Deepslate Brick Bridge Stair | ![deepslate_brick_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Tile Bridge
@@ -379,8 +379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Deepslate Tile Wall | ![deepslate_tile_wall](../images/mcwbridges_deepslate_tile_wall.png) |
-| W | Deepslate Tile Slab | ![deepslate_tile_slab](../images/mcwbridges_deepslate_tile_slab.png) |
+| F | Deepslate Tile Wall | ![deepslate_tile_wall](../images/mcwbridges_bridge_1.png) |
+| W | Deepslate Tile Slab | ![deepslate_tile_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Tile Bridge Pier
@@ -388,8 +388,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Deepslate Tile Wall | ![deepslate_tile_wall](../images/mcwbridges_deepslate_tile_wall.png) |
-| W | Deepslate Tiles | ![deepslate_tiles](../images/mcwbridges_deepslate_tiles.png) |
+| F | Deepslate Tile Wall | ![deepslate_tile_wall](../images/mcwbridges_bridge_1.png) |
+| W | Deepslate Tiles | ![deepslate_tiles](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Tile Bridge Stair
@@ -397,7 +397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Deepslate Tile Bridge | ![deepslate_tile_bridge](../images/mcwbridges_deepslate_tile_bridge.png) |
+| F | Deepslate Tile Bridge | ![deepslate_tile_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Deepslate Tile Bridge
@@ -405,7 +405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Deepslate Tile Bridge Stair | ![deepslate_tile_bridge_stair](../images/mcwbridges_deepslate_tile_bridge_stair.png) |
+| - | Deepslate Tile Bridge Stair | ![deepslate_tile_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dry Bamboo Bridge
@@ -413,9 +413,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| P | Stick | ![stick](../images/mcwbridges_stick.png) |
-| W | Bamboo | ![bamboo](../images/mcwbridges_bamboo.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| P | Stick | ![stick](../images/mcwbridges_bridge_1.png) |
+| W | Bamboo | ![bamboo](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dry Bamboo Bridge Pier
@@ -423,9 +423,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| S | Stick | ![stick](../images/mcwbridges_stick.png) |
-| W | Bamboo | ![bamboo](../images/mcwbridges_bamboo.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| S | Stick | ![stick](../images/mcwbridges_bridge_1.png) |
+| W | Bamboo | ![bamboo](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dry Bamboo Bridge Stair
@@ -433,7 +433,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Dry Bamboo Bridge | ![dry_bamboo_bridge](../images/mcwbridges_dry_bamboo_bridge.png) |
+| F | Dry Bamboo Bridge | ![dry_bamboo_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Dry Bamboo Bridge
@@ -441,7 +441,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dry Bamboo Bridge Stair | ![dry_bamboo_bridge_stair](../images/mcwbridges_dry_bamboo_bridge_stair.png) |
+| - | Dry Bamboo Bridge Stair | ![dry_bamboo_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## {}
@@ -456,8 +456,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Nugget | ![iron_nugget](../images/mcwbridges_iron_nugget.png) |
-| I | Iron Ingot | ![iron_ingot](../images/mcwbridges_iron_ingot.png) |
+| A | Iron Nugget | ![iron_nugget](../images/mcwbridges_bridge_1.png) |
+| I | Iron Ingot | ![iron_ingot](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Iron Bridge Pier
@@ -465,7 +465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Iron Bars | ![iron_bars](../images/mcwbridges_iron_bars.png) |
+| W | Iron Bars | ![iron_bars](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Iron Bridge Stair
@@ -473,7 +473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Iron Bridge | ![iron_bridge](../images/mcwbridges_iron_bridge.png) |
+| F | Iron Bridge | ![iron_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Iron Bridge
@@ -481,7 +481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Bridge Stair | ![iron_bridge_stair](../images/mcwbridges_iron_bridge_stair.png) |
+| - | Iron Bridge Stair | ![iron_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Jungle Bridge Pier
@@ -489,8 +489,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Jungle Fence | ![jungle_fence](../images/mcwbridges_jungle_fence.png) |
-| W | Jungle Log | ![jungle_log](../images/mcwbridges_jungle_log.png) |
+| F | Jungle Fence | ![jungle_fence](../images/mcwbridges_bridge_1.png) |
+| W | Jungle Log | ![jungle_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Jungle Log Bridge Middle
@@ -498,8 +498,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Jungle Fence | ![jungle_fence](../images/mcwbridges_jungle_fence.png) |
-| W | Jungle Slab | ![jungle_slab](../images/mcwbridges_jungle_slab.png) |
+| F | Jungle Fence | ![jungle_fence](../images/mcwbridges_bridge_1.png) |
+| W | Jungle Slab | ![jungle_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Jungle Log Bridge Stair
@@ -507,7 +507,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Jungle Log Bridge Middle | ![jungle_log_bridge_middle](../images/mcwbridges_jungle_log_bridge_middle.png) |
+| F | Jungle Log Bridge Middle | ![jungle_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Jungle Log Bridge Middle
@@ -515,7 +515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Log Bridge Stair | ![jungle_log_bridge_stair](../images/mcwbridges_jungle_log_bridge_stair.png) |
+| - | Jungle Log Bridge Stair | ![jungle_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Jungle Rail Bridge
@@ -523,8 +523,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Jungle Fence | ![jungle_fence](../images/mcwbridges_jungle_fence.png) |
-| W | Jungle Slab | ![jungle_slab](../images/mcwbridges_jungle_slab.png) |
+| F | Jungle Fence | ![jungle_fence](../images/mcwbridges_bridge_1.png) |
+| W | Jungle Slab | ![jungle_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Jungle Rope Bridge Stair
@@ -532,7 +532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Jungle Bridge | ![rope_jungle_bridge](../images/mcwbridges_rope_jungle_bridge.png) |
+| F | Rope Jungle Bridge | ![rope_jungle_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Jungle Bridge
@@ -540,7 +540,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Jungle Rope Bridge Stair | ![jungle_rope_bridge_stair](../images/mcwbridges_jungle_rope_bridge_stair.png) |
+| - | Jungle Rope Bridge Stair | ![jungle_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mangrove Bridge Pier
@@ -548,8 +548,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mangrove Fence | ![mangrove_fence](../images/mcwbridges_mangrove_fence.png) |
-| W | Mangrove Log | ![mangrove_log](../images/mcwbridges_mangrove_log.png) |
+| F | Mangrove Fence | ![mangrove_fence](../images/mcwbridges_bridge_1.png) |
+| W | Mangrove Log | ![mangrove_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mangrove Log Bridge Middle
@@ -557,8 +557,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mangrove Fence | ![mangrove_fence](../images/mcwbridges_mangrove_fence.png) |
-| W | Mangrove Slab | ![mangrove_slab](../images/mcwbridges_mangrove_slab.png) |
+| F | Mangrove Fence | ![mangrove_fence](../images/mcwbridges_bridge_1.png) |
+| W | Mangrove Slab | ![mangrove_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mangrove Log Bridge Stair
@@ -566,7 +566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mangrove Log Bridge Middle | ![mangrove_log_bridge_middle](../images/mcwbridges_mangrove_log_bridge_middle.png) |
+| F | Mangrove Log Bridge Middle | ![mangrove_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mangrove Log Bridge Middle
@@ -574,7 +574,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Log Bridge Stair | ![mangrove_log_bridge_stair](../images/mcwbridges_mangrove_log_bridge_stair.png) |
+| - | Mangrove Log Bridge Stair | ![mangrove_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mangrove Rail Bridge
@@ -582,8 +582,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mangrove Fence | ![mangrove_fence](../images/mcwbridges_mangrove_fence.png) |
-| W | Mangrove Slab | ![mangrove_slab](../images/mcwbridges_mangrove_slab.png) |
+| F | Mangrove Fence | ![mangrove_fence](../images/mcwbridges_bridge_1.png) |
+| W | Mangrove Slab | ![mangrove_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mangrove Rope Bridge Stair
@@ -591,7 +591,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Mangrove Bridge | ![rope_mangrove_bridge](../images/mcwbridges_rope_mangrove_bridge.png) |
+| F | Rope Mangrove Bridge | ![rope_mangrove_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Mangrove Bridge
@@ -599,7 +599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mangrove Rope Bridge Stair | ![mangrove_rope_bridge_stair](../images/mcwbridges_mangrove_rope_bridge_stair.png) |
+| - | Mangrove Rope Bridge Stair | ![mangrove_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mossy Stone Brick Bridge
@@ -607,8 +607,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mossy Stone Brick Wall | ![mossy_stone_brick_wall](../images/mcwbridges_mossy_stone_brick_wall.png) |
-| W | Mossy Stone Brick Slab | ![mossy_stone_brick_slab](../images/mcwbridges_mossy_stone_brick_slab.png) |
+| F | Mossy Stone Brick Wall | ![mossy_stone_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Mossy Stone Brick Slab | ![mossy_stone_brick_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mossy Stone Bridge Pier
@@ -616,8 +616,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mossy Stone Brick Wall | ![mossy_stone_brick_wall](../images/mcwbridges_mossy_stone_brick_wall.png) |
-| W | Mossy Stone Bricks | ![mossy_stone_bricks](../images/mcwbridges_mossy_stone_bricks.png) |
+| F | Mossy Stone Brick Wall | ![mossy_stone_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Mossy Stone Bricks | ![mossy_stone_bricks](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mossy Stone Bridge Stair
@@ -625,7 +625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mossy Stone Brick Bridge | ![mossy_stone_brick_bridge](../images/mcwbridges_mossy_stone_brick_bridge.png) |
+| F | Mossy Stone Brick Bridge | ![mossy_stone_brick_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mossy Stone Brick Bridge
@@ -633,7 +633,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mossy Stone Bridge Stair | ![mossy_stone_bridge_stair](../images/mcwbridges_mossy_stone_bridge_stair.png) |
+| - | Mossy Stone Bridge Stair | ![mossy_stone_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mud Brick Bridge
@@ -641,8 +641,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mud Brick Wall | ![mud_brick_wall](../images/mcwbridges_mud_brick_wall.png) |
-| W | Mud Brick Slab | ![mud_brick_slab](../images/mcwbridges_mud_brick_slab.png) |
+| F | Mud Brick Wall | ![mud_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Mud Brick Slab | ![mud_brick_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mud Brick Bridge Pier
@@ -650,8 +650,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mud Brick Wall | ![mud_brick_wall](../images/mcwbridges_mud_brick_wall.png) |
-| W | Mud Bricks | ![mud_bricks](../images/mcwbridges_mud_bricks.png) |
+| F | Mud Brick Wall | ![mud_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Mud Bricks | ![mud_bricks](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mud Brick Bridge Stair
@@ -659,7 +659,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Mud Brick Bridge | ![mud_brick_bridge](../images/mcwbridges_mud_brick_bridge.png) |
+| F | Mud Brick Bridge | ![mud_brick_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Mud Brick Bridge
@@ -667,7 +667,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mud Brick Bridge Stair | ![mud_brick_bridge_stair](../images/mcwbridges_mud_brick_bridge_stair.png) |
+| - | Mud Brick Bridge Stair | ![mud_brick_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Oak Bridge Pier
@@ -675,8 +675,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oak Fence | ![oak_fence](../images/mcwbridges_oak_fence.png) |
-| W | Oak Log | ![oak_log](../images/mcwbridges_oak_log.png) |
+| F | Oak Fence | ![oak_fence](../images/mcwbridges_bridge_1.png) |
+| W | Oak Log | ![oak_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Oak Log Bridge Middle
@@ -684,8 +684,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oak Fence | ![oak_fence](../images/mcwbridges_oak_fence.png) |
-| W | Oak Slab | ![oak_slab](../images/mcwbridges_oak_slab.png) |
+| F | Oak Fence | ![oak_fence](../images/mcwbridges_bridge_1.png) |
+| W | Oak Slab | ![oak_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Oak Log Bridge Stair
@@ -693,7 +693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oak Log Bridge Middle | ![oak_log_bridge_middle](../images/mcwbridges_oak_log_bridge_middle.png) |
+| F | Oak Log Bridge Middle | ![oak_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Oak Log Bridge Middle
@@ -701,7 +701,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Log Bridge Stair | ![oak_log_bridge_stair](../images/mcwbridges_oak_log_bridge_stair.png) |
+| - | Oak Log Bridge Stair | ![oak_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Oak Rail Bridge
@@ -709,8 +709,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Oak Fence | ![oak_fence](../images/mcwbridges_oak_fence.png) |
-| W | Oak Slab | ![oak_slab](../images/mcwbridges_oak_slab.png) |
+| F | Oak Fence | ![oak_fence](../images/mcwbridges_bridge_1.png) |
+| W | Oak Slab | ![oak_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Oak Rope Bridge Stair
@@ -718,7 +718,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Oak Bridge | ![rope_oak_bridge](../images/mcwbridges_rope_oak_bridge.png) |
+| F | Rope Oak Bridge | ![rope_oak_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Oak Bridge
@@ -726,7 +726,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oak Rope Bridge Stair | ![oak_rope_bridge_stair](../images/mcwbridges_oak_rope_bridge_stair.png) |
+| - | Oak Rope Bridge Stair | ![oak_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Orange Sandstone Bridge
@@ -734,8 +734,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Red Sandstone Wall | ![red_sandstone_wall](../images/mcwbridges_red_sandstone_wall.png) |
-| W | Red Sandstone Slab | ![red_sandstone_slab](../images/mcwbridges_red_sandstone_slab.png) |
+| F | Red Sandstone Wall | ![red_sandstone_wall](../images/mcwbridges_bridge_1.png) |
+| W | Red Sandstone Slab | ![red_sandstone_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Pliers
@@ -743,8 +743,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Iron Nugget | ![iron_nugget](../images/mcwbridges_iron_nugget.png) |
-| W | Iron Ingot | ![iron_ingot](../images/mcwbridges_iron_ingot.png) |
+| F | Iron Nugget | ![iron_nugget](../images/mcwbridges_bridge_1.png) |
+| W | Iron Ingot | ![iron_ingot](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Red Sandstone Bridge Pier
@@ -752,8 +752,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Red Sandstone Wall | ![red_sandstone_wall](../images/mcwbridges_red_sandstone_wall.png) |
-| W | Red Sandstone | ![red_sandstone](../images/mcwbridges_red_sandstone.png) |
+| F | Red Sandstone Wall | ![red_sandstone_wall](../images/mcwbridges_bridge_1.png) |
+| W | Red Sandstone | ![red_sandstone](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Red Sandstone Bridge Stair
@@ -761,7 +761,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Orange Sandstone Bridge | ![orange_sandstone_bridge](../images/mcwbridges_orange_sandstone_bridge.png) |
+| F | Orange Sandstone Bridge | ![orange_sandstone_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Orange Sandstone Bridge
@@ -769,7 +769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Sandstone Bridge Stair | ![red_sandstone_bridge_stair](../images/mcwbridges_red_sandstone_bridge_stair.png) |
+| - | Red Sandstone Bridge Stair | ![red_sandstone_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Acacia Bridge
@@ -777,8 +777,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Acacia Slab | ![acacia_slab](../images/mcwbridges_acacia_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Acacia Slab | ![acacia_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Birch Bridge
@@ -786,8 +786,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Birch Slab | ![birch_slab](../images/mcwbridges_birch_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Birch Slab | ![birch_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Crimson Bridge
@@ -795,8 +795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Crimson Slab | ![crimson_slab](../images/mcwbridges_crimson_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Crimson Slab | ![crimson_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Dark Oak Bridge
@@ -804,8 +804,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Dark Oak Slab | ![dark_oak_slab](../images/mcwbridges_dark_oak_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Dark Oak Slab | ![dark_oak_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Jungle Bridge
@@ -813,8 +813,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Jungle Slab | ![jungle_slab](../images/mcwbridges_jungle_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Jungle Slab | ![jungle_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Mangrove Bridge
@@ -822,8 +822,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Mangrove Slab | ![mangrove_slab](../images/mcwbridges_mangrove_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Mangrove Slab | ![mangrove_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Oak Bridge
@@ -831,8 +831,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Oak Slab | ![oak_slab](../images/mcwbridges_oak_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Oak Slab | ![oak_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Spruce Bridge
@@ -840,8 +840,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Spruce Slab | ![spruce_slab](../images/mcwbridges_spruce_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Spruce Slab | ![spruce_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Warped Bridge
@@ -849,8 +849,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | String | ![string](../images/mcwbridges_string.png) |
-| W | Warped Slab | ![warped_slab](../images/mcwbridges_warped_slab.png) |
+| F | String | ![string](../images/mcwbridges_bridge_1.png) |
+| W | Warped Slab | ![warped_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Sandstone Bridge
@@ -858,8 +858,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Sandstone Wall | ![sandstone_wall](../images/mcwbridges_sandstone_wall.png) |
-| W | Sandstone Slab | ![sandstone_slab](../images/mcwbridges_sandstone_slab.png) |
+| F | Sandstone Wall | ![sandstone_wall](../images/mcwbridges_bridge_1.png) |
+| W | Sandstone Slab | ![sandstone_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Sandstone Bridge Pier
@@ -867,8 +867,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Sandstone Wall | ![sandstone_wall](../images/mcwbridges_sandstone_wall.png) |
-| W | Sandstone | ![sandstone](../images/mcwbridges_sandstone.png) |
+| F | Sandstone Wall | ![sandstone_wall](../images/mcwbridges_bridge_1.png) |
+| W | Sandstone | ![sandstone](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Sandstone Bridge Stair
@@ -876,7 +876,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Sandstone Bridge | ![sandstone_bridge](../images/mcwbridges_sandstone_bridge.png) |
+| F | Sandstone Bridge | ![sandstone_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Sandstone Bridge
@@ -884,7 +884,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sandstone Bridge Stair | ![sandstone_bridge_stair](../images/mcwbridges_sandstone_bridge_stair.png) |
+| - | Sandstone Bridge Stair | ![sandstone_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Spruce Bridge Pier
@@ -892,8 +892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Spruce Fence | ![spruce_fence](../images/mcwbridges_spruce_fence.png) |
-| W | Spruce Log | ![spruce_log](../images/mcwbridges_spruce_log.png) |
+| F | Spruce Fence | ![spruce_fence](../images/mcwbridges_bridge_1.png) |
+| W | Spruce Log | ![spruce_log](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Spruce Log Bridge Middle
@@ -901,8 +901,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Spruce Fence | ![spruce_fence](../images/mcwbridges_spruce_fence.png) |
-| W | Spruce Slab | ![spruce_slab](../images/mcwbridges_spruce_slab.png) |
+| F | Spruce Fence | ![spruce_fence](../images/mcwbridges_bridge_1.png) |
+| W | Spruce Slab | ![spruce_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Spruce Log Bridge Stair
@@ -910,7 +910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Spruce Log Bridge Middle | ![spruce_log_bridge_middle](../images/mcwbridges_spruce_log_bridge_middle.png) |
+| F | Spruce Log Bridge Middle | ![spruce_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Spruce Log Bridge Middle
@@ -918,7 +918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Log Bridge Stair | ![spruce_log_bridge_stair](../images/mcwbridges_spruce_log_bridge_stair.png) |
+| - | Spruce Log Bridge Stair | ![spruce_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Spruce Rail Bridge
@@ -926,8 +926,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Spruce Fence | ![spruce_fence](../images/mcwbridges_spruce_fence.png) |
-| W | Spruce Slab | ![spruce_slab](../images/mcwbridges_spruce_slab.png) |
+| F | Spruce Fence | ![spruce_fence](../images/mcwbridges_bridge_1.png) |
+| W | Spruce Slab | ![spruce_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Spruce Rope Bridge Stair
@@ -935,7 +935,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Spruce Bridge | ![rope_spruce_bridge](../images/mcwbridges_rope_spruce_bridge.png) |
+| F | Rope Spruce Bridge | ![rope_spruce_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Spruce Bridge
@@ -943,7 +943,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Spruce Rope Bridge Stair | ![spruce_rope_bridge_stair](../images/mcwbridges_spruce_rope_bridge_stair.png) |
+| - | Spruce Rope Bridge Stair | ![spruce_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Stone Brick Bridge
@@ -951,8 +951,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stone Brick Wall | ![stone_brick_wall](../images/mcwbridges_stone_brick_wall.png) |
-| W | Stone Brick Slab | ![stone_brick_slab](../images/mcwbridges_stone_brick_slab.png) |
+| F | Stone Brick Wall | ![stone_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Stone Brick Slab | ![stone_brick_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Stone Brick Bridge Stair
@@ -960,7 +960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stone Brick Bridge | ![stone_brick_bridge](../images/mcwbridges_stone_brick_bridge.png) |
+| F | Stone Brick Bridge | ![stone_brick_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Stone Brick Bridge
@@ -968,7 +968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Brick Bridge Stair | ![stone_brick_bridge_stair](../images/mcwbridges_stone_brick_bridge_stair.png) |
+| - | Stone Brick Bridge Stair | ![stone_brick_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Stone Bridge Pier
@@ -976,8 +976,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Stone Brick Wall | ![stone_brick_wall](../images/mcwbridges_stone_brick_wall.png) |
-| W | Stone Bricks | ![stone_bricks](../images/mcwbridges_stone_bricks.png) |
+| F | Stone Brick Wall | ![stone_brick_wall](../images/mcwbridges_bridge_1.png) |
+| W | Stone Bricks | ![stone_bricks](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Warped Bridge Pier
@@ -985,8 +985,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Warped Fence | ![warped_fence](../images/mcwbridges_warped_fence.png) |
-| W | Warped Stem | ![warped_stem](../images/mcwbridges_warped_stem.png) |
+| F | Warped Fence | ![warped_fence](../images/mcwbridges_bridge_1.png) |
+| W | Warped Stem | ![warped_stem](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Warped Log Bridge Middle
@@ -994,8 +994,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Warped Fence | ![warped_fence](../images/mcwbridges_warped_fence.png) |
-| W | Warped Slab | ![warped_slab](../images/mcwbridges_warped_slab.png) |
+| F | Warped Fence | ![warped_fence](../images/mcwbridges_bridge_1.png) |
+| W | Warped Slab | ![warped_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Warped Log Bridge Stair
@@ -1003,7 +1003,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Warped Log Bridge Middle | ![warped_log_bridge_middle](../images/mcwbridges_warped_log_bridge_middle.png) |
+| F | Warped Log Bridge Middle | ![warped_log_bridge_middle](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Warped Log Bridge Middle
@@ -1011,7 +1011,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Log Bridge Stair | ![warped_log_bridge_stair](../images/mcwbridges_warped_log_bridge_stair.png) |
+| - | Warped Log Bridge Stair | ![warped_log_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Warped Rail Bridge
@@ -1019,8 +1019,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Warped Fence | ![warped_fence](../images/mcwbridges_warped_fence.png) |
-| W | Warped Slab | ![warped_slab](../images/mcwbridges_warped_slab.png) |
+| F | Warped Fence | ![warped_fence](../images/mcwbridges_bridge_1.png) |
+| W | Warped Slab | ![warped_slab](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Warped Rope Bridge Stair
@@ -1028,7 +1028,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Rope Warped Bridge | ![rope_warped_bridge](../images/mcwbridges_rope_warped_bridge.png) |
+| F | Rope Warped Bridge | ![rope_warped_bridge](../images/mcwbridges_bridge_1.png) |
 
 ---
 ## Rope Warped Bridge
@@ -1036,6 +1036,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Warped Rope Bridge Stair | ![warped_rope_bridge_stair](../images/mcwbridges_warped_rope_bridge_stair.png) |
+| - | Warped Rope Bridge Stair | ![warped_rope_bridge_stair](../images/mcwbridges_bridge_1.png) |
 
 ---

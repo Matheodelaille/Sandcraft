@@ -7,6 +7,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Wheat | ![wheat](../images/strawgolem_wheat.png) |
+| # | Wheat | ![wheat](../images/strawgolem_straw_hat.png) |
 
 ---

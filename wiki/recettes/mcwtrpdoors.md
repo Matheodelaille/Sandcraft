@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwtrpdoors_acacia_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Acacia Barn Trapdoor
@@ -25,7 +25,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Acacia Glass Trapdoor | ![acacia_glass_trapdoor](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
@@ -34,7 +34,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -43,8 +43,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Acacia Beach Trapdoor
@@ -52,7 +52,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -61,7 +61,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -70,7 +70,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -79,7 +79,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -88,7 +88,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -97,8 +97,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Acacia Mystic Trapdoor
@@ -106,7 +106,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -115,7 +115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -124,8 +124,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwtrpdoors_acacia_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Acacia Swamp Trapdoor
@@ -133,7 +133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_planks.png) |
+| A | Acacia Planks | ![acacia_planks](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -142,7 +142,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Bamboo Glass Trapdoor | ![bamboo_glass_trapdoor](../images/mcwtrpdoors_bamboo_glass_trapdoor.png) |
 
 ---
@@ -151,7 +151,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -160,8 +160,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Bamboo Beach Trapdoor
@@ -169,7 +169,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -178,7 +178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -187,7 +187,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -196,7 +196,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -205,7 +205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -214,8 +214,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Bamboo Mystic Trapdoor
@@ -223,7 +223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -232,7 +232,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -248,7 +248,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -257,7 +257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Bamboo Tropical Trapdoor
@@ -265,7 +265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -274,7 +274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -283,8 +283,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwtrpdoors_birch_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Birch Log | ![birch_log](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Birch Barn Trapdoor
@@ -292,7 +292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Birch Glass Trapdoor | ![birch_glass_trapdoor](../images/mcwtrpdoors_birch_glass_trapdoor.png) |
 
 ---
@@ -301,7 +301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -310,8 +310,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Birch Beach Trapdoor
@@ -319,7 +319,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -328,7 +328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -337,7 +337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -346,7 +346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -355,7 +355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -364,8 +364,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Birch Mystic Trapdoor
@@ -373,7 +373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -382,8 +382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwtrpdoors_birch_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Birch Log | ![birch_log](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Birch Swamp Trapdoor
@@ -391,7 +391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -400,7 +400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_planks.png) |
+| A | Birch Planks | ![birch_planks](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -409,7 +409,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -418,8 +418,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwtrpdoors_crimson_stem.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Crimson Barn Trapdoor
@@ -427,7 +427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Crimson Glass Trapdoor | ![crimson_glass_trapdoor](../images/mcwtrpdoors_crimson_glass_trapdoor.png) |
 
 ---
@@ -436,8 +436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Crimson Beach Trapdoor
@@ -445,7 +445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -454,7 +454,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -463,7 +463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -472,7 +472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -481,7 +481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -490,8 +490,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Crimson Mystic Trapdoor
@@ -499,7 +499,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -508,7 +508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -517,8 +517,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwtrpdoors_crimson_stem.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Crimson Swamp Trapdoor
@@ -526,7 +526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -535,7 +535,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_planks.png) |
+| A | Crimson Planks | ![crimson_planks](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -544,7 +544,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -553,8 +553,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwtrpdoors_dark_oak_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Dark Oak Barn Trapdoor
@@ -562,7 +562,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Dark Oak Glass Trapdoor | ![dark_oak_glass_trapdoor](../images/mcwtrpdoors_dark_oak_glass_trapdoor.png) |
 
 ---
@@ -571,7 +571,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -580,8 +580,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Dark Oak Beach Trapdoor
@@ -589,7 +589,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -598,7 +598,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -607,7 +607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -616,7 +616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -625,8 +625,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Dark Oak Mystic Trapdoor
@@ -634,7 +634,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -643,7 +643,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -652,8 +652,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwtrpdoors_dark_oak_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Dark Oak Swamp Trapdoor
@@ -661,7 +661,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -670,7 +670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_planks.png) |
+| A | Dark Oak Planks | ![dark_oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -679,7 +679,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -688,8 +688,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwtrpdoors_jungle_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Jungle Barn Trapdoor
@@ -697,7 +697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Jungle Glass Trapdoor | ![jungle_glass_trapdoor](../images/mcwtrpdoors_jungle_glass_trapdoor.png) |
 
 ---
@@ -706,7 +706,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -715,8 +715,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Jungle Blossom Trapdoor
@@ -724,7 +724,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -733,7 +733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -742,7 +742,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -751,7 +751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -760,8 +760,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Jungle Mystic Trapdoor
@@ -769,7 +769,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -778,7 +778,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -787,8 +787,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwtrpdoors_jungle_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Jungle Swamp Trapdoor
@@ -796,7 +796,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -805,7 +805,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_planks.png) |
+| A | Jungle Planks | ![jungle_planks](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -814,7 +814,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -823,8 +823,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwtrpdoors_mangrove_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Mangrove Barn Trapdoor
@@ -832,7 +832,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Mangrove Glass Trapdoor | ![mangrove_glass_trapdoor](../images/mcwtrpdoors_mangrove_glass_trapdoor.png) |
 
 ---
@@ -841,7 +841,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -850,8 +850,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Mangrove Beach Trapdoor
@@ -859,7 +859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -868,7 +868,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -877,7 +877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -886,7 +886,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -895,7 +895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -904,8 +904,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Mangrove Mystic Trapdoor
@@ -913,7 +913,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -922,7 +922,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -931,8 +931,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwtrpdoors_mangrove_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Mangrove Tropical Trapdoor
@@ -940,7 +940,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_planks.png) |
+| A | Mangrove Planks | ![mangrove_planks](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -949,7 +949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Ingot | ![iron_ingot](../images/mcwtrpdoors_iron_ingot.png) |
+| A | Iron Ingot | ![iron_ingot](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 | B | Metal Trapdoor | ![metal_trapdoor](../images/mcwtrpdoors_metal_trapdoor.png) |
 
 ---
@@ -958,8 +958,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Ingot | ![iron_ingot](../images/mcwtrpdoors_iron_ingot.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Iron Ingot | ![iron_ingot](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Metal Warning Trapdoor
@@ -967,9 +967,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Ingot | ![iron_ingot](../images/mcwtrpdoors_iron_ingot.png) |
-| B | Yellow Dye | ![yellow_dye](../images/mcwtrpdoors_yellow_dye.png) |
-| C | Black Dye | ![black_dye](../images/mcwtrpdoors_black_dye.png) |
+| A | Iron Ingot | ![iron_ingot](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| B | Yellow Dye | ![yellow_dye](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
+| C | Black Dye | ![black_dye](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Oak Bamboo Trapdoor
@@ -977,7 +977,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -986,8 +986,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwtrpdoors_oak_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Oak Log | ![oak_log](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Oak Barn Trapdoor
@@ -995,7 +995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Oak Glass Trapdoor | ![oak_glass_trapdoor](../images/mcwtrpdoors_oak_glass_trapdoor.png) |
 
 ---
@@ -1004,7 +1004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -1013,8 +1013,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Oak Beach Trapdoor
@@ -1022,7 +1022,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -1031,7 +1031,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -1040,7 +1040,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -1049,7 +1049,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -1058,8 +1058,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Oak Mystic Trapdoor
@@ -1067,7 +1067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -1076,7 +1076,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -1085,8 +1085,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwtrpdoors_oak_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Oak Log | ![oak_log](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Oak Swamp Trapdoor
@@ -1094,7 +1094,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -1103,7 +1103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_oak_planks.png) |
+| A | Oak Planks | ![oak_planks](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -1112,8 +1112,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| A | Bamboo | ![bamboo](../images/mcwtrpdoors_bamboo.png) |
+| B | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| A | Bamboo | ![bamboo](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Print Barred
@@ -1121,8 +1121,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Crimson Trapdoor | ![crimson_trapdoor](../images/mcwtrpdoors_crimson_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Crimson Trapdoor | ![crimson_trapdoor](../images/mcwtrpdoors_crimson_bamboo_trapdoor.png) |
 
 ---
 ## Print Beach
@@ -1130,8 +1130,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Jungle Trapdoor | ![jungle_trapdoor](../images/mcwtrpdoors_jungle_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Jungle Trapdoor | ![jungle_trapdoor](../images/mcwtrpdoors_jungle_bamboo_trapdoor.png) |
 
 ---
 ## Print Blossom
@@ -1139,8 +1139,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Pink Dye | ![pink_dye](../images/mcwtrpdoors_pink_dye.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Pink Dye | ![pink_dye](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Print Classic
@@ -1148,8 +1148,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Oak Trapdoor | ![oak_trapdoor](../images/mcwtrpdoors_oak_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Oak Trapdoor | ![oak_trapdoor](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 
 ---
 ## Print Cottage
@@ -1157,8 +1157,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Spruce Trapdoor | ![spruce_trapdoor](../images/mcwtrpdoors_spruce_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Spruce Trapdoor | ![spruce_trapdoor](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 
 ---
 ## Print Four Panel
@@ -1166,8 +1166,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/mcwtrpdoors_dark_oak_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Dark Oak Trapdoor | ![dark_oak_trapdoor](../images/mcwtrpdoors_dark_oak_bamboo_trapdoor.png) |
 
 ---
 ## Print Mystic
@@ -1175,8 +1175,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Warped Trapdoor | ![warped_trapdoor](../images/mcwtrpdoors_warped_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Warped Trapdoor | ![warped_trapdoor](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 
 ---
 ## Print Paper
@@ -1184,8 +1184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Birch Trapdoor | ![birch_trapdoor](../images/mcwtrpdoors_birch_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Birch Trapdoor | ![birch_trapdoor](../images/mcwtrpdoors_birch_bamboo_trapdoor.png) |
 
 ---
 ## Print Swamp
@@ -1193,8 +1193,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Mangrove Trapdoor | ![mangrove_trapdoor](../images/mcwtrpdoors_mangrove_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Mangrove Trapdoor | ![mangrove_trapdoor](../images/mcwtrpdoors_mangrove_bamboo_trapdoor.png) |
 
 ---
 ## Print Tropical
@@ -1202,8 +1202,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Paper | ![paper](../images/mcwtrpdoors_paper.png) |
-| B | Acacia Trapdoor | ![acacia_trapdoor](../images/mcwtrpdoors_acacia_trapdoor.png) |
+| A | Paper | ![paper](../images/mcwtrpdoors_acacia_paper_trapdoor.png) |
+| B | Acacia Trapdoor | ![acacia_trapdoor](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Spruce Bamboo Trapdoor
@@ -1211,7 +1211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -1220,8 +1220,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwtrpdoors_spruce_log.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Spruce Barn Trapdoor
@@ -1229,7 +1229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Spruce Glass Trapdoor | ![spruce_glass_trapdoor](../images/mcwtrpdoors_spruce_glass_trapdoor.png) |
 
 ---
@@ -1238,7 +1238,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -1247,8 +1247,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Spruce Beach Trapdoor
@@ -1256,7 +1256,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -1265,7 +1265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -1274,7 +1274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -1283,7 +1283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -1292,8 +1292,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Spruce Mystic Trapdoor
@@ -1301,7 +1301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Mystic | ![print_mystic](../images/mcwtrpdoors_print_mystic.png) |
 
 ---
@@ -1310,7 +1310,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -1319,8 +1319,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwtrpdoors_spruce_log.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Spruce Swamp Trapdoor
@@ -1328,7 +1328,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -1337,7 +1337,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_planks.png) |
+| A | Spruce Planks | ![spruce_planks](../images/mcwtrpdoors_spruce_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---
@@ -1346,7 +1346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Bamboo | ![print_bamboo](../images/mcwtrpdoors_print_bamboo.png) |
 
 ---
@@ -1355,8 +1355,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwtrpdoors_warped_stem.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Warped Barn Trapdoor
@@ -1364,7 +1364,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Warped Glass Trapdoor | ![warped_glass_trapdoor](../images/mcwtrpdoors_warped_glass_trapdoor.png) |
 
 ---
@@ -1373,7 +1373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Barred | ![print_barred](../images/mcwtrpdoors_print_barred.png) |
 
 ---
@@ -1382,8 +1382,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
-| B | Barrel | ![barrel](../images/mcwtrpdoors_barrel.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
+| B | Barrel | ![barrel](../images/mcwtrpdoors_acacia_barrel_trapdoor.png) |
 
 ---
 ## Warped Beach Trapdoor
@@ -1391,7 +1391,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Beach | ![print_beach](../images/mcwtrpdoors_print_beach.png) |
 
 ---
@@ -1400,7 +1400,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Blossom | ![print_blossom](../images/mcwtrpdoors_print_blossom.png) |
 
 ---
@@ -1409,7 +1409,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Classic | ![print_classic](../images/mcwtrpdoors_print_classic.png) |
 
 ---
@@ -1418,7 +1418,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Cottage | ![print_cottage](../images/mcwtrpdoors_print_cottage.png) |
 
 ---
@@ -1427,7 +1427,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Four Panel | ![print_four_panel](../images/mcwtrpdoors_print_four_panel.png) |
 
 ---
@@ -1436,8 +1436,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
-| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_glass_pane.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
+| B | Glass Pane | ![glass_pane](../images/mcwtrpdoors_acacia_glass_trapdoor.png) |
 
 ---
 ## Warped Paper Trapdoor
@@ -1445,7 +1445,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Paper | ![print_paper](../images/mcwtrpdoors_print_paper.png) |
 
 ---
@@ -1454,8 +1454,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwtrpdoors_warped_stem.png) |
-| B | Stick | ![stick](../images/mcwtrpdoors_stick.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
+| B | Stick | ![stick](../images/mcwtrpdoors_acacia_bamboo_trapdoor.png) |
 
 ---
 ## Warped Swamp Trapdoor
@@ -1463,7 +1463,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Swamp | ![print_swamp](../images/mcwtrpdoors_print_swamp.png) |
 
 ---
@@ -1472,7 +1472,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_planks.png) |
+| A | Warped Planks | ![warped_planks](../images/mcwtrpdoors_warped_bamboo_trapdoor.png) |
 | B | Print Tropical | ![print_tropical](../images/mcwtrpdoors_print_tropical.png) |
 
 ---

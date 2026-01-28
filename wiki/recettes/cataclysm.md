@@ -7,15 +7,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nautilus Shell | ![nautilus_shell](../images/cataclysm_nautilus_shell.png) |
+| - | Nautilus Shell | ![nautilus_shell](../images/cataclysm_amethyst_crab_shell.png) |
 | - | Athame | ![athame](../images/cataclysm_athame.png) |
 | - | Crystallized Coral | ![crystallized_coral](../images/cataclysm_crystallized_coral.png) |
-| - | Diamond Block | ![diamond_block](../images/cataclysm_diamond_block.png) |
-| - | Heart Of The Sea | ![heart_of_the_sea](../images/cataclysm_heart_of_the_sea.png) |
-| - | Emerald Block | ![emerald_block](../images/cataclysm_emerald_block.png) |
-| - | Iron Block | ![iron_block](../images/cataclysm_iron_block.png) |
-| - | Amethyst Block | ![amethyst_block](../images/cataclysm_amethyst_block.png) |
-| - | Gold Block | ![gold_block](../images/cataclysm_gold_block.png) |
+| - | Diamond Block | ![diamond_block](../images/cataclysm_chiseled_purpur_block.png) |
+| - | Heart Of The Sea | ![heart_of_the_sea](../images/cataclysm_bulwark_of_the_flame.png) |
+| - | Emerald Block | ![emerald_block](../images/cataclysm_chiseled_purpur_block.png) |
+| - | Iron Block | ![iron_block](../images/cataclysm_chiseled_purpur_block.png) |
+| - | Amethyst Block | ![amethyst_block](../images/cataclysm_altar_of_amethyst.png) |
+| - | Gold Block | ![gold_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---
 ## Abyss Eye
@@ -23,9 +23,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Crying Obsidian | ![crying_obsidian](../images/cataclysm_crying_obsidian.png) |
-| O | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
-| E | Ender Eye | ![ender_eye](../images/cataclysm_ender_eye.png) |
+| # | Crying Obsidian | ![crying_obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
+| O | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
+| E | Ender Eye | ![ender_eye](../images/cataclysm_abyss_eye.png) |
 
 ---
 ## Blessed Amethyst Crab Meat
@@ -57,10 +57,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Nether Brick | ![nether_brick](../images/cataclysm_nether_brick.png) |
+| # | Nether Brick | ![nether_brick](../images/cataclysm_chiseled_stone_brick_pillar.png) |
 | Q | Ignitium Ingot | ![ignitium_ingot](../images/cataclysm_ignitium_ingot.png) |
-| / | Blaze Rod | ![blaze_rod](../images/cataclysm_blaze_rod.png) |
-| S | Shield | ![shield](../images/cataclysm_shield.png) |
+| / | Blaze Rod | ![blaze_rod](../images/cataclysm_abyssal_egg.png) |
+| S | Shield | ![shield](../images/cataclysm_abyssal_egg.png) |
 
 ---
 ## Chiseled End Stone Bricks
@@ -68,7 +68,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | End Stone Brick Slab | ![end_stone_brick_slab](../images/cataclysm_end_stone_brick_slab.png) |
+| # | End Stone Brick Slab | ![end_stone_brick_slab](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Chiseled End Stone Bricks
@@ -76,8 +76,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Stone | ![end_stone](../images/cataclysm_end_stone.png) |
-| - | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_end_stone_bricks.png) |
+| - | End Stone | ![end_stone](../images/cataclysm_chiseled_end_stone_bricks.png) |
+| - | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Chiseled Obsidian Bricks
@@ -85,7 +85,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Obsidian Brick Slab | ![obsidian_brick_slab](../images/cataclysm_obsidian_brick_slab.png) |
+| # | Obsidian Brick Slab | ![obsidian_brick_slab](../images/cataclysm_chiseled_obsidian_bricks.png) |
 
 ---
 ## Chiseled Obsidian Bricks
@@ -93,7 +93,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
 | - | Obsidian Bricks | ![obsidian_bricks](../images/cataclysm_obsidian_bricks.png) |
 
 ---
@@ -102,7 +102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purpur Block | ![purpur_block](../images/cataclysm_purpur_block.png) |
+| # | Purpur Block | ![purpur_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---
 ## Chiseled Purpur Block
@@ -110,7 +110,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purpur Block | ![purpur_block](../images/cataclysm_purpur_block.png) |
+| - | Purpur Block | ![purpur_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---
 ## Chiseled Stone Brick Pillar
@@ -118,7 +118,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/cataclysm_chiseled_stone_bricks.png) |
+| # | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Chiseled Stone Brick Pillar
@@ -126,9 +126,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/cataclysm_stone_bricks.png) |
-| - | Stone | ![stone](../images/cataclysm_stone.png) |
-| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/cataclysm_chiseled_stone_bricks.png) |
+| - | Stone Bricks | ![stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
+| - | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
+| - | Chiseled Stone Bricks | ![chiseled_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Chorus Fence
@@ -136,7 +136,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/cataclysm_stick.png) |
+| # | Stick | ![stick](../images/cataclysm_abyssal_egg.png) |
 | W | Chorus Planks | ![chorus_planks](../images/cataclysm_chorus_planks.png) |
 
 ---
@@ -169,7 +169,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Chorus Fruit | ![chorus_fruit](../images/cataclysm_chorus_fruit.png) |
+| # | Chorus Fruit | ![chorus_fruit](../images/cataclysm_chorus_planks.png) |
 
 ---
 ## Crystallized Coral
@@ -185,14 +185,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| g | Gold Ingot | ![gold_ingot](../images/cataclysm_gold_ingot.png) |
-| C | Chiseled Sandstone | ![chiseled_sandstone](../images/cataclysm_chiseled_sandstone.png) |
-| E | Emerald | ![emerald](../images/cataclysm_emerald.png) |
-| D | Dead Bush | ![dead_bush](../images/cataclysm_dead_bush.png) |
-| O | Ender Eye | ![ender_eye](../images/cataclysm_ender_eye.png) |
-| G | Cactus | ![cactus](../images/cataclysm_cactus.png) |
-| R | Rotten Flesh | ![rotten_flesh](../images/cataclysm_rotten_flesh.png) |
-| B | Bone | ![bone](../images/cataclysm_bone.png) |
+| g | Gold Ingot | ![gold_ingot](../images/cataclysm_enderite_ingot.png) |
+| C | Chiseled Sandstone | ![chiseled_sandstone](../images/cataclysm_chiseled_end_stone_bricks.png) |
+| E | Emerald | ![emerald](../images/cataclysm_abyssal_egg.png) |
+| D | Dead Bush | ![dead_bush](../images/cataclysm_abyssal_egg.png) |
+| O | Ender Eye | ![ender_eye](../images/cataclysm_abyss_eye.png) |
+| G | Cactus | ![cactus](../images/cataclysm_abyssal_egg.png) |
+| R | Rotten Flesh | ![rotten_flesh](../images/cataclysm_abyssal_egg.png) |
+| B | Bone | ![bone](../images/cataclysm_blazing_bone.png) |
 
 ---
 ## End Stone Pillar
@@ -200,7 +200,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_end_stone_bricks.png) |
+| # | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## End Stone Pillar
@@ -208,8 +208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Stone | ![end_stone](../images/cataclysm_end_stone.png) |
-| - | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_end_stone_bricks.png) |
+| - | End Stone | ![end_stone](../images/cataclysm_chiseled_end_stone_bricks.png) |
+| - | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## End Stone Teleport Trap Bricks
@@ -217,7 +217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_end_stone_bricks.png) |
+| # | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 | C | Void Stone | ![void_stone](../images/cataclysm_void_stone.png) |
 
 ---
@@ -226,10 +226,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Blaze Powder | ![blaze_powder](../images/cataclysm_blaze_powder.png) |
-| N | Netherite Scrap | ![netherite_scrap](../images/cataclysm_netherite_scrap.png) |
-| E | Ender Eye | ![ender_eye](../images/cataclysm_ender_eye.png) |
-| S | Soul Sand | ![soul_sand](../images/cataclysm_soul_sand.png) |
+| # | Blaze Powder | ![blaze_powder](../images/cataclysm_abyssal_egg.png) |
+| N | Netherite Scrap | ![netherite_scrap](../images/cataclysm_music_disc_netherite_monstrosity.png) |
+| E | Ender Eye | ![ender_eye](../images/cataclysm_abyss_eye.png) |
+| S | Soul Sand | ![soul_sand](../images/cataclysm_chain_of_soul_binding.png) |
 
 ---
 ## Gauntlet Of Bulwark
@@ -295,9 +295,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone | ![redstone](../images/cataclysm_redstone.png) |
-| i | Iron Ingot | ![iron_ingot](../images/cataclysm_iron_ingot.png) |
-| R | Redstone Block | ![redstone_block](../images/cataclysm_redstone_block.png) |
+| # | Redstone | ![redstone](../images/cataclysm_abyssal_egg.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cataclysm_enderite_ingot.png) |
+| R | Redstone Block | ![redstone_block](../images/cataclysm_chiseled_purpur_block.png) |
 | n | Witherite Ingot | ![witherite_ingot](../images/cataclysm_witherite_ingot.png) |
 
 ---
@@ -306,8 +306,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone | ![redstone](../images/cataclysm_redstone.png) |
-| I | Iron Block | ![iron_block](../images/cataclysm_iron_block.png) |
+| # | Redstone | ![redstone](../images/cataclysm_abyssal_egg.png) |
+| I | Iron Block | ![iron_block](../images/cataclysm_chiseled_purpur_block.png) |
 | n | Witherite Ingot | ![witherite_ingot](../images/cataclysm_witherite_ingot.png) |
 
 ---
@@ -317,8 +317,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Witherite Ingot | ![witherite_ingot](../images/cataclysm_witherite_ingot.png) |
-| R | Redstone Block | ![redstone_block](../images/cataclysm_redstone_block.png) |
-| A | Anvil | ![anvil](../images/cataclysm_anvil.png) |
+| R | Redstone Block | ![redstone_block](../images/cataclysm_chiseled_purpur_block.png) |
+| A | Anvil | ![anvil](../images/cataclysm_mechanical_fusion_anvil.png) |
 
 ---
 ## Mech Eye
@@ -326,9 +326,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Redstone Block | ![redstone_block](../images/cataclysm_redstone_block.png) |
-| i | Iron Ingot | ![iron_ingot](../images/cataclysm_iron_ingot.png) |
-| E | Ender Eye | ![ender_eye](../images/cataclysm_ender_eye.png) |
+| # | Redstone Block | ![redstone_block](../images/cataclysm_chiseled_purpur_block.png) |
+| i | Iron Ingot | ![iron_ingot](../images/cataclysm_enderite_ingot.png) |
+| E | Ender Eye | ![ender_eye](../images/cataclysm_abyss_eye.png) |
 
 ---
 ## Monstrous Eye
@@ -336,10 +336,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lava Bucket | ![lava_bucket](../images/cataclysm_lava_bucket.png) |
-| N | Netherite Scrap | ![netherite_scrap](../images/cataclysm_netherite_scrap.png) |
-| G | Blackstone | ![blackstone](../images/cataclysm_blackstone.png) |
-| E | Ender Eye | ![ender_eye](../images/cataclysm_ender_eye.png) |
+| # | Lava Bucket | ![lava_bucket](../images/cataclysm_the_baby_leviathan_bucket.png) |
+| N | Netherite Scrap | ![netherite_scrap](../images/cataclysm_music_disc_netherite_monstrosity.png) |
+| G | Blackstone | ![blackstone](../images/cataclysm_abyssal_egg.png) |
+| E | Ender Eye | ![ender_eye](../images/cataclysm_abyss_eye.png) |
 
 ---
 ## Monstrous Helm
@@ -354,7 +354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
+| # | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Bricks
@@ -362,7 +362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
 
 ---
 ## Obsidian Brick Slab
@@ -378,7 +378,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
 | - | Obsidian Bricks | ![obsidian_bricks](../images/cataclysm_obsidian_bricks.png) |
 
 ---
@@ -395,7 +395,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
 | - | Obsidian Bricks | ![obsidian_bricks](../images/cataclysm_obsidian_bricks.png) |
 
 ---
@@ -412,7 +412,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Obsidian | ![obsidian](../images/cataclysm_obsidian.png) |
+| - | Obsidian | ![obsidian](../images/cataclysm_chiseled_obsidian_bricks.png) |
 | - | Obsidian Bricks | ![obsidian_bricks](../images/cataclysm_obsidian_bricks.png) |
 
 ---
@@ -430,7 +430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Stone | ![end_stone](../images/cataclysm_end_stone.png) |
+| - | End Stone | ![end_stone](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Polished End Stone Slab
@@ -438,7 +438,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Stone | ![end_stone](../images/cataclysm_end_stone.png) |
+| - | End Stone | ![end_stone](../images/cataclysm_chiseled_end_stone_bricks.png) |
 | - | Polished End Stone | ![polished_end_stone](../images/cataclysm_polished_end_stone.png) |
 
 ---
@@ -447,7 +447,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | End Stone | ![end_stone](../images/cataclysm_end_stone.png) |
+| - | End Stone | ![end_stone](../images/cataclysm_chiseled_end_stone_bricks.png) |
 | - | Polished End Stone | ![polished_end_stone](../images/cataclysm_polished_end_stone.png) |
 
 ---
@@ -456,7 +456,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purpur Block | ![purpur_block](../images/cataclysm_purpur_block.png) |
+| # | Purpur Block | ![purpur_block](../images/cataclysm_chiseled_purpur_block.png) |
 | C | Void Stone | ![void_stone](../images/cataclysm_void_stone.png) |
 
 ---
@@ -465,7 +465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purpur Block | ![purpur_block](../images/cataclysm_purpur_block.png) |
+| # | Purpur Block | ![purpur_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---
 ## Purpur Wall
@@ -473,7 +473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purpur Block | ![purpur_block](../images/cataclysm_purpur_block.png) |
+| - | Purpur Block | ![purpur_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---
 ## Quartz Brick Wall
@@ -481,7 +481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Quartz Bricks | ![quartz_bricks](../images/cataclysm_quartz_bricks.png) |
+| # | Quartz Bricks | ![quartz_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Quartz Brick Wall
@@ -489,7 +489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz Bricks | ![quartz_bricks](../images/cataclysm_quartz_bricks.png) |
+| - | Quartz Bricks | ![quartz_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Sticky Gloves
@@ -497,10 +497,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/cataclysm_string.png) |
-| - | Leather | ![leather](../images/cataclysm_leather.png) |
-| - | Slime Ball | ![slime_ball](../images/cataclysm_slime_ball.png) |
-| - | Rabbit Hide | ![rabbit_hide](../images/cataclysm_rabbit_hide.png) |
+| - | String | ![string](../images/cataclysm_abyssal_egg.png) |
+| - | Leather | ![leather](../images/cataclysm_abyssal_egg.png) |
+| - | Slime Ball | ![slime_ball](../images/cataclysm_abyssal_egg.png) |
+| - | Rabbit Hide | ![rabbit_hide](../images/cataclysm_abyssal_egg.png) |
 
 ---
 ## Stone Pillar
@@ -508,7 +508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stone | ![stone](../images/cataclysm_stone.png) |
+| # | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
 
 ---
 ## Stone Pillar
@@ -516,7 +516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/cataclysm_stone.png) |
+| - | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
 
 ---
 ## Stone Tiles
@@ -524,7 +524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stone Bricks | ![stone_bricks](../images/cataclysm_stone_bricks.png) |
+| S | Stone Bricks | ![stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
 
 ---
 ## Stone Tiles
@@ -532,8 +532,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone Bricks | ![stone_bricks](../images/cataclysm_stone_bricks.png) |
-| - | Stone | ![stone](../images/cataclysm_stone.png) |
+| - | Stone Bricks | ![stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
+| - | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
 
 ---
 ## Stone Tile Slab
@@ -541,7 +541,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/cataclysm_stone.png) |
+| - | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
 | - | Stone Tiles | ![stone_tiles](../images/cataclysm_stone_tiles.png) |
 
 ---
@@ -550,7 +550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/cataclysm_stone.png) |
+| - | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
 | - | Stone Tiles | ![stone_tiles](../images/cataclysm_stone_tiles.png) |
 
 ---
@@ -559,7 +559,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stone | ![stone](../images/cataclysm_stone.png) |
+| - | Stone | ![stone](../images/cataclysm_bloom_stone_pauldrons.png) |
 | - | Stone Tiles | ![stone_tiles](../images/cataclysm_stone_tiles.png) |
 
 ---
@@ -568,9 +568,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| / | Blaze Rod | ![blaze_rod](../images/cataclysm_blaze_rod.png) |
+| / | Blaze Rod | ![blaze_rod](../images/cataclysm_abyssal_egg.png) |
 | # | Ignitium Ingot | ![ignitium_ingot](../images/cataclysm_ignitium_ingot.png) |
-| N | Netherite Sword | ![netherite_sword](../images/cataclysm_netherite_sword.png) |
+| N | Netherite Sword | ![netherite_sword](../images/cataclysm_music_disc_netherite_monstrosity.png) |
 
 ---
 ## Void Assault Shoulder Weapon
@@ -585,11 +585,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Purpur Pillar | ![purpur_pillar](../images/cataclysm_purpur_pillar.png) |
-| S | Shulker Shell | ![shulker_shell](../images/cataclysm_shulker_shell.png) |
-| E | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_end_stone_bricks.png) |
-| V | Ender Eye | ![ender_eye](../images/cataclysm_ender_eye.png) |
-| P | Purpur Block | ![purpur_block](../images/cataclysm_purpur_block.png) |
+| # | Purpur Pillar | ![purpur_pillar](../images/cataclysm_chiseled_purpur_block.png) |
+| S | Shulker Shell | ![shulker_shell](../images/cataclysm_amethyst_crab_shell.png) |
+| E | End Stone Bricks | ![end_stone_bricks](../images/cataclysm_chiseled_end_stone_bricks.png) |
+| V | Ender Eye | ![ender_eye](../images/cataclysm_abyss_eye.png) |
+| P | Purpur Block | ![purpur_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---
 ## Void Forge
@@ -605,7 +605,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Void Jaw | ![void_jaw](../images/cataclysm_void_jaw.png) |
-| S | Spectral Arrow | ![spectral_arrow](../images/cataclysm_spectral_arrow.png) |
+| S | Spectral Arrow | ![spectral_arrow](../images/cataclysm_void_scatter_arrow.png) |
 
 ---
 ## Witherite Block
@@ -630,7 +630,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | n | Witherite Ingot | ![witherite_ingot](../images/cataclysm_witherite_ingot.png) |
-| G | Gunpowder | ![gunpowder](../images/cataclysm_gunpowder.png) |
-| R | Redstone Block | ![redstone_block](../images/cataclysm_redstone_block.png) |
+| G | Gunpowder | ![gunpowder](../images/cataclysm_abyssal_egg.png) |
+| R | Redstone Block | ![redstone_block](../images/cataclysm_chiseled_purpur_block.png) |
 
 ---

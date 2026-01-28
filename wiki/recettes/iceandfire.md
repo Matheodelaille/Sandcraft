@@ -8,7 +8,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/iceandfire_pixie_dust.png) |
-| - | Bowl | ![bowl](../images/iceandfire_bowl.png) |
+| - | Bowl | ![bowl](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Amphithere Arrow
@@ -17,7 +17,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
-| X | Flint | ![flint](../images/iceandfire_flint.png) |
+| X | Flint | ![flint](../images/iceandfire_ambrosia.png) |
 | Y | Amphithere Feather | ![amphithere_feather](../images/iceandfire_amphithere_feather.png) |
 
 ---
@@ -27,9 +27,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | F | Amphithere Feather | ![amphithere_feather](../images/iceandfire_amphithere_feather.png) |
-| O | Obsidian | ![obsidian](../images/iceandfire_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/iceandfire_ambrosia.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
-| X | Planks | ![planks](../images/iceandfire_planks.png) |
+| X | Planks | ![planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Armor Amythest Boots
@@ -37,7 +37,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_dragonscales_amythest.png) |
+| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_amythest_block.png) |
 
 ---
 ## Armor Amythest Chestplate
@@ -45,7 +45,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_dragonscales_amythest.png) |
+| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_amythest_block.png) |
 
 ---
 ## Armor Amythest Helmet
@@ -53,7 +53,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_dragonscales_amythest.png) |
+| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_amythest_block.png) |
 
 ---
 ## Armor Amythest Leggings
@@ -61,7 +61,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_dragonscales_amythest.png) |
+| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_amythest_block.png) |
 
 ---
 ## Armor Black Boots
@@ -69,7 +69,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_dragonscales_black.png) |
+| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_armor_black_boots.png) |
 
 ---
 ## Armor Black Chestplate
@@ -77,7 +77,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_dragonscales_black.png) |
+| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_armor_black_boots.png) |
 
 ---
 ## Armor Black Helmet
@@ -85,7 +85,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_dragonscales_black.png) |
+| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_armor_black_boots.png) |
 
 ---
 ## Armor Black Leggings
@@ -93,7 +93,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_dragonscales_black.png) |
+| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_armor_black_boots.png) |
 
 ---
 ## Armor Blue Boots
@@ -101,7 +101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_dragonscales_blue.png) |
+| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_armor_blue_boots.png) |
 
 ---
 ## Armor Blue Chestplate
@@ -109,7 +109,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_dragonscales_blue.png) |
+| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_armor_blue_boots.png) |
 
 ---
 ## Armor Blue Helmet
@@ -117,7 +117,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_dragonscales_blue.png) |
+| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_armor_blue_boots.png) |
 
 ---
 ## Armor Blue Leggings
@@ -125,7 +125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_dragonscales_blue.png) |
+| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_armor_blue_boots.png) |
 
 ---
 ## Armor Bronze Boots
@@ -133,7 +133,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_dragonscales_bronze.png) |
+| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_armor_bronze_boots.png) |
 
 ---
 ## Armor Bronze Chestplate
@@ -141,7 +141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_dragonscales_bronze.png) |
+| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_armor_bronze_boots.png) |
 
 ---
 ## Armor Bronze Helmet
@@ -149,7 +149,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_dragonscales_bronze.png) |
+| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_armor_bronze_boots.png) |
 
 ---
 ## Armor Bronze Leggings
@@ -157,7 +157,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_dragonscales_bronze.png) |
+| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_armor_bronze_boots.png) |
 
 ---
 ## Armor Copper Boots
@@ -165,7 +165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_dragonscales_copper.png) |
+| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_armor_copper_boots.png) |
 
 ---
 ## Armor Copper Chestplate
@@ -173,7 +173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_dragonscales_copper.png) |
+| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_armor_copper_boots.png) |
 
 ---
 ## Armor Copper Helmet
@@ -181,7 +181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_dragonscales_copper.png) |
+| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_armor_copper_boots.png) |
 
 ---
 ## Armor Copper Leggings
@@ -189,7 +189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_dragonscales_copper.png) |
+| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_armor_copper_boots.png) |
 
 ---
 ## Armor Copper Metal Boots
@@ -229,7 +229,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_dragonscales_electric.png) |
+| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_armor_electric_boots.png) |
 
 ---
 ## Armor Electric Chestplate
@@ -237,7 +237,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_dragonscales_electric.png) |
+| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_armor_electric_boots.png) |
 
 ---
 ## Armor Electric Helmet
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_dragonscales_electric.png) |
+| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_armor_electric_boots.png) |
 
 ---
 ## Armor Electric Leggings
@@ -253,7 +253,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_dragonscales_electric.png) |
+| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_armor_electric_boots.png) |
 
 ---
 ## Armor Gray Boots
@@ -261,7 +261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_dragonscales_gray.png) |
+| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_armor_gray_boots.png) |
 
 ---
 ## Armor Gray Chestplate
@@ -269,7 +269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_dragonscales_gray.png) |
+| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_armor_gray_boots.png) |
 
 ---
 ## Armor Gray Helmet
@@ -277,7 +277,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_dragonscales_gray.png) |
+| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_armor_gray_boots.png) |
 
 ---
 ## Armor Gray Leggings
@@ -285,7 +285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_dragonscales_gray.png) |
+| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_armor_gray_boots.png) |
 
 ---
 ## Armor Green Boots
@@ -293,7 +293,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_dragonscales_green.png) |
+| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_armor_green_boots.png) |
 
 ---
 ## Armor Green Chestplate
@@ -301,7 +301,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_dragonscales_green.png) |
+| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_armor_green_boots.png) |
 
 ---
 ## Armor Green Helmet
@@ -309,7 +309,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_dragonscales_green.png) |
+| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_armor_green_boots.png) |
 
 ---
 ## Armor Green Leggings
@@ -317,7 +317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_dragonscales_green.png) |
+| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_armor_green_boots.png) |
 
 ---
 ## Armor Red Boots
@@ -325,7 +325,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_dragonscales_red.png) |
+| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_armor_red_boots.png) |
 
 ---
 ## Armor Red Chestplate
@@ -333,7 +333,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_dragonscales_red.png) |
+| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_armor_red_boots.png) |
 
 ---
 ## Armor Red Helmet
@@ -341,7 +341,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_dragonscales_red.png) |
+| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_armor_red_boots.png) |
 
 ---
 ## Armor Red Leggings
@@ -349,7 +349,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_dragonscales_red.png) |
+| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_armor_red_boots.png) |
 
 ---
 ## Armor Sapphire Boots
@@ -357,7 +357,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_dragonscales_sapphire.png) |
+| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_armor_sapphire_boots.png) |
 
 ---
 ## Armor Sapphire Chestplate
@@ -365,7 +365,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_dragonscales_sapphire.png) |
+| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_armor_sapphire_boots.png) |
 
 ---
 ## Armor Sapphire Helmet
@@ -373,7 +373,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_dragonscales_sapphire.png) |
+| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_armor_sapphire_boots.png) |
 
 ---
 ## Armor Sapphire Leggings
@@ -381,7 +381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_dragonscales_sapphire.png) |
+| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_armor_sapphire_boots.png) |
 
 ---
 ## Armor Silver Boots
@@ -389,7 +389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_dragonscales_silver.png) |
+| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_armor_silver_boots.png) |
 
 ---
 ## Armor Silver Chestplate
@@ -397,7 +397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_dragonscales_silver.png) |
+| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_armor_silver_boots.png) |
 
 ---
 ## Armor Silver Helmet
@@ -405,7 +405,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_dragonscales_silver.png) |
+| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_armor_silver_boots.png) |
 
 ---
 ## Armor Silver Leggings
@@ -413,7 +413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_dragonscales_silver.png) |
+| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_armor_silver_boots.png) |
 
 ---
 ## Armor Silver Metal Boots
@@ -453,7 +453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_dragonscales_white.png) |
+| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Armor White Chestplate
@@ -461,7 +461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_dragonscales_white.png) |
+| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Armor White Helmet
@@ -469,7 +469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_dragonscales_white.png) |
+| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Armor White Leggings
@@ -477,7 +477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_dragonscales_white.png) |
+| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Ash
@@ -485,15 +485,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
-| - | Charred Blocks | ![charred_blocks](../images/iceandfire_charred_blocks.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
+| - | Charred Blocks | ![charred_blocks](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Charcoal
@@ -518,7 +518,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Amphithere Feather | ![amphithere_feather](../images/iceandfire_amphithere_feather.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Bird
@@ -527,7 +527,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Stymphalian Bird Feather | ![stymphalian_bird_feather](../images/iceandfire_stymphalian_bird_feather.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Dread
@@ -536,7 +536,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dread Shard | ![dread_shard](../images/iceandfire_dread_shard.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Eye
@@ -545,7 +545,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cyclops Eye | ![cyclops_eye](../images/iceandfire_cyclops_eye.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Fae
@@ -554,7 +554,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pixie Wings | ![pixie_wings](../images/iceandfire_pixie_wings.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Feather
@@ -562,8 +562,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Feather | ![feather](../images/iceandfire_feather.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Feather | ![feather](../images/iceandfire_amphithere_feather.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Fire
@@ -572,7 +572,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fire Dragon Heart | ![fire_dragon_heart](../images/iceandfire_fire_dragon_heart.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Fire Head
@@ -581,7 +581,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dragon Skull Fire | ![dragon_skull_fire](../images/iceandfire_dragon_skull_fire.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Gorgon
@@ -590,7 +590,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Gorgon Head | ![gorgon_head](../images/iceandfire_gorgon_head.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Hippocampus
@@ -599,7 +599,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Hippocampus Fin | ![hippocampus_fin](../images/iceandfire_hippocampus_fin.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Hippogryph Head
@@ -608,7 +608,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Hippogryph Skull | ![hippogryph_skull](../images/iceandfire_hippogryph_skull.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Ice
@@ -617,7 +617,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ice Dragon Heart | ![ice_dragon_heart](../images/iceandfire_ice_dragon_heart.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Ice Head
@@ -626,7 +626,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dragon Skull Ice | ![dragon_skull_ice](../images/iceandfire_dragon_skull_ice.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Lightning
@@ -635,7 +635,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lightning Dragon Heart | ![lightning_dragon_heart](../images/iceandfire_lightning_dragon_heart.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Lightning Head
@@ -644,7 +644,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dragon Skull Lightning | ![dragon_skull_lightning](../images/iceandfire_dragon_skull_lightning.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Mermaid
@@ -653,7 +653,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Siren Tear | ![siren_tear](../images/iceandfire_siren_tear.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Sea Serpent
@@ -661,8 +661,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Fang | ![sea_serpent_fang](../images/iceandfire_sea_serpent_fang.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Sea Serpent Fang | ![sea_serpent_fang](../images/iceandfire_sea_serpent_arrow.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Troll
@@ -671,7 +671,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Troll Tusk | ![troll_tusk](../images/iceandfire_troll_tusk.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Banner Pattern Weezer
@@ -680,7 +680,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Weezer Blue Album | ![weezer_blue_album](../images/iceandfire_weezer_blue_album.png) |
-| - | Paper | ![paper](../images/iceandfire_paper.png) |
+| - | Paper | ![paper](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Bestiary
@@ -698,8 +698,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather | ![leather](../images/iceandfire_leather.png) |
-| S | String | ![string](../images/iceandfire_string.png) |
+| L | Leather | ![leather](../images/iceandfire_forest_troll_leather_boots.png) |
+| S | String | ![string](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Chain
@@ -715,7 +715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Slimeballs | ![slimeballs](../images/iceandfire_slimeballs.png) |
+| - | Slimeballs | ![slimeballs](../images/iceandfire_ambrosia.png) |
 | - | Chain | ![chain](../images/iceandfire_chain.png) |
 
 ---
@@ -844,15 +844,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
-| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled_blocks.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
+| - | Crackled Blocks | ![crackled_blocks](../images/iceandfire_crackled.png) |
 
 ---
 ## Deathworm Gauntlet Red
@@ -1002,8 +1002,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Diamond Horse Armor | ![diamond_horse_armor](../images/iceandfire_diamond_horse_armor.png) |
-| F | Feathers | ![feathers](../images/iceandfire_feathers.png) |
+| D | Diamond Horse Armor | ![diamond_horse_armor](../images/iceandfire_diamond_hippogryph_armor.png) |
+| F | Feathers | ![feathers](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Dragonarmor Copper Body
@@ -1294,7 +1294,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dragonbone | ![dragonbone](../images/iceandfire_dragonbone.png) |
-| S | String | ![string](../images/iceandfire_string.png) |
+| S | String | ![string](../images/iceandfire_ambrosia.png) |
 | W | Bones/Wither | ![bones/wither](../images/iceandfire_bones/wither.png) |
 
 ---
@@ -1360,7 +1360,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone Bricks | ![stone_bricks](../images/iceandfire_stone_bricks.png) |
+| B | Stone Bricks | ![stone_bricks](../images/iceandfire_dread_stone_bricks.png) |
 | S | Storage Blocks/Scales/Dragon/Fire | ![storage_blocks/scales/dragon/fire](../images/iceandfire_storage_blocks/scales/dragon/fire.png) |
 
 ---
@@ -1387,7 +1387,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone Bricks | ![stone_bricks](../images/iceandfire_stone_bricks.png) |
+| B | Stone Bricks | ![stone_bricks](../images/iceandfire_dread_stone_bricks.png) |
 | S | Storage Blocks/Scales/Dragon/Ice | ![storage_blocks/scales/dragon/ice](../images/iceandfire_storage_blocks/scales/dragon/ice.png) |
 
 ---
@@ -1414,7 +1414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone Bricks | ![stone_bricks](../images/iceandfire_stone_bricks.png) |
+| B | Stone Bricks | ![stone_bricks](../images/iceandfire_dread_stone_bricks.png) |
 | S | Storage Blocks/Scales/Dragon/Lightning | ![storage_blocks/scales/dragon/lightning](../images/iceandfire_storage_blocks/scales/dragon/lightning.png) |
 
 ---
@@ -1441,7 +1441,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_dragonscales_amythest.png) |
+| # | Dragonscales Amythest | ![dragonscales_amythest](../images/iceandfire_amythest_block.png) |
 
 ---
 ## Dragonscale Black
@@ -1449,7 +1449,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_dragonscales_black.png) |
+| # | Dragonscales Black | ![dragonscales_black](../images/iceandfire_armor_black_boots.png) |
 
 ---
 ## Dragonscale Blue
@@ -1457,7 +1457,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_dragonscales_blue.png) |
+| # | Dragonscales Blue | ![dragonscales_blue](../images/iceandfire_armor_blue_boots.png) |
 
 ---
 ## Dragonscale Bronze
@@ -1465,7 +1465,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_dragonscales_bronze.png) |
+| # | Dragonscales Bronze | ![dragonscales_bronze](../images/iceandfire_armor_bronze_boots.png) |
 
 ---
 ## Dragonscale Copper
@@ -1473,7 +1473,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_dragonscales_copper.png) |
+| # | Dragonscales Copper | ![dragonscales_copper](../images/iceandfire_armor_copper_boots.png) |
 
 ---
 ## Dragonscale Electric
@@ -1481,7 +1481,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_dragonscales_electric.png) |
+| # | Dragonscales Electric | ![dragonscales_electric](../images/iceandfire_armor_electric_boots.png) |
 
 ---
 ## Dragonscale Gray
@@ -1489,7 +1489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_dragonscales_gray.png) |
+| # | Dragonscales Gray | ![dragonscales_gray](../images/iceandfire_armor_gray_boots.png) |
 
 ---
 ## Dragonscale Green
@@ -1497,7 +1497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_dragonscales_green.png) |
+| # | Dragonscales Green | ![dragonscales_green](../images/iceandfire_armor_green_boots.png) |
 
 ---
 ## Dragonscale Red
@@ -1505,7 +1505,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_dragonscales_red.png) |
+| # | Dragonscales Red | ![dragonscales_red](../images/iceandfire_armor_red_boots.png) |
 
 ---
 ## Dragonscale Sapphire
@@ -1513,7 +1513,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_dragonscales_sapphire.png) |
+| # | Dragonscales Sapphire | ![dragonscales_sapphire](../images/iceandfire_armor_sapphire_boots.png) |
 
 ---
 ## Dragonscale Silver
@@ -1521,7 +1521,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_dragonscales_silver.png) |
+| # | Dragonscales Silver | ![dragonscales_silver](../images/iceandfire_armor_silver_boots.png) |
 
 ---
 ## Dragonscale White
@@ -1529,7 +1529,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_dragonscales_white.png) |
+| # | Dragonscales White | ![dragonscales_white](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Dragonscales Amythest
@@ -1967,15 +1967,15 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
-| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen_blocks.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
+| - | Frozen Blocks | ![frozen_blocks](../images/iceandfire_frozen.png) |
 
 ---
 ## Dragon Ice Spikes
@@ -1991,8 +1991,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bones | ![bones](../images/iceandfire_bones.png) |
-| M | Dragon Food Meat | ![dragon_food_meat](../images/iceandfire_dragon_food_meat.png) |
+| B | Bones | ![bones](../images/iceandfire_ambrosia.png) |
+| M | Dragon Food Meat | ![dragon_food_meat](../images/iceandfire_fire_dragon_meat.png) |
 
 ---
 ## Dragon Stick
@@ -2000,7 +2000,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dragon Skulls | ![dragon_skulls](../images/iceandfire_dragon_skulls.png) |
+| S | Dragon Skulls | ![dragon_skulls](../images/iceandfire_creative_dragon_meal.png) |
 | T | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
 
 ---
@@ -2018,7 +2018,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dread Shard | ![dread_shard](../images/iceandfire_dread_shard.png) |
-| S | Stone | ![stone](../images/iceandfire_stone.png) |
+| S | Stone | ![stone](../images/iceandfire_chared_stone.png) |
 
 ---
 ## Dread Stone Bricks
@@ -2050,7 +2050,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Vine | ![vine](../images/iceandfire_vine.png) |
+| - | Vine | ![vine](../images/iceandfire_ambrosia.png) |
 | - | Dread Stone Bricks | ![dread_stone_bricks](../images/iceandfire_dread_stone_bricks.png) |
 
 ---
@@ -2060,7 +2060,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dread Stone Bricks | ![dread_stone_bricks](../images/iceandfire_dread_stone_bricks.png) |
-| S | Skeleton Skull | ![skeleton_skull](../images/iceandfire_skeleton_skull.png) |
+| S | Skeleton Skull | ![skeleton_skull](../images/iceandfire_amphithere_skull.png) |
 
 ---
 ## Dread Stone Slab
@@ -2101,7 +2101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Planks | ![planks](../images/iceandfire_planks.png) |
+| B | Planks | ![planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Fire Stew
@@ -2109,8 +2109,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/iceandfire_bowl.png) |
-| - | Blaze Rod | ![blaze_rod](../images/iceandfire_blaze_rod.png) |
+| - | Bowl | ![bowl](../images/iceandfire_ambrosia.png) |
+| - | Blaze Rod | ![blaze_rod](../images/iceandfire_ambrosia.png) |
 | - | Fire Lily | ![fire_lily](../images/iceandfire_fire_lily.png) |
 
 ---
@@ -2152,8 +2152,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Bowl | ![bowl](../images/iceandfire_bowl.png) |
-| - | Prismarine Crystals | ![prismarine_crystals](../images/iceandfire_prismarine_crystals.png) |
+| - | Bowl | ![bowl](../images/iceandfire_ambrosia.png) |
+| - | Prismarine Crystals | ![prismarine_crystals](../images/iceandfire_ambrosia.png) |
 | - | Frost Lily | ![frost_lily](../images/iceandfire_frost_lily.png) |
 
 ---
@@ -2211,7 +2211,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Frozen Grass | ![frozen_grass](../images/iceandfire_frozen_grass.png) |
+| item | Frozen Grass | ![frozen_grass](../images/iceandfire_frozen_grass_side.png) |
 
 ---
 ## Dirt Path
@@ -2219,7 +2219,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Frozen Dirt Path | ![frozen_dirt_path](../images/iceandfire_frozen_dirt_path.png) |
+| item | Frozen Dirt Path | ![frozen_dirt_path](../images/iceandfire_frozen_dirt_path_side.png) |
 
 ---
 ## Gravel
@@ -2267,8 +2267,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Golden Horse Armor | ![golden_horse_armor](../images/iceandfire_golden_horse_armor.png) |
-| F | Feathers | ![feathers](../images/iceandfire_feathers.png) |
+| D | Golden Horse Armor | ![golden_horse_armor](../images/iceandfire_armor_amythest_boots.png) |
+| F | Feathers | ![feathers](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Gold Pile
@@ -2285,7 +2285,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Coarse Dirt | ![coarse_dirt](../images/iceandfire_coarse_dirt.png) |
+| C | Coarse Dirt | ![coarse_dirt](../images/iceandfire_chared_dirt.png) |
 | E | Ectoplasm | ![ectoplasm](../images/iceandfire_ectoplasm.png) |
 
 ---
@@ -2306,7 +2306,7 @@
 | T | Hippogryph Talon | ![hippogryph_talon](../images/iceandfire_hippogryph_talon.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/iceandfire_ingots/iron.png) |
-| F | Feathers | ![feathers](../images/iceandfire_feathers.png) |
+| F | Feathers | ![feathers](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Hydra Arrow
@@ -2316,7 +2316,7 @@
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
 | X | Hydra Fang | ![hydra_fang](../images/iceandfire_hydra_fang.png) |
-| Y | Lily Pad | ![lily_pad](../images/iceandfire_lily_pad.png) |
+| Y | Lily Pad | ![lily_pad](../images/iceandfire_fire_lily.png) |
 
 ---
 ## Iron Hippogryph Armor
@@ -2324,8 +2324,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Iron Horse Armor | ![iron_horse_armor](../images/iceandfire_iron_horse_armor.png) |
-| F | Feathers | ![feathers](../images/iceandfire_feathers.png) |
+| D | Iron Horse Armor | ![iron_horse_armor](../images/iceandfire_iron_hippogryph_armor.png) |
+| F | Feathers | ![feathers](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Pixie Jar Empty
@@ -2334,7 +2334,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Glass/Colorless | ![glass/colorless](../images/iceandfire_glass/colorless.png) |
-| P | Planks | ![planks](../images/iceandfire_planks.png) |
+| P | Planks | ![planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Lectern
@@ -2342,7 +2342,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Planks | ![planks](../images/iceandfire_planks.png) |
+| P | Planks | ![planks](../images/iceandfire_dreadwood_planks.png) |
 | B | Manuscript | ![manuscript](../images/iceandfire_manuscript.png) |
 
 ---
@@ -2351,9 +2351,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chorus Fruit | ![chorus_fruit](../images/iceandfire_chorus_fruit.png) |
+| - | Chorus Fruit | ![chorus_fruit](../images/iceandfire_ambrosia.png) |
 | - | Lightning Lily | ![lightning_lily](../images/iceandfire_lightning_lily.png) |
-| - | Bowl | ![bowl](../images/iceandfire_bowl.png) |
+| - | Bowl | ![bowl](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Mountain Troll Leather Boots
@@ -2394,8 +2394,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Myrmex Resin Sticky Desert | ![myrmex_resin_sticky_desert](../images/iceandfire_myrmex_resin_sticky_desert.png) |
-| R | Myrmex Resin Desert | ![myrmex_resin_desert](../images/iceandfire_myrmex_resin_desert.png) |
+| S | Myrmex Resin Sticky Desert | ![myrmex_resin_sticky_desert](../images/iceandfire_desert_myrmex_resin_sticky.png) |
+| R | Myrmex Resin Desert | ![myrmex_resin_desert](../images/iceandfire_desert_myrmex_resin.png) |
 
 ---
 ## Jungle Myrmex Cocoon
@@ -2403,8 +2403,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Myrmex Resin Sticky Jungle | ![myrmex_resin_sticky_jungle](../images/iceandfire_myrmex_resin_sticky_jungle.png) |
-| R | Myrmex Resin Jungle | ![myrmex_resin_jungle](../images/iceandfire_myrmex_resin_jungle.png) |
+| S | Myrmex Resin Sticky Jungle | ![myrmex_resin_sticky_jungle](../images/iceandfire_jungle_myrmex_resin_sticky.png) |
+| R | Myrmex Resin Jungle | ![myrmex_resin_jungle](../images/iceandfire_jungle_myrmex_resin.png) |
 
 ---
 ## Myrmex Desert Axe
@@ -2471,7 +2471,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Myrmex Desert Resin Block | ![myrmex_desert_resin_block](../images/iceandfire_myrmex_desert_resin_block.png) |
+| item | Myrmex Desert Resin Block | ![myrmex_desert_resin_block](../images/iceandfire_desert_myrmex_resin.png) |
 
 ---
 ## Myrmex Desert Shovel
@@ -2488,7 +2488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Myrmex Desert Resin Block | ![myrmex_desert_resin_block](../images/iceandfire_myrmex_desert_resin_block.png) |
+| R | Myrmex Desert Resin Block | ![myrmex_desert_resin_block](../images/iceandfire_desert_myrmex_resin.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
 | E | Myrmex Desert Egg | ![myrmex_desert_egg](../images/iceandfire_myrmex_desert_egg.png) |
 
@@ -2566,7 +2566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Myrmex Jungle Resin Block | ![myrmex_jungle_resin_block](../images/iceandfire_myrmex_jungle_resin_block.png) |
+| item | Myrmex Jungle Resin Block | ![myrmex_jungle_resin_block](../images/iceandfire_jungle_myrmex_resin.png) |
 
 ---
 ## Myrmex Jungle Shovel
@@ -2583,7 +2583,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Myrmex Jungle Resin Block | ![myrmex_jungle_resin_block](../images/iceandfire_myrmex_jungle_resin_block.png) |
+| R | Myrmex Jungle Resin Block | ![myrmex_jungle_resin_block](../images/iceandfire_jungle_myrmex_resin.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
 | E | Myrmex Jungle Egg | ![myrmex_jungle_egg](../images/iceandfire_myrmex_jungle_egg.png) |
 
@@ -2619,7 +2619,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Myrmex Desert Resin | ![myrmex_desert_resin](../images/iceandfire_myrmex_desert_resin.png) |
-| - | Myrmex Resin Desert | ![myrmex_resin_desert](../images/iceandfire_myrmex_resin_desert.png) |
+| - | Myrmex Resin Desert | ![myrmex_resin_desert](../images/iceandfire_desert_myrmex_resin.png) |
 
 ---
 ## Myrmex Resin Sticky Jungle
@@ -2628,7 +2628,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Myrmex Jungle Resin | ![myrmex_jungle_resin](../images/iceandfire_myrmex_jungle_resin.png) |
-| - | Myrmex Resin Jungle | ![myrmex_resin_jungle](../images/iceandfire_myrmex_resin_jungle.png) |
+| - | Myrmex Resin Jungle | ![myrmex_resin_jungle](../images/iceandfire_jungle_myrmex_resin.png) |
 
 ---
 ## Myrmex Desert Staff
@@ -2677,7 +2677,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Dragonbone | ![dragonbone](../images/iceandfire_dragonbone.png) |
-| H | Hay Block | ![hay_block](../images/iceandfire_hay_block.png) |
+| H | Hay Block | ![hay_block](../images/iceandfire_amythest_block.png) |
 
 ---
 ## Blue Ice
@@ -2694,7 +2694,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/iceandfire_gems/diamond.png) |
-| B | Blaze Rod | ![blaze_rod](../images/iceandfire_blaze_rod.png) |
+| B | Blaze Rod | ![blaze_rod](../images/iceandfire_ambrosia.png) |
 | W | Pixie Wings | ![pixie_wings](../images/iceandfire_pixie_wings.png) |
 
 ---
@@ -2703,8 +2703,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Oak Slab | ![oak_slab](../images/iceandfire_oak_slab.png) |
-| P | Oak Planks | ![oak_planks](../images/iceandfire_oak_planks.png) |
+| S | Oak Slab | ![oak_slab](../images/iceandfire_ambrosia.png) |
+| P | Oak Planks | ![oak_planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Podium Birch
@@ -2712,8 +2712,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Birch Slab | ![birch_slab](../images/iceandfire_birch_slab.png) |
-| P | Birch Planks | ![birch_planks](../images/iceandfire_birch_planks.png) |
+| S | Birch Slab | ![birch_slab](../images/iceandfire_ambrosia.png) |
+| P | Birch Planks | ![birch_planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Podium Spruce
@@ -2721,8 +2721,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Spruce Slab | ![spruce_slab](../images/iceandfire_spruce_slab.png) |
-| P | Spruce Planks | ![spruce_planks](../images/iceandfire_spruce_planks.png) |
+| S | Spruce Slab | ![spruce_slab](../images/iceandfire_ambrosia.png) |
+| P | Spruce Planks | ![spruce_planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Podium Jungle
@@ -2730,8 +2730,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Jungle Slab | ![jungle_slab](../images/iceandfire_jungle_slab.png) |
-| P | Jungle Planks | ![jungle_planks](../images/iceandfire_jungle_planks.png) |
+| S | Jungle Slab | ![jungle_slab](../images/iceandfire_jungle_myrmex_resin.png) |
+| P | Jungle Planks | ![jungle_planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Podium Acacia
@@ -2739,8 +2739,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Acacia Slab | ![acacia_slab](../images/iceandfire_acacia_slab.png) |
-| P | Acacia Planks | ![acacia_planks](../images/iceandfire_acacia_planks.png) |
+| S | Acacia Slab | ![acacia_slab](../images/iceandfire_ambrosia.png) |
+| P | Acacia Planks | ![acacia_planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Podium Dark Oak
@@ -2748,8 +2748,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Dark Oak Slab | ![dark_oak_slab](../images/iceandfire_dark_oak_slab.png) |
-| P | Dark Oak Planks | ![dark_oak_planks](../images/iceandfire_dark_oak_planks.png) |
+| S | Dark Oak Slab | ![dark_oak_slab](../images/iceandfire_ambrosia.png) |
+| P | Dark Oak Planks | ![dark_oak_planks](../images/iceandfire_dreadwood_planks.png) |
 
 ---
 ## Sapphire Gem
@@ -2781,7 +2781,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Sapphire Gem | ![sapphire_gem](../images/iceandfire_sapphire_gem.png) |
+| # | Sapphire Gem | ![sapphire_gem](../images/iceandfire_amythest_gem.png) |
 
 ---
 ## Sea Serpent Arrow
@@ -2790,7 +2790,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
-| X | Sea Serpent Fang | ![sea_serpent_fang](../images/iceandfire_sea_serpent_fang.png) |
+| X | Sea Serpent Fang | ![sea_serpent_fang](../images/iceandfire_sea_serpent_arrow.png) |
 | Y | Scales/Sea Serpent | ![scales/sea_serpent](../images/iceandfire_scales/sea_serpent.png) |
 
 ---
@@ -2855,7 +2855,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Blue | ![sea_serpent_scale_block_blue](../images/iceandfire_sea_serpent_scale_block_blue.png) |
+| - | Sea Serpent Scale Block Blue | ![sea_serpent_scale_block_blue](../images/iceandfire_sea_serpent_scales_blue.png) |
 
 ---
 ## Sea Serpent Scales Bronze
@@ -2863,7 +2863,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Bronze | ![sea_serpent_scale_block_bronze](../images/iceandfire_sea_serpent_scale_block_bronze.png) |
+| - | Sea Serpent Scale Block Bronze | ![sea_serpent_scale_block_bronze](../images/iceandfire_sea_serpent_scales_bronze.png) |
 
 ---
 ## Sea Serpent Scales Deepblue
@@ -2871,7 +2871,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Deepblue | ![sea_serpent_scale_block_deepblue](../images/iceandfire_sea_serpent_scale_block_deepblue.png) |
+| - | Sea Serpent Scale Block Deepblue | ![sea_serpent_scale_block_deepblue](../images/iceandfire_sea_serpent_scales_deepblue.png) |
 
 ---
 ## Sea Serpent Scales Green
@@ -2879,7 +2879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Green | ![sea_serpent_scale_block_green](../images/iceandfire_sea_serpent_scale_block_green.png) |
+| - | Sea Serpent Scale Block Green | ![sea_serpent_scale_block_green](../images/iceandfire_sea_serpent_scales_green.png) |
 
 ---
 ## Sea Serpent Scales Purple
@@ -2887,7 +2887,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Purple | ![sea_serpent_scale_block_purple](../images/iceandfire_sea_serpent_scale_block_purple.png) |
+| - | Sea Serpent Scale Block Purple | ![sea_serpent_scale_block_purple](../images/iceandfire_sea_serpent_scales_purple.png) |
 
 ---
 ## Sea Serpent Scales Red
@@ -2895,7 +2895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Red | ![sea_serpent_scale_block_red](../images/iceandfire_sea_serpent_scale_block_red.png) |
+| - | Sea Serpent Scale Block Red | ![sea_serpent_scale_block_red](../images/iceandfire_sea_serpent_scales_red.png) |
 
 ---
 ## Sea Serpent Scales Teal
@@ -2903,7 +2903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Sea Serpent Scale Block Teal | ![sea_serpent_scale_block_teal](../images/iceandfire_sea_serpent_scale_block_teal.png) |
+| - | Sea Serpent Scale Block Teal | ![sea_serpent_scale_block_teal](../images/iceandfire_sea_serpent_scales_teal.png) |
 
 ---
 ## Sheep Boots
@@ -2911,8 +2911,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather Boots | ![leather_boots](../images/iceandfire_leather_boots.png) |
-| W | White Wool | ![white_wool](../images/iceandfire_white_wool.png) |
+| L | Leather Boots | ![leather_boots](../images/iceandfire_forest_troll_leather_boots.png) |
+| W | White Wool | ![white_wool](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Sheep Chestplate
@@ -2920,8 +2920,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather Chestplate | ![leather_chestplate](../images/iceandfire_leather_chestplate.png) |
-| W | White Wool | ![white_wool](../images/iceandfire_white_wool.png) |
+| L | Leather Chestplate | ![leather_chestplate](../images/iceandfire_forest_troll_leather_chestplate.png) |
+| W | White Wool | ![white_wool](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Sheep Helmet
@@ -2929,8 +2929,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather Helmet | ![leather_helmet](../images/iceandfire_leather_helmet.png) |
-| W | White Wool | ![white_wool](../images/iceandfire_white_wool.png) |
+| L | Leather Helmet | ![leather_helmet](../images/iceandfire_forest_troll_leather_helmet.png) |
+| W | White Wool | ![white_wool](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Sheep Leggings
@@ -2938,8 +2938,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather Leggings | ![leather_leggings](../images/iceandfire_leather_leggings.png) |
-| W | White Wool | ![white_wool](../images/iceandfire_white_wool.png) |
+| L | Leather Leggings | ![leather_leggings](../images/iceandfire_forest_troll_leather_leggings.png) |
+| W | White Wool | ![white_wool](../images/iceandfire_armor_white_boots.png) |
 
 ---
 ## Sickly Dragon Meal
@@ -2948,8 +2948,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Dragon Meal | ![dragon_meal](../images/iceandfire_dragon_meal.png) |
-| P | Poisonous Potato | ![poisonous_potato](../images/iceandfire_poisonous_potato.png) |
-| S | Spider Eye | ![spider_eye](../images/iceandfire_spider_eye.png) |
+| P | Poisonous Potato | ![poisonous_potato](../images/iceandfire_ambrosia.png) |
+| S | Spider Eye | ![spider_eye](../images/iceandfire_cockatrice_eye.png) |
 
 ---
 ## Silver Axe
@@ -3101,7 +3101,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mob Skulls | ![mob_skulls](../images/iceandfire_mob_skulls.png) |
+| - | Mob Skulls | ![mob_skulls](../images/iceandfire_ambrosia.png) |
 
 ---
 ## Stymphalian Arrow
@@ -3110,7 +3110,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Rods/Wooden | ![rods/wooden](../images/iceandfire_rods/wooden.png) |
-| X | Flint | ![flint](../images/iceandfire_flint.png) |
+| X | Flint | ![flint](../images/iceandfire_ambrosia.png) |
 | Y | Stymphalian Bird Feather | ![stymphalian_bird_feather](../images/iceandfire_stymphalian_bird_feather.png) |
 
 ---
@@ -3128,7 +3128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | String | ![string](../images/iceandfire_string.png) |
+| S | String | ![string](../images/iceandfire_ambrosia.png) |
 | F | Stymphalian Bird Feather | ![stymphalian_bird_feather](../images/iceandfire_stymphalian_bird_feather.png) |
 
 ---
@@ -3138,7 +3138,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fire Dragon Blood | ![fire_dragon_blood](../images/iceandfire_fire_dragon_blood.png) |
-| - | Ender Pearl | ![ender_pearl](../images/iceandfire_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/iceandfire_ambrosia.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/iceandfire_gems/diamond.png) |
 | - | Gems/Emerald | ![gems/emerald](../images/iceandfire_gems/emerald.png) |
 
@@ -3148,7 +3148,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summoning Crystal Fire | ![summoning_crystal_fire](../images/iceandfire_summoning_crystal_fire.png) |
+| - | Summoning Crystal Fire | ![summoning_crystal_fire](../images/iceandfire_summon_crystal_fire.png) |
 
 ---
 ## Summoning Crystal Ice
@@ -3157,7 +3157,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Ice Dragon Blood | ![ice_dragon_blood](../images/iceandfire_ice_dragon_blood.png) |
-| - | Ender Pearl | ![ender_pearl](../images/iceandfire_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/iceandfire_ambrosia.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/iceandfire_gems/diamond.png) |
 | - | Gems/Sapphire | ![gems/sapphire](../images/iceandfire_gems/sapphire.png) |
 
@@ -3167,7 +3167,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summoning Crystal Ice | ![summoning_crystal_ice](../images/iceandfire_summoning_crystal_ice.png) |
+| - | Summoning Crystal Ice | ![summoning_crystal_ice](../images/iceandfire_summon_crystal_ice.png) |
 
 ---
 ## Summoning Crystal Lightning
@@ -3176,7 +3176,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lightning Dragon Blood | ![lightning_dragon_blood](../images/iceandfire_lightning_dragon_blood.png) |
-| - | Ender Pearl | ![ender_pearl](../images/iceandfire_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/iceandfire_ambrosia.png) |
 | - | Gems/Diamond | ![gems/diamond](../images/iceandfire_gems/diamond.png) |
 | - | Gems/Amethyst | ![gems/amethyst](../images/iceandfire_gems/amethyst.png) |
 
@@ -3186,7 +3186,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Summoning Crystal Lightning | ![summoning_crystal_lightning](../images/iceandfire_summoning_crystal_lightning.png) |
+| - | Summoning Crystal Lightning | ![summoning_crystal_lightning](../images/iceandfire_summon_crystal_lightning.png) |
 
 ---
 ## Tide Blue Boots
@@ -3421,7 +3421,7 @@
 | B | Dragonbone | ![dragonbone](../images/iceandfire_dragonbone.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/iceandfire_gems/diamond.png) |
 | S | Scales/Sea Serpent | ![scales/sea_serpent](../images/iceandfire_scales/sea_serpent.png) |
-| T | Sea Serpent Fang | ![sea_serpent_fang](../images/iceandfire_sea_serpent_fang.png) |
+| T | Sea Serpent Fang | ![sea_serpent_fang](../images/iceandfire_sea_serpent_arrow.png) |
 
 ---
 ## Bone Meal

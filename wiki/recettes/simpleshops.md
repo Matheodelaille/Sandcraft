@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Planks | ![planks](../images/simpleshops_planks.png) |
-| B | Green Dye | ![green_dye](../images/simpleshops_green_dye.png) |
+| A | Planks | ![planks](../images/simpleshops_creative_simple_shop.png) |
+| B | Green Dye | ![green_dye](../images/simpleshops_green_stockbar.png) |
 
 ---
 ## Quartz Stockbar
@@ -16,8 +16,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Planks | ![planks](../images/simpleshops_planks.png) |
-| B | Gray Dye | ![gray_dye](../images/simpleshops_gray_dye.png) |
+| A | Planks | ![planks](../images/simpleshops_creative_simple_shop.png) |
+| B | Gray Dye | ![gray_dye](../images/simpleshops_creative_simple_shop.png) |
 
 ---
 ## Red Stockbar
@@ -25,8 +25,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Planks | ![planks](../images/simpleshops_planks.png) |
-| B | Red Dye | ![red_dye](../images/simpleshops_red_dye.png) |
+| A | Planks | ![planks](../images/simpleshops_creative_simple_shop.png) |
+| B | Red Dye | ![red_dye](../images/simpleshops_red_stockbar.png) |
 
 ---
 ## Simple Shop
@@ -34,9 +34,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Planks | ![planks](../images/simpleshops_planks.png) |
-| Q | Quartz | ![quartz](../images/simpleshops_quartz.png) |
-| C | Chest | ![chest](../images/simpleshops_chest.png) |
+| W | Planks | ![planks](../images/simpleshops_creative_simple_shop.png) |
+| Q | Quartz | ![quartz](../images/simpleshops_quartz_stockbar.png) |
+| C | Chest | ![chest](../images/simpleshops_creative_simple_shop.png) |
 
 ---
 ## Wooden Stockbar
@@ -44,7 +44,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Planks | ![planks](../images/simpleshops_planks.png) |
-| B | Brown Dye | ![brown_dye](../images/simpleshops_brown_dye.png) |
+| A | Planks | ![planks](../images/simpleshops_creative_simple_shop.png) |
+| B | Brown Dye | ![brown_dye](../images/simpleshops_creative_simple_shop.png) |
 
 ---

@@ -7,10 +7,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| A | Arrow | ![arrow](../images/rsgauges_arrow.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| A | Arrow | ![arrow](../images/rsgauges_automaticswitch3_uibg.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Door Sensor Switch
@@ -18,10 +18,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Pressure Plates | ![pressure_plates](../images/rsgauges_pressure_plates.png) |
-| D | Doors | ![doors](../images/rsgauges_doors.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Pressure Plates | ![pressure_plates](../images/rsgauges_automaticswitch3_uibg.png) |
+| D | Doors | ![doors](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Elevator Button
@@ -29,10 +29,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/rsgauges_glowstone_dust.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/rsgauges_automaticswitch3_uibg.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Ender Pearl
@@ -48,9 +48,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| L | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Button
@@ -58,7 +58,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Touch Button | ![glass_touch_button](../images/rsgauges_glass_touch_button.png) |
+| - | Glass Touch Button | ![glass_touch_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Glass Contact Mat
@@ -66,9 +66,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| P | Pressure Plates | ![pressure_plates](../images/rsgauges_pressure_plates.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| P | Pressure Plates | ![pressure_plates](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Contact Mat
@@ -76,7 +76,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Door Contact Mat | ![glass_door_contact_mat](../images/rsgauges_glass_door_contact_mat.png) |
+| - | Glass Door Contact Mat | ![glass_door_contact_mat](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Day Timer
@@ -84,9 +84,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| D | Clock | ![clock](../images/rsgauges_clock.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| D | Clock | ![clock](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Day Timer
@@ -94,7 +94,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Interval Timer | ![glass_interval_timer](../images/rsgauges_glass_interval_timer.png) |
+| - | Glass Interval Timer | ![glass_interval_timer](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Door Contact Mat
@@ -102,7 +102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Contact Mat | ![glass_contact_mat](../images/rsgauges_glass_contact_mat.png) |
+| - | Glass Contact Mat | ![glass_contact_mat](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Entity Detector
@@ -110,9 +110,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| E | Ender Eye | ![ender_eye](../images/rsgauges_ender_eye.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| E | Ender Eye | ![ender_eye](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Entity Detector
@@ -120,7 +120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Linear Entity Detector | ![glass_linear_entity_detector](../images/rsgauges_glass_linear_entity_detector.png) |
+| - | Glass Linear Entity Detector | ![glass_linear_entity_detector](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Interval Timer
@@ -128,7 +128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Day Timer | ![glass_day_timer](../images/rsgauges_glass_day_timer.png) |
+| - | Glass Day Timer | ![glass_day_timer](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Linear Entity Detector
@@ -136,7 +136,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Entity Detector | ![glass_entity_detector](../images/rsgauges_glass_entity_detector.png) |
+| - | Glass Entity Detector | ![glass_entity_detector](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Rotary Switch
@@ -144,9 +144,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Glass Rotary Switch
@@ -154,7 +154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Touch Switch | ![glass_touch_switch](../images/rsgauges_glass_touch_switch.png) |
+| - | Glass Touch Switch | ![glass_touch_switch](../images/rsgauges_industrial_knock_switch_front_texture.png) |
 
 ---
 ## Glass Small Button
@@ -162,7 +162,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Button | ![glass_button](../images/rsgauges_glass_button.png) |
+| - | Glass Button | ![glass_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Glass Touch Button
@@ -170,7 +170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Small Button | ![glass_small_button](../images/rsgauges_glass_small_button.png) |
+| - | Glass Small Button | ![glass_small_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Glass Touch Switch
@@ -178,7 +178,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glass Rotary Switch | ![glass_rotary_switch](../images/rsgauges_glass_rotary_switch.png) |
+| - | Glass Rotary Switch | ![glass_rotary_switch](../images/rsgauges_industrial_knock_switch_front_texture.png) |
 
 ---
 ## Glass Vertical Bar Gauge
@@ -186,9 +186,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Glass | ![glass](../images/rsgauges_glass.png) |
-| C | Comparator | ![comparator](../images/rsgauges_comparator.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| C | Comparator | ![comparator](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Alarm Lamp
@@ -196,9 +196,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| L | Redstone Lamp | ![redstone_lamp](../images/rsgauges_redstone_lamp.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Redstone Lamp | ![redstone_lamp](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Alarm Siren
@@ -206,9 +206,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Note Block | ![note_block](../images/rsgauges_note_block.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Note Block | ![note_block](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Analog Angular Gauge
@@ -216,9 +216,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| C | Comparator | ![comparator](../images/rsgauges_comparator.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| C | Comparator | ![comparator](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Analog Angular Gauge
@@ -226,7 +226,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Analog Horizontal Gauge | ![industrial_analog_horizontal_gauge](../images/rsgauges_industrial_analog_horizontal_gauge.png) |
+| - | Industrial Analog Horizontal Gauge | ![industrial_analog_horizontal_gauge](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Analog Horizontal Gauge
@@ -234,7 +234,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Tube Gauge | ![industrial_tube_gauge](../images/rsgauges_industrial_tube_gauge.png) |
+| - | Industrial Tube Gauge | ![industrial_tube_gauge](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Block Detector
@@ -242,10 +242,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stone | ![stone](../images/rsgauges_stone.png) |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| S | Ender Eye | ![ender_eye](../images/rsgauges_ender_eye.png) |
+| B | Stone | ![stone](../images/rsgauges_automaticswitch3_uibg.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| S | Ender Eye | ![ender_eye](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Button
@@ -253,9 +253,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Button
@@ -263,7 +263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Pull Handle | ![industrial_pull_handle](../images/rsgauges_industrial_pull_handle.png) |
+| - | Industrial Pull Handle | ![industrial_pull_handle](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Comparator Switch
@@ -271,9 +271,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| C | Comparator | ![comparator](../images/rsgauges_comparator.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| C | Comparator | ![comparator](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Contact Mat
@@ -281,7 +281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Door Contact Mat | ![industrial_door_contact_mat](../images/rsgauges_industrial_door_contact_mat.png) |
+| - | Industrial Door Contact Mat | ![industrial_door_contact_mat](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Day Timer
@@ -289,9 +289,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| D | Clock | ![clock](../images/rsgauges_clock.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| D | Clock | ![clock](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Day Timer
@@ -299,7 +299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Interval Timer | ![industrial_interval_timer](../images/rsgauges_industrial_interval_timer.png) |
+| - | Industrial Interval Timer | ![industrial_interval_timer](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Dimmer
@@ -307,9 +307,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| L | Stick | ![stick](../images/rsgauges_stick.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Door Contact Mat
@@ -317,9 +317,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| P | Pressure Plates | ![pressure_plates](../images/rsgauges_pressure_plates.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| P | Pressure Plates | ![pressure_plates](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Door Contact Mat
@@ -327,7 +327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Shock Sensitive Contact Mat | ![industrial_shock_sensitive_contact_mat](../images/rsgauges_industrial_shock_sensitive_contact_mat.png) |
+| - | Industrial Shock Sensitive Contact Mat | ![industrial_shock_sensitive_contact_mat](../images/rsgauges_contactmat_industrial_sensitive_texture_s00.png) |
 
 ---
 ## Industrial Double Pole Button
@@ -335,7 +335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Fenced Button | ![industrial_fenced_button](../images/rsgauges_industrial_fenced_button.png) |
+| - | Industrial Fenced Button | ![industrial_fenced_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Industrial Entity Detector
@@ -343,9 +343,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| S | Ender Eye | ![ender_eye](../images/rsgauges_ender_eye.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| S | Ender Eye | ![ender_eye](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Entity Detector
@@ -353,7 +353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Linear Entity Detector | ![industrial_linear_entity_detector](../images/rsgauges_industrial_linear_entity_detector.png) |
+| - | Industrial Linear Entity Detector | ![industrial_linear_entity_detector](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Estop Switch
@@ -361,7 +361,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Machine Switch | ![industrial_machine_switch](../images/rsgauges_industrial_machine_switch.png) |
+| - | Industrial Machine Switch | ![industrial_machine_switch](../images/rsgauges_industrial_knock_switch_front_texture.png) |
 
 ---
 ## Industrial Fallthrough Detector
@@ -369,7 +369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial High Sensitive Trapdoor | ![industrial_high_sensitive_trapdoor](../images/rsgauges_industrial_high_sensitive_trapdoor.png) |
+| - | Industrial High Sensitive Trapdoor | ![industrial_high_sensitive_trapdoor](../images/rsgauges_contactmat_industrial_sensitive_texture_s00.png) |
 
 ---
 ## Industrial Fenced Button
@@ -377,7 +377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Button | ![industrial_button](../images/rsgauges_industrial_button.png) |
+| - | Industrial Button | ![industrial_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Industrial Foot Button
@@ -385,7 +385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Double Pole Button | ![industrial_double_pole_button](../images/rsgauges_industrial_double_pole_button.png) |
+| - | Industrial Double Pole Button | ![industrial_double_pole_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Industrial Green Blinking Led
@@ -393,7 +393,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Red Blinking Led | ![industrial_red_blinking_led](../images/rsgauges_industrial_red_blinking_led.png) |
+| - | Industrial Red Blinking Led | ![industrial_red_blinking_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Green Blinking Led
@@ -401,8 +401,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Green Led | ![industrial_green_led](../images/rsgauges_industrial_green_led.png) |
-| - | Egg | ![egg](../images/rsgauges_egg.png) |
+| - | Industrial Green Led | ![industrial_green_led](../images/rsgauges_contactmat_industrial_bottom.png) |
+| - | Egg | ![egg](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Green Led
@@ -410,9 +410,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/rsgauges_glowstone_dust.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Green Led
@@ -420,7 +420,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial White Led | ![industrial_white_led](../images/rsgauges_industrial_white_led.png) |
+| - | Industrial White Led | ![industrial_white_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial High Sensitive Trapdoor
@@ -428,7 +428,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Shock Sensitive Trapdoor | ![industrial_shock_sensitive_trapdoor](../images/rsgauges_industrial_shock_sensitive_trapdoor.png) |
+| - | Industrial Shock Sensitive Trapdoor | ![industrial_shock_sensitive_trapdoor](../images/rsgauges_contactmat_industrial_sensitive_texture_s00.png) |
 
 ---
 ## Industrial Hopper Switch
@@ -436,7 +436,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Estop Switch | ![industrial_estop_switch](../images/rsgauges_industrial_estop_switch.png) |
+| - | Industrial Estop Switch | ![industrial_estop_switch](../images/rsgauges_industrial_knock_switch_front_texture.png) |
 
 ---
 ## Industrial Interval Timer
@@ -444,7 +444,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Day Timer | ![industrial_day_timer](../images/rsgauges_industrial_day_timer.png) |
+| - | Industrial Day Timer | ![industrial_day_timer](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Knock Button
@@ -452,10 +452,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| O | Observer | ![observer](../images/rsgauges_observer.png) |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| S | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| O | Observer | ![observer](../images/rsgauges_automaticswitch3_uibg.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| S | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Knock Switch
@@ -463,10 +463,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| O | Observer | ![observer](../images/rsgauges_observer.png) |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| S | Lever | ![lever](../images/rsgauges_lever.png) |
+| O | Observer | ![observer](../images/rsgauges_automaticswitch3_uibg.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| S | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Lever
@@ -474,7 +474,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Small Lever | ![industrial_small_lever](../images/rsgauges_industrial_small_lever.png) |
+| - | Industrial Small Lever | ![industrial_small_lever](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Lightning Sensor
@@ -482,7 +482,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Rain Sensor | ![industrial_rain_sensor](../images/rsgauges_industrial_rain_sensor.png) |
+| - | Industrial Rain Sensor | ![industrial_rain_sensor](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Light Sensor
@@ -490,9 +490,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| D | Daylight Detector | ![daylight_detector](../images/rsgauges_daylight_detector.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| D | Daylight Detector | ![daylight_detector](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Light Sensor
@@ -500,7 +500,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Lightning Sensor | ![industrial_lightning_sensor](../images/rsgauges_industrial_lightning_sensor.png) |
+| - | Industrial Lightning Sensor | ![industrial_lightning_sensor](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Linear Entity Detector
@@ -508,7 +508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Entity Detector | ![industrial_entity_detector](../images/rsgauges_industrial_entity_detector.png) |
+| - | Industrial Entity Detector | ![industrial_entity_detector](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Machine Switch
@@ -516,7 +516,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Rotary Machine Switch | ![industrial_rotary_machine_switch](../images/rsgauges_industrial_rotary_machine_switch.png) |
+| - | Industrial Rotary Machine Switch | ![industrial_rotary_machine_switch](../images/rsgauges_industrial_knock_switch_front_texture.png) |
 
 ---
 ## Industrial Pull Handle
@@ -524,7 +524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Foot Button | ![industrial_foot_button](../images/rsgauges_industrial_foot_button.png) |
+| - | Industrial Foot Button | ![industrial_foot_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Industrial Rain Sensor
@@ -532,7 +532,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Light Sensor | ![industrial_light_sensor](../images/rsgauges_industrial_light_sensor.png) |
+| - | Industrial Light Sensor | ![industrial_light_sensor](../images/rsgauges_industrial_base_6x6_light.png) |
 
 ---
 ## Industrial Red Blinking Led
@@ -540,8 +540,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Red Led | ![industrial_red_led](../images/rsgauges_industrial_red_led.png) |
-| - | Egg | ![egg](../images/rsgauges_egg.png) |
+| - | Industrial Red Led | ![industrial_red_led](../images/rsgauges_contactmat_industrial_bottom.png) |
+| - | Egg | ![egg](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Red Blinking Led
@@ -549,7 +549,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Yellow Blinking Led | ![industrial_yellow_blinking_led](../images/rsgauges_industrial_yellow_blinking_led.png) |
+| - | Industrial Yellow Blinking Led | ![industrial_yellow_blinking_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Red Led
@@ -557,7 +557,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Yellow Led | ![industrial_yellow_led](../images/rsgauges_industrial_yellow_led.png) |
+| - | Industrial Yellow Led | ![industrial_yellow_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Rotary Lever
@@ -565,7 +565,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Lever | ![industrial_lever](../images/rsgauges_industrial_lever.png) |
+| - | Industrial Lever | ![industrial_lever](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Rotary Machine Switch
@@ -573,7 +573,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Rotary Lever | ![industrial_rotary_lever](../images/rsgauges_industrial_rotary_lever.png) |
+| - | Industrial Rotary Lever | ![industrial_rotary_lever](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Shock Sensitive Contact Mat
@@ -581,7 +581,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Contact Mat | ![industrial_contact_mat](../images/rsgauges_industrial_contact_mat.png) |
+| - | Industrial Contact Mat | ![industrial_contact_mat](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Shock Sensitive Trapdoor
@@ -589,9 +589,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| P | Trapdoors | ![trapdoors](../images/rsgauges_trapdoors.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| P | Trapdoors | ![trapdoors](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Shock Sensitive Trapdoor
@@ -599,7 +599,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Fallthrough Detector | ![industrial_fallthrough_detector](../images/rsgauges_industrial_fallthrough_detector.png) |
+| - | Industrial Fallthrough Detector | ![industrial_fallthrough_detector](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Small Digital Gauge
@@ -607,7 +607,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Vertical Bar Gauge | ![industrial_vertical_bar_gauge](../images/rsgauges_industrial_vertical_bar_gauge.png) |
+| - | Industrial Vertical Bar Gauge | ![industrial_vertical_bar_gauge](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Small Lever
@@ -615,9 +615,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Small Lever
@@ -625,7 +625,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Hopper Switch | ![industrial_hopper_switch](../images/rsgauges_industrial_hopper_switch.png) |
+| - | Industrial Hopper Switch | ![industrial_hopper_switch](../images/rsgauges_industrial_knock_switch_front_texture.png) |
 
 ---
 ## Industrial Switchlink Cased Pulse Receiver
@@ -633,10 +633,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Redstone Torch | ![redstone_torch](../images/rsgauges_redstone_torch.png) |
-| I | Iron Ingot | ![iron_ingot](../images/rsgauges_iron_ingot.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| T | Redstone Torch | ![redstone_torch](../images/rsgauges_automaticswitch3_uibg.png) |
+| I | Iron Ingot | ![iron_ingot](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Cased Receiver
@@ -644,10 +644,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Redstone Torch | ![redstone_torch](../images/rsgauges_redstone_torch.png) |
-| I | Iron Ingot | ![iron_ingot](../images/rsgauges_iron_ingot.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| T | Redstone Torch | ![redstone_torch](../images/rsgauges_automaticswitch3_uibg.png) |
+| I | Iron Ingot | ![iron_ingot](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Pulse Receiver
@@ -655,10 +655,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Redstone Torch | ![redstone_torch](../images/rsgauges_redstone_torch.png) |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| T | Redstone Torch | ![redstone_torch](../images/rsgauges_automaticswitch3_uibg.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Pulse Relay
@@ -666,9 +666,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Receiver Analog
@@ -676,8 +676,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Switchlink Receiver | ![industrial_switchlink_receiver](../images/rsgauges_industrial_switchlink_receiver.png) |
-| - | Comparator | ![comparator](../images/rsgauges_comparator.png) |
+| - | Industrial Switchlink Receiver | ![industrial_switchlink_receiver](../images/rsgauges_switchlink_receiver_cased_industrial_texture_s00.png) |
+| - | Comparator | ![comparator](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Receiver
@@ -685,10 +685,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Redstone Torch | ![redstone_torch](../images/rsgauges_redstone_torch.png) |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| T | Redstone Torch | ![redstone_torch](../images/rsgauges_automaticswitch3_uibg.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Relay Analog
@@ -696,8 +696,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Switchlink Relay | ![industrial_switchlink_relay](../images/rsgauges_industrial_switchlink_relay.png) |
-| - | Comparator | ![comparator](../images/rsgauges_comparator.png) |
+| - | Industrial Switchlink Relay | ![industrial_switchlink_relay](../images/rsgauges_switchlink_pulsereceiver_cased_industrial_texture_s00.png) |
+| - | Comparator | ![comparator](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Switchlink Relay
@@ -705,9 +705,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Tube Gauge
@@ -715,7 +715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Small Digital Gauge | ![industrial_small_digital_gauge](../images/rsgauges_industrial_small_digital_gauge.png) |
+| - | Industrial Small Digital Gauge | ![industrial_small_digital_gauge](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Vertical Bar Gauge
@@ -723,7 +723,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Analog Angular Gauge | ![industrial_analog_angular_gauge](../images/rsgauges_industrial_analog_angular_gauge.png) |
+| - | Industrial Analog Angular Gauge | ![industrial_analog_angular_gauge](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial White Blinking Led
@@ -731,8 +731,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial White Led | ![industrial_white_led](../images/rsgauges_industrial_white_led.png) |
-| - | Egg | ![egg](../images/rsgauges_egg.png) |
+| - | Industrial White Led | ![industrial_white_led](../images/rsgauges_contactmat_industrial_bottom.png) |
+| - | Egg | ![egg](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial White Led
@@ -740,7 +740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Red Led | ![industrial_red_led](../images/rsgauges_industrial_red_led.png) |
+| - | Industrial Red Led | ![industrial_red_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Yellow Blinking Led
@@ -748,8 +748,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Yellow Led | ![industrial_yellow_led](../images/rsgauges_industrial_yellow_led.png) |
-| - | Egg | ![egg](../images/rsgauges_egg.png) |
+| - | Industrial Yellow Led | ![industrial_yellow_led](../images/rsgauges_contactmat_industrial_bottom.png) |
+| - | Egg | ![egg](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Industrial Yellow Blinking Led
@@ -757,7 +757,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Green Blinking Led | ![industrial_green_blinking_led](../images/rsgauges_industrial_green_blinking_led.png) |
+| - | Industrial Green Blinking Led | ![industrial_green_blinking_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Industrial Yellow Led
@@ -765,7 +765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Industrial Green Led | ![industrial_green_led](../images/rsgauges_industrial_green_led.png) |
+| - | Industrial Green Led | ![industrial_green_led](../images/rsgauges_contactmat_industrial_bottom.png) |
 
 ---
 ## Light Switch
@@ -773,7 +773,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Arrow Target | ![arrow_target](../images/rsgauges_arrow_target.png) |
+| - | Arrow Target | ![arrow_target](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Oldfancy Bistableswitch1
@@ -781,9 +781,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Gold Nugget | ![gold_nugget](../images/rsgauges_gold_nugget.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Gold Nugget | ![gold_nugget](../images/rsgauges_old_gold.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Oldfancy Bistableswitch1
@@ -791,7 +791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oldfancy Bistableswitch2 | ![oldfancy_bistableswitch2](../images/rsgauges_oldfancy_bistableswitch2.png) |
+| - | Oldfancy Bistableswitch2 | ![oldfancy_bistableswitch2](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Oldfancy Bistableswitch2
@@ -799,7 +799,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oldfancy Bistableswitch1 | ![oldfancy_bistableswitch1](../images/rsgauges_oldfancy_bistableswitch1.png) |
+| - | Oldfancy Bistableswitch1 | ![oldfancy_bistableswitch1](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Oldfancy Button
@@ -807,9 +807,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| G | Gold Nugget | ![gold_nugget](../images/rsgauges_gold_nugget.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| G | Gold Nugget | ![gold_nugget](../images/rsgauges_old_gold.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Oldfancy Button
@@ -817,7 +817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oldfancy Small Button | ![oldfancy_small_button](../images/rsgauges_oldfancy_small_button.png) |
+| - | Oldfancy Small Button | ![oldfancy_small_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Oldfancy Small Button
@@ -825,7 +825,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oldfancy Spring Reset Chain | ![oldfancy_spring_reset_chain](../images/rsgauges_oldfancy_spring_reset_chain.png) |
+| - | Oldfancy Spring Reset Chain | ![oldfancy_spring_reset_chain](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Oldfancy Spring Reset Chain
@@ -833,7 +833,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Oldfancy Button | ![oldfancy_button](../images/rsgauges_oldfancy_button.png) |
+| - | Oldfancy Button | ![oldfancy_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Red Power Plant
@@ -841,9 +841,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stick | ![stick](../images/rsgauges_stick.png) |
-| F | Red Tulip | ![red_tulip](../images/rsgauges_red_tulip.png) |
-| P | Pressure Plates | ![pressure_plates](../images/rsgauges_pressure_plates.png) |
+| S | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| F | Red Tulip | ![red_tulip](../images/rsgauges_indicator_fg_red_blink_texture.png) |
+| P | Pressure Plates | ![pressure_plates](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Angular Lever
@@ -851,7 +851,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Two Hinge Lever | ![rustic_two_hinge_lever](../images/rsgauges_rustic_two_hinge_lever.png) |
+| - | Rustic Two Hinge Lever | ![rustic_two_hinge_lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Button
@@ -859,9 +859,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| S | Stick | ![stick](../images/rsgauges_stick.png) |
-| B | Buttons | ![buttons](../images/rsgauges_buttons.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| S | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| B | Buttons | ![buttons](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Button
@@ -869,7 +869,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Nail Button | ![rustic_nail_button](../images/rsgauges_rustic_nail_button.png) |
+| - | Rustic Nail Button | ![rustic_nail_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Rustic Contact Plate
@@ -877,7 +877,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Door Contact Plate | ![rustic_door_contact_plate](../images/rsgauges_rustic_door_contact_plate.png) |
+| - | Rustic Door Contact Plate | ![rustic_door_contact_plate](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Door Contact Plate
@@ -885,9 +885,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Stick | ![stick](../images/rsgauges_stick.png) |
-| P | Pressure Plates | ![pressure_plates](../images/rsgauges_pressure_plates.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| P | Pressure Plates | ![pressure_plates](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Door Contact Plate
@@ -895,7 +895,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Shock Sensitive Plate | ![rustic_shock_sensitive_plate](../images/rsgauges_rustic_shock_sensitive_plate.png) |
+| - | Rustic Shock Sensitive Plate | ![rustic_shock_sensitive_plate](../images/rsgauges_contactmat_industrial_sensitive_texture_s00.png) |
 
 ---
 ## Rustic Fallthrough Detector
@@ -903,7 +903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic High Sensitive Trapdoor | ![rustic_high_sensitive_trapdoor](../images/rsgauges_rustic_high_sensitive_trapdoor.png) |
+| - | Rustic High Sensitive Trapdoor | ![rustic_high_sensitive_trapdoor](../images/rsgauges_contactmat_industrial_sensitive_texture_s00.png) |
 
 ---
 ## Rustic High Sensitive Trapdoor
@@ -911,7 +911,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Shock Sensitive Trapdoor | ![rustic_shock_sensitive_trapdoor](../images/rsgauges_rustic_shock_sensitive_trapdoor.png) |
+| - | Rustic Shock Sensitive Trapdoor | ![rustic_shock_sensitive_trapdoor](../images/rsgauges_contactmat_industrial_sensitive_texture_s00.png) |
 
 ---
 ## Rustic Lever
@@ -919,9 +919,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| S | Stick | ![stick](../images/rsgauges_stick.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| S | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Lever
@@ -929,7 +929,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Nail Lever | ![rustic_nail_lever](../images/rsgauges_rustic_nail_lever.png) |
+| - | Rustic Nail Lever | ![rustic_nail_lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Nail Button
@@ -937,7 +937,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Spring Reset Chain | ![rustic_spring_reset_chain](../images/rsgauges_rustic_spring_reset_chain.png) |
+| - | Rustic Spring Reset Chain | ![rustic_spring_reset_chain](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Nail Lever
@@ -945,7 +945,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Angular Lever | ![rustic_angular_lever](../images/rsgauges_rustic_angular_lever.png) |
+| - | Rustic Angular Lever | ![rustic_angular_lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Semaphore
@@ -953,9 +953,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Stick | ![stick](../images/rsgauges_stick.png) |
-| G | Glowstone Dust | ![glowstone_dust](../images/rsgauges_glowstone_dust.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Shock Sensitive Plate
@@ -963,7 +963,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Contact Plate | ![rustic_contact_plate](../images/rsgauges_rustic_contact_plate.png) |
+| - | Rustic Contact Plate | ![rustic_contact_plate](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Shock Sensitive Trapdoor
@@ -971,9 +971,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Stick | ![stick](../images/rsgauges_stick.png) |
-| P | Trapdoors | ![trapdoors](../images/rsgauges_trapdoors.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| P | Trapdoors | ![trapdoors](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Shock Sensitive Trapdoor
@@ -981,7 +981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Fallthrough Detector | ![rustic_fallthrough_detector](../images/rsgauges_rustic_fallthrough_detector.png) |
+| - | Rustic Fallthrough Detector | ![rustic_fallthrough_detector](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Rustic Small Button
@@ -989,7 +989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Button | ![rustic_button](../images/rsgauges_rustic_button.png) |
+| - | Rustic Button | ![rustic_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Rustic Spring Reset Chain
@@ -997,7 +997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Small Button | ![rustic_small_button](../images/rsgauges_rustic_small_button.png) |
+| - | Rustic Small Button | ![rustic_small_button](../images/rsgauges_industrial_knock_button_texture_s00.png) |
 
 ---
 ## Rustic Two Hinge Lever
@@ -1005,7 +1005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rustic Lever | ![rustic_lever](../images/rsgauges_rustic_lever.png) |
+| - | Rustic Lever | ![rustic_lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Sensitive Glass Block
@@ -1013,10 +1013,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| S | Glowstone | ![glowstone](../images/rsgauges_glowstone.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| S | Glowstone | ![glowstone](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Stained Sensitiveglass
@@ -1024,10 +1024,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Redstone | ![redstone](../images/rsgauges_redstone.png) |
-| G | Glass | ![glass](../images/rsgauges_glass.png) |
-| D | White Dye | ![white_dye](../images/rsgauges_white_dye.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Redstone | ![redstone](../images/rsgauges_automaticswitch3_uibg.png) |
+| G | Glass | ![glass](../images/rsgauges_automaticswitch3_uibg.png) |
+| D | White Dye | ![white_dye](../images/rsgauges_indicator_fg_white_blink_texture.png) |
 
 ---
 ## Valve Wheel Switch
@@ -1035,9 +1035,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| N | Iron Nugget | ![iron_nugget](../images/rsgauges_iron_nugget.png) |
-| R | Red Dye | ![red_dye](../images/rsgauges_red_dye.png) |
-| L | Lever | ![lever](../images/rsgauges_lever.png) |
+| N | Iron Nugget | ![iron_nugget](../images/rsgauges_old_iron.png) |
+| R | Red Dye | ![red_dye](../images/rsgauges_indicator_fg_red_blink_texture.png) |
+| L | Lever | ![lever](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---
 ## Yellow Power Plant
@@ -1045,8 +1045,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Stick | ![stick](../images/rsgauges_stick.png) |
-| F | Dandelion | ![dandelion](../images/rsgauges_dandelion.png) |
-| P | Pressure Plates | ![pressure_plates](../images/rsgauges_pressure_plates.png) |
+| S | Stick | ![stick](../images/rsgauges_automaticswitch3_uibg.png) |
+| F | Dandelion | ![dandelion](../images/rsgauges_automaticswitch3_uibg.png) |
+| P | Pressure Plates | ![pressure_plates](../images/rsgauges_automaticswitch3_uibg.png) |
 
 ---

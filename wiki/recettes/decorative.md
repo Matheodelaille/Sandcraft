@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Acacia Log | ![stripped_acacia_log](../images/decorative_stripped_acacia_log.png) |
+| x | Stripped Acacia Log | ![stripped_acacia_log](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Acacia Palisade
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Acacia Log | ![acacia_log](../images/decorative_acacia_log.png) |
+| x | Acacia Log | ![acacia_log](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Acacia Seat
@@ -23,8 +23,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Acacia Slab | ![acacia_slab](../images/decorative_acacia_slab.png) |
-| y | Acacia Fence | ![acacia_fence](../images/decorative_acacia_fence.png) |
+| x | Acacia Slab | ![acacia_slab](../images/decorative_blocks_acacia_beam_end.png) |
+| y | Acacia Fence | ![acacia_fence](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Acacia Support
@@ -32,7 +32,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Acacia Planks | ![acacia_planks](../images/decorative_acacia_planks.png) |
+| x | Acacia Planks | ![acacia_planks](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Bar Panel
@@ -40,7 +40,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Bars | ![iron_bars](../images/decorative_iron_bars.png) |
+| # | Iron Bars | ![iron_bars](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Birch Beam
@@ -48,7 +48,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Birch Log | ![stripped_birch_log](../images/decorative_stripped_birch_log.png) |
+| x | Stripped Birch Log | ![stripped_birch_log](../images/decorative_blocks_birch_beam_end.png) |
 
 ---
 ## Birch Palisade
@@ -56,7 +56,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Birch Log | ![birch_log](../images/decorative_birch_log.png) |
+| x | Birch Log | ![birch_log](../images/decorative_blocks_birch_beam_end.png) |
 
 ---
 ## Birch Seat
@@ -64,8 +64,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Birch Slab | ![birch_slab](../images/decorative_birch_slab.png) |
-| y | Birch Fence | ![birch_fence](../images/decorative_birch_fence.png) |
+| x | Birch Slab | ![birch_slab](../images/decorative_blocks_birch_beam_end.png) |
+| y | Birch Fence | ![birch_fence](../images/decorative_blocks_birch_beam_end.png) |
 
 ---
 ## Birch Support
@@ -73,7 +73,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Birch Planks | ![birch_planks](../images/decorative_birch_planks.png) |
+| x | Birch Planks | ![birch_planks](../images/decorative_blocks_birch_beam_end.png) |
 
 ---
 ## Brazier
@@ -81,8 +81,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Bars | ![iron_bars](../images/decorative_iron_bars.png) |
-| 1 | Coals | ![coals](../images/decorative_coals.png) |
+| 0 | Iron Bars | ![iron_bars](../images/decorative_blocks_acacia_beam_end.png) |
+| 1 | Coals | ![coals](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Chain
@@ -90,8 +90,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Nugget | ![iron_nugget](../images/decorative_iron_nugget.png) |
-| i | Iron Ingot | ![iron_ingot](../images/decorative_iron_ingot.png) |
+| # | Iron Nugget | ![iron_nugget](../images/decorative_blocks_acacia_beam_end.png) |
+| i | Iron Ingot | ![iron_ingot](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Chandelier
@@ -99,7 +99,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Torch | ![torch](../images/decorative_torch.png) |
+| # | Torch | ![torch](../images/decorative_blocks_soul_torch.png) |
 
 ---
 ## Crimson Beam
@@ -107,7 +107,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Crimson Stem | ![stripped_crimson_stem](../images/decorative_stripped_crimson_stem.png) |
+| x | Stripped Crimson Stem | ![stripped_crimson_stem](../images/decorative_blocks_crimson_beam_end.png) |
 
 ---
 ## Crimson Palisade
@@ -115,7 +115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Crimson Stem | ![crimson_stem](../images/decorative_crimson_stem.png) |
+| x | Crimson Stem | ![crimson_stem](../images/decorative_blocks_crimson_beam_end.png) |
 
 ---
 ## Crimson Seat
@@ -123,8 +123,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Crimson Slab | ![crimson_slab](../images/decorative_crimson_slab.png) |
-| y | Crimson Fence | ![crimson_fence](../images/decorative_crimson_fence.png) |
+| x | Crimson Slab | ![crimson_slab](../images/decorative_blocks_crimson_beam_end.png) |
+| y | Crimson Fence | ![crimson_fence](../images/decorative_blocks_crimson_beam_end.png) |
 
 ---
 ## Crimson Support
@@ -132,7 +132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Crimson Planks | ![crimson_planks](../images/decorative_crimson_planks.png) |
+| x | Crimson Planks | ![crimson_planks](../images/decorative_blocks_crimson_beam_end.png) |
 
 ---
 ## Dark Oak Beam
@@ -140,7 +140,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/decorative_stripped_dark_oak_log.png) |
+| x | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Dark Oak Palisade
@@ -148,7 +148,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Dark Oak Log | ![dark_oak_log](../images/decorative_dark_oak_log.png) |
+| x | Dark Oak Log | ![dark_oak_log](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Dark Oak Seat
@@ -156,8 +156,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Dark Oak Slab | ![dark_oak_slab](../images/decorative_dark_oak_slab.png) |
-| y | Dark Oak Fence | ![dark_oak_fence](../images/decorative_dark_oak_fence.png) |
+| x | Dark Oak Slab | ![dark_oak_slab](../images/decorative_blocks_dark_oak_beam_end.png) |
+| y | Dark Oak Fence | ![dark_oak_fence](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Dark Oak Support
@@ -165,7 +165,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Dark Oak Planks | ![dark_oak_planks](../images/decorative_dark_oak_planks.png) |
+| x | Dark Oak Planks | ![dark_oak_planks](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Dirt
@@ -173,7 +173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Rocky Dirt | ![rocky_dirt](../images/decorative_rocky_dirt.png) |
+| # | Rocky Dirt | ![rocky_dirt](../images/decorative_blocks_rocky_dirt.png) |
 
 ---
 ## Jungle Beam
@@ -181,7 +181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Jungle Log | ![stripped_jungle_log](../images/decorative_stripped_jungle_log.png) |
+| x | Stripped Jungle Log | ![stripped_jungle_log](../images/decorative_blocks_jungle_beam_end.png) |
 
 ---
 ## Jungle Palisade
@@ -189,7 +189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Jungle Log | ![jungle_log](../images/decorative_jungle_log.png) |
+| x | Jungle Log | ![jungle_log](../images/decorative_blocks_jungle_beam_end.png) |
 
 ---
 ## Jungle Seat
@@ -197,8 +197,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Jungle Slab | ![jungle_slab](../images/decorative_jungle_slab.png) |
-| y | Jungle Fence | ![jungle_fence](../images/decorative_jungle_fence.png) |
+| x | Jungle Slab | ![jungle_slab](../images/decorative_blocks_jungle_beam_end.png) |
+| y | Jungle Fence | ![jungle_fence](../images/decorative_blocks_jungle_beam_end.png) |
 
 ---
 ## Jungle Support
@@ -206,7 +206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Jungle Planks | ![jungle_planks](../images/decorative_jungle_planks.png) |
+| x | Jungle Planks | ![jungle_planks](../images/decorative_blocks_jungle_beam_end.png) |
 
 ---
 ## Lattice
@@ -214,7 +214,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Stick | ![stick](../images/decorative_stick.png) |
+| # | Stick | ![stick](../images/decorative_blocks_acacia_beam_end.png) |
 
 ---
 ## Mangrove Beam
@@ -222,7 +222,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Mangrove Log | ![stripped_mangrove_log](../images/decorative_stripped_mangrove_log.png) |
+| x | Stripped Mangrove Log | ![stripped_mangrove_log](../images/decorative_blocks_mangrove_beam_end.png) |
 
 ---
 ## Mangrove Palisade
@@ -230,7 +230,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Mangrove Log | ![mangrove_log](../images/decorative_mangrove_log.png) |
+| x | Mangrove Log | ![mangrove_log](../images/decorative_blocks_mangrove_beam_end.png) |
 
 ---
 ## Mangrove Seat
@@ -238,8 +238,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Mangrove Slab | ![mangrove_slab](../images/decorative_mangrove_slab.png) |
-| y | Mangrove Fence | ![mangrove_fence](../images/decorative_mangrove_fence.png) |
+| x | Mangrove Slab | ![mangrove_slab](../images/decorative_blocks_mangrove_beam_end.png) |
+| y | Mangrove Fence | ![mangrove_fence](../images/decorative_blocks_mangrove_beam_end.png) |
 
 ---
 ## Mangrove Support
@@ -247,7 +247,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Mangrove Planks | ![mangrove_planks](../images/decorative_mangrove_planks.png) |
+| x | Mangrove Planks | ![mangrove_planks](../images/decorative_blocks_mangrove_beam_end.png) |
 
 ---
 ## Oak Beam
@@ -255,7 +255,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Oak Log | ![stripped_oak_log](../images/decorative_stripped_oak_log.png) |
+| x | Stripped Oak Log | ![stripped_oak_log](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Oak Palisade
@@ -263,7 +263,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Oak Log | ![oak_log](../images/decorative_oak_log.png) |
+| x | Oak Log | ![oak_log](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Oak Seat
@@ -271,8 +271,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Oak Slab | ![oak_slab](../images/decorative_oak_slab.png) |
-| y | Oak Fence | ![oak_fence](../images/decorative_oak_fence.png) |
+| x | Oak Slab | ![oak_slab](../images/decorative_blocks_dark_oak_beam_end.png) |
+| y | Oak Fence | ![oak_fence](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Oak Support
@@ -280,7 +280,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Oak Planks | ![oak_planks](../images/decorative_oak_planks.png) |
+| x | Oak Planks | ![oak_planks](../images/decorative_blocks_dark_oak_beam_end.png) |
 
 ---
 ## Rocky Dirt
@@ -288,7 +288,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Dirt | ![dirt](../images/decorative_dirt.png) |
+| # | Dirt | ![dirt](../images/decorative_blocks_rocky_dirt.png) |
 
 ---
 ## Soul Brazier
@@ -296,9 +296,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Iron Bars | ![iron_bars](../images/decorative_iron_bars.png) |
-| 1 | Coals | ![coals](../images/decorative_coals.png) |
-| 2 | Soul Fire Base Blocks | ![soul_fire_base_blocks](../images/decorative_soul_fire_base_blocks.png) |
+| 0 | Iron Bars | ![iron_bars](../images/decorative_blocks_acacia_beam_end.png) |
+| 1 | Coals | ![coals](../images/decorative_blocks_acacia_beam_end.png) |
+| 2 | Soul Fire Base Blocks | ![soul_fire_base_blocks](../images/decorative_blocks_soul_fire.png) |
 
 ---
 ## Soul Chandelier
@@ -306,7 +306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Soul Torch | ![soul_torch](../images/decorative_soul_torch.png) |
+| # | Soul Torch | ![soul_torch](../images/decorative_blocks_soul_torch.png) |
 
 ---
 ## Soul Torch
@@ -314,7 +314,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Soul Chandelier | ![soul_chandelier](../images/decorative_soul_chandelier.png) |
+| - | Soul Chandelier | ![soul_chandelier](../images/decorative_blocks_chandelier_base.png) |
 
 ---
 ## Spruce Beam
@@ -322,7 +322,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Spruce Log | ![stripped_spruce_log](../images/decorative_stripped_spruce_log.png) |
+| x | Stripped Spruce Log | ![stripped_spruce_log](../images/decorative_blocks_spruce_beam_end.png) |
 
 ---
 ## Spruce Palisade
@@ -330,7 +330,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Spruce Log | ![spruce_log](../images/decorative_spruce_log.png) |
+| x | Spruce Log | ![spruce_log](../images/decorative_blocks_spruce_beam_end.png) |
 
 ---
 ## Spruce Seat
@@ -338,8 +338,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Spruce Slab | ![spruce_slab](../images/decorative_spruce_slab.png) |
-| y | Spruce Fence | ![spruce_fence](../images/decorative_spruce_fence.png) |
+| x | Spruce Slab | ![spruce_slab](../images/decorative_blocks_spruce_beam_end.png) |
+| y | Spruce Fence | ![spruce_fence](../images/decorative_blocks_spruce_beam_end.png) |
 
 ---
 ## Spruce Support
@@ -347,7 +347,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Spruce Planks | ![spruce_planks](../images/decorative_spruce_planks.png) |
+| x | Spruce Planks | ![spruce_planks](../images/decorative_blocks_spruce_beam_end.png) |
 
 ---
 ## Stone Pillar
@@ -355,7 +355,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Stone | ![stone](../images/decorative_stone.png) |
+| item | Stone | ![stone](../images/decorative_blocks_stone_pillar_end.png) |
 
 ---
 ## Torch
@@ -363,7 +363,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Chandelier | ![chandelier](../images/decorative_chandelier.png) |
+| - | Chandelier | ![chandelier](../images/decorative_blocks_chandelier_base.png) |
 
 ---
 ## Warped Beam
@@ -371,7 +371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Stripped Warped Stem | ![stripped_warped_stem](../images/decorative_stripped_warped_stem.png) |
+| x | Stripped Warped Stem | ![stripped_warped_stem](../images/decorative_blocks_warped_beam_end.png) |
 
 ---
 ## Warped Palisade
@@ -379,7 +379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Warped Stem | ![warped_stem](../images/decorative_warped_stem.png) |
+| x | Warped Stem | ![warped_stem](../images/decorative_blocks_warped_beam_end.png) |
 
 ---
 ## Warped Seat
@@ -387,8 +387,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Warped Slab | ![warped_slab](../images/decorative_warped_slab.png) |
-| y | Warped Fence | ![warped_fence](../images/decorative_warped_fence.png) |
+| x | Warped Slab | ![warped_slab](../images/decorative_blocks_warped_beam_end.png) |
+| y | Warped Fence | ![warped_fence](../images/decorative_blocks_warped_beam_end.png) |
 
 ---
 ## Warped Support
@@ -396,6 +396,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| x | Warped Planks | ![warped_planks](../images/decorative_warped_planks.png) |
+| x | Warped Planks | ![warped_planks](../images/decorative_blocks_warped_beam_end.png) |
 
 ---

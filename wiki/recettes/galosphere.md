@@ -103,7 +103,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glowstone | ![glowstone](../images/galosphere_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/galosphere_allurite_block.png) |
 | R | Allurite Shard | ![allurite_shard](../images/galosphere_allurite_shard.png) |
 
 ---
@@ -152,7 +152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Amethyst Bricks
@@ -176,7 +176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Amethyst Brick Slab
@@ -208,7 +208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Amethyst Brick Stairs
@@ -232,8 +232,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glowstone | ![glowstone](../images/galosphere_glowstone.png) |
-| R | Amethyst Shard | ![amethyst_shard](../images/galosphere_amethyst_shard.png) |
+| G | Glowstone | ![glowstone](../images/galosphere_allurite_block.png) |
+| R | Amethyst Shard | ![amethyst_shard](../images/galosphere_allurite_shard.png) |
 
 ---
 ## Amethyst Slab
@@ -241,7 +241,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| # | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Amethyst Slab
@@ -249,7 +249,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Amethyst Stairs
@@ -257,7 +257,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| # | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Amethyst Stairs
@@ -265,7 +265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Barometer
@@ -274,7 +274,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Silver Ingot | ![silver_ingot](../images/galosphere_silver_ingot.png) |
-| @ | Redstone | ![redstone](../images/galosphere_redstone.png) |
+| @ | Redstone | ![redstone](../images/galosphere_allurite_block.png) |
 
 ---
 ## Chandelier
@@ -292,7 +292,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Allurite Slab | ![allurite_slab](../images/galosphere_allurite_slab.png) |
+| # | Allurite Slab | ![allurite_slab](../images/galosphere_allurite_block.png) |
 
 ---
 ## Chiseled Allurite
@@ -324,7 +324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Amethyst Slab | ![amethyst_slab](../images/galosphere_amethyst_slab.png) |
+| # | Amethyst Slab | ![amethyst_slab](../images/galosphere_amethyst_bricks.png) |
 
 ---
 ## Chiseled Amethyst
@@ -332,7 +332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Chiseled Amethyst
@@ -356,7 +356,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Lumiere Slab | ![lumiere_slab](../images/galosphere_lumiere_slab.png) |
+| # | Lumiere Slab | ![lumiere_slab](../images/galosphere_charged_lumiere_block.png) |
 
 ---
 ## Chiseled Lumiere
@@ -388,7 +388,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Planks | ![planks](../images/galosphere_planks.png) |
+| # | Planks | ![planks](../images/galosphere_allurite_block.png) |
 | @ | Ingots/Silver | ![ingots/silver](../images/galosphere_ingots/silver.png) |
 
 ---
@@ -397,8 +397,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Glow Ink Sac | ![glow_ink_sac](../images/galosphere_glow_ink_sac.png) |
-| F | Stick | ![stick](../images/galosphere_stick.png) |
+| # | Glow Ink Sac | ![glow_ink_sac](../images/galosphere_glow_ink_clumps.png) |
+| F | Stick | ![stick](../images/galosphere_allurite_block.png) |
 | S | Ingots/Copper | ![ingots/copper](../images/galosphere_ingots/copper.png) |
 
 ---
@@ -512,7 +512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glowstone | ![glowstone](../images/galosphere_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/galosphere_allurite_block.png) |
 | R | Lumiere Shard | ![lumiere_shard](../images/galosphere_lumiere_shard.png) |
 
 ---
@@ -586,7 +586,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gunpowder | ![gunpowder](../images/galosphere_gunpowder.png) |
+| G | Gunpowder | ![gunpowder](../images/galosphere_allurite_block.png) |
 | R | Ingots/Silver | ![ingots/silver](../images/galosphere_ingots/silver.png) |
 
 ---
@@ -891,7 +891,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| S | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Smooth Amethyst
@@ -899,7 +899,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Smooth Amethyst Slab
@@ -915,7 +915,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Smooth Amethyst Slab
@@ -939,7 +939,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Amethyst Block | ![amethyst_block](../images/galosphere_amethyst_block.png) |
+| item | Amethyst Block | ![amethyst_block](../images/galosphere_allurite_block.png) |
 
 ---
 ## Smooth Amethyst Stairs

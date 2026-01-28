@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skillet | ![skillet](../images/cuisinedelight_skillet.png) |
+| - | Skillet | ![skillet](../images/cuisinedelight_cuisine_skillet_side.png) |
 | - | Ingots/Brick | ![ingots/brick](../images/cuisinedelight_ingots/brick.png) |
 
 ---
@@ -100,7 +100,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| tag | Planks | ![planks](../images/cuisinedelight_planks.png) |
+| tag | Planks | ![planks](../images/cuisinedelight_cuisine_skillet_side.png) |
 
 ---
 ## {}
@@ -143,7 +143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Iron Ingot | ![iron_ingot](../images/cuisinedelight_iron_ingot.png) |
+| item | Iron Ingot | ![iron_ingot](../images/cuisinedelight_cuisine_skillet_side.png) |
 
 ---
 ## {}

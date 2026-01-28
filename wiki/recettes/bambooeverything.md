@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
+| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo
@@ -15,7 +15,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Door
@@ -23,7 +23,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Fence
@@ -31,8 +31,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
-| O | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
+| O | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Fence Gate
@@ -40,8 +40,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
-| O | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
+| O | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Ladder
@@ -49,7 +49,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
+| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Raft
@@ -57,7 +57,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
+| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Slab
@@ -65,7 +65,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Stairs
@@ -73,7 +73,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Torch
@@ -81,8 +81,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
-| C | Coal | ![coal](../images/bambooeverything_coal.png) |
+| B | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
+| C | Coal | ![coal](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Bamboo Trapdoor
@@ -90,7 +90,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle.png) |
+| B | Bamboo Bundle | ![bamboo_bundle](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo
@@ -98,7 +98,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Bamboo | ![bamboo](../images/bambooeverything_bamboo.png) |
+| item | Bamboo | ![bamboo](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Bundle
@@ -114,7 +114,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Door
@@ -122,7 +122,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Fence
@@ -131,7 +131,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Dry Bamboo | ![dry_bamboo](../images/bambooeverything_dry_bamboo.png) |
-| O | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| O | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Fence Gate
@@ -140,7 +140,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Dry Bamboo | ![dry_bamboo](../images/bambooeverything_dry_bamboo.png) |
-| O | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| O | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Ladder
@@ -156,7 +156,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Stairs
@@ -164,7 +164,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Torch
@@ -173,7 +173,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Dry Bamboo | ![dry_bamboo](../images/bambooeverything_dry_bamboo.png) |
-| C | Coal | ![coal](../images/bambooeverything_coal.png) |
+| C | Coal | ![coal](../images/bambooeverything_bamboo_bundle_end.png) |
 
 ---
 ## Dry Bamboo Trapdoor
@@ -181,6 +181,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle.png) |
+| B | Dry Bamboo Bundle | ![dry_bamboo_bundle](../images/bambooeverything_dry_bamboo_bundle_end.png) |
 
 ---

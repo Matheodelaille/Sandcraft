@@ -7,7 +7,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Black | ![dyes/black](../images/pickletweaks_dyes/black.png) |
 
 ---
@@ -16,7 +16,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Blue | ![dyes/blue](../images/pickletweaks_dyes/blue.png) |
 
 ---
@@ -25,7 +25,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Brown | ![dyes/brown](../images/pickletweaks_dyes/brown.png) |
 
 ---
@@ -34,7 +34,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charcoal | ![charcoal](../images/pickletweaks_charcoal.png) |
+| - | Charcoal | ![charcoal](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Charcoal
@@ -42,14 +42,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
-| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_charcoal_piece.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Charcoal Piece | ![charcoal_piece](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Coal Piece
@@ -57,7 +57,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal | ![coal](../images/pickletweaks_coal.png) |
+| - | Coal | ![coal](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Coal
@@ -65,14 +65,14 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
-| - | Coal Piece | ![coal_piece](../images/pickletweaks_coal_piece.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
+| - | Coal Piece | ![coal_piece](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Cyan Cobblestone
@@ -80,7 +80,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Cyan | ![dyes/cyan](../images/pickletweaks_dyes/cyan.png) |
 
 ---
@@ -89,7 +89,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Apple | ![apple](../images/pickletweaks_apple.png) |
+| A | Apple | ![apple](../images/pickletweaks_diamond_apple.png) |
 | D | Gems/Diamond | ![gems/diamond](../images/pickletweaks_gems/diamond.png) |
 
 ---
@@ -98,9 +98,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Diamond Axe | ![diamond_axe](../images/pickletweaks_diamond_axe.png) |
-| B | Diamond Pickaxe | ![diamond_pickaxe](../images/pickletweaks_diamond_pickaxe.png) |
-| C | Diamond Shovel | ![diamond_shovel](../images/pickletweaks_diamond_shovel.png) |
+| A | Diamond Axe | ![diamond_axe](../images/pickletweaks_diamond_apple.png) |
+| B | Diamond Pickaxe | ![diamond_pickaxe](../images/pickletweaks_diamond_apple.png) |
+| C | Diamond Shovel | ![diamond_shovel](../images/pickletweaks_diamond_apple.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -127,7 +127,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Apple | ![apple](../images/pickletweaks_apple.png) |
+| A | Apple | ![apple](../images/pickletweaks_diamond_apple.png) |
 | E | Gems/Emerald | ![gems/emerald](../images/pickletweaks_gems/emerald.png) |
 
 ---
@@ -242,7 +242,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -251,7 +251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 
 ---
 ## Flint Chestplate
@@ -259,7 +259,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 
 ---
 ## Flint Helmet
@@ -267,7 +267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 
 ---
 ## Flint Hoe
@@ -275,7 +275,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -284,7 +284,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 
 ---
 ## Flint Paxel
@@ -303,7 +303,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -312,7 +312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Flint | ![flint](../images/pickletweaks_flint.png) |
+| I | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -321,7 +321,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 
 ---
 ## Flint Shovel
@@ -329,7 +329,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -338,7 +338,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Flint | ![flint](../images/pickletweaks_flint.png) |
+| I | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -347,7 +347,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Flint | ![flint](../images/pickletweaks_flint.png) |
+| F | Flint | ![flint](../images/pickletweaks_flint_axe.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -356,9 +356,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Golden Axe | ![golden_axe](../images/pickletweaks_golden_axe.png) |
-| B | Golden Pickaxe | ![golden_pickaxe](../images/pickletweaks_golden_pickaxe.png) |
-| C | Golden Shovel | ![golden_shovel](../images/pickletweaks_golden_shovel.png) |
+| A | Golden Axe | ![golden_axe](../images/pickletweaks_emerald_axe.png) |
+| B | Golden Pickaxe | ![golden_pickaxe](../images/pickletweaks_emerald_pickaxe.png) |
+| C | Golden Shovel | ![golden_shovel](../images/pickletweaks_emerald_shovel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -385,9 +385,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Grass | ![grass](../images/pickletweaks_grass.png) |
-| - | Grass | ![grass](../images/pickletweaks_grass.png) |
-| - | Grass | ![grass](../images/pickletweaks_grass.png) |
+| - | Grass | ![grass](../images/pickletweaks_grass_fiber.png) |
+| - | Grass | ![grass](../images/pickletweaks_grass_fiber.png) |
+| - | Grass | ![grass](../images/pickletweaks_grass_fiber.png) |
 
 ---
 ## Grass Fiber Mesh
@@ -404,7 +404,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Gray | ![dyes/gray](../images/pickletweaks_dyes/gray.png) |
 
 ---
@@ -413,7 +413,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Green | ![dyes/green](../images/pickletweaks_dyes/green.png) |
 
 ---
@@ -429,9 +429,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Iron Axe | ![iron_axe](../images/pickletweaks_iron_axe.png) |
-| B | Iron Pickaxe | ![iron_pickaxe](../images/pickletweaks_iron_pickaxe.png) |
-| C | Iron Shovel | ![iron_shovel](../images/pickletweaks_iron_shovel.png) |
+| A | Iron Axe | ![iron_axe](../images/pickletweaks_emerald_axe.png) |
+| B | Iron Pickaxe | ![iron_pickaxe](../images/pickletweaks_emerald_pickaxe.png) |
+| C | Iron Shovel | ![iron_shovel](../images/pickletweaks_emerald_shovel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -458,7 +458,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Light Blue | ![dyes/light_blue](../images/pickletweaks_dyes/light_blue.png) |
 
 ---
@@ -467,7 +467,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Light Gray | ![dyes/light_gray](../images/pickletweaks_dyes/light_gray.png) |
 
 ---
@@ -476,7 +476,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Lime | ![dyes/lime](../images/pickletweaks_dyes/lime.png) |
 
 ---
@@ -485,7 +485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Magenta | ![dyes/magenta](../images/pickletweaks_dyes/magenta.png) |
 
 ---
@@ -496,7 +496,7 @@
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/pickletweaks_ingots/iron.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/pickletweaks_dusts/redstone.png) |
-| E | Ender Pearl | ![ender_pearl](../images/pickletweaks_ender_pearl.png) |
+| E | Ender Pearl | ![ender_pearl](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Mesh
@@ -505,7 +505,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
-| S | String | ![string](../images/pickletweaks_string.png) |
+| S | String | ![string](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Flint
@@ -514,7 +514,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Mesh | ![mesh](../images/pickletweaks_mesh.png) |
-| - | Gravel | ![gravel](../images/pickletweaks_gravel.png) |
+| - | Gravel | ![gravel](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Flint
@@ -523,7 +523,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Reinforced Mesh | ![reinforced_mesh](../images/pickletweaks_reinforced_mesh.png) |
-| - | Gravel | ![gravel](../images/pickletweaks_gravel.png) |
+| - | Gravel | ![gravel](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Flint
@@ -532,7 +532,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Fiber Mesh | ![grass_fiber_mesh](../images/pickletweaks_grass_fiber_mesh.png) |
-| - | Gravel | ![gravel](../images/pickletweaks_gravel.png) |
+| - | Gravel | ![gravel](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Netherite Paxel
@@ -540,9 +540,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Netherite Axe | ![netherite_axe](../images/pickletweaks_netherite_axe.png) |
-| B | Netherite Pickaxe | ![netherite_pickaxe](../images/pickletweaks_netherite_pickaxe.png) |
-| C | Netherite Shovel | ![netherite_shovel](../images/pickletweaks_netherite_shovel.png) |
+| A | Netherite Axe | ![netherite_axe](../images/pickletweaks_emerald_axe.png) |
+| B | Netherite Pickaxe | ![netherite_pickaxe](../images/pickletweaks_emerald_pickaxe.png) |
+| C | Netherite Shovel | ![netherite_shovel](../images/pickletweaks_emerald_shovel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -566,8 +566,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/pickletweaks_ingots/iron.png) |
-| G | Green Stained Glass Pane | ![green_stained_glass_pane](../images/pickletweaks_green_stained_glass_pane.png) |
-| S | String | ![string](../images/pickletweaks_string.png) |
+| G | Green Stained Glass Pane | ![green_stained_glass_pane](../images/pickletweaks_colored_cobblestone.png) |
+| S | String | ![string](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Orange Cobblestone
@@ -575,7 +575,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Orange | ![dyes/orange](../images/pickletweaks_dyes/orange.png) |
 
 ---
@@ -584,7 +584,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Pink | ![dyes/pink](../images/pickletweaks_dyes/pink.png) |
 
 ---
@@ -593,7 +593,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Purple | ![dyes/purple](../images/pickletweaks_dyes/purple.png) |
 
 ---
@@ -602,7 +602,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Red | ![dyes/red](../images/pickletweaks_dyes/red.png) |
 
 ---
@@ -612,7 +612,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/pickletweaks_ingots/iron.png) |
-| S | String | ![string](../images/pickletweaks_string.png) |
+| S | String | ![string](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Reinforced Night Vision Goggles
@@ -621,8 +621,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Gems/Diamond | ![gems/diamond](../images/pickletweaks_gems/diamond.png) |
-| G | Green Stained Glass Pane | ![green_stained_glass_pane](../images/pickletweaks_green_stained_glass_pane.png) |
-| S | String | ![string](../images/pickletweaks_string.png) |
+| G | Green Stained Glass Pane | ![green_stained_glass_pane](../images/pickletweaks_colored_cobblestone.png) |
+| S | String | ![string](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Reinforced Watering Can
@@ -631,8 +631,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Gems/Diamond | ![gems/diamond](../images/pickletweaks_gems/diamond.png) |
-| W | Bowl | ![bowl](../images/pickletweaks_bowl.png) |
-| B | Bone Meal | ![bone_meal](../images/pickletweaks_bone_meal.png) |
+| W | Bowl | ![bowl](../images/pickletweaks_colored_cobblestone.png) |
+| B | Bone Meal | ![bone_meal](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## Smooth Glowstone
@@ -640,7 +640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Glowstone | ![glowstone](../images/pickletweaks_glowstone.png) |
+| item | Glowstone | ![glowstone](../images/pickletweaks_smooth_glowstone.png) |
 
 ---
 ## Stone Paxel
@@ -648,9 +648,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stone Axe | ![stone_axe](../images/pickletweaks_stone_axe.png) |
-| B | Stone Pickaxe | ![stone_pickaxe](../images/pickletweaks_stone_pickaxe.png) |
-| C | Stone Shovel | ![stone_shovel](../images/pickletweaks_stone_shovel.png) |
+| A | Stone Axe | ![stone_axe](../images/pickletweaks_emerald_axe.png) |
+| B | Stone Pickaxe | ![stone_pickaxe](../images/pickletweaks_emerald_pickaxe.png) |
+| C | Stone Shovel | ![stone_shovel](../images/pickletweaks_emerald_shovel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -659,7 +659,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Stone Tool Materials | ![stone_tool_materials](../images/pickletweaks_stone_tool_materials.png) |
+| I | Stone Tool Materials | ![stone_tool_materials](../images/pickletweaks_stone_paxel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -668,7 +668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Stone Tool Materials | ![stone_tool_materials](../images/pickletweaks_stone_tool_materials.png) |
+| I | Stone Tool Materials | ![stone_tool_materials](../images/pickletweaks_stone_paxel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -678,8 +678,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/pickletweaks_ingots/iron.png) |
-| W | Bowl | ![bowl](../images/pickletweaks_bowl.png) |
-| B | Bone Meal | ![bone_meal](../images/pickletweaks_bone_meal.png) |
+| W | Bowl | ![bowl](../images/pickletweaks_colored_cobblestone.png) |
+| B | Bone Meal | ![bone_meal](../images/pickletweaks_colored_cobblestone.png) |
 
 ---
 ## White Cobblestone
@@ -687,7 +687,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/White | ![dyes/white](../images/pickletweaks_dyes/white.png) |
 
 ---
@@ -696,9 +696,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Wooden Axe | ![wooden_axe](../images/pickletweaks_wooden_axe.png) |
-| B | Wooden Pickaxe | ![wooden_pickaxe](../images/pickletweaks_wooden_pickaxe.png) |
-| C | Wooden Shovel | ![wooden_shovel](../images/pickletweaks_wooden_shovel.png) |
+| A | Wooden Axe | ![wooden_axe](../images/pickletweaks_emerald_axe.png) |
+| B | Wooden Pickaxe | ![wooden_pickaxe](../images/pickletweaks_emerald_pickaxe.png) |
+| C | Wooden Shovel | ![wooden_shovel](../images/pickletweaks_emerald_shovel.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -707,7 +707,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Planks | ![planks](../images/pickletweaks_planks.png) |
+| I | Planks | ![planks](../images/pickletweaks_colored_cobblestone.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -716,7 +716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Planks | ![planks](../images/pickletweaks_planks.png) |
+| I | Planks | ![planks](../images/pickletweaks_colored_cobblestone.png) |
 | S | Rods/Wooden | ![rods/wooden](../images/pickletweaks_rods/wooden.png) |
 
 ---
@@ -725,7 +725,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/pickletweaks_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/pickletweaks_colored_cobblestone.png) |
 | D | Dyes/Yellow | ![dyes/yellow](../images/pickletweaks_dyes/yellow.png) |
 
 ---

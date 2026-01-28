@@ -14,8 +14,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Bookshelf Cupboard
@@ -23,9 +23,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Bookshelf Drawer
@@ -33,9 +33,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Chair
@@ -43,9 +43,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Coffee Table
@@ -53,8 +53,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Counter
@@ -62,8 +62,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Covered Desk
@@ -71,7 +71,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Cupboard Counter
@@ -79,8 +79,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Acacia Wardrobe | ![acacia_wardrobe](../images/mcwfurnitures_acacia_wardrobe.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Wardrobe | ![acacia_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Desk
@@ -88,8 +88,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Double Drawer
@@ -97,7 +97,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -106,8 +106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Acacia Double Drawer | ![acacia_double_drawer](../images/mcwfurnitures_acacia_double_drawer.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Double Drawer | ![acacia_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Acacia Double Wardrobe
@@ -115,7 +115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -124,7 +124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -133,8 +133,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Acacia Drawer | ![acacia_drawer](../images/mcwfurnitures_acacia_drawer.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Drawer | ![acacia_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Acacia End Table
@@ -142,8 +142,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Table | ![acacia_table](../images/mcwfurnitures_acacia_table.png) |
-| B | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Table | ![acacia_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Glass Table
@@ -151,8 +151,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia End Table | ![acacia_end_table](../images/mcwfurnitures_acacia_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Acacia End Table | ![acacia_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Large Drawer
@@ -160,7 +160,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -169,9 +169,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Lower Triple Drawer
@@ -179,7 +179,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -188,9 +188,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Modern Desk
@@ -198,9 +198,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Modern Wardrobe
@@ -208,7 +208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -217,8 +217,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Striped Chair
@@ -226,9 +226,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Table
@@ -236,8 +236,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Coffee Table | ![acacia_coffee_table](../images/mcwfurnitures_acacia_coffee_table.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Acacia Coffee Table | ![acacia_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Acacia Triple Drawer
@@ -245,7 +245,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -254,7 +254,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_acacia_log.png) |
+| A | Acacia Log | ![acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -270,8 +270,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Bookshelf Cupboard
@@ -279,9 +279,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Bookshelf Drawer
@@ -289,9 +289,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Chair
@@ -299,9 +299,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Coffee Table
@@ -309,8 +309,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Counter
@@ -318,8 +318,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Covered Desk
@@ -327,7 +327,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Cupboard Counter
@@ -335,8 +335,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Birch Wardrobe | ![birch_wardrobe](../images/mcwfurnitures_birch_wardrobe.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Wardrobe | ![birch_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Desk
@@ -344,8 +344,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Double Drawer
@@ -353,7 +353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -362,8 +362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Birch Double Drawer | ![birch_double_drawer](../images/mcwfurnitures_birch_double_drawer.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Double Drawer | ![birch_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Birch Double Wardrobe
@@ -371,7 +371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -380,7 +380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -389,8 +389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Birch Drawer | ![birch_drawer](../images/mcwfurnitures_birch_drawer.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Drawer | ![birch_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Birch End Table
@@ -398,8 +398,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Table | ![birch_table](../images/mcwfurnitures_birch_table.png) |
-| B | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Table | ![birch_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Glass Table
@@ -407,8 +407,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch End Table | ![birch_end_table](../images/mcwfurnitures_birch_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Birch End Table | ![birch_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Large Drawer
@@ -416,7 +416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -425,9 +425,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Lower Triple Drawer
@@ -435,7 +435,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -444,9 +444,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Modern Desk
@@ -454,9 +454,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Modern Wardrobe
@@ -464,7 +464,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -473,8 +473,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Striped Chair
@@ -482,9 +482,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Table
@@ -492,8 +492,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Coffee Table | ![birch_coffee_table](../images/mcwfurnitures_birch_coffee_table.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Birch Coffee Table | ![birch_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Birch Triple Drawer
@@ -501,7 +501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -510,7 +510,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Log | ![birch_log](../images/mcwfurnitures_birch_log.png) |
+| A | Birch Log | ![birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -520,8 +520,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/mcwfurnitures_chests/wooden.png) |
-| C | Iron Nugget | ![iron_nugget](../images/mcwfurnitures_iron_nugget.png) |
-| A | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| C | Iron Nugget | ![iron_nugget](../images/mcwfurnitures_cabinet_door.png) |
+| A | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Cabinet Drawer
@@ -530,8 +530,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Chests/Wooden | ![chests/wooden](../images/mcwfurnitures_chests/wooden.png) |
-| C | Iron Nugget | ![iron_nugget](../images/mcwfurnitures_iron_nugget.png) |
-| A | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| C | Iron Nugget | ![iron_nugget](../images/mcwfurnitures_cabinet_door.png) |
+| A | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## {}
@@ -546,8 +546,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Bookshelf Cupboard
@@ -555,9 +555,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Bookshelf Drawer
@@ -565,9 +565,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Chair
@@ -575,9 +575,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Coffee Table
@@ -585,8 +585,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Counter
@@ -594,8 +594,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Covered Desk
@@ -603,7 +603,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Cupboard Counter
@@ -611,8 +611,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Crimson Wardrobe | ![crimson_wardrobe](../images/mcwfurnitures_crimson_wardrobe.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Wardrobe | ![crimson_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Desk
@@ -620,8 +620,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Double Drawer
@@ -629,7 +629,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -638,8 +638,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Crimson Double Drawer | ![crimson_double_drawer](../images/mcwfurnitures_crimson_double_drawer.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Double Drawer | ![crimson_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Crimson Double Wardrobe
@@ -647,7 +647,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -656,7 +656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -665,8 +665,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Crimson Drawer | ![crimson_drawer](../images/mcwfurnitures_crimson_drawer.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Drawer | ![crimson_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Crimson End Table
@@ -674,8 +674,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Table | ![crimson_table](../images/mcwfurnitures_crimson_table.png) |
-| B | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Table | ![crimson_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Glass Table
@@ -683,8 +683,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson End Table | ![crimson_end_table](../images/mcwfurnitures_crimson_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Crimson End Table | ![crimson_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Large Drawer
@@ -692,7 +692,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -701,9 +701,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Lower Triple Drawer
@@ -711,7 +711,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -720,9 +720,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Modern Desk
@@ -730,9 +730,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Modern Wardrobe
@@ -740,7 +740,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -749,8 +749,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Striped Chair
@@ -758,9 +758,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Table
@@ -768,8 +768,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Coffee Table | ![crimson_coffee_table](../images/mcwfurnitures_crimson_coffee_table.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Crimson Coffee Table | ![crimson_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Crimson Triple Drawer
@@ -777,7 +777,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -786,7 +786,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_crimson_stem.png) |
+| A | Crimson Stem | ![crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -802,8 +802,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Bookshelf Cupboard
@@ -811,9 +811,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Bookshelf Drawer
@@ -821,9 +821,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Chair
@@ -831,9 +831,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Coffee Table
@@ -841,8 +841,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Counter
@@ -850,8 +850,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Covered Desk
@@ -859,7 +859,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Cupboard Counter
@@ -867,8 +867,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Dark Oak Wardrobe | ![dark_oak_wardrobe](../images/mcwfurnitures_dark_oak_wardrobe.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Wardrobe | ![dark_oak_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Desk
@@ -876,8 +876,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Double Drawer
@@ -885,7 +885,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -894,8 +894,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Dark Oak Double Drawer | ![dark_oak_double_drawer](../images/mcwfurnitures_dark_oak_double_drawer.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Double Drawer | ![dark_oak_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Dark Oak Double Wardrobe
@@ -903,7 +903,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -912,7 +912,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -921,8 +921,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Dark Oak Drawer | ![dark_oak_drawer](../images/mcwfurnitures_dark_oak_drawer.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Drawer | ![dark_oak_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Dark Oak End Table
@@ -930,8 +930,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Table | ![dark_oak_table](../images/mcwfurnitures_dark_oak_table.png) |
-| B | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Table | ![dark_oak_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Glass Table
@@ -939,8 +939,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak End Table | ![dark_oak_end_table](../images/mcwfurnitures_dark_oak_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Dark Oak End Table | ![dark_oak_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Large Drawer
@@ -948,7 +948,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -957,9 +957,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Lower Triple Drawer
@@ -967,7 +967,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -976,9 +976,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Modern Desk
@@ -986,9 +986,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Modern Wardrobe
@@ -996,7 +996,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1005,8 +1005,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Striped Chair
@@ -1014,9 +1014,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Table
@@ -1024,8 +1024,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Coffee Table | ![dark_oak_coffee_table](../images/mcwfurnitures_dark_oak_coffee_table.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Dark Oak Coffee Table | ![dark_oak_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Dark Oak Triple Drawer
@@ -1033,7 +1033,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1042,7 +1042,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_dark_oak_log.png) |
+| A | Dark Oak Log | ![dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1058,8 +1058,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Bookshelf Cupboard
@@ -1067,9 +1067,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Bookshelf Drawer
@@ -1077,9 +1077,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Chair
@@ -1087,9 +1087,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Coffee Table
@@ -1097,8 +1097,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Counter
@@ -1106,8 +1106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Covered Desk
@@ -1115,7 +1115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Cupboard Counter
@@ -1123,8 +1123,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Jungle Wardrobe | ![jungle_wardrobe](../images/mcwfurnitures_jungle_wardrobe.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Wardrobe | ![jungle_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Desk
@@ -1132,8 +1132,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Double Drawer
@@ -1141,7 +1141,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1150,8 +1150,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Jungle Double Drawer | ![jungle_double_drawer](../images/mcwfurnitures_jungle_double_drawer.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Double Drawer | ![jungle_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Jungle Double Wardrobe
@@ -1159,7 +1159,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1168,7 +1168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1177,8 +1177,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Jungle Drawer | ![jungle_drawer](../images/mcwfurnitures_jungle_drawer.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Drawer | ![jungle_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Jungle End Table
@@ -1186,8 +1186,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Table | ![jungle_table](../images/mcwfurnitures_jungle_table.png) |
-| B | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Table | ![jungle_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Glass Table
@@ -1195,8 +1195,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle End Table | ![jungle_end_table](../images/mcwfurnitures_jungle_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Jungle End Table | ![jungle_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Large Drawer
@@ -1204,7 +1204,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1213,9 +1213,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Lower Triple Drawer
@@ -1223,7 +1223,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1232,9 +1232,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Modern Desk
@@ -1242,9 +1242,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Modern Wardrobe
@@ -1252,7 +1252,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1261,8 +1261,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Striped Chair
@@ -1270,9 +1270,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Table
@@ -1280,8 +1280,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Coffee Table | ![jungle_coffee_table](../images/mcwfurnitures_jungle_coffee_table.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Jungle Coffee Table | ![jungle_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Jungle Triple Drawer
@@ -1289,7 +1289,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1298,7 +1298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_jungle_log.png) |
+| A | Jungle Log | ![jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1314,8 +1314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Bookshelf Cupboard
@@ -1323,9 +1323,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Bookshelf Drawer
@@ -1333,9 +1333,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Chair
@@ -1343,9 +1343,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Coffee Table
@@ -1353,8 +1353,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Counter
@@ -1362,8 +1362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Covered Desk
@@ -1371,7 +1371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Cupboard Counter
@@ -1379,8 +1379,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Mangrove Wardrobe | ![mangrove_wardrobe](../images/mcwfurnitures_mangrove_wardrobe.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Wardrobe | ![mangrove_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Desk
@@ -1388,8 +1388,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Double Drawer
@@ -1397,7 +1397,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1406,8 +1406,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Mangrove Double Drawer | ![mangrove_double_drawer](../images/mcwfurnitures_mangrove_double_drawer.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Double Drawer | ![mangrove_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Mangrove Double Wardrobe
@@ -1415,7 +1415,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1424,7 +1424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1433,8 +1433,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Mangrove Drawer | ![mangrove_drawer](../images/mcwfurnitures_mangrove_drawer.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Drawer | ![mangrove_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Mangrove End Table
@@ -1442,8 +1442,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Table | ![mangrove_table](../images/mcwfurnitures_mangrove_table.png) |
-| B | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Table | ![mangrove_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Glass Table
@@ -1451,8 +1451,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove End Table | ![mangrove_end_table](../images/mcwfurnitures_mangrove_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Mangrove End Table | ![mangrove_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Large Drawer
@@ -1460,7 +1460,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1469,9 +1469,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Lower Triple Drawer
@@ -1479,7 +1479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1488,9 +1488,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Modern Desk
@@ -1498,9 +1498,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Modern Wardrobe
@@ -1508,7 +1508,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1517,8 +1517,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Striped Chair
@@ -1526,9 +1526,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Table
@@ -1536,8 +1536,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Coffee Table | ![mangrove_coffee_table](../images/mcwfurnitures_mangrove_coffee_table.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Mangrove Coffee Table | ![mangrove_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Mangrove Triple Drawer
@@ -1545,7 +1545,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1554,7 +1554,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_mangrove_log.png) |
+| A | Mangrove Log | ![mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1570,8 +1570,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Bookshelf Cupboard
@@ -1579,9 +1579,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Bookshelf Drawer
@@ -1589,9 +1589,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Chair
@@ -1599,9 +1599,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Coffee Table
@@ -1609,8 +1609,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Counter
@@ -1618,8 +1618,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Covered Desk
@@ -1627,7 +1627,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Cupboard Counter
@@ -1635,8 +1635,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Oak Wardrobe | ![oak_wardrobe](../images/mcwfurnitures_oak_wardrobe.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Wardrobe | ![oak_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Desk
@@ -1644,8 +1644,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Double Drawer
@@ -1653,7 +1653,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1662,8 +1662,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Oak Double Drawer | ![oak_double_drawer](../images/mcwfurnitures_oak_double_drawer.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Double Drawer | ![oak_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Oak Double Wardrobe
@@ -1671,7 +1671,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1680,7 +1680,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1689,8 +1689,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Oak Drawer | ![oak_drawer](../images/mcwfurnitures_oak_drawer.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Drawer | ![oak_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Oak End Table
@@ -1698,8 +1698,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Table | ![oak_table](../images/mcwfurnitures_oak_table.png) |
-| B | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Table | ![oak_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Glass Table
@@ -1707,8 +1707,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak End Table | ![oak_end_table](../images/mcwfurnitures_oak_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Oak End Table | ![oak_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Large Drawer
@@ -1716,7 +1716,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1725,9 +1725,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Lower Triple Drawer
@@ -1735,7 +1735,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1744,9 +1744,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Modern Desk
@@ -1754,9 +1754,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Modern Wardrobe
@@ -1764,7 +1764,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1773,8 +1773,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Striped Chair
@@ -1782,9 +1782,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Table
@@ -1792,8 +1792,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Coffee Table | ![oak_coffee_table](../images/mcwfurnitures_oak_coffee_table.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Oak Coffee Table | ![oak_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Oak Triple Drawer
@@ -1801,7 +1801,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1810,7 +1810,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Log | ![oak_log](../images/mcwfurnitures_oak_log.png) |
+| A | Oak Log | ![oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1826,8 +1826,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Bookshelf Cupboard
@@ -1835,9 +1835,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Bookshelf Drawer
@@ -1845,9 +1845,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Chair
@@ -1855,9 +1855,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Coffee Table
@@ -1865,8 +1865,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Counter
@@ -1874,8 +1874,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Covered Desk
@@ -1883,7 +1883,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Cupboard Counter
@@ -1891,8 +1891,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Spruce Wardrobe | ![spruce_wardrobe](../images/mcwfurnitures_spruce_wardrobe.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Wardrobe | ![spruce_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Desk
@@ -1900,8 +1900,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Double Drawer
@@ -1909,7 +1909,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1918,8 +1918,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Spruce Double Drawer | ![spruce_double_drawer](../images/mcwfurnitures_spruce_double_drawer.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Double Drawer | ![spruce_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Spruce Double Wardrobe
@@ -1927,7 +1927,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -1936,7 +1936,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1945,8 +1945,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Spruce Drawer | ![spruce_drawer](../images/mcwfurnitures_spruce_drawer.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Drawer | ![spruce_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Spruce End Table
@@ -1954,8 +1954,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Table | ![spruce_table](../images/mcwfurnitures_spruce_table.png) |
-| B | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Table | ![spruce_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Glass Table
@@ -1963,8 +1963,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce End Table | ![spruce_end_table](../images/mcwfurnitures_spruce_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Spruce End Table | ![spruce_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Large Drawer
@@ -1972,7 +1972,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -1981,9 +1981,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Lower Triple Drawer
@@ -1991,7 +1991,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2000,9 +2000,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Modern Desk
@@ -2010,9 +2010,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Modern Wardrobe
@@ -2020,7 +2020,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2029,8 +2029,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Striped Chair
@@ -2038,9 +2038,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Table
@@ -2048,8 +2048,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Coffee Table | ![spruce_coffee_table](../images/mcwfurnitures_spruce_coffee_table.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Spruce Coffee Table | ![spruce_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Spruce Triple Drawer
@@ -2057,7 +2057,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2066,7 +2066,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_spruce_log.png) |
+| A | Spruce Log | ![spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2075,8 +2075,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Bookshelf Cupboard
@@ -2084,9 +2084,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Bookshelf Drawer
@@ -2094,9 +2094,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Chair
@@ -2104,9 +2104,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Coffee Table
@@ -2114,8 +2114,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Counter
@@ -2123,8 +2123,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Covered Desk
@@ -2132,7 +2132,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Cupboard Counter
@@ -2140,8 +2140,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Stripped Acacia Wardrobe | ![stripped_acacia_wardrobe](../images/mcwfurnitures_stripped_acacia_wardrobe.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Acacia Wardrobe | ![stripped_acacia_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Desk
@@ -2149,8 +2149,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Double Drawer
@@ -2158,7 +2158,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2167,8 +2167,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Stripped Acacia Double Drawer | ![stripped_acacia_double_drawer](../images/mcwfurnitures_stripped_acacia_double_drawer.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Acacia Double Drawer | ![stripped_acacia_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Acacia Double Wardrobe
@@ -2176,7 +2176,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2185,7 +2185,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2194,8 +2194,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| B | Stripped Acacia Drawer | ![stripped_acacia_drawer](../images/mcwfurnitures_stripped_acacia_drawer.png) |
+| A | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Acacia Drawer | ![stripped_acacia_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Acacia End Table
@@ -2203,8 +2203,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Table | ![stripped_acacia_table](../images/mcwfurnitures_stripped_acacia_table.png) |
-| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Table | ![stripped_acacia_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Glass Table
@@ -2212,8 +2212,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia End Table | ![stripped_acacia_end_table](../images/mcwfurnitures_stripped_acacia_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Acacia End Table | ![stripped_acacia_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Large Drawer
@@ -2221,7 +2221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2230,9 +2230,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Lower Triple Drawer
@@ -2240,7 +2240,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2249,9 +2249,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Modern Desk
@@ -2259,9 +2259,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Modern Wardrobe
@@ -2269,7 +2269,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2278,8 +2278,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Striped Chair
@@ -2287,9 +2287,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
-| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_acacia_slab.png) |
-| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Slab | ![acacia_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Table
@@ -2297,8 +2297,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Coffee Table | ![stripped_acacia_coffee_table](../images/mcwfurnitures_stripped_acacia_coffee_table.png) |
-| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_acacia_fence.png) |
+| A | Stripped Acacia Coffee Table | ![stripped_acacia_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Acacia Fence | ![acacia_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Acacia Triple Drawer
@@ -2306,7 +2306,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2315,7 +2315,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_stripped_acacia_log.png) |
+| A | Stripped Acacia Log | ![stripped_acacia_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2324,8 +2324,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Bookshelf Cupboard
@@ -2333,9 +2333,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Bookshelf Drawer
@@ -2343,9 +2343,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Chair
@@ -2353,9 +2353,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Coffee Table
@@ -2363,8 +2363,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Counter
@@ -2372,8 +2372,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Covered Desk
@@ -2381,7 +2381,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Cupboard Counter
@@ -2389,8 +2389,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Stripped Birch Wardrobe | ![stripped_birch_wardrobe](../images/mcwfurnitures_stripped_birch_wardrobe.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Birch Wardrobe | ![stripped_birch_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Desk
@@ -2398,8 +2398,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Double Drawer
@@ -2407,7 +2407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2416,8 +2416,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Stripped Birch Double Drawer | ![stripped_birch_double_drawer](../images/mcwfurnitures_stripped_birch_double_drawer.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Birch Double Drawer | ![stripped_birch_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Birch Double Wardrobe
@@ -2425,7 +2425,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2434,7 +2434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2443,8 +2443,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| B | Stripped Birch Drawer | ![stripped_birch_drawer](../images/mcwfurnitures_stripped_birch_drawer.png) |
+| A | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Birch Drawer | ![stripped_birch_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Birch End Table
@@ -2452,8 +2452,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Table | ![stripped_birch_table](../images/mcwfurnitures_stripped_birch_table.png) |
-| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Table | ![stripped_birch_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Glass Table
@@ -2461,8 +2461,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch End Table | ![stripped_birch_end_table](../images/mcwfurnitures_stripped_birch_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Birch End Table | ![stripped_birch_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Large Drawer
@@ -2470,7 +2470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2479,9 +2479,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Lower Triple Drawer
@@ -2489,7 +2489,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2498,9 +2498,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Modern Desk
@@ -2508,9 +2508,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Modern Wardrobe
@@ -2518,7 +2518,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2527,8 +2527,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Striped Chair
@@ -2536,9 +2536,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
-| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_birch_slab.png) |
-| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Slab | ![birch_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Table
@@ -2546,8 +2546,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Coffee Table | ![stripped_birch_coffee_table](../images/mcwfurnitures_stripped_birch_coffee_table.png) |
-| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_birch_fence.png) |
+| A | Stripped Birch Coffee Table | ![stripped_birch_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Birch Fence | ![birch_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Birch Triple Drawer
@@ -2555,7 +2555,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2564,7 +2564,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_stripped_birch_log.png) |
+| A | Stripped Birch Log | ![stripped_birch_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2573,8 +2573,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Bookshelf Cupboard
@@ -2582,9 +2582,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Bookshelf Drawer
@@ -2592,9 +2592,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Chair
@@ -2602,9 +2602,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Coffee Table
@@ -2612,8 +2612,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Counter
@@ -2621,8 +2621,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Covered Desk
@@ -2630,7 +2630,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Cupboard Counter
@@ -2638,8 +2638,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Stripped Crimson Wardrobe | ![stripped_crimson_wardrobe](../images/mcwfurnitures_stripped_crimson_wardrobe.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Crimson Wardrobe | ![stripped_crimson_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Desk
@@ -2647,8 +2647,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Double Drawer
@@ -2656,7 +2656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2665,8 +2665,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Stripped Crimson Double Drawer | ![stripped_crimson_double_drawer](../images/mcwfurnitures_stripped_crimson_double_drawer.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Crimson Double Drawer | ![stripped_crimson_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Crimson Double Wardrobe
@@ -2674,7 +2674,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2683,7 +2683,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2692,8 +2692,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| B | Stripped Crimson Drawer | ![stripped_crimson_drawer](../images/mcwfurnitures_stripped_crimson_drawer.png) |
+| A | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Crimson Drawer | ![stripped_crimson_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Crimson End Table
@@ -2701,8 +2701,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Table | ![stripped_crimson_table](../images/mcwfurnitures_stripped_crimson_table.png) |
-| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Table | ![stripped_crimson_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Glass Table
@@ -2710,8 +2710,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson End Table | ![stripped_crimson_end_table](../images/mcwfurnitures_stripped_crimson_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Crimson End Table | ![stripped_crimson_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Large Drawer
@@ -2719,7 +2719,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2728,9 +2728,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Lower Triple Drawer
@@ -2738,7 +2738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2747,9 +2747,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Modern Desk
@@ -2757,9 +2757,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Modern Wardrobe
@@ -2767,7 +2767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2776,8 +2776,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Striped Chair
@@ -2785,9 +2785,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
-| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_crimson_slab.png) |
-| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Slab | ![crimson_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Table
@@ -2795,8 +2795,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Coffee Table | ![stripped_crimson_coffee_table](../images/mcwfurnitures_stripped_crimson_coffee_table.png) |
-| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_crimson_fence.png) |
+| A | Stripped Crimson Coffee Table | ![stripped_crimson_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Crimson Fence | ![crimson_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Crimson Triple Drawer
@@ -2804,7 +2804,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2813,7 +2813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_stripped_crimson_stem.png) |
+| A | Stripped Crimson Stem | ![stripped_crimson_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2822,8 +2822,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Bookshelf Cupboard
@@ -2831,9 +2831,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Bookshelf Drawer
@@ -2841,9 +2841,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Chair
@@ -2851,9 +2851,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Coffee Table
@@ -2861,8 +2861,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Counter
@@ -2870,8 +2870,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Covered Desk
@@ -2879,7 +2879,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Cupboard Counter
@@ -2887,8 +2887,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Stripped Dark Oak Wardrobe | ![stripped_dark_oak_wardrobe](../images/mcwfurnitures_stripped_dark_oak_wardrobe.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Dark Oak Wardrobe | ![stripped_dark_oak_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Desk
@@ -2896,8 +2896,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Double Drawer
@@ -2905,7 +2905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2914,8 +2914,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Stripped Dark Oak Double Drawer | ![stripped_dark_oak_double_drawer](../images/mcwfurnitures_stripped_dark_oak_double_drawer.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Dark Oak Double Drawer | ![stripped_dark_oak_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Dark Oak Double Wardrobe
@@ -2923,7 +2923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -2932,7 +2932,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2941,8 +2941,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| B | Stripped Dark Oak Drawer | ![stripped_dark_oak_drawer](../images/mcwfurnitures_stripped_dark_oak_drawer.png) |
+| A | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Dark Oak Drawer | ![stripped_dark_oak_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Dark Oak End Table
@@ -2950,8 +2950,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Table | ![stripped_dark_oak_table](../images/mcwfurnitures_stripped_dark_oak_table.png) |
-| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Table | ![stripped_dark_oak_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Glass Table
@@ -2959,8 +2959,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak End Table | ![stripped_dark_oak_end_table](../images/mcwfurnitures_stripped_dark_oak_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Dark Oak End Table | ![stripped_dark_oak_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Large Drawer
@@ -2968,7 +2968,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2977,9 +2977,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Lower Triple Drawer
@@ -2987,7 +2987,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -2996,9 +2996,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Modern Desk
@@ -3006,9 +3006,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Modern Wardrobe
@@ -3016,7 +3016,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3025,8 +3025,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Striped Chair
@@ -3034,9 +3034,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
-| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_dark_oak_slab.png) |
-| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Slab | ![dark_oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Table
@@ -3044,8 +3044,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Coffee Table | ![stripped_dark_oak_coffee_table](../images/mcwfurnitures_stripped_dark_oak_coffee_table.png) |
-| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_dark_oak_fence.png) |
+| A | Stripped Dark Oak Coffee Table | ![stripped_dark_oak_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Dark Oak Fence | ![dark_oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Dark Oak Triple Drawer
@@ -3053,7 +3053,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3062,7 +3062,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_stripped_dark_oak_log.png) |
+| A | Stripped Dark Oak Log | ![stripped_dark_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3071,8 +3071,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Bookshelf Cupboard
@@ -3080,9 +3080,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Bookshelf Drawer
@@ -3090,9 +3090,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Chair
@@ -3100,9 +3100,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Coffee Table
@@ -3110,8 +3110,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Counter
@@ -3119,8 +3119,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Covered Desk
@@ -3128,7 +3128,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Cupboard Counter
@@ -3136,8 +3136,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Stripped Jungle Wardrobe | ![stripped_jungle_wardrobe](../images/mcwfurnitures_stripped_jungle_wardrobe.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Jungle Wardrobe | ![stripped_jungle_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Desk
@@ -3145,8 +3145,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Double Drawer
@@ -3154,7 +3154,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3163,8 +3163,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Stripped Jungle Double Drawer | ![stripped_jungle_double_drawer](../images/mcwfurnitures_stripped_jungle_double_drawer.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Jungle Double Drawer | ![stripped_jungle_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Jungle Double Wardrobe
@@ -3172,7 +3172,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3181,7 +3181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3190,8 +3190,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| B | Stripped Jungle Drawer | ![stripped_jungle_drawer](../images/mcwfurnitures_stripped_jungle_drawer.png) |
+| A | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Jungle Drawer | ![stripped_jungle_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Jungle End Table
@@ -3199,8 +3199,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Table | ![stripped_jungle_table](../images/mcwfurnitures_stripped_jungle_table.png) |
-| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Table | ![stripped_jungle_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Glass Table
@@ -3208,8 +3208,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle End Table | ![stripped_jungle_end_table](../images/mcwfurnitures_stripped_jungle_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Jungle End Table | ![stripped_jungle_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Large Drawer
@@ -3217,7 +3217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3226,9 +3226,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Lower Triple Drawer
@@ -3236,7 +3236,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3245,9 +3245,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Modern Desk
@@ -3255,9 +3255,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Modern Wardrobe
@@ -3265,7 +3265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3274,8 +3274,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Striped Chair
@@ -3283,9 +3283,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
-| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_jungle_slab.png) |
-| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Slab | ![jungle_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Table
@@ -3293,8 +3293,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Coffee Table | ![stripped_jungle_coffee_table](../images/mcwfurnitures_stripped_jungle_coffee_table.png) |
-| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_jungle_fence.png) |
+| A | Stripped Jungle Coffee Table | ![stripped_jungle_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Jungle Fence | ![jungle_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Jungle Triple Drawer
@@ -3302,7 +3302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3311,7 +3311,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_stripped_jungle_log.png) |
+| A | Stripped Jungle Log | ![stripped_jungle_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3320,8 +3320,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Bookshelf Cupboard
@@ -3329,9 +3329,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Bookshelf Drawer
@@ -3339,9 +3339,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Chair
@@ -3349,9 +3349,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Coffee Table
@@ -3359,8 +3359,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Counter
@@ -3368,8 +3368,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Covered Desk
@@ -3377,7 +3377,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Cupboard Counter
@@ -3385,8 +3385,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Stripped Mangrove Wardrobe | ![stripped_mangrove_wardrobe](../images/mcwfurnitures_stripped_mangrove_wardrobe.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Mangrove Wardrobe | ![stripped_mangrove_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Desk
@@ -3394,8 +3394,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Double Drawer
@@ -3403,7 +3403,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3412,8 +3412,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Stripped Mangrove Double Drawer | ![stripped_mangrove_double_drawer](../images/mcwfurnitures_stripped_mangrove_double_drawer.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Mangrove Double Drawer | ![stripped_mangrove_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Mangrove Double Wardrobe
@@ -3421,7 +3421,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3430,7 +3430,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3439,8 +3439,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| B | Stripped Mangrove Drawer | ![stripped_mangrove_drawer](../images/mcwfurnitures_stripped_mangrove_drawer.png) |
+| A | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Mangrove Drawer | ![stripped_mangrove_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Mangrove End Table
@@ -3448,8 +3448,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Table | ![stripped_mangrove_table](../images/mcwfurnitures_stripped_mangrove_table.png) |
-| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Table | ![stripped_mangrove_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Glass Table
@@ -3457,8 +3457,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove End Table | ![stripped_mangrove_end_table](../images/mcwfurnitures_stripped_mangrove_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Mangrove End Table | ![stripped_mangrove_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Large Drawer
@@ -3466,7 +3466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3475,9 +3475,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Lower Triple Drawer
@@ -3485,7 +3485,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3494,9 +3494,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Modern Desk
@@ -3504,9 +3504,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Modern Wardrobe
@@ -3514,7 +3514,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3523,8 +3523,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Striped Chair
@@ -3532,9 +3532,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
-| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_mangrove_slab.png) |
-| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Slab | ![mangrove_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Table
@@ -3542,8 +3542,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Coffee Table | ![stripped_mangrove_coffee_table](../images/mcwfurnitures_stripped_mangrove_coffee_table.png) |
-| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_mangrove_fence.png) |
+| A | Stripped Mangrove Coffee Table | ![stripped_mangrove_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Mangrove Fence | ![mangrove_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Mangrove Triple Drawer
@@ -3551,7 +3551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3560,7 +3560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_stripped_mangrove_log.png) |
+| A | Stripped Mangrove Log | ![stripped_mangrove_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3569,8 +3569,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Bookshelf Cupboard
@@ -3578,9 +3578,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Bookshelf Drawer
@@ -3588,9 +3588,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Chair
@@ -3598,9 +3598,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Coffee Table
@@ -3608,8 +3608,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Counter
@@ -3617,8 +3617,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Covered Desk
@@ -3626,7 +3626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Cupboard Counter
@@ -3634,8 +3634,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Stripped Oak Wardrobe | ![stripped_oak_wardrobe](../images/mcwfurnitures_stripped_oak_wardrobe.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Oak Wardrobe | ![stripped_oak_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Desk
@@ -3643,8 +3643,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Double Drawer
@@ -3652,7 +3652,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3661,8 +3661,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Stripped Oak Double Drawer | ![stripped_oak_double_drawer](../images/mcwfurnitures_stripped_oak_double_drawer.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Oak Double Drawer | ![stripped_oak_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Oak Double Wardrobe
@@ -3670,7 +3670,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3679,7 +3679,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3688,8 +3688,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| B | Stripped Oak Drawer | ![stripped_oak_drawer](../images/mcwfurnitures_stripped_oak_drawer.png) |
+| A | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Oak Drawer | ![stripped_oak_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Oak End Table
@@ -3697,8 +3697,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Table | ![stripped_oak_table](../images/mcwfurnitures_stripped_oak_table.png) |
-| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Table | ![stripped_oak_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Glass Table
@@ -3706,8 +3706,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak End Table | ![stripped_oak_end_table](../images/mcwfurnitures_stripped_oak_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Oak End Table | ![stripped_oak_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Large Drawer
@@ -3715,7 +3715,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3724,9 +3724,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Lower Triple Drawer
@@ -3734,7 +3734,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3743,9 +3743,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Modern Desk
@@ -3753,9 +3753,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Modern Wardrobe
@@ -3763,7 +3763,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3772,8 +3772,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Striped Chair
@@ -3781,9 +3781,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
-| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_oak_slab.png) |
-| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Slab | ![oak_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Table
@@ -3791,8 +3791,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Coffee Table | ![stripped_oak_coffee_table](../images/mcwfurnitures_stripped_oak_coffee_table.png) |
-| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_oak_fence.png) |
+| A | Stripped Oak Coffee Table | ![stripped_oak_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Oak Fence | ![oak_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Oak Triple Drawer
@@ -3800,7 +3800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3809,7 +3809,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_stripped_oak_log.png) |
+| A | Stripped Oak Log | ![stripped_oak_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3818,8 +3818,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Bookshelf Cupboard
@@ -3827,9 +3827,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Bookshelf Drawer
@@ -3837,9 +3837,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Chair
@@ -3847,9 +3847,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Coffee Table
@@ -3857,8 +3857,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Counter
@@ -3866,8 +3866,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Covered Desk
@@ -3875,7 +3875,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Cupboard Counter
@@ -3883,8 +3883,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Stripped Spruce Wardrobe | ![stripped_spruce_wardrobe](../images/mcwfurnitures_stripped_spruce_wardrobe.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Spruce Wardrobe | ![stripped_spruce_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Desk
@@ -3892,8 +3892,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Double Drawer
@@ -3901,7 +3901,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3910,8 +3910,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Stripped Spruce Double Drawer | ![stripped_spruce_double_drawer](../images/mcwfurnitures_stripped_spruce_double_drawer.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Spruce Double Drawer | ![stripped_spruce_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Spruce Double Wardrobe
@@ -3919,7 +3919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -3928,7 +3928,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3937,8 +3937,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| B | Stripped Spruce Drawer | ![stripped_spruce_drawer](../images/mcwfurnitures_stripped_spruce_drawer.png) |
+| A | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Spruce Drawer | ![stripped_spruce_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Spruce End Table
@@ -3946,8 +3946,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Table | ![stripped_spruce_table](../images/mcwfurnitures_stripped_spruce_table.png) |
-| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Table | ![stripped_spruce_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Glass Table
@@ -3955,8 +3955,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce End Table | ![stripped_spruce_end_table](../images/mcwfurnitures_stripped_spruce_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Spruce End Table | ![stripped_spruce_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Large Drawer
@@ -3964,7 +3964,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3973,9 +3973,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Lower Triple Drawer
@@ -3983,7 +3983,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -3992,9 +3992,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Modern Desk
@@ -4002,9 +4002,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Modern Wardrobe
@@ -4012,7 +4012,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4021,8 +4021,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Striped Chair
@@ -4030,9 +4030,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
-| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_spruce_slab.png) |
-| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Slab | ![spruce_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Table
@@ -4040,8 +4040,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Coffee Table | ![stripped_spruce_coffee_table](../images/mcwfurnitures_stripped_spruce_coffee_table.png) |
-| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_spruce_fence.png) |
+| A | Stripped Spruce Coffee Table | ![stripped_spruce_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Spruce Fence | ![spruce_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Spruce Triple Drawer
@@ -4049,7 +4049,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4058,7 +4058,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_stripped_spruce_log.png) |
+| A | Stripped Spruce Log | ![stripped_spruce_log](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4067,8 +4067,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Bookshelf Cupboard
@@ -4076,9 +4076,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Bookshelf Drawer
@@ -4086,9 +4086,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Chair
@@ -4096,9 +4096,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Coffee Table
@@ -4106,8 +4106,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Counter
@@ -4115,8 +4115,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Covered Desk
@@ -4124,7 +4124,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Cupboard Counter
@@ -4132,8 +4132,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Stripped Warped Wardrobe | ![stripped_warped_wardrobe](../images/mcwfurnitures_stripped_warped_wardrobe.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Warped Wardrobe | ![stripped_warped_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Desk
@@ -4141,8 +4141,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Double Drawer
@@ -4150,7 +4150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4159,8 +4159,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Stripped Warped Double Drawer | ![stripped_warped_double_drawer](../images/mcwfurnitures_stripped_warped_double_drawer.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Warped Double Drawer | ![stripped_warped_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Warped Double Wardrobe
@@ -4168,7 +4168,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4177,7 +4177,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4186,8 +4186,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Stripped Warped Drawer | ![stripped_warped_drawer](../images/mcwfurnitures_stripped_warped_drawer.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Warped Drawer | ![stripped_warped_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Stripped Warped End Table
@@ -4195,8 +4195,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Table | ![stripped_warped_table](../images/mcwfurnitures_stripped_warped_table.png) |
-| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Table | ![stripped_warped_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Glass Table
@@ -4204,8 +4204,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped End Table | ![stripped_warped_end_table](../images/mcwfurnitures_stripped_warped_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Stripped Warped End Table | ![stripped_warped_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Large Drawer
@@ -4213,7 +4213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4222,9 +4222,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Lower Triple Drawer
@@ -4232,7 +4232,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4241,9 +4241,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Modern Desk
@@ -4251,9 +4251,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Modern Wardrobe
@@ -4261,7 +4261,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4270,8 +4270,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Striped Chair
@@ -4279,9 +4279,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Table
@@ -4289,8 +4289,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Coffee Table | ![stripped_warped_coffee_table](../images/mcwfurnitures_stripped_warped_coffee_table.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Stripped Warped Coffee Table | ![stripped_warped_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Stripped Warped Triple Drawer
@@ -4298,7 +4298,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4307,7 +4307,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_stripped_warped_stem.png) |
+| A | Stripped Warped Stem | ![stripped_warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4323,8 +4323,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Book | ![book](../images/mcwfurnitures_book.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Bookshelf Cupboard
@@ -4332,9 +4332,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Bookshelf Drawer
@@ -4342,9 +4342,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Chair
@@ -4352,9 +4352,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Coffee Table
@@ -4362,8 +4362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Counter
@@ -4371,8 +4371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Covered Desk
@@ -4380,7 +4380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Cupboard Counter
@@ -4388,8 +4388,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Warped Wardrobe | ![warped_wardrobe](../images/mcwfurnitures_warped_wardrobe.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Wardrobe | ![warped_wardrobe](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Desk
@@ -4397,8 +4397,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Double Drawer
@@ -4406,7 +4406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4415,8 +4415,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Warped Double Drawer | ![warped_double_drawer](../images/mcwfurnitures_warped_double_drawer.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Double Drawer | ![warped_double_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Warped Double Wardrobe
@@ -4424,7 +4424,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4433,7 +4433,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4442,8 +4442,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| B | Warped Drawer | ![warped_drawer](../images/mcwfurnitures_warped_drawer.png) |
+| A | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Drawer | ![warped_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
 ## Warped End Table
@@ -4451,8 +4451,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Table | ![warped_table](../images/mcwfurnitures_warped_table.png) |
-| B | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Table | ![warped_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Glass Table
@@ -4460,8 +4460,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped End Table | ![warped_end_table](../images/mcwfurnitures_warped_end_table.png) |
-| B | Glass | ![glass](../images/mcwfurnitures_glass.png) |
+| A | Warped End Table | ![warped_end_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Glass | ![glass](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Large Drawer
@@ -4469,7 +4469,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4478,9 +4478,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
-| C | Book | ![book](../images/mcwfurnitures_book.png) |
+| C | Book | ![book](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Lower Triple Drawer
@@ -4488,7 +4488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4497,9 +4497,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Modern Desk
@@ -4507,9 +4507,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
-| C | Stick | ![stick](../images/mcwfurnitures_stick.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
+| C | Stick | ![stick](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Modern Wardrobe
@@ -4517,7 +4517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
@@ -4526,8 +4526,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Striped Chair
@@ -4535,9 +4535,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
-| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_warped_slab.png) |
-| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Slab | ![warped_slab](../images/mcwfurnitures_cabinet_door.png) |
+| C | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Table
@@ -4545,8 +4545,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Coffee Table | ![warped_coffee_table](../images/mcwfurnitures_warped_coffee_table.png) |
-| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_warped_fence.png) |
+| A | Warped Coffee Table | ![warped_coffee_table](../images/mcwfurnitures_cabinet_door.png) |
+| B | Warped Fence | ![warped_fence](../images/mcwfurnitures_cabinet_door.png) |
 
 ---
 ## Warped Triple Drawer
@@ -4554,7 +4554,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Drawer | ![cabinet_drawer](../images/mcwfurnitures_cabinet_drawer.png) |
 
 ---
@@ -4563,7 +4563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_warped_stem.png) |
+| A | Warped Stem | ![warped_stem](../images/mcwfurnitures_cabinet_door.png) |
 | B | Cabinet Door | ![cabinet_door](../images/mcwfurnitures_cabinet_door.png) |
 
 ---

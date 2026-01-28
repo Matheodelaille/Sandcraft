@@ -7,9 +7,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Golden Apple | ![golden_apple](../images/botania_golden_apple.png) |
-| - | Potato | ![potato](../images/botania_potato.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Golden Apple | ![golden_apple](../images/botania_golden_grass_side.png) |
+| - | Potato | ![potato](../images/botania_cosmetic_tiny_potato_mask.png) |
 
 ---
 ## Abstruse Platform
@@ -17,7 +17,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| 0 | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 | 3 | Framed Livingwood | ![framed_livingwood](../images/botania_framed_livingwood.png) |
 | 4 | Pattern Framed Livingwood | ![pattern_framed_livingwood](../images/botania_pattern_framed_livingwood.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
@@ -69,11 +69,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Dusts | ![mana_dusts](../images/botania_mana_dusts.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Wool Carpets | ![wool_carpets](../images/botania_wool_carpets.png) |
-| - | Feather | ![feather](../images/botania_feather.png) |
-| - | String | ![string](../images/botania_string.png) |
+| - | Mana Dusts | ![mana_dusts](../images/botania_chiseled_mana_quartz_end.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Wool Carpets | ![wool_carpets](../images/botania_abstruse_platform.png) |
+| - | Feather | ![feather](../images/botania_abstruse_platform.png) |
+| - | String | ![string](../images/botania_mana_string.png) |
 
 ---
 ## Alchemy Catalyst
@@ -81,8 +81,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Brewing Stand | ![brewing_stand](../images/botania_brewing_stand.png) |
-| G | Gold Ingot | ![gold_ingot](../images/botania_gold_ingot.png) |
+| B | Brewing Stand | ![brewing_stand](../images/botania_abstruse_platform.png) |
+| G | Gold Ingot | ![gold_ingot](../images/botania_elementium_ingot.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
@@ -92,8 +92,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Terrasteel Nuggets | ![terrasteel_nuggets](../images/botania_terrasteel_nuggets.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| T | Terrasteel Nuggets | ![terrasteel_nuggets](../images/botania_terrasteel_block.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## {}
@@ -108,10 +108,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Cod | ![cod](../images/botania_cod.png) |
-| - | Quartz | ![quartz](../images/botania_quartz.png) |
-| - | Golden Carrot | ![golden_carrot](../images/botania_golden_carrot.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Cod | ![cod](../images/botania_abstruse_platform.png) |
+| - | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
+| - | Golden Carrot | ![golden_carrot](../images/botania_golden_grass_side.png) |
 
 ---
 ## {}
@@ -140,8 +140,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Dusts | ![mana_dusts](../images/botania_mana_dusts.png) |
-| T | Redstone Torch | ![redstone_torch](../images/botania_redstone_torch.png) |
+| D | Mana Dusts | ![mana_dusts](../images/botania_chiseled_mana_quartz_end.png) |
+| T | Redstone Torch | ![redstone_torch](../images/botania_animated_torch_glimmer.png) |
 
 ---
 ## Apothecary Deepslate
@@ -149,8 +149,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobbled Deepslate | ![cobbled_deepslate](../images/botania_cobbled_deepslate.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| C | Cobbled Deepslate | ![cobbled_deepslate](../images/botania_apothecary_deepslate_bottom.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Default
@@ -158,8 +158,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/botania_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| C | Cobblestone | ![cobblestone](../images/botania_metamorphic_desert_cobblestone.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Desert
@@ -168,7 +168,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Desert Cobblestone | ![metamorphic_desert_cobblestone](../images/botania_metamorphic_desert_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Forest
@@ -177,7 +177,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Forest Cobblestone | ![metamorphic_forest_cobblestone](../images/botania_metamorphic_forest_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Fungal
@@ -186,7 +186,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Fungal Cobblestone | ![metamorphic_fungal_cobblestone](../images/botania_metamorphic_fungal_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Livingrock
@@ -195,7 +195,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Livingrock | ![livingrock](../images/botania_livingrock.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Mesa
@@ -204,7 +204,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Mesa Cobblestone | ![metamorphic_mesa_cobblestone](../images/botania_metamorphic_mesa_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Mossy
@@ -212,8 +212,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Mossy Cobblestone | ![mossy_cobblestone](../images/botania_mossy_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| C | Mossy Cobblestone | ![mossy_cobblestone](../images/botania_apothecary_mossy_bottom.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Mountain
@@ -222,7 +222,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Mountain Cobblestone | ![metamorphic_mountain_cobblestone](../images/botania_metamorphic_mountain_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Plains
@@ -231,7 +231,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Plains Cobblestone | ![metamorphic_plains_cobblestone](../images/botania_metamorphic_plains_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Swamp
@@ -240,7 +240,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Swamp Cobblestone | ![metamorphic_swamp_cobblestone](../images/botania_metamorphic_swamp_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Apothecary Taiga
@@ -249,7 +249,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Metamorphic Taiga Cobblestone | ![metamorphic_taiga_cobblestone](../images/botania_metamorphic_taiga_cobblestone.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -264,8 +264,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| D | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | G | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 
 ---
@@ -274,7 +274,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | R | Rune Mana | ![rune_mana](../images/botania_rune_mana.png) |
 
 ---
@@ -283,7 +283,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | - | Aura Ring | ![aura_ring](../images/botania_aura_ring.png) |
 
 ---
@@ -293,7 +293,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Crafting Halo | ![crafting_halo](../images/botania_crafting_halo.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 
 ---
 ## {}
@@ -303,10 +303,10 @@
 | :--- | :--- | :--- |
 | - | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 | - | Rune Air | ![rune_air](../images/botania_rune_air.png) |
-| - | Leaves | ![leaves](../images/botania_leaves.png) |
-| - | Leaves | ![leaves](../images/botania_leaves.png) |
-| - | Leaves | ![leaves](../images/botania_leaves.png) |
-| - | Spider Eye | ![spider_eye](../images/botania_spider_eye.png) |
+| - | Leaves | ![leaves](../images/botania_horn_leaves.png) |
+| - | Leaves | ![leaves](../images/botania_horn_leaves.png) |
+| - | Leaves | ![leaves](../images/botania_horn_leaves.png) |
+| - | Spider Eye | ![spider_eye](../images/botania_cosmetic_clock_eye.png) |
 
 ---
 ## Avatar
@@ -314,8 +314,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## {}
@@ -697,9 +697,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Emerald | ![emerald](../images/botania_emerald.png) |
+| R | Emerald | ![emerald](../images/botania_abstruse_platform.png) |
 | S | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| W | Light Gray Wool | ![light_gray_wool](../images/botania_light_gray_wool.png) |
+| W | Light Gray Wool | ![light_gray_wool](../images/botania_light_gray_double_flower.png) |
 
 ---
 ## Bauble Box
@@ -708,8 +708,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Chests/Wooden | ![chests/wooden](../images/botania_chests/wooden.png) |
-| G | Gold Ingot | ![gold_ingot](../images/botania_gold_ingot.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| G | Gold Ingot | ![gold_ingot](../images/botania_elementium_ingot.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## {}
@@ -744,9 +744,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| L | Leather | ![leather](../images/botania_leather.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
 | R | Rune Air | ![rune_air](../images/botania_rune_air.png) |
-| S | Livingwood Slab | ![livingwood_slab](../images/botania_livingwood_slab.png) |
+| S | Livingwood Slab | ![livingwood_slab](../images/botania_corporea_slab_side.png) |
 
 ---
 ## {}
@@ -765,7 +765,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bifrost Perm | ![bifrost_perm](../images/botania_bifrost_perm.png) |
+| B | Bifrost Perm | ![bifrost_perm](../images/botania_bifrost.png) |
 
 ---
 ## Bifrost Perm
@@ -803,7 +803,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Black Shiny Flower | ![black_shiny_flower](../images/botania_black_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -814,7 +814,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | G | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 
 ---
@@ -830,7 +830,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Black Pavement Slab | ![black_pavement_slab](../images/botania_black_pavement_slab.png) |
+| Q | Black Pavement Slab | ![black_pavement_slab](../images/botania_black_pavement.png) |
 
 ---
 ## Black Pavement Slab
@@ -878,7 +878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Petal Block | ![black_petal_block](../images/botania_black_petal_block.png) |
+| - | Black Petal Block | ![black_petal_block](../images/botania_black_petal.png) |
 
 ---
 ## Black Shiny Flower
@@ -886,8 +886,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Black Mystical Flower | ![black_mystical_flower](../images/botania_black_mystical_flower.png) |
 
 ---
@@ -925,7 +925,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| Q | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Blaze Quartz Slab
@@ -933,7 +933,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| Q | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Blaze Quartz Stairs
@@ -941,7 +941,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| Q | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Blaze Quartz Pillar
@@ -949,7 +949,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Blaze Quartz Slab
@@ -957,7 +957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Blaze Quartz Stairs
@@ -965,7 +965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Chiseled Blaze Quartz
@@ -973,7 +973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz.png) |
+| item | Blaze Quartz | ![blaze_quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## {}
@@ -988,11 +988,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Fermented Spider Eye | ![fermented_spider_eye](../images/botania_fermented_spider_eye.png) |
-| - | Lapis Lazuli | ![lapis_lazuli](../images/botania_lapis_lazuli.png) |
-| - | Fire Charge | ![fire_charge](../images/botania_fire_charge.png) |
-| - | Iron Ingot | ![iron_ingot](../images/botania_iron_ingot.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Fermented Spider Eye | ![fermented_spider_eye](../images/botania_cosmetic_clock_eye.png) |
+| - | Lapis Lazuli | ![lapis_lazuli](../images/botania_abstruse_platform.png) |
+| - | Fire Charge | ![fire_charge](../images/botania_fire_rod.png) |
+| - | Iron Ingot | ![iron_ingot](../images/botania_elementium_ingot.png) |
 
 ---
 ## Blood Pendant
@@ -1000,9 +1000,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| G | Ghast Tear | ![ghast_tear](../images/botania_ghast_tear.png) |
-| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| G | Ghast Tear | ![ghast_tear](../images/botania_abstruse_platform.png) |
+| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Blue Floating Flower
@@ -1010,7 +1010,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Blue Shiny Flower | ![blue_shiny_flower](../images/botania_blue_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -1034,7 +1034,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Blue Pavement Slab | ![blue_pavement_slab](../images/botania_blue_pavement_slab.png) |
+| Q | Blue Pavement Slab | ![blue_pavement_slab](../images/botania_blue_pavement.png) |
 
 ---
 ## Blue Pavement Slab
@@ -1082,7 +1082,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Blue Petal Block | ![blue_petal_block](../images/botania_blue_petal_block.png) |
+| - | Blue Petal Block | ![blue_petal_block](../images/botania_blue_petal.png) |
 
 ---
 ## Blue Shiny Flower
@@ -1090,8 +1090,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Blue Mystical Flower | ![blue_mystical_flower](../images/botania_blue_mystical_flower.png) |
 
 ---
@@ -1108,9 +1108,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Rune Mana | ![rune_mana](../images/botania_rune_mana.png) |
-| M | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_blocks.png) |
+| M | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_axe.png) |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
-| S | Brewing Stand | ![brewing_stand](../images/botania_brewing_stand.png) |
+| S | Brewing Stand | ![brewing_stand](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -1125,7 +1125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Brown Shiny Flower | ![brown_shiny_flower](../images/botania_brown_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -1143,7 +1143,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Petal Block | ![brown_petal_block](../images/botania_brown_petal_block.png) |
+| - | Brown Petal Block | ![brown_petal_block](../images/botania_brown_petal.png) |
 
 ---
 ## Brown Shiny Flower
@@ -1151,8 +1151,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Brown Mystical Flower | ![brown_mystical_flower](../images/botania_brown_mystical_flower.png) |
 
 ---
@@ -1184,8 +1184,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Copper Ingot | ![copper_ingot](../images/botania_copper_ingot.png) |
-| N | Note Block | ![note_block](../images/botania_note_block.png) |
+| G | Copper Ingot | ![copper_ingot](../images/botania_elementium_ingot.png) |
+| N | Note Block | ![note_block](../images/botania_blaze_block.png) |
 
 ---
 ## {}
@@ -1214,12 +1214,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cactus | ![cactus](../images/botania_cactus.png) |
-| - | Cactus | ![cactus](../images/botania_cactus.png) |
-| - | Cactus | ![cactus](../images/botania_cactus.png) |
-| - | Beetroot | ![beetroot](../images/botania_beetroot.png) |
-| - | Carrot | ![carrot](../images/botania_carrot.png) |
-| - | Potato | ![potato](../images/botania_potato.png) |
+| - | Cactus | ![cactus](../images/botania_abstruse_platform.png) |
+| - | Cactus | ![cactus](../images/botania_abstruse_platform.png) |
+| - | Cactus | ![cactus](../images/botania_abstruse_platform.png) |
+| - | Beetroot | ![beetroot](../images/botania_abstruse_platform.png) |
+| - | Carrot | ![carrot](../images/botania_abstruse_platform.png) |
+| - | Potato | ![potato](../images/botania_cosmetic_tiny_potato_mask.png) |
 
 ---
 ## Chiseled Blaze Quartz
@@ -1227,7 +1227,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Blaze Quartz Slab | ![blaze_quartz_slab](../images/botania_blaze_quartz_slab.png) |
+| Q | Blaze Quartz Slab | ![blaze_quartz_slab](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Chiseled Dark Quartz
@@ -1235,7 +1235,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dark Quartz Slab | ![dark_quartz_slab](../images/botania_dark_quartz_slab.png) |
+| Q | Dark Quartz Slab | ![dark_quartz_slab](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Chiseled Elf Quartz
@@ -1243,7 +1243,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Elf Quartz Slab | ![elf_quartz_slab](../images/botania_elf_quartz_slab.png) |
+| Q | Elf Quartz Slab | ![elf_quartz_slab](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Chiseled Lavender Quartz
@@ -1251,7 +1251,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Lavender Quartz Slab | ![lavender_quartz_slab](../images/botania_lavender_quartz_slab.png) |
+| Q | Lavender Quartz Slab | ![lavender_quartz_slab](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Chiseled Livingrock Bricks
@@ -1267,7 +1267,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Mana Quartz Slab | ![mana_quartz_slab](../images/botania_mana_quartz_slab.png) |
+| Q | Mana Quartz Slab | ![mana_quartz_slab](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Chiseled Metamorphic Desert Bricks
@@ -1339,7 +1339,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Red Quartz Slab | ![red_quartz_slab](../images/botania_red_quartz_slab.png) |
+| Q | Red Quartz Slab | ![red_quartz_slab](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## {}
@@ -1354,7 +1354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Sunny Quartz Slab | ![sunny_quartz_slab](../images/botania_sunny_quartz_slab.png) |
+| Q | Sunny Quartz Slab | ![sunny_quartz_slab](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## {}
@@ -1395,10 +1395,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Quartz | ![quartz](../images/botania_quartz.png) |
-| - | Emerald | ![emerald](../images/botania_emerald.png) |
-| - | Melon Slice | ![melon_slice](../images/botania_melon_slice.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
+| - | Emerald | ![emerald](../images/botania_abstruse_platform.png) |
+| - | Melon Slice | ![melon_slice](../images/botania_abstruse_platform.png) |
 
 ---
 ## Clip
@@ -1406,7 +1406,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| D | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 
 ---
 ## Cloud Pendant
@@ -1414,7 +1414,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| D | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | F | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 | M | Rune Autumn | ![rune_autumn](../images/botania_rune_autumn.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
@@ -1453,7 +1453,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cobblestone | ![cobblestone](../images/botania_cobblestone.png) |
+| C | Cobblestone | ![cobblestone](../images/botania_metamorphic_desert_cobblestone.png) |
 | F | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 | W | Rune Water | ![rune_water](../images/botania_rune_water.png) |
@@ -1472,7 +1472,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | M | Mana String | ![mana_string](../images/botania_mana_string.png) |
-| S | String | ![string](../images/botania_string.png) |
+| S | String | ![string](../images/botania_mana_string.png) |
 
 ---
 ## {}
@@ -1509,7 +1509,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| G | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| G | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | P | Alchemy Catalyst | ![alchemy_catalyst](../images/botania_alchemy_catalyst.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
@@ -1648,7 +1648,7 @@
 | :--- | :--- | :--- |
 | C | Corporea Spark | ![corporea_spark](../images/botania_corporea_spark.png) |
 | G | Elf Glass | ![elf_glass](../images/botania_elf_glass.png) |
-| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 
 ---
 ## Corporea Funnel
@@ -1656,7 +1656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dropper | ![dropper](../images/botania_dropper.png) |
+| - | Dropper | ![dropper](../images/botania_abstruse_platform.png) |
 | - | Corporea Spark | ![corporea_spark](../images/botania_corporea_spark.png) |
 
 ---
@@ -1666,8 +1666,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
-| O | Obsidian | ![obsidian](../images/botania_obsidian.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
+| O | Obsidian | ![obsidian](../images/botania_abstruse_platform.png) |
 | S | Corporea Spark | ![corporea_spark](../images/botania_corporea_spark.png) |
 
 ---
@@ -1676,7 +1676,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone Block | ![redstone_block](../images/botania_redstone_block.png) |
+| - | Redstone Block | ![redstone_block](../images/botania_blaze_block.png) |
 | - | Corporea Spark | ![corporea_spark](../images/botania_corporea_spark.png) |
 
 ---
@@ -1713,7 +1713,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Corporea Spark | ![corporea_spark](../images/botania_corporea_spark.png) |
-| - | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| - | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 
 ---
 ## Corporea Stairs
@@ -1729,7 +1729,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Light Gray Dye | ![light_gray_dye](../images/botania_light_gray_dye.png) |
+| P | Light Gray Dye | ![light_gray_dye](../images/botania_light_gray_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1738,7 +1738,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Cyan Dye | ![cyan_dye](../images/botania_cyan_dye.png) |
+| P | Cyan Dye | ![cyan_dye](../images/botania_cyan_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1747,7 +1747,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Pink Dye | ![pink_dye](../images/botania_pink_dye.png) |
+| P | Pink Dye | ![pink_dye](../images/botania_cosmetic_pink_flower_bud.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1790,7 +1790,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Lime Dye | ![lime_dye](../images/botania_lime_dye.png) |
+| P | Lime Dye | ![lime_dye](../images/botania_lime_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1808,7 +1808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Orange Dye | ![orange_dye](../images/botania_orange_dye.png) |
+| P | Orange Dye | ![orange_dye](../images/botania_cosmetic_orange_shades.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1817,7 +1817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Light Blue Dye | ![light_blue_dye](../images/botania_light_blue_dye.png) |
+| P | Light Blue Dye | ![light_blue_dye](../images/botania_light_blue_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1835,7 +1835,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Gray Dye | ![gray_dye](../images/botania_gray_dye.png) |
+| P | Gray Dye | ![gray_dye](../images/botania_gray_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1862,7 +1862,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | White Dye | ![white_dye](../images/botania_white_dye.png) |
+| P | White Dye | ![white_dye](../images/botania_white_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1880,7 +1880,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Blue Dye | ![blue_dye](../images/botania_blue_dye.png) |
+| P | Blue Dye | ![blue_dye](../images/botania_blue_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1889,7 +1889,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Yellow Dye | ![yellow_dye](../images/botania_yellow_dye.png) |
+| P | Yellow Dye | ![yellow_dye](../images/botania_yellow_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1907,7 +1907,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Green Dye | ![green_dye](../images/botania_green_dye.png) |
+| P | Green Dye | ![green_dye](../images/botania_green_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1916,7 +1916,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Purple Dye | ![purple_dye](../images/botania_purple_dye.png) |
+| P | Purple Dye | ![purple_dye](../images/botania_purple_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1952,7 +1952,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Black Dye | ![black_dye](../images/botania_black_dye.png) |
+| P | Black Dye | ![black_dye](../images/botania_black_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1986,7 +1986,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Brown Dye | ![brown_dye](../images/botania_brown_dye.png) |
+| P | Brown Dye | ![brown_dye](../images/botania_brown_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -1995,7 +1995,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Tiny Potato | ![tiny_potato](../images/botania_tiny_potato.png) |
+| P | Tiny Potato | ![tiny_potato](../images/botania_cosmetic_tiny_potato_mask.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -2004,7 +2004,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Red Dye | ![red_dye](../images/botania_red_dye.png) |
+| P | Red Dye | ![red_dye](../images/botania_chiseled_red_quartz_end.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -2013,7 +2013,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Magenta Dye | ![magenta_dye](../images/botania_magenta_dye.png) |
+| P | Magenta Dye | ![magenta_dye](../images/botania_magenta_double_flower.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 
 ---
@@ -2048,8 +2048,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Crafting Table | ![crafting_table](../images/botania_crafting_table.png) |
-| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| C | Crafting Table | ![crafting_table](../images/botania_auto_crafting_halo.png) |
+| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
 
 ---
@@ -2058,7 +2058,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Crafting Table | ![crafting_table](../images/botania_crafting_table.png) |
+| C | Crafting Table | ![crafting_table](../images/botania_auto_crafting_halo.png) |
 | W | Dreamwood Planks | ![dreamwood_planks](../images/botania_dreamwood_planks.png) |
 
 ---
@@ -2067,7 +2067,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
@@ -2077,7 +2077,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Cyan Shiny Flower | ![cyan_shiny_flower](../images/botania_cyan_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -2095,7 +2095,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cyan Petal Block | ![cyan_petal_block](../images/botania_cyan_petal_block.png) |
+| - | Cyan Petal Block | ![cyan_petal_block](../images/botania_cyan_petal.png) |
 
 ---
 ## Cyan Shiny Flower
@@ -2103,8 +2103,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Cyan Mystical Flower | ![cyan_mystical_flower](../images/botania_cyan_mystical_flower.png) |
 
 ---
@@ -2185,7 +2185,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| Q | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Dark Quartz Slab
@@ -2193,7 +2193,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| Q | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Dark Quartz Stairs
@@ -2201,7 +2201,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| Q | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Chiseled Dark Quartz
@@ -2209,7 +2209,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| item | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Dark Quartz Pillar
@@ -2217,7 +2217,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| item | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Dark Quartz Slab
@@ -2225,7 +2225,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| item | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## Dark Quartz Stairs
@@ -2233,7 +2233,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Dark Quartz | ![dark_quartz](../images/botania_dark_quartz.png) |
+| item | Dark Quartz | ![dark_quartz](../images/botania_chiseled_dark_quartz_end.png) |
 
 ---
 ## {}
@@ -2323,7 +2323,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Light Relay | ![light_relay](../images/botania_light_relay.png) |
-| - | Redstone | ![redstone](../images/botania_redstone.png) |
+| - | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## {}
@@ -2331,7 +2331,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond Block | ![diamond_block](../images/botania_diamond_block.png) |
+| - | Diamond Block | ![diamond_block](../images/botania_mana_diamond_block.png) |
 
 ---
 ## {}
@@ -2346,7 +2346,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Diamond | ![diamond](../images/botania_diamond.png) |
+| - | Diamond | ![diamond](../images/botania_mana_diamond.png) |
 
 ---
 ## Diluted Pool
@@ -2354,7 +2354,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Livingrock Slab | ![livingrock_slab](../images/botania_livingrock_slab.png) |
+| R | Livingrock Slab | ![livingrock_slab](../images/botania_polished_livingrock_slab.png) |
 
 ---
 ## {}
@@ -2369,7 +2369,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | E | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
@@ -2379,7 +2379,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gold Ingot | ![gold_ingot](../images/botania_gold_ingot.png) |
+| G | Gold Ingot | ![gold_ingot](../images/botania_elementium_ingot.png) |
 | H | Rune Pride | ![rune_pride](../images/botania_rune_pride.png) |
 | L | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 | P | Tiny Planet | ![tiny_planet](../images/botania_tiny_planet.png) |
@@ -2390,7 +2390,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -2399,8 +2399,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Emerald | ![emerald](../images/botania_emerald.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| E | Emerald | ![emerald](../images/botania_abstruse_platform.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | R | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 
 ---
@@ -2409,7 +2409,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 
 ---
 ## {}
@@ -2446,7 +2446,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dreamwood Slab | ![dreamwood_slab](../images/botania_dreamwood_slab.png) |
+| Q | Dreamwood Slab | ![dreamwood_slab](../images/botania_corporea_slab_side.png) |
 
 ---
 ## Dreamwood Fence
@@ -2455,7 +2455,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Dreamwood Planks | ![dreamwood_planks](../images/botania_dreamwood_planks.png) |
-| S | Stick | ![stick](../images/botania_stick.png) |
+| S | Stick | ![stick](../images/botania_incense_stick.png) |
 
 ---
 ## Dreamwood Fence Gate
@@ -2464,7 +2464,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Dreamwood Planks | ![dreamwood_planks](../images/botania_dreamwood_planks.png) |
-| S | Stick | ![stick](../images/botania_stick.png) |
+| S | Stick | ![stick](../images/botania_incense_stick.png) |
 
 ---
 ## {}
@@ -2480,7 +2480,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dreamwood Planks Slab | ![dreamwood_planks_slab](../images/botania_dreamwood_planks_slab.png) |
+| Q | Dreamwood Planks Slab | ![dreamwood_planks_slab](../images/botania_dreamwood_planks.png) |
 
 ---
 ## Dreamwood Planks Slab
@@ -2504,7 +2504,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dreamwood | ![dreamwood](../images/botania_dreamwood.png) |
+| Q | Dreamwood | ![dreamwood](../images/botania_dreamwood_log.png) |
 
 ---
 ## Dreamwood Stairs
@@ -2512,7 +2512,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Dreamwood | ![dreamwood](../images/botania_dreamwood.png) |
+| Q | Dreamwood | ![dreamwood](../images/botania_dreamwood_log.png) |
 
 ---
 ## Dreamwood Twig
@@ -2520,7 +2520,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 
 ---
 ## Dreamwood Wall
@@ -2528,7 +2528,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Dreamwood | ![dreamwood](../images/botania_dreamwood.png) |
+| B | Dreamwood | ![dreamwood](../images/botania_dreamwood_log.png) |
 
 ---
 ## Dreamwood Wand
@@ -2536,7 +2536,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 | S | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
 ---
@@ -2546,8 +2546,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Horn Leaves | ![horn_leaves](../images/botania_horn_leaves.png) |
-| L | Leather | ![leather](../images/botania_leather.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## Drum Gathering
@@ -2555,9 +2555,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
-| L | Leather | ![leather](../images/botania_leather.png) |
-| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 
 ---
 ## Drum Wild
@@ -2566,8 +2566,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | H | Horn Grass | ![horn_grass](../images/botania_horn_grass.png) |
-| L | Leather | ![leather](../images/botania_leather.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## Dry Seeds
@@ -2576,7 +2576,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| - | Dead Bush | ![dead_bush](../images/botania_dead_bush.png) |
+| - | Dead Bush | ![dead_bush](../images/botania_abstruse_platform.png) |
 
 ---
 ## Black Dye
@@ -2712,11 +2712,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Dusts | ![mana_dusts](../images/botania_mana_dusts.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Stone | ![stone](../images/botania_stone.png) |
-| - | Coal Block | ![coal_block](../images/botania_coal_block.png) |
-| - | Red Mushroom'}] | ![red_mushroom'}]](../images/botania_red_mushroom'}].png) |
+| - | Mana Dusts | ![mana_dusts](../images/botania_chiseled_mana_quartz_end.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Stone | ![stone](../images/botania_metamorphic_desert_stone.png) |
+| - | Coal Block | ![coal_block](../images/botania_blaze_block.png) |
+| - | Red Mushroom'}] | ![red_mushroom'}]](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## {}
@@ -2724,8 +2724,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Elementium Axe
@@ -2733,7 +2733,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
 ---
@@ -2751,7 +2751,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Elementium Blocks | ![elementium_blocks](../images/botania_elementium_blocks.png) |
+| - | Elementium Blocks | ![elementium_blocks](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Boots
@@ -2759,7 +2759,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Chestplate
@@ -2767,7 +2767,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Ingot
@@ -2775,7 +2775,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Elementium Nuggets | ![elementium_nuggets](../images/botania_elementium_nuggets.png) |
+| I | Elementium Nuggets | ![elementium_nuggets](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Helmet
@@ -2783,7 +2783,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Hoe
@@ -2791,7 +2791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
 ---
@@ -2800,7 +2800,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Pickaxe
@@ -2808,7 +2808,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
 ---
@@ -2817,7 +2817,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Elementium Shovel
@@ -2825,7 +2825,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
 ---
@@ -2834,7 +2834,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
 ---
@@ -2843,7 +2843,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## {}
@@ -2867,7 +2867,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Quartz | ![quartz](../images/botania_quartz.png) |
+| - | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## {}
@@ -2882,7 +2882,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| Q | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Elf Quartz Slab
@@ -2890,7 +2890,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| Q | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Elf Quartz Stairs
@@ -2898,7 +2898,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| Q | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Chiseled Elf Quartz
@@ -2906,7 +2906,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| item | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Elf Quartz Pillar
@@ -2914,7 +2914,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| item | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Elf Quartz Slab
@@ -2922,7 +2922,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| item | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Elf Quartz Stairs
@@ -2930,7 +2930,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Elf Quartz | ![elf_quartz](../images/botania_elf_quartz.png) |
+| item | Elf Quartz | ![elf_quartz](../images/botania_chiseled_elf_quartz_end.png) |
 
 ---
 ## Elven Spreader
@@ -2938,9 +2938,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
-| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
+| W | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 
 ---
 ## {}
@@ -2955,12 +2955,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Gunpowder | ![gunpowder](../images/botania_gunpowder.png) |
-| - | Rotten Flesh | ![rotten_flesh](../images/botania_rotten_flesh.png) |
-| - | Bone | ![bone](../images/botania_bone.png) |
-| - | String | ![string](../images/botania_string.png) |
-| - | Ender Pearl | ![ender_pearl](../images/botania_ender_pearl.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Gunpowder | ![gunpowder](../images/botania_abstruse_platform.png) |
+| - | Rotten Flesh | ![rotten_flesh](../images/botania_abstruse_platform.png) |
+| - | Bone | ![bone](../images/botania_abstruse_platform.png) |
+| - | String | ![string](../images/botania_mana_string.png) |
+| - | Ender Pearl | ![ender_pearl](../images/botania_ender_air_bottle.png) |
 
 ---
 ## Ender Dagger
@@ -2969,7 +2969,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -2978,9 +2978,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
-| O | Obsidian | ![obsidian](../images/botania_obsidian.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| E | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
+| O | Obsidian | ![obsidian](../images/botania_abstruse_platform.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Ender Hand
@@ -2988,9 +2988,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Chest | ![ender_chest](../images/botania_ender_chest.png) |
-| L | Leather | ![leather](../images/botania_leather.png) |
-| O | Obsidian | ![obsidian](../images/botania_obsidian.png) |
+| E | Ender Chest | ![ender_chest](../images/botania_ender_air_bottle.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| O | Obsidian | ![obsidian](../images/botania_abstruse_platform.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
 
 ---
@@ -3006,7 +3006,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Ender Pearl | ![ender_pearl](../images/botania_ender_pearl.png) |
+| - | Ender Pearl | ![ender_pearl](../images/botania_ender_air_bottle.png) |
 
 ---
 ## {}
@@ -3047,8 +3047,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Winter | ![rune_winter](../images/botania_rune_winter.png) |
 | - | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 
@@ -3059,7 +3059,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Rune Sloth | ![rune_sloth](../images/botania_rune_sloth.png) |
-| S | Stone | ![stone](../images/botania_stone.png) |
+| S | Stone | ![stone](../images/botania_metamorphic_desert_stone.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -3089,8 +3089,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bifrost Perm | ![bifrost_perm](../images/botania_bifrost_perm.png) |
-| P | Mana Pool | ![mana_pool](../images/botania_mana_pool.png) |
+| B | Bifrost Perm | ![bifrost_perm](../images/botania_bifrost.png) |
+| P | Mana Pool | ![mana_pool](../images/botania_mana_pool_bottom.png) |
 
 ---
 ## {}
@@ -3111,10 +3111,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Feather | ![feather](../images/botania_feather.png) |
-| - | Leather | ![leather](../images/botania_leather.png) |
-| - | Wool | ![wool](../images/botania_wool.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Feather | ![feather](../images/botania_abstruse_platform.png) |
+| - | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| - | Wool | ![wool](../images/botania_abstruse_platform.png) |
 
 ---
 ## Fel Pumpkin
@@ -3122,11 +3122,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bone | ![bone](../images/botania_bone.png) |
-| F | Rotten Flesh | ![rotten_flesh](../images/botania_rotten_flesh.png) |
-| G | Gunpowder | ![gunpowder](../images/botania_gunpowder.png) |
-| P | Pumpkin | ![pumpkin](../images/botania_pumpkin.png) |
-| S | String | ![string](../images/botania_string.png) |
+| B | Bone | ![bone](../images/botania_abstruse_platform.png) |
+| F | Rotten Flesh | ![rotten_flesh](../images/botania_abstruse_platform.png) |
+| G | Gunpowder | ![gunpowder](../images/botania_abstruse_platform.png) |
+| P | Pumpkin | ![pumpkin](../images/botania_fel_pumpkin.png) |
+| S | String | ![string](../images/botania_mana_string.png) |
 
 ---
 ## {}
@@ -3148,11 +3148,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Dusts | ![mana_dusts](../images/botania_mana_dusts.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Nether Brick | ![nether_brick](../images/botania_nether_brick.png) |
-| - | Gunpowder | ![gunpowder](../images/botania_gunpowder.png) |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
+| - | Mana Dusts | ![mana_dusts](../images/botania_chiseled_mana_quartz_end.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Nether Brick | ![nether_brick](../images/botania_corporea_brick.png) |
+| - | Gunpowder | ![gunpowder](../images/botania_abstruse_platform.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -3160,9 +3160,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Magma Cream | ![magma_cream](../images/botania_magma_cream.png) |
-| - | Netherrack | ![netherrack](../images/botania_netherrack.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Magma Cream | ![magma_cream](../images/botania_abstruse_platform.png) |
+| - | Netherrack | ![netherrack](../images/botania_abstruse_platform.png) |
 
 ---
 ## Fire Rod
@@ -3170,7 +3170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
+| F | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
 | R | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
@@ -3180,7 +3180,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
+| B | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
 | C | Thorn Chakram | ![thorn_chakram](../images/botania_thorn_chakram.png) |
 | P | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 
@@ -3199,8 +3199,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| F | Feather | ![feather](../images/botania_feather.png) |
-| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| F | Feather | ![feather](../images/botania_abstruse_platform.png) |
+| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | L | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 
 ---
@@ -3272,7 +3272,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Agricarnation | ![agricarnation](../images/botania_agricarnation.png) |
 
 ---
@@ -3281,7 +3281,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Agricarnation Chibi | ![agricarnation_chibi](../images/botania_agricarnation_chibi.png) |
 
 ---
@@ -3290,7 +3290,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Bellethorn | ![bellethorn](../images/botania_bellethorn.png) |
 
 ---
@@ -3299,7 +3299,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Bellethorn Chibi | ![bellethorn_chibi](../images/botania_bellethorn_chibi.png) |
 
 ---
@@ -3308,7 +3308,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Bergamute | ![bergamute](../images/botania_bergamute.png) |
 
 ---
@@ -3317,7 +3317,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Bubbell | ![bubbell](../images/botania_bubbell.png) |
 
 ---
@@ -3326,7 +3326,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Bubbell Chibi | ![bubbell_chibi](../images/botania_bubbell_chibi.png) |
 
 ---
@@ -3335,7 +3335,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Clayconia | ![clayconia](../images/botania_clayconia.png) |
 
 ---
@@ -3344,7 +3344,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Clayconia Chibi | ![clayconia_chibi](../images/botania_clayconia_chibi.png) |
 
 ---
@@ -3353,7 +3353,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Daffomill | ![daffomill](../images/botania_daffomill.png) |
 
 ---
@@ -3362,7 +3362,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Dandelifeon | ![dandelifeon](../images/botania_dandelifeon.png) |
 
 ---
@@ -3371,7 +3371,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Dreadthorn | ![dreadthorn](../images/botania_dreadthorn.png) |
 
 ---
@@ -3380,7 +3380,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Endoflame | ![endoflame](../images/botania_endoflame.png) |
 
 ---
@@ -3389,7 +3389,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Entropinnyum | ![entropinnyum](../images/botania_entropinnyum.png) |
 
 ---
@@ -3398,7 +3398,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Exoflame | ![exoflame](../images/botania_exoflame.png) |
 
 ---
@@ -3407,7 +3407,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Fallen Kanade | ![fallen_kanade](../images/botania_fallen_kanade.png) |
 
 ---
@@ -3416,7 +3416,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Gourmaryllis | ![gourmaryllis](../images/botania_gourmaryllis.png) |
 
 ---
@@ -3425,7 +3425,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Heisei Dream | ![heisei_dream](../images/botania_heisei_dream.png) |
 
 ---
@@ -3434,7 +3434,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Hopperhock | ![hopperhock](../images/botania_hopperhock.png) |
 
 ---
@@ -3443,7 +3443,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Hopperhock Chibi | ![hopperhock_chibi](../images/botania_hopperhock_chibi.png) |
 
 ---
@@ -3452,7 +3452,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Hyacidus | ![hyacidus](../images/botania_hyacidus.png) |
 
 ---
@@ -3461,7 +3461,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Hydroangeas | ![hydroangeas](../images/botania_hydroangeas.png) |
 
 ---
@@ -3470,7 +3470,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Jaded Amaranthus | ![jaded_amaranthus](../images/botania_jaded_amaranthus.png) |
 
 ---
@@ -3479,7 +3479,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Jiyuulia | ![jiyuulia](../images/botania_jiyuulia.png) |
 
 ---
@@ -3488,7 +3488,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Jiyuulia Chibi | ![jiyuulia_chibi](../images/botania_jiyuulia_chibi.png) |
 
 ---
@@ -3497,7 +3497,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Kekimurus | ![kekimurus](../images/botania_kekimurus.png) |
 
 ---
@@ -3506,7 +3506,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Labellia | ![labellia](../images/botania_labellia.png) |
 
 ---
@@ -3515,7 +3515,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Loonium | ![loonium](../images/botania_loonium.png) |
 
 ---
@@ -3524,7 +3524,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Manastar | ![manastar](../images/botania_manastar.png) |
 
 ---
@@ -3533,7 +3533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Marimorphosis | ![marimorphosis](../images/botania_marimorphosis.png) |
 
 ---
@@ -3542,7 +3542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Marimorphosis Chibi | ![marimorphosis_chibi](../images/botania_marimorphosis_chibi.png) |
 
 ---
@@ -3551,7 +3551,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Medumone | ![medumone](../images/botania_medumone.png) |
 
 ---
@@ -3560,7 +3560,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Munchdew | ![munchdew](../images/botania_munchdew.png) |
 
 ---
@@ -3569,7 +3569,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Narslimmus | ![narslimmus](../images/botania_narslimmus.png) |
 
 ---
@@ -3578,7 +3578,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Orechid | ![orechid](../images/botania_orechid.png) |
 
 ---
@@ -3587,7 +3587,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Orechid Ignem | ![orechid_ignem](../images/botania_orechid_ignem.png) |
 
 ---
@@ -3596,7 +3596,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Pollidisiac | ![pollidisiac](../images/botania_pollidisiac.png) |
 
 ---
@@ -3605,7 +3605,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Pure Daisy | ![pure_daisy](../images/botania_pure_daisy.png) |
 
 ---
@@ -3614,7 +3614,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Rafflowsia | ![rafflowsia](../images/botania_rafflowsia.png) |
 
 ---
@@ -3623,7 +3623,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Rannuncarpus | ![rannuncarpus](../images/botania_rannuncarpus.png) |
 
 ---
@@ -3632,7 +3632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Rannuncarpus Chibi | ![rannuncarpus_chibi](../images/botania_rannuncarpus_chibi.png) |
 
 ---
@@ -3641,7 +3641,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Rosa Arcana | ![rosa_arcana](../images/botania_rosa_arcana.png) |
 
 ---
@@ -3650,7 +3650,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Shulk Me Not | ![shulk_me_not](../images/botania_shulk_me_not.png) |
 
 ---
@@ -3659,7 +3659,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Solegnolia | ![solegnolia](../images/botania_solegnolia.png) |
 
 ---
@@ -3668,7 +3668,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Solegnolia Chibi | ![solegnolia_chibi](../images/botania_solegnolia_chibi.png) |
 
 ---
@@ -3677,7 +3677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Spectranthemum | ![spectranthemum](../images/botania_spectranthemum.png) |
 
 ---
@@ -3686,7 +3686,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Spectrolus | ![spectrolus](../images/botania_spectrolus.png) |
 
 ---
@@ -3695,7 +3695,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Tangleberrie | ![tangleberrie](../images/botania_tangleberrie.png) |
 
 ---
@@ -3704,7 +3704,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Tangleberrie Chibi | ![tangleberrie_chibi](../images/botania_tangleberrie_chibi.png) |
 
 ---
@@ -3713,7 +3713,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Thermalily | ![thermalily](../images/botania_thermalily.png) |
 
 ---
@@ -3722,7 +3722,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Tigerseye | ![tigerseye](../images/botania_tigerseye.png) |
 
 ---
@@ -3731,7 +3731,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Floating Flowers | ![floating_flowers](../images/botania_floating_flowers.png) |
+| - | Floating Flowers | ![floating_flowers](../images/botania_abstruse_platform.png) |
 | - | Vinculotus | ![vinculotus](../images/botania_vinculotus.png) |
 
 ---
@@ -3747,8 +3747,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Petals | ![petals](../images/botania_petals.png) |
-| W | Wool | ![wool](../images/botania_wool.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
+| W | Wool | ![wool](../images/botania_abstruse_platform.png) |
 
 ---
 ## Forest Eye
@@ -3756,8 +3756,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| E | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -3767,7 +3767,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Light Relay | ![light_relay](../images/botania_light_relay.png) |
-| - | Redstone Torch | ![redstone_torch](../images/botania_redstone_torch.png) |
+| - | Redstone Torch | ![redstone_torch](../images/botania_animated_torch_glimmer.png) |
 
 ---
 ## Framed Dreamwood
@@ -3791,7 +3791,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | S | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 
 ---
@@ -3801,8 +3801,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
-| P | Mana Pylon | ![mana_pylon](../images/botania_mana_pylon.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
+| P | Mana Pylon | ![mana_pylon](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Gaia Spreader
@@ -3810,8 +3810,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Elven Spreader | ![elven_spreader](../images/botania_elven_spreader.png) |
-| - | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| - | Elven Spreader | ![elven_spreader](../images/botania_elven_spreader_back.png) |
+| - | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 | - | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 
 ---
@@ -3820,7 +3820,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Rail | ![rail](../images/botania_rail.png) |
+| - | Rail | ![rail](../images/botania_ghost_rail.png) |
 | - | Spectral Platform | ![spectral_platform](../images/botania_spectral_platform.png) |
 
 ---
@@ -3829,8 +3829,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/botania_glass.png) |
-| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| G | Glass | ![glass](../images/botania_corporea_crystal_cube_glass.png) |
+| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -3839,8 +3839,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dreamwood | ![dreamwood](../images/botania_dreamwood.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Dreamwood | ![dreamwood](../images/botania_dreamwood_log.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Dreamwood
@@ -3857,7 +3857,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dreamwood Log | ![dreamwood_log](../images/botania_dreamwood_log.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Livingwood
@@ -3865,8 +3865,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Livingwood | ![livingwood](../images/botania_livingwood.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Livingwood | ![livingwood](../images/botania_framed_livingwood.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Livingwood
@@ -3883,7 +3883,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Livingwood Log | ![livingwood_log](../images/botania_livingwood_log.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Stripped Dreamwood
@@ -3891,8 +3891,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_stripped_dreamwood.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_glimmering_stripped_dreamwood_log.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Stripped Dreamwood
@@ -3909,7 +3909,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Stripped Dreamwood Log | ![stripped_dreamwood_log](../images/botania_stripped_dreamwood_log.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Stripped Livingwood
@@ -3917,8 +3917,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Stripped Livingwood | ![stripped_livingwood](../images/botania_stripped_livingwood.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Stripped Livingwood | ![stripped_livingwood](../images/botania_glimmering_stripped_livingwood_log.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Glimmering Stripped Livingwood
@@ -3935,7 +3935,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Stripped Livingwood Log | ![stripped_livingwood_log](../images/botania_stripped_livingwood_log.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## {}
@@ -3971,8 +3971,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Winter | ![rune_winter](../images/botania_rune_winter.png) |
 | - | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 
@@ -3983,7 +3983,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Rune Water | ![rune_water](../images/botania_rune_water.png) |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | P | Petals/Pink | ![petals/pink](../images/botania_petals/pink.png) |
 | S | Rune Spring | ![rune_spring](../images/botania_rune_spring.png) |
 
@@ -3994,7 +3994,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| - | Wheat | ![wheat](../images/botania_wheat.png) |
+| - | Wheat | ![wheat](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -4058,9 +4058,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
-| W | Wheat | ![wheat](../images/botania_wheat.png) |
+| W | Wheat | ![wheat](../images/botania_abstruse_platform.png) |
 
 ---
 ## Gray Floating Flower
@@ -4068,7 +4068,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Gray Shiny Flower | ![gray_shiny_flower](../images/botania_gray_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -4086,7 +4086,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Gray Petal Block | ![gray_petal_block](../images/botania_gray_petal_block.png) |
+| - | Gray Petal Block | ![gray_petal_block](../images/botania_gray_petal.png) |
 
 ---
 ## Gray Shiny Flower
@@ -4094,8 +4094,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Gray Mystical Flower | ![gray_mystical_flower](../images/botania_gray_mystical_flower.png) |
 
 ---
@@ -4104,8 +4104,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Spring | ![rune_spring](../images/botania_rune_spring.png) |
 | - | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 
@@ -4115,7 +4115,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Green Shiny Flower | ![green_shiny_flower](../images/botania_green_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -4125,7 +4125,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Green Pavement Slab | ![green_pavement_slab](../images/botania_green_pavement_slab.png) |
+| Q | Green Pavement Slab | ![green_pavement_slab](../images/botania_green_pavement.png) |
 
 ---
 ## Green Pavement Slab
@@ -4173,7 +4173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Green Petal Block | ![green_petal_block](../images/botania_green_petal_block.png) |
+| - | Green Petal Block | ![green_petal_block](../images/botania_green_petal.png) |
 
 ---
 ## Green Shiny Flower
@@ -4181,8 +4181,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Green Mystical Flower | ![green_mystical_flower](../images/botania_green_mystical_flower.png) |
 
 ---
@@ -4198,9 +4198,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Sugar | ![sugar](../images/botania_sugar.png) |
-| - | Gold Nugget | ![gold_nugget](../images/botania_gold_nugget.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Sugar | ![sugar](../images/botania_abstruse_platform.png) |
+| - | Gold Nugget | ![gold_nugget](../images/botania_elementium_nugget.png) |
 
 ---
 ## {}
@@ -4208,11 +4208,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Skeleton Skull | ![skeleton_skull](../images/botania_skeleton_skull.png) |
+| - | Skeleton Skull | ![skeleton_skull](../images/botania_abstruse_platform.png) |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| - | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
-| - | Name Tag | ![name_tag](../images/botania_name_tag.png) |
-| - | Golden Apple | ![golden_apple](../images/botania_golden_apple.png) |
+| - | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
+| - | Name Tag | ![name_tag](../images/botania_abstruse_platform.png) |
+| - | Golden Apple | ![golden_apple](../images/botania_golden_grass_side.png) |
 
 ---
 ## {}
@@ -4220,9 +4220,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Glistering Melon Slice | ![glistering_melon_slice](../images/botania_glistering_melon_slice.png) |
-| - | Potato | ![potato](../images/botania_potato.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Glistering Melon Slice | ![glistering_melon_slice](../images/botania_abstruse_platform.png) |
+| - | Potato | ![potato](../images/botania_cosmetic_tiny_potato_mask.png) |
 
 ---
 ## {}
@@ -4243,9 +4243,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| G | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | S | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| W | White Wool | ![white_wool](../images/botania_white_wool.png) |
+| W | White Wool | ![white_wool](../images/botania_white_double_flower.png) |
 
 ---
 ## {}
@@ -4274,7 +4274,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## Horn Leaves
@@ -4283,7 +4283,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Horn Grass | ![horn_grass](../images/botania_horn_grass.png) |
-| - | Leaves | ![leaves](../images/botania_leaves.png) |
+| - | Leaves | ![leaves](../images/botania_horn_leaves.png) |
 
 ---
 ## Horn Snow
@@ -4292,7 +4292,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Horn Grass | ![horn_grass](../images/botania_horn_grass.png) |
-| - | Snowball | ![snowball](../images/botania_snowball.png) |
+| - | Snowball | ![snowball](../images/botania_abstruse_platform.png) |
 
 ---
 ## Hourglass
@@ -4300,10 +4300,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Gold Ingot | ![gold_ingot](../images/botania_gold_ingot.png) |
+| G | Gold Ingot | ![gold_ingot](../images/botania_elementium_ingot.png) |
 | M | Mana Glass | ![mana_glass](../images/botania_mana_glass.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## {}
@@ -4351,7 +4351,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | R | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
 | W | Rune Winter | ![rune_winter](../images/botania_rune_winter.png) |
@@ -4362,8 +4362,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Livingwood Slab | ![livingwood_slab](../images/botania_livingwood_slab.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| S | Livingwood Slab | ![livingwood_slab](../images/botania_corporea_slab_side.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## Incense Stick
@@ -4371,8 +4371,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
-| G | Ghast Tear | ![ghast_tear](../images/botania_ghast_tear.png) |
+| B | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
+| G | Ghast Tear | ![ghast_tear](../images/botania_abstruse_platform.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -4382,7 +4382,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| - | Prismarine Shard | ![prismarine_shard](../images/botania_prismarine_shard.png) |
+| - | Prismarine Shard | ![prismarine_shard](../images/botania_laputa_shard.png) |
 
 ---
 ## {}
@@ -4390,9 +4390,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Snowball | ![snowball](../images/botania_snowball.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Snowball | ![snowball](../images/botania_abstruse_platform.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Invisibility Cloak
@@ -4400,10 +4400,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
+| C | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
 | G | Mana Glass | ![mana_glass](../images/botania_mana_glass.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
-| W | White Wool | ![white_wool](../images/botania_white_wool.png) |
+| W | White Wool | ![white_wool](../images/botania_white_double_flower.png) |
 
 ---
 ## {}
@@ -4411,7 +4411,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Block | ![iron_block](../images/botania_iron_block.png) |
+| - | Iron Block | ![iron_block](../images/botania_blaze_block.png) |
 
 ---
 ## {}
@@ -4426,7 +4426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Iron Ingot | ![iron_ingot](../images/botania_iron_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/botania_elementium_ingot.png) |
 
 ---
 ## Itemfinder
@@ -4434,9 +4434,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Emerald | ![emerald](../images/botania_emerald.png) |
-| I | Iron Ingot | ![iron_ingot](../images/botania_iron_ingot.png) |
-| Y | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
+| E | Emerald | ![emerald](../images/botania_abstruse_platform.png) |
+| I | Iron Ingot | ![iron_ingot](../images/botania_elementium_ingot.png) |
+| Y | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
 
 ---
 ## {}
@@ -4476,9 +4476,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Feather | ![feather](../images/botania_feather.png) |
-| - | Carrot | ![carrot](../images/botania_carrot.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Feather | ![feather](../images/botania_abstruse_platform.png) |
+| - | Carrot | ![carrot](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -4531,8 +4531,8 @@
 | :--- | :--- | :--- |
 | A | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 | E | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
-| L | Leather | ![leather](../images/botania_leather.png) |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## {}
@@ -4563,10 +4563,10 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Rune Air | ![rune_air](../images/botania_rune_air.png) |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 | E | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
-| F | Mundane Floating Flowers | ![mundane_floating_flowers](../images/botania_mundane_floating_flowers.png) |
-| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
+| F | Mundane Floating Flowers | ![mundane_floating_flowers](../images/botania_abstruse_platform.png) |
+| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
 | S | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 
 ---
@@ -4582,7 +4582,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| D | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | F | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 | M | Rune Summer | ![rune_summer](../images/botania_rune_summer.png) |
 | S | Mana String | ![mana_string](../images/botania_mana_string.png) |
@@ -4608,7 +4608,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| Q | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Lavender Quartz Slab
@@ -4616,7 +4616,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| Q | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Lavender Quartz Stairs
@@ -4624,7 +4624,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| Q | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Chiseled Lavender Quartz
@@ -4632,7 +4632,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| item | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Lavender Quartz Pillar
@@ -4640,7 +4640,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| item | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Lavender Quartz Slab
@@ -4648,7 +4648,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| item | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Lavender Quartz Stairs
@@ -4656,7 +4656,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Lavender Quartz | ![lavender_quartz](../images/botania_lavender_quartz.png) |
+| item | Lavender Quartz | ![lavender_quartz](../images/botania_chiseled_lavender_quartz_end.png) |
 
 ---
 ## Lens Bounce
@@ -4708,7 +4708,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| - | Fire Charge | ![fire_charge](../images/botania_fire_charge.png) |
+| - | Fire Charge | ![fire_charge](../images/botania_fire_rod.png) |
 
 ---
 ## Lens Firework
@@ -4717,8 +4717,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| - | Firework Rocket | ![firework_rocket](../images/botania_firework_rocket.png) |
-| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| - | Firework Rocket | ![firework_rocket](../images/botania_lens_firework.png) |
+| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Lens Flare
@@ -4728,7 +4728,7 @@
 | :--- | :--- | :--- |
 | - | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
 | - | Elf Glass | ![elf_glass](../images/botania_elf_glass.png) |
-| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Lens Gravity
@@ -4746,7 +4746,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
+| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
 | R | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 
 ---
@@ -4755,8 +4755,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Fire Charge | ![fire_charge](../images/botania_fire_charge.png) |
-| G | Glowstone | ![glowstone](../images/botania_glowstone.png) |
+| F | Fire Charge | ![fire_charge](../images/botania_fire_rod.png) |
+| G | Glowstone | ![glowstone](../images/botania_abstruse_platform.png) |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
 
 ---
@@ -4765,8 +4765,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Fire Charge | ![fire_charge](../images/botania_fire_charge.png) |
-| G | Glowstone | ![glowstone](../images/botania_glowstone.png) |
+| F | Fire Charge | ![fire_charge](../images/botania_fire_rod.png) |
+| G | Glowstone | ![glowstone](../images/botania_abstruse_platform.png) |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
 
 ---
@@ -4776,8 +4776,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| - | Iron Ingot | ![iron_ingot](../images/botania_iron_ingot.png) |
-| - | Gold Ingot | ![gold_ingot](../images/botania_gold_ingot.png) |
+| - | Iron Ingot | ![iron_ingot](../images/botania_elementium_ingot.png) |
+| - | Gold Ingot | ![gold_ingot](../images/botania_elementium_ingot.png) |
 
 ---
 ## Lens Messenger
@@ -4786,7 +4786,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| P | Paper | ![paper](../images/botania_paper.png) |
+| P | Paper | ![paper](../images/botania_abstruse_platform.png) |
 
 ---
 ## Lens Mine
@@ -4794,10 +4794,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| A | Lapis Lazuli | ![lapis_lazuli](../images/botania_lapis_lazuli.png) |
+| A | Lapis Lazuli | ![lapis_lazuli](../images/botania_abstruse_platform.png) |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| P | Piston | ![piston](../images/botania_piston.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| P | Piston | ![piston](../images/botania_lens_piston.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Lens Normal
@@ -4805,8 +4805,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/botania_glass.png) |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| G | Glass | ![glass](../images/botania_corporea_crystal_cube_glass.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Lens Paint
@@ -4814,9 +4814,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| W | Wool | ![wool](../images/botania_wool.png) |
+| W | Wool | ![wool](../images/botania_abstruse_platform.png) |
 
 ---
 ## Lens Phantom
@@ -4852,8 +4852,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| - | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
-| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| - | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
+| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Lens Speed
@@ -4880,8 +4880,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| - | Tripwire Hook | ![tripwire_hook](../images/botania_tripwire_hook.png) |
-| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| - | Tripwire Hook | ![tripwire_hook](../images/botania_lens_tripwire.png) |
+| - | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Lens Warp
@@ -4899,7 +4899,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Lens Normal | ![lens_normal](../images/botania_lens_normal.png) |
-| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
+| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
 | R | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 
 ---
@@ -4908,8 +4908,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Saplings | ![saplings](../images/botania_saplings.png) |
-| - | Book | ![book](../images/botania_book.png) |
+| - | Saplings | ![saplings](../images/botania_abstruse_platform.png) |
+| - | Book | ![book](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -4924,7 +4924,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Light Blue Shiny Flower | ![light_blue_shiny_flower](../images/botania_light_blue_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -4942,7 +4942,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Blue Petal Block | ![light_blue_petal_block](../images/botania_light_blue_petal_block.png) |
+| - | Light Blue Petal Block | ![light_blue_petal_block](../images/botania_light_blue_petal.png) |
 
 ---
 ## Light Blue Shiny Flower
@@ -4950,8 +4950,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Light Blue Mystical Flower | ![light_blue_mystical_flower](../images/botania_light_blue_mystical_flower.png) |
 
 ---
@@ -4960,7 +4960,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Light Gray Shiny Flower | ![light_gray_shiny_flower](../images/botania_light_gray_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -4978,7 +4978,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Light Gray Petal Block | ![light_gray_petal_block](../images/botania_light_gray_petal_block.png) |
+| - | Light Gray Petal Block | ![light_gray_petal_block](../images/botania_light_gray_petal.png) |
 
 ---
 ## Light Gray Shiny Flower
@@ -4986,8 +4986,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Light Gray Mystical Flower | ![light_gray_mystical_flower](../images/botania_light_gray_mystical_flower.png) |
 
 ---
@@ -4996,7 +4996,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| D | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 | L | Light Relay | ![light_relay](../images/botania_light_relay.png) |
 
 ---
@@ -5006,9 +5006,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Red String | ![red_string](../images/botania_red_string.png) |
-| - | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## {}
@@ -5037,7 +5037,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Lime Shiny Flower | ![lime_shiny_flower](../images/botania_lime_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -5055,7 +5055,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Lime Petal Block | ![lime_petal_block](../images/botania_lime_petal_block.png) |
+| - | Lime Petal Block | ![lime_petal_block](../images/botania_lime_petal.png) |
 
 ---
 ## Lime Shiny Flower
@@ -5063,8 +5063,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Lime Mystical Flower | ![lime_mystical_flower](../images/botania_lime_mystical_flower.png) |
 
 ---
@@ -5073,7 +5073,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Livingrock Slab | ![livingrock_slab](../images/botania_livingrock_slab.png) |
+| Q | Livingrock Slab | ![livingrock_slab](../images/botania_polished_livingrock_slab.png) |
 
 ---
 ## Livingrock Bricks
@@ -5081,7 +5081,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Livingrock Bricks Slab | ![livingrock_bricks_slab](../images/botania_livingrock_bricks_slab.png) |
+| Q | Livingrock Bricks Slab | ![livingrock_bricks_slab](../images/botania_chiseled_livingrock_bricks.png) |
 
 ---
 ## Livingrock Bricks Slab
@@ -5265,7 +5265,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Livingwood Slab | ![livingwood_slab](../images/botania_livingwood_slab.png) |
+| Q | Livingwood Slab | ![livingwood_slab](../images/botania_corporea_slab_side.png) |
 
 ---
 ## Livingwood Bow
@@ -5283,7 +5283,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Livingwood Planks | ![livingwood_planks](../images/botania_livingwood_planks.png) |
-| S | Stick | ![stick](../images/botania_stick.png) |
+| S | Stick | ![stick](../images/botania_incense_stick.png) |
 
 ---
 ## Livingwood Fence Gate
@@ -5292,7 +5292,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Livingwood Planks | ![livingwood_planks](../images/botania_livingwood_planks.png) |
-| S | Stick | ![stick](../images/botania_stick.png) |
+| S | Stick | ![stick](../images/botania_incense_stick.png) |
 
 ---
 ## Livingwood Planks
@@ -5300,7 +5300,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Livingwood Planks Slab | ![livingwood_planks_slab](../images/botania_livingwood_planks_slab.png) |
+| Q | Livingwood Planks Slab | ![livingwood_planks_slab](../images/botania_livingwood_planks.png) |
 
 ---
 ## Livingwood Planks Slab
@@ -5324,7 +5324,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Livingwood | ![livingwood](../images/botania_livingwood.png) |
+| Q | Livingwood | ![livingwood](../images/botania_framed_livingwood.png) |
 
 ---
 ## Livingwood Stairs
@@ -5332,7 +5332,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Livingwood | ![livingwood](../images/botania_livingwood.png) |
+| Q | Livingwood | ![livingwood](../images/botania_framed_livingwood.png) |
 
 ---
 ## Livingwood Twig
@@ -5340,7 +5340,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## Livingwood Wall
@@ -5348,7 +5348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Livingwood | ![livingwood](../images/botania_livingwood.png) |
+| B | Livingwood | ![livingwood](../images/botania_framed_livingwood.png) |
 
 ---
 ## {}
@@ -5373,8 +5373,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Summer | ![rune_summer](../images/botania_rune_summer.png) |
 | - | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 
@@ -5384,7 +5384,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Magenta Shiny Flower | ![magenta_shiny_flower](../images/botania_magenta_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -5402,7 +5402,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Magenta Petal Block | ![magenta_petal_block](../images/botania_magenta_petal_block.png) |
+| - | Magenta Petal Block | ![magenta_petal_block](../images/botania_magenta_petal.png) |
 
 ---
 ## Magenta Shiny Flower
@@ -5410,8 +5410,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Magenta Mystical Flower | ![magenta_mystical_flower](../images/botania_magenta_mystical_flower.png) |
 
 ---
@@ -5421,7 +5421,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | L | Lens Magnet | ![lens_magnet](../images/botania_lens_magnet.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Magnet Ring Greater
@@ -5429,7 +5429,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | - | Magnet Ring | ![magnet_ring](../images/botania_magnet_ring.png) |
 
 ---
@@ -5438,11 +5438,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | - | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
 
 ---
@@ -5477,7 +5477,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -5493,7 +5493,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_blocks.png) |
+| - | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Boots
@@ -5501,7 +5501,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Chestplate
@@ -5509,7 +5509,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Ingot
@@ -5517,7 +5517,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Manasteel Nuggets | ![manasteel_nuggets](../images/botania_manasteel_nuggets.png) |
+| I | Manasteel Nuggets | ![manasteel_nuggets](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Helmet
@@ -5525,7 +5525,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Hoe
@@ -5533,7 +5533,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -5542,7 +5542,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Pick
@@ -5550,7 +5550,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -5559,7 +5559,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manasteel Shovel
@@ -5567,7 +5567,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -5576,7 +5576,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -5585,7 +5585,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Manaweave Boots
@@ -5634,8 +5634,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| L | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
-| T | Tnt | ![tnt](../images/botania_tnt.png) |
+| L | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
+| T | Tnt | ![tnt](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -5657,9 +5657,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
-| T | Target | ![target](../images/botania_target.png) |
+| T | Target | ![target](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -5682,7 +5682,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## Mana Fluxfield
@@ -5690,8 +5690,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| R | Redstone Block | ![redstone_block](../images/botania_redstone_block.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| R | Redstone Block | ![redstone_block](../images/botania_blaze_block.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -5715,11 +5715,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | M | Rune Mana | ![rune_mana](../images/botania_rune_mana.png) |
-| S | Redstone Spreader | ![redstone_spreader](../images/botania_redstone_spreader.png) |
-| T | Tnt | ![tnt](../images/botania_tnt.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| S | Redstone Spreader | ![redstone_spreader](../images/botania_redstone_spreader_back.png) |
+| T | Tnt | ![tnt](../images/botania_abstruse_platform.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## {}
@@ -5748,7 +5748,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 | S | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
@@ -5789,9 +5789,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| G | Gold Ingot | ![gold_ingot](../images/botania_gold_ingot.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| G | Gold Ingot | ![gold_ingot](../images/botania_elementium_ingot.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## {}
@@ -5813,7 +5813,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| Q | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Mana Quartz Slab
@@ -5821,7 +5821,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| Q | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Mana Quartz Stairs
@@ -5829,7 +5829,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| Q | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Chiseled Mana Quartz
@@ -5837,7 +5837,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| item | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Mana Quartz Pillar
@@ -5845,7 +5845,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| item | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Mana Quartz Slab
@@ -5853,7 +5853,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| item | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Mana Quartz Stairs
@@ -5861,7 +5861,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Mana Quartz | ![mana_quartz](../images/botania_mana_quartz.png) |
+| item | Mana Quartz | ![mana_quartz](../images/botania_chiseled_mana_quartz_end.png) |
 
 ---
 ## Mana Ring
@@ -5878,7 +5878,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | - | Mana Ring | ![mana_ring](../images/botania_mana_ring.png) |
 
 ---
@@ -5910,7 +5910,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| P | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -5919,7 +5919,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| O | Obsidian | ![obsidian](../images/botania_obsidian.png) |
+| O | Obsidian | ![obsidian](../images/botania_abstruse_platform.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -5990,7 +5990,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Desert Bricks Slab | ![metamorphic_desert_bricks_slab](../images/botania_metamorphic_desert_bricks_slab.png) |
+| Q | Metamorphic Desert Bricks Slab | ![metamorphic_desert_bricks_slab](../images/botania_chiseled_metamorphic_desert_bricks.png) |
 
 ---
 ## Metamorphic Desert Bricks Slab
@@ -6054,7 +6054,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Desert Cobblestone Slab | ![metamorphic_desert_cobblestone_slab](../images/botania_metamorphic_desert_cobblestone_slab.png) |
+| Q | Metamorphic Desert Cobblestone Slab | ![metamorphic_desert_cobblestone_slab](../images/botania_metamorphic_desert_cobblestone.png) |
 
 ---
 ## Metamorphic Desert Cobblestone Slab
@@ -6206,7 +6206,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Forest Bricks Slab | ![metamorphic_forest_bricks_slab](../images/botania_metamorphic_forest_bricks_slab.png) |
+| Q | Metamorphic Forest Bricks Slab | ![metamorphic_forest_bricks_slab](../images/botania_chiseled_metamorphic_forest_bricks.png) |
 
 ---
 ## Metamorphic Forest Bricks Slab
@@ -6270,7 +6270,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Forest Cobblestone Slab | ![metamorphic_forest_cobblestone_slab](../images/botania_metamorphic_forest_cobblestone_slab.png) |
+| Q | Metamorphic Forest Cobblestone Slab | ![metamorphic_forest_cobblestone_slab](../images/botania_metamorphic_forest_cobblestone.png) |
 
 ---
 ## Metamorphic Forest Cobblestone Slab
@@ -6422,7 +6422,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Fungal Bricks Slab | ![metamorphic_fungal_bricks_slab](../images/botania_metamorphic_fungal_bricks_slab.png) |
+| Q | Metamorphic Fungal Bricks Slab | ![metamorphic_fungal_bricks_slab](../images/botania_chiseled_metamorphic_fungal_bricks.png) |
 
 ---
 ## Metamorphic Fungal Bricks Slab
@@ -6486,7 +6486,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Fungal Cobblestone Slab | ![metamorphic_fungal_cobblestone_slab](../images/botania_metamorphic_fungal_cobblestone_slab.png) |
+| Q | Metamorphic Fungal Cobblestone Slab | ![metamorphic_fungal_cobblestone_slab](../images/botania_metamorphic_fungal_cobblestone.png) |
 
 ---
 ## Metamorphic Fungal Cobblestone Slab
@@ -6638,7 +6638,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Mesa Bricks Slab | ![metamorphic_mesa_bricks_slab](../images/botania_metamorphic_mesa_bricks_slab.png) |
+| Q | Metamorphic Mesa Bricks Slab | ![metamorphic_mesa_bricks_slab](../images/botania_chiseled_metamorphic_mesa_bricks.png) |
 
 ---
 ## Metamorphic Mesa Bricks Slab
@@ -6702,7 +6702,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Mesa Cobblestone Slab | ![metamorphic_mesa_cobblestone_slab](../images/botania_metamorphic_mesa_cobblestone_slab.png) |
+| Q | Metamorphic Mesa Cobblestone Slab | ![metamorphic_mesa_cobblestone_slab](../images/botania_metamorphic_mesa_cobblestone.png) |
 
 ---
 ## Metamorphic Mesa Cobblestone Slab
@@ -6854,7 +6854,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Mountain Bricks Slab | ![metamorphic_mountain_bricks_slab](../images/botania_metamorphic_mountain_bricks_slab.png) |
+| Q | Metamorphic Mountain Bricks Slab | ![metamorphic_mountain_bricks_slab](../images/botania_chiseled_metamorphic_mountain_bricks.png) |
 
 ---
 ## Metamorphic Mountain Bricks Slab
@@ -6918,7 +6918,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Mountain Cobblestone Slab | ![metamorphic_mountain_cobblestone_slab](../images/botania_metamorphic_mountain_cobblestone_slab.png) |
+| Q | Metamorphic Mountain Cobblestone Slab | ![metamorphic_mountain_cobblestone_slab](../images/botania_metamorphic_mountain_cobblestone.png) |
 
 ---
 ## Metamorphic Mountain Cobblestone Slab
@@ -7070,7 +7070,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Plains Bricks Slab | ![metamorphic_plains_bricks_slab](../images/botania_metamorphic_plains_bricks_slab.png) |
+| Q | Metamorphic Plains Bricks Slab | ![metamorphic_plains_bricks_slab](../images/botania_chiseled_metamorphic_plains_bricks.png) |
 
 ---
 ## Metamorphic Plains Bricks Slab
@@ -7134,7 +7134,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Plains Cobblestone Slab | ![metamorphic_plains_cobblestone_slab](../images/botania_metamorphic_plains_cobblestone_slab.png) |
+| Q | Metamorphic Plains Cobblestone Slab | ![metamorphic_plains_cobblestone_slab](../images/botania_metamorphic_plains_cobblestone.png) |
 
 ---
 ## Metamorphic Plains Cobblestone Slab
@@ -7286,7 +7286,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Swamp Bricks Slab | ![metamorphic_swamp_bricks_slab](../images/botania_metamorphic_swamp_bricks_slab.png) |
+| Q | Metamorphic Swamp Bricks Slab | ![metamorphic_swamp_bricks_slab](../images/botania_chiseled_metamorphic_swamp_bricks.png) |
 
 ---
 ## Metamorphic Swamp Bricks Slab
@@ -7350,7 +7350,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Swamp Cobblestone Slab | ![metamorphic_swamp_cobblestone_slab](../images/botania_metamorphic_swamp_cobblestone_slab.png) |
+| Q | Metamorphic Swamp Cobblestone Slab | ![metamorphic_swamp_cobblestone_slab](../images/botania_metamorphic_swamp_cobblestone.png) |
 
 ---
 ## Metamorphic Swamp Cobblestone Slab
@@ -7502,7 +7502,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Taiga Bricks Slab | ![metamorphic_taiga_bricks_slab](../images/botania_metamorphic_taiga_bricks_slab.png) |
+| Q | Metamorphic Taiga Bricks Slab | ![metamorphic_taiga_bricks_slab](../images/botania_chiseled_metamorphic_taiga_bricks.png) |
 
 ---
 ## Metamorphic Taiga Bricks Slab
@@ -7566,7 +7566,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Metamorphic Taiga Cobblestone Slab | ![metamorphic_taiga_cobblestone_slab](../images/botania_metamorphic_taiga_cobblestone_slab.png) |
+| Q | Metamorphic Taiga Cobblestone Slab | ![metamorphic_taiga_cobblestone_slab](../images/botania_metamorphic_taiga_cobblestone.png) |
 
 ---
 ## Metamorphic Taiga Cobblestone Slab
@@ -7719,8 +7719,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | E | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| P | Golden Pickaxe | ![golden_pickaxe](../images/botania_golden_pickaxe.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| P | Golden Pickaxe | ![golden_pickaxe](../images/botania_elementium_pickaxe.png) |
 
 ---
 ## Missile Rod
@@ -7728,7 +7728,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 | G | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 | T | Dreamwood Twig | ![dreamwood_twig](../images/botania_dreamwood_twig.png) |
 
@@ -7739,8 +7739,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | G | Mana Glass | ![mana_glass](../images/botania_mana_glass.png) |
-| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| N | Gold Nugget | ![gold_nugget](../images/botania_gold_nugget.png) |
+| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| N | Gold Nugget | ![gold_nugget](../images/botania_elementium_nugget.png) |
 
 ---
 ## Mossy Dreamwood Planks
@@ -7749,7 +7749,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dreamwood Planks | ![dreamwood_planks](../images/botania_dreamwood_planks.png) |
-| - | Moss Block | ![moss_block](../images/botania_moss_block.png) |
+| - | Moss Block | ![moss_block](../images/botania_blaze_block.png) |
 
 ---
 ## Mossy Dreamwood Planks
@@ -7758,7 +7758,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Dreamwood Planks | ![dreamwood_planks](../images/botania_dreamwood_planks.png) |
-| - | Vine | ![vine](../images/botania_vine.png) |
+| - | Vine | ![vine](../images/botania_vine_ball.png) |
 
 ---
 ## Mossy Livingrock Bricks
@@ -7767,7 +7767,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Livingrock Bricks | ![livingrock_bricks](../images/botania_livingrock_bricks.png) |
-| - | Moss Block | ![moss_block](../images/botania_moss_block.png) |
+| - | Moss Block | ![moss_block](../images/botania_blaze_block.png) |
 
 ---
 ## Mossy Livingrock Bricks Slab
@@ -7816,7 +7816,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Livingrock Bricks | ![livingrock_bricks](../images/botania_livingrock_bricks.png) |
-| - | Vine | ![vine](../images/botania_vine.png) |
+| - | Vine | ![vine](../images/botania_vine_ball.png) |
 
 ---
 ## Mossy Livingrock Bricks Wall
@@ -7833,7 +7833,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Livingwood Planks | ![livingwood_planks](../images/botania_livingwood_planks.png) |
-| - | Moss Block | ![moss_block](../images/botania_moss_block.png) |
+| - | Moss Block | ![moss_block](../images/botania_blaze_block.png) |
 
 ---
 ## Mossy Livingwood Planks
@@ -7842,7 +7842,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Livingwood Planks | ![livingwood_planks](../images/botania_livingwood_planks.png) |
-| - | Vine | ![vine](../images/botania_vine.png) |
+| - | Vine | ![vine](../images/botania_vine_ball.png) |
 
 ---
 ## {}
@@ -7863,8 +7863,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | White Dye | ![white_dye](../images/botania_white_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | White Dye | ![white_dye](../images/botania_white_double_flower.png) |
 
 ---
 ## Orange Mushroom
@@ -7872,8 +7872,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Orange Dye | ![orange_dye](../images/botania_orange_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Orange Dye | ![orange_dye](../images/botania_cosmetic_orange_shades.png) |
 
 ---
 ## Purple Mushroom
@@ -7881,8 +7881,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Purple Dye | ![purple_dye](../images/botania_purple_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Purple Dye | ![purple_dye](../images/botania_purple_double_flower.png) |
 
 ---
 ## Blue Mushroom
@@ -7890,8 +7890,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Blue Dye | ![blue_dye](../images/botania_blue_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Blue Dye | ![blue_dye](../images/botania_blue_double_flower.png) |
 
 ---
 ## Brown Mushroom
@@ -7899,8 +7899,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Brown Dye | ![brown_dye](../images/botania_brown_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Brown Dye | ![brown_dye](../images/botania_brown_double_flower.png) |
 
 ---
 ## Green Mushroom
@@ -7908,8 +7908,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Green Dye | ![green_dye](../images/botania_green_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Green Dye | ![green_dye](../images/botania_green_double_flower.png) |
 
 ---
 ## Red Mushroom
@@ -7917,8 +7917,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Red Dye | ![red_dye](../images/botania_red_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Red Dye | ![red_dye](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Black Mushroom
@@ -7926,8 +7926,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Black Dye | ![black_dye](../images/botania_black_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Black Dye | ![black_dye](../images/botania_black_double_flower.png) |
 
 ---
 ## Magenta Mushroom
@@ -7935,8 +7935,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Magenta Dye | ![magenta_dye](../images/botania_magenta_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Magenta Dye | ![magenta_dye](../images/botania_magenta_double_flower.png) |
 
 ---
 ## Light Blue Mushroom
@@ -7944,8 +7944,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Light Blue Dye | ![light_blue_dye](../images/botania_light_blue_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Light Blue Dye | ![light_blue_dye](../images/botania_light_blue_double_flower.png) |
 
 ---
 ## Yellow Mushroom
@@ -7953,8 +7953,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Yellow Dye | ![yellow_dye](../images/botania_yellow_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Yellow Dye | ![yellow_dye](../images/botania_yellow_double_flower.png) |
 
 ---
 ## Lime Mushroom
@@ -7962,8 +7962,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Lime Dye | ![lime_dye](../images/botania_lime_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Lime Dye | ![lime_dye](../images/botania_lime_double_flower.png) |
 
 ---
 ## Pink Mushroom
@@ -7971,8 +7971,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Pink Dye | ![pink_dye](../images/botania_pink_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Pink Dye | ![pink_dye](../images/botania_cosmetic_pink_flower_bud.png) |
 
 ---
 ## Gray Mushroom
@@ -7980,8 +7980,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Gray Dye | ![gray_dye](../images/botania_gray_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Gray Dye | ![gray_dye](../images/botania_gray_double_flower.png) |
 
 ---
 ## Light Gray Mushroom
@@ -7989,8 +7989,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Light Gray Dye | ![light_gray_dye](../images/botania_light_gray_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Light Gray Dye | ![light_gray_dye](../images/botania_light_gray_double_flower.png) |
 
 ---
 ## Cyan Mushroom
@@ -7998,8 +7998,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_mushroom'}].png) |
-| - | Cyan Dye | ![cyan_dye](../images/botania_cyan_dye.png) |
+| - | Brown Mushroom'}] | ![brown_mushroom'}]](../images/botania_brown_double_flower.png) |
+| - | Cyan Dye | ![cyan_dye](../images/botania_cyan_double_flower.png) |
 
 ---
 ## Mushroom Stew
@@ -8007,9 +8007,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Black Mushroom'}] | ![black_mushroom'}]](../images/botania_black_mushroom'}].png) |
-| - | Black Mushroom'}] | ![black_mushroom'}]](../images/botania_black_mushroom'}].png) |
-| - | Bowl | ![bowl](../images/botania_bowl.png) |
+| - | Black Mushroom'}] | ![black_mushroom'}]](../images/botania_black_double_flower.png) |
+| - | Black Mushroom'}] | ![black_mushroom'}]](../images/botania_black_double_flower.png) |
+| - | Bowl | ![bowl](../images/botania_water_bowl.png) |
 
 ---
 ## Mutated Seeds
@@ -8018,7 +8018,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| - | Spider Eye | ![spider_eye](../images/botania_spider_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/botania_cosmetic_clock_eye.png) |
 
 ---
 ## {}
@@ -8047,9 +8047,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
-| P | Mana Pylon | ![mana_pylon](../images/botania_mana_pylon.png) |
-| T | Terrasteel Nuggets | ![terrasteel_nuggets](../images/botania_terrasteel_nuggets.png) |
+| E | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
+| P | Mana Pylon | ![mana_pylon](../images/botania_chiseled_mana_quartz_end.png) |
+| T | Terrasteel Nuggets | ![terrasteel_nuggets](../images/botania_terrasteel_block.png) |
 
 ---
 ## {}
@@ -8089,9 +8089,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Spider Eye | ![spider_eye](../images/botania_spider_eye.png) |
-| - | Golden Carrot | ![golden_carrot](../images/botania_golden_carrot.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Spider Eye | ![spider_eye](../images/botania_cosmetic_clock_eye.png) |
+| - | Golden Carrot | ![golden_carrot](../images/botania_golden_grass_side.png) |
 
 ---
 ## {}
@@ -8120,7 +8120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -8136,7 +8136,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Open Crate
@@ -8152,7 +8152,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Orange Shiny Flower | ![orange_shiny_flower](../images/botania_orange_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -8170,7 +8170,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Orange Petal Block | ![orange_petal_block](../images/botania_orange_petal_block.png) |
+| - | Orange Petal Block | ![orange_petal_block](../images/botania_orange_petal.png) |
 
 ---
 ## Orange Shiny Flower
@@ -8178,8 +8178,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Orange Mystical Flower | ![orange_mystical_flower](../images/botania_orange_mystical_flower.png) |
 
 ---
@@ -8218,12 +8218,12 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
-| - | Sugar | ![sugar](../images/botania_sugar.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
+| - | Sugar | ![sugar](../images/botania_abstruse_platform.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Manasteel Ingot | ![manasteel_ingot](../images/botania_manasteel_ingot.png) |
-| - | Spider Eye | ![spider_eye](../images/botania_spider_eye.png) |
+| - | Spider Eye | ![spider_eye](../images/botania_cosmetic_clock_eye.png) |
 
 ---
 ## {}
@@ -8246,7 +8246,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 1 2
@@ -8255,7 +8255,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 1 3
@@ -8264,7 +8264,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 2 1
@@ -8273,7 +8273,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 2 2
@@ -8282,7 +8282,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 2 3
@@ -8291,7 +8291,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 3 1
@@ -8300,7 +8300,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern 3 2
@@ -8309,7 +8309,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern Donut
@@ -8318,7 +8318,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Placeholder | ![placeholder](../images/botania_placeholder.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Pattern Framed Dreamwood
@@ -8606,12 +8606,12 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
-| - | Black Dye'}] | ![black_dye'}]](../images/botania_black_dye'}].png) |
-| - | Black Stained Glass'}] | ![black_stained_glass'}]](../images/botania_black_stained_glass'}].png) |
-| - | Glass Bottle | ![glass_bottle](../images/botania_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/botania_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/botania_glass_bottle.png) |
-| - | Glass Bottle | ![glass_bottle](../images/botania_glass_bottle.png) |
+| - | Black Dye'}] | ![black_dye'}]](../images/botania_black_double_flower.png) |
+| - | Black Stained Glass'}] | ![black_stained_glass'}]](../images/botania_black_double_flower.png) |
+| - | Glass Bottle | ![glass_bottle](../images/botania_corporea_crystal_cube_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/botania_corporea_crystal_cube_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/botania_corporea_crystal_cube_glass.png) |
+| - | Glass Bottle | ![glass_bottle](../images/botania_corporea_crystal_cube_glass.png) |
 
 ---
 ## {}
@@ -8626,7 +8626,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Pink Shiny Flower | ![pink_shiny_flower](../images/botania_pink_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -8644,7 +8644,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Pink Petal Block | ![pink_petal_block](../images/botania_pink_petal_block.png) |
+| - | Pink Petal Block | ![pink_petal_block](../images/botania_petal_block.png) |
 
 ---
 ## Pink Shiny Flower
@@ -8652,8 +8652,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Pink Mystical Flower | ![pink_mystical_flower](../images/botania_pink_mystical_flower.png) |
 
 ---
@@ -8685,7 +8685,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | D | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Placeholder
@@ -8693,7 +8693,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crafting Table | ![crafting_table](../images/botania_crafting_table.png) |
+| - | Crafting Table | ![crafting_table](../images/botania_auto_crafting_halo.png) |
 | - | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -8819,8 +8819,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Minecart | ![minecart](../images/botania_minecart.png) |
-| - | Mana Pool | ![mana_pool](../images/botania_mana_pool.png) |
+| - | Minecart | ![minecart](../images/botania_pool_minecart.png) |
+| - | Mana Pool | ![mana_pool](../images/botania_mana_pool_bottom.png) |
 
 ---
 ## {}
@@ -8849,8 +8849,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Summer | ![rune_summer](../images/botania_rune_summer.png) |
 | - | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 
@@ -8860,8 +8860,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glass | ![glass](../images/botania_glass.png) |
-| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
+| G | Glass | ![glass](../images/botania_corporea_crystal_cube_glass.png) |
+| P | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
 | S | Spectral Platform | ![spectral_platform](../images/botania_spectral_platform.png) |
 
 ---
@@ -8877,8 +8877,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Bucket | ![bucket](../images/botania_bucket.png) |
-| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| B | Bucket | ![bucket](../images/botania_open_bucket.png) |
+| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -8905,7 +8905,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Purple Shiny Flower | ![purple_shiny_flower](../images/botania_purple_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -8923,7 +8923,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Purple Petal Block | ![purple_petal_block](../images/botania_purple_petal_block.png) |
+| - | Purple Petal Block | ![purple_petal_block](../images/botania_petal_block.png) |
 
 ---
 ## Purple Shiny Flower
@@ -8931,8 +8931,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Purple Mystical Flower | ![purple_mystical_flower](../images/botania_purple_mystical_flower.png) |
 
 ---
@@ -8941,8 +8941,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
-| Q | Quartz | ![quartz](../images/botania_quartz.png) |
+| C | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
+| Q | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Quartz Dark
@@ -8950,8 +8950,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Coal | ![coal](../images/botania_coal.png) |
-| Q | Quartz | ![quartz](../images/botania_quartz.png) |
+| C | Coal | ![coal](../images/botania_abstruse_platform.png) |
+| Q | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## {}
@@ -8973,8 +8973,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Allium | ![allium](../images/botania_allium.png) |
-| Q | Quartz | ![quartz](../images/botania_quartz.png) |
+| C | Allium | ![allium](../images/botania_abstruse_platform.png) |
+| Q | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Quartz Red
@@ -8982,8 +8982,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Redstone | ![redstone](../images/botania_redstone.png) |
-| Q | Quartz | ![quartz](../images/botania_quartz.png) |
+| C | Redstone | ![redstone](../images/botania_redstone_root.png) |
+| Q | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## Quartz Sunny
@@ -8991,8 +8991,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Sunflower | ![sunflower](../images/botania_sunflower.png) |
-| Q | Quartz | ![quartz](../images/botania_quartz.png) |
+| C | Sunflower | ![sunflower](../images/botania_abstruse_platform.png) |
+| Q | Quartz | ![quartz](../images/botania_blaze_quartz_bottom.png) |
 
 ---
 ## {}
@@ -9015,8 +9015,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | P | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 
 ---
@@ -9044,7 +9044,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | R | Rune Pride | ![rune_pride](../images/botania_rune_pride.png) |
 
 ---
@@ -9067,8 +9067,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Redstone | ![redstone](../images/botania_redstone.png) |
-| - | Grass'}] | ![grass'}]](../images/botania_grass'}].png) |
+| - | Redstone | ![redstone](../images/botania_redstone_root.png) |
+| - | Grass'}] | ![grass'}]](../images/botania_abstruse_platform.png) |
 
 ---
 ## Redstone Spreader
@@ -9076,8 +9076,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Spreader | ![mana_spreader](../images/botania_mana_spreader.png) |
-| - | Redstone | ![redstone](../images/botania_redstone.png) |
+| - | Mana Spreader | ![mana_spreader](../images/botania_mana_spreader_back.png) |
+| - | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## {}
@@ -9092,7 +9092,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Red Shiny Flower | ![red_shiny_flower](../images/botania_red_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -9102,7 +9102,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Red Pavement Slab | ![red_pavement_slab](../images/botania_red_pavement_slab.png) |
+| Q | Red Pavement Slab | ![red_pavement_slab](../images/botania_red_pavement.png) |
 
 ---
 ## Red Pavement Slab
@@ -9150,7 +9150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Red Petal Block | ![red_petal_block](../images/botania_red_petal_block.png) |
+| - | Red Petal Block | ![red_petal_block](../images/botania_petal_block.png) |
 
 ---
 ## Red Quartz
@@ -9173,7 +9173,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| Q | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Red Quartz Slab
@@ -9181,7 +9181,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| Q | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Red Quartz Stairs
@@ -9189,7 +9189,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| Q | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Chiseled Red Quartz
@@ -9197,7 +9197,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| item | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Red Quartz Pillar
@@ -9205,7 +9205,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| item | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Red Quartz Slab
@@ -9213,7 +9213,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| item | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Red Quartz Stairs
@@ -9221,7 +9221,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Red Quartz | ![red_quartz](../images/botania_red_quartz.png) |
+| item | Red Quartz | ![red_quartz](../images/botania_chiseled_red_quartz_end.png) |
 
 ---
 ## Red Shiny Flower
@@ -9229,8 +9229,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Red Mystical Flower | ![red_mystical_flower](../images/botania_red_mystical_flower.png) |
 
 ---
@@ -9239,8 +9239,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/botania_string.png) |
-| - | Redstone Block | ![redstone_block](../images/botania_redstone_block.png) |
+| - | String | ![string](../images/botania_mana_string.png) |
+| - | Redstone Block | ![redstone_block](../images/botania_blaze_block.png) |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 | - | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
 
@@ -9250,11 +9250,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | String | ![string](../images/botania_string.png) |
-| - | Redstone Block | ![redstone_block](../images/botania_redstone_block.png) |
+| - | String | ![string](../images/botania_mana_string.png) |
+| - | Redstone Block | ![redstone_block](../images/botania_blaze_block.png) |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 | - | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| - | Pumpkin | ![pumpkin](../images/botania_pumpkin.png) |
+| - | Pumpkin | ![pumpkin](../images/botania_fel_pumpkin.png) |
 
 ---
 ## Red String Comparator
@@ -9262,7 +9262,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Comparator | ![comparator](../images/botania_comparator.png) |
+| M | Comparator | ![comparator](../images/botania_red_string_comparator.png) |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 | S | Red String | ![red_string](../images/botania_red_string.png) |
 
@@ -9282,7 +9282,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Dispenser | ![dispenser](../images/botania_dispenser.png) |
+| M | Dispenser | ![dispenser](../images/botania_red_string_dispenser.png) |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 | S | Red String | ![red_string](../images/botania_red_string.png) |
 
@@ -9302,7 +9302,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Stone Button | ![stone_button](../images/botania_stone_button.png) |
+| M | Stone Button | ![stone_button](../images/botania_metamorphic_desert_stone.png) |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 | S | Red String | ![red_string](../images/botania_red_string.png) |
 
@@ -9312,7 +9312,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| M | Mana Spreader | ![mana_spreader](../images/botania_mana_spreader.png) |
+| M | Mana Spreader | ![mana_spreader](../images/botania_mana_spreader_back.png) |
 | R | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 | S | Red String | ![red_string](../images/botania_red_string.png) |
 
@@ -9329,9 +9329,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Ghast Tear | ![ghast_tear](../images/botania_ghast_tear.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Ghast Tear | ![ghast_tear](../images/botania_abstruse_platform.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## {}
@@ -9339,9 +9339,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Iron Ingot | ![iron_ingot](../images/botania_iron_ingot.png) |
-| - | Leather | ![leather](../images/botania_leather.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Iron Ingot | ![iron_ingot](../images/botania_elementium_ingot.png) |
+| - | Leather | ![leather](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -9385,7 +9385,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| P | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -9409,7 +9409,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| - | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
+| - | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
 
 ---
 ## Sextant
@@ -9417,7 +9417,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| I | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -9426,7 +9426,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Shimmerrock Slab | ![shimmerrock_slab](../images/botania_shimmerrock_slab.png) |
+| Q | Shimmerrock Slab | ![shimmerrock_slab](../images/botania_corporea_slab_side.png) |
 
 ---
 ## Shimmerrock Slab
@@ -9466,7 +9466,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Shimmerwood Planks Slab | ![shimmerwood_planks_slab](../images/botania_shimmerwood_planks_slab.png) |
+| Q | Shimmerwood Planks Slab | ![shimmerwood_planks_slab](../images/botania_shimmerwood_planks.png) |
 
 ---
 ## Shimmerwood Planks Slab
@@ -9515,9 +9515,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | G | Elf Glass | ![elf_glass](../images/botania_elf_glass.png) |
-| S | Slime Ball | ![slime_ball](../images/botania_slime_ball.png) |
+| S | Slime Ball | ![slime_ball](../images/botania_slime_bottle.png) |
 
 ---
 ## {}
@@ -9541,8 +9541,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Autumn | ![rune_autumn](../images/botania_rune_autumn.png) |
 | - | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 
@@ -9552,7 +9552,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Rod | ![blaze_rod](../images/botania_blaze_rod.png) |
+| B | Blaze Rod | ![blaze_rod](../images/botania_blaze_block.png) |
 | F | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
@@ -9595,11 +9595,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Soul Sand | ![soul_sand](../images/botania_soul_sand.png) |
-| - | Paper | ![paper](../images/botania_paper.png) |
-| - | Apple | ![apple](../images/botania_apple.png) |
-| - | Bone | ![bone](../images/botania_bone.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Soul Sand | ![soul_sand](../images/botania_abstruse_platform.png) |
+| - | Paper | ![paper](../images/botania_abstruse_platform.png) |
+| - | Apple | ![apple](../images/botania_abstruse_platform.png) |
+| - | Bone | ![bone](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -9614,9 +9614,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
-| N | Gold Nugget | ![gold_nugget](../images/botania_gold_nugget.png) |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| B | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
+| N | Gold Nugget | ![gold_nugget](../images/botania_elementium_nugget.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 
 ---
 ## Spark Changer
@@ -9624,8 +9624,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 | S | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 
 ---
@@ -9635,7 +9635,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | - | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 
 ---
@@ -9645,7 +9645,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | - | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
 
 ---
@@ -9655,7 +9655,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | - | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 
 ---
@@ -9665,7 +9665,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 | - | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
 
 ---
@@ -9674,11 +9674,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Rod | ![blaze_rod](../images/botania_blaze_rod.png) |
+| B | Blaze Rod | ![blaze_rod](../images/botania_blaze_block.png) |
 | E | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| M | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_blocks.png) |
-| P | Prismarine Bricks | ![prismarine_bricks](../images/botania_prismarine_bricks.png) |
-| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| M | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_axe.png) |
+| P | Prismarine Bricks | ![prismarine_bricks](../images/botania_chiseled_livingrock_bricks.png) |
+| S | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Spawner Mover
@@ -9687,9 +9687,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
 | E | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 
 ---
 ## Spectral Platform
@@ -9697,7 +9697,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| 0 | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_logs.png) |
+| 0 | Dreamwood Logs | ![dreamwood_logs](../images/botania_dreamwood_log.png) |
 | 3 | Framed Dreamwood | ![framed_dreamwood](../images/botania_framed_dreamwood.png) |
 | 4 | Pattern Framed Dreamwood | ![pattern_framed_dreamwood](../images/botania_pattern_framed_dreamwood.png) |
 | D | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
@@ -9742,9 +9742,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Sugar | ![sugar](../images/botania_sugar.png) |
-| - | Redstone | ![redstone](../images/botania_redstone.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Sugar | ![sugar](../images/botania_abstruse_platform.png) |
+| - | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## Speed Up Belt
@@ -9753,9 +9753,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | B | Travel Belt | ![travel_belt](../images/botania_travel_belt.png) |
-| M | Map | ![map](../images/botania_map.png) |
+| M | Map | ![map](../images/botania_abstruse_platform.png) |
 | P | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| S | Sugar | ![sugar](../images/botania_sugar.png) |
+| S | Sugar | ![sugar](../images/botania_abstruse_platform.png) |
 
 ---
 ## Spell Cloth
@@ -9788,10 +9788,10 @@
 | :--- | :--- | :--- |
 | - | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 | - | Rune Fire | ![rune_fire](../images/botania_rune_fire.png) |
-| - | Saplings | ![saplings](../images/botania_saplings.png) |
-| - | Saplings | ![saplings](../images/botania_saplings.png) |
-| - | Saplings | ![saplings](../images/botania_saplings.png) |
-| - | Wheat | ![wheat](../images/botania_wheat.png) |
+| - | Saplings | ![saplings](../images/botania_abstruse_platform.png) |
+| - | Saplings | ![saplings](../images/botania_abstruse_platform.png) |
+| - | Saplings | ![saplings](../images/botania_abstruse_platform.png) |
+| - | Wheat | ![wheat](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -9820,8 +9820,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
-| O | Obsidian | ![obsidian](../images/botania_obsidian.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
+| O | Obsidian | ![obsidian](../images/botania_abstruse_platform.png) |
 | P | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 
 ---
@@ -9831,8 +9831,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
-| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
+| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Terra Sword | ![terra_sword](../images/botania_terra_sword.png) |
 
 ---
@@ -9848,9 +9848,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Blaze Powder | ![blaze_powder](../images/botania_blaze_powder.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Blaze Powder | ![blaze_powder](../images/botania_blaze_block.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Stripped Dreamwood
@@ -9866,7 +9866,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_stripped_dreamwood.png) |
+| Q | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_glimmering_stripped_dreamwood_log.png) |
 
 ---
 ## Stripped Dreamwood Stairs
@@ -9874,7 +9874,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_stripped_dreamwood.png) |
+| Q | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_glimmering_stripped_dreamwood_log.png) |
 
 ---
 ## Stripped Dreamwood Wall
@@ -9882,7 +9882,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_stripped_dreamwood.png) |
+| B | Stripped Dreamwood | ![stripped_dreamwood](../images/botania_glimmering_stripped_dreamwood_log.png) |
 
 ---
 ## Stripped Livingwood
@@ -9898,7 +9898,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Stripped Livingwood | ![stripped_livingwood](../images/botania_stripped_livingwood.png) |
+| Q | Stripped Livingwood | ![stripped_livingwood](../images/botania_glimmering_stripped_livingwood_log.png) |
 
 ---
 ## Stripped Livingwood Stairs
@@ -9906,7 +9906,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Stripped Livingwood | ![stripped_livingwood](../images/botania_stripped_livingwood.png) |
+| Q | Stripped Livingwood | ![stripped_livingwood](../images/botania_glimmering_stripped_livingwood_log.png) |
 
 ---
 ## Stripped Livingwood Wall
@@ -9914,7 +9914,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Stripped Livingwood | ![stripped_livingwood](../images/botania_stripped_livingwood.png) |
+| B | Stripped Livingwood | ![stripped_livingwood](../images/botania_glimmering_stripped_livingwood_log.png) |
 
 ---
 ## {}
@@ -9924,10 +9924,10 @@
 | :--- | :--- | :--- |
 | - | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
 | - | Rune Air | ![rune_air](../images/botania_rune_air.png) |
-| - | Sand | ![sand](../images/botania_sand.png) |
-| - | Sand | ![sand](../images/botania_sand.png) |
-| - | Slime Ball | ![slime_ball](../images/botania_slime_ball.png) |
-| - | Melon Slice | ![melon_slice](../images/botania_melon_slice.png) |
+| - | Sand | ![sand](../images/botania_abstruse_platform.png) |
+| - | Sand | ![sand](../images/botania_abstruse_platform.png) |
+| - | Slime Ball | ![slime_ball](../images/botania_slime_bottle.png) |
+| - | Melon Slice | ![melon_slice](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -9957,7 +9957,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| Q | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Sunny Quartz Slab
@@ -9965,7 +9965,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| Q | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Sunny Quartz Stairs
@@ -9973,7 +9973,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| Q | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Chiseled Sunny Quartz
@@ -9981,7 +9981,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| item | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Sunny Quartz Pillar
@@ -9989,7 +9989,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| item | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Sunny Quartz Slab
@@ -9997,7 +9997,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| item | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Sunny Quartz Stairs
@@ -10005,7 +10005,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| item | Sunny Quartz | ![sunny_quartz](../images/botania_sunny_quartz.png) |
+| item | Sunny Quartz | ![sunny_quartz](../images/botania_chiseled_sunny_quartz_end.png) |
 
 ---
 ## Super Cloud Pendant
@@ -10013,10 +10013,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Ghast Tear | ![ghast_tear](../images/botania_ghast_tear.png) |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| B | Ghast Tear | ![ghast_tear](../images/botania_abstruse_platform.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | G | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| N | White Wool | ![white_wool](../images/botania_white_wool.png) |
+| N | White Wool | ![white_wool](../images/botania_white_double_flower.png) |
 | P | Cloud Pendant | ![cloud_pendant](../images/botania_cloud_pendant.png) |
 
 ---
@@ -10025,9 +10025,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Blaze Rod | ![blaze_rod](../images/botania_blaze_rod.png) |
+| B | Blaze Rod | ![blaze_rod](../images/botania_blaze_block.png) |
 | G | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| N | Nether Brick | ![nether_brick](../images/botania_nether_brick.png) |
+| N | Nether Brick | ![nether_brick](../images/botania_corporea_brick.png) |
 | P | Lava Pendant | ![lava_pendant](../images/botania_lava_pendant.png) |
 
 ---
@@ -10036,7 +10036,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| E | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | L | Life Essence | ![life_essence](../images/botania_life_essence.png) |
 | S | Travel Belt | ![travel_belt](../images/botania_travel_belt.png) |
 
@@ -10046,8 +10046,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Clay | ![clay](../images/botania_clay.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| C | Clay | ![clay](../images/botania_abstruse_platform.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## {}
@@ -10083,7 +10083,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | R | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
-| S | Stone | ![stone](../images/botania_stone.png) |
+| S | Stone | ![stone](../images/botania_metamorphic_desert_stone.png) |
 
 ---
 ## {}
@@ -10103,7 +10103,7 @@
 | M | Rune Summer | ![rune_summer](../images/botania_rune_summer.png) |
 | R | Dirt Rod | ![dirt_rod](../images/botania_dirt_rod.png) |
 | S | Rune Spring | ![rune_spring](../images/botania_rune_spring.png) |
-| T | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| T | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | W | Rune Winter | ![rune_winter](../images/botania_rune_winter.png) |
 
 ---
@@ -10112,7 +10112,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 
 ---
 ## Terrasteel Ingot
@@ -10120,7 +10120,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terrasteel Blocks | ![terrasteel_blocks](../images/botania_terrasteel_blocks.png) |
+| - | Terrasteel Blocks | ![terrasteel_blocks](../images/botania_terrasteel_block.png) |
 
 ---
 ## Terrasteel Boots
@@ -10130,7 +10130,7 @@
 | :--- | :--- | :--- |
 | A | Manasteel Boots | ![manasteel_boots](../images/botania_manasteel_boots.png) |
 | R | Rune Winter | ![rune_winter](../images/botania_rune_winter.png) |
-| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -10141,7 +10141,7 @@
 | :--- | :--- | :--- |
 | A | Manasteel Chestplate | ![manasteel_chestplate](../images/botania_manasteel_chestplate.png) |
 | R | Rune Summer | ![rune_summer](../images/botania_rune_summer.png) |
-| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -10150,7 +10150,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Terrasteel Nuggets | ![terrasteel_nuggets](../images/botania_terrasteel_nuggets.png) |
+| I | Terrasteel Nuggets | ![terrasteel_nuggets](../images/botania_terrasteel_block.png) |
 
 ---
 ## Terrasteel Helmet
@@ -10160,7 +10160,7 @@
 | :--- | :--- | :--- |
 | A | Manasteel Helmet | ![manasteel_helmet](../images/botania_manasteel_helmet.png) |
 | R | Rune Spring | ![rune_spring](../images/botania_rune_spring.png) |
-| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -10181,7 +10181,7 @@
 | :--- | :--- | :--- |
 | A | Manasteel Leggings | ![manasteel_leggings](../images/botania_manasteel_leggings.png) |
 | R | Rune Autumn | ![rune_autumn](../images/botania_rune_autumn.png) |
-| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| S | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -10190,7 +10190,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| - | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 
 ---
 ## Terra Axe
@@ -10198,9 +10198,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| G | Glowstone | ![glowstone](../images/botania_glowstone.png) |
+| G | Glowstone | ![glowstone](../images/botania_abstruse_platform.png) |
 | S | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
-| T | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| T | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 
 ---
 ## Terra Pick
@@ -10208,7 +10208,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | L | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 | T | Mana Tablet | ![mana_tablet](../images/botania_mana_tablet.png) |
 
@@ -10230,8 +10230,8 @@
 | 2 | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
 | 3 | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 | 8 | Rune Mana | ![rune_mana](../images/botania_rune_mana.png) |
-| L | Lapis Block | ![lapis_block](../images/botania_lapis_block.png) |
-| M | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_blocks.png) |
+| L | Lapis Block | ![lapis_block](../images/botania_blaze_block.png) |
+| M | Manasteel Blocks | ![manasteel_blocks](../images/botania_manasteel_axe.png) |
 
 ---
 ## Terra Sword
@@ -10239,7 +10239,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
+| I | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
 | S | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -10249,7 +10249,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | C | Manaweave Cloth | ![manaweave_cloth](../images/botania_manaweave_cloth.png) |
-| S | Sunflower | ![sunflower](../images/botania_sunflower.png) |
+| S | Sunflower | ![sunflower](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -10269,10 +10269,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| E | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
-| Q | Quartz Block | ![quartz_block](../images/botania_quartz_block.png) |
-| R | Golden Carrot | ![golden_carrot](../images/botania_golden_carrot.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| E | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
+| Q | Quartz Block | ![quartz_block](../images/botania_blaze_block.png) |
+| R | Golden Carrot | ![golden_carrot](../images/botania_golden_grass_side.png) |
 | S | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
 
 ---
@@ -10281,8 +10281,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| T | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_ingots.png) |
-| V | Vine | ![vine](../images/botania_vine.png) |
+| T | Terrasteel Ingots | ![terrasteel_ingots](../images/botania_terrasteel_block.png) |
+| V | Vine | ![vine](../images/botania_vine_ball.png) |
 
 ---
 ## Thunder Sword
@@ -10291,8 +10291,8 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | A | Ender Air Bottle | ![ender_air_bottle](../images/botania_ender_air_bottle.png) |
-| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_ingots.png) |
+| D | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| I | Elementium Ingots | ![elementium_ingots](../images/botania_elementium_axe.png) |
 | T | Terra Sword | ![terra_sword](../images/botania_terra_sword.png) |
 
 ---
@@ -10315,7 +10315,7 @@
 | :--- | :--- | :--- |
 | L | Livingrock | ![livingrock](../images/botania_livingrock.png) |
 | P | Mana Pearl | ![mana_pearl](../images/botania_mana_pearl.png) |
-| S | Stone | ![stone](../images/botania_stone.png) |
+| S | Stone | ![stone](../images/botania_metamorphic_desert_stone.png) |
 
 ---
 ## Tiny Planet Block
@@ -10324,7 +10324,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | P | Tiny Planet | ![tiny_planet](../images/botania_tiny_planet.png) |
-| S | Stone | ![stone](../images/botania_stone.png) |
+| S | Stone | ![stone](../images/botania_metamorphic_desert_stone.png) |
 
 ---
 ## {}
@@ -10340,7 +10340,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Light Relay | ![light_relay](../images/botania_light_relay.png) |
-| - | Lever | ![lever](../images/botania_lever.png) |
+| - | Lever | ![lever](../images/botania_abstruse_platform.png) |
 
 ---
 ## Tornado Rod
@@ -10348,7 +10348,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| F | Feather | ![feather](../images/botania_feather.png) |
+| F | Feather | ![feather](../images/botania_abstruse_platform.png) |
 | R | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
@@ -10360,8 +10360,8 @@
 | :--- | :--- | :--- |
 | A | Rune Air | ![rune_air](../images/botania_rune_air.png) |
 | E | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
-| L | Leather | ![leather](../images/botania_leather.png) |
-| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
+| L | Leather | ![leather](../images/botania_abstruse_platform.png) |
+| S | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
 
 ---
 ## {}
@@ -10383,8 +10383,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Sticky Piston | ![sticky_piston](../images/botania_sticky_piston.png) |
-| W | Livingwood Logs | ![livingwood_logs](../images/botania_livingwood_logs.png) |
+| P | Sticky Piston | ![sticky_piston](../images/botania_lens_piston.png) |
+| W | Livingwood Logs | ![livingwood_logs](../images/botania_framed_livingwood.png) |
 
 ---
 ## Twig Wand
@@ -10392,7 +10392,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| P | Petals | ![petals](../images/botania_petals.png) |
+| P | Petals | ![petals](../images/botania_abstruse_platform.png) |
 | S | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
 ---
@@ -10401,9 +10401,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| R | Redstone | ![redstone](../images/botania_redstone.png) |
+| R | Redstone | ![redstone](../images/botania_redstone_root.png) |
 | S | Life Essence | ![life_essence](../images/botania_life_essence.png) |
-| W | Black Wool | ![black_wool](../images/botania_black_wool.png) |
+| W | Black Wool | ![black_wool](../images/botania_black_double_flower.png) |
 
 ---
 ## {}
@@ -10442,7 +10442,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| V | Vine | ![vine](../images/botania_vine.png) |
+| V | Vine | ![vine](../images/botania_vine_ball.png) |
 
 ---
 ## {}
@@ -10459,10 +10459,10 @@
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 | - | Vine Ball | ![vine_ball](../images/botania_vine_ball.png) |
-| - | Magma Cream | ![magma_cream](../images/botania_magma_cream.png) |
-| - | Fermented Spider Eye | ![fermented_spider_eye](../images/botania_fermented_spider_eye.png) |
-| - | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
-| - | Zombie Head | ![zombie_head](../images/botania_zombie_head.png) |
+| - | Magma Cream | ![magma_cream](../images/botania_abstruse_platform.png) |
+| - | Fermented Spider Eye | ![fermented_spider_eye](../images/botania_cosmetic_clock_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
+| - | Zombie Head | ![zombie_head](../images/botania_gaia_head.png) |
 
 ---
 ## Virus Nullodermal
@@ -10472,10 +10472,10 @@
 | :--- | :--- | :--- |
 | - | Pixie Dust | ![pixie_dust](../images/botania_pixie_dust.png) |
 | - | Vine Ball | ![vine_ball](../images/botania_vine_ball.png) |
-| - | Magma Cream | ![magma_cream](../images/botania_magma_cream.png) |
-| - | Fermented Spider Eye | ![fermented_spider_eye](../images/botania_fermented_spider_eye.png) |
-| - | Ender Eye | ![ender_eye](../images/botania_ender_eye.png) |
-| - | Skeleton Skull | ![skeleton_skull](../images/botania_skeleton_skull.png) |
+| - | Magma Cream | ![magma_cream](../images/botania_abstruse_platform.png) |
+| - | Fermented Spider Eye | ![fermented_spider_eye](../images/botania_cosmetic_clock_eye.png) |
+| - | Ender Eye | ![ender_eye](../images/botania_ender_eye_block.png) |
+| - | Skeleton Skull | ![skeleton_skull](../images/botania_abstruse_platform.png) |
 
 ---
 ## Vivid Seeds
@@ -10484,7 +10484,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
-| - | Green Dye | ![green_dye](../images/botania_green_dye.png) |
+| - | Green Dye | ![green_dye](../images/botania_green_double_flower.png) |
 
 ---
 ## {}
@@ -10492,11 +10492,11 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Dusts | ![mana_dusts](../images/botania_mana_dusts.png) |
-| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| - | Bone Meal | ![bone_meal](../images/botania_bone_meal.png) |
-| - | Sugar Cane | ![sugar_cane](../images/botania_sugar_cane.png) |
-| - | Fishing Rod | ![fishing_rod](../images/botania_fishing_rod.png) |
+| - | Mana Dusts | ![mana_dusts](../images/botania_chiseled_mana_quartz_end.png) |
+| - | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| - | Bone Meal | ![bone_meal](../images/botania_abstruse_platform.png) |
+| - | Sugar Cane | ![sugar_cane](../images/botania_abstruse_platform.png) |
+| - | Fishing Rod | ![fishing_rod](../images/botania_cobble_rod.png) |
 
 ---
 ## {}
@@ -10504,9 +10504,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Prismarine Crystals | ![prismarine_crystals](../images/botania_prismarine_crystals.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Prismarine Crystals | ![prismarine_crystals](../images/botania_abstruse_platform.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 
 ---
 ## Water Ring
@@ -10514,10 +10514,10 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| C | Cod | ![cod](../images/botania_cod.png) |
-| H | Heart Of The Sea | ![heart_of_the_sea](../images/botania_heart_of_the_sea.png) |
-| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_ingots.png) |
-| P | Pufferfish | ![pufferfish](../images/botania_pufferfish.png) |
+| C | Cod | ![cod](../images/botania_abstruse_platform.png) |
+| H | Heart Of The Sea | ![heart_of_the_sea](../images/botania_abstruse_platform.png) |
+| M | Manasteel Ingots | ![manasteel_ingots](../images/botania_manasteel_axe.png) |
+| P | Pufferfish | ![pufferfish](../images/botania_abstruse_platform.png) |
 | W | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 
 ---
@@ -10526,7 +10526,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| B | Potion | ![potion](../images/botania_potion.png) |
+| B | Potion | ![potion](../images/botania_abstruse_platform.png) |
 | R | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 | T | Livingwood Twig | ![livingwood_twig](../images/botania_livingwood_twig.png) |
 
@@ -10536,9 +10536,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Nether Wart | ![nether_wart](../images/botania_nether_wart.png) |
-| - | Ghast Tear | ![ghast_tear](../images/botania_ghast_tear.png) |
-| - | Redstone | ![redstone](../images/botania_redstone.png) |
+| - | Nether Wart | ![nether_wart](../images/botania_abstruse_platform.png) |
+| - | Ghast Tear | ![ghast_tear](../images/botania_abstruse_platform.png) |
+| - | Redstone | ![redstone](../images/botania_redstone_root.png) |
 
 ---
 ## {}
@@ -10553,7 +10553,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | White Shiny Flower | ![white_shiny_flower](../images/botania_white_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -10563,7 +10563,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | White Pavement Slab | ![white_pavement_slab](../images/botania_white_pavement_slab.png) |
+| Q | White Pavement Slab | ![white_pavement_slab](../images/botania_white_pavement.png) |
 
 ---
 ## White Pavement Slab
@@ -10611,7 +10611,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | White Petal Block | ![white_petal_block](../images/botania_white_petal_block.png) |
+| - | White Petal Block | ![white_petal_block](../images/botania_petal_block.png) |
 
 ---
 ## White Shiny Flower
@@ -10619,8 +10619,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | White Mystical Flower | ![white_mystical_flower](../images/botania_white_mystical_flower.png) |
 
 ---
@@ -10638,10 +10638,10 @@
 | :--- | :--- | :--- |
 | - | Rune Water | ![rune_water](../images/botania_rune_water.png) |
 | - | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
-| - | Snow Block | ![snow_block](../images/botania_snow_block.png) |
-| - | Snow Block | ![snow_block](../images/botania_snow_block.png) |
-| - | Wool | ![wool](../images/botania_wool.png) |
-| - | Cake | ![cake](../images/botania_cake.png) |
+| - | Snow Block | ![snow_block](../images/botania_blaze_block.png) |
+| - | Snow Block | ![snow_block](../images/botania_blaze_block.png) |
+| - | Wool | ![wool](../images/botania_abstruse_platform.png) |
+| - | Cake | ![cake](../images/botania_abstruse_platform.png) |
 
 ---
 ## {}
@@ -10656,9 +10656,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone_gems.png) |
-| G | Grass Block | ![grass_block](../images/botania_grass_block.png) |
-| S | Wheat Seeds | ![wheat_seeds](../images/botania_wheat_seeds.png) |
+| D | Dragonstone Gems | ![dragonstone_gems](../images/botania_dragonstone.png) |
+| G | Grass Block | ![grass_block](../images/botania_blaze_block.png) |
+| S | Wheat Seeds | ![wheat_seeds](../images/botania_dry_seeds.png) |
 
 ---
 ## {}
@@ -10666,8 +10666,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
-| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond_gems.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
+| - | Mana Diamond Gems | ![mana_diamond_gems](../images/botania_mana_diamond.png) |
 | - | Rune Winter | ![rune_winter](../images/botania_rune_winter.png) |
 | - | Rune Earth | ![rune_earth](../images/botania_rune_earth.png) |
 
@@ -10677,7 +10677,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| D | Dirt | ![dirt](../images/botania_dirt.png) |
+| D | Dirt | ![dirt](../images/botania_dirt_rod.png) |
 | F | Yellow Shiny Flower | ![yellow_shiny_flower](../images/botania_yellow_shiny_flower.png) |
 | S | Grass Seeds | ![grass_seeds](../images/botania_grass_seeds.png) |
 
@@ -10687,7 +10687,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| Q | Yellow Pavement Slab | ![yellow_pavement_slab](../images/botania_yellow_pavement_slab.png) |
+| Q | Yellow Pavement Slab | ![yellow_pavement_slab](../images/botania_yellow_pavement.png) |
 
 ---
 ## Yellow Pavement Slab
@@ -10735,7 +10735,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Yellow Petal Block | ![yellow_petal_block](../images/botania_yellow_petal_block.png) |
+| - | Yellow Petal Block | ![yellow_petal_block](../images/botania_petal_block.png) |
 
 ---
 ## Yellow Shiny Flower
@@ -10743,8 +10743,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
-| - | Glowstone Dust | ![glowstone_dust](../images/botania_glowstone_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
+| - | Glowstone Dust | ![glowstone_dust](../images/botania_pixie_dust.png) |
 | - | Yellow Mystical Flower | ![yellow_mystical_flower](../images/botania_yellow_mystical_flower.png) |
 
 ---

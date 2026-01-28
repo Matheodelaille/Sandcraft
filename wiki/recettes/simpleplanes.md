@@ -7,8 +7,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/simpleplanes_iron_ingot.png) |
-| b | Iron Block | ![iron_block](../images/simpleplanes_iron_block.png) |
+| i | Iron Ingot | ![iron_ingot](../images/simpleplanes_armor.png) |
+| b | Iron Block | ![iron_block](../images/simpleplanes_armor.png) |
 
 ---
 ## Booster
@@ -17,7 +17,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | I | Ingots/Iron | ![ingots/iron](../images/simpleplanes_ingots/iron.png) |
-| F | Flint And Steel | ![flint_and_steel](../images/simpleplanes_flint_and_steel.png) |
+| F | Flint And Steel | ![flint_and_steel](../images/simpleplanes_armor.png) |
 
 ---
 ## Charging Station
@@ -26,9 +26,9 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | # | Gems/Lapis | ![gems/lapis](../images/simpleplanes_gems/lapis.png) |
-| L | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/simpleplanes_light_weighted_pressure_plate.png) |
+| L | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/simpleplanes_armor.png) |
 | g | Rods/Blaze | ![rods/blaze](../images/simpleplanes_rods/blaze.png) |
-| R | Obsidian | ![obsidian](../images/simpleplanes_obsidian.png) |
+| R | Obsidian | ![obsidian](../images/simpleplanes_armor.png) |
 | D | Dusts/Redstone | ![dusts/redstone](../images/simpleplanes_dusts/redstone.png) |
 
 ---
@@ -48,8 +48,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Slimeballs | ![slimeballs](../images/simpleplanes_slimeballs.png) |
-| C | Wool | ![wool](../images/simpleplanes_wool.png) |
+| S | Slimeballs | ![slimeballs](../images/simpleplanes_armor.png) |
+| C | Wool | ![wool](../images/simpleplanes_armor.png) |
 | I | Ingots/Iron | ![ingots/iron](../images/simpleplanes_ingots/iron.png) |
 
 ---
@@ -58,9 +58,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| s | Shulker Shell | ![shulker_shell](../images/simpleplanes_shulker_shell.png) |
+| s | Shulker Shell | ![shulker_shell](../images/simpleplanes_armor.png) |
 | d | Gems/Diamond | ![gems/diamond](../images/simpleplanes_gems/diamond.png) |
-| p | Piston | ![piston](../images/simpleplanes_piston.png) |
+| p | Piston | ![piston](../images/simpleplanes_armor.png) |
 
 ---
 ## Furnace Engine
@@ -71,8 +71,8 @@
 | i | Ingots/Iron | ![ingots/iron](../images/simpleplanes_ingots/iron.png) |
 | R | Propeller | ![propeller](../images/simpleplanes_propeller.png) |
 | Y | Dusts/Redstone | ![dusts/redstone](../images/simpleplanes_dusts/redstone.png) |
-| B | Blast Furnace | ![blast_furnace](../images/simpleplanes_blast_furnace.png) |
-| L | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/simpleplanes_light_weighted_pressure_plate.png) |
+| B | Blast Furnace | ![blast_furnace](../images/simpleplanes_furnace_engine.png) |
+| L | Light Weighted Pressure Plate | ![light_weighted_pressure_plate](../images/simpleplanes_armor.png) |
 
 ---
 ## Healing
@@ -80,8 +80,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/simpleplanes_iron_ingot.png) |
-| E | Golden Apple | ![golden_apple](../images/simpleplanes_golden_apple.png) |
+| i | Iron Ingot | ![iron_ingot](../images/simpleplanes_armor.png) |
+| E | Golden Apple | ![golden_apple](../images/simpleplanes_armor.png) |
 
 ---
 ## Healing
@@ -89,8 +89,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Block | ![iron_block](../images/simpleplanes_iron_block.png) |
-| E | Enchanted Golden Apple | ![enchanted_golden_apple](../images/simpleplanes_enchanted_golden_apple.png) |
+| i | Iron Block | ![iron_block](../images/simpleplanes_armor.png) |
+| E | Enchanted Golden Apple | ![enchanted_golden_apple](../images/simpleplanes_armor.png) |
 
 ---
 ## Helicopter
@@ -116,9 +116,9 @@
 | :--- | :--- | :--- |
 | i | Ingots/Iron | ![ingots/iron](../images/simpleplanes_ingots/iron.png) |
 | O | Propeller | ![propeller](../images/simpleplanes_propeller.png) |
-| B | Bucket | ![bucket](../images/simpleplanes_bucket.png) |
-| L | Blast Furnace | ![blast_furnace](../images/simpleplanes_blast_furnace.png) |
-| H | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/simpleplanes_heavy_weighted_pressure_plate.png) |
+| B | Bucket | ![bucket](../images/simpleplanes_armor.png) |
+| L | Blast Furnace | ![blast_furnace](../images/simpleplanes_furnace_engine.png) |
+| H | Heavy Weighted Pressure Plate | ![heavy_weighted_pressure_plate](../images/simpleplanes_armor.png) |
 | c | Ingots/Copper | ![ingots/copper](../images/simpleplanes_ingots/copper.png) |
 
 ---
@@ -127,8 +127,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| w | Wool | ![wool](../images/simpleplanes_wool.png) |
-| s | String | ![string](../images/simpleplanes_string.png) |
+| w | Wool | ![wool](../images/simpleplanes_armor.png) |
+| s | String | ![string](../images/simpleplanes_armor.png) |
 
 ---
 ## Plane
@@ -151,13 +151,13 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| # | Iron Axe | ![iron_axe](../images/simpleplanes_iron_axe.png) |
+| # | Iron Axe | ![iron_axe](../images/simpleplanes_armor.png) |
 | i | Ingots/Iron | ![ingots/iron](../images/simpleplanes_ingots/iron.png) |
-| I | Iron Pickaxe | ![iron_pickaxe](../images/simpleplanes_iron_pickaxe.png) |
-| O | Obsidian | ![obsidian](../images/simpleplanes_obsidian.png) |
+| I | Iron Pickaxe | ![iron_pickaxe](../images/simpleplanes_armor.png) |
+| O | Obsidian | ![obsidian](../images/simpleplanes_armor.png) |
 | G | Storage Blocks/Gold | ![storage_blocks/gold](../images/simpleplanes_storage_blocks/gold.png) |
 | R | Dusts/Redstone | ![dusts/redstone](../images/simpleplanes_dusts/redstone.png) |
-| C | Crafting Table | ![crafting_table](../images/simpleplanes_crafting_table.png) |
+| C | Crafting Table | ![crafting_table](../images/simpleplanes_armor.png) |
 
 ---
 ## Propeller
@@ -173,9 +173,9 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| S | Slimeballs | ![slimeballs](../images/simpleplanes_slimeballs.png) |
-| C | Planks | ![planks](../images/simpleplanes_planks.png) |
-| P | Phantom Membrane | ![phantom_membrane](../images/simpleplanes_phantom_membrane.png) |
+| S | Slimeballs | ![slimeballs](../images/simpleplanes_armor.png) |
+| C | Planks | ![planks](../images/simpleplanes_armor.png) |
+| P | Phantom Membrane | ![phantom_membrane](../images/simpleplanes_armor.png) |
 
 ---
 ## Shooter
@@ -183,8 +183,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Dispenser | ![dispenser](../images/simpleplanes_dispenser.png) |
-| - | Flint And Steel | ![flint_and_steel](../images/simpleplanes_flint_and_steel.png) |
+| - | Dispenser | ![dispenser](../images/simpleplanes_armor.png) |
+| - | Flint And Steel | ![flint_and_steel](../images/simpleplanes_armor.png) |
 
 ---
 ## Solar Panel
@@ -195,7 +195,7 @@
 | Q | Gems/Quartz | ![gems/quartz](../images/simpleplanes_gems/quartz.png) |
 | G | Glass/Colorless | ![glass/colorless](../images/simpleplanes_glass/colorless.png) |
 | W | Gems/Lapis | ![gems/lapis](../images/simpleplanes_gems/lapis.png) |
-| D | Daylight Detector | ![daylight_detector](../images/simpleplanes_daylight_detector.png) |
+| D | Daylight Detector | ![daylight_detector](../images/simpleplanes_armor.png) |
 
 ---
 ## Supply Crate
@@ -203,7 +203,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Barrel | ![barrel](../images/simpleplanes_barrel.png) |
+| - | Barrel | ![barrel](../images/simpleplanes_armor.png) |
 | - | Parachute | ![parachute](../images/simpleplanes_parachute.png) |
 
 ---
@@ -212,6 +212,6 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| i | Iron Ingot | ![iron_ingot](../images/simpleplanes_iron_ingot.png) |
+| i | Iron Ingot | ![iron_ingot](../images/simpleplanes_armor.png) |
 
 ---
