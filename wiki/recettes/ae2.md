@@ -3,8 +3,8 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
 ## 1K Crafting Storage
@@ -12,7 +12,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 | - | Cell Component 1K | ![cell_component_1k](../images/ae2_cell_component_1k.png) |
 
 ---
@@ -22,7 +22,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cell Component 256K | ![cell_component_256k](../images/ae2_cell_component_256k.png) |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
 ## 4K Crafting Storage
@@ -31,7 +31,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Cell Component 4K | ![cell_component_4k](../images/ae2_cell_component_4k.png) |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
 ## 64K Crafting Storage
@@ -39,7 +39,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 | - | Cell Component 64K | ![cell_component_64k](../images/ae2_cell_component_64k.png) |
 
 ---
@@ -720,7 +720,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
 ## Crafting Monitor
@@ -729,7 +729,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Storage Monitor | ![storage_monitor](../images/ae2_storage_monitor.png) |
-| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_unit.png) |
+| - | Crafting Unit | ![crafting_unit](../images/ae2_crafting_pattern.png) |
 
 ---
 ## Crafting Unit
@@ -1398,7 +1398,7 @@
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | b | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| c | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| c | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | d | Ingots/Copper | ![ingots/copper](../images/ae2_ingots/copper.png) |
 
 ---
@@ -1408,7 +1408,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 
 ---
 ## Fluid Storage Cell 1K
@@ -1944,7 +1944,7 @@
 | :--- | :--- | :--- |
 | a | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 | b | Dusts/Redstone | ![dusts/redstone](../images/ae2_dusts/redstone.png) |
-| c | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| c | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | d | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 
 ---
@@ -1953,7 +1953,7 @@
 
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
 
 ---
@@ -2087,7 +2087,7 @@
 | :--- | :--- | :--- |
 | a | Dusts/Glowstone | ![dusts/glowstone](../images/ae2_dusts/glowstone.png) |
 | b | Calculation Processor | ![calculation_processor](../images/ae2_calculation_processor.png) |
-| c | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| c | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | d | Quartz Glass | ![quartz_glass](../images/ae2_quartz_glass.png) |
 
 ---
@@ -2973,7 +2973,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chest | ![chest](../images/ae2_chest.png) |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Fluid Cell Housing | ![fluid_cell_housing](../images/ae2_fluid_cell_housing.png) |
 
@@ -3028,7 +3028,7 @@
 | Emplacement | Ingrédient | Icône |
 | :--- | :--- | :--- |
 | - | Chest | ![chest](../images/ae2_chest.png) |
-| - | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| - | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | - | Energy Cell | ![energy_cell](../images/ae2_energy_cell.png) |
 | - | Item Cell Housing | ![item_cell_housing](../images/ae2_item_cell_housing.png) |
 
@@ -3273,7 +3273,7 @@
 | a | Ingots/Iron | ![ingots/iron](../images/ae2_ingots/iron.png) |
 | b | Chest | ![chest](../images/ae2_chest.png) |
 | c | Fluix Glass Cable | ![fluix_glass_cable](../images/ae2_fluix_glass_cable.png) |
-| d | Cell Component 16K | ![cell_component_16k](../images/ae2_cell_component_16k.png) |
+| d | Cell Component 16K | ![cell_component_16k](../images/ae2_16k_cell_component.png) |
 | e | Engineering Processor | ![engineering_processor](../images/ae2_engineering_processor.png) |
 
 ---
